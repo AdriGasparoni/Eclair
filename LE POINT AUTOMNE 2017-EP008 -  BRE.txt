@@ -1,0 +1,3413 @@
+   1: 10:00:03.06 10:00:06.03  Durée 00:00:02.22  Lisibilité 43
+O Ponto
+
+   2: 10:00:08.09 10:00:09.15  Durée 00:00:01.06  Lisibilité 19
+Esta semana
+em# O Ponto,#
+
+   3: 10:00:10.16 10:00:13.03  Durée 00:00:02.12  Lisibilité 37
+o carro autônomo,
+um projeto realizável
+
+   4: 10:00:13.08 10:00:14.15  Durée 00:00:01.07  Lisibilité 19
+ou um sonho perigoso?
+
+   5: 10:00:15.15 10:00:16.23  Durée 00:00:01.08  Lisibilité 20
+E empresas que usam
+
+   6: 10:00:17.03 10:00:19.20  Durée 00:00:02.17  Lisibilité 40
+o Airbnb para alugar apartamentos
+ilegalmente.
+
+   7: 10:00:23.23 10:00:26.02  Durée 00:00:02.04  Lisibilité 32
+Olá.
+Sou Azeb Wolde-Giorghis.
+
+   8: 10:00:26.06 10:00:27.15  Durée 00:00:01.09  Lisibilité 20
+Bem-vindo a# O Ponto.#
+
+   9: 10:00:27.19 10:00:30.08  Durée 00:00:02.14  Lisibilité 38
+O carro autônomo
+está cada vez mais presente.
+
+  10: 10:00:30.12 10:00:32.05  Durée 00:00:01.18  Lisibilité 26
+Alguns já estão rodando.
+
+  11: 10:00:32.09 10:00:35.03  Durée 00:00:02.19  Lisibilité 41
+Ainda não podem substituir
+um condutor humano,
+
+  12: 10:00:35.07 10:00:39.00  Durée 00:00:03.18  Lisibilité 56
+mas já dão uma ideia
+do que poderá ser uma revolução.
+
+  13: 10:00:39.04 10:00:40.15  Durée 00:00:01.11  Lisibilité 22
+O carro sem condutor,
+
+  14: 10:00:40.19 10:00:43.05  Durée 00:00:02.11  Lisibilité 37
+um projeto realizável
+ou um sonho perigoso?
+
+  15: 10:00:43.09 10:00:46.00  Durée 00:00:02.16  Lisibilité 40
+Uma equipe do# Découverte#
+examinou a questão.
+
+  16: 10:00:46.05 10:00:49.10  Durée 00:00:03.05  Lisibilité 48
+Veículo sem condutor
+
+  17: 10:00:56.22 10:00:58.05  Durée 00:00:01.08  Lisibilité 20
+#A corrida começou.#
+
+  18: 10:01:01.08 10:01:04.07  Durée 00:00:02.24  Lisibilité 44
+#Os carros autônomos
+percorrem as ruas dos EUA,#
+
+  19: 10:01:04.12 10:01:07.07  Durée 00:00:02.20  Lisibilité 42
+#do Canadá, da Ásia e da Europa.#
+
+  20: 10:01:08.21 10:01:10.21  Durée 00:00:02.00  Lisibilité 30
+#Bilhões de dólares
+estão em jogo.#
+
+  21: 10:01:12.12 10:01:16.06  Durée 00:00:03.19  Lisibilité 56
+#O Google Car, hoje Waymo,
+teve um efeito catalisador.#
+
+  22: 10:01:18.18 10:01:22.01  Durée 00:00:03.08  Lisibilité 50
+#Lançados em 2009,
+seus carros-teste já percorreram#
+
+  23: 10:01:22.06 10:01:24.09  Durée 00:00:02.03  Lisibilité 32
+#mais de 5 milhões de quilômetros.#
+
+  24: 10:01:26.20 10:01:28.23  Durée 00:00:02.03  Lisibilité 32
+#John Krafcik, o CEO da Waymo,#
+
+  25: 10:01:29.02 10:01:32.06  Durée 00:00:03.04  Lisibilité 47
+#não deixa dúvidas sobre a ambição
+das montadoras.#
+
+  26: 10:01:32.11 10:01:34.19  Durée 00:00:02.08  Lisibilité 35
+Nossa meta é criar
+um melhor condutor.
+
+  27: 10:01:39.21 10:01:43.17  Durée 00:00:03.21  Lisibilité 58
+#Essa pretensão de construir
+"um melhor condutor" baseia-se#
+
+  28: 10:01:43.22 10:01:45.13  Durée 00:00:01.16  Lisibilité 25
+#no fato de que a cada ano#
+
+  29: 10:01:45.17 10:01:48.07  Durée 00:00:02.15  Lisibilité 39
+#mais de 1,2 milhão de pessoas
+morrem nas ruas.#
+
+  30: 10:01:48.12 10:01:52.01  Durée 00:00:03.14  Lisibilité 53
+#E a principal causa
+desses acidentes é o erro humano.#
+
+  31: 10:01:53.09 10:01:56.07  Durée 00:00:02.23  Lisibilité 44
+#Mensagens de texto,
+distração, cansaço,#
+
+  32: 10:01:56.11 10:01:59.03  Durée 00:00:02.17  Lisibilité 40
+#imprudência,
+faculdades debilitadas,#
+
+  33: 10:01:59.08 10:02:01.05  Durée 00:00:01.22  Lisibilité 28
+#comportamentos
+que os fabricantes#
+
+  34: 10:02:01.09 10:02:04.02  Durée 00:00:02.18  Lisibilité 41
+#prometem eliminar
+com o carro autônomo.#
+
+  35: 10:02:05.09 10:02:08.04  Durée 00:00:02.20  Lisibilité 42
+#Brandon Schoettle é pesquisador
+na Univ. do Michigan,#
+
+  36: 10:02:08.09 10:02:09.10  Durée 00:00:01.01  Lisibilité 16
+#nos EUA.#
+
+  37: 10:02:09.14 10:02:13.03  Durée 00:00:03.14  Lisibilité 53
+#Ele estuda a dimensão humana
+na condução de veículos.#
+
+  38: 10:02:15.12 10:02:19.07  Durée 00:00:03.20  Lisibilité 57
+Esse tipo de erro pode ser eliminado
+pela condução autônoma.
+
+  39: 10:02:19.11 10:02:22.21  Durée 00:00:03.10  Lisibilité 51
+E mesmo ainda não sabendo
+o que é um condutor perfeito,
+
+  40: 10:02:23.00 10:02:25.19  Durée 00:00:02.19  Lisibilité 41
+não há dúvida
+que podemos programar um veículo
+
+  41: 10:02:25.23 10:02:29.22  Durée 00:00:03.24  Lisibilité 59
+para obedecer às leis
+sem multiplicar esses erros humanos.
+
+  42: 10:02:35.09 10:02:37.15  Durée 00:00:02.06  Lisibilité 34
+#Para preencher nossas lacunas,
+os carros já#
+
+  43: 10:02:37.20 10:02:40.02  Durée 00:00:02.07  Lisibilité 34
+#começaram a integrar,
+em 10 anos,#
+
+  44: 10:02:40.07 10:02:42.12  Durée 00:00:02.05  Lisibilité 33
+#sistemas de auxílio à condução.#
+
+  45: 10:02:43.23 10:02:45.06  Durée 00:00:01.08  Lisibilité 20
+#Câmera de ré.#
+
+  46: 10:02:46.10 10:02:47.17  Durée 00:00:01.07  Lisibilité 19
+#Freios antibloqueio.#
+
+  47: 10:02:48.18 10:02:50.05  Durée 00:00:01.12  Lisibilité 22
+#Detector de ângulos mortos.#
+
+  48: 10:02:51.09 10:02:53.15  Durée 00:00:02.06  Lisibilité 34
+#Regulador de velocidade.#
+
+  49: 10:02:54.19 10:02:56.14  Durée 00:00:01.20  Lisibilité 27
+#Assistente
+de faixa de rodagem.#
+
+  50: 10:02:56.19 10:02:59.19  Durée 00:00:03.00  Lisibilité 45
+#São os primeiros passos
+para o carro autônomo.#
+
+  51: 10:03:01.24 10:03:03.11  Durée 00:00:01.12  Lisibilité 22
+#Denis Gingras é professor#
+
+  52: 10:03:03.16 10:03:05.22  Durée 00:00:02.06  Lisibilité 34
+#e pesquisador
+na Univ. de Sherbrooke.#
+
+  53: 10:03:06.02 10:03:09.03  Durée 00:00:03.01  Lisibilité 46
+#Ele observa o desenvolvimento
+da indústria desde o início.#
+
+  54: 10:03:10.13 10:03:13.08  Durée 00:00:02.20  Lisibilité 42
+Há uma convergência
+que agora nos faz poder
+
+  55: 10:03:13.12 10:03:15.15  Durée 00:00:02.03  Lisibilité 32
+desenvolver sistemas complexos
+
+  56: 10:03:15.19 10:03:17.12  Durée 00:00:01.18  Lisibilité 26
+embarcados nos veículos
+
+  57: 10:03:17.16 10:03:22.00  Durée 00:00:04.09  Lisibilité 65
+e que permitem tratar
+em tempo real as informações
+
+  58: 10:03:22.04 10:03:25.22  Durée 00:00:03.18  Lisibilité 56
+nesse tipo de aplicação que é,
+na verdade, bem dinâmica.
+
+  59: 10:03:28.19 10:03:32.07  Durée 00:00:03.13  Lisibilité 53
+#Hoje, um carro autônomo
+é um computador sobre 4 rodas.#
+
+  60: 10:03:32.23 10:03:35.09  Durée 00:00:02.11  Lisibilité 37
+#Em geral ele é equipado de GPS#
+
+  61: 10:03:35.13 10:03:36.19  Durée 00:00:01.06  Lisibilité 19
+#para se posicionar,#
+
+  62: 10:03:37.12 10:03:39.11  Durée 00:00:01.24  Lisibilité 29
+#de radares e ultrassom#
+
+  63: 10:03:39.15 10:03:41.18  Durée 00:00:02.03  Lisibilité 32
+#para avaliar
+distâncias dos objetos,#
+
+  64: 10:03:42.10 10:03:45.05  Durée 00:00:02.20  Lisibilité 42
+#de câmeras para ver a rua
+e o que está nela,#
+
+  65: 10:03:46.05 10:03:50.01  Durée 00:00:03.21  Lisibilité 58
+#de LIDAR para captar com precisão
+e reconstituir em 3D#
+
+  66: 10:03:50.05 10:03:51.07  Durée 00:00:01.02  Lisibilité 16
+#o que o cerca,#
+
+  67: 10:03:52.05 10:03:56.04  Durée 00:00:03.24  Lisibilité 59
+#e, é claro, de sistemas
+digitais para controlar a condução.#
+
+  68: 10:03:58.09 10:04:01.17  Durée 00:00:03.08  Lisibilité 50
+#Esses equipamentos são os olhos
+e os ouvidos do carro,#
+
+  69: 10:04:01.22 10:04:04.14  Durée 00:00:02.17  Lisibilité 40
+#o que lhe permite
+perceber seu ambiente.#
+
+  70: 10:04:05.15 10:04:08.17  Durée 00:00:03.02  Lisibilité 46
+#Classificar os objetos no caminho
+é um desafio,#
+
+  71: 10:04:09.03 10:04:10.04  Durée 00:00:01.01  Lisibilité 16
+#mas não o único.#
+
+  72: 10:04:11.12 10:04:14.18  Durée 00:00:03.06  Lisibilité 49
+Eu diria que o maior desafio
+no momento
+
+  73: 10:04:14.22 10:04:17.09  Durée 00:00:02.12  Lisibilité 37
+é a inteligência artificial
+a bordo.
+
+  74: 10:04:17.14 10:04:21.05  Durée 00:00:03.16  Lisibilité 55
+É realmente no âmbito
+da tomada de decisão,
+
+  75: 10:04:21.10 10:04:24.10  Durée 00:00:03.00  Lisibilité 45
+do cálculo de risco em tempo real.
+
+  76: 10:04:26.21 10:04:29.17  Durée 00:00:02.21  Lisibilité 43
+E há aspectos
+da inteligência humana
+
+  77: 10:04:29.21 10:04:33.13  Durée 00:00:03.17  Lisibilité 55
+que temos mais dificuldades
+para realizar de modo artificial.
+
+  78: 10:04:36.16 10:04:39.20  Durée 00:00:03.04  Lisibilité 47
+#Para entender os desafios
+que as montadoras enfrentam,#
+
+  79: 10:04:40.00 10:04:43.06  Durée 00:00:03.06  Lisibilité 49
+#fomos a Dearborn,
+perto de Detroit, à Ford,#
+
+  80: 10:04:43.21 10:04:46.04  Durée 00:00:02.08  Lisibilité 35
+#para conversar com James McBride.#
+
+  81: 10:04:46.13 10:04:49.14  Durée 00:00:03.01  Lisibilité 46
+#Ele pilota o desenvolvimento técnico
+do carro autônomo.#
+
+  82: 10:04:52.12 10:04:55.04  Durée 00:00:02.17  Lisibilité 40
+#A Ford entrou na corrida
+há alguns anos.#
+
+  83: 10:04:55.08 10:04:56.14  Durée 00:00:01.06  Lisibilité 19
+#Seus carros
+são testados#
+
+  84: 10:04:56.18 10:04:59.05  Durée 00:00:02.12  Lisibilité 37
+#em diversas pistas
+e estradas dos EUA.#
+
+  85: 10:05:00.11 10:05:03.07  Durée 00:00:02.21  Lisibilité 43
+#Seus carros são capazes
+de perceber o ambiente,#
+
+  86: 10:05:03.11 10:05:06.12  Durée 00:00:03.01  Lisibilité 46
+#de se manter na faixa
+e de parar nos cruzamentos.#
+
+  87: 10:05:06.16 10:05:09.00  Durée 00:00:02.09  Lisibilité 35
+#Mas há outras situações,
+em aparência simples,#
+
+  88: 10:05:09.04 10:05:12.19  Durée 00:00:03.15  Lisibilité 54
+#bem mais difíceis de controlar
+para um carro autônomo.#
+
+  89: 10:05:14.10 10:05:17.21  Durée 00:00:03.11  Lisibilité 52
+Se me perguntar que tipo de desafio
+noa resta a superar,
+
+  90: 10:05:18.00 10:05:21.04  Durée 00:00:03.04  Lisibilité 47
+eu diria os detritos da via
+em grande velocidade.
+
+  91: 10:05:23.24 10:05:26.10  Durée 00:00:02.11  Lisibilité 37
+Nós passamos tranquilamente
+sobre um saco,
+
+  92: 10:05:26.14 10:05:28.12  Durée 00:00:01.23  Lisibilité 29
+mas certamente não um tijolo.
+
+  93: 10:05:30.07 10:05:32.16  Durée 00:00:02.09  Lisibilité 35
+Diferenciar um objeto duro
+de um mole 
+
+  94: 10:05:32.20 10:05:34.14  Durée 00:00:01.19  Lisibilité 26
+ainda é um desafio.
+
+  95: 10:05:39.10 10:05:41.14  Durée 00:00:02.04  Lisibilité 32
+#Um humano sabe por experiência#
+
+  96: 10:05:41.18 10:05:44.11  Durée 00:00:02.18  Lisibilité 41
+#que um saco não põe
+sua segurança em perigo,#
+
+  97: 10:05:44.16 10:05:48.04  Durée 00:00:03.13  Lisibilité 53
+#que um pássaro no caminho
+voa quando nos aproximamos.#
+
+  98: 10:05:48.16 10:05:50.18  Durée 00:00:02.02  Lisibilité 31
+#Para o carro, não é óbvio.#
+
+  99: 10:05:50.22 10:05:52.09  Durée 00:00:01.12  Lisibilité 22
+#Temos de lhe ensinar.#
+
+ 100: 10:05:54.13 10:05:56.14  Durée 00:00:02.01  Lisibilité 31
+Quanto melhor for
+em classificar objetos
+
+ 101: 10:05:56.18 10:05:58.16  Durée 00:00:01.23  Lisibilité 29
+e entender o contexto da cena,
+
+ 102: 10:05:58.20 10:06:01.14  Durée 00:00:02.19  Lisibilité 41
+mais você se aproxima
+da condução humana.
+
+ 103: 10:06:03.16 10:06:07.22  Durée 00:00:04.06  Lisibilité 64
+Mas atualmente, paramos
+diante de quase tudo no caminho.
+
+ 104: 10:06:10.02 10:06:12.07  Durée 00:00:02.05  Lisibilité 33
+#É preciso também ensinar o carro#
+
+ 105: 10:06:12.12 10:06:14.08  Durée 00:00:01.21  Lisibilité 28
+#a administrar situações raras,#
+
+ 106: 10:06:14.12 10:06:17.01  Durée 00:00:02.14  Lisibilité 38
+#as que só surgem
+de vez em quando.#
+
+ 107: 10:06:18.14 10:06:20.08  Durée 00:00:01.19  Lisibilité 26
+#Como reagir, por exemplo,#
+
+ 108: 10:06:20.12 10:06:23.04  Durée 00:00:02.17  Lisibilité 40
+#numa situação
+onde há um policial na rua#
+
+ 109: 10:06:23.08 10:06:26.04  Durée 00:00:02.21  Lisibilité 43
+#diante de um sinal verde
+mandando você parar?#
+
+ 110: 10:06:27.08 10:06:29.04  Durée 00:00:01.21  Lisibilité 28
+#Michael James desenvolve#
+
+ 111: 10:06:29.08 10:06:31.10  Durée 00:00:02.02  Lisibilité 31
+#o carro autônomo da Toyota.#
+
+ 112: 10:06:32.19 10:06:34.23  Durée 00:00:02.04  Lisibilité 32
+O sinal do policial contradiz
+
+ 113: 10:06:35.02 10:06:37.05  Durée 00:00:02.03  Lisibilité 32
+o que o sinal de tráfego indica.
+
+ 114: 10:06:37.09 10:06:40.07  Durée 00:00:02.23  Lisibilité 44
+É uma situação ambígua
+para um carro autônomo.
+
+ 115: 10:06:41.16 10:06:43.12  Durée 00:00:01.21  Lisibilité 28
+Qual dos dois é prioritário?
+
+ 116: 10:06:43.16 10:06:45.19  Durée 00:00:02.03  Lisibilité 32
+A quem devo dirigir
+minha atenção?
+
+ 117: 10:06:45.23 10:06:48.06  Durée 00:00:02.08  Lisibilité 35
+Como programar o carro
+para entender a cena
+
+ 118: 10:06:48.10 10:06:49.19  Durée 00:00:01.09  Lisibilité 20
+e decidir o certo?
+
+ 119: 10:06:49.23 10:06:51.11  Durée 00:00:01.13  Lisibilité 23
+É um grande desafio.
+
+ 120: 10:06:51.16 10:06:54.02  Durée 00:00:02.11  Lisibilité 37
+OK, Delphine.
+Vou lhe dar óculos
+
+ 121: 10:06:54.06 10:06:56.01  Durée 00:00:01.20  Lisibilité 27
+com que seguiremos seu olhar.
+
+ 122: 10:06:56.05 10:06:59.02  Durée 00:00:02.22  Lisibilité 43
+#Para resolver esse problema,
+é preciso entender#
+
+ 123: 10:06:59.06 10:07:02.17  Durée 00:00:03.11  Lisibilité 52
+#como o cérebro do condutor
+administra essas situações.#
+
+ 124: 10:07:02.21 10:07:05.01  Durée 00:00:02.05  Lisibilité 33
+#Delphine vai pegar no volante.#
+
+ 125: 10:07:05.05 10:07:08.11  Durée 00:00:03.06  Lisibilité 49
+Queremos que você dirija
+como faria normalmente,
+
+ 126: 10:07:08.15 10:07:10.12  Durée 00:00:01.22  Lisibilité 28
+respeitando
+o limite de velocidade.
+
+ 127: 10:07:14.22 10:07:18.01  Durée 00:00:03.04  Lisibilité 47
+#Romain Chaumillon estuda
+a carga cognitiva dos condutores#
+
+ 128: 10:07:18.05 10:07:21.04  Durée 00:00:02.24  Lisibilité 44
+#no Laboratório de Psicofísica
+e Percepção Visual#
+
+ 129: 10:07:21.08 10:07:23.03  Durée 00:00:01.20  Lisibilité 27
+#da Universidade de Montreal.#
+
+ 130: 10:07:28.16 10:07:30.20  Durée 00:00:02.04  Lisibilité 32
+#Cada participante do teste
+submete-se#
+
+ 131: 10:07:30.24 10:07:33.03  Durée 00:00:02.04  Lisibilité 32
+#a eventos inesperados
+no caminho.#
+
+ 132: 10:07:35.24 10:07:39.00  Durée 00:00:03.01  Lisibilité 46
+#Câmeras captam
+a direção do olhar de Delphine.#
+
+ 133: 10:07:40.06 10:07:43.16  Durée 00:00:03.10  Lisibilité 51
+#O ponto laranja indica as zonas
+a que ela dá atenção.#
+
+ 134: 10:07:45.12 10:07:49.06  Durée 00:00:03.19  Lisibilité 56
+#Durante sua rota, Delphine
+toma mil e uma decisões.#
+
+ 135: 10:07:50.21 10:07:52.03  Durée 00:00:01.07  Lisibilité 19
+Notamos que de fato
+
+ 136: 10:07:52.08 10:07:54.14  Durée 00:00:02.06  Lisibilité 34
+a condução veicular é multitarefas
+
+ 137: 10:07:54.18 10:07:58.03  Durée 00:00:03.10  Lisibilité 51
+e recorre a muitas funções cognitivas
+de alto nível.
+
+ 138: 10:07:58.08 10:07:59.24  Durée 00:00:01.16  Lisibilité 25
+As funções cognitivas
+de alto nível
+
+ 139: 10:08:00.03 10:08:03.02  Durée 00:00:02.24  Lisibilité 44
+são funções mais ligadas
+a antecipação,
+
+ 140: 10:08:03.06 10:08:06.06  Durée 00:00:03.00  Lisibilité 45
+à tomada de decisões,
+à inibição de certas ações,
+
+ 141: 10:08:06.11 10:08:09.14  Durée 00:00:03.03  Lisibilité 47
+que são funções próprias
+ao ser humano.
+
+ 142: 10:08:12.09 10:08:13.23  Durée 00:00:01.14  Lisibilité 23
+#Também é próprio ao homem#
+
+ 143: 10:08:14.02 10:08:17.12  Durée 00:00:03.10  Lisibilité 51
+#a rapidez em decodificar
+o que acontece no trajeto#
+
+ 144: 10:08:17.17 10:08:20.17  Durée 00:00:03.00  Lisibilité 45
+#e em tomar decisões
+baseadas na sua experiência.#
+
+ 145: 10:08:21.17 10:08:24.10  Durée 00:00:02.18  Lisibilité 41
+É justamente uma
+das grandes dificuldades.
+
+ 146: 10:08:24.14 10:08:26.13  Durée 00:00:01.24  Lisibilité 29
+A experiência nos constrói.
+
+ 147: 10:08:26.17 10:08:29.20  Durée 00:00:03.03  Lisibilité 47
+A experiência nos permite
+desenvolver uma capacidade
+
+ 148: 10:08:30.00 10:08:32.06  Durée 00:00:02.06  Lisibilité 34
+de leitura cognitiva,
+
+ 149: 10:08:32.10 10:08:35.07  Durée 00:00:02.22  Lisibilité 43
+ou seja, a capacidade
+de prever eventos
+
+ 150: 10:08:35.11 10:08:38.05  Durée 00:00:02.19  Lisibilité 41
+em função de situações
+conhecidas e memorizadas.
+
+ 151: 10:08:38.10 10:08:41.10  Durée 00:00:03.00  Lisibilité 45
+Será dificilmente transferível
+ao carro autônomo. 
+
+ 152: 10:08:41.14 10:08:43.00  Durée 00:00:01.11  Lisibilité 22
+Será um desafio
+bem maior.
+
+ 153: 10:08:46.14 10:08:50.04  Durée 00:00:03.15  Lisibilité 54
+#Para ensinar os carros
+a resolver esse tipo de problema,#
+
+ 154: 10:08:50.08 10:08:52.04  Durée 00:00:01.21  Lisibilité 28
+#as montadoras vão a Ann Arbor,#
+
+ 155: 10:08:52.09 10:08:53.17  Durée 00:00:01.08  Lisibilité 20
+#a uma hora de Detroit.#
+
+ 156: 10:08:54.06 10:08:56.08  Durée 00:00:02.02  Lisibilité 31
+#Aqui foi aberto em 2015#
+
+ 157: 10:08:56.12 10:09:00.02  Durée 00:00:03.15  Lisibilité 54
+#o 1º laboratório ao ar livre
+de teste de veículos autônomos.#
+
+ 158: 10:09:01.12 10:09:04.09  Durée 00:00:02.22  Lisibilité 43
+#Mcity, como é chamado,
+é uma cidade falsa#
+
+ 159: 10:09:04.13 10:09:06.24  Durée 00:00:02.11  Lisibilité 37
+#em pleno campus
+da Univ. do Michigan.#
+
+ 160: 10:09:09.00 10:09:10.00  Durée 00:00:01.00  Lisibilité 15
+#Um circuito fechado#
+
+ 161: 10:09:10.05 10:09:12.15  Durée 00:00:02.10  Lisibilité 36
+#que reproduz o que há
+numa cidade real:#
+
+ 162: 10:09:13.04 10:09:16.03  Durée 00:00:02.24  Lisibilité 44
+#cruzamentos,
+uma passagem de nível,#
+
+ 163: 10:09:16.08 10:09:18.18  Durée 00:00:02.10  Lisibilité 36
+#um túnel onde se perde
+o sinal GPS, #
+
+ 164: 10:09:19.04 10:09:21.16  Durée 00:00:02.12  Lisibilité 37
+#entradas e saídas de estradas,#
+
+ 165: 10:09:21.21 10:09:23.03  Durée 00:00:01.07  Lisibilité 19
+#sinais de trânsito.#
+
+ 166: 10:09:25.20 10:09:29.09  Durée 00:00:03.14  Lisibilité 53
+#A engenheira Carrie Morton
+é diretora adjunta do Mcity.#
+
+ 167: 10:09:32.11 10:09:34.20  Durée 00:00:02.09  Lisibilité 35
+O fato de estar fora
+de ruas públicas
+
+ 168: 10:09:34.24 10:09:38.01  Durée 00:00:03.02  Lisibilité 46
+permite reproduzir
+situações específicas
+
+ 169: 10:09:38.05 10:09:41.00  Durée 00:00:02.20  Lisibilité 42
+que vão realmente
+pôr os carros à prova.
+
+ 170: 10:09:45.01 10:09:46.08  Durée 00:00:01.07  Lisibilité 19
+#O interesse do circuito#
+
+ 171: 10:09:46.13 10:09:48.18  Durée 00:00:02.05  Lisibilité 33
+#é poder repetir
+a mesma experiência#
+
+ 172: 10:09:48.23 10:09:50.12  Durée 00:00:01.14  Lisibilité 23
+#quantas vezes quiserem#
+
+ 173: 10:09:50.17 10:09:52.17  Durée 00:00:02.00  Lisibilité 30
+#para comparar o desempenho
+dos sensores#
+
+ 174: 10:09:52.22 10:09:54.18  Durée 00:00:01.21  Lisibilité 28
+#ou de certos algoritmos.#
+
+ 175: 10:09:56.00 10:09:58.02  Durée 00:00:02.02  Lisibilité 31
+#E estudar
+vários tipos de veículos#
+
+ 176: 10:09:58.06 10:09:59.09  Durée 00:00:01.03  Lisibilité 17
+#e de condições,#
+
+ 177: 10:09:59.14 10:10:02.09  Durée 00:00:02.20  Lisibilité 42
+#como esse micro-ônibus
+da francesa Navya.#
+
+ 178: 10:10:04.03 10:10:07.14  Durée 00:00:03.11  Lisibilité 52
+#Testar também os veículos
+em diversas condições de clima.#
+
+ 179: 10:10:10.05 10:10:12.10  Durée 00:00:02.05  Lisibilité 33
+#Outro desafio
+para o carro autônomo.#
+
+ 180: 10:10:13.08 10:10:16.00  Durée 00:00:02.17  Lisibilité 40
+#Huei Peng é diretor do Mcity.#
+
+ 181: 10:10:18.13 10:10:21.19  Durée 00:00:03.06  Lisibilité 49
+As condições climáticas
+e a intensidade da luz
+
+ 182: 10:10:21.23 10:10:23.02  Durée 00:00:01.04  Lisibilité 17
+podem afetar muito
+
+ 183: 10:10:23.06 10:10:27.11  Durée 00:00:04.05  Lisibilité 63
+o funcionamento dos sensores
+das câmeras, do LIDAR ou do radar.
+
+ 184: 10:10:31.16 10:10:34.01  Durée 00:00:02.10  Lisibilité 36
+E se essas condições
+não são adequadas,
+
+ 185: 10:10:34.06 10:10:37.08  Durée 00:00:03.02  Lisibilité 46
+podem limitar muito
+a condução do veículo.
+
+ 186: 10:10:42.17 10:10:45.07  Durée 00:00:02.15  Lisibilité 39
+#Com chuva,
+o veículo autônomo pode frear#
+
+ 187: 10:10:45.12 10:10:49.01  Durée 00:00:03.14  Lisibilité 53
+#ou parar por ter dificuldade
+de decodificar o ambiente.#
+
+ 188: 10:10:50.14 10:10:51.21  Durée 00:00:01.07  Lisibilité 19
+Viu? Nós paramos.
+
+ 189: 10:10:55.02 10:10:57.22  Durée 00:00:02.20  Lisibilité 42
+O LIDAR deve ter recebido
+uma gota de chuva
+
+ 190: 10:10:58.02 10:11:00.10  Durée 00:00:02.08  Lisibilité 35
+e interpretou como obstáculo.
+
+ 191: 10:11:01.19 10:11:04.12  Durée 00:00:02.18  Lisibilité 41
+O micro-ônibus parou
+por medida de segurança.
+
+ 192: 10:11:07.04 10:11:09.16  Durée 00:00:02.12  Lisibilité 37
+Com o tempo,
+ele vai acabar aprendendo
+
+ 193: 10:11:09.20 10:11:11.24  Durée 00:00:02.04  Lisibilité 32
+a avaliar melhor o que se passa
+
+ 194: 10:11:12.03 10:11:15.03  Durée 00:00:03.00  Lisibilité 45
+e vai adotar
+uma condução mais suave.
+
+ 195: 10:11:19.16 10:11:22.22  Durée 00:00:03.06  Lisibilité 49
+#É claro, a neve também pode
+ser um problema.#
+
+ 196: 10:11:23.02 10:11:26.04  Durée 00:00:03.02  Lisibilité 46
+#A Ford teve de testar
+essas condições no Mcity.#
+
+ 197: 10:11:28.01 10:11:30.20  Durée 00:00:02.19  Lisibilité 41
+Para um carro autônomo,
+é um grande problema.
+
+ 198: 10:11:30.24 10:11:33.09  Durée 00:00:02.10  Lisibilité 36
+Ele perde pontos de referência
+no solo.
+
+ 199: 10:11:33.13 10:11:36.07  Durée 00:00:02.19  Lisibilité 41
+As marcas no solo são importantes
+para nos orientar
+
+ 200: 10:11:36.12 10:11:38.11  Durée 00:00:01.24  Lisibilité 29
+e dirigir o carro na via.
+
+ 201: 10:11:40.21 10:11:42.12  Durée 00:00:01.16  Lisibilité 25
+#Sem referências visuais,#
+
+ 202: 10:11:42.17 10:11:43.20  Durée 00:00:01.03  Lisibilité 17
+#o carro baseia#
+
+ 203: 10:11:44.00 10:11:46.17  Durée 00:00:02.17  Lisibilité 40
+#suas decisões
+num número menor de sensores.#
+
+ 204: 10:11:46.22 10:11:49.08  Durée 00:00:02.11  Lisibilité 37
+#Mas eles não podem
+estar obstruídos.#
+
+ 205: 10:11:51.13 10:11:54.08  Durée 00:00:02.20  Lisibilité 42
+Outro grande desafio,
+em condições de neve
+
+ 206: 10:11:54.12 10:11:56.12  Durée 00:00:02.00  Lisibilité 30
+é manter os sensores limpos.
+
+ 207: 10:11:56.16 10:11:58.24  Durée 00:00:02.08  Lisibilité 35
+A neve, a poeira e a lama
+
+ 208: 10:11:59.04 10:12:01.00  Durée 00:00:01.21  Lisibilité 28
+podem colar na superfície.
+
+ 209: 10:12:03.15 10:12:05.21  Durée 00:00:02.06  Lisibilité 34
+É preciso monitorá-los e limpá-los
+
+ 210: 10:12:06.00 10:12:08.00  Durée 00:00:02.00  Lisibilité 30
+para garantir que funcionem
+
+ 211: 10:12:08.04 10:12:09.16  Durée 00:00:01.12  Lisibilité 22
+sem alterações.
+
+ 212: 10:12:11.15 10:12:15.13  Durée 00:00:03.23  Lisibilité 59
+E isso deve ser feito em tempo real
+com todos os sistemas.
+
+ 213: 10:12:17.11 10:12:20.06  Durée 00:00:02.20  Lisibilité 42
+#Lidar com mau tempo,
+noite e imprevistos,#
+
+ 214: 10:12:20.10 10:12:21.24  Durée 00:00:01.14  Lisibilité 23
+#perceber, antecipar,#
+
+ 215: 10:12:22.04 10:12:23.18  Durée 00:00:01.14  Lisibilité 23
+#tomar várias decisões...#
+
+ 216: 10:12:23.22 10:12:24.17  Durée 00:00:00.20  Lisibilité 12
+#É um fato:#
+
+ 217: 10:12:24.22 10:12:27.06  Durée 00:00:02.09  Lisibilité 35
+#construir um condutor não é fácil.#
+
+ 218: 10:12:28.13 10:12:30.03  Durée 00:00:01.15  Lisibilité 24
+#O carro autônomo#
+
+ 219: 10:12:30.08 10:12:32.24  Durée 00:00:02.16  Lisibilité 40
+#ainda está longe
+de dispensar o ser humano.#
+
+ 220: 10:12:36.09 10:12:38.11  Durée 00:00:02.02  Lisibilité 31
+Veículo sem condutor
+
+ 221: 10:12:38.15 10:12:41.01  Durée 00:00:02.11  Lisibilité 37
+#Estamos em Blainville,
+norte de Montreal,#
+
+ 222: 10:12:42.01 10:12:44.15  Durée 00:00:02.14  Lisibilité 38
+#na pista de testes
+da Transports Canada.#
+
+ 223: 10:12:49.14 10:12:52.08  Durée 00:00:02.19  Lisibilité 41
+#Hoje testam
+o freio automático de emergência.#
+
+ 224: 10:12:53.08 10:12:54.21  Durée 00:00:01.13  Lisibilité 23
+#Sistema que equipa#
+
+ 225: 10:12:55.00 10:12:57.03  Durée 00:00:02.03  Lisibilité 32
+#vários modelos
+comuns no mercado.#
+
+ 226: 10:12:58.23 10:13:01.09  Durée 00:00:02.11  Lisibilité 37
+#Éric Meloche dirige esse projeto.#
+
+ 227: 10:13:03.23 10:13:06.04  Durée 00:00:02.06  Lisibilité 34
+#O carro que ele testa
+deve detectar#
+
+ 228: 10:13:06.09 10:13:08.14  Durée 00:00:02.05  Lisibilité 33
+#esse pseudoveículo
+parado à frente.#
+
+ 229: 10:13:10.14 10:13:11.19  Durée 00:00:01.05  Lisibilité 18
+#E frear.#
+
+ 230: 10:13:13.02 10:13:15.04  Durée 00:00:02.02  Lisibilité 31
+Certo. Esse foi perto.
+
+ 231: 10:13:15.22 10:13:17.20  Durée 00:00:01.23  Lisibilité 29
+#Sem a intervenção do condutor.#
+
+ 232: 10:13:19.22 10:13:22.23  Durée 00:00:03.01  Lisibilité 46
+#O teste confere o espectro
+de desempenho do sistema.#
+
+ 233: 10:13:29.14 10:13:33.13  Durée 00:00:03.24  Lisibilité 59
+Então vamos começar na velocidade
+de 20, 30, 40, 50 km/h,
+
+ 234: 10:13:33.17 10:13:38.01  Durée 00:00:04.09  Lisibilité 65
+aí, quando houver impacto,
+vamos reduzir a velocidade
+
+ 235: 10:13:38.05 10:13:39.21  Durée 00:00:01.16  Lisibilité 25
+e fazer
+uma série de testes.
+
+ 236: 10:13:41.00 10:13:43.04  Durée 00:00:02.04  Lisibilité 32
+#Nesse teste,
+o princípio é o mesmo,#
+
+ 237: 10:13:43.08 10:13:45.11  Durée 00:00:02.03  Lisibilité 32
+#só que o alvo está em movimento.#
+
+ 238: 10:13:45.16 10:13:49.04  Durée 00:00:03.13  Lisibilité 53
+OK, estamos prontos.
+Vocês vão a 20 e nós a 80.
+
+ 239: 10:13:49.09 10:13:52.03  Durée 00:00:02.19  Lisibilité 41
+#em cada 7 testes
+a uma determinada velocidade,#
+
+ 240: 10:13:52.07 10:13:54.13  Durée 00:00:02.06  Lisibilité 34
+#o carro deve ir bem
+em pelo menos 5.#
+
+ 241: 10:13:59.16 10:14:03.19  Durée 00:00:04.03  Lisibilité 62
+É lógico, 5 em 7
+é cerca de 70% dos testes 
+
+ 242: 10:14:03.23 10:14:05.18  Durée 00:00:01.20  Lisibilité 27
+ou pouco mais de 70% deles,
+
+ 243: 10:14:05.22 10:14:08.00  Durée 00:00:02.03  Lisibilité 32
+então, em nível de estatística,
+
+ 244: 10:14:08.04 10:14:09.22  Durée 00:00:01.18  Lisibilité 26
+é interessante, 70%.
+
+ 245: 10:14:10.01 10:14:13.18  Durée 00:00:03.17  Lisibilité 55
+Se pudermos evitar 70%
+das colisões amanhã,
+
+ 246: 10:14:13.22 10:14:15.06  Durée 00:00:01.09  Lisibilité 20
+seria maravilhoso.
+
+ 247: 10:14:16.07 10:14:19.19  Durée 00:00:03.12  Lisibilité 52
+Estamos em posição
+para o teste a 50 km/h.
+
+ 248: 10:14:19.23 10:14:22.04  Durée 00:00:02.06  Lisibilité 34
+Vamos aguardar seu sinal.
+
+ 249: 10:14:23.07 10:14:26.00  Durée 00:00:02.18  Lisibilité 41
+#No próximo teste,
+o carro deve evitar#
+
+ 250: 10:14:26.05 10:14:29.13  Durée 00:00:03.08  Lisibilité 50
+#bater em um pedestre oculto
+atrás dos carros parados.#
+
+ 251: 10:14:33.19 10:14:35.24  Durée 00:00:02.05  Lisibilité 33
+#Esse tipo de sistema
+ajuda na condução,#
+
+ 252: 10:14:36.03 10:14:39.00  Durée 00:00:02.22  Lisibilité 43
+#é o primeiro marco
+que leva ao carro autônomo.#
+
+ 253: 10:14:39.14 10:14:41.12  Durée 00:00:01.23  Lisibilité 29
+#Os desempenhos impressionam,#
+
+ 254: 10:14:41.16 10:14:43.10  Durée 00:00:01.19  Lisibilité 26
+#mas não são perfeitos.#
+
+ 255: 10:14:44.07 10:14:47.15  Durée 00:00:03.08  Lisibilité 50
+Prometem-nos carros autônomos
+até 2020,
+
+ 256: 10:14:47.19 10:14:50.04  Durée 00:00:02.10  Lisibilité 36
+frotas de veículos autônomos
+até 2030, 
+
+ 257: 10:14:50.08 10:14:51.24  Durée 00:00:01.16  Lisibilité 25
+então para chegar a isso
+
+ 258: 10:14:52.03 10:14:56.04  Durée 00:00:04.01  Lisibilité 61
+precisaremos ter sistemas
+100% eficazes,
+
+ 259: 10:14:56.08 10:14:57.20  Durée 00:00:01.12  Lisibilité 22
+e não só 70%.
+
+ 260: 10:15:01.04 10:15:03.19  Durée 00:00:02.15  Lisibilité 39
+#A via para a autonomia total
+dos veículos#
+
+ 261: 10:15:03.23 10:15:04.24  Durée 00:00:01.01  Lisibilité 16
+#tem 5 níveis.#
+
+ 262: 10:15:05.03 10:15:08.17  Durée 00:00:03.14  Lisibilité 53
+#1: o condutor utiliza
+sistemas de auxílio à condução,#
+
+ 263: 10:15:08.21 10:15:10.04  Durée 00:00:01.08  Lisibilité 20
+#mas ainda no volante.#
+
+ 264: 10:15:10.08 10:15:13.07  Durée 00:00:02.24  Lisibilité 44
+#2: o condutor confia
+um pouco mais de tarefas#
+
+ 265: 10:15:13.11 10:15:16.24  Durée 00:00:03.13  Lisibilité 53
+#aos sistemas automatizados,
+mas ainda monitora o trajeto.#
+
+ 266: 10:15:17.03 10:15:20.02  Durée 00:00:02.24  Lisibilité 44
+#3: o carro
+é parcialmente autônomo.#
+
+ 267: 10:15:20.06 10:15:21.22  Durée 00:00:01.16  Lisibilité 25
+#Ele dirige
+partes do trajeto,#
+
+ 268: 10:15:22.01 10:15:25.10  Durée 00:00:03.09  Lisibilité 50
+#mas o condutor pode assumir
+o volante se necessário.#
+
+ 269: 10:15:25.14 10:15:27.20  Durée 00:00:02.06  Lisibilité 34
+#4: o carro é autônomo.#
+
+ 270: 10:15:27.24 10:15:29.14  Durée 00:00:01.15  Lisibilité 24
+#Ele pode parar
+com segurança#
+
+ 271: 10:15:29.18 10:15:32.00  Durée 00:00:02.07  Lisibilité 34
+#se o condutor
+não assumir o volante.#
+
+ 272: 10:15:32.04 10:15:34.23  Durée 00:00:02.19  Lisibilité 41
+#Nível 5: é a autonomia total.#
+
+ 273: 10:15:35.02 10:15:36.16  Durée 00:00:01.14  Lisibilité 23
+#O carro se vira sozinho,#
+
+ 274: 10:15:36.20 10:15:39.06  Durée 00:00:02.11  Lisibilité 37
+#em qualquer circunstância
+ou clima.#
+
+ 275: 10:15:45.00 10:15:47.12  Durée 00:00:02.12  Lisibilité 37
+#Atualmente,
+os veículos ditos autônomos#
+
+ 276: 10:15:47.17 10:15:49.22  Durée 00:00:02.05  Lisibilité 33
+#ou dotados de piloto automático#
+
+ 277: 10:15:50.01 10:15:51.18  Durée 00:00:01.17  Lisibilité 25
+#são parcialme?
+nte autônomos.#
+
+ 278: 10:15:52.09 10:15:55.00  Durée 00:00:02.16  Lisibilité 40
+#A autonomia deles está
+entre os níveis 2 e 3.#
+
+ 279: 10:15:57.09 10:15:59.00  Durée 00:00:01.16  Lisibilité 25
+#Quanto aos carros em teste,#
+
+ 280: 10:15:59.04 10:16:01.24  Durée 00:00:02.20  Lisibilité 42
+#há sempre um engenheiro,
+um técnico ou um condutor#
+
+ 281: 10:16:02.03 10:16:05.05  Durée 00:00:03.02  Lisibilité 46
+#ao volante para assumir
+em caso de imprevisto.#
+
+ 282: 10:16:09.19 10:16:13.11  Durée 00:00:03.17  Lisibilité 55
+#Enquanto o carro não atingir
+o nível 4 de autonomia,#
+
+ 283: 10:16:14.00 10:16:17.12  Durée 00:00:03.12  Lisibilité 52
+#ele exige, nos níveis 2 e 3,
+estar atento,#
+
+ 284: 10:16:17.16 10:16:19.07  Durée 00:00:01.16  Lisibilité 25
+#monitorar os sistemas.#
+
+ 285: 10:16:19.11 10:16:21.11  Durée 00:00:02.00  Lisibilité 30
+#E é aí
+que as coisas se complicam.#
+
+ 286: 10:16:22.03 10:16:25.09  Durée 00:00:03.06  Lisibilité 49
+A necessidade de monitorar
+a condução do carro,
+
+ 287: 10:16:25.13 10:16:28.07  Durée 00:00:02.19  Lisibilité 41
+estando pronto a assumir
+o volante se preciso,
+
+ 288: 10:16:28.11 10:16:31.15  Durée 00:00:03.04  Lisibilité 47
+pode ser tão exigente
+quanto dirigir o veículo.
+
+ 289: 10:16:35.16 10:16:39.02  Durée 00:00:03.11  Lisibilité 52
+#O dilema é manter
+a atenção do condutor#
+
+ 290: 10:16:39.06 10:16:41.16  Durée 00:00:02.10  Lisibilité 36
+#quando houver
+cada vez menos tarefas#
+
+ 291: 10:16:41.20 10:16:42.17  Durée 00:00:00.22  Lisibilité 13
+#na condução.#
+
+ 292: 10:16:45.03 10:16:48.16  Durée 00:00:03.13  Lisibilité 53
+O problema que surge quando
+basta monitorar um sistema 
+
+ 293: 10:16:48.20 10:16:50.14  Durée 00:00:01.19  Lisibilité 26
+é que é rotineiro.
+
+ 294: 10:16:50.18 10:16:52.14  Durée 00:00:01.21  Lisibilité 28
+E o tédio que vem com a rotina
+
+ 295: 10:16:52.18 10:16:55.12  Durée 00:00:02.19  Lisibilité 41
+faz baixar nossa vigilância.
+
+ 296: 10:16:58.19 10:16:59.21  Durée 00:00:01.02  Lisibilité 16
+#Vejamos como é#
+
+ 297: 10:17:00.00 10:17:02.05  Durée 00:00:02.05  Lisibilité 33
+#conduzir um carro
+parcialmente autônomo.#
+
+ 298: 10:17:03.08 10:17:05.09  Durée 00:00:02.01  Lisibilité 31
+#Marie senta ao volante,#
+
+ 299: 10:17:05.14 10:17:08.23  Durée 00:00:03.09  Lisibilité 50
+#o volante de um simulador
+de carro autônomo de nível 2,#
+
+ 300: 10:17:09.03 10:17:12.04  Durée 00:00:03.01  Lisibilité 46
+#no laboratório
+da Transports Canada em Ottawa.#
+
+ 301: 10:17:13.14 10:17:15.02  Durée 00:00:01.13  Lisibilité 23
+#Querem testar
+o que ocorre#
+
+ 302: 10:17:15.07 10:17:17.13  Durée 00:00:02.06  Lisibilité 34
+#se o carro pedir
+que ela assuma a direção#
+
+ 303: 10:17:17.20 10:17:20.06  Durée 00:00:02.11  Lisibilité 37
+#quando não está concentrada
+no trajeto.#
+
+ 304: 10:17:23.17 10:17:26.23  Durée 00:00:03.06  Lisibilité 49
+#Para distraí-la, a ocupam
+numa tarefa no computador.#
+
+ 305: 10:17:31.14 10:17:34.02  Durée 00:00:02.13  Lisibilité 38
+#Peter Burns dirige a pesquisa.#
+
+ 306: 10:17:34.06 10:17:37.01  Durée 00:00:02.20  Lisibilité 42
+#Ele estuda
+a distribuição da atenção#
+
+ 307: 10:17:37.05 10:17:38.17  Durée 00:00:01.12  Lisibilité 22
+#durante a condução.#
+
+ 308: 10:17:40.04 10:17:43.16  Durée 00:00:03.12  Lisibilité 52
+O que nos preocupa nesses sistemas
+parcialmente autônomos
+
+ 309: 10:17:45.06 10:17:48.04  Durée 00:00:02.23  Lisibilité 44
+é que as mãos e os pés
+estão livres da condução,
+
+ 310: 10:17:48.08 10:17:49.19  Durée 00:00:01.11  Lisibilité 22
+mas não o cérebro.
+
+ 311: 10:17:55.06 10:17:56.22  Durée 00:00:01.16  Lisibilité 25
+O sistema que testamos agora
+
+ 312: 10:17:57.13 10:18:00.08  Durée 00:00:02.20  Lisibilité 42
+exige que o condutor
+supervisione a condução.
+
+ 313: 10:18:01.20 10:18:04.24  Durée 00:00:03.04  Lisibilité 47
+Ele deve poder intervir
+no prazo de dois segundos.
+
+ 314: 10:18:05.20 10:18:08.06  Durée 00:00:02.11  Lisibilité 37
+Mais que isso,
+há risco de colisão.
+
+ 315: 10:18:18.20 10:18:21.01  Durée 00:00:02.06  Lisibilité 34
+#Dois segundos parece pouco,#
+
+ 316: 10:18:21.05 10:18:23.07  Durée 00:00:02.02  Lisibilité 31
+#mas quando rodamos a 100 km/h,#
+
+ 317: 10:18:23.11 10:18:25.24  Durée 00:00:02.13  Lisibilité 38
+#percorremos 28 metros
+por segundo.#
+
+ 318: 10:18:26.03 10:18:28.00  Durée 00:00:01.22  Lisibilité 28
+#Os obstáculos surgem rápido.#
+
+ 319: 10:18:29.23 10:18:32.05  Durée 00:00:02.07  Lisibilité 34
+#A cada etapa
+as pesquisadoras tomam notas#
+
+ 320: 10:18:32.09 10:18:33.23  Durée 00:00:01.14  Lisibilité 23
+#sobre a condução de Marie.#
+
+ 321: 10:18:34.03 10:18:36.08  Durée 00:00:02.05  Lisibilité 33
+#Câmeras sobre suas mãos
+e seu rosto#
+
+ 322: 10:18:36.13 10:18:39.15  Durée 00:00:03.02  Lisibilité 46
+#indicam em que momento
+ela percebe o problema.#
+
+ 323: 10:18:40.07 10:18:43.09  Durée 00:00:03.02  Lisibilité 46
+#A câmera sobre seus pés
+marca o tempo de reação.#
+
+ 324: 10:18:44.08 10:18:47.19  Durée 00:00:03.11  Lisibilité 52
+#Também medem se a retomada
+de controle do veículo é boa.#
+
+ 325: 10:18:50.09 10:18:53.13  Durée 00:00:03.04  Lisibilité 47
+#A distração aqui não tem nada a ver
+com uma olhadela#
+
+ 326: 10:18:53.17 10:18:56.14  Durée 00:00:02.22  Lisibilité 43
+#que damos numa tela
+ou num aparelho no carro#
+
+ 327: 10:18:56.18 10:18:58.03  Durée 00:00:01.10  Lisibilité 21
+#por 1 ou 2 segundos.#
+
+ 328: 10:18:58.07 10:19:00.14  Durée 00:00:02.07  Lisibilité 34
+#É uma distração de 30 segundos#
+
+ 329: 10:19:00.18 10:19:02.09  Durée 00:00:01.16  Lisibilité 25
+#ou de vários minutos.#
+
+ 330: 10:19:05.14 10:19:09.05  Durée 00:00:03.16  Lisibilité 55
+#O condutor tem pouca consciência
+do que acontece no caminho.#
+
+ 331: 10:19:11.22 10:19:14.23  Durée 00:00:03.01  Lisibilité 46
+#Teme-se que ele demore a agir
+ante um imprevisto.#
+
+ 332: 10:19:22.17 10:19:26.05  Durée 00:00:03.13  Lisibilité 53
+#Também se teme
+que a tecnologia a bordo altere#
+
+ 333: 10:19:26.10 10:19:28.00  Durée 00:00:01.15  Lisibilité 24
+#o comportamento
+do condutor.#
+
+ 334: 10:19:30.21 10:19:33.22  Durée 00:00:03.01  Lisibilité 46
+#Confiar apenas no ponto de vista
+da câmera de ré#
+
+ 335: 10:19:34.01 10:19:36.05  Durée 00:00:02.04  Lisibilité 32
+#em vez de virar a cabeça,
+por exemplo.#
+
+ 336: 10:19:36.10 10:19:37.21  Durée 00:00:01.11  Lisibilité 22
+#O perigo é o condutor#
+
+ 337: 10:19:38.00 10:19:40.15  Durée 00:00:02.15  Lisibilité 39
+#confiar rápido demais
+na tecnologia.#
+
+ 338: 10:19:46.09 10:19:48.19  Durée 00:00:02.10  Lisibilité 36
+#A questão surgiu
+após o acidente mortal#
+
+ 339: 10:19:48.23 10:19:50.24  Durée 00:00:02.01  Lisibilité 31
+#ocorrido em 2016 na Flórida,#
+
+ 340: 10:19:51.03 10:19:53.12  Durée 00:00:02.09  Lisibilité 35
+#quando um Tesla
+em piloto automático#
+
+ 341: 10:19:53.17 10:19:57.11  Durée 00:00:03.19  Lisibilité 56
+#entrou debaixo do reboque
+de um caminhão com que cruzou.#
+
+ 342: 10:19:59.14 10:20:00.19  Durée 00:00:01.05  Lisibilité 18
+Vimos situações
+
+ 343: 10:20:00.23 10:20:03.17  Durée 00:00:02.19  Lisibilité 41
+onde gente usou
+sistemas avançados de condução
+
+ 344: 10:20:03.21 10:20:06.04  Durée 00:00:02.08  Lisibilité 35
+como se fossem carros autônomos.
+
+ 345: 10:20:06.08 10:20:08.23  Durée 00:00:02.15  Lisibilité 39
+Houve acidentes
+ou outros problemas,
+
+ 346: 10:20:09.02 10:20:12.13  Durée 00:00:03.11  Lisibilité 52
+porque eles não entenderam
+os limites do veículo.
+
+ 347: 10:20:14.14 10:20:18.08  Durée 00:00:03.19  Lisibilité 56
+#A questão da comunicação
+entre o veículo e o condutor#
+
+ 348: 10:20:18.12 10:20:20.04  Durée 00:00:01.17  Lisibilité 25
+#torna-se então capital.#
+
+ 349: 10:20:20.08 10:20:21.14  Durée 00:00:01.06  Lisibilité 19
+Piloto automático ligado.
+
+ 350: 10:20:24.14 10:20:25.24  Durée 00:00:01.10  Lisibilité 21
+#Éric Meloche nos mostra#
+
+ 351: 10:20:26.04 10:20:28.12  Durée 00:00:02.08  Lisibilité 35
+#que tipo de alarme
+um Tesla produz,#
+
+ 352: 10:20:29.16 10:20:31.24  Durée 00:00:02.08  Lisibilité 35
+#que tipo de sinal
+ele manda ao condutor.#
+
+ 353: 10:20:32.17 10:20:35.07  Durée 00:00:02.15  Lisibilité 39
+Se ficarmos muito tempo
+sem tocar no volante,
+
+ 354: 10:20:35.11 10:20:36.15  Durée 00:00:01.04  Lisibilité 17
+ele nos adverte
+
+ 355: 10:20:36.20 10:20:39.01  Durée 00:00:02.06  Lisibilité 34
+para colocarmos as mãos no volante.
+
+ 356: 10:20:41.06 10:20:44.07  Durée 00:00:03.01  Lisibilité 46
+#Após vários alertas,
+o carro para#
+
+ 357: 10:20:44.24 10:20:47.03  Durée 00:00:02.04  Lisibilité 32
+#e trava o piloto automático#
+
+ 358: 10:20:47.08 10:20:49.07  Durée 00:00:01.24  Lisibilité 29
+#pelo resto do trajeto.#
+
+ 359: 10:20:50.06 10:20:52.07  Durée 00:00:02.01  Lisibilité 31
+Ele não se ativará
+
+ 360: 10:20:52.12 10:20:55.01  Durée 00:00:02.14  Lisibilité 38
+porque não atendemos ao comando.
+
+ 361: 10:20:58.19 10:21:00.20  Durée 00:00:02.01  Lisibilité 31
+#O que nos leva a outra questão.#
+
+ 362: 10:21:01.17 10:21:03.24  Durée 00:00:02.07  Lisibilité 34
+#Que tipo de alarme
+é mais apropriado#
+
+ 363: 10:21:04.03 10:21:06.03  Durée 00:00:02.00  Lisibilité 30
+#para chamar atenção do condutor?#
+
+ 364: 10:21:07.16 10:21:10.22  Durée 00:00:03.06  Lisibilité 49
+#Visual? Sonoro?#
+
+ 365: 10:21:11.02 10:21:12.08  Durée 00:00:01.06  Lisibilité 19
+#Tátil?#
+
+ 366: 10:21:12.13 10:21:13.18  Durée 00:00:01.05  Lisibilité 18
+#Com que frequência?#
+
+ 367: 10:21:16.15 10:21:18.19  Durée 00:00:02.04  Lisibilité 32
+Queremos alertas
+fáceis de entender
+
+ 368: 10:21:18.23 10:21:20.08  Durée 00:00:01.10  Lisibilité 21
+pelo condutor
+
+ 369: 10:21:20.12 10:21:23.10  Durée 00:00:02.23  Lisibilité 44
+e que lhe indiquem rapidamente
+o que fazer.
+
+ 370: 10:21:26.24 10:21:28.17  Durée 00:00:01.18  Lisibilité 26
+Não queremos bombardeá-lo
+
+ 371: 10:21:28.21 10:21:30.04  Durée 00:00:01.08  Lisibilité 20
+de sons e luzes
+
+ 372: 10:21:30.09 10:21:32.09  Durée 00:00:02.00  Lisibilité 30
+sem que ele saiba o que fazer.
+
+ 373: 10:21:33.13 10:21:35.19  Durée 00:00:02.06  Lisibilité 34
+É preciso guiá-lo
+para a reação certa.
+
+ 374: 10:21:40.24 10:21:43.07  Durée 00:00:02.08  Lisibilité 35
+É muito delicada, essa interação
+
+ 375: 10:21:43.12 10:21:46.02  Durée 00:00:02.15  Lisibilité 39
+entre o condutor
+e o veículo autônomo.
+
+ 376: 10:21:50.10 10:21:52.20  Durée 00:00:02.10  Lisibilité 36
+#As montadoras também se preocupam#
+
+ 377: 10:21:53.00 10:21:54.20  Durée 00:00:01.20  Lisibilité 27
+#com essa fase de transição.#
+
+ 378: 10:21:55.00 10:21:57.02  Durée 00:00:02.02  Lisibilité 31
+#Como garantir que o motorista#
+
+ 379: 10:21:57.07 10:21:59.20  Durée 00:00:02.13  Lisibilité 38
+#compreenda as capacidades reais
+do veículo#
+
+ 380: 10:22:00.00 10:22:03.09  Durée 00:00:03.09  Lisibilité 50
+#que ainda não atingiu
+o nível máximo de autonomia?#
+
+ 381: 10:22:03.14 10:22:07.04  Durée 00:00:03.15  Lisibilité 54
+#A Toyota, por exemplo,
+em vez de mandá-lo monitorar#
+
+ 382: 10:22:07.09 10:22:10.04  Durée 00:00:02.20  Lisibilité 42
+#o sistema de direção
+no carro semiautônomo,#
+
+ 383: 10:22:10.08 10:22:12.17  Durée 00:00:02.09  Lisibilité 35
+#sugere que ele seja
+seu anjo da guarda.#
+
+ 384: 10:22:15.11 10:22:19.06  Durée 00:00:03.20  Lisibilité 57
+Nosso sistema é baseado
+no princípio do anjo da guarda.
+
+ 385: 10:22:19.10 10:22:22.05  Durée 00:00:02.20  Lisibilité 42
+Ele deixa a condução
+nas mãos do condutor.
+
+ 386: 10:22:22.10 10:22:25.00  Durée 00:00:02.15  Lisibilité 39
+A tecnologia o assiste
+na sua condução.
+
+ 387: 10:22:25.16 10:22:28.00  Durée 00:00:02.09  Lisibilité 35
+É o sistema
+que monitora o condutor
+
+ 388: 10:22:28.04 10:22:29.20  Durée 00:00:01.16  Lisibilité 25
+e é o sistema que monitora
+
+ 389: 10:22:30.00 10:22:31.21  Durée 00:00:01.21  Lisibilité 28
+e intervém durante a condução
+
+ 390: 10:22:32.00 10:22:35.12  Durée 00:00:03.12  Lisibilité 52
+se o condutor se distrair
+a ponto de pode cometer um erro.
+
+ 391: 10:22:38.14 10:22:41.18  Durée 00:00:03.04  Lisibilité 47
+#Outras montadoras,
+como Waymo ou Ford, por exemplo,#
+
+ 392: 10:22:41.23 10:22:45.02  Durée 00:00:03.04  Lisibilité 47
+#preferem esperar chegar
+a um nível real de autonomia#
+
+ 393: 10:22:45.06 10:22:47.22  Durée 00:00:02.16  Lisibilité 40
+#antes de lançar
+um veículo no mercado.#
+
+ 394: 10:22:49.16 10:22:53.03  Durée 00:00:03.12  Lisibilité 52
+Esses veículos visam
+o nível de autonomia 4 ou mais.
+
+ 395: 10:22:53.07 10:22:54.22  Durée 00:00:01.15  Lisibilité 24
+Não esperamos
+que o condutor
+
+ 396: 10:22:55.01 10:22:56.18  Durée 00:00:01.17  Lisibilité 25
+seja responsável ou reaja
+
+ 397: 10:22:56.22 10:22:59.21  Durée 00:00:02.24  Lisibilité 44
+quando o veículo
+está em modo autônomo.
+
+ 398: 10:23:02.07 10:23:06.01  Durée 00:00:03.19  Lisibilité 56
+Imagine que o carro rode
+sem problemas durante quilômetros,
+
+ 399: 10:23:06.05 10:23:08.09  Durée 00:00:02.04  Lisibilité 32
+encontre uma situação
+mais difícil
+
+ 400: 10:23:08.13 10:23:11.17  Durée 00:00:03.04  Lisibilité 47
+e diga: "OK,
+vou soltar o volante, assuma."
+
+ 401: 10:23:13.17 10:23:17.01  Durée 00:00:03.09  Lisibilité 50
+Não queremos pôr o condutor
+numa situação dessas.
+
+ 402: 10:23:24.02 10:23:26.24  Durée 00:00:02.22  Lisibilité 43
+#Esse período de transição supõe
+que os autônomos#
+
+ 403: 10:23:27.04 10:23:29.03  Durée 00:00:01.24  Lisibilité 29
+#convivam durante vários anos#
+
+ 404: 10:23:29.07 10:23:31.07  Durée 00:00:02.00  Lisibilité 30
+#com veículos clássicos
+nas vias.#
+
+ 405: 10:23:32.01 10:23:33.24  Durée 00:00:01.23  Lisibilité 29
+#Isso obriga a encontrarem#
+
+ 406: 10:23:34.03 10:23:37.09  Durée 00:00:03.06  Lisibilité 49
+#meios para que todos os veículos
+se comuniquem.#
+
+ 407: 10:23:42.09 10:23:44.15  Durée 00:00:02.06  Lisibilité 34
+Carro sem condutor
+
+ 408: 10:23:44.19 10:23:46.20  Durée 00:00:02.01  Lisibilité 31
+#A cena se passa em 2015.#
+
+ 409: 10:23:47.00 10:23:49.15  Durée 00:00:02.15  Lisibilité 39
+#Andy Greenberg,
+da revista americana# Wired,
+
+ 410: 10:23:49.19 10:23:53.16  Durée 00:00:03.22  Lisibilité 58
+#é cobaia de um ataque à distância
+ao seu veículo planejado#
+
+ 411: 10:23:53.20 10:23:57.09  Durée 00:00:03.14  Lisibilité 53
+#pelos programadores
+Charlie Miller e Chris Valasek.#
+
+ 412: 10:23:58.00 10:24:00.08  Durée 00:00:02.08  Lisibilité 35
+Haja o que houver,
+não se desespere.
+
+ 413: 10:24:01.23 10:24:04.01  Durée 00:00:02.03  Lisibilité 32
+#Primeiro eles ligam o ventilador.#
+
+ 414: 10:24:04.23 10:24:06.22  Durée 00:00:01.24  Lisibilité 29
+O ventilador ligou.
+
+ 415: 10:24:08.07 10:24:09.17  Durée 00:00:01.10  Lisibilité 21
+#Eles ligam o rádio.#
+
+ 416: 10:24:10.07 10:24:11.24  Durée 00:00:01.17  Lisibilité 25
+Não consigo
+desligar o rádio.
+
+ 417: 10:24:12.04 10:24:13.23  Durée 00:00:01.19  Lisibilité 26
+#E desligam o motor.#
+
+ 418: 10:24:14.03 10:24:15.16  Durée 00:00:01.13  Lisibilité 23
+Vamos, desligue o motor.
+
+ 419: 10:24:15.20 10:24:18.19  Durée 00:00:02.24  Lisibilité 44
+#Após um leve momento de pânico,
+Andy pôde retomar#
+
+ 420: 10:24:18.24 10:24:20.09  Durée 00:00:01.10  Lisibilité 21
+#o controle do veículo.#
+
+ 421: 10:24:20.13 10:24:23.04  Durée 00:00:02.16  Lisibilité 40
+#As falhas do sistema
+são revistas corrigidas#
+
+ 422: 10:24:23.09 10:24:24.04  Durée 00:00:00.20  Lisibilité 12
+#pela empresa,#
+
+ 423: 10:24:24.08 10:24:27.01  Durée 00:00:02.18  Lisibilité 41
+#mas o evento teve o efeito
+de um eletrochoque.#
+
+ 424: 10:24:30.24 10:24:33.19  Durée 00:00:02.20  Lisibilité 42
+#Como garantir que os carros
+conectados ou autônomos#
+
+ 425: 10:24:33.23 10:24:36.17  Durée 00:00:02.19  Lisibilité 41
+#sejam seguros,
+e seus sistemas, infalíveis,#
+
+ 426: 10:24:37.17 10:24:38.22  Durée 00:00:01.05  Lisibilité 18
+#já que eles dispõem#
+
+ 427: 10:24:39.01 10:24:41.11  Durée 00:00:02.10  Lisibilité 36
+#de um número maior
+de sistemas digitais.#
+
+ 428: 10:24:44.02 10:24:45.23  Durée 00:00:01.21  Lisibilité 28
+O desenvolvimento
+do carro autônomo
+
+ 429: 10:24:46.02 10:24:49.19  Durée 00:00:03.17  Lisibilité 55
+implica questões de segurança
+e devemos ter consciência disso.
+
+ 430: 10:24:49.23 10:24:51.24  Durée 00:00:02.01  Lisibilité 31
+É o hackeamento de sistemas,
+
+ 431: 10:24:52.03 10:24:53.09  Durée 00:00:01.06  Lisibilité 19
+tanto das interfaces
+
+ 432: 10:24:53.13 10:24:56.04  Durée 00:00:02.16  Lisibilité 40
+que permitem comunicar
+com o mundo externo
+
+ 433: 10:24:56.08 10:24:58.19  Durée 00:00:02.11  Lisibilité 37
+quanto os sensores
+instalados no carro.
+
+ 434: 10:25:03.17 10:25:05.17  Durée 00:00:02.00  Lisibilité 30
+#Comecemos pela conectividade.#
+
+ 435: 10:25:06.00 10:25:08.05  Durée 00:00:02.05  Lisibilité 33
+#Os carros
+estão cada vez mais ligados#
+
+ 436: 10:25:08.09 10:25:12.21  Durée 00:00:04.12  Lisibilité 67
+#ao mundo exterior:
+Bluetooth, Wifi, 4G e em breve 5G.#
+
+ 437: 10:25:13.08 10:25:15.13  Durée 00:00:02.05  Lisibilité 33
+#Os carros trocam informações#
+
+ 438: 10:25:15.17 10:25:17.17  Durée 00:00:02.00  Lisibilité 30
+#com infraestruturas rodoviárias,#
+
+ 439: 10:25:17.21 10:25:20.07  Durée 00:00:02.11  Lisibilité 37
+#como quanto tempo
+para o sinal mudar.#
+
+ 440: 10:25:20.11 10:25:22.18  Durée 00:00:02.07  Lisibilité 34
+#Também trocam informações
+entre eles:#
+
+ 441: 10:25:22.22 10:25:24.12  Durée 00:00:01.15  Lisibilité 24
+#sua posição, por exemplo.#
+
+ 442: 10:25:24.16 10:25:27.03  Durée 00:00:02.12  Lisibilité 37
+#O risco é que um terceiro
+ou pirata#
+
+ 443: 10:25:27.07 10:25:29.13  Durée 00:00:02.06  Lisibilité 34
+#se intrometa na comunicação.#
+
+ 444: 10:25:30.21 10:25:34.13  Durée 00:00:03.17  Lisibilité 55
+#José Fernandez é professor
+na Politécnica de Montreal.#
+
+ 445: 10:25:35.17 10:25:37.20  Durée 00:00:02.03  Lisibilité 32
+#Ele estuda questões de segurança#
+
+ 446: 10:25:38.00 10:25:40.01  Durée 00:00:02.01  Lisibilité 31
+#das comunicações digitais.#
+
+ 447: 10:25:40.15 10:25:42.11  Durée 00:00:01.21  Lisibilité 28
+Falamos de um carro conectado
+
+ 448: 10:25:42.15 10:25:45.15  Durée 00:00:03.00  Lisibilité 45
+cujos componentes se falam
+entre si e com o exterior.
+
+ 449: 10:25:45.20 10:25:47.16  Durée 00:00:01.21  Lisibilité 28
+É equivalente
+à rede de casa,
+
+ 450: 10:25:47.20 10:25:51.01  Durée 00:00:03.06  Lisibilité 49
+onde temos diversos computadores
+
+ 451: 10:25:51.05 10:25:53.12  Durée 00:00:02.07  Lisibilité 34
+falando entre eles,
+trocando informações.
+
+ 452: 10:25:53.16 10:25:55.07  Durée 00:00:01.16  Lisibilité 25
+e conectados à internet.
+
+ 453: 10:25:55.12 10:25:58.14  Durée 00:00:03.02  Lisibilité 46
+E temos de adaptar
+os carros autônomos
+
+ 454: 10:25:58.18 10:26:00.00  Durée 00:00:01.07  Lisibilité 19
+a desconfiar
+
+ 455: 10:26:00.05 10:26:01.21  Durée 00:00:01.16  Lisibilité 25
+de certas informações
+
+ 456: 10:26:02.00 10:26:03.23  Durée 00:00:01.23  Lisibilité 29
+que podem ser falsificadas.
+
+ 457: 10:26:07.12 10:26:10.13  Durée 00:00:03.01  Lisibilité 46
+#Uma das formas de se precaver
+é poder autentificar#
+
+ 458: 10:26:10.18 10:26:13.10  Durée 00:00:02.17  Lisibilité 40
+#a fonte da informação
+que nos é encaminhada.#
+
+ 459: 10:26:14.18 10:26:17.04  Durée 00:00:02.11  Lisibilité 37
+Temos de nos assegurar 
+que as fontes de dados
+
+ 460: 10:26:17.08 10:26:18.08  Durée 00:00:01.00  Lisibilité 15
+sejam autentificadas,
+
+ 461: 10:26:18.13 10:26:23.15  Durée 00:00:05.02  Lisibilité 76
+que só sejam autorizados
+a transmitir informações
+
+ 462: 10:26:23.19 10:26:26.02  Durée 00:00:02.08  Lisibilité 35
+carros que sejam certificados,
+por exemplo,
+
+ 463: 10:26:26.06 10:26:28.16  Durée 00:00:02.10  Lisibilité 36
+ou que só possam
+transmitir informações
+
+ 464: 10:26:28.20 10:26:31.15  Durée 00:00:02.20  Lisibilité 42
+sensores na rodovia
+que sejam controlados.
+
+ 465: 10:26:35.01 10:26:36.22  Durée 00:00:01.21  Lisibilité 28
+#As questões
+de segurança digital#
+
+ 466: 10:26:37.01 10:26:40.01  Durée 00:00:03.00  Lisibilité 45
+#são o cotidiano de empresas
+como a QNX, em Ottawa,#
+
+ 467: 10:26:40.06 10:26:42.01  Durée 00:00:01.20  Lisibilité 27
+#uma filial da BlackBerry.#
+
+ 468: 10:26:42.06 10:26:45.06  Durée 00:00:03.00  Lisibilité 45
+#Especializada no desenvolvimento
+de sistemas de exploração#
+
+ 469: 10:26:45.10 10:26:47.12  Durée 00:00:02.02  Lisibilité 31
+#para equipamentos
+de# infotainment#,#
+
+ 470: 10:26:47.16 10:26:50.17  Durée 00:00:03.01  Lisibilité 46
+#seu sistema equipa 60 milhões
+de carros no mundo.#
+
+ 471: 10:26:52.04 10:26:54.13  Durée 00:00:02.09  Lisibilité 35
+#Desde o ano passado,
+a QNX iniciou#
+
+ 472: 10:26:54.17 10:26:57.10  Durée 00:00:02.18  Lisibilité 41
+#o desenvolvimento
+de um novo sistema de exploração,#
+
+ 473: 10:26:57.14 10:27:00.09  Durée 00:00:02.20  Lisibilité 42
+#desta vez para a condução
+de carros autônomos.#
+
+ 474: 10:27:03.22 10:27:06.20  Durée 00:00:02.23  Lisibilité 44
+#A arquitetura do sistema
+leva em conta# de facto
+
+ 475: 10:27:07.00 10:27:08.23  Durée 00:00:01.23  Lisibilité 29
+#que um ataque
+é sempre possível.#
+
+ 476: 10:27:09.02 10:27:11.20  Durée 00:00:02.18  Lisibilité 41
+#A ideia é detectar rapidamente#
+
+ 477: 10:27:11.24 10:27:16.10  Durée 00:00:04.11  Lisibilité 67
+#e limitar a capacidade do intruso
+de manipular o veículo à sua revelia.#
+
+ 478: 10:27:18.04 10:27:21.00  Durée 00:00:02.21  Lisibilité 43
+Queremos detectar uma intrusão
+e contê-la.
+
+ 479: 10:27:21.04 10:27:22.05  Durée 00:00:01.01  Lisibilité 16
+Um software autorizado
+
+ 480: 10:27:22.10 10:27:23.14  Durée 00:00:01.04  Lisibilité 17
+a falar com um sensor
+
+ 481: 10:27:23.18 10:27:26.07  Durée 00:00:02.14  Lisibilité 38
+e a transmitir esses dados
+a outro sistema
+
+ 482: 10:27:26.11 10:27:29.15  Durée 00:00:03.04  Lisibilité 47
+não poderá ir além
+do que ele foi autorizado.
+
+ 483: 10:27:30.14 10:27:32.00  Durée 00:00:01.11  Lisibilité 22
+Ele não poderá
+comprometer
+
+ 484: 10:27:32.04 10:27:34.23  Durée 00:00:02.19  Lisibilité 41
+o funcionamento
+de outro sistema no veículo.
+
+ 485: 10:27:38.14 10:27:42.05  Durée 00:00:03.16  Lisibilité 55
+#O segundo tipo de ataques possível 
+é aos sensores:#
+
+ 486: 10:27:42.10 10:27:44.23  Durée 00:00:02.13  Lisibilité 38
+#LIDAR, radar, GPS, ultrassons,#
+
+ 487: 10:27:45.03 10:27:46.05  Durée 00:00:01.02  Lisibilité 16
+#câmeras.#
+
+ 488: 10:27:46.10 10:27:50.04  Durée 00:00:03.19  Lisibilité 56
+#Várias experiências mostraram
+que é possível hackear um sensor.#
+
+ 489: 10:27:50.21 10:27:52.23  Durée 00:00:02.02  Lisibilité 31
+#Um ataque assim,
+se não for detectado,#
+
+ 490: 10:27:53.02 10:27:54.05  Durée 00:00:01.03  Lisibilité 17
+#pode afetar#
+
+ 491: 10:27:54.09 10:27:57.02  Durée 00:00:02.18  Lisibilité 41
+#as decisões de condução
+que o carro toma.#
+
+ 492: 10:27:58.11 10:28:00.07  Durée 00:00:01.21  Lisibilité 28
+Se alguém explorar
+a vulnerabilidade
+
+ 493: 10:28:00.11 10:28:04.11  Durée 00:00:04.00  Lisibilité 60
+de um radar ou do LIDAR,
+precisa ser detectado rapidamente.
+
+ 494: 10:28:06.09 10:28:07.16  Durée 00:00:01.07  Lisibilité 19
+Podem descobrir dados
+
+ 495: 10:28:07.20 10:28:10.14  Durée 00:00:02.19  Lisibilité 41
+que não correspondem
+aos recebidos pelo veículo
+
+ 496: 10:28:10.18 10:28:11.24  Durée 00:00:01.06  Lisibilité 19
+durante seu treino.
+
+ 497: 10:28:12.03 10:28:15.09  Durée 00:00:03.06  Lisibilité 49
+Um sinal seria então lançado
+ao sistema de condução:
+
+ 498: 10:28:15.13 10:28:16.24  Durée 00:00:01.11  Lisibilité 22
+"Há algo estranho.
+
+ 499: 10:28:18.20 10:28:20.16  Durée 00:00:01.21  Lisibilité 28
+"Não se sabemos é uma ameaça,
+
+ 500: 10:28:20.20 10:28:22.12  Durée 00:00:01.17  Lisibilité 25
+"mas não corresponde
+aos dados
+
+ 501: 10:28:22.16 10:28:24.07  Durée 00:00:01.16  Lisibilité 25
+"que vemos habitualmente."
+
+ 502: 10:28:29.09 10:28:34.04  Durée 00:00:04.20  Lisibilité 72
+#A importância de ter um sistema
+inatacável e confiável é crucial.#
+
+ 503: 10:28:39.12 10:28:42.16  Durée 00:00:03.04  Lisibilité 47
+#Podemos comparar
+com o piloto automático de um avião#
+
+ 504: 10:28:42.20 10:28:45.01  Durée 00:00:02.06  Lisibilité 34
+#em que também há vidas em jogo.#
+
+ 505: 10:28:46.10 10:28:48.04  Durée 00:00:01.19  Lisibilité 26
+Num avião há redundância
+
+ 506: 10:28:48.08 10:28:50.18  Durée 00:00:02.10  Lisibilité 36
+dos sistemas hidráulicos
+ou eletrônicos.
+
+ 507: 10:28:50.23 10:28:53.05  Durée 00:00:02.07  Lisibilité 34
+Para os carros,
+devemos fazer o mesmo.
+
+ 508: 10:28:56.01 10:28:57.11  Durée 00:00:01.10  Lisibilité 21
+#A redundância também#
+
+ 509: 10:28:57.16 10:29:00.01  Durée 00:00:02.10  Lisibilité 36
+#aumenta a fiabilidade
+do carro autônomo.#
+
+ 510: 10:29:00.21 10:29:02.22  Durée 00:00:02.01  Lisibilité 31
+#Vários sistemas
+trabalham em paralelo#
+
+ 511: 10:29:03.01 10:29:06.01  Durée 00:00:03.00  Lisibilité 45
+#ou se revezam em caso de problema.#
+
+ 512: 10:29:06.23 10:29:09.22  Durée 00:00:02.24  Lisibilité 44
+#As decisões que o carro toma
+durante a condução#
+
+ 513: 10:29:10.01 10:29:13.18  Durée 00:00:03.17  Lisibilité 55
+#são sempre baseadas em dados
+recebidos por vários sensores.#
+
+ 514: 10:29:14.11 10:29:15.24  Durée 00:00:01.13  Lisibilité 23
+Usando 3 sensores,
+
+ 515: 10:29:16.03 10:29:17.24  Durée 00:00:01.21  Lisibilité 28
+cria-se redundância
+no sistema.
+
+ 516: 10:29:18.03 10:29:21.06  Durée 00:00:03.03  Lisibilité 47
+Se um sensor perder
+a detecção de um objeto,
+
+ 517: 10:29:21.10 10:29:24.15  Durée 00:00:03.05  Lisibilité 48
+os outros o ajudam e veem
+o que pode ter lhe escapado.
+
+ 518: 10:29:25.21 10:29:28.21  Durée 00:00:03.00  Lisibilité 45
+#Da mesma forma,
+vários algoritmos vão confirmar,#
+
+ 519: 10:29:29.00 10:29:30.00  Durée 00:00:01.00  Lisibilité 15
+#um por vez,#
+
+ 520: 10:29:30.04 10:29:32.21  Durée 00:00:02.17  Lisibilité 40
+#que é mesmo um pedestre
+na beira da via.#
+
+ 521: 10:29:33.17 10:29:36.11  Durée 00:00:02.19  Lisibilité 41
+Aqui temos um pedestre.
+Na verdade, dois.
+
+ 522: 10:29:37.13 10:29:39.13  Durée 00:00:02.00  Lisibilité 30
+#Mesma coisa para a cartografia.#
+
+ 523: 10:29:39.17 10:29:41.19  Durée 00:00:02.02  Lisibilité 31
+#A maioria dos carros autônomos#
+
+ 524: 10:29:41.23 10:29:43.08  Durée 00:00:01.10  Lisibilité 21
+#só roda em vias#
+
+ 525: 10:29:43.12 10:29:46.15  Durée 00:00:03.03  Lisibilité 47
+#que foram previamente
+cartografadas em detalhes.#
+
+ 526: 10:29:46.19 10:29:48.16  Durée 00:00:01.22  Lisibilité 28
+#Isso permite correlacionar
+sua posição#
+
+ 527: 10:29:48.20 10:29:51.22  Durée 00:00:03.02  Lisibilité 46
+#e antecipar melhor
+os pontos críticos do trajeto.#
+
+ 528: 10:29:52.23 10:29:56.01  Durée 00:00:03.03  Lisibilité 47
+É uma questão
+de robusteza e fiabilidade.
+
+ 529: 10:29:57.13 10:30:00.18  Durée 00:00:03.05  Lisibilité 48
+Os sistemas atuais
+baseiam-se muito em mapas.
+
+ 530: 10:30:00.22 10:30:03.14  Durée 00:00:02.17  Lisibilité 40
+Tentamos torná-los
+menos dependentes deles,
+
+ 531: 10:30:04.19 10:30:07.19  Durée 00:00:03.00  Lisibilité 45
+em casos onde haja
+um erro de cartografia
+
+ 532: 10:30:07.23 10:30:10.00  Durée 00:00:02.02  Lisibilité 31
+ou uma obra recente,
+
+ 533: 10:30:10.04 10:30:13.01  Durée 00:00:02.22  Lisibilité 43
+e ainda mantendo
+essa robusteza do sistema.
+
+ 534: 10:30:17.14 10:30:19.20  Durée 00:00:02.06  Lisibilité 34
+#Raquel Urtasun é professora
+e pesquisadora#
+
+ 535: 10:30:19.24 10:30:21.17  Durée 00:00:01.18  Lisibilité 26
+#na Universidade de Toronto.#
+
+ 536: 10:30:23.03 10:30:24.16  Durée 00:00:01.13  Lisibilité 23
+#Ela e sua equipe estudam#
+
+ 537: 10:30:24.21 10:30:27.19  Durée 00:00:02.23  Lisibilité 44
+#melhoras da percepção visual
+dos carros autônomos#
+
+ 538: 10:30:27.23 10:30:30.06  Durée 00:00:02.08  Lisibilité 35
+#para compensar a falta de informação#
+
+ 539: 10:30:30.19 10:30:32.21  Durée 00:00:02.02  Lisibilité 31
+#num mapa
+ou uma mera pane de GPS.#
+
+ 540: 10:30:35.15 10:30:38.23  Durée 00:00:03.08  Lisibilité 50
+O GPS não é confiável
+por vários motivos.
+
+ 541: 10:30:40.01 10:30:42.20  Durée 00:00:02.19  Lisibilité 41
+Você pode perder um sinal
+entre arranha-céus
+
+ 542: 10:30:42.24 10:30:44.15  Durée 00:00:01.16  Lisibilité 25
+ou em ruas estreitas.
+
+ 543: 10:30:45.17 10:30:46.24  Durée 00:00:01.07  Lisibilité 19
+Por isso você precisa
+
+ 544: 10:30:47.04 10:30:49.12  Durée 00:00:02.08  Lisibilité 35
+de um algoritmo
+de percepção visual
+
+ 545: 10:30:49.16 10:30:52.07  Durée 00:00:02.16  Lisibilité 40
+que descreva
+o que acontece à sua volta
+
+ 546: 10:30:52.11 10:30:53.22  Durée 00:00:01.11  Lisibilité 22
+de forma dinâmica:
+
+ 547: 10:30:54.01 10:30:56.04  Durée 00:00:02.03  Lisibilité 32
+onde fica a rua, sua via... 
+
+ 548: 10:30:56.08 10:30:58.05  Durée 00:00:01.22  Lisibilité 28
+É a meta de nossas pesquisas.
+
+ 549: 10:31:01.14 10:31:04.02  Durée 00:00:02.13  Lisibilité 38
+#Essa robusteza dos sistemas
+e fiabilidade#
+
+ 550: 10:31:04.07 10:31:05.12  Durée 00:00:01.05  Lisibilité 18
+#do carro autônomo#
+
+ 551: 10:31:05.16 10:31:07.15  Durée 00:00:01.24  Lisibilité 29
+#devem existir
+em todos os níveis.#
+
+ 552: 10:31:09.07 10:31:12.03  Durée 00:00:02.21  Lisibilité 43
+#Cada decisão que o carro tomar
+vai se basear#
+
+ 553: 10:31:12.08 10:31:14.00  Durée 00:00:01.17  Lisibilité 25
+#num alto nível de confiança#
+
+ 554: 10:31:14.04 10:31:16.23  Durée 00:00:02.19  Lisibilité 41
+#nos dados
+que ele captar e analisar.#
+
+ 555: 10:31:17.21 10:31:20.02  Durée 00:00:02.06  Lisibilité 34
+#E nesse nível, a margem de erro#
+
+ 556: 10:31:20.07 10:31:21.21  Durée 00:00:01.14  Lisibilité 23
+#terá de ser baixa.#
+
+ 557: 10:31:23.06 10:31:25.04  Durée 00:00:01.23  Lisibilité 29
+Não podemos precipitar nada.
+
+ 558: 10:31:25.08 10:31:28.02  Durée 00:00:02.19  Lisibilité 41
+Senão podemos pôr
+as pessoas em perigo
+
+ 559: 10:31:28.06 10:31:29.22  Durée 00:00:01.16  Lisibilité 25
+e perder sua confiança.
+
+ 560: 10:31:30.01 10:31:33.06  Durée 00:00:03.05  Lisibilité 48
+Como indústria, devemos fazer
+isso corretamente.
+
+ 561: 10:31:34.18 10:31:38.02  Durée 00:00:03.09  Lisibilité 50
+#Exigiremos mais de um carro
+autônomo que de um condutor?#
+
+ 562: 10:31:38.21 10:31:40.12  Durée 00:00:01.16  Lisibilité 25
+#Perdoaremos facilmente#
+
+ 563: 10:31:40.16 10:31:43.11  Durée 00:00:02.20  Lisibilité 42
+#um erro ou a falha
+de um de seus sistemas?#
+
+ 564: 10:31:45.14 10:31:46.16  Durée 00:00:01.02  Lisibilité 16
+O que está claro
+
+ 565: 10:31:46.21 10:31:50.18  Durée 00:00:03.22  Lisibilité 58
+é que a sociedade exigirá mais
+de um algoritmo ou de uma máquina
+
+ 566: 10:31:50.22 10:31:52.10  Durée 00:00:01.13  Lisibilité 23
+que de um condutor.
+
+ 567: 10:31:52.14 10:31:53.20  Durée 00:00:01.06  Lisibilité 19
+E por quê?
+
+ 568: 10:31:54.13 10:31:57.24  Durée 00:00:03.11  Lisibilité 52
+Confiamos num humano
+porque nos identificamos com ele
+
+ 569: 10:31:58.03 10:31:59.17  Durée 00:00:01.14  Lisibilité 23
+mais que com uma máquina.
+
+ 570: 10:32:02.20 10:32:04.17  Durée 00:00:01.22  Lisibilité 28
+#Então o quanto
+o carro autônomo#
+
+ 571: 10:32:04.21 10:32:06.09  Durée 00:00:01.13  Lisibilité 23
+#deverá se aproximar#
+
+ 572: 10:32:06.13 10:32:08.13  Durée 00:00:02.00  Lisibilité 30
+#do comportamento
+e do raciocínio humanos#
+
+ 573: 10:32:08.17 10:32:10.13  Durée 00:00:01.21  Lisibilité 28
+#para ganhar sua confiança?#
+
+ 574: 10:32:15.15 10:32:19.01  Durée 00:00:03.11  Lisibilité 52
+Carro sem condutor
+
+ 575: 10:32:19.06 10:32:20.18  Durée 00:00:01.12  Lisibilité 22
+#A lei é a lei.#
+
+ 576: 10:32:20.22 10:32:23.21  Durée 00:00:02.24  Lisibilité 44
+#O Código de Trânsito
+impõe regras:#
+
+ 577: 10:32:24.01 10:32:26.19  Durée 00:00:02.18  Lisibilité 41
+#limites de velocidade,
+zonas de ultrapassagem...#
+
+ 578: 10:32:26.23 10:32:31.00  Durée 00:00:04.02  Lisibilité 61
+#Regras bem fáceis de ensinar,
+até a um veículo autônomo.#
+
+ 579: 10:32:31.12 10:32:34.03  Durée 00:00:02.16  Lisibilité 40
+#Só que às vezes
+temos de desobedecer#
+
+ 580: 10:32:34.08 10:32:35.24  Durée 00:00:01.16  Lisibilité 25
+#às regras.#
+
+ 581: 10:32:36.03 10:32:38.09  Durée 00:00:02.06  Lisibilité 34
+#Quando uma ambulância
+chega por trás,#
+
+ 582: 10:32:38.13 10:32:40.24  Durée 00:00:02.11  Lisibilité 37
+#podemos ter de fazer
+uma manobra ilegal#
+
+ 583: 10:32:41.03 10:32:42.13  Durée 00:00:01.10  Lisibilité 21
+#para deixá-la passar.#
+
+ 584: 10:32:44.11 10:32:47.06  Durée 00:00:02.20  Lisibilité 42
+Devemos programar o carro
+autônomo a burlar a lei
+
+ 585: 10:32:47.10 10:32:48.16  Durée 00:00:01.06  Lisibilité 19
+até certo ponto.
+
+ 586: 10:32:48.20 10:32:50.08  Durée 00:00:01.13  Lisibilité 23
+Como resolver o problema?
+
+ 587: 10:32:51.20 10:32:55.22  Durée 00:00:04.02  Lisibilité 61
+Que tipo de responsabilidade legal
+isso impõe às montadoras?
+
+ 588: 10:32:56.01 10:32:58.01  Durée 00:00:02.00  Lisibilité 30
+É uma ampla questão ética
+
+ 589: 10:32:58.20 10:33:01.24  Durée 00:00:03.04  Lisibilité 47
+e é o tipo de questão
+que começa a surgir
+
+ 590: 10:33:02.03 10:33:04.14  Durée 00:00:02.11  Lisibilité 37
+com o desenvolvimento
+do carro autônomo.
+
+ 591: 10:33:08.03 10:33:10.13  Durée 00:00:02.10  Lisibilité 36
+#Jason Millar
+é engenheiro e filósofo#
+
+ 592: 10:33:10.17 10:33:11.19  Durée 00:00:01.02  Lisibilité 16
+#na Univ. de Ottawa.#
+
+ 593: 10:33:12.09 10:33:14.24  Durée 00:00:02.15  Lisibilité 39
+#Ele pertence a um grupo
+que trabalha#
+
+ 594: 10:33:15.04 10:33:16.06  Durée 00:00:01.02  Lisibilité 16
+#com as montadoras#
+
+ 595: 10:33:16.10 10:33:19.03  Durée 00:00:02.18  Lisibilité 41
+#sobre as questões éticas
+do carro autônomo.#
+
+ 596: 10:33:21.17 10:33:22.14  Durée 00:00:00.22  Lisibilité 13
+#Um carro#
+
+ 597: 10:33:22.18 10:33:24.22  Durée 00:00:02.04  Lisibilité 32
+#que em teoria
+seja prudente e atento#
+
+ 598: 10:33:25.01 10:33:27.00  Durée 00:00:01.24  Lisibilité 29
+#ainda deverá enfrentar escolhas#
+
+ 599: 10:33:27.04 10:33:28.14  Durée 00:00:01.10  Lisibilité 21
+#rápidas e duras,#
+
+ 600: 10:33:28.19 10:33:30.12  Durée 00:00:01.18  Lisibilité 26
+#como todos os condutores.#
+
+ 601: 10:33:33.05 10:33:37.03  Durée 00:00:03.23  Lisibilité 59
+#Imagine o carro confrontado
+a 2 péssimas opções:#
+
+ 602: 10:33:37.07 10:33:40.08  Durée 00:00:03.01  Lisibilité 46
+#bater num obstáculo
+podendo ferir seus ocupantes#
+
+ 603: 10:33:40.23 10:33:43.02  Durée 00:00:02.04  Lisibilité 32
+#ou atropelar pedestres ao lado#
+
+ 604: 10:33:43.06 10:33:44.22  Durée 00:00:01.16  Lisibilité 25
+#para evitar o obstáculo?#
+
+ 605: 10:33:45.01 10:33:47.23  Durée 00:00:02.22  Lisibilité 43
+#Baseado em que faremos escolhas
+pelo carro?#
+
+ 606: 10:33:50.18 10:33:52.09  Durée 00:00:01.16  Lisibilité 25
+As montadoras perguntaram:
+
+ 607: 10:33:52.13 10:33:54.18  Durée 00:00:02.05  Lisibilité 33
+"Como devo conceber meu carro?
+
+ 608: 10:33:54.22 10:33:57.06  Durée 00:00:02.09  Lisibilité 35
+"Devo proteger os passageiros
+
+ 609: 10:33:57.12 10:33:59.05  Durée 00:00:01.18  Lisibilité 26
+"ou os pedestres na rua?"
+
+ 610: 10:34:01.02 10:34:04.17  Durée 00:00:03.15  Lisibilité 54
+Não há resposta fácil
+para esse tipo de questão.
+
+ 611: 10:34:06.24 10:34:10.17  Durée 00:00:03.18  Lisibilité 56
+#A resposta não é simples,
+pois podemos justificar as 2 opções.#
+
+ 612: 10:34:12.16 10:34:14.02  Durée 00:00:01.11  Lisibilité 22
+Haverá situações
+
+ 613: 10:34:14.06 10:34:16.10  Durée 00:00:02.04  Lisibilité 32
+em que não se poderá
+poupar todos,
+
+ 614: 10:34:16.16 10:34:18.20  Durée 00:00:02.04  Lisibilité 32
+em que o bom senso dirá
+
+ 615: 10:34:18.24 10:34:21.20  Durée 00:00:02.21  Lisibilité 43
+que é melhor reduzir
+o risco de feridas graves
+
+ 616: 10:34:21.24 10:34:23.22  Durée 00:00:01.23  Lisibilité 29
+dividindo o impacto da colisão
+
+ 617: 10:34:24.01 10:34:25.01  Durée 00:00:01.00  Lisibilité 15
+por várias pessoas.
+
+ 618: 10:34:25.23 10:34:27.19  Durée 00:00:01.21  Lisibilité 28
+Um cálculo que sugere
+
+ 619: 10:34:27.23 10:34:30.04  Durée 00:00:02.06  Lisibilité 34
+que todos terão ferimentos menores.
+
+ 620: 10:34:32.17 10:34:36.03  Durée 00:00:03.11  Lisibilité 52
+#Esse cálculo depende em parte
+do valor que se dá à vida.#
+
+ 621: 10:34:37.10 10:34:40.01  Durée 00:00:02.16  Lisibilité 40
+#Coisa que os humanos aprendem
+desde pequenos.#
+
+ 622: 10:34:41.22 10:34:44.00  Durée 00:00:02.03  Lisibilité 32
+#Mas o carro autônomo,
+inicialmente,#
+
+ 623: 10:34:44.05 10:34:45.02  Durée 00:00:00.22  Lisibilité 13
+#não tem valores.#
+
+ 624: 10:34:45.20 10:34:48.03  Durée 00:00:02.08  Lisibilité 35
+#Ele tem
+o que seus criadores lhe dão.#
+
+ 625: 10:34:50.04 10:34:53.14  Durée 00:00:03.10  Lisibilité 51
+São decisões que
+os humanos tomam pela máquina.
+
+ 626: 10:34:53.19 10:34:57.09  Durée 00:00:03.15  Lisibilité 54
+No plano ético, isso levanta
+outra questão interessante:
+
+ 627: 10:34:57.13 10:34:59.00  Durée 00:00:01.12  Lisibilité 22
+quem tomará
+essas decisões?
+
+ 628: 10:35:00.03 10:35:02.24  Durée 00:00:02.21  Lisibilité 43
+#Boa pergunta. Quem decidirá?#
+
+ 629: 10:35:03.03 10:35:07.00  Durée 00:00:03.22  Lisibilité 58
+#Os usuários, o legislador
+ou as montadoras?#
+
+ 630: 10:35:09.04 10:35:11.21  Durée 00:00:02.17  Lisibilité 40
+Seria um erro das montadoras
+
+ 631: 10:35:12.00 10:35:14.14  Durée 00:00:02.14  Lisibilité 38
+presumir
+que eles têm legitimidade moral
+
+ 632: 10:35:14.18 10:35:17.24  Durée 00:00:03.06  Lisibilité 49
+para decidir algo assim
+em qualquer circunstância
+
+ 633: 10:35:18.03 10:35:20.24  Durée 00:00:02.21  Lisibilité 43
+e integrar sua escolha
+no design do veículo.
+
+ 634: 10:35:21.03 10:35:22.22  Durée 00:00:01.19  Lisibilité 26
+Falando de vida ou morte,
+
+ 635: 10:35:23.01 10:35:26.09  Durée 00:00:03.08  Lisibilité 50
+tocamos em altas questões morais
+
+ 636: 10:35:26.14 10:35:28.13  Durée 00:00:01.24  Lisibilité 29
+cuja autoridade moral no tema
+
+ 637: 10:35:28.17 10:35:31.16  Durée 00:00:02.24  Lisibilité 44
+não está
+num escritório de engenheiros.
+
+ 638: 10:35:35.17 10:35:37.13  Durée 00:00:01.21  Lisibilité 28
+#As regras que enquadram#
+
+ 639: 10:35:37.17 10:35:40.10  Durée 00:00:02.18  Lisibilité 41
+#o carro autônomo
+na América do Norte ainda#
+
+ 640: 10:35:40.14 10:35:41.17  Durée 00:00:01.03  Lisibilité 17
+#não foram definidas.#
+
+ 641: 10:35:42.09 10:35:45.16  Durée 00:00:03.07  Lisibilité 49
+#Nem a divisão da responsabilidade
+em caso de acidente.#
+
+ 642: 10:35:47.19 10:35:50.02  Durée 00:00:02.08  Lisibilité 35
+Essas escolhas
+são um trabalho enorme,
+
+ 643: 10:35:50.06 10:35:51.19  Durée 00:00:01.13  Lisibilité 23
+pois há vidas em jogo
+
+ 644: 10:35:51.23 10:35:54.10  Durée 00:00:02.12  Lisibilité 37
+e o carro tomará decisões.
+
+ 645: 10:35:54.23 10:35:57.05  Durée 00:00:02.07  Lisibilité 34
+Ainda há muito trabalho à frente
+
+ 646: 10:35:57.09 10:36:00.21  Durée 00:00:03.12  Lisibilité 52
+antes de vermos carros
+totalmente autônomos nas ruas.
+
+ 647: 10:36:02.03 10:36:04.23  Durée 00:00:02.20  Lisibilité 42
+#A promessa de entregar
+carros autônomos#
+
+ 648: 10:36:05.03 10:36:08.07  Durée 00:00:03.04  Lisibilité 47
+#em poucos anos se sustenta?#
+
+ 649: 10:36:08.12 10:36:12.00  Durée 00:00:03.13  Lisibilité 53
+#A Ford e outras montadoras
+os prometem para 2021.#
+
+ 650: 10:36:12.04 10:36:14.13  Durée 00:00:02.09  Lisibilité 35
+#Mas que forma isso tomará?#
+
+ 651: 10:36:16.17 10:36:19.21  Durée 00:00:03.04  Lisibilité 47
+Em termos de autonomia,
+é consenso no setor
+
+ 652: 10:36:20.01 10:36:22.19  Durée 00:00:02.18  Lisibilité 41
+que o carro autônomo
+vai primeiro se espalhar
+
+ 653: 10:36:22.23 10:36:24.20  Durée 00:00:01.22  Lisibilité 28
+sob a forma de táxis robôs,
+
+ 654: 10:36:25.12 10:36:28.03  Durée 00:00:02.16  Lisibilité 40
+de tal forma
+que as pessoas se familiarizem
+
+ 655: 10:36:28.08 10:36:32.04  Durée 00:00:03.21  Lisibilité 58
+com os veículos
+como usuários ou consumidores.
+
+ 656: 10:36:35.04 10:36:37.10  Durée 00:00:02.06  Lisibilité 34
+Eles verão como é
+a condução do veículo
+
+ 657: 10:36:37.14 10:36:40.15  Durée 00:00:03.01  Lisibilité 46
+antes de talvez comprá-lo
+mais tarde.
+
+ 658: 10:36:46.17 10:36:48.23  Durée 00:00:02.06  Lisibilité 34
+#Nossa adaptação
+ao carro autônomo#
+
+ 659: 10:36:49.03 10:36:50.23  Durée 00:00:01.20  Lisibilité 27
+#poderá vir por etapas.#
+
+ 660: 10:36:51.15 10:36:53.07  Durée 00:00:01.17  Lisibilité 25
+#Entrar em táxis robôs#
+
+ 661: 10:36:53.12 10:36:56.13  Durée 00:00:03.01  Lisibilité 46
+#comparáveis ao UBER,
+ao Lyft ou ao Nutonomy.#
+
+ 662: 10:36:58.01 10:36:59.22  Durée 00:00:01.21  Lisibilité 28
+#Andar em micro-ônibus
+autônomos,#
+
+ 663: 10:37:00.01 10:37:03.11  Durée 00:00:03.10  Lisibilité 51
+#como os que vão testar
+em Terrebonne, perto de Montreal.#
+
+ 664: 10:37:03.16 10:37:07.10  Durée 00:00:03.19  Lisibilité 56
+#Ou dirigir carros
+com sistemas de auxílio à condução.#
+
+ 665: 10:37:09.23 10:37:13.07  Durée 00:00:03.09  Lisibilité 50
+Os sistemas de auxílio à condução
+continuarão evoluindo,
+
+ 666: 10:37:13.11 10:37:16.06  Durée 00:00:02.20  Lisibilité 42
+mas o condutor
+ainda estará dirigindo.
+
+ 667: 10:37:17.03 10:37:19.07  Durée 00:00:02.04  Lisibilité 32
+É a evolução gradual
+desses sistemas
+
+ 668: 10:37:19.11 10:37:22.05  Durée 00:00:02.19  Lisibilité 41
+que fará ganhar
+a confiança dos consumidores
+
+ 669: 10:37:22.09 10:37:24.04  Durée 00:00:01.20  Lisibilité 27
+no carro autônomo.
+
+ 670: 10:37:24.22 10:37:27.02  Durée 00:00:02.05  Lisibilité 33
+Enquanto isso,
+também poderemos
+
+ 671: 10:37:27.06 10:37:29.17  Durée 00:00:02.11  Lisibilité 37
+aprender mais sobre esses carros.
+
+ 672: 10:37:32.18 10:37:35.04  Durée 00:00:02.11  Lisibilité 37
+#Mas a maioria das montadoras
+têm pressa.#
+
+ 673: 10:37:36.12 10:37:37.24  Durée 00:00:01.12  Lisibilité 22
+#A competição é feroz.#
+
+ 674: 10:37:38.14 10:37:40.20  Durée 00:00:02.06  Lisibilité 34
+#Todas querem dominar o mercado#
+
+ 675: 10:37:41.00 10:37:43.04  Durée 00:00:02.04  Lisibilité 32
+#o mais rápido possível.#
+
+ 676: 10:37:43.22 10:37:46.03  Durée 00:00:02.06  Lisibilité 34
+Mas precisarão tomar cuidado
+
+ 677: 10:37:46.07 10:37:49.06  Durée 00:00:02.24  Lisibilité 44
+para que as estratégias de marketing
+
+ 678: 10:37:49.11 10:37:53.15  Durée 00:00:04.04  Lisibilité 62
+não venham suplantar
+
+ 679: 10:37:53.20 10:37:55.13  Durée 00:00:01.18  Lisibilité 26
+a segurança rodoviária
+
+ 680: 10:37:55.17 10:37:57.10  Durée 00:00:01.18  Lisibilité 26
+e acabem
+com décadas de atraso
+
+ 681: 10:37:57.15 10:38:01.02  Durée 00:00:03.12  Lisibilité 52
+até poderem reintroduzi-los
+porque se precipitaram.
+
+ 682: 10:38:03.12 10:38:06.08  Durée 00:00:02.21  Lisibilité 43
+#O entusiasmo tecnológico
+pelo autônomo é grande,#
+
+ 683: 10:38:07.00 10:38:10.04  Durée 00:00:03.04  Lisibilité 47
+#mas a adesão do público
+não é óbvia.#
+
+ 684: 10:38:13.19 10:38:16.10  Durée 00:00:02.16  Lisibilité 40
+Entre as questões
+ainda sem resposta
+
+ 685: 10:38:16.15 10:38:19.24  Durée 00:00:03.09  Lisibilité 50
+tem a aceitação social
+desses veículos.
+
+ 686: 10:38:20.03 10:38:23.15  Durée 00:00:03.12  Lisibilité 52
+Será que os consumidores
+adotarão essa tecnologia?
+
+ 687: 10:38:26.13 10:38:30.23  Durée 00:00:04.10  Lisibilité 66
+#Uma sondagem recente do Massachusetts
+Institute of Technology, o MIT,#
+
+ 688: 10:38:31.03 10:38:34.23  Durée 00:00:03.20  Lisibilité 57
+#revelou que apenas 20%
+dos condutores de 25 a 44 anos#
+
+ 689: 10:38:35.03 10:38:37.24  Durée 00:00:02.21  Lisibilité 43
+#utilizariam um veículo
+totalmente autônomo.#
+
+ 690: 10:38:38.04 10:38:41.00  Durée 00:00:02.21  Lisibilité 43
+#É claro, essa percepção
+pode mudar com o tempo.#
+
+ 691: 10:38:46.17 10:38:48.18  Durée 00:00:02.01  Lisibilité 31
+#Mas afinal, que critério#
+
+ 692: 10:38:48.22 10:38:51.23  Durée 00:00:03.01  Lisibilité 46
+#fará pesar a balança
+a favor do carro autônomo?#
+
+ 693: 10:38:53.01 10:38:56.03  Durée 00:00:03.02  Lisibilité 46
+#Seu desempenho comparado
+ao do condutor humano?#
+
+ 694: 10:38:56.07 10:38:59.23  Durée 00:00:03.16  Lisibilité 55
+#Pode ser. Mas em que nível 
+deve-se fixar a barra?#
+
+ 695: 10:39:01.16 10:39:04.02  Durée 00:00:02.11  Lisibilité 37
+Ser tão bom
+quanto um condutor humano?
+
+ 696: 10:39:04.06 10:39:05.05  Durée 00:00:00.24  Lisibilité 14
+Certamente não.
+
+ 697: 10:39:05.09 10:39:08.02  Durée 00:00:02.18  Lisibilité 41
+2 vezes melhor
+em lesões ou acidentes?
+
+ 698: 10:39:09.03 10:39:10.09  Durée 00:00:01.06  Lisibilité 19
+Difícil dizer.
+
+ 699: 10:39:10.13 10:39:11.19  Durée 00:00:01.06  Lisibilité 19
+10 vezes melhor?
+
+ 700: 10:39:12.20 10:39:15.01  Durée 00:00:02.06  Lisibilité 34
+Na verdade, ninguém sabe.
+
+ 701: 10:39:18.13 10:39:20.06  Durée 00:00:01.18  Lisibilité 26
+#E a prova que um autônomo#
+
+ 702: 10:39:20.10 10:39:22.14  Durée 00:00:02.04  Lisibilité 32
+#pode ser melhor
+que o homem dirigindo#
+
+ 703: 10:39:22.18 10:39:25.12  Durée 00:00:02.19  Lisibilité 41
+#em qualquer lugar,
+tempo e circunstância#
+
+ 704: 10:39:25.16 10:39:27.03  Durée 00:00:01.12  Lisibilité 22
+#ainda não foi dada.#
+
+ 705: 10:39:38.01 10:39:40.08  Durée 00:00:02.07  Lisibilité 34
+Em Montreal,
+no bairro Plateau-Mont-Royal,
+
+ 706: 10:39:40.12 10:39:42.16  Durée 00:00:02.04  Lisibilité 32
+imóveis residenciais
+foram invadidos
+
+ 707: 10:39:42.20 10:39:44.22  Durée 00:00:02.02  Lisibilité 31
+por turistas querendo agito.
+
+ 708: 10:39:45.01 10:39:46.22  Durée 00:00:01.21  Lisibilité 28
+Cada vez mais residentes
+se queixam,
+
+ 709: 10:39:47.01 10:39:48.22  Durée 00:00:01.21  Lisibilité 28
+pois certos ocupantes
+barulhentos
+
+ 710: 10:39:49.01 10:39:52.07  Durée 00:00:03.06  Lisibilité 49
+alugaram um apartamento vizinho
+através do Airbnb.
+
+ 711: 10:39:52.11 10:39:53.08  Durée 00:00:00.22  Lisibilité 13
+Mas na verdade,
+
+ 712: 10:39:53.12 10:39:56.17  Durée 00:00:03.05  Lisibilité 48
+outros intermediários
+são a fonte do problema.
+
+ 713: 10:40:00.24 10:40:03.22  Durée 00:00:02.23  Lisibilité 44
+#Airbnb, um verdadeiro fenômeno.#
+
+ 714: 10:40:04.02 10:40:06.08  Durée 00:00:02.06  Lisibilité 34
+#55 mil apartamentos a alugar
+em Paris,#
+
+ 715: 10:40:06.24 10:40:08.16  Durée 00:00:01.17  Lisibilité 25
+#40 mil em Nova York,#
+
+ 716: 10:40:08.24 10:40:10.09  Durée 00:00:01.10  Lisibilité 21
+#mais de 10 mil
+em Montreal.#
+
+ 717: 10:40:10.13 10:40:12.03  Durée 00:00:01.15  Lisibilité 24
+Há 3 mil
+no Plateau-Mont-Royal,
+
+ 718: 10:40:12.08 10:40:13.21  Durée 00:00:01.13  Lisibilité 23
+5 mil na alta temporada.
+
+ 719: 10:40:15.16 10:40:18.19  Durée 00:00:03.03  Lisibilité 47
+#Queremos saber quem lucra
+com esse compartilhamento.#
+
+ 720: 10:40:18.24 10:40:22.11  Durée 00:00:03.12  Lisibilité 52
+Como é uma atividade
+relativamente pouco visível,
+
+ 721: 10:40:22.16 10:40:23.19  Durée 00:00:01.03  Lisibilité 17
+é difícil entender.
+
+ 722: 10:40:24.24 10:40:27.01  Durée 00:00:02.02  Lisibilité 31
+#Descobriu-se que empresas#
+
+ 723: 10:40:27.06 10:40:30.11  Durée 00:00:03.05  Lisibilité 48
+#usam o Airbnb para alugar
+apartamentos ilegalmente.#
+
+ 724: 10:40:32.14 10:40:34.09  Durée 00:00:01.20  Lisibilité 27
+Oferecem vários apartamentos.
+
+ 725: 10:40:34.13 10:40:36.23  Durée 00:00:02.10  Lisibilité 36
+São claramente profissionais.
+
+ 726: 10:40:37.23 10:40:40.15  Durée 00:00:02.17  Lisibilité 40
+#Passam da fechadura tradicional#
+
+ 727: 10:40:40.20 10:40:43.19  Durée 00:00:02.24  Lisibilité 44
+#à digital para mais praticidade
+para os turistas.#
+
+ 728: 10:40:44.06 10:40:46.08  Durée 00:00:02.02  Lisibilité 31
+#A vida do bairro está ameaçada.#
+
+ 729: 10:40:46.12 10:40:50.16  Durée 00:00:04.04  Lisibilité 62
+Podia haver festas
+de 35, 40 pessoas.
+
+ 730: 10:40:50.21 10:40:55.12  Durée 00:00:04.16  Lisibilité 70
+A festa começava na quinta-feira
+e terminava no domingo alegremente
+
+ 731: 10:40:55.17 10:40:59.13  Durée 00:00:03.21  Lisibilité 58
+com gente bêbada desde as 15, 16h.
+
+ 732: 10:41:05.11 10:41:07.19  Durée 00:00:02.08  Lisibilité 35
+#Esses proprietários
+do Plateau Mont-Royal#
+
+ 733: 10:41:07.23 10:41:11.01  Durée 00:00:03.03  Lisibilité 47
+#foram reticentes no começo,
+mas acabaram aceitando#
+
+ 734: 10:41:11.06 10:41:12.01  Durée 00:00:00.20  Lisibilité 12
+#falar conosco,#
+
+ 735: 10:41:12.05 10:41:15.14  Durée 00:00:03.09  Lisibilité 50
+#descrever o calvário
+que eles vivem há 3 anos.#
+
+ 736: 10:41:16.08 10:41:17.23  Durée 00:00:01.15  Lisibilité 24
+Havia barulho
+o tempo todo.
+
+ 737: 10:41:18.03 10:41:20.23  Durée 00:00:02.20  Lisibilité 42
+As pessoas vinham para uma festa
+e corriam,
+
+ 738: 10:41:21.03 10:41:23.02  Durée 00:00:01.24  Lisibilité 29
+de dia, de tarde e de noite.
+
+ 739: 10:41:23.19 10:41:25.05  Durée 00:00:01.11  Lisibilité 22
+Não há jeito de dormir.
+
+ 740: 10:41:25.09 10:41:27.10  Durée 00:00:02.01  Lisibilité 31
+Uma vez, vá lá.
+Duas vezes, bem...
+
+ 741: 10:41:27.15 10:41:29.13  Durée 00:00:01.23  Lisibilité 29
+Dois anos, todo fim de semana,
+
+ 742: 10:41:29.17 10:41:30.22  Durée 00:00:01.05  Lisibilité 18
+acredite, é duro.
+
+ 743: 10:41:31.23 10:41:35.09  Durée 00:00:03.11  Lisibilité 52
+#As limusines fazem até fila
+para deixar os turistas#
+
+ 744: 10:41:35.13 10:41:38.12  Durée 00:00:02.24  Lisibilité 44
+#que enchem 4 apartamentos,
+um ao lado do outro,#
+
+ 745: 10:41:38.16 10:41:41.20  Durée 00:00:03.04  Lisibilité 47
+#numa rua residencial do Plateau,
+a rua Cartier.#
+
+ 746: 10:41:41.24 10:41:43.15  Durée 00:00:01.16  Lisibilité 25
+A polícia nos disse
+
+ 747: 10:41:43.20 10:41:46.12  Durée 00:00:02.17  Lisibilité 40
+que aqui não é
+o único ponto quente,
+
+ 748: 10:41:46.16 10:41:48.21  Durée 00:00:02.05  Lisibilité 33
+que há muito no Plateau.
+
+ 749: 10:41:51.00 10:41:52.03  Durée 00:00:01.03  Lisibilité 17
+Alguns são gentis,
+
+ 750: 10:41:52.07 10:41:55.13  Durée 00:00:03.06  Lisibilité 49
+mas outros pensam
+que estão num resort.
+
+ 751: 10:41:56.15 10:41:59.24  Durée 00:00:03.09  Lisibilité 50
+#Olivier Lalande mora
+mais ao oeste do bairro.#
+
+ 752: 10:42:00.03 10:42:03.08  Durée 00:00:03.05  Lisibilité 48
+#Todo verão ele teme a chegada
+da clientela Airbnb#
+
+ 753: 10:42:03.13 10:42:05.15  Durée 00:00:02.02  Lisibilité 31
+#que invade
+o apartamento vizinho.#
+
+ 754: 10:42:05.19 10:42:09.05  Durée 00:00:03.11  Lisibilité 52
+Já vimos de tudo.
+Vimos soldados americanos
+
+ 755: 10:42:09.10 10:42:10.10  Durée 00:00:01.00  Lisibilité 15
+darem festas.
+
+ 756: 10:42:10.14 10:42:12.12  Durée 00:00:01.23  Lisibilité 29
+Tivemos escoceses
+
+ 757: 10:42:12.17 10:42:14.16  Durée 00:00:01.24  Lisibilité 29
+que bebiam até esquecer o nome.
+
+ 758: 10:42:14.21 10:42:16.12  Durée 00:00:01.16  Lisibilité 25
+Isso foi no verão de 2016.
+
+ 759: 10:42:16.16 10:42:18.09  Durée 00:00:01.18  Lisibilité 26
+#O que mais exaspera#
+
+ 760: 10:42:18.13 10:42:21.04  Durée 00:00:02.16  Lisibilité 40
+é a montanha de lixo
+que os turistas deixam.
+
+ 761: 10:42:21.09 10:42:24.07  Durée 00:00:02.23  Lisibilité 44
+Isto foi quando reclamamos tanto
+
+ 762: 10:42:24.23 10:42:27.02  Durée 00:00:02.04  Lisibilité 32
+que em vez de pegar o lixo
+
+ 763: 10:42:27.06 10:42:28.22  Durée 00:00:01.16  Lisibilité 25
+e levá-los
+ao local adequado
+
+ 764: 10:42:29.01 10:42:31.03  Durée 00:00:02.02  Lisibilité 31
+ele preferiram deixá-lo dentro,
+
+ 765: 10:42:31.08 10:42:33.19  Durée 00:00:02.11  Lisibilité 37
+e isso causou
+uma infestação de moscas.
+
+ 766: 10:42:35.13 10:42:37.07  Durée 00:00:01.19  Lisibilité 26
+- Tem por todo canto.
+- Todo.
+
+ 767: 10:42:39.08 10:42:42.04  Durée 00:00:02.21  Lisibilité 43
+#Quem são os proprietários
+por trás das locações?#
+
+ 768: 10:42:42.09 10:42:45.04  Durée 00:00:02.20  Lisibilité 42
+#Decidimos alugar
+por curta temporada#
+
+ 769: 10:42:45.08 10:42:47.13  Durée 00:00:02.05  Lisibilité 33
+#o 4047 da rua Cartier.#
+
+ 770: 10:42:48.03 10:42:50.14  Durée 00:00:02.11  Lisibilité 37
+#O endereço nos leva
+ao site Airbnb,#
+
+ 771: 10:42:50.18 10:42:54.12  Durée 00:00:03.19  Lisibilité 56
+#à lista da 20 melhores
+locações de férias em Montreal.#
+
+ 772: 10:42:55.03 10:42:57.03  Durée 00:00:02.00  Lisibilité 30
+#os locadores são 2 homens.#
+
+ 773: 10:42:57.07 10:42:59.03  Durée 00:00:01.21  Lisibilité 28
+#Pesquisando mais,#
+
+ 774: 10:42:59.07 10:43:02.12  Durée 00:00:03.05  Lisibilité 48
+#vemos que eles dirigem
+uma empresa chamada Sonder.#
+
+ 775: 10:43:04.15 10:43:06.07  Durée 00:00:01.17  Lisibilité 25
+Alugamos um apartamento
+
+ 776: 10:43:06.12 10:43:09.00  Durée 00:00:02.13  Lisibilité 38
+bem em frente daqui, 2 dias.
+
+ 777: 10:43:09.18 10:43:12.22  Durée 00:00:03.04  Lisibilité 47
+Não vejo nenhum painel fora.
+O que houve?
+
+ 778: 10:43:13.01 10:43:14.15  Durée 00:00:01.14  Lisibilité 23
+#Luc Ferrandez é prefeito#
+
+ 779: 10:43:14.19 10:43:17.03  Durée 00:00:02.09  Lisibilité 35
+#do distrito
+do Plateau Mont-Royal.#
+
+ 780: 10:43:17.07 10:43:18.02  Durée 00:00:00.20  Lisibilité 12
+Neste local,
+
+ 781: 10:43:18.07 10:43:21.18  Durée 00:00:03.11  Lisibilité 52
+havia justamente gente
+que alugava impunemente
+
+ 782: 10:43:21.22 10:43:24.07  Durée 00:00:02.10  Lisibilité 36
+como# bed and breakfast#,
+profissionais.
+
+ 783: 10:43:24.11 10:43:28.01  Durée 00:00:03.15  Lisibilité 54
+Estávamos a ponto
+de mandar fiscais.
+
+ 784: 10:43:28.05 10:43:31.06  Durée 00:00:03.01  Lisibilité 46
+Quando íamos fazê-lo,
+o proprietário faleceu.
+
+ 785: 10:43:31.10 10:43:33.23  Durée 00:00:02.13  Lisibilité 38
+E seu parceiro nos disse:
+
+ 786: 10:43:34.02 10:43:37.16  Durée 00:00:03.14  Lisibilité 53
+"Vou encerrar o negócio.
+Não quero mais saber."
+
+ 787: 10:43:37.20 10:43:39.17  Durée 00:00:01.22  Lisibilité 28
+E não enviamos os fiscais.
+
+ 788: 10:43:39.21 10:43:43.24  Durée 00:00:04.03  Lisibilité 62
+Depois percebemos
+que fomos enrolados.
+
+ 789: 10:43:44.03 10:43:46.21  Durée 00:00:02.18  Lisibilité 41
+Ele esperou e recomeçou.
+Não também vamos.
+
+ 790: 10:43:47.12 10:43:50.00  Durée 00:00:02.13  Lisibilité 38
+#Soubemos que após a morte
+do proprietário#
+
+ 791: 10:43:50.04 10:43:54.01  Durée 00:00:03.22  Lisibilité 58
+#foi a Sonder que veio alugar
+apartamentos da rua Cartier.#
+
+ 792: 10:43:54.05 10:43:56.08  Durée 00:00:02.03  Lisibilité 32
+Tornou-se um hotel ilegal. 
+
+ 793: 10:43:58.22 10:44:02.07  Durée 00:00:03.10  Lisibilité 51
+Isso pode privar uma parte
+da população que é locatária
+
+ 794: 10:44:02.11 10:44:04.02  Durée 00:00:01.16  Lisibilité 25
+de moradias de qualidade.
+
+ 795: 10:44:04.06 10:44:06.21  Durée 00:00:02.15  Lisibilité 39
+Os imóveis no mercado locativo
+são poucos.
+
+ 796: 10:44:07.14 10:44:11.23  Durée 00:00:04.09  Lisibilité 65
+#Para o urbanista Gérard Beaudet,
+é o parque locativo que está ameaçado#
+
+ 797: 10:44:12.03 10:44:14.23  Durée 00:00:02.20  Lisibilité 42
+#e a qualidade de vida
+que pode piorar,#
+
+ 798: 10:44:15.03 10:44:15.23  Durée 00:00:00.20  Lisibilité 12
+#não só em Montreal.#
+
+ 799: 10:44:16.02 10:44:17.12  Durée 00:00:01.10  Lisibilité 21
+Na Haute-Ville de Quebec,
+
+ 800: 10:44:17.17 10:44:20.14  Durée 00:00:02.22  Lisibilité 43
+houve uma queda
+nos serviços de proximidade,
+
+ 801: 10:44:20.18 10:44:22.21  Durée 00:00:02.03  Lisibilité 32
+e assim, hoje,
+morar no Vieux-Québec
+
+ 802: 10:44:23.00 10:44:26.02  Durée 00:00:03.02  Lisibilité 46
+é um problema,
+pois é preciso sair para ter acesso
+
+ 803: 10:44:26.07 10:44:28.03  Durée 00:00:01.21  Lisibilité 28
+a alguns serviços básicos.
+
+ 804: 10:44:28.23 10:44:32.13  Durée 00:00:03.15  Lisibilité 54
+#Visivelmente, a locação Airbnb
+pode dar muito lucro.#
+
+ 805: 10:44:32.18 10:44:35.13  Durée 00:00:02.20  Lisibilité 42
+#Basta consultar
+o relatório AirDNA#
+
+ 806: 10:44:35.17 10:44:38.00  Durée 00:00:02.08  Lisibilité 35
+#feito por especialistas americanos#
+
+ 807: 10:44:38.04 10:44:40.12  Durée 00:00:02.08  Lisibilité 35
+#que analisam
+as locações do Airbnb.#
+
+ 808: 10:44:40.16 10:44:43.00  Durée 00:00:02.09  Lisibilité 35
+#No Plateau,
+essa casa da rua Sherbrooke#
+
+ 809: 10:44:43.04 10:44:46.23  Durée 00:00:03.19  Lisibilité 56
+#está na primeira posição
+dos 4 quartos ou mais.#
+
+ 810: 10:44:47.03 10:44:52.05  Durée 00:00:05.02  Lisibilité 76
+#A renda anual é estimada
+em 207.280 dólares americanos.#
+
+ 811: 10:44:54.18 10:44:56.23  Durée 00:00:02.05  Lisibilité 33
+#Os intermediários de la locação#
+
+ 812: 10:44:57.02 10:44:58.08  Durée 00:00:01.06  Lisibilité 19
+#estão aumentando#
+
+ 813: 10:44:58.12 10:45:02.04  Durée 00:00:03.17  Lisibilité 55
+#com a popularidade do Airbnb
+que não para de crescer.#
+
+ 814: 10:45:02.24 10:45:04.09  Durée 00:00:01.10  Lisibilité 21
+Isso é interessante,
+
+ 815: 10:45:04.14 10:45:07.00  Durée 00:00:02.11  Lisibilité 37
+pois não há investimento inicial,
+
+ 816: 10:45:07.04 10:45:09.19  Durée 00:00:02.15  Lisibilité 39
+não compram imóveis,
+são só intermediários.
+
+ 817: 10:45:10.17 10:45:13.10  Durée 00:00:02.18  Lisibilité 41
+#As empresas buscam
+apartamentos disponíveis#
+
+ 818: 10:45:14.04 10:45:17.23  Durée 00:00:03.19  Lisibilité 56
+#e fecham acordos de locação
+com os proprietários.#
+
+ 819: 10:45:18.03 10:45:20.24  Durée 00:00:02.21  Lisibilité 43
+É um serviço chave na mão,
+de A a Z.
+
+ 820: 10:45:21.03 10:45:24.08  Durée 00:00:03.05  Lisibilité 48
+Eles administram seu imóvel
+para maximizar a renda.
+
+ 821: 10:45:24.24 10:45:27.10  Durée 00:00:02.11  Lisibilité 37
+#Nossas buscas levaram a esse homem#
+
+ 822: 10:45:27.15 10:45:30.23  Durée 00:00:03.08  Lisibilité 50
+#que aluga por temporada curta
+apartamentos aos turistas#
+
+ 823: 10:45:31.02 10:45:34.00  Durée 00:00:02.23  Lisibilité 44
+#em zonas residenciais
+no Plateau,#
+
+ 824: 10:45:34.04 10:45:35.10  Durée 00:00:01.06  Lisibilité 19
+#o que é ilegal.#
+
+ 825: 10:45:35.14 10:45:36.19  Durée 00:00:01.05  Lisibilité 18
+#E sem licença.#
+
+ 826: 10:45:37.08 10:45:39.03  Durée 00:00:01.20  Lisibilité 27
+#Com uma câmera escondida,#
+
+ 827: 10:45:39.08 10:45:42.01  Durée 00:00:02.18  Lisibilité 41
+#vemos como ele negocia
+com um proprietário.#
+
+ 828: 10:45:42.06 10:45:44.18  Durée 00:00:02.12  Lisibilité 37
+Não lhe custa nada
+fazer negócio conosco.
+
+ 829: 10:45:44.22 10:45:47.10  Durée 00:00:02.13  Lisibilité 38
+No fim,
+tiramos uma comissão do total.
+
+ 830: 10:45:47.14 10:45:49.10  Durée 00:00:01.21  Lisibilité 28
+- E de quanto é?
+- De 20%.
+
+ 831: 10:45:49.14 10:45:52.08  Durée 00:00:02.19  Lisibilité 41
+- 20% que você tira.
+- Nossa comissão é 20%.
+
+ 832: 10:45:53.08 10:45:55.01  Durée 00:00:01.18  Lisibilité 26
+#Pela sua estimativa,#
+
+ 833: 10:45:55.05 10:45:59.00  Durée 00:00:03.20  Lisibilité 57
+#a locação do apartamento
+renderia 5 mil dólares por mês.#
+
+ 834: 10:45:59.14 10:46:03.15  Durée 00:00:04.01  Lisibilité 61
+#20% de comissão são
+mil dólares por mês no bolso dele.#
+
+ 835: 10:46:03.20 10:46:06.11  Durée 00:00:02.16  Lisibilité 40
+#E a licença
+que o Ministério do Turismo exige#
+
+ 836: 10:46:06.16 10:46:09.06  Durée 00:00:02.15  Lisibilité 39
+#não parece ter importância alguma.#
+
+ 837: 10:46:09.11 10:46:13.24  Durée 00:00:04.13  Lisibilité 68
+Se um fiscal aparecer,
+na primeira vez é uma advertência.
+
+ 838: 10:46:14.03 10:46:18.05  Durée 00:00:04.02  Lisibilité 61
+Na segunda vez, aplicam uma multa.
+
+ 839: 10:46:18.09 10:46:20.16  Durée 00:00:02.07  Lisibilité 34
+Nunca veio nenhum fiscal
+e sempre digo:
+
+ 840: 10:46:20.20 10:46:23.12  Durée 00:00:02.17  Lisibilité 40
+"Se um fiscal vier
+e disser que há algo errado,
+
+ 841: 10:46:23.16 10:46:25.18  Durée 00:00:02.02  Lisibilité 31
+"vamos parar, senhor."
+
+ 842: 10:46:25.22 10:46:28.10  Durée 00:00:02.13  Lisibilité 38
+- É assim que funcionam?
+- É.
+
+ 843: 10:46:30.23 10:46:34.05  Durée 00:00:03.07  Lisibilité 49
+#Outra empresa que faz acordos
+com os proprietários,#
+
+ 844: 10:46:34.09 10:46:35.08  Durée 00:00:00.24  Lisibilité 14
+#a Sonder.#
+
+ 845: 10:46:35.12 10:46:37.17  Durée 00:00:02.05  Lisibilité 33
+#É ela que aluga na rua Cartier.#
+
+ 846: 10:46:37.21 10:46:41.10  Durée 00:00:03.14  Lisibilité 53
+#Após várias tentativas,
+a direção da empresa#
+
+ 847: 10:46:41.14 10:46:43.01  Durée 00:00:01.12  Lisibilité 22
+#aceita falar conosco.#
+
+ 848: 10:46:43.06 10:46:44.19  Durée 00:00:01.13  Lisibilité 23
+Nas empresas que oferecem
+
+ 849: 10:46:44.23 10:46:46.21  Durée 00:00:01.23  Lisibilité 29
+serviços de locação
+de curta duração
+
+ 850: 10:46:47.00 10:46:49.19  Durée 00:00:02.19  Lisibilité 41
+estamos entre as maiores do mundo
+no momento.
+
+ 851: 10:46:49.23 10:46:54.01  Durée 00:00:04.03  Lisibilité 62
+#A Sonder aluga uma centena
+de imóveis de turismo em Montreal,#
+
+ 852: 10:46:54.05 10:46:58.05  Durée 00:00:04.00  Lisibilité 60
+#quarenta deles no Plateau,
+notadamente os da rua Cartier.#
+
+ 853: 10:46:58.10 10:47:01.00  Durée 00:00:02.15  Lisibilité 39
+#Francis Davidson
+é o presidente da Sonder.#
+
+ 854: 10:47:01.04 10:47:04.18  Durée 00:00:03.14  Lisibilité 53
+Queremos obter a licença.
+
+ 855: 10:47:05.12 10:47:08.07  Durée 00:00:02.20  Lisibilité 42
+Na maioria dos casos,
+é muito difícil de obter.
+
+ 856: 10:47:08.11 10:47:10.01  Durée 00:00:01.15  Lisibilité 24
+Às vezes,
+quase impossível.
+
+ 857: 10:47:10.06 10:47:12.22  Durée 00:00:02.16  Lisibilité 40
+O que queremos
+é ajudar a implementar
+
+ 858: 10:47:13.01 10:47:15.04  Durée 00:00:02.03  Lisibilité 32
+uma licença
+que permita à maioria
+
+ 859: 10:47:15.09 10:47:18.12  Durée 00:00:03.03  Lisibilité 47
+que opera sadiamente
+na sociedade ter uma licença.
+
+ 860: 10:47:19.03 10:47:23.18  Durée 00:00:04.15  Lisibilité 69
+#Após verificação, constatamos
+que a Sonder não tem licença alguma#
+
+ 861: 10:47:23.22 10:47:26.19  Durée 00:00:02.22  Lisibilité 43
+#para sua centena de apartamentos
+em Montreal.#
+
+ 862: 10:47:26.23 10:47:29.14  Durée 00:00:02.16  Lisibilité 40
+Toda vez que há
+uma inovação na sociedade,
+
+ 863: 10:47:29.19 10:47:33.05  Durée 00:00:03.11  Lisibilité 52
+há um certo período
+em que as regras são definidas,
+
+ 864: 10:47:33.09 10:47:35.05  Durée 00:00:01.21  Lisibilité 28
+e não é
+de um dia para o outro.
+
+ 865: 10:47:35.09 10:47:37.05  Durée 00:00:01.21  Lisibilité 28
+Enquanto isso, o que importa 
+
+ 866: 10:47:37.09 10:47:41.20  Durée 00:00:04.11  Lisibilité 67
+é que façamos coisas
+que sejam boas para a sociedade
+
+ 867: 10:47:41.24 10:47:45.00  Durée 00:00:03.01  Lisibilité 46
+e trabalharmos juntos
+para haver um sistema legal.
+
+ 868: 10:47:45.20 10:47:47.22  Durée 00:00:02.02  Lisibilité 31
+#A Sonder já está presente#
+
+ 869: 10:47:48.01 10:47:50.15  Durée 00:00:02.14  Lisibilité 38
+#nas principais cidades
+da América do Norte.#
+
+ 870: 10:47:50.19 10:47:52.08  Durée 00:00:01.14  Lisibilité 23
+Se nosso trabalho
+desagradar,
+
+ 871: 10:47:52.12 10:47:55.18  Durée 00:00:03.06  Lisibilité 49
+não operarei no vago
+durante uma década.
+
+ 872: 10:47:55.23 10:47:58.00  Durée 00:00:02.02  Lisibilité 31
+Não podemos operar ilegalmente
+
+ 873: 10:47:58.04 10:47:59.18  Durée 00:00:01.14  Lisibilité 23
+em nenhuma cidade do mundo.
+
+ 874: 10:48:02.23 10:48:06.03  Durée 00:00:03.05  Lisibilité 48
+#Surge um 3] envolvido:
+Jeff Letendre.#
+
+ 875: 10:48:06.07 10:48:09.07  Durée 00:00:03.00  Lisibilité 45
+#Ano passado ele ainda não tinha
+todas as licenças,#
+
+ 876: 10:48:09.11 10:48:11.22  Durée 00:00:02.11  Lisibilité 37
+#como a grande maioria
+dos concorrentes.#
+
+ 877: 10:48:12.01 10:48:14.20  Durée 00:00:02.19  Lisibilité 41
+#Hoje,
+ele afirma estar 100% legal.#
+
+ 878: 10:48:15.11 10:48:18.08  Durée 00:00:02.22  Lisibilité 43
+#Ele agora aluga
+seus 50 imóveis de turismo#
+
+ 879: 10:48:18.12 10:48:20.13  Durée 00:00:02.01  Lisibilité 31
+#em ruas comerciais,#
+
+ 880: 10:48:20.17 10:48:23.13  Durée 00:00:02.21  Lisibilité 43
+#o que é permitido em bairros
+como o Plateau.#
+
+ 881: 10:48:23.18 10:48:25.24  Durée 00:00:02.06  Lisibilité 34
+Sabemos os bairros
+que têm demanda.
+
+ 882: 10:48:26.03 10:48:28.01  Durée 00:00:01.23  Lisibilité 29
+Conhecemos melhor
+o zoneamento.
+
+ 883: 10:48:28.05 10:48:31.00  Durée 00:00:02.20  Lisibilité 42
+Posso dizer rapidamente
+se terei uma licença.
+
+ 884: 10:48:33.03 10:48:36.10  Durée 00:00:03.07  Lisibilité 49
+#No entanto, Jeff acaba
+de sofrer um golpe duro.#
+
+ 885: 10:48:36.14 10:48:39.19  Durée 00:00:03.05  Lisibilité 48
+#A prefeitura considera
+que os imóveis que ele aluga#
+
+ 886: 10:48:39.23 10:48:42.13  Durée 00:00:02.15  Lisibilité 39
+#são comerciais
+e não residenciais.#
+
+ 887: 10:48:42.18 10:48:44.21  Durée 00:00:02.03  Lisibilité 32
+#Portanto,
+seu imposto é mais alto.#
+
+ 888: 10:48:45.13 10:48:47.14  Durée 00:00:02.01  Lisibilité 31
+A mensagem atual da prefeitura é:
+
+ 889: 10:48:47.18 10:48:50.01  Durée 00:00:02.08  Lisibilité 35
+"Se está ilegal, continue ilegal,
+
+ 890: 10:48:50.05 10:48:52.13  Durée 00:00:02.08  Lisibilité 35
+"porque se for pedir uma licença,
+
+ 891: 10:48:52.17 10:48:53.24  Durée 00:00:01.07  Lisibilité 19
+"vou sufocá-lo."
+
+ 892: 10:48:56.05 10:48:59.23  Durée 00:00:03.18  Lisibilité 56
+#Segundo Pierre Desrochers,
+do Comitê Executivo de Montreal,#
+
+ 893: 10:49:00.02 10:49:02.11  Durée 00:00:02.09  Lisibilité 35
+#esses imóveis
+são como um de hotel,#
+
+ 894: 10:49:02.15 10:49:05.07  Durée 00:00:02.17  Lisibilité 40
+#e todos devem ser tratados
+com equidade.#
+
+ 895: 10:49:05.11 10:49:08.09  Durée 00:00:02.23  Lisibilité 44
+Não estamos perseguindo ninguém.
+
+ 896: 10:49:08.13 10:49:11.04  Durée 00:00:02.16  Lisibilité 40
+Só queremos aplicar
+a regulamentação,
+
+ 897: 10:49:11.08 10:49:13.12  Durée 00:00:02.04  Lisibilité 32
+que é importante,
+e a população quer.
+
+ 898: 10:49:13.17 10:49:16.04  Durée 00:00:02.12  Lisibilité 37
+O fenômeno Airbnb veio para ficar,
+
+ 899: 10:49:16.08 10:49:18.10  Durée 00:00:02.02  Lisibilité 31
+e não é bom dizer às pessoas:
+
+ 900: 10:49:18.14 10:49:21.18  Durée 00:00:03.04  Lisibilité 47
+"Venham se legalizar
+e vamos triplicar seu IPTU."
+
+ 901: 10:49:21.23 10:49:25.14  Durée 00:00:03.16  Lisibilité 55
+É preciso ter consciência
+que há impostos não pagos,
+
+ 902: 10:49:25.18 10:49:29.11  Durée 00:00:03.18  Lisibilité 56
+que há perturbação dos vizinhos,
+que locatários são enxotados.
+
+ 903: 10:49:29.15 10:49:32.05  Durée 00:00:02.15  Lisibilité 39
+#O deputado da circunscrição
+de Mercier,#
+
+ 904: 10:49:32.09 10:49:34.24  Durée 00:00:02.15  Lisibilité 39
+#que cobre o Plateau, Amir Khadir,#
+
+ 905: 10:49:35.04 10:49:36.15  Durée 00:00:01.11  Lisibilité 22
+#e o prefeito do distrito#
+
+ 906: 10:49:36.19 10:49:38.02  Durée 00:00:01.08  Lisibilité 20
+#pedem uma lei quebequense#
+
+ 907: 10:49:38.07 10:49:41.22  Durée 00:00:03.15  Lisibilité 54
+#sobre estabelecimentos de hotelaria
+mais eficaz.#
+
+ 908: 10:49:42.07 10:49:46.05  Durée 00:00:03.23  Lisibilité 59
+#Eles sugerem no máximo
+60 dias de locação por ano.#
+
+ 909: 10:49:46.18 10:49:49.10  Durée 00:00:02.17  Lisibilité 40
+#Os vizinhos descontentes
+da rua Cartier#
+
+ 910: 10:49:49.15 10:49:52.00  Durée 00:00:02.10  Lisibilité 36
+#estavam na entrevista coletiva.#
+
+ 911: 10:49:52.14 10:49:54.22  Durée 00:00:02.08  Lisibilité 35
+#60 dias, para eles,
+é demais.#
+
+ 912: 10:49:55.01 10:49:59.11  Durée 00:00:04.10  Lisibilité 66
+Se alugarem 4 dias
+15 vezes ao ano,
+
+ 913: 10:49:59.15 10:50:01.18  Durée 00:00:02.03  Lisibilité 32
+dá 60 dias,
+mesmo não consecutivos.
+
+ 914: 10:50:01.22 10:50:04.17  Durée 00:00:02.20  Lisibilité 42
+Mas ainda assim
+equivale a 60 dias.
+
+ 915: 10:50:04.21 10:50:07.00  Durée 00:00:02.04  Lisibilité 32
+É um verão inteiro de festas.
+
+ 916: 10:50:07.05 10:50:09.13  Durée 00:00:02.08  Lisibilité 35
+Os 60 sempre poderão
+ser discutidos,
+
+ 917: 10:50:09.17 10:50:11.08  Durée 00:00:01.16  Lisibilité 25
+mas deve haver um limite
+
+ 918: 10:50:11.12 10:50:13.19  Durée 00:00:02.07  Lisibilité 34
+além do qual não se passe
+
+ 919: 10:50:13.23 10:50:17.05  Durée 00:00:03.07  Lisibilité 49
+para preservar
+o espírito ocasional,
+
+ 920: 10:50:17.09 10:50:19.07  Durée 00:00:01.23  Lisibilité 29
+que não seja
+atividade comercial.
+
+ 921: 10:50:20.02 10:50:23.05  Durée 00:00:03.03  Lisibilité 47
+#Enquanto isso, a maioria
+dos intermediários da locação#
+
+ 922: 10:50:23.10 10:50:27.11  Durée 00:00:04.01  Lisibilité 61
+#embolsam lucros ilegalmente,
+na maior impunidade.#
+
+ 923: 10:50:27.16 10:50:29.02  Durée 00:00:01.11  Lisibilité 22
+É impossível viver aqui.
+
+ 924: 10:50:29.06 10:50:31.01  Durée 00:00:01.20  Lisibilité 27
+#Para os residentes do Plateau,#
+
+ 925: 10:50:31.05 10:50:34.12  Durée 00:00:03.07  Lisibilité 49
+#está na hora de algo mudar
+nos níveis municipal#
+
+ 926: 10:50:34.17 10:50:35.16  Durée 00:00:00.24  Lisibilité 14
+#e provincial.#
+
+ 927: 10:50:35.20 10:50:37.14  Durée 00:00:01.19  Lisibilité 26
+A base da vida em sociedade
+
+ 928: 10:50:37.19 10:50:39.05  Durée 00:00:01.11  Lisibilité 22
+é ter paz.
+
+ 929: 10:50:39.09 10:50:41.20  Durée 00:00:02.11  Lisibilité 37
+Sem paz,
+tudo vai por água abaixo.
+
+ 930: 10:50:42.00 10:50:42.23  Durée 00:00:00.23  Lisibilité 14
+É preciso leis.
+
+ 931: 10:50:43.02 10:50:46.01  Durée 00:00:02.24  Lisibilité 44
+É preciso reforçar as leis
+e aplicá-las.
+
+ 932: 10:50:46.05 10:50:48.21  Durée 00:00:02.16  Lisibilité 40
+O maior problema
+é que não há aplicação.
+
+ 933: 10:50:49.00 10:50:51.03  Durée 00:00:02.03  Lisibilité 32
+Tem gente
+para nos cobrar impostos.
+
+ 934: 10:50:51.07 10:50:53.07  Durée 00:00:02.00  Lisibilité 30
+É bom,
+mas devem mostrar serviço.
+
+ 935: 10:50:56.18 10:50:59.01  Durée 00:00:02.08  Lisibilité 35
+O governo do Quebec anunciou
+em outubro
+
+ 936: 10:50:59.05 10:51:01.05  Durée 00:00:02.00  Lisibilité 30
+que o Airbnb pagará taxas
+das locações
+
+ 937: 10:51:01.09 10:51:02.22  Durée 00:00:01.13  Lisibilité 23
+e as declarará à Receita.
+
+ 938: 10:51:03.01 10:51:03.22  Durée 00:00:00.21  Lisibilité 13
+É inédito no país,
+
+ 939: 10:51:04.01 10:51:06.17  Durée 00:00:02.16  Lisibilité 40
+mas não resolve a questão
+da ocupação ilegal.
+
+ 940: 10:51:06.21 10:51:08.22  Durée 00:00:02.01  Lisibilité 31
+O governo vai analisá-lo
+no outono.
+
+ 941: 10:51:09.02 10:51:10.14  Durée 00:00:01.12  Lisibilité 22
+É só por hoje.
+
+ 942: 10:51:10.18 10:51:11.24  Durée 00:00:01.06  Lisibilité 19
+De Berna a Iaundé,
+
+ 943: 10:51:12.03 10:51:14.15  Durée 00:00:02.12  Lisibilité 37
+onde quer que esteja no mundo,
+
+ 944: 10:51:14.19 10:51:18.22  Durée 00:00:04.03  Lisibilité 62
+obrigada por acompanhar os programas
+da Radio-Canada na TV5 Monde.
+
+ 945: 10:51:19.01 10:51:19.23  Durée 00:00:00.22  Lisibilité 13
+Até a próxima.
+
+ 946: 10:51:38.03 10:51:40.19  Durée 00:00:02.16  Lisibilité 40
+Adaptação: Adriana Gasparoni
+Legendagem: ECLAIR
