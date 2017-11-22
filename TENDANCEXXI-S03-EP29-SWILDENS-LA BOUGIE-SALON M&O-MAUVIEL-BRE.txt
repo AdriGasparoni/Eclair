@@ -1,0 +1,1793 @@
+
+   1: 00:00:00.01 00:00:01.20  Duration 00:00:01.19  26
+#Não há estilo na França.#
+
+   2: 00:00:05.18 00:00:06.22  Duration 00:00:01.04  17
+Tendência XXI
+
+   3: 00:00:07.13 00:00:11.17  Duration 00:00:04.04  62
+#As mulheres estão sempre vestidas
+demais e nunca elegantes o bastante.#
+
+   4: 00:00:12.04 00:00:14.23  Duration 00:00:02.19  41
+Tendência XXI,# esta semana,
+quis entender#
+
+   5: 00:00:15.02 00:00:16.21  Duration 00:00:01.19  26
+#como certas marcas francesas#
+
+   6: 00:00:17.01 00:00:19.00  Duration 00:00:01.24  29
+#sobrevivem
+fora de grandes grupos.#
+
+   7: 00:00:19.05 00:00:21.16  Duration 00:00:02.11  37
+#A marca Swildens
+é um exemplo perfeito.#
+
+   8: 00:00:22.22 00:00:24.17  Duration 00:00:01.20  27
+#Após a breve história da vela,#
+
+   9: 00:00:25.04 00:00:27.00  Duration 00:00:01.21  28
+Tendência# os leva a um passeio#
+
+  10: 00:00:27.05 00:00:29.20  Duration 00:00:02.15  39
+#pelo Salão Maison et Objet,#
+
+  11: 00:00:29.24 00:00:31.17  Duration 00:00:01.18  26
+#antes de fazê-los salivar#
+
+  12: 00:00:31.22 00:00:34.09  Duration 00:00:02.12  37
+#com os utensílios de cozinha
+Mauviel#
+
+  13: 00:00:34.14 00:00:37.09  Duration 00:00:02.20  42
+#originários do berço do cobre
+na Normandia.#
+
+  14: 00:00:38.09 00:00:39.14  Duration 00:00:01.05  18
+#O plástico voltou.#
+
+  15: 00:00:39.18 00:00:42.13  Duration 00:00:02.20  42
+#Tínhamos de tentar
+entender por que,#
+
+  16: 00:00:42.18 00:00:45.04  Duration 00:00:02.11  37
+#assim como temos de entender
+como a lã#
+
+  17: 00:00:45.09 00:00:47.05  Duration 00:00:01.21  28
+#chega à alta tecnologia.#
+
+  18: 00:00:47.10 00:00:48.20  Duration 00:00:01.10  21
+#São as tendências
+da semana.#
+
+  19: 00:00:49.11 00:00:50.21  Duration 00:00:01.10  21
+#Elas merecem a visita.#
+
+  20: 00:00:54.02 00:00:55.17  Duration 00:00:01.15  24
+#Não há estilo na França.#
+
+  21: 00:00:55.21 00:00:58.17  Duration 00:00:02.21  43
+#Um barco, um binóculo,
+uma camisa, um florista.#
+
+  22: 00:00:58.21 00:01:00.19  Duration 00:00:01.23  29
+#É o menu deste breve jornal.#
+
+  23: 00:01:00.23 00:01:05.19  Duration 00:00:04.21  73
+Info Moda
+
+  24: 00:01:06.09 00:01:09.07  Duration 00:00:02.23  44
+#Há peixes voadores.
+Faltava o barco voador.#
+
+  25: 00:01:09.11 00:01:11.03  Duration 00:00:01.17  25
+#Está feito com o SEAir#
+
+  26: 00:01:11.07 00:01:13.16  Duration 00:00:02.09  35
+#desenhado por Louis-Marie
+de Castelbajac.#
+
+  27: 00:01:13.21 00:01:15.06  Duration 00:00:01.10  21
+#Filho de peixe...#
+
+  28: 00:01:15.10 00:01:16.24  Duration 00:00:01.14  23
+#100%# made in France,
+
+  29: 00:01:17.03 00:01:20.09  Duration 00:00:03.06  49
+#é um semirrígido batizado Ortolan.
+Imponente.#
+
+  30: 00:01:20.21 00:01:23.02  Duration 00:00:02.06  34
+#Equipado com o sistema SEAir,#
+
+  31: 00:01:23.06 00:01:26.11  Duration 00:00:03.05  48
+#um sistema vanguardista,
+e o barco voa, acreditam?#
+
+  32: 00:01:26.16 00:01:29.05  Duration 00:00:02.14  38
+#Não. Mas a imaginação, sim.#
+
+  33: 00:01:31.01 00:01:32.14  Duration 00:00:01.13  23
+#Duas Garotas Românticas,#
+
+  34: 00:01:32.18 00:01:35.10  Duration 00:00:02.17  40
+#o musical jubilatório
+de Jacques Demy,#
+
+  35: 00:01:35.21 00:01:37.11  Duration 00:00:01.15  24
+#acaba de fazer 50 anos.#
+
+  36: 00:01:37.15 00:01:39.10  Duration 00:00:01.20  27
+#Bela ocasião
+para 2 meias-irmãs,#
+
+  37: 00:01:39.15 00:01:41.12  Duration 00:00:01.22  28
+#Elsa e Natacha Wolinski,#
+
+  38: 00:01:41.17 00:01:44.18  Duration 00:00:03.01  46
+#festejá-lo com um livro
+que reúne todas as fotos#
+
+  39: 00:01:44.22 00:01:46.07  Duration 00:00:01.10  21
+#tiradas na filmagem#
+
+  40: 00:01:46.11 00:01:47.19  Duration 00:00:01.08  20
+#por Agnès Varda,#
+
+  41: 00:01:47.23 00:01:49.21  Duration 00:00:01.23  29
+#mulher do diretor.#
+
+  42: 00:01:50.00 00:01:51.13  Duration 00:00:01.13  23
+#Prova,
+se é que se precisa,#
+
+  43: 00:01:51.23 00:01:55.14  Duration 00:00:03.16  55
+#de que o cinema é definitivamente
+uma grande família.#
+
+  44: 00:02:01.00 00:02:03.20  Duration 00:00:02.20  42
+#Quais são os grandes desafios
+da moda de amanhã?#
+
+  45: 00:02:04.00 00:02:05.03  Duration 00:00:01.03  17
+#As tecnologias.#
+
+  46: 00:02:05.08 00:02:08.13  Duration 00:00:03.05  48
+#À prova, esta camisa
+dos ateliês NA em parceria#
+
+  47: 00:02:08.18 00:02:10.21  Duration 00:00:02.03  32
+#com o fabricante de tecidos Induo.#
+
+  48: 00:02:11.01 00:02:15.00  Duration 00:00:03.24  59
+#Resultado: a camisa sob medida
+é impermmeável, respirante.#
+
+  49: 00:02:15.04 00:02:17.11  Duration 00:00:02.07  34
+#Ela barra a umidade,
+as manchas,#
+
+  50: 00:02:17.15 00:02:19.02  Duration 00:00:01.12  22
+#certos odores também.#
+
+  51: 00:02:19.06 00:02:22.06  Duration 00:00:03.00  45
+#Ela vive sua vida.
+Quem a usa, também.#
+
+  52: 00:02:22.10 00:02:25.22  Duration 00:00:03.12  52
+#O campeão do mundo dos floristas
+é Cédric Tranchant.#
+
+  53: 00:02:26.15 00:02:28.08  Duration 00:00:01.18  26
+#Melhor Artesão da França em 2011#
+
+  54: 00:02:28.13 00:02:30.05  Duration 00:00:01.17  25
+#contra muitos candidatos,#
+
+  55: 00:02:30.10 00:02:32.22  Duration 00:00:02.12  37
+#sua arte de escultura vegetal
+e joias florais#
+
+  56: 00:02:33.01 00:02:35.02  Duration 00:00:02.01  31
+#fez a diferença.#
+
+  57: 00:02:37.05 00:02:38.21  Duration 00:00:01.16  25
+#E um novo local, um!#
+
+  58: 00:02:39.00 00:02:41.19  Duration 00:00:02.19  41
+#The Cod House,
+como seu nome não indica,#
+
+  59: 00:02:41.23 00:02:44.04  Duration 00:00:02.06  34
+#veio para divulgar e reinventar#
+
+  60: 00:02:44.08 00:02:47.20  Duration 00:00:03.12  52
+#o patrimônio cultural
+e gastronômico da Ásia. Mazette!#
+
+  61: 00:02:48.11 00:02:49.22  Duration 00:00:01.11  22
+#E por que milagre?#
+
+  62: 00:02:50.02 00:02:52.05  Duration 00:00:02.03  32
+#Misturando a cozinha asiática#
+
+  63: 00:02:52.10 00:02:55.17  Duration 00:00:03.07  49
+#com outras cozinhas
+vindas da Itália ou da Califórnia.#
+
+  64: 00:02:56.17 00:02:59.19  Duration 00:00:03.02  46
+#Tudo isso com uma decoração#
+
+  65: 00:02:59.24 00:03:01.17  Duration 00:00:01.18  26
+#cruzada com neons azuis#
+
+  66: 00:03:02.02 00:03:03.17  Duration 00:00:01.15  24
+#e bar japonizante.#
+
+  67: 00:03:04.07 00:03:06.16  Duration 00:00:02.09  35
+#Um mafuá daqueles,#
+
+  68: 00:03:06.20 00:03:08.10  Duration 00:00:01.15  24
+#mas é muito agradável.#
+
+  69: 00:03:12.15 00:03:13.22  Duration 00:00:01.07  19
+#Andando por Paris,#
+
+  70: 00:03:14.01 00:03:17.12  Duration 00:00:03.11  52
+#parece que só as grandes marcas
+têm loja.#
+
+  71: 00:03:17.16 00:03:18.22  Duration 00:00:01.06  19
+#Vamos olhar melhor.#
+
+  72: 00:03:19.01 00:03:21.22  Duration 00:00:02.21  43
+#Outras conseguiram
+se meter entre elas.#
+
+  73: 00:03:22.01 00:03:24.11  Duration 00:00:02.10  36
+Mode Swildens
+a boêmia entre chique e rock
+
+  74: 00:03:25.05 00:03:29.06  Duration 00:00:04.01  61
+#Montar a própria marca,
+muitos candidatos, poucos eleitos.#
+
+  75: 00:03:29.10 00:03:30.24  Duration 00:00:01.14  23
+#Hoje, esta é a questão.#
+
+  76: 00:03:31.03 00:03:34.08  Duration 00:00:03.05  48
+#Há espaço entre os grandes grupos
+e o grande varejo#
+
+  77: 00:03:34.12 00:03:35.10  Duration 00:00:00.23  14
+#para designers?#
+
+  78: 00:03:35.14 00:03:38.13  Duration 00:00:02.24  44
+#Caso sim,
+como se esgueirar e existir?#
+
+  79: 00:03:38.18 00:03:40.21  Duration 00:00:02.03  32
+#A marca Swildens é exemplar.#
+
+  80: 00:03:41.00 00:03:42.19  Duration 00:00:01.19  26
+#Ela soube manter
+a identidade#
+
+  81: 00:03:42.24 00:03:44.21  Duration 00:00:01.22  28
+#e trabalhar
+sem bureau de estilo.#
+
+  82: 00:03:45.19 00:03:50.06  Duration 00:00:04.12  67
+A marca é encarnada por uma pessoa,
+eu, Juliette Swildens.
+
+  83: 00:03:50.11 00:03:52.10  Duration 00:00:01.24  29
+Tenho um público que me segue,
+
+  84: 00:03:52.14 00:03:55.10  Duration 00:00:02.21  43
+que realmente entende meu estilo
+
+  85: 00:03:55.14 00:03:58.20  Duration 00:00:03.06  49
+e que mistura as roupas
+como eu misturaria.
+
+  86: 00:04:01.07 00:04:03.24  Duration 00:00:02.17  40
+Gosto de roupas de uso polivalente.
+
+  87: 00:04:04.03 00:04:08.13  Duration 00:00:04.10  66
+Aqui, fiz um sistema de amarração
+
+  88: 00:04:08.17 00:04:10.18  Duration 00:00:02.01  31
+para ter cintura alta ou baixa.
+
+  89: 00:04:11.12 00:04:14.22  Duration 00:00:03.10  51
+E também gosto muito
+
+  90: 00:04:15.22 00:04:18.08  Duration 00:00:02.11  37
+que não tenha dobras nos quadris.
+
+  91: 00:04:18.12 00:04:20.18  Duration 00:00:02.06  34
+Sempre faço uma pequena latitude
+
+  92: 00:04:21.05 00:04:24.04  Duration 00:00:02.24  44
+aqui, para alongar a silhueta.
+
+  93: 00:04:25.00 00:04:27.23  Duration 00:00:02.23  44
+Na verdade,
+se eu quis montar essa marca,
+
+  94: 00:04:28.02 00:04:30.24  Duration 00:00:02.22  43
+foi realmente porque havia coisas
+
+  95: 00:04:31.04 00:04:32.01  Duration 00:00:00.22  13
+que eu não achava.
+
+  96: 00:04:32.06 00:04:35.12  Duration 00:00:03.06  49
+#Tudo parece simples, mas é aí
+que começam os problemas.#
+
+  97: 00:04:35.16 00:04:38.08  Duration 00:00:02.17  40
+#Primeiro,
+a famosa relação custo-benefício.#
+
+  98: 00:04:39.24 00:04:42.04  Duration 00:00:02.05  33
+É muito difícil lutar
+
+  99: 00:04:42.08 00:04:46.17  Duration 00:00:04.09  65
+contra marcas que fazem muito bem
+coisas bem bonitas.
+
+ 100: 00:04:47.12 00:04:50.18  Duration 00:00:03.06  49
+Para se diferenciar,
+é preciso encontrar
+
+ 101: 00:04:50.22 00:04:52.23  Duration 00:00:02.01  31
+detalhes mais bonitos.
+
+ 102: 00:04:53.03 00:04:56.06  Duration 00:00:03.03  47
+De todo modo, não podemos
+nos alinhar com os preços
+
+ 103: 00:04:56.11 00:04:58.02  Duration 00:00:01.16  25
+do grande varejo.
+
+ 104: 00:04:58.06 00:05:02.15  Duration 00:00:04.09  65
+Praticamente o preço que pagamos
+numa loja como a H&M
+
+ 105: 00:05:02.19 00:05:07.00  Duration 00:00:04.06  64
+é o preço que nos custa
+quando chega a Paris.
+
+ 106: 00:05:08.05 00:05:09.23  Duration 00:00:01.18  26
+#Mesmo sendo
+o único senhor a bordo,#
+
+ 107: 00:05:10.02 00:05:13.17  Duration 00:00:03.15  54
+#o sacrossanto mercado
+se faz ouvir e obedecer.#
+
+ 108: 00:05:13.22 00:05:15.07  Duration 00:00:01.10  21
+Há sempre meios-termos.
+
+ 109: 00:05:15.11 00:05:16.20  Duration 00:00:01.09  20
+Eu, numa coleção,
+
+ 110: 00:05:17.09 00:05:20.11  Duration 00:00:03.02  46
+ponho o que quiser à venda.
+
+ 111: 00:05:21.00 00:05:24.18  Duration 00:00:03.18  56
+Após um certo tempo de não-vida,
+
+ 112: 00:05:24.22 00:05:28.02  Duration 00:00:03.05  48
+ou seja, um modelo
+que esteve nas araras,
+
+ 113: 00:05:28.06 00:05:29.23  Duration 00:00:01.17  25
+que existiu
+
+ 114: 00:05:30.02 00:05:32.04  Duration 00:00:02.02  31
+e que pôde se exprimir
+num manequim,
+
+ 115: 00:05:32.08 00:05:35.02  Duration 00:00:02.19  41
+se ninguém o encomendar,
+
+ 116: 00:05:35.06 00:05:38.01  Duration 00:00:02.20  42
+é um modelo cancelado.
+
+ 117: 00:05:38.06 00:05:41.02  Duration 00:00:02.21  43
+É a triste vida dos modelos.
+
+ 118: 00:05:41.06 00:05:45.23  Duration 00:00:04.17  70
+Agora, se for um modelo
+a que eu me apegue
+
+ 119: 00:05:46.03 00:05:47.17  Duration 00:00:01.14  23
+realmente muito,
+
+ 120: 00:05:47.22 00:05:49.10  Duration 00:00:01.13  23
+produzimos
+só para nossas lojas.
+
+ 121: 00:05:52.20 00:05:56.13  Duration 00:00:03.18  56
+O início é quando estou
+no meu quarto de manhã.
+
+ 122: 00:05:57.09 00:05:58.19  Duration 00:00:01.10  21
+Eu me visto.
+
+ 123: 00:05:58.23 00:06:00.16  Duration 00:00:01.18  26
+Tenho vontade
+de vestir algo.
+
+ 124: 00:06:01.12 00:06:04.11  Duration 00:00:02.24  44
+Tenho vontade de vestir algo,
+mas que não tenho.
+
+ 125: 00:06:04.22 00:06:08.11  Duration 00:00:03.14  53
+Onde quer que eu esteja,
+carrego sempre um caderno
+
+ 126: 00:06:08.15 00:06:09.13  Duration 00:00:00.23  14
+e eu desenho.
+
+ 127: 00:06:09.18 00:06:12.13  Duration 00:00:02.20  42
+Ao desenhar o modelo,
+temos de pensar:
+
+ 128: 00:06:12.18 00:06:16.19  Duration 00:00:04.01  61
+"Tenho vontade de usá-lo,
+mas vou usá-lo como
+
+ 129: 00:06:16.24 00:06:18.22  Duration 00:00:01.23  29
+"e quando?
+Quem usa esse modelo?"
+
+ 130: 00:06:19.11 00:06:23.01  Duration 00:00:03.15  54
+Depois, tudo é jogado
+nesta caderneta.
+
+ 131: 00:06:23.06 00:06:24.10  Duration 00:00:01.04  17
+Por exemplo aqui,
+
+ 132: 00:06:24.23 00:06:27.21  Duration 00:00:02.23  44
+este desenho xerocado,
+botamos em painéis.
+
+ 133: 00:06:28.00 00:06:32.02  Duration 00:00:04.02  61
+Depois fazemos linhas.
+
+ 134: 00:06:32.07 00:06:36.00  Duration 00:00:03.18  56
+É assim que a coleção
+vai se construindo aos poucos.
+
+ 135: 00:06:37.23 00:06:41.11  Duration 00:00:03.13  53
+Tenho muito desejo
+de calças masculinas.
+
+ 136: 00:06:41.16 00:06:46.09  Duration 00:00:04.18  71
+Faz dois anos que visto
+uma calça masculina de vez em quando.
+
+ 137: 00:06:46.13 00:06:48.02  Duration 00:00:01.14  23
+Isso pode começar a pegar.
+
+ 138: 00:06:48.16 00:06:49.17  Duration 00:00:01.01  16
+#É claro,#
+
+ 139: 00:06:49.22 00:06:52.09  Duration 00:00:02.12  37
+#ainda restam parâmetros
+indispensáveis#
+
+ 140: 00:06:52.14 00:06:54.02  Duration 00:00:01.13  23
+#para esse belo sucesso:#
+
+ 141: 00:06:54.06 00:06:55.17  Duration 00:00:01.11  22
+#a imprensa e ideias.#
+
+ 142: 00:06:56.18 00:06:59.01  Duration 00:00:02.08  35
+É verdade que conheço muita gente.
+
+ 143: 00:06:59.06 00:07:00.19  Duration 00:00:01.13  23
+Assim,
+
+ 144: 00:07:00.23 00:07:03.11  Duration 00:00:02.13  38
+como sou extremamente simpática...
+
+ 145: 00:07:05.16 00:07:08.19  Duration 00:00:03.03  47
+A imprensa, no começo,
+ajudou a divulgar a marca.
+
+ 146: 00:07:09.14 00:07:11.01  Duration 00:00:01.12  22
+E depois...
+
+ 147: 00:07:11.06 00:07:15.17  Duration 00:00:04.11  67
+Fiz coleções-cápsula com gente
+que já tinha um certo renome.
+
+ 148: 00:07:16.06 00:07:19.21  Duration 00:00:03.15  54
+Fiz uma coleção-cápsula
+com Sarah Lavoine, uma amiga.
+
+ 149: 00:07:20.00 00:07:22.18  Duration 00:00:02.18  41
+Um dia, ela me ligou e disse:
+
+ 150: 00:07:22.22 00:07:24.15  Duration 00:00:01.18  26
+"Sabe onde posso encontrar
+
+ 151: 00:07:25.04 00:07:27.10  Duration 00:00:02.06  34
+"um smoking assim...?"
+
+ 152: 00:07:27.14 00:07:29.04  Duration 00:00:01.15  24
+Respondi: "Nós fazemos."
+
+ 153: 00:07:31.02 00:07:31.22  Duration 00:00:00.20  12
+#Outro parâmetro...#
+
+ 154: 00:07:32.18 00:07:34.06  Duration 00:00:01.13  23
+Tive a sorte
+de o meu marido
+
+ 155: 00:07:34.10 00:07:39.01  Duration 00:00:04.16  70
+ter começado a trabalhar comigo
+no começo da Swildens.
+
+ 156: 00:07:39.06 00:07:42.12  Duration 00:00:03.06  49
+Isso me permitiu
+me concentrar nas coleções.
+
+ 157: 00:07:43.04 00:07:45.03  Duration 00:00:01.24  29
+Acho que nessa associação
+
+ 158: 00:07:45.07 00:07:49.13  Duration 00:00:04.06  64
+é impossível, efetivamente,
+para um pequeno designer,
+
+ 159: 00:07:49.17 00:07:52.16  Duration 00:00:02.24  44
+montar um negócio perene
+
+ 160: 00:07:53.14 00:07:54.20  Duration 00:00:01.06  19
+e crescente.
+
+ 161: 00:07:54.24 00:07:57.07  Duration 00:00:02.08  35
+#Quanto ao negócio
+perene e crescente,#
+
+ 162: 00:07:57.12 00:07:59.08  Duration 00:00:01.21  28
+#por que não um investidor?#
+
+ 163: 00:07:59.12 00:08:03.24  Duration 00:00:04.12  67
+Pensamos nessa eventualidade.
+
+ 164: 00:08:04.20 00:08:08.06  Duration 00:00:03.11  52
+Tenho uma amiga
+que foi comprada recentemente,
+
+ 165: 00:08:08.11 00:08:11.21  Duration 00:00:03.10  51
+que teve um investidor
+entrando na sua empresa.
+
+ 166: 00:08:12.09 00:08:15.23  Duration 00:00:03.14  53
+Ela ganhou 10 anos em 6 meses,
+então...
+
+ 167: 00:08:17.00 00:08:21.00  Duration 00:00:04.00  60
+Não sei se prefiro
+
+ 168: 00:08:21.04 00:08:23.23  Duration 00:00:02.19  41
+ficar assim
+o máximo de tempo possível,
+
+ 169: 00:08:24.02 00:08:27.01  Duration 00:00:02.24  44
+sabendo que tenho a sorte
+de ter meu marido comigo.
+
+ 170: 00:08:27.05 00:08:30.13  Duration 00:00:03.08  50
+#Marido que certamente não gostaria
+de vê-la ganhar 10 anos#
+
+ 171: 00:08:30.18 00:08:31.24  Duration 00:00:01.06  19
+#em 6 meses.#
+
+ 172: 00:08:35.04 00:08:39.00  Duration 00:00:03.21  58
+#Contar a história da vela
+é evocar pedaços da História.#
+
+ 173: 00:08:39.04 00:08:40.21  Duration 00:00:01.17  25
+#Ela começa na Antiguidade#
+
+ 174: 00:08:41.13 00:08:44.14  Duration 00:00:03.01  46
+#e ainda continua e para sempre.#
+
+ 175: 00:08:44.18 00:08:47.07  Duration 00:00:02.14  38
+Clichê
+a breve história da vela
+
+ 176: 00:08:47.12 00:08:50.19  Duration 00:00:03.07  49
+#Desde 3 mil antes de Cristo
+o homem usou a candeia#
+
+ 177: 00:08:50.23 00:08:53.12  Duration 00:00:02.14  38
+#e logo usa a tocha
+para se iluminar.#
+
+ 178: 00:08:53.16 00:08:55.13  Duration 00:00:01.22  28
+#Ela era composta de palha#
+
+ 179: 00:08:55.17 00:08:58.14  Duration 00:00:02.22  43
+#e era embebida
+em gordura ou em resina.#
+
+ 180: 00:08:59.16 00:09:03.12  Duration 00:00:03.21  58
+#Mas é só no século III da nossa era
+que surge a vela.#
+
+ 181: 00:09:03.16 00:09:07.04  Duration 00:00:03.13  53
+#Aliás, a origem da palavra "bougie"
+vem de Bugaya,#
+
+ 182: 00:09:07.09 00:09:10.07  Duration 00:00:02.23  44
+#uma cidade da Cabília,
+na Argélia, hoje Bugia,#
+
+ 183: 00:09:10.11 00:09:14.01  Duration 00:00:03.15  54
+#que fornecia a cera utilizada
+no lugar da gordura animal#
+
+ 184: 00:09:14.05 00:09:15.19  Duration 00:00:01.14  23
+#nas candeias dessa época.#
+
+ 185: 00:09:15.23 00:09:19.01  Duration 00:00:03.03  47
+#Produziam-se então velas baixas
+de cera de abelha.#
+
+ 186: 00:09:19.06 00:09:20.13  Duration 00:00:01.07  19
+#Uma grande revolução.#
+
+ 187: 00:09:21.10 00:09:22.15  Duration 00:00:01.05  18
+#Outra pequena revolução:#
+
+ 188: 00:09:22.19 00:09:26.07  Duration 00:00:03.13  53
+#No século IV, as velas são usadas
+em rituais religiosos.#
+
+ 189: 00:09:26.11 00:09:29.22  Duration 00:00:03.11  52
+#O imperador Constantino
+impôs a presença das velas#
+
+ 190: 00:09:30.02 00:09:31.20  Duration 00:00:01.18  26
+#nas cerimônias cristãs.#
+
+ 191: 00:09:31.24 00:09:34.22  Duration 00:00:02.23  44
+#Na Idade Média, a demanda pelas
+de cera de abelha cresce.#
+
+ 192: 00:09:35.02 00:09:37.19  Duration 00:00:02.17  40
+#Como sua quantidade disponível
+era limitada,#
+
+ 193: 00:09:37.23 00:09:41.20  Duration 00:00:03.22  58
+#essas velas eram principalmente
+reservadas aos senhores.#
+
+ 194: 00:09:41.24 00:09:44.17  Duration 00:00:02.18  41
+#Em 1643,
+o produtor de cera Claude Trudon#
+
+ 195: 00:09:44.22 00:09:47.23  Duration 00:00:03.01  46
+#faz velas para as paróquias
+e iluminação doméstica.#
+
+ 196: 00:09:48.14 00:09:51.20  Duration 00:00:03.06  49
+#Assim ele fundou
+a mais antiga manufatura de velas.#
+
+ 197: 00:09:53.17 00:09:56.23  Duration 00:00:03.06  49
+#Em 1783, o químico sueco
+Carl Scheele#
+
+ 198: 00:09:57.03 00:09:59.14  Duration 00:00:02.11  37
+#ferveu azeite de oliva
+com óxido de chumbo#
+
+ 199: 00:09:59.18 00:10:01.07  Duration 00:00:01.14  23
+#e descobre a glicerina.#
+
+ 200: 00:10:01.11 00:10:04.20  Duration 00:00:03.09  50
+#Mais tarde, o químico francês
+Michel-Eugène Chevreu#
+
+ 201: 00:10:04.24 00:10:06.07  Duration 00:00:01.08  20
+#descobre a estearina.#
+
+ 202: 00:10:06.11 00:10:08.00  Duration 00:00:01.14  23
+#Os 2 elementos
+são a base#
+
+ 203: 00:10:08.05 00:10:11.01  Duration 00:00:02.21  43
+#da industrialização maciça
+da vela e do sabão.#
+
+ 204: 00:10:11.16 00:10:15.02  Duration 00:00:03.11  52
+#No século XIX, a mecha da vela
+sofre uma grande evolução,#
+
+ 205: 00:10:15.17 00:10:18.21  Duration 00:00:03.04  47
+#o trançado, que a faz
+ser consumida lentamente.#
+
+ 206: 00:10:19.09 00:10:22.18  Duration 00:00:03.09  50
+#É ao longo desse século
+que nasce a vela perfumada.#
+
+ 207: 00:10:22.22 00:10:24.24  Duration 00:00:02.02  31
+#Ela devia ter outra função
+além da luz,#
+
+ 208: 00:10:25.13 00:10:27.07  Duration 00:00:01.19  26
+#porque em 1879#
+
+ 209: 00:10:27.11 00:10:29.05  Duration 00:00:01.19  26
+#chega a fada eletricidade.#
+
+ 210: 00:10:32.19 00:10:36.20  Duration 00:00:04.01  61
+#Hoje em dia, a vela é acima de tudo
+decorativa e olfativa.#
+
+ 211: 00:10:37.00 00:10:39.12  Duration 00:00:02.12  37
+#Casas como a Diptyque
+entenderam logo,#
+
+ 212: 00:10:39.16 00:10:42.03  Duration 00:00:02.12  37
+#e virou referência
+no universo as vela.#
+
+ 213: 00:10:43.06 00:10:44.05  Duration 00:00:00.24  14
+#Como a Cire Trudon,#
+
+ 214: 00:10:44.10 00:10:46.10  Duration 00:00:02.00  30
+#que soube manter#
+
+ 215: 00:10:46.14 00:10:47.20  Duration 00:00:01.06  19
+#o primeiro lugar.#
+
+ 216: 00:10:53.05 00:10:54.18  Duration 00:00:01.13  23
+#Para quem gosta de design,#
+
+ 217: 00:10:54.22 00:10:57.21  Duration 00:00:02.24  44
+#é ao Salão Maison et Objet
+que se deve ir.#
+
+ 218: 00:10:58.00 00:11:00.04  Duration 00:00:02.04  32
+#Todas as perguntas
+têm resposta lá.#
+
+ 219: 00:11:00.08 00:11:03.08  Duration 00:00:03.00  45
+#É preciso saber ouvir e ver.#
+
+ 220: 00:11:03.12 00:11:05.17  Duration 00:00:02.05  33
+Maison et Objet design hoje
+
+ 221: 00:11:06.04 00:11:07.09  Duration 00:00:01.05  18
+#O Salão Maison et Objet#
+
+ 222: 00:11:07.14 00:11:10.08  Duration 00:00:02.19  41
+#é o salão do design
+e da decoração.#
+
+ 223: 00:11:10.23 00:11:14.02  Duration 00:00:03.04  47
+#Aqui estão as criações
+e os designers mais relevantes.#
+
+ 224: 00:11:14.06 00:11:18.13  Duration 00:00:04.07  64
+#Aqui se encontram os profissionais
+e os entusiastas dignos desse nome.#
+
+ 225: 00:11:18.17 00:11:20.11  Duration 00:00:01.19  26
+#Nada que acontece
+nessa área#
+
+ 226: 00:11:20.15 00:11:22.03  Duration 00:00:01.13  23
+#escapa
+do Maison et Objet.#
+
+ 227: 00:11:22.07 00:11:24.12  Duration 00:00:02.05  33
+#Por isso
+é um salão indispensável.#
+
+ 228: 00:11:24.16 00:11:26.21  Duration 00:00:02.05  33
+#Como está o design atualmente?#
+
+ 229: 00:11:27.00 00:11:29.09  Duration 00:00:02.09  35
+#Primeira constatação: o conforto.#
+
+ 230: 00:11:33.04 00:11:36.02  Duration 00:00:02.23  44
+Poderíamos falar
+do conforto das cores.
+
+ 231: 00:11:36.06 00:11:38.19  Duration 00:00:02.13  38
+Temos muitas cores
+extremamente suaves,
+
+ 232: 00:11:38.23 00:11:40.20  Duration 00:00:01.22  28
+inspiradas pela natureza,
+
+ 233: 00:11:40.24 00:11:43.22  Duration 00:00:02.23  44
+a transparência do ar,
+a transparência da água,
+
+ 234: 00:11:44.01 00:11:45.02  Duration 00:00:01.01  16
+as cores da pele.
+
+ 235: 00:11:45.07 00:11:46.19  Duration 00:00:01.12  22
+Não é novidade.
+Os# nude,#
+
+ 236: 00:11:46.24 00:11:48.07  Duration 00:00:01.08  20
+os bejes, continuam.
+
+ 237: 00:11:48.11 00:11:50.14  Duration 00:00:02.03  32
+Estavam na moda.
+
+ 238: 00:11:50.19 00:11:53.09  Duration 00:00:02.15  39
+É algo que é importante na casa.
+
+ 239: 00:11:53.13 00:11:55.17  Duration 00:00:02.04  32
+Ainda há o desejo de preciosidade
+
+ 240: 00:11:55.21 00:11:57.22  Duration 00:00:02.01  31
+na decoração atual.
+
+ 241: 00:11:58.02 00:11:59.08  Duration 00:00:01.06  19
+O ouro ainda é forte,
+
+ 242: 00:11:59.18 00:12:03.19  Duration 00:00:04.01  61
+a pele verdadeira ou falsa.
+
+ 243: 00:12:03.23 00:12:06.15  Duration 00:00:02.17  40
+Muitos arredondamentos,
+muitas curvas,
+
+ 244: 00:12:06.19 00:12:09.24  Duration 00:00:03.05  48
+poltronas e sofás que abraçam.
+
+ 245: 00:12:10.04 00:12:13.24  Duration 00:00:03.20  57
+A ideia de proteção com esse luxo
+além de materiais aveludados.
+
+ 246: 00:12:16.17 00:12:19.17  Duration 00:00:03.00  45
+Poderíamos falar
+de "aconchego" das poltronas.
+
+ 247: 00:12:19.21 00:12:20.16  Duration 00:00:00.20  12
+Nós temos,
+
+ 248: 00:12:21.02 00:12:22.02  Duration 00:00:01.00  15
+no Maison et Objet,
+
+ 249: 00:12:22.06 00:12:25.18  Duration 00:00:03.12  52
+uma empresa que faz poltronas
+com ursinhos de pelúcia.
+
+ 250: 00:12:26.09 00:12:30.03  Duration 00:00:03.19  56
+#Fiquem atentos, pois
+essas tendências serão adaptadas.#
+
+ 251: 00:12:30.14 00:12:33.00  Duration 00:00:02.11  37
+#Vocês as verão em breve
+nas revistas#
+
+ 252: 00:12:33.05 00:12:34.13  Duration 00:00:01.08  20
+#e nos consumidores.#
+
+ 253: 00:12:34.17 00:12:36.24  Duration 00:00:02.07  34
+#Por isso é indispensável
+estar presente.#
+
+ 254: 00:12:37.03 00:12:40.01  Duration 00:00:02.23  44
+#O que entendeu bem
+o território Est Ensemble,#
+
+ 255: 00:12:40.06 00:12:42.07  Duration 00:00:02.01  31
+#uma comunidade de aglomerações#
+
+ 256: 00:12:42.12 00:12:45.13  Duration 00:00:03.01  46
+#que reúne nove cidades
+do leste parisiense.#
+
+ 257: 00:12:46.19 00:12:49.13  Duration 00:00:02.19  41
+#Portanto, há no meio do salão#
+
+ 258: 00:12:49.17 00:12:53.11  Duration 00:00:03.19  56
+#esse espaço exposto
+para o trabalho de seus artesãos.#
+
+ 259: 00:12:54.15 00:12:55.12  Duration 00:00:00.22  13
+Decidimos,
+
+ 260: 00:12:55.17 00:12:58.05  Duration 00:00:02.13  38
+este ano,
+vir ao Maison et Objet
+
+ 261: 00:12:58.09 00:13:00.13  Duration 00:00:02.04  32
+sobretudo
+para dar um empurrãozinho
+
+ 262: 00:13:00.17 00:13:02.16  Duration 00:00:01.24  29
+a alguns empreendedores
+
+ 263: 00:13:02.20 00:13:06.06  Duration 00:00:03.11  52
+que estão prontos
+para lançar sua marca
+
+ 264: 00:13:06.10 00:13:09.15  Duration 00:00:03.05  48
+ou para expandir a capacidade
+da sua empresa
+
+ 265: 00:13:09.19 00:13:11.01  Duration 00:00:01.07  19
+e obter
+
+ 266: 00:13:12.01 00:13:14.05  Duration 00:00:02.04  32
+visibilidade, divulgação
+
+ 267: 00:13:15.17 00:13:18.09  Duration 00:00:02.17  40
+em nível nacional
+e também internacional.
+
+ 268: 00:13:18.19 00:13:21.01  Duration 00:00:02.07  34
+#O que aprovam, é claro,
+os artesãos.#
+
+ 269: 00:13:22.12 00:13:24.07  Duration 00:00:01.20  27
+Dá uma visibilidade enorme.
+
+ 270: 00:13:24.11 00:13:26.07  Duration 00:00:01.21  28
+Ajuda a sair do nosso canto,
+
+ 271: 00:13:26.11 00:13:28.22  Duration 00:00:02.11  37
+da nossa gruta de ferreiro.
+
+ 272: 00:13:29.12 00:13:32.06  Duration 00:00:02.19  41
+É bom estar aqui,
+mostrar nossos produtos
+
+ 273: 00:13:32.10 00:13:33.24  Duration 00:00:01.14  23
+e encontrar gente.
+
+ 274: 00:13:34.03 00:13:37.20  Duration 00:00:03.17  55
+Afinal, é um salão enorme.
+É mundial.
+
+ 275: 00:13:37.24 00:13:40.17  Duration 00:00:02.18  41
+Vemos clientes
+que não veríamos fora daqui.
+
+ 276: 00:13:40.21 00:13:43.24  Duration 00:00:03.03  47
+#E clientes
+que sabem ser receptivos.#
+
+ 277: 00:13:45.08 00:13:49.09  Duration 00:00:04.01  61
+A grande luminária Moonlight
+que fizemos com Samuela Accoceberry.
+
+ 278: 00:13:50.06 00:13:52.22  Duration 00:00:02.16  40
+É uma peça bem majestosa
+que agrada,
+
+ 279: 00:13:53.01 00:13:54.03  Duration 00:00:01.02  16
+que ocupa espaço.
+
+ 280: 00:13:54.07 00:13:57.11  Duration 00:00:03.04  47
+É verdade que esse objeto
+atrai as pessoas.
+
+ 281: 00:13:57.15 00:14:01.11  Duration 00:00:03.21  58
+Além disso, acho que o estande
+agradou, o que é positivo.
+
+ 282: 00:14:01.23 00:14:05.18  Duration 00:00:03.20  57
+#Um clima favorável que também
+beneficia essas jovens designers#
+
+ 283: 00:14:05.22 00:14:09.09  Duration 00:00:03.12  52
+#que se iniciaram na cerâmica
+há apenas dois anos.#
+
+ 284: 00:14:09.13 00:14:11.04  Duration 00:00:01.16  25
+#Elas entenderam tudo.#
+
+ 285: 00:14:11.09 00:14:12.18  Duration 00:00:01.09  20
+Não esperávamos nada.
+
+ 286: 00:14:12.22 00:14:15.08  Duration 00:00:02.11  37
+Tínhamos ouvido de tudo um pouco.
+
+ 287: 00:14:15.12 00:14:17.22  Duration 00:00:02.10  36
+Não sabíamos
+como seríamos recebidas.
+
+ 288: 00:14:18.18 00:14:21.17  Duration 00:00:02.24  44
+Estamos bem surpresas.
+Temos muitos contatos.
+
+ 289: 00:14:22.03 00:14:25.14  Duration 00:00:03.11  52
+Estamos meio sobrecarregadas
+com cartões de visita
+
+ 290: 00:14:25.18 00:14:28.13  Duration 00:00:02.20  42
+e envio de catálogos
+aos clientes.
+
+ 291: 00:14:29.01 00:14:32.07  Duration 00:00:03.06  49
+#Clientes que passam ao ato.
+Isso é valioso.#
+
+ 292: 00:14:34.05 00:14:39.02  Duration 00:00:04.22  73
+Outro dia passaram
+três coreanos apressados.
+
+ 293: 00:14:39.06 00:14:41.19  Duration 00:00:02.13  38
+Eles iam pegar o avião
+uma hora depois.
+
+ 294: 00:14:41.23 00:14:44.22  Duration 00:00:02.24  44
+Eles disseram:
+"Qual é seu prazo de entrega?
+
+ 295: 00:14:45.02 00:14:46.20  Duration 00:00:01.18  26
+"Precisamos das peças rápido."
+
+ 296: 00:14:46.24 00:14:49.14  Duration 00:00:02.15  39
+2 semanas era demais,
+então compraram tudo.
+
+ 297: 00:14:49.18 00:14:54.04  Duration 00:00:04.11  67
+"Quando salão terminar,
+enviem-nos tudo para a Coreia."
+
+ 298: 00:14:54.19 00:14:58.15  Duration 00:00:03.21  58
+Foi inesperado,
+mas ficamos muito felizes.
+
+ 299: 00:14:59.03 00:15:00.21  Duration 00:00:01.18  26
+#Já os visitantes#
+
+ 300: 00:15:01.01 00:15:03.07  Duration 00:00:02.06  34
+#levam embora coisas atraentes.#
+
+ 301: 00:15:03.12 00:15:05.07  Duration 00:00:01.20  27
+#E isso não tem preço.#
+
+ 302: 00:15:14.03 00:15:17.05  Duration 00:00:03.02  46
+#Onde são fabricadas as panelas
+dos maiores chefs?#
+
+ 303: 00:15:17.09 00:15:20.04  Duration 00:00:02.20  42
+#É preciso ir
+perto do Mont-Saint-Michel#
+
+ 304: 00:15:20.08 00:15:23.17  Duration 00:00:03.09  50
+#e visitar a empresa familiar
+chamada Mauviel.#
+
+ 305: 00:15:23.21 00:15:26.01  Duration 00:00:02.05  33
+#É simples? Claro que não.#
+
+ 306: 00:15:29.03 00:15:31.09  Duration 00:00:02.06  34
+#Villedieu-les-Poêles
+e tudo foi dito.#
+
+ 307: 00:15:31.14 00:15:34.02  Duration 00:00:02.13  38
+#É lá que se produz,
+na cidade do cobre,#
+
+ 308: 00:15:34.06 00:15:36.09  Duration 00:00:02.03  32
+#tudo que gira
+em torno da panela.#
+
+ 309: 00:15:36.13 00:15:39.15  Duration 00:00:03.02  46
+#É lógico que é um lugar
+cheio de arte e história#
+
+ 310: 00:15:39.19 00:15:43.15  Duration 00:00:03.21  58
+#e que a empresa Mauviel,
+orgulhosa de sua longa existência,#
+
+ 311: 00:15:43.19 00:15:45.15  Duration 00:00:01.21  28
+#é sua perfeita representante.#
+
+ 312: 00:15:45.19 00:15:48.00  Duration 00:00:02.06  34
+#É ela que fabrica
+as frigideiras, panelas#
+
+ 313: 00:15:48.04 00:15:49.24  Duration 00:00:01.20  27
+#e todos os acessórios#
+
+ 314: 00:15:50.04 00:15:51.09  Duration 00:00:01.05  18
+#para grandes cozinhas,#
+
+ 315: 00:15:51.14 00:15:55.04  Duration 00:00:03.15  54
+#até as do Palácio do Eliseu,
+desde sempre e para sempre.#
+
+ 316: 00:15:55.08 00:15:57.05  Duration 00:00:01.22  28
+#O desejo está intacto.#
+
+ 317: 00:16:00.12 00:16:01.21  Duration 00:00:01.09  20
+Voltou a haver demanda
+
+ 318: 00:16:02.01 00:16:04.07  Duration 00:00:02.06  34
+por qualidade profissional
+nas cozinhas
+
+ 319: 00:16:04.11 00:16:08.04  Duration 00:00:03.18  56
+e também voltaram a se atribuir
+
+ 320: 00:16:09.02 00:16:11.15  Duration 00:00:02.13  38
+o utensílio
+como verdadeiro parceiro
+
+ 321: 00:16:11.20 00:16:12.24  Duration 00:00:01.04  17
+na preparação.
+
+ 322: 00:16:13.03 00:16:14.12  Duration 00:00:01.09  20
+Um chef como Yannick Alléno
+
+ 323: 00:16:14.17 00:16:15.22  Duration 00:00:01.05  18
+que é um parceiro,
+
+ 324: 00:16:16.01 00:16:19.16  Duration 00:00:03.15  54
+nos diz que a panela
+é o pincel do pintor.
+
+ 325: 00:16:19.20 00:16:23.18  Duration 00:00:03.23  59
+A panela é a verdadeira continuidade
+da mão do chef.
+
+ 326: 00:16:24.07 00:16:27.22  Duration 00:00:03.15  54
+#O savoir-faire e a estética
+que cercaram essa mão do chef#
+
+ 327: 00:16:28.01 00:16:30.11  Duration 00:00:02.10  36
+#chamaram a atenção
+dos profissionais#
+
+ 328: 00:16:30.23 00:16:32.07  Duration 00:00:01.09  20
+#e das pessoas comuns.#
+
+ 329: 00:16:32.11 00:16:34.07  Duration 00:00:01.21  28
+#Talvez com o acessório do chef#
+
+ 330: 00:16:34.11 00:16:37.11  Duration 00:00:03.00  45
+#tenha-se também
+o talento do chef.#
+
+ 331: 00:16:37.15 00:16:40.10  Duration 00:00:02.20  42
+#Esse é um dos assuntos de conversa#
+
+ 332: 00:16:40.15 00:16:42.01  Duration 00:00:01.11  22
+#da empresa.#
+
+ 333: 00:16:43.08 00:16:45.04  Duration 00:00:01.21  28
+A ideia é tentar
+
+ 334: 00:16:45.09 00:16:48.05  Duration 00:00:02.21  43
+encontrar um sistema meio evolutivo
+
+ 335: 00:16:48.09 00:16:51.20  Duration 00:00:03.11  52
+que possa servir aos chefs
+e no universo doméstico
+
+ 336: 00:16:51.24 00:16:54.09  Duration 00:00:02.10  36
+para qualquer um que ame cozinhar.
+
+ 337: 00:16:54.13 00:16:57.05  Duration 00:00:02.17  40
+Vemos que cada vez mais
+os produtos Mauviel
+
+ 338: 00:16:57.09 00:16:59.13  Duration 00:00:02.04  32
+passando da porta da cozinha.
+
+ 339: 00:16:59.17 00:17:02.02  Duration 00:00:02.10  36
+É uma coisa óbvia.
+Os chefs fazem isso.
+
+ 340: 00:17:02.06 00:17:05.03  Duration 00:00:02.22  43
+No universo doméstico,
+
+ 341: 00:17:06.12 00:17:09.02  Duration 00:00:02.15  39
+o chef amador
+que gosta de cozinhar
+
+ 342: 00:17:09.06 00:17:12.04  Duration 00:00:02.23  44
+tem tanto orgulho
+do seu jogo de cozinha Mauviel
+
+ 343: 00:17:12.09 00:17:13.07  Duration 00:00:00.23  14
+e dos produtos Mauviel
+
+ 344: 00:17:13.11 00:17:17.12  Duration 00:00:04.01  61
+que ele faz questão de usá-los
+como serviço de mesa.
+
+ 345: 00:17:17.17 00:17:19.14  Duration 00:00:01.22  28
+Acho que 30 está bom.
+
+ 346: 00:17:19.19 00:17:21.05  Duration 00:00:01.11  22
+Procuramos realmente
+
+ 347: 00:17:21.10 00:17:25.12  Duration 00:00:04.02  61
+ter um produto que pode
+ser adequado tanto para o chef
+
+ 348: 00:17:25.16 00:17:28.07  Duration 00:00:02.16  40
+quanto para um consumidor privado.
+
+ 349: 00:17:28.11 00:17:30.09  Duration 00:00:01.23  29
+Também é interessante.
+
+ 350: 00:17:30.13 00:17:33.13  Duration 00:00:03.00  45
+Pensamos na funcionalidade
+nos dois casos.
+
+ 351: 00:17:34.20 00:17:36.17  Duration 00:00:01.22  28
+Um consumidor privado
+que sabe
+
+ 352: 00:17:36.21 00:17:41.00  Duration 00:00:04.04  62
+que tal chef também tem,
+eventualmente, o objet que ele tem,
+
+ 353: 00:17:41.04 00:17:45.00  Duration 00:00:03.21  58
+é o pacote absoluto
+que é interessante.
+
+ 354: 00:17:45.18 00:17:47.22  Duration 00:00:02.04  32
+#Interessante também,
+a fabricação.#
+
+ 355: 00:17:48.02 00:17:50.00  Duration 00:00:01.23  29
+#Começa trabalhando
+a matéria-prima.#
+
+ 356: 00:17:52.05 00:17:53.01  Duration 00:00:00.21  13
+É o ponto de partida.
+
+ 357: 00:17:54.17 00:17:57.11  Duration 00:00:02.19  41
+O ponto de partida de todos
+os produtos. É um disco.
+
+ 358: 00:17:57.16 00:18:00.24  Duration 00:00:03.08  50
+Ele é moldado por repuxo,
+ou por recuo.
+
+ 359: 00:18:07.02 00:18:09.00  Duration 00:00:01.23  29
+#Depois vem a estanhagem,#
+
+ 360: 00:18:09.04 00:18:12.06  Duration 00:00:03.02  46
+#que é cobrir de estanho
+o interior de uma peça#
+
+ 361: 00:18:12.10 00:18:15.09  Duration 00:00:02.24  44
+#para evitar a oxidação do cobre
+pelo sal.#
+
+ 362: 00:18:23.20 00:18:26.20  Duration 00:00:03.00  45
+#Um savoir-faire raro
+a ponto de quem o pratica#
+
+ 363: 00:18:26.24 00:18:29.09  Duration 00:00:02.10  36
+#só praticá-lo por paixão.#
+
+ 364: 00:18:33.21 00:18:35.06  Duration 00:00:01.10  21
+Amo esse trabalho.
+
+ 365: 00:18:36.05 00:18:37.21  Duration 00:00:01.16  25
+De verdade.
+
+ 366: 00:18:38.00 00:18:41.00  Duration 00:00:03.00  45
+É lúdico.
+Nunca faço a mesma coisa.
+
+ 367: 00:18:41.10 00:18:42.06  Duration 00:00:00.21  13
+Há
+
+ 368: 00:18:42.20 00:18:44.23  Duration 00:00:02.03  32
+um dever de resultado
+
+ 369: 00:18:45.03 00:18:48.07  Duration 00:00:03.04  47
+que faz com que nos envolvamos
+totalmente.
+
+ 370: 00:18:48.12 00:18:50.05  Duration 00:00:01.18  26
+É superinteressante.
+
+ 371: 00:18:50.19 00:18:53.23  Duration 00:00:03.04  47
+#Interessante também é
+o jeito do martelador.#
+
+ 372: 00:18:54.02 00:18:57.04  Duration 00:00:03.02  46
+#Essa é mais uma realização
+de alto nível,#
+
+ 373: 00:18:57.08 00:18:59.11  Duration 00:00:02.03  32
+#digno de um prato 3 estrelas.#
+
+ 374: 00:19:00.09 00:19:04.20  Duration 00:00:04.11  67
+Esse prato é um pedido específico
+do chef Jean-François Piège,
+
+ 375: 00:19:04.24 00:19:07.18  Duration 00:00:02.19  41
+que nos enviou os desenhos
+do seu designer.
+
+ 376: 00:19:07.22 00:19:10.12  Duration 00:00:02.15  39
+Ele nos pediu pratos para pato.
+
+ 377: 00:19:11.07 00:19:12.13  Duration 00:00:01.06  19
+É um belo produto.
+
+ 378: 00:19:12.18 00:19:16.21  Duration 00:00:04.03  62
+Não sou só eu que me orgulho.
+Todos os colaboradores se orgulham.
+
+ 379: 00:19:17.01 00:19:19.10  Duration 00:00:02.09  35
+#Restam as etapas de polimento,
+perfuração#
+
+ 380: 00:19:19.15 00:19:21.06  Duration 00:00:01.16  25
+#e colocação de cabos e alças.#
+
+ 381: 00:19:21.16 00:19:24.13  Duration 00:00:02.22  43
+#Horas de trabalho
+para um objeto excepcional.#
+
+ 382: 00:19:24.18 00:19:25.24  Duration 00:00:01.06  19
+#Um percurso desconhecido.#
+
+ 383: 00:19:26.12 00:19:29.10  Duration 00:00:02.23  44
+#Consciente dessa possível
+falta de artesãos,#
+
+ 384: 00:19:29.15 00:19:31.19  Duration 00:00:02.04  32
+#a empresa assumiu as coisas.#
+
+ 385: 00:19:35.06 00:19:37.11  Duration 00:00:02.05  33
+Somos a última empresa no mundo
+
+ 386: 00:19:37.16 00:19:38.14  Duration 00:00:00.23  14
+com artesãos.
+
+ 387: 00:19:38.18 00:19:40.20  Duration 00:00:02.02  31
+Somos industriais e artesãos.
+
+ 388: 00:19:41.00 00:19:43.09  Duration 00:00:02.09  35
+Faço questão de preservar também
+
+ 389: 00:19:43.14 00:19:45.06  Duration 00:00:01.17  25
+esse lado artesanal.
+
+ 390: 00:19:45.10 00:19:47.22  Duration 00:00:02.12  37
+Tenho o dever de transmitir
+
+ 391: 00:19:48.02 00:19:49.07  Duration 00:00:01.05  18
+o que me legaram.
+
+ 392: 00:19:49.11 00:19:52.01  Duration 00:00:02.15  39
+É interessante e cativante
+para jovens
+
+ 393: 00:19:52.05 00:19:54.04  Duration 00:00:01.24  29
+mostrar coisas
+ainda utilizadas
+
+ 394: 00:19:54.08 00:19:56.01  Duration 00:00:01.18  26
+e não um mero museu,
+e dizer:
+
+ 395: 00:19:56.24 00:20:00.17  Duration 00:00:03.18  56
+"Tínhamos o savoir-faire.
+Tínhamos produtos."
+
+ 396: 00:20:00.21 00:20:02.01  Duration 00:00:01.05  18
+Falar no passado.
+
+ 397: 00:20:02.12 00:20:05.01  Duration 00:00:02.14  38
+A preservação do patrimônio francês
+
+ 398: 00:20:05.06 00:20:06.08  Duration 00:00:01.02  16
+e dos savoir-faire
+
+ 399: 00:20:06.12 00:20:09.10  Duration 00:00:02.23  44
+precisa continuar ativa.
+
+ 400: 00:20:10.04 00:20:14.03  Duration 00:00:03.24  59
+É dessa forma
+que chamaremos ainda mais a atenção
+
+ 401: 00:20:14.08 00:20:15.11  Duration 00:00:01.03  17
+do consumidor
+
+ 402: 00:20:15.15 00:20:18.20  Duration 00:00:03.05  48
+para a necessidade de fazer tudo
+para preservá-los.
+
+ 403: 00:20:19.00 00:20:22.19  Duration 00:00:03.19  56
+#Um entusiasmo que poderia dar
+vontade de mudar de ramo#
+
+ 404: 00:20:22.24 00:20:24.20  Duration 00:00:01.21  28
+#até a um jornalista.
+Parabéns!#
+
+ 405: 00:20:27.04 00:20:30.11  Duration 00:00:03.07  49
+#O plástico chega à passarela.
+Vocês ouviram bem.#
+
+ 406: 00:20:30.15 00:20:34.24  Duration 00:00:04.09  65
+#O plástico virou tendência.
+Enfim, voltou a ser tendência.#
+
+ 407: 00:20:35.03 00:20:39.01  Duration 00:00:03.23  59
+Come-back matéria plástica
+
+ 408: 00:20:40.21 00:20:42.21  Duration 00:00:02.00  30
+#Quando pensamos em plástico,#
+
+ 409: 00:20:43.00 00:20:45.06  Duration 00:00:02.06  34
+#pensamos em saco de lixo.#
+
+ 410: 00:20:45.10 00:20:48.09  Duration 00:00:02.24  44
+#Mas se pensamos em saco de lixo,
+nos enganamos,#
+
+ 411: 00:20:48.13 00:20:51.22  Duration 00:00:03.09  50
+#e ainda mais se pensarmos
+que é no que inspira a moda.#
+
+ 412: 00:20:52.01 00:20:53.04  Duration 00:00:01.03  17
+#Na moda,#
+
+ 413: 00:20:54.01 00:20:56.03  Duration 00:00:02.02  31
+#eis o que plástico quer dizer.#
+
+ 414: 00:20:59.11 00:21:00.22  Duration 00:00:01.11  22
+#Prabal Gurung#
+
+ 415: 00:21:01.18 00:21:03.22  Duration 00:00:02.04  32
+#faz Gigi Hadid desfilar#
+
+ 416: 00:21:04.01 00:21:07.00  Duration 00:00:02.24  44
+#num vestido plástico
+simplesmente deslumbrante.#
+
+ 417: 00:21:10.07 00:21:13.21  Duration 00:00:03.14  53
+#Sua irmã, Bella,
+também tem direito, mas em short.#
+
+ 418: 00:21:15.18 00:21:16.24  Duration 00:00:01.06  19
+#Quanto à Balenciaga,#
+
+ 419: 00:21:17.18 00:21:21.15  Duration 00:00:03.22  58
+#ela seduz com camisas
+flocadas azuis ou pretas.#
+
+ 420: 00:21:21.19 00:21:23.03  Duration 00:00:01.09  20
+#Não faltam opções.#
+
+ 421: 00:21:23.07 00:21:26.05  Duration 00:00:02.23  44
+#Mas a opção é a dura lei da moda.#
+
+ 422: 00:21:33.02 00:21:34.21  Duration 00:00:01.19  26
+#Está rolando uma história#
+
+ 423: 00:21:35.00 00:21:37.20  Duration 00:00:02.20  42
+#entre a empresa Roxlor
+e carneiros#
+
+ 424: 00:21:37.24 00:21:39.14  Duration 00:00:01.15  24
+#que pode mudar
+nossas vidas.#
+
+ 425: 00:21:39.18 00:21:41.17  Duration 00:00:01.24  29
+#Então, escutem e vejam.#
+
+ 426: 00:21:41.21 00:21:44.22  Duration 00:00:03.01  46
+Beleza a arte da queratina
+
+ 427: 00:21:45.12 00:21:46.21  Duration 00:00:01.09  20
+#Sabe o que é queratina?#
+
+ 428: 00:21:47.00 00:21:50.01  Duration 00:00:03.01  46
+#É uma proteína que compõe
+90% dos cabelos#
+
+ 429: 00:21:50.05 00:21:53.01  Duration 00:00:02.21  43
+#e 70% da epiderme. Bem.#
+
+ 430: 00:21:53.05 00:21:55.06  Duration 00:00:02.01  31
+#Ela pode ser recriada
+em laboratório#
+
+ 431: 00:21:55.10 00:21:58.01  Duration 00:00:02.16  40
+#graças à lã animal.
+Nada mau.#
+
+ 432: 00:21:58.05 00:21:59.22  Duration 00:00:01.17  25
+#Muitas marcas
+afirmam usá-la,#
+
+ 433: 00:22:00.02 00:22:02.23  Duration 00:00:02.21  43
+#mas na verdade,
+elas só usam um derivado.#
+
+ 434: 00:22:03.03 00:22:04.12  Duration 00:00:01.09  20
+#Na Côte d'Azur,#
+
+ 435: 00:22:04.17 00:22:05.12  Duration 00:00:00.20  12
+#em La Ciotat,#
+
+ 436: 00:22:05.16 00:22:08.11  Duration 00:00:02.20  42
+#uma empresa, a Roxlor,
+decidiu fazer melhor.#
+
+ 437: 00:22:08.15 00:22:10.24  Duration 00:00:02.09  35
+#Sob a batuta da fundadora,
+Rosanna Valla,#
+
+ 438: 00:22:11.13 00:22:13.23  Duration 00:00:02.10  36
+#os carneiros entraram em ação.#
+
+ 439: 00:22:15.15 00:22:16.12  Duration 00:00:00.22  13
+A queratina
+
+ 440: 00:22:16.17 00:22:17.17  Duration 00:00:01.00  15
+é lã de carneiro.
+
+ 441: 00:22:17.21 00:22:19.20  Duration 00:00:01.24  29
+Você encontra no mundo todo.
+
+ 442: 00:22:19.24 00:22:24.18  Duration 00:00:04.19  71
+Mas a lã que nós queremos
+é uma lã bem específica.
+
+ 443: 00:22:25.03 00:22:27.06  Duration 00:00:02.03  32
+Nossos carneiros
+vêm do Maciço Central
+
+ 444: 00:22:28.08 00:22:30.04  Duration 00:00:01.21  28
+e são criados ao ar livre.
+
+ 445: 00:22:30.08 00:22:32.02  Duration 00:00:01.19  26
+São carneiros felizes
+
+ 446: 00:22:32.06 00:22:35.13  Duration 00:00:03.07  49
+que nos dão uma lã maravilhosa
+
+ 447: 00:22:35.17 00:22:38.06  Duration 00:00:02.14  38
+e que é exatamente
+a lã que queremos.
+
+ 448: 00:22:38.10 00:22:40.06  Duration 00:00:01.21  28
+Foi a melhor lã
+que encontramos
+
+ 449: 00:22:40.19 00:22:44.12  Duration 00:00:03.18  56
+após fazer vários teste
+com carneiros do mundo todo.
+
+ 450: 00:22:45.21 00:22:48.22  Duration 00:00:03.01  46
+Sim. Podemos dizer
+que a melhor lã é da França.
+
+ 451: 00:22:49.09 00:22:51.06  Duration 00:00:01.22  28
+#Adoramos.
+Não vamos nos conter.#
+
+ 452: 00:22:51.10 00:22:53.03  Duration 00:00:01.18  26
+#E gostamos que se trate#
+
+ 453: 00:22:53.07 00:22:55.08  Duration 00:00:02.01  31
+#de se cuidar do interior.#
+
+ 454: 00:22:56.23 00:22:59.05  Duration 00:00:02.07  34
+A queratina ficou conhecida,
+
+ 455: 00:23:00.14 00:23:02.14  Duration 00:00:02.00  30
+muito conhecida
+graças à L'Oréal.
+
+ 456: 00:23:02.18 00:23:06.11  Duration 00:00:03.18  56
+Mas a L'Oréal
+é para produtos cosméticos,
+
+ 457: 00:23:06.15 00:23:08.18  Duration 00:00:02.03  32
+para produtos de engolir.
+
+ 458: 00:23:08.22 00:23:11.23  Duration 00:00:03.01  46
+Enquanto para nós
+é tratar-se do interior.
+
+ 459: 00:23:12.03 00:23:16.18  Duration 00:00:04.15  69
+#Nessa fábrica foi implantado
+um processo de fabricação único:#
+
+ 460: 00:23:16.23 00:23:19.03  Duration 00:00:02.05  33
+#extrair os peptídeos
+que compõem a proteína.#
+
+ 461: 00:23:19.07 00:23:21.20  Duration 00:00:02.13  38
+#Os peptídeos
+podem entrar no sangue#
+
+ 462: 00:23:22.07 00:23:23.12  Duration 00:00:01.05  18
+#até por via oral.#
+
+ 463: 00:23:23.16 00:23:26.08  Duration 00:00:02.17  40
+#Assim focam
+no que pele e cabelo precisam.#
+
+ 464: 00:23:26.13 00:23:30.11  Duration 00:00:03.23  59
+#Aleluia! O mestre nisso
+é ele, Olivier Blanchardie.#
+
+ 465: 00:23:30.15 00:23:32.04  Duration 00:00:01.14  23
+Esta é a sala
+de trituração.
+
+ 466: 00:23:32.09 00:23:37.02  Duration 00:00:04.18  71
+Quando a lã branca chega,
+está perfeitamente limpa.
+
+ 467: 00:23:37.06 00:23:40.24  Duration 00:00:03.18  56
+Como as fibras são muito longas,
+vamos triturá-las
+
+ 468: 00:23:41.04 00:23:45.00  Duration 00:00:03.21  58
+para poder trabalhá-las
+nas salas de produção, em tanques.
+
+ 469: 00:23:45.04 00:23:49.05  Duration 00:00:04.01  61
+Depois de triturada,
+ela dissolve bem melhor.
+
+ 470: 00:23:53.08 00:23:55.22  Duration 00:00:02.14  38
+Nesta etapa, pusemos a lã.
+
+ 471: 00:23:56.01 00:23:58.04  Duration 00:00:02.03  32
+Depois vamos colocá-la
+na solução
+
+ 472: 00:23:58.08 00:24:00.09  Duration 00:00:02.01  31
+que vai fazê-la ficar solúvel.
+
+ 473: 00:24:00.21 00:24:04.23  Duration 00:00:04.02  61
+#E pronto. Um processo a acompanhar,
+pois o final é surpreendente.#
+
+ 474: 00:24:06.20 00:24:09.05  Duration 00:00:02.10  36
+Partimos da estrutura coesiva da lã,
+
+ 475: 00:24:09.09 00:24:11.17  Duration 00:00:02.08  35
+que é muito resistente
+mecanicamente.
+
+ 476: 00:24:11.21 00:24:13.10  Duration 00:00:01.14  23
+À medida
+que o tempo passa,
+
+ 477: 00:24:13.14 00:24:15.18  Duration 00:00:02.04  32
+que a lã está na solução,
+
+ 478: 00:24:15.22 00:24:19.07  Duration 00:00:03.10  51
+essa estrutura torna-se
+cada vez mais frágil.
+
+ 479: 00:24:19.11 00:24:23.00  Duration 00:00:03.14  53
+As fibras de lã vão se separar
+umas das outras.
+
+ 480: 00:24:23.04 00:24:27.03  Duration 00:00:03.24  59
+Teremos no final
+um aspecto meio de sopa.
+
+ 481: 00:24:27.19 00:24:30.06  Duration 00:00:02.12  37
+#Após algumas horas,
+a lã fica líquida.#
+
+ 482: 00:24:30.10 00:24:33.06  Duration 00:00:02.21  43
+#Por que milagre?
+É um segredo bem guardado.#
+
+ 483: 00:24:33.10 00:24:35.10  Duration 00:00:02.00  30
+#Mas a aventura continua.#
+
+ 484: 00:24:41.23 00:24:44.05  Duration 00:00:02.07  34
+Esse produto, por várias razões
+microbiológicas,
+
+ 485: 00:24:44.09 00:24:45.20  Duration 00:00:01.11  22
+estabilidade, eficácia,
+
+ 486: 00:24:46.00 00:24:47.22  Duration 00:00:01.22  28
+estocagem,
+passa à forma de pó.
+
+ 487: 00:24:48.15 00:24:52.05  Duration 00:00:03.15  54
+#É aí que entra em cena
+o carneiro preto de Puy-en-Velay.#
+
+ 488: 00:24:58.11 00:25:02.19  Duration 00:00:04.08  65
+Conseguimos encontrar uma lã
+que é extremamente negra,
+
+ 489: 00:25:02.24 00:25:05.20  Duration 00:00:02.21  43
+uma lã rústica da França
+
+ 490: 00:25:05.24 00:25:10.24  Duration 00:00:05.00  75
+que nos permite isolar
+a parte peptídica,
+
+ 491: 00:25:11.03 00:25:12.24  Duration 00:00:01.21  28
+aminoácidos e proteínas da lã,
+
+ 492: 00:25:13.03 00:25:14.11  Duration 00:00:01.08  20
+e a parte pigmentar.
+
+ 493: 00:25:14.15 00:25:17.14  Duration 00:00:02.24  44
+De fato, estamos à beira-mar.
+
+ 494: 00:25:17.18 00:25:21.20  Duration 00:00:04.02  61
+Não podemos dizer que os rebanhos
+correm pelos prados aqui.
+
+ 495: 00:25:21.24 00:25:26.24  Duration 00:00:05.00  75
+Nós tivemos que procurar
+a matéria-prima
+
+ 496: 00:25:27.03 00:25:30.20  Duration 00:00:03.17  55
+bem no interior da França,
+em Le Puy-en-Velay.
+
+ 497: 00:25:31.10 00:25:34.20  Duration 00:00:03.10  51
+#No sucesso do projeto
+tem astúcia, força de vontade,#
+
+ 498: 00:25:35.00 00:25:38.06  Duration 00:00:03.06  49
+#mas também, para Lorenzo Carlini,
+filho da fundadora,#
+
+ 499: 00:25:38.10 00:25:40.15  Duration 00:00:02.05  33
+#o selo Origine France Garantie.#
+
+ 500: 00:25:40.19 00:25:42.00  Duration 00:00:01.06  19
+Somos a França
+
+ 501: 00:25:42.05 00:25:46.23  Duration 00:00:04.18  71
+no mercado de produtos de luxo
+conhecidos no mundo todo.
+
+ 502: 00:25:47.02 00:25:50.06  Duration 00:00:03.04  47
+Ter o selo
+Origine France Garantie
+
+ 503: 00:25:50.11 00:25:51.19  Duration 00:00:01.08  20
+é uma abertura mundial.
+
+ 504: 00:25:51.23 00:25:54.19  Duration 00:00:02.21  43
+Isso dá uma ideia da marca
+
+ 505: 00:25:54.23 00:25:57.06  Duration 00:00:02.08  35
+e de querer fazer algo bom.
+
+ 506: 00:25:57.11 00:26:00.11  Duration 00:00:03.00  45
+#Agora não contaremos mais
+carneiros para dormir.#
+
+ 507: 00:26:04.19 00:26:07.11  Duration 00:00:02.17  40
+Adaptação: Adriana Gasparoni
+Legendas: ECLAIR
+
