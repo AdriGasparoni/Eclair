@@ -1,0 +1,5999 @@
+
+   1: 10:00:33.10 10:00:35.23  Duration 00:00:02.13  38
+      Boulevard du palais
+
+   2: 10:00:37.00 10:00:41.04  Duration 00:00:04.04  62
+      Mauvaise graine
+
+   3: 10:00:49.17 10:00:51.12  Duration 00:00:01.20  27
+      Tue-le! Tue-le!
+
+   4: 10:00:51.16 10:00:53.09  Duration 00:00:01.18  26
+      Tue-le! Tue-le!
+
+   5: 10:01:15.11 10:01:16.11  Duration 00:00:01.00  15
+      Arrêtez!
+
+   6: 10:01:17.12 10:01:18.12  Duration 00:00:01.00  15
+      Arrêtez!
+
+   7: 10:01:18.16 10:01:19.21  Duration 00:00:01.05  18
+      Arrêtez!
+
+   8: 10:01:22.23 10:01:24.11  Duration 00:00:01.13  23
+      Stéphane!
+
+   9: 10:01:25.03 10:01:27.07  Duration 00:00:02.04  32
+      Je vais prévenir la directrice.
+
+  10: 10:01:27.12 10:01:29.08  Duration 00:00:01.21  28
+      Vous allez où? Restez là.
+
+  11: 10:01:31.02 10:01:32.05  Duration 00:00:01.03  17
+      Tudo bem?
+
+  12: 10:01:34.03 10:01:35.24  Duration 00:00:01.21  28
+      Qu'est-ce qui s'est passé?
+
+  13: 10:01:38.20 10:01:40.02  Duration 00:00:01.07  19
+      Doucement, doucement.
+
+  14: 10:01:41.10 10:01:43.23  Duration 00:00:02.13  38
+      Isabelle, emmène-le à l'infirmerie.
+
+  15: 10:02:11.07 10:02:13.07  Duration 00:00:02.00  30
+      Je prends les paris
+      pour le 11e verre.
+
+  16: 10:02:13.12 10:02:14.18  Duration 00:00:01.06  19
+      11e verre à venir.
+
+  17: 10:02:14.23 10:02:16.23  Duration 00:00:02.00  30
+      Faites vos jeux.
+      Bientôt rien ne va plus.
+
+  18: 10:02:17.03 10:02:19.07  Duration 00:00:02.04  32
+      Alors comme ça,
+
+  19: 10:02:19.12 10:02:21.13  Duration 00:00:02.01  31
+      les femmes tiennent pas l'alcool?
+
+  20: 10:02:21.18 10:02:23.10  Duration 00:00:01.17  25
+      É une histoire d'enzymes.
+
+  21: 10:02:24.14 10:02:26.18  Duration 00:00:02.04  32
+      Il se trouve que le beau sexe...
+
+  22: 10:02:27.22 10:02:29.16  Duration 00:00:01.19  26
+      Le beau sexe!
+
+  23: 10:02:31.15 10:02:34.23  Duration 00:00:03.08  50
+      ...métabolise plus lentement
+      l'alcool dans le sang.
+
+  24: 10:02:35.03 10:02:38.07  Duration 00:00:03.04  47
+      Vous savez ce qu'elles vous disent,
+      mes petites enzymes?
+
+  25: 10:02:49.04 10:02:51.15  Duration 00:00:02.11  37
+      Mme la substitut a de la ressource.
+
+  26: 10:02:56.05 10:02:57.07  Duration 00:00:01.02  16
+      Adèle?
+
+  27: 10:02:59.08 10:03:00.03  Duration 00:00:00.20  12
+      Adèle?
+
+  28: 10:03:01.14 10:03:04.19  Duration 00:00:03.05  48
+      Et victoire du Dr Pluvinage
+      au 11e verre!
+
+  29: 10:03:09.13 10:03:11.07  Duration 00:00:01.19  26
+      Centres éducatifs fermés
+
+  30: 10:03:21.01 10:03:22.24  Duration 00:00:01.23  29
+      -Où est le légiste?
+      -Il répond pas.
+
+  31: 10:03:23.03 10:03:25.15  Duration 00:00:02.12  37
+      -Et le bureau du proc?
+      -La substitut doit arriver...
+
+  32: 10:03:26.06 10:03:28.05  Duration 00:00:01.24  29
+      Qu'est-ce qu'ils foutent?
+
+  33: 10:03:29.17 10:03:31.06  Duration 00:00:01.14  23
+      É pas trop tôt!
+
+  34: 10:03:32.06 10:03:34.07  Duration 00:00:02.01  31
+      Moins fort, s'il te plaît.
+
+  35: 10:03:35.00 10:03:39.14  Duration 00:00:04.14  68
+      Hier, on a célébré la victoire
+      de notre médecin légiste...
+
+  36: 10:03:40.05 10:03:41.04  Duration 00:00:00.24  14
+      Quelle victoire?
+
+  37: 10:03:41.19 10:03:44.07  Duration 00:00:02.13  38
+      É compliqué, je t'expliquerai.
+
+  38: 10:03:44.12 10:03:46.10  Duration 00:00:01.23  29
+      -Salut, les gars.
+      -Bonjour!
+
+  39: 10:03:49.12 10:03:52.00  Duration 00:00:02.13  38
+      -Pluvinage n'est pas encore là?
+      -Não.
+
+  40: 10:03:53.15 10:03:55.12  Duration 00:00:01.22  28
+      #Yes!# Je le savais!
+
+  41: 10:03:56.24 10:03:59.05  Duration 00:00:02.06  34
+      Les femmes récupèrent plus vite
+      que les hommes.
+
+  42: 10:04:00.22 10:04:02.07  Duration 00:00:01.10  21
+      Excusez-moi, je...
+
+  43: 10:04:03.01 10:04:06.07  Duration 00:00:03.06  49
+      -Sim, je sais, é compliqué...
+      -Voilà.
+
+  44: 10:04:08.01 10:04:10.15  Duration 00:00:02.14  38
+      -Je peux vous faire le topo?
+      -Sim, allez-y.
+
+  45: 10:04:11.15 10:04:12.24  Duration 00:00:01.09  20
+      Alors...
+
+  46: 10:04:13.18 10:04:15.19  Duration 00:00:02.01  31
+      La victime:
+      Isabelle Giraud, 23 ans.
+
+  47: 10:04:15.24 10:04:19.16  Duration 00:00:03.17  55
+      D'après les 1ers témoignages,
+      elle menait une vie tranquille.
+
+  48: 10:04:19.21 10:04:21.24  Duration 00:00:02.03  32
+      Célibataire, pas de casier.
+      Pas d'effraction.
+
+  49: 10:04:22.03 10:04:25.03  Duration 00:00:03.00  45
+      Elle a gentiment laissé entrer
+      son agresseur, qui, en retour,
+
+  50: 10:04:25.08 10:04:27.01  Duration 00:00:01.18  26
+      l'a poignardée,
+
+  51: 10:04:27.06 10:04:30.12  Duration 00:00:03.06  49
+      ce que le légiste nous confirmera,
+      s'il daigne nous rejoindre,
+
+  52: 10:04:30.17 10:04:34.08  Duration 00:00:03.16  55
+      malgré la soirée très compliquée
+      que vous avez apparemment tous vécue.
+
+  53: 10:04:35.19 10:04:38.07  Duration 00:00:02.13  38
+      -É bon? On a fini, là?
+      -Ouais.
+
+  54: 10:04:38.12 10:04:40.13  Duration 00:00:02.01  31
+      Parce que ça fait beaucoup, quoi...
+
+  55: 10:04:41.05 10:04:43.04  Duration 00:00:01.24  29
+      T'as pas changé, toi, tu sais.
+
+  56: 10:04:44.02 10:04:45.16  Duration 00:00:01.14  23
+      Ça débite.
+
+  57: 10:04:45.21 10:04:47.22  Duration 00:00:02.01  31
+      Nathalie Lopez est de retour.
+
+  58: 10:04:48.02 10:04:51.06  Duration 00:00:03.04  47
+      Reviens vite de ton stage, Tina.
+      Reviens vite.
+
+  59: 10:05:03.12 10:05:05.08  Duration 00:00:01.21  28
+      Sim, sim.
+
+  60: 10:05:05.12 10:05:06.16  Duration 00:00:01.04  17
+      Sim, j'arrive.
+
+  61: 10:05:10.21 10:05:11.19  Duration 00:00:00.23  14
+      Sim?
+
+  62: 10:05:11.24 10:05:14.16  Duration 00:00:02.17  40
+      Sim, je suis là, pourquoi?
+
+  63: 10:05:16.15 10:05:19.06  Duration 00:00:02.16  40
+      Ah sim, d'accord.
+      J'arrive tout de suite.
+
+  64: 10:05:19.10 10:05:20.17  Duration 00:00:01.07  19
+      À tout de suite.
+
+  65: 10:05:24.16 10:05:26.16  Duration 00:00:02.00  30
+      J'ai plus l'âge pour ces conneries.
+
+  66: 10:05:32.17 10:05:34.14  Duration 00:00:01.22  28
+      Tu m'as foutu la trouille.
+
+  67: 10:05:34.18 10:05:36.04  Duration 00:00:01.11  22
+      Qu'est-ce que tu fous là?
+
+  68: 10:05:36.08 10:05:38.17  Duration 00:00:02.09  35
+      É toi qui m'as ramené?
+
+  69: 10:05:38.21 10:05:40.19  Duration 00:00:01.23  29
+      Alors, est-ce que cette fois,
+
+  70: 10:05:40.23 10:05:44.02  Duration 00:00:03.04  47
+      tu as vu ta vie défiler devant toi
+      en quelques secondes?
+
+  71: 10:05:45.03 10:05:47.08  Duration 00:00:02.05  33
+      Rovère, t'es sûr que ça va?
+
+  72: 10:05:47.12 10:05:49.19  Duration 00:00:02.07  34
+      Alors t'avais pas encore assez bu.
+
+  73: 10:05:52.00 10:05:56.12  Duration 00:00:04.12  67
+      Parce que toi, t'as déjà vu
+      ta vie défiler devant toi?
+
+  74: 10:05:56.16 10:05:59.08  Duration 00:00:02.17  40
+      Plusieurs fois.
+      Et é très beau.
+
+  75: 10:06:07.03 10:06:08.03  Duration 00:00:01.00  15
+      Immersion au centre éducatif fermé
+      de Massy-Palaiseau
+
+  76: 10:06:08.07 10:06:11.09  Duration 00:00:03.02  46
+      "Centre éducatif fermé."
+
+  77: 10:06:11.14 10:06:13.21  Duration 00:00:02.07  34
+      É pas ici qu'ils mettent
+      les jeunes délinquants
+
+  78: 10:06:14.01 10:06:15.23  Duration 00:00:01.22  28
+      pour pas les mettre en taule?
+
+  79: 10:06:16.03 10:06:18.21  Duration 00:00:02.18  41
+      Sim. Isabelle Giraud
+      était éducatrice là-bas.
+
+  80: 10:06:19.01 10:06:22.03  Duration 00:00:03.02  46
+      Et vous pensez que é un
+      des jeunes qu'elle gardait
+
+  81: 10:06:22.07 10:06:23.09  Duration 00:00:01.02  16
+      qui l'a butée?
+
+  82: 10:06:23.14 10:06:25.04  Duration 00:00:01.15  24
+      On peut pas écarter cette piste.
+
+  83: 10:06:25.09 10:06:28.17  Duration 00:00:03.08  50
+      É souvent des ados violents
+      qui ont un casier très long.
+
+  84: 10:06:28.22 10:06:30.08  Duration 00:00:01.11  22
+      Il n'y a plus de jeunesse.
+
+  85: 10:06:30.13 10:06:33.08  Duration 00:00:02.20  42
+      Bon. Moi, je sais ce qui me reste
+      à faire.
+
+  86: 10:06:33.12 10:06:35.00  Duration 00:00:01.13  23
+      J'y vais.
+
+  87: 10:06:35.05 10:06:36.24  Duration 00:00:01.19  26
+      Dites à Rovère de ne pas venir.
+
+  88: 10:06:37.04 10:06:38.14  Duration 00:00:01.10  21
+      Il vous rejoint là-bas.
+
+  89: 10:06:38.19 10:06:41.01  Duration 00:00:02.07  34
+      Bien, madame la substitute.
+
+  90: 10:06:41.05 10:06:42.15  Duration 00:00:01.10  21
+      Lieutenant!
+
+  91: 10:06:42.19 10:06:44.11  Duration 00:00:01.17  25
+      Restez ici pour fixer
+      la scène de crime.
+
+  92: 10:06:45.10 10:06:46.12  Duration 00:00:01.02  16
+      Alors, on s'est remis?
+
+  93: 10:06:47.24 10:06:49.06  Duration 00:00:01.07  19
+      Vigoureux.
+
+  94: 10:06:49.11 10:06:51.22  Duration 00:00:02.11  37
+      Ah, madame la substitute.
+      Lieutenant...
+
+  95: 10:06:54.24 10:06:57.21  Duration 00:00:02.22  43
+      Je veux savoir si la victime
+      a été frappée par un adolescent
+
+  96: 10:06:58.01 10:07:00.09  Duration 00:00:02.08  35
+      ou quelqu'un qui n'a pas
+      la capacité d'un adulte.
+
+  97: 10:07:00.14 10:07:01.22  Duration 00:00:01.08  20
+      -Sim.
+      -Merci.
+
+  98: 10:07:02.02 10:07:04.08  Duration 00:00:02.06  34
+      Madame la substitut,
+
+  99: 10:07:04.13 10:07:06.09  Duration 00:00:01.21  28
+      félicitations pour hier soir.
+      Belle performance.
+
+ 100: 10:07:06.21 10:07:07.16  Duration 00:00:00.20  12
+      Merci.
+
+ 101: 10:07:07.21 10:07:09.22  Duration 00:00:02.01  31
+      -Et é un docteur qui le dit.
+      -Merci.
+
+ 102: 10:07:10.02 10:07:11.12  Duration 00:00:01.10  21
+      Je suis flattée.
+
+ 103: 10:07:12.20 10:07:13.16  Duration 00:00:00.21  13
+      Bon.
+
+ 104: 10:07:13.20 10:07:15.07  Duration 00:00:01.12  22
+      J'attends votre rapport.
+
+ 105: 10:07:17.06 10:07:18.08  Duration 00:00:01.02  16
+      Oh là là.
+
+ 106: 10:07:18.13 10:07:20.05  Duration 00:00:01.17  25
+      La sauvagerie juvénile,
+
+ 107: 10:07:20.10 10:07:22.00  Duration 00:00:01.15  24
+      l'inclination mortifère des jeunes,
+
+ 108: 10:07:22.05 10:07:24.01  Duration 00:00:01.21  28
+      leur frustration sexuelle,
+
+ 109: 10:07:24.06 10:07:25.11  Duration 00:00:01.05  18
+      sociale...
+
+ 110: 10:07:26.23 10:07:29.06  Duration 00:00:02.08  35
+      Quoi?
+      Vous êtes pas d'accord avec moi?
+
+ 111: 10:07:35.14 10:07:36.18  Duration 00:00:01.04  17
+      Oh là là.
+
+ 112: 10:07:36.23 10:07:39.09  Duration 00:00:02.11  37
+      Ministère de la Justice
+      Centre éducatif fermé
+
+ 113: 10:07:42.10 10:07:44.24  Duration 00:00:02.14  38
+      -File-moi mes 10 balles.
+      -Tu comprends le français?
+
+ 114: 10:07:45.04 10:07:47.07  Duration 00:00:02.03  32
+      Arrête, é bon, calme-toi.
+
+ 115: 10:07:48.03 10:07:50.04  Duration 00:00:02.01  31
+      É à cause de l'autre con?
+
+ 116: 10:07:50.09 10:07:54.07  Duration 00:00:03.23  59
+      -Je sais pas, moi...
+      -Il me faut mes 10 balles!
+
+ 117: 10:07:54.12 10:07:56.03  Duration 00:00:01.16  25
+      É joli, chez vous.
+
+ 118: 10:07:56.08 10:07:59.00  Duration 00:00:02.17  40
+      É champêtre, bucolique.
+
+ 119: 10:07:59.05 10:08:00.06  Duration 00:00:01.01  16
+      É qui, ce bouffon?
+
+ 120: 10:08:00.11 10:08:01.13  Duration 00:00:01.02  16
+      T'as des clopes?
+
+ 121: 10:08:01.18 10:08:04.14  Duration 00:00:02.21  43
+      Mon cher, je suis désolé,
+      mais moi, je ne fume pas.
+
+ 122: 10:08:04.18 10:08:05.17  Duration 00:00:00.24  14
+      Il t'a dit "mon cher".
+
+ 123: 10:08:05.22 10:08:07.20  Duration 00:00:01.23  29
+      Moi, je suis pas ta chérie.
+
+ 124: 10:08:08.00 10:08:09.07  Duration 00:00:01.07  19
+      Attention...
+
+ 125: 10:08:09.12 10:08:10.23  Duration 00:00:01.11  22
+      Taisez-vous!
+
+ 126: 10:08:12.08 10:08:13.22  Duration 00:00:01.14  23
+      Rentrez.
+      É l'heure des ateliers.
+
+ 127: 10:08:14.02 10:08:15.02  Duration 00:00:01.00  15
+      Mais, madame...
+
+ 128: 10:08:15.07 10:08:16.09  Duration 00:00:01.02  16
+      Allez!
+
+ 129: 10:08:18.10 10:08:20.00  Duration 00:00:01.15  24
+      Que faites-vous là, monsieur?
+
+ 130: 10:08:20.05 10:08:22.16  Duration 00:00:02.11  37
+      Je n'en ai qu'une très vague idée.
+
+ 131: 10:08:23.17 10:08:26.06  Duration 00:00:02.14  38
+      En général, on m'appelle
+      quand il y a un meurtre.
+
+ 132: 10:08:26.11 10:08:29.02  Duration 00:00:02.16  40
+      Enfin, là, allez savoir.
+
+ 133: 10:08:29.07 10:08:30.19  Duration 00:00:01.12  22
+      Qui êtes-vous?
+
+ 134: 10:08:30.24 10:08:32.08  Duration 00:00:01.09  20
+      Commandant Rovère,
+
+ 135: 10:08:32.13 10:08:34.05  Duration 00:00:01.17  25
+      de la brigade criminelle.
+
+ 136: 10:08:36.01 10:08:37.06  Duration 00:00:01.05  18
+      Oh, regardez,
+
+ 137: 10:08:37.11 10:08:39.00  Duration 00:00:01.14  23
+      il y a mon collègue.
+
+ 138: 10:08:39.05 10:08:42.08  Duration 00:00:03.03  47
+      Lui sera capable
+      de nous éclairer davantage.
+
+ 139: 10:08:42.13 10:08:44.00  Duration 00:00:01.12  22
+      Les jeunes, ça bosse?
+
+ 140: 10:08:44.05 10:08:45.13  Duration 00:00:01.08  20
+      É bien.
+
+ 141: 10:08:45.17 10:08:47.18  Duration 00:00:02.01  31
+      Je me demandais
+      où vous étiez passé.
+
+ 142: 10:08:48.14 10:08:50.11  Duration 00:00:01.22  28
+      #Não, la nuit, en ce moment,#
+
+ 143: 10:08:50.16 10:08:52.15  Duration 00:00:01.24  29
+      ils sont enfermés dans leur chambre,
+
+ 144: 10:08:52.20 10:08:54.05  Duration 00:00:01.10  21
+      pour calmer les esprits.
+
+ 145: 10:08:54.10 10:08:56.19  Duration 00:00:02.09  35
+      On a eu un incident, et...
+
+ 146: 10:08:58.04 10:08:58.24  Duration 00:00:00.20  12
+      Excusez-moi.
+
+ 147: 10:08:59.21 10:09:00.22  Duration 00:00:01.01  16
+      "Un incident"?
+
+ 148: 10:09:01.02 10:09:04.03  Duration 00:00:03.01  46
+      Rien, une petite dispute
+      entre des pensionnaires.
+
+ 149: 10:09:06.16 10:09:07.21  Duration 00:00:01.05  18
+      Pouvez-vous nous garantir
+
+ 150: 10:09:08.01 10:09:10.23  Duration 00:00:02.22  43
+      que personne n'est sorti?
+
+ 151: 10:09:11.02 10:09:11.22  Duration 00:00:00.20  12
+      Absolument.
+
+ 152: 10:09:12.02 10:09:14.23  Duration 00:00:02.21  43
+      J'ai tout vérifié personnellement.
+
+ 153: 10:09:16.14 10:09:20.05  Duration 00:00:03.16  55
+      Eh bien, on va aller interroger
+      tout ce petit monde.
+
+ 154: 10:09:20.10 10:09:22.00  Duration 00:00:01.15  24
+      Si vous permettez,
+
+ 155: 10:09:22.05 10:09:25.09  Duration 00:00:03.04  47
+      je préférerais que vous ne révéliez
+      pas la mort d'Isabelle aux jeunes.
+
+ 156: 10:09:25.14 10:09:26.23  Duration 00:00:01.09  20
+      Pardon, madame?
+
+ 157: 10:09:27.03 10:09:29.24  Duration 00:00:02.21  43
+      Não, ils ont du mal
+      à gérer leurs émotions
+
+ 158: 10:09:30.03 10:09:32.14  Duration 00:00:02.11  37
+      et ils peuvent être très instables.
+
+ 159: 10:09:32.18 10:09:34.06  Duration 00:00:01.13  23
+      Je préfère le faire moi-même.
+
+ 160: 10:09:35.17 10:09:39.22  Duration 00:00:04.05  63
+      Bon. On va commencer
+      par les éducateurs et l'encadrement.
+
+ 161: 10:09:40.02 10:09:41.07  Duration 00:00:01.05  18
+      Voilà.
+
+ 162: 10:09:41.12 10:09:43.02  Duration 00:00:01.15  24
+      -Pas de problème.
+      -Merci.
+
+ 163: 10:09:51.15 10:09:52.19  Duration 00:00:01.04  17
+      Tiens.
+
+ 164: 10:09:52.23 10:09:55.02  Duration 00:00:02.04  32
+      Voilà le dossier Isabelle Giraud.
+
+ 165: 10:09:55.06 10:09:57.06  Duration 00:00:02.00  30
+      Tu prends ou tu prends pas?
+
+ 166: 10:09:58.11 10:10:01.21  Duration 00:00:03.10  51
+      S'il y a un lien avec le CEF,
+      t'avertis le proc, d'ac?
+
+ 167: 10:10:02.01 10:10:03.23  Duration 00:00:01.22  28
+      Il a peur d'avoir
+      une mauvaise presse.
+
+ 168: 10:10:04.02 10:10:05.11  Duration 00:00:01.09  20
+      Il voit déjà les gros titres.
+
+ 169: 10:10:05.16 10:10:07.16  Duration 00:00:02.00  30
+      "Ces jeunes tueurs en liberté."
+
+ 170: 10:10:08.21 10:10:10.09  Duration 00:00:01.13  23
+      T'es en état de travailler?
+
+ 171: 10:10:10.13 10:10:13.00  Duration 00:00:02.12  37
+      Pour le boulot, pas de problème,
+      mais...
+
+ 172: 10:10:14.10 10:10:16.00  Duration 00:00:01.15  24
+      Ca te dit quelque chose, ça?
+
+ 173: 10:10:16.05 10:10:17.04  Duration 00:00:00.24  14
+      Não, pourquoi?
+
+ 174: 10:10:17.09 10:10:20.04  Duration 00:00:02.20  42
+      J'ai retrouvé ça ce matin
+      dans mon sac avec mon string.
+
+ 175: 10:10:20.09 10:10:21.11  Duration 00:00:01.02  16
+      Qu'as-tu fait?
+
+ 176: 10:10:21.15 10:10:23.04  Duration 00:00:01.14  23
+      É le black-out complet.
+
+ 177: 10:10:23.09 10:10:24.14  Duration 00:00:01.05  18
+      J'ai enlevé mon string,
+
+ 178: 10:10:24.19 10:10:26.04  Duration 00:00:01.10  21
+      et un garçon a enlevé cette montre.
+
+ 179: 10:10:26.09 10:10:29.02  Duration 00:00:02.18  41
+      Mais je ne sais pas où, quand,
+      comment, pourquoi.
+
+ 180: 10:10:29.06 10:10:30.01  Duration 00:00:00.20  12
+      T'as pas une idée?
+
+ 181: 10:10:30.06 10:10:32.17  Duration 00:00:02.11  37
+      Não. Moi, j'ai pris un taxi
+      en sortant de la Jonque,
+
+ 182: 10:10:32.22 10:10:34.15  Duration 00:00:01.18  26
+      et toi, tu voulais rester.
+
+ 183: 10:10:34.20 10:10:38.08  Duration 00:00:03.13  53
+      É pas la 1re fois que tu
+      te retrouves ivre avec un inconnu.
+
+ 184: 10:10:38.13 10:10:39.14  Duration 00:00:01.01  16
+      É quoi, le problème?
+
+ 185: 10:10:39.18 10:10:41.10  Duration 00:00:01.17  25
+      Le problème, é ça.
+
+ 186: 10:10:41.15 10:10:42.24  Duration 00:00:01.09  20
+      "Edmond."
+
+ 187: 10:10:43.03 10:10:44.06  Duration 00:00:01.03  17
+      "1927."
+
+ 188: 10:10:44.11 10:10:46.00  Duration 00:00:01.14  23
+      -"Charles."
+      -"1943."
+
+ 189: 10:10:46.04 10:10:47.18  Duration 00:00:01.14  23
+      -"Pierre."
+      -"1964."
+
+ 190: 10:10:47.22 10:10:49.14  Duration 00:00:01.17  25
+      É transmis de père en fils.
+
+ 191: 10:10:49.19 10:10:51.16  Duration 00:00:01.22  28
+      Ça doit avoir
+      une grande valeur sentimentale.
+
+ 192: 10:10:51.21 10:10:53.17  Duration 00:00:01.21  28
+      Je peux pas revendre ça sur Internet.
+
+ 193: 10:10:53.22 10:10:55.10  Duration 00:00:01.13  23
+      Je dois retrouver ce type.
+
+ 194: 10:10:55.14 10:10:58.00  Duration 00:00:02.11  37
+      Tu fais dans le cinquantenaire
+      de bonne famille?
+
+ 195: 10:10:58.04 10:11:00.06  Duration 00:00:02.02  31
+      Je t'ai connue beaucoup plus rock.
+
+ 196: 10:11:00.11 10:11:02.12  Duration 00:00:02.01  31
+      Il faut que j'aille interroger
+      le barman.
+
+ 197: 10:11:02.16 10:11:04.01  Duration 00:00:01.10  21
+      Tu peux venir avec moi?
+
+ 198: 10:11:04.06 10:11:06.05  Duration 00:00:01.24  29
+      Não. J'ai pas que ça à faire.
+
+ 199: 10:11:06.09 10:11:07.04  Duration 00:00:00.20  12
+      S'il te plaît.
+
+ 200: 10:11:07.09 10:11:11.06  Duration 00:00:03.22  58
+      Et s'il me dit que je suis repartie
+      avec un type comme Édouard Balladur?
+
+ 201: 10:11:11.11 10:11:13.15  Duration 00:00:02.04  32
+      Il me faudra un soutien
+      psychologique énorme.
+
+ 202: 10:11:13.20 10:11:15.03  Duration 00:00:01.08  20
+      -É sim?
+      -Não.
+
+ 203: 10:11:15.07 10:11:16.22  Duration 00:00:01.15  24
+      -Si.
+      -Não.
+
+ 204: 10:11:17.01 10:11:18.14  Duration 00:00:01.13  23
+      -Prends le dossier.
+      -Allez.
+
+ 205: 10:11:18.18 10:11:19.13  Duration 00:00:00.20  12
+      Não.
+
+ 206: 10:11:23.23 10:11:25.12  Duration 00:00:01.14  23
+      -Bonjour, Charlotte.
+      -Tenez.
+
+ 207: 10:11:25.17 10:11:27.04  Duration 00:00:01.12  22
+      Qu'est-ce que é?
+
+ 208: 10:11:27.08 10:11:29.04  Duration 00:00:01.21  28
+      Aspirine, vitamines.
+
+ 209: 10:11:29.09 10:11:30.21  Duration 00:00:01.12  22
+      É pour moi?
+
+ 210: 10:11:31.00 10:11:33.16  Duration 00:00:02.16  40
+      Vous vous êtes couchée tard,
+      ça vous fera du bien.
+
+ 211: 10:11:33.21 10:11:35.10  Duration 00:00:01.14  23
+      Comment vous savez ça?
+
+ 212: 10:11:35.15 10:11:37.21  Duration 00:00:02.06  34
+      -Vous vous rappelez pas?
+      -Não.
+
+ 213: 10:11:38.01 10:11:39.21  Duration 00:00:01.20  27
+      Vous m'avez appelée
+      à 3 h du matin.
+
+ 214: 10:11:40.01 10:11:43.10  Duration 00:00:03.09  50
+      Vous étiez incapable
+      de vous souvenir de votre adresse.
+
+ 215: 10:11:43.14 10:11:44.18  Duration 00:00:01.04  17
+      -Mais não.
+      -Si.
+
+ 216: 10:11:44.23 10:11:46.10  Duration 00:00:01.12  22
+      Mais não.
+
+ 217: 10:11:48.05 10:11:50.07  Duration 00:00:02.02  31
+      Mon Dieu.
+      Je suis désolée, Charlotte.
+
+ 218: 10:11:53.00 10:11:55.05  Duration 00:00:02.05  33
+      L'agression de Cédric Vérand,
+      un incident?
+
+ 219: 10:11:55.10 10:11:56.22  Duration 00:00:01.12  22
+      Elle a dit "un incident"?
+
+ 220: 10:11:58.00 10:12:00.08  Duration 00:00:02.08  35
+      Sim. Qu'est-ce qui s'est
+      vraiment passé?
+
+ 221: 10:12:00.12 10:12:03.23  Duration 00:00:03.11  52
+      La directrice a laissé les autres
+      tabasser Vérand sans rien faire.
+
+ 222: 10:12:04.03 10:12:05.12  Duration 00:00:01.09  20
+      Personne n'est intervenu?
+
+ 223: 10:12:05.16 10:12:08.04  Duration 00:00:02.13  38
+      Si. On y est allés, avec Isabelle.
+
+ 224: 10:12:08.08 10:12:10.19  Duration 00:00:02.11  37
+      Sans elle,
+      il partait direct à l'hôpital.
+
+ 225: 10:12:11.20 10:12:13.07  Duration 00:00:01.12  22
+      Je comprends plus.
+
+ 226: 10:12:13.12 10:12:16.15  Duration 00:00:03.03  47
+      Mme Manet a été donc là.
+
+ 227: 10:12:16.20 10:12:17.20  Duration 00:00:01.00  15
+      Não.
+
+ 228: 10:12:19.19 10:12:21.21  Duration 00:00:02.02  31
+      Mais Vérand,
+      elle peut pas l'encadrer.
+
+ 229: 10:12:28.03 10:12:30.22  Duration 00:00:02.19  41
+      C'était son premier poste
+      dans un CEF.
+
+ 230: 10:12:31.01 10:12:33.07  Duration 00:00:02.06  34
+      Elle était trop gentille.
+
+ 231: 10:12:33.11 10:12:36.18  Duration 00:00:03.07  49
+      Je lui disais qu'elle
+      s'impliquait trop émotionnellement.
+
+ 232: 10:12:37.13 10:12:39.00  Duration 00:00:01.12  22
+      É lui, l'incident?
+
+ 233: 10:12:39.05 10:12:40.21  Duration 00:00:01.16  25
+      Sim, mais c'était rien,
+
+ 234: 10:12:41.00 10:12:44.14  Duration 00:00:03.14  53
+      juste une petite dispute
+      avec ses camarades.
+
+ 235: 10:12:44.18 10:12:48.02  Duration 00:00:03.09  50
+      Et vous ne signalez pas
+      ce genre de dispute
+
+ 236: 10:12:48.07 10:12:49.23  Duration 00:00:01.16  25
+      au juge pour enfants?
+
+ 237: 10:12:50.15 10:12:51.24  Duration 00:00:01.09  20
+      Écoutez,
+
+ 238: 10:12:52.03 10:12:55.03  Duration 00:00:03.00  45
+      ici, é leur dernière chance
+      avant la prison.
+
+ 239: 10:12:55.07 10:12:59.08  Duration 00:00:04.01  61
+      On n'est pas là pour les envoyer
+      au juge à la moindre occasion.
+
+ 240: 10:12:59.13 10:13:03.15  Duration 00:00:04.02  61
+      Donc personne n'a attaqué
+      personnellement Mlle Giraud?
+
+ 241: 10:13:03.19 10:13:04.21  Duration 00:00:01.02  16
+      Não.
+
+ 242: 10:13:05.24 10:13:07.10  Duration 00:00:01.11  22
+      Vous avez des enfants?
+
+ 243: 10:13:09.15 10:13:11.00  Duration 00:00:01.10  21
+      #La fille de Mme Manet#
+
+ 244: 10:13:11.05 10:13:13.20  Duration 00:00:02.15  39
+      a été violée et assassinée?
+
+ 245: 10:13:14.00 10:13:15.06  Duration 00:00:01.06  19
+      Ça fait un an.
+
+ 246: 10:13:15.10 10:13:16.17  Duration 00:00:01.07  19
+      On ignore qui a fait ça.
+
+ 247: 10:13:20.19 10:13:21.23  Duration 00:00:01.04  17
+      Vous allez où?
+
+ 248: 10:13:22.02 10:13:23.07  Duration 00:00:01.05  18
+      Não. Retournez là-bas.
+
+ 249: 10:13:23.12 10:13:24.18  Duration 00:00:01.06  19
+      Dépêchez-vous!
+
+ 250: 10:13:24.23 10:13:25.18  Duration 00:00:00.20  12
+      É bon.
+
+ 251: 10:13:25.22 10:13:27.08  Duration 00:00:01.11  22
+      Pas de "é bon".
+      Tout de suite.
+
+ 252: 10:13:28.13 10:13:29.20  Duration 00:00:01.07  19
+      Arrête de répondre.
+
+ 253: 10:13:30.00 10:13:31.06  Duration 00:00:01.06  19
+      Faites ce qu'il dit.
+
+ 254: 10:13:34.00 10:13:35.02  Duration 00:00:01.02  16
+      Oh, la vache.
+
+ 255: 10:13:37.11 10:13:40.24  Duration 00:00:03.13  53
+      Mme Manet, ça fait 5 ans
+      que je la connais. Elle a changé.
+
+ 256: 10:13:41.04 10:13:45.00  Duration 00:00:03.21  58
+      Maintenant, les délinquants sexuels
+      s'en prennent plein la gueule.
+
+ 257: 10:13:45.05 10:13:47.18  Duration 00:00:02.13  38
+      Vous voulez dire
+      qu'elle descend dans la cour
+
+ 258: 10:13:47.22 10:13:49.10  Duration 00:00:01.13  23
+      frapper le premier venu?
+
+ 259: 10:13:49.15 10:13:52.00  Duration 00:00:02.10  36
+      Les gamins ont un 6e sens pour ça.
+
+ 260: 10:13:52.05 10:13:54.01  Duration 00:00:01.21  28
+      Si elle en a un dans le nez,
+
+ 261: 10:13:54.06 10:13:56.16  Duration 00:00:02.10  36
+      ils vont pas se priver
+      pour en rajouter.
+
+ 262: 10:13:56.21 10:13:59.05  Duration 00:00:02.09  35
+      #Dis donc, elle est pas soutenue#
+      #par ses équipes.#
+
+ 263: 10:14:00.08 10:14:02.02  Duration 00:00:01.19  26
+      É ça, la double peine.
+
+ 264: 10:14:02.06 10:14:05.12  Duration 00:00:03.06  49
+      Vous perdez un enfant,
+      et é votre faute.
+
+ 265: 10:14:05.16 10:14:07.22  Duration 00:00:02.06  34
+      Parce que vous êtes
+      une pauvre petite chose
+
+ 266: 10:14:08.01 10:14:10.17  Duration 00:00:02.16  40
+      incapable de faire face.
+
+ 267: 10:14:11.04 10:14:12.05  Duration 00:00:01.01  16
+      Allô?
+
+ 268: 10:14:12.09 10:14:14.11  Duration 00:00:02.02  31
+      Pluvinage? Sim.
+
+ 269: 10:14:14.15 10:14:15.22  Duration 00:00:01.07  19
+      Que disent les oracles?
+
+ 270: 10:14:16.02 10:14:19.05  Duration 00:00:03.03  47
+      La victime est morte
+      entre 2 h et 4 h du matin.
+
+ 271: 10:14:19.10 10:14:21.02  Duration 00:00:01.17  25
+      On n'a pas retrouvé l'arme.
+
+ 272: 10:14:21.07 10:14:23.23  Duration 00:00:02.16  40
+      É probablement
+      un couteau de cuisine...
+
+ 273: 10:14:25.04 10:14:27.11  Duration 00:00:02.07  34
+      La variété des blessures
+      est étonnante.
+
+ 274: 10:14:27.16 10:14:30.08  Duration 00:00:02.17  40
+      É comme une partition musicale
+      qui va crescendo.
+
+ 275: 10:14:30.12 10:14:32.18  Duration 00:00:02.06  34
+      Ça commence avec des blessures
+      superficielles,
+
+ 276: 10:14:32.22 10:14:34.01  Duration 00:00:01.04  17
+      presque timides,
+
+ 277: 10:14:34.06 10:14:35.11  Duration 00:00:01.05  18
+      puis ça devient #risoluto,#
+
+ 278: 10:14:35.16 10:14:37.13  Duration 00:00:01.22  28
+      avec des coups plus appuyés,
+
+ 279: 10:14:37.18 10:14:40.10  Duration 00:00:02.17  40
+      et à la fin,
+      é #agitato con forza,#
+
+ 280: 10:14:40.15 10:14:41.22  Duration 00:00:01.07  19
+      #dramatico.#
+
+ 281: 10:14:45.11 10:14:49.04  Duration 00:00:03.18  56
+      Tu sais, #Le Sacre du printemps#
+      de Stravinsky.
+
+ 282: 10:14:49.22 10:14:51.12  Duration 00:00:01.15  24
+      Sim, enfin bon...
+
+ 283: 10:14:51.17 10:14:54.19  Duration 00:00:03.02  46
+      Je te passe le lieutenant Lopez,
+      elle veut te parler.
+
+ 284: 10:14:56.05 10:14:57.16  Duration 00:00:01.11  22
+      Une seconde.
+
+ 285: 10:14:57.20 10:14:58.20  Duration 00:00:01.00  15
+      Merci.
+
+ 286: 10:14:58.24 10:14:59.19  Duration 00:00:00.20  12
+      Sim?
+
+ 287: 10:14:59.24 10:15:02.04  Duration 00:00:02.05  33
+      On a trouvé des traces ADN
+      sur les mégots,
+
+ 288: 10:15:02.09 10:15:03.11  Duration 00:00:01.02  16
+      #on attend les analyses.#
+
+ 289: 10:15:03.16 10:15:05.10  Duration 00:00:01.19  26
+      Et j'ai peut-être trouvé un truc.
+
+ 290: 10:15:05.15 10:15:09.08  Duration 00:00:03.18  56
+      Isabelle était en train de rédiger
+      un rapport sur sa directrice.
+
+ 291: 10:15:19.05 10:15:23.03  Duration 00:00:03.23  59
+      Elle allait transmettre ce rapport
+      à vos supérieurs hiérarchiques.
+
+ 292: 10:15:24.06 10:15:26.17  Duration 00:00:02.11  37
+      Elle voulait que vous quittiez
+      vos fonctions.
+
+ 293: 10:15:26.22 10:15:29.16  Duration 00:00:02.19  41
+      Elle n'avait jamais évoqué avec vous
+
+ 294: 10:15:29.20 10:15:31.06  Duration 00:00:01.11  22
+      votre manque d'objectivité
+
+ 295: 10:15:31.11 10:15:34.08  Duration 00:00:02.22  43
+      à l'égard des jeunes
+      condamnés pour viol?
+
+ 296: 10:15:34.12 10:15:35.20  Duration 00:00:01.08  20
+      Mais jamais.
+
+ 297: 10:15:36.21 10:15:37.24  Duration 00:00:01.03  17
+      Mme le juge,
+
+ 298: 10:15:38.04 10:15:41.11  Duration 00:00:03.07  49
+      je suis absolument effondrée
+      par ce qui est arrivé à Isabelle.
+
+ 299: 10:15:41.16 10:15:43.04  Duration 00:00:01.13  23
+      Mais ce qui est écrit là,
+
+ 300: 10:15:43.09 10:15:45.18  Duration 00:00:02.09  35
+      é totalement inacceptable.
+
+ 301: 10:15:45.23 10:15:47.20  Duration 00:00:01.22  28
+      Vous n'avez pas reparlé avec elle
+
+ 302: 10:15:48.00 10:15:50.03  Duration 00:00:02.03  32
+      de l'incident de Cédric Vérand?
+
+ 303: 10:15:50.07 10:15:52.08  Duration 00:00:02.01  31
+      Des incidents comme ça,
+      il y en a tous les mois.
+
+ 304: 10:15:52.13 10:15:54.15  Duration 00:00:02.02  31
+      Je suis en sous-effectif permanent.
+
+ 305: 10:15:54.19 10:15:56.11  Duration 00:00:01.17  25
+      Ils sont là, les vrais problèmes,
+
+ 306: 10:15:56.16 10:16:00.13  Duration 00:00:03.22  58
+      pas sur mes failles psychologiques
+      parce que ma fille a été assassinée.
+
+ 307: 10:16:03.00 10:16:05.08  Duration 00:00:02.08  35
+      Il y a encore
+      beaucoup de colère en vous.
+
+ 308: 10:16:06.03 10:16:07.15  Duration 00:00:01.12  22
+      Écoutez,
+
+ 309: 10:16:07.19 10:16:12.06  Duration 00:00:04.12  67
+      les CEF ne sont pas adaptés
+      pour les délinquants sexuels.
+
+ 310: 10:16:12.11 10:16:16.17  Duration 00:00:04.06  64
+      Ils ont des profils psychologiques
+      différents, mais je fais avec.
+
+ 311: 10:16:16.22 10:16:20.07  Duration 00:00:03.10  51
+      J'agis avec ces gamins en fonction
+      de ce qu'ils peuvent devenir,
+
+ 312: 10:16:20.11 10:16:22.15  Duration 00:00:02.04  32
+      pas de ce qu'ils ont fait,
+      sans exception.
+
+ 313: 10:16:24.13 10:16:26.06  Duration 00:00:01.18  26
+      Ce CEF, é toute ma vie.
+
+ 314: 10:16:27.04 10:16:29.13  Duration 00:00:02.09  35
+      Je me suis battue pour qu'il existe.
+
+ 315: 10:16:29.18 10:16:32.10  Duration 00:00:02.17  40
+      La seule chose positive
+      qui me soit arrivée,
+
+ 316: 10:16:32.14 10:16:34.15  Duration 00:00:02.01  31
+      é d'avoir pu reprendre
+      mon travail.
+
+ 317: 10:16:34.20 10:16:37.15  Duration 00:00:02.20  42
+      Injustement, é ce travail
+      qui était remis en cause
+
+ 318: 10:16:37.19 10:16:39.03  Duration 00:00:01.09  20
+      par Mlle Giraud.
+
+ 319: 10:16:43.05 10:16:46.06  Duration 00:00:03.01  46
+      Vous étiez prête à aller jusqu'où
+      pour garder ce travail?
+
+ 320: 10:16:47.13 10:16:49.07  Duration 00:00:01.19  26
+      Qu'est-ce que vous insinuez?
+
+ 321: 10:16:52.22 10:16:55.14  Duration 00:00:02.17  40
+      Après l'assassinat de sa fille,
+      elle a divorcé.
+
+ 322: 10:16:56.17 10:16:59.13  Duration 00:00:02.21  43
+      Son couple n'a pas résisté
+      à la douleur.
+
+ 323: 10:16:59.18 10:17:03.13  Duration 00:00:03.20  57
+      Si toutes les divorcées
+      étaient des meurtrières en puissance,
+
+ 324: 10:17:04.11 10:17:06.00  Duration 00:00:01.14  23
+      on aurait du souci à se faire.
+
+ 325: 10:17:06.04 10:17:08.10  Duration 00:00:02.06  34
+      Não, mais là,
+      je vous parle d'une mère,
+
+ 326: 10:17:08.15 10:17:10.04  Duration 00:00:01.14  23
+      une mère détruite.
+
+ 327: 10:17:11.18 10:17:13.05  Duration 00:00:01.12  22
+      Ce travail, pour elle,
+
+ 328: 10:17:13.10 10:17:15.04  Duration 00:00:01.19  26
+      é sa bouée de sauvetage.
+
+ 329: 10:17:15.08 10:17:16.24  Duration 00:00:01.16  25
+      Comme pour vous, Mme la juge,
+
+ 330: 10:17:17.03 10:17:19.23  Duration 00:00:02.20  42
+      comme pour moi
+      et comme pour la majorité des gens.
+
+ 331: 10:17:20.16 10:17:22.21  Duration 00:00:02.05  33
+      Mais là, on allait le lui retirer.
+
+ 332: 10:17:23.15 10:17:25.04  Duration 00:00:01.14  23
+      J'ai demandé ses relevés
+      téléphoniques
+
+ 333: 10:17:25.08 10:17:27.13  Duration 00:00:02.05  33
+      et sa localisation GPS
+      au moment du meurtre.
+
+ 334: 10:17:28.02 10:17:29.22  Duration 00:00:01.20  27
+      Alléluia!
+
+ 335: 10:17:30.12 10:17:32.18  Duration 00:00:02.06  34
+      On va être sauvés
+      par la technologie.
+
+ 336: 10:17:32.23 10:17:35.19  Duration 00:00:02.21  43
+      La technologie
+      va nous délivrer du mal.
+
+ 337: 10:17:38.01 10:17:40.12  Duration 00:00:02.11  37
+      Vous voulez vraiment
+      que je vous confie cette enquête?
+
+ 338: 10:17:40.16 10:17:41.23  Duration 00:00:01.07  19
+      Hein?
+
+ 339: 10:17:44.19 10:17:46.01  Duration 00:00:01.07  19
+      Vous êtes partie avec lui.
+
+ 340: 10:17:46.06 10:17:48.13  Duration 00:00:02.07  34
+      Vous étiez en pleine forme.
+
+ 341: 10:17:48.17 10:17:50.03  Duration 00:00:01.11  22
+      Il était 1 h, 1 h 30.
+
+ 342: 10:17:50.08 10:17:51.17  Duration 00:00:01.09  20
+      Et é qui, ce Gérard?
+
+ 343: 10:17:51.22 10:17:53.13  Duration 00:00:01.16  25
+      Il a bien un nom de famille.
+
+ 344: 10:17:53.18 10:17:55.24  Duration 00:00:02.06  34
+      Não. Gérard, é Gérard.
+
+ 345: 10:17:56.03 10:17:58.07  Duration 00:00:02.04  32
+      Il est pompier à la caserne Sévigné.
+
+ 346: 10:17:58.11 10:17:59.08  Duration 00:00:00.22  13
+      "Pompier"?
+
+ 347: 10:18:00.14 10:18:01.21  Duration 00:00:01.07  19
+      Vous le connaissez pas?
+
+ 348: 10:18:02.01 10:18:05.21  Duration 00:00:03.20  57
+      Não. Je le connaissais pas avant.
+
+ 349: 10:18:06.01 10:18:08.16  Duration 00:00:02.15  39
+      Hier, vous aviez l'air
+      de bien vous connaître.
+
+ 350: 10:18:10.05 10:18:12.01  Duration 00:00:01.21  28
+      -S'il vous plaît!
+      -Excusez-moi.
+
+ 351: 10:18:12.24 10:18:14.21  Duration 00:00:01.22  28
+      -Vous avez du rhum arrangé?
+      -Sim.
+
+ 352: 10:18:15.00 10:18:16.15  Duration 00:00:01.15  24
+      Tudo bem!
+
+ 353: 10:18:16.19 10:18:18.16  Duration 00:00:01.22  28
+      Il t'a fait monter sur son camion?
+
+ 354: 10:18:18.21 10:18:22.06  Duration 00:00:03.10  51
+      Au lieu de te foutre de moi,
+      occupe-toi de tes petites affaires.
+
+ 355: 10:18:22.11 10:18:25.05  Duration 00:00:02.19  41
+      On revient sur les lieux du crime?
+      On veut sa revanche?
+
+ 356: 10:18:25.10 10:18:28.23  Duration 00:00:03.13  53
+      Vous voulez mettre au travail
+      vos petites enzymes?
+
+ 357: 10:18:29.03 10:18:30.08  Duration 00:00:01.05  18
+      Não, merci.
+
+ 358: 10:18:30.12 10:18:32.13  Duration 00:00:02.01  31
+      Mes enzymes font la grève du zèle.
+
+ 359: 10:18:32.18 10:18:35.01  Duration 00:00:02.08  35
+      Je vais y aller.
+      À demain.
+
+ 360: 10:18:35.06 10:18:36.19  Duration 00:00:01.13  23
+      Bonne nuit, alors.
+
+ 361: 10:18:38.01 10:18:40.22  Duration 00:00:02.21  43
+      Je pensais pas qu'elle était
+      mauvaise perdante.
+
+ 362: 10:18:41.02 10:18:43.10  Duration 00:00:02.08  35
+      Não, mais é qu'elle est
+      sur une enquête
+
+ 363: 10:18:43.15 10:18:46.02  Duration 00:00:02.12  37
+      qui s'annonce un peu...
+
+ 364: 10:18:46.06 10:18:47.05  Duration 00:00:00.24  14
+      disons compliquée.
+
+ 365: 10:18:48.09 10:18:50.11  Duration 00:00:02.02  31
+      Alors là, si é le boulot...
+
+ 366: 10:19:31.22 10:19:33.06  Duration 00:00:01.09  20
+      J'ai fait quelque chose?
+
+ 367: 10:19:34.22 10:19:35.24  Duration 00:00:01.02  16
+      Ça t'amuse, hein?
+
+ 368: 10:19:38.03 10:19:39.05  Duration 00:00:01.02  16
+      Pardon?
+
+ 369: 10:19:41.07 10:19:42.10  Duration 00:00:01.03  17
+      T'en as pas marre?
+
+ 370: 10:19:42.15 10:19:43.20  Duration 00:00:01.05  18
+      Quoi, j'ai rien fait!
+
+ 371: 10:19:44.00 10:19:45.22  Duration 00:00:01.22  28
+      Tu me casses les couilles, frère.
+
+ 372: 10:19:46.02 10:19:48.15  Duration 00:00:02.13  38
+      -Ferme ta gueule.
+      -Je ferme pas ma gueule.
+
+ 373: 10:19:48.20 10:19:50.15  Duration 00:00:01.20  27
+      -Ferme ta gueule!
+      -Não!
+
+ 374: 10:19:50.20 10:19:53.02  Duration 00:00:02.07  34
+      -Tu t'assois.
+      -Je me rassois pas!
+
+ 375: 10:19:54.22 10:19:56.18  Duration 00:00:01.21  28
+      -T'as de la chance!
+      -Toi aussi.
+
+ 376: 10:20:04.01 10:20:07.04  Duration 00:00:03.03  47
+      Voir la police qui nous interroge,
+      ça t'amuse?
+
+ 377: 10:20:09.02 10:20:11.00  Duration 00:00:01.23  29
+      Vous dites ça à cause de lui?
+
+ 378: 10:20:13.05 10:20:15.06  Duration 00:00:02.01  31
+      Ça fait une demi-heure
+      qu'il attend là.
+
+ 379: 10:20:16.01 10:20:18.15  Duration 00:00:02.14  38
+      Vous êtes sûre
+      qu'il est vraiment flic, ce type?
+
+ 380: 10:20:19.06 10:20:22.17  Duration 00:00:03.11  52
+      Jean-Baptiste de La Salle,
+      saint patron des éducateurs.
+
+ 381: 10:20:23.07 10:20:24.10  Duration 00:00:01.03  17
+      Dis donc,
+
+ 382: 10:20:24.14 10:20:26.06  Duration 00:00:01.17  25
+      il y a du travail.
+
+ 383: 10:20:36.09 10:20:39.24  Duration 00:00:03.15  54
+      J'essaie de leur apprendre le respect
+      de l'autorité et de la justice,
+
+ 384: 10:20:40.04 10:20:41.11  Duration 00:00:01.07  19
+      vous ne m'aidez pas.
+
+ 385: 10:20:41.16 10:20:43.09  Duration 00:00:01.18  26
+      J'ai toujours eu des problèmes
+
+ 386: 10:20:43.14 10:20:45.16  Duration 00:00:02.02  31
+      avec l'autorité,
+
+ 387: 10:20:45.20 10:20:47.24  Duration 00:00:02.04  32
+      alors ceci
+
+ 388: 10:20:48.04 10:20:50.01  Duration 00:00:01.22  28
+      doit expliquer cela.
+
+ 389: 10:20:50.06 10:20:52.16  Duration 00:00:02.10  36
+      -Et vous?
+      -Comment ça, et moi?
+
+ 390: 10:20:54.03 10:20:55.18  Duration 00:00:01.15  24
+      Qu'est-ce que...
+
+ 391: 10:20:55.22 10:20:57.14  Duration 00:00:01.17  25
+      vous pensez de la justice?
+
+ 392: 10:20:59.05 10:21:01.01  Duration 00:00:01.21  28
+      Faut-il la respecter,
+
+ 393: 10:21:01.20 10:21:02.21  Duration 00:00:01.01  16
+      faut-il y croire?
+
+ 394: 10:21:03.14 10:21:05.07  Duration 00:00:01.18  26
+      Mais bien sûr.
+
+ 395: 10:21:05.12 10:21:09.15  Duration 00:00:04.03  62
+      Même quand elle n'arrive pas
+      à arrêter et juger
+
+ 396: 10:21:09.19 10:21:11.17  Duration 00:00:01.23  29
+      l'assassin de votre fille?
+
+ 397: 10:21:13.05 10:21:16.19  Duration 00:00:03.14  53
+      L'enquête n'a pas trouvé grand-chose.
+
+ 398: 10:21:16.23 10:21:19.10  Duration 00:00:02.12  37
+      Il y aurait de quoi
+      être en colère, não?
+
+ 399: 10:21:20.10 10:21:21.15  Duration 00:00:01.05  18
+      Suivez-moi.
+
+ 400: 10:21:24.21 10:21:26.16  Duration 00:00:01.20  27
+      Vous croyez
+      que je vais vous répondre
+
+ 401: 10:21:26.21 10:21:29.15  Duration 00:00:02.19  41
+      sous le regard de tous ces jeunes
+      derrière moi?
+
+ 402: 10:21:29.19 10:21:32.01  Duration 00:00:02.07  34
+      Ils se demandent ce qu'on fabrique.
+
+ 403: 10:21:32.06 10:21:33.14  Duration 00:00:01.08  20
+      Si vous me soupçonnez...
+
+ 404: 10:21:34.21 10:21:36.08  Duration 00:00:01.12  22
+      Si vous me draguez...
+
+ 405: 10:21:39.21 10:21:40.23  Duration 00:00:01.02  16
+      Venez.
+
+ 406: 10:21:48.24 10:21:52.18  Duration 00:00:03.19  56
+      Depuis mon divorce, je vis
+      dans cet appartement de fonction.
+
+ 407: 10:21:57.16 10:22:00.01  Duration 00:00:02.10  36
+      Ça, é votre fille?
+
+ 408: 10:22:01.12 10:22:02.10  Duration 00:00:00.23  14
+      Sim.
+
+ 409: 10:22:03.10 10:22:05.04  Duration 00:00:01.19  26
+      J'arrive plus à la regarder.
+
+ 410: 10:22:07.19 10:22:09.09  Duration 00:00:01.15  24
+      La douleur
+
+ 411: 10:22:10.06 10:22:12.23  Duration 00:00:02.17  40
+      est un poison qui peut rendre
+
+ 412: 10:22:13.02 10:22:14.04  Duration 00:00:01.02  16
+      très violent.
+
+ 413: 10:22:14.09 10:22:15.09  Duration 00:00:01.00  15
+      Sim.
+
+ 414: 10:22:15.13 10:22:17.16  Duration 00:00:02.03  32
+      Je me dis que si je retrouvais
+      ce salaud,
+
+ 415: 10:22:17.20 10:22:20.22  Duration 00:00:03.02  46
+      je voudrais qu'il souffre
+      comme il a fait souffrir mon bébé.
+
+ 416: 10:22:22.24 10:22:24.07  Duration 00:00:01.08  20
+      Ça vous étonne?
+
+ 417: 10:22:24.11 10:22:25.17  Duration 00:00:01.06  19
+      Oh não.
+
+ 418: 10:22:25.22 10:22:29.05  Duration 00:00:03.08  50
+      Quel rapport avec Isabelle?
+      Ça fait de moi une meurtrière?
+
+ 419: 10:22:29.10 10:22:31.03  Duration 00:00:01.18  26
+      Não, mais...
+
+ 420: 10:22:31.07 10:22:32.02  Duration 00:00:00.20  12
+      on dit
+
+ 421: 10:22:32.07 10:22:34.06  Duration 00:00:01.24  29
+      que ça se soigne.
+
+ 422: 10:22:34.22 10:22:35.24  Duration 00:00:01.02  16
+      Sim.
+
+ 423: 10:22:37.01 10:22:40.01  Duration 00:00:03.00  45
+      Il y a l'alcool, les calmants,
+      le travail.
+
+ 424: 10:22:41.12 10:22:43.06  Duration 00:00:01.19  26
+      Vous,
+      vous avez choisi le travail.
+
+ 425: 10:22:44.02 10:22:45.14  Duration 00:00:01.12  22
+      J'essaie de rester vivante.
+
+ 426: 10:22:45.19 10:22:47.11  Duration 00:00:01.17  25
+      É une ambition.
+
+ 427: 10:22:47.15 10:22:48.10  Duration 00:00:00.20  12
+      Et vous,
+
+ 428: 10:22:48.15 10:22:50.10  Duration 00:00:01.20  27
+      qu'est-ce qui vous est arrivé?
+
+ 429: 10:22:52.15 10:22:53.19  Duration 00:00:01.04  17
+      Pardon.
+
+ 430: 10:22:56.00 10:22:57.12  Duration 00:00:01.12  22
+      Plus on se fait mal,
+
+ 431: 10:22:57.16 10:22:59.23  Duration 00:00:02.07  34
+      moins on sait d'où vient la douleur.
+
+ 432: 10:23:01.20 10:23:03.02  Duration 00:00:01.07  19
+      #La substitut?#
+
+ 433: 10:23:03.07 10:23:05.05  Duration 00:00:01.23  29
+      11 verres de vodka?
+
+ 434: 10:23:05.09 10:23:08.22  Duration 00:00:03.13  53
+      Et d'après le barman, elle était loin
+      d'avoir fini sa nuit.
+
+ 435: 10:23:09.01 10:23:12.02  Duration 00:00:03.01  46
+      T'aurais pas dû me dire ça.
+      Je vais plus la prendre au sérieux.
+
+ 436: 10:23:12.06 10:23:13.20  Duration 00:00:01.14  23
+      Ça, je supporte pas.
+
+ 437: 10:23:13.24 10:23:16.12  Duration 00:00:02.13  38
+      Depuis hier, tu veux
+      que je te lâche le morceau.
+
+ 438: 10:23:16.16 10:23:18.15  Duration 00:00:01.24  29
+      Après, je te lâche le morceau,
+
+ 439: 10:23:18.19 10:23:20.13  Duration 00:00:01.19  26
+      et tu me dis: "T'aurais pas dû."
+
+ 440: 10:23:20.17 10:23:22.07  Duration 00:00:01.15  24
+      T'as vraiment pas changé.
+
+ 441: 10:23:22.12 10:23:23.15  Duration 00:00:01.03  17
+      Attends.
+
+ 442: 10:23:25.15 10:23:26.21  Duration 00:00:01.06  19
+      Allô, sim?
+
+ 443: 10:23:28.00 10:23:30.23  Duration 00:00:02.23  44
+      #On sait qui a laissé les mégots#
+      #sur la scène de crime.#
+
+ 444: 10:23:31.02 10:23:32.17  Duration 00:00:01.15  24
+      #É Mourad Melki, 17 ans,#
+
+ 445: 10:23:32.21 10:23:34.00  Duration 00:00:01.04  17
+      #nationalité française.#
+
+ 446: 10:23:34.04 10:23:35.08  Duration 00:00:01.04  17
+      Il a un casier?
+
+ 447: 10:23:35.13 10:23:38.10  Duration 00:00:02.22  43
+      Ma collègue demande s'il a un casier.
+
+ 448: 10:23:39.21 10:23:42.12  Duration 00:00:02.16  40
+      #Condamné 11 fois pour vol,#
+      #vol avec violence.#
+
+ 449: 10:23:42.16 10:23:43.17  Duration 00:00:01.01  16
+      #Et vous savez quoi?#
+
+ 450: 10:23:43.22 10:23:46.04  Duration 00:00:02.07  34
+      #Il a fait 6 mois au CEF#
+      #où travaillait Isabelle.#
+
+ 451: 10:23:46.09 10:23:47.23  Duration 00:00:01.14  23
+      #Il est sorti il y a 15 jours.#
+
+ 452: 10:23:48.03 10:23:49.14  Duration 00:00:01.11  22
+      #On dit merci qui?#
+
+ 453: 10:23:49.18 10:23:52.05  Duration 00:00:02.12  37
+      Ben, merci à toi
+      d'avoir fait ton boulot.
+
+ 454: 10:23:53.14 10:23:54.17  Duration 00:00:01.03  17
+      Putain!
+
+ 455: 10:23:54.22 10:23:57.03  Duration 00:00:02.06  34
+      Je voudrais une copie
+      de son dossier judiciaire.
+
+ 456: 10:23:57.07 10:23:59.11  Duration 00:00:02.04  32
+      É possible de l'avoir
+      avant un mois?
+
+ 457: 10:23:59.15 10:24:00.23  Duration 00:00:01.08  20
+      Je vous remercie.
+
+ 458: 10:24:01.02 10:24:01.22  Duration 00:00:00.20  12
+      Hé oh!
+
+ 459: 10:24:02.02 10:24:04.00  Duration 00:00:01.23  29
+      Tu viens avec moi
+      auditionner Melki?
+
+ 460: 10:24:04.04 10:24:06.16  Duration 00:00:02.12  37
+      Não, je peux pas,
+      le devoir m'appelle.
+
+ 461: 10:24:07.07 10:24:08.02  Duration 00:00:00.20  12
+      Tu vas où?
+
+ 462: 10:24:08.06 10:24:12.03  Duration 00:00:03.22  58
+      Je vais au CEF.
+      Il y a les #djeuns#, é mon kif.
+
+ 463: 10:24:12.07 10:24:15.08  Duration 00:00:03.01  46
+      Si tu dois y aller, vas-y.
+
+ 464: 10:24:15.12 10:24:19.15  Duration 00:00:04.03  62
+      Dis donc, ça se passe bien
+      avec le lieutenant Lopez.
+
+ 465: 10:24:19.19 10:24:21.08  Duration 00:00:01.14  23
+      Exceptionnellement,
+
+ 466: 10:24:21.12 10:24:23.17  Duration 00:00:02.05  33
+      fraternellement très bien.
+
+ 467: 10:24:27.09 10:24:29.24  Duration 00:00:02.15  39
+      Tu te rends compte?
+      T'as même plus besoin de moi.
+
+ 468: 10:24:31.20 10:24:34.07  Duration 00:00:02.12  37
+      Putain,
+      bien sûr que j'étais chez Isa.
+
+ 469: 10:24:34.11 10:24:36.04  Duration 00:00:01.18  26
+      On se connaissait. Ça faisait 6 mois.
+
+ 470: 10:24:36.09 10:24:39.18  Duration 00:00:03.09  50
+      Tu rends visite à tes anciens
+      éducateurs, comme ça?
+
+ 471: 10:24:39.22 10:24:40.23  Duration 00:00:01.01  16
+      Vous prenez le thé?
+
+ 472: 10:24:43.10 10:24:44.18  Duration 00:00:01.08  20
+      On était ensemble.
+
+ 473: 10:24:44.23 10:24:46.08  Duration 00:00:01.10  21
+      Quoi?
+
+ 474: 10:24:46.13 10:24:49.05  Duration 00:00:02.17  40
+      #On était ensemble,#
+      #je vais pas vous faire un dessin.#
+
+ 475: 10:24:49.09 10:24:50.10  Duration 00:00:01.01  16
+      #Ensemble?#
+
+ 476: 10:25:02.01 10:25:03.15  Duration 00:00:01.14  23
+      Elle a été super avec moi.
+
+ 477: 10:25:03.20 10:25:06.05  Duration 00:00:02.10  36
+      Elle m'a remis les idées en place,
+
+ 478: 10:25:06.10 10:25:08.23  Duration 00:00:02.13  38
+      et on n'a pas calculé,
+      ça s'est fait comme ça.
+
+ 479: 10:25:09.17 10:25:11.17  Duration 00:00:02.00  30
+      Il manquait plus que ça.
+
+ 480: 10:25:12.15 10:25:15.23  Duration 00:00:03.08  50
+      Vous me cherchez des témoins
+      à son boulot, dans ses relations.
+
+ 481: 10:25:16.02 10:25:18.06  Duration 00:00:02.04  32
+      Je veux savoir
+      comment ça se passait.
+
+ 482: 10:25:18.11 10:25:21.08  Duration 00:00:02.22  43
+      Quand t'es amoureux,
+      tu donnes des coups de couteau?
+
+ 483: 10:25:21.12 10:25:22.19  Duration 00:00:01.07  19
+      Pour vous, é facile.
+
+ 484: 10:25:22.24 10:25:26.05  Duration 00:00:03.06  49
+      Je suis le voyou, le méchant,
+      vous cherchez pas plus loin.
+
+ 485: 10:25:26.10 10:25:27.16  Duration 00:00:01.06  19
+      OK.
+
+ 486: 10:25:29.06 10:25:31.13  Duration 00:00:02.07  34
+      Vous passez la soirée tranquille.
+
+ 487: 10:25:31.18 10:25:33.12  Duration 00:00:01.19  26
+      Puis t'es rentré à 23 h chez toi,
+
+ 488: 10:25:33.17 10:25:35.02  Duration 00:00:01.10  21
+      rien à signaler.
+
+ 489: 10:25:36.04 10:25:36.24  Duration 00:00:00.20  12
+      Ouais.
+
+ 490: 10:25:37.04 10:25:40.23  Duration 00:00:03.19  56
+      Mais on a le témoignage
+      des voisins de ta copine.
+
+ 491: 10:25:41.03 10:25:43.07  Duration 00:00:02.04  32
+      C'était pas tranquille, ce soir-là.
+      Vous avez gueulé.
+
+ 492: 10:25:43.11 10:25:46.02  Duration 00:00:02.16  40
+      Ça t'arrive jamais,
+      de te disputer avec ton mec?
+
+ 493: 10:25:46.07 10:25:48.08  Duration 00:00:02.01  31
+      Tu me tutoies pas,
+      je suis pas ta copine,
+
+ 494: 10:25:48.13 10:25:50.17  Duration 00:00:02.04  32
+      et mes affaires perso,
+      é pas ton business.
+
+ 495: 10:25:50.21 10:25:54.08  Duration 00:00:03.12  52
+      Et puis moi, j'ai pas un casier long
+      avec des violences caractérisées.
+
+ 496: 10:25:55.15 10:25:57.12  Duration 00:00:01.22  28
+      Alors, qu'est-ce qui s'est passé?
+
+ 497: 10:25:58.14 10:26:00.07  Duration 00:00:01.18  26
+      Rien.
+
+ 498: 10:26:00.12 10:26:03.06  Duration 00:00:02.19  41
+      On s'est pris la tête
+      à cause de l'enculé de Vérand.
+
+ 499: 10:26:03.18 10:26:04.23  Duration 00:00:01.05  18
+      Cédric Vérand?
+
+ 500: 10:26:05.02 10:26:07.02  Duration 00:00:02.00  30
+      Elle est partie défendre ce pointeur.
+
+ 501: 10:26:07.07 10:26:09.11  Duration 00:00:02.04  32
+      Elle aurait pu se prendre un coup.
+
+ 502: 10:26:09.16 10:26:11.18  Duration 00:00:02.02  31
+      Vous vous êtes disputés
+      juste pour ça?
+
+ 503: 10:26:13.18 10:26:15.03  Duration 00:00:01.10  21
+      Je te crois pas.
+
+ 504: 10:26:15.22 10:26:17.19  Duration 00:00:01.22  28
+      Qu'est-ce qu'il y avait entre eux?
+
+ 505: 10:26:44.22 10:26:47.02  Duration 00:00:02.05  33
+      Dimeglio
+      mobile
+
+ 506: 10:26:52.20 10:26:54.10  Duration 00:00:01.15  24
+      Donc vous vous êtes énervé
+
+ 507: 10:26:54.15 10:26:56.20  Duration 00:00:02.05  33
+      quand vous avez appris
+      qu'Isabelle Giraud
+
+ 508: 10:26:56.24 10:26:58.19  Duration 00:00:01.20  27
+      avait porté secours à Cédric,
+
+ 509: 10:26:58.24 10:27:01.19  Duration 00:00:02.20  42
+      alors qu'il se faisait tabasser
+      par ses camarades.
+
+ 510: 10:27:01.24 10:27:04.17  Duration 00:00:02.18  41
+      -É ça.
+      -Não, é elle qui était vénère.
+
+ 511: 10:27:04.22 10:27:05.17  Duration 00:00:00.20  12
+      Elle gueulait.
+
+ 512: 10:27:05.21 10:27:08.00  Duration 00:00:02.04  32
+      Je l'ai pas touchée.
+      Demandez aux voisins.
+
+ 513: 10:27:10.17 10:27:12.05  Duration 00:00:01.13  23
+      Pourquoi elle était vénère?
+
+ 514: 10:27:15.08 10:27:17.08  Duration 00:00:02.00  30
+      Vous devriez être plus bavard que ça.
+
+ 515: 10:27:19.06 10:27:21.18  Duration 00:00:02.12  37
+      La détention provisoire,
+      é pas les vacances.
+
+ 516: 10:27:23.20 10:27:25.16  Duration 00:00:01.21  28
+      OK.
+
+ 517: 10:27:25.21 10:27:29.10  Duration 00:00:03.14  53
+      Elle venait de comprendre
+      pour le tabassage de Vérand.
+
+ 518: 10:27:30.22 10:27:32.02  Duration 00:00:01.05  18
+      Pardon?
+
+ 519: 10:27:33.02 10:27:34.13  Duration 00:00:01.11  22
+      É moi.
+
+ 520: 10:27:34.17 10:27:37.22  Duration 00:00:03.05  48
+      É moi qui ai demandé aux mecs
+      d'y aller.
+
+ 521: 10:27:39.16 10:27:42.13  Duration 00:00:02.22  43
+      Elle voulait pas comprendre
+      que Vérand, c'était un...
+
+ 522: 10:27:42.17 10:27:44.11  Duration 00:00:01.19  26
+      Un quoi?
+
+ 523: 10:27:44.16 10:27:46.11  Duration 00:00:01.20  27
+      Un quoi? Hein?
+
+ 524: 10:27:46.16 10:27:48.02  Duration 00:00:01.11  22
+      La victime d'un petit caïd
+
+ 525: 10:27:48.06 10:27:49.20  Duration 00:00:01.14  23
+      qui ordonne des expéditions
+      punitives.
+
+ 526: 10:27:51.08 10:27:54.00  Duration 00:00:02.17  40
+      Vous savez combien vous encourez,
+      pour violence préméditée?
+
+ 527: 10:27:54.04 10:27:55.22  Duration 00:00:01.18  26
+      Est-ce que vous savez, ça?
+
+ 528: 10:28:05.09 10:28:06.23  Duration 00:00:01.14  23
+      Vous vouliez me voir?
+
+ 529: 10:28:23.23 10:28:25.08  Duration 00:00:01.10  21
+      Ta moyenne a baissé.
+
+ 530: 10:28:26.22 10:28:30.01  Duration 00:00:03.04  47
+      Les éducateurs disent
+      que tu fais moins d'efforts.
+
+ 531: 10:28:41.01 10:28:42.07  Duration 00:00:01.06  19
+      Tu ne dis rien?
+
+ 532: 10:28:43.23 10:28:46.09  Duration 00:00:02.11  37
+      Tu vas bien encore
+      me trouver une excuse.
+
+ 533: 10:28:50.18 10:28:53.15  Duration 00:00:02.22  43
+      É ton agression, é ça?
+      Ça t'a perturbé?
+
+ 534: 10:28:57.24 10:29:00.10  Duration 00:00:02.11  37
+      Arrête de me regarder comme ça.
+
+ 535: 10:29:03.13 10:29:06.02  Duration 00:00:02.14  38
+      #Ce mec-là, é un pervers.#
+
+ 536: 10:29:06.07 10:29:09.17  Duration 00:00:03.10  51
+      Il trompe tout le monde,
+      avec sa tête de bolos.
+
+ 537: 10:29:09.21 10:29:12.21  Duration 00:00:03.00  45
+      Vous traitez de pervers
+      tous ceux que vous n'aimez pas.
+
+ 538: 10:29:13.01 10:29:14.16  Duration 00:00:01.15  24
+      Il rackettait les gamins,
+
+ 539: 10:29:14.20 10:29:17.18  Duration 00:00:02.23  44
+      puis il faisait les repentis modèles
+      devant les éducateurs.
+
+ 540: 10:29:18.16 10:29:20.24  Duration 00:00:02.08  35
+      Donc vous avez fait tabasser
+      Cédric Vérand
+
+ 541: 10:29:21.04 10:29:23.06  Duration 00:00:02.02  31
+      pour qu'il arrête
+      de racketter les petits.
+
+ 542: 10:29:23.11 10:29:24.20  Duration 00:00:01.09  20
+      -É ça?
+      -Sim.
+
+ 543: 10:29:25.15 10:29:29.01  Duration 00:00:03.11  52
+      Isabelle Giraud a dû apprécier
+      cette délicate attention.
+
+ 544: 10:29:30.01 10:29:33.24  Duration 00:00:03.23  59
+      Peut-être qu'elle voulait
+      vous dénoncer au juge pour enfants.
+
+ 545: 10:29:34.04 10:29:36.13  Duration 00:00:02.09  35
+      N'importe quoi,
+      elle aurait jamais fait ça.
+
+ 546: 10:29:36.18 10:29:38.14  Duration 00:00:01.21  28
+      On voulait louer un appartement.
+
+ 547: 10:29:38.19 10:29:41.20  Duration 00:00:03.01  46
+      Je vous jure, madame la juge.
+      On s'aimait.
+
+ 548: 10:29:42.21 10:29:44.11  Duration 00:00:01.15  24
+      Écoutez, monsieur Melki,
+
+ 549: 10:29:44.15 10:29:48.06  Duration 00:00:03.16  55
+      vous étiez sur les lieux du crime,
+      vous avez un mobile vraisemblable.
+
+ 550: 10:29:49.02 10:29:50.22  Duration 00:00:01.20  27
+      En attendant la fin de l'enquête,
+
+ 551: 10:29:51.02 10:29:53.04  Duration 00:00:02.02  31
+      je vais vous placer
+      sous contrôle judiciaire.
+
+ 552: 10:29:53.09 10:29:54.20  Duration 00:00:01.11  22
+      Mais j'ai rien fait.
+
+ 553: 10:29:56.11 10:30:00.14  Duration 00:00:04.03  62
+      Ça veut dire que vous n'avez pas
+      le droit de quitter le département
+
+ 554: 10:30:00.18 10:30:02.06  Duration 00:00:01.13  23
+      ni de vous approcher du CEF.
+
+ 555: 10:30:03.06 10:30:05.08  Duration 00:00:02.02  31
+      Et je vais signaler
+      votre responsabilité
+
+ 556: 10:30:05.13 10:30:08.09  Duration 00:00:02.21  43
+      concernant les violences faites
+      à Cédric Vérand.
+
+ 557: 10:30:10.19 10:30:12.01  Duration 00:00:01.07  19
+      Vous pouvez l'emmener.
+
+ 558: 10:30:15.07 10:30:17.12  Duration 00:00:02.05  33
+      Vous savez, je vous en veux pas.
+
+ 559: 10:30:21.06 10:30:23.03  Duration 00:00:01.22  28
+      Vu ce qui est arrivé à votre fille...
+
+ 560: 10:30:24.22 10:30:26.00  Duration 00:00:01.03  17
+      Tais-toi.
+
+ 561: 10:30:30.08 10:30:33.06  Duration 00:00:02.23  44
+      Vous gardez pas de photo d'elle,
+      não?
+
+ 562: 10:30:38.09 10:30:40.10  Duration 00:00:02.01  31
+      La serpillière,
+      tu la passes comme ça.
+
+ 563: 10:30:40.14 10:30:42.18  Duration 00:00:02.04  32
+      Je m'en bats les couilles!
+
+ 564: 10:30:42.22 10:30:45.20  Duration 00:00:02.23  44
+      Reviens ici tout de suite.
+      Passe la serpillère, vite.
+
+ 565: 10:31:00.24 10:31:02.14  Duration 00:00:01.15  24
+      Je sais pas ce qui lui a pris.
+
+ 566: 10:31:04.08 10:31:07.05  Duration 00:00:02.22  43
+      Mais comment voulez-vous
+      que je me calme?
+
+ 567: 10:31:07.09 10:31:10.04  Duration 00:00:02.20  42
+      Ce monstre m'a dit
+      qu'il était l'assassin de ma fille.
+
+ 568: 10:31:12.11 10:31:14.18  Duration 00:00:02.07  34
+      Qu'est-ce qu'il vous a dit
+      exactement?
+
+ 569: 10:31:15.15 10:31:18.03  Duration 00:00:02.13  38
+      Il a dit qu'il aimait beaucoup
+      Coline.
+
+ 570: 10:31:19.12 10:31:22.18  Duration 00:00:03.06  49
+      Qu'il s'en voudrait toute sa vie
+      d'avoir fait ce qu'il a fait.
+
+ 571: 10:31:23.18 10:31:25.08  Duration 00:00:01.15  24
+      Il souriait.
+
+ 572: 10:31:26.11 10:31:27.21  Duration 00:00:01.10  21
+      Il n'a pas donné de détails?
+
+ 573: 10:31:28.01 10:31:29.13  Duration 00:00:01.12  22
+      Não.
+
+ 574: 10:31:29.18 10:31:31.05  Duration 00:00:01.12  22
+      J'ai crié tout de suite.
+
+ 575: 10:31:31.09 10:31:33.02  Duration 00:00:01.18  26
+      Je voulais qu'il sorte.
+
+ 576: 10:31:33.22 10:31:34.20  Duration 00:00:00.23  14
+      Bien.
+
+ 577: 10:31:35.12 10:31:36.18  Duration 00:00:01.06  19
+      Merci, madame Manet.
+
+ 578: 10:31:36.23 10:31:38.24  Duration 00:00:02.01  31
+      On va faire les vérifications
+      nécessaires.
+
+ 579: 10:31:39.04 10:31:40.12  Duration 00:00:01.08  20
+      Vous...
+
+ 580: 10:31:41.22 10:31:45.22  Duration 00:00:04.00  60
+      Vous croyez qu'il a un rapport
+      avec la mort d'Isabelle?
+
+ 581: 10:31:46.02 10:31:48.02  Duration 00:00:02.00  30
+      Écoutez, je sais pas.
+
+ 582: 10:31:48.17 10:31:50.23  Duration 00:00:02.06  34
+      Il était enfermé dans sa chambre,
+      não?
+
+ 583: 10:31:52.09 10:31:53.04  Duration 00:00:00.20  12
+      Sim, mais...
+
+ 584: 10:31:53.08 10:31:55.10  Duration 00:00:02.02  31
+      Puis Isabelle n'a pas été violée.
+
+ 585: 10:31:55.15 10:31:58.23  Duration 00:00:03.08  50
+      Et visiblement, elle entretenait
+      de bons rapports avec M. Vérand.
+
+ 586: 10:31:59.03 10:32:00.21  Duration 00:00:01.18  26
+      Mais vous...
+
+ 587: 10:32:01.00 10:32:03.01  Duration 00:00:02.01  31
+      Vous croyez quand même pas
+      que je mens.
+
+ 588: 10:32:07.20 10:32:09.22  Duration 00:00:02.02  31
+      Mais pourquoi j'inventerais ça?
+
+ 589: 10:32:10.14 10:32:11.15  Duration 00:00:01.01  16
+      Pourquoi?
+
+ 590: 10:32:11.20 10:32:14.02  Duration 00:00:02.07  34
+      Mais é du délire!
+
+ 591: 10:32:14.07 10:32:17.05  Duration 00:00:02.23  44
+      -Alors qu'est-ce qui s'est passé?
+      -Rien.
+
+ 592: 10:32:17.09 10:32:19.07  Duration 00:00:01.23  29
+      Je lui ai parlé de sa fille,
+
+ 593: 10:32:19.11 10:32:20.24  Duration 00:00:01.13  23
+      elle s'est mise à crier.
+
+ 594: 10:32:21.03 10:32:22.01  Duration 00:00:00.23  14
+      Elle est malade.
+
+ 595: 10:32:22.06 10:32:26.09  Duration 00:00:04.03  62
+      Elle se met à raconter des histoires
+      abracadabrantes, Mme Manet.
+
+ 596: 10:32:26.14 10:32:29.09  Duration 00:00:02.20  42
+      Tout ce qu'elle veut,
+      é que je plonge.
+
+ 597: 10:32:29.14 10:32:30.24  Duration 00:00:01.10  21
+      Dis donc. Hé!
+
+ 598: 10:32:32.10 10:32:33.17  Duration 00:00:01.07  19
+      Léa Merteuil,
+
+ 599: 10:32:33.22 10:32:35.18  Duration 00:00:01.21  28
+      il y a 18 mois,
+
+ 600: 10:32:35.22 10:32:37.23  Duration 00:00:02.01  31
+      é toi qui l'as violée, não?
+
+ 601: 10:32:38.02 10:32:39.15  Duration 00:00:01.13  23
+      É pas elle qui s'est acharnée
+
+ 602: 10:32:39.20 10:32:41.13  Duration 00:00:01.18  26
+      sur ton beau corps d'Apollon.
+
+ 603: 10:32:42.14 10:32:43.22  Duration 00:00:01.08  20
+      Tudo bem jamais me lâcher.
+
+ 604: 10:32:44.02 10:32:48.09  Duration 00:00:04.07  64
+      On va m'accuser de tous les viols
+      car j'ai pas su m'arrêter avec elle?
+
+ 605: 10:32:48.14 10:32:49.15  Duration 00:00:01.01  16
+      Putain!
+
+ 606: 10:32:49.20 10:32:51.20  Duration 00:00:02.00  30
+      Tu dis que t'as pas su t'arrêter?
+
+ 607: 10:32:53.21 10:32:54.19  Duration 00:00:00.23  14
+      Ne me touchez pas.
+
+ 608: 10:32:57.08 10:32:59.06  Duration 00:00:01.23  29
+      Tu as toujours les mains propres.
+
+ 609: 10:33:00.13 10:33:03.01  Duration 00:00:02.13  38
+      Calme-toi.
+      Quelles mains propres?
+
+ 610: 10:33:03.06 10:33:04.07  Duration 00:00:01.01  16
+      N'importe quoi.
+
+ 611: 10:33:05.19 10:33:08.00  Duration 00:00:02.06  34
+      Tout le monde me traite comme ça.
+
+ 612: 10:33:09.13 10:33:11.19  Duration 00:00:02.06  34
+      Les gens me traitent
+      comme de la merde.
+
+ 613: 10:33:11.24 10:33:15.11  Duration 00:00:03.12  52
+      Même ici, je suis pas en sécurité,
+      mais vous vous en foutez.
+
+ 614: 10:33:16.02 10:33:17.03  Duration 00:00:01.01  16
+      Rovère?
+
+ 615: 10:33:19.00 10:33:20.02  Duration 00:00:01.02  16
+      Rovère?
+
+ 616: 10:33:25.02 10:33:28.05  Duration 00:00:03.03  47
+      Ça ne va plus du tout,
+      il pète vraiment un câble.
+
+ 617: 10:33:29.00 10:33:31.00  Duration 00:00:02.00  30
+      La mort de son fils
+      revient le hanter.
+
+ 618: 10:33:31.05 10:33:33.14  Duration 00:00:02.09  35
+      Je pense que cette enquête
+      n'est pas pour lui.
+
+ 619: 10:33:34.03 10:33:36.04  Duration 00:00:02.01  31
+      Ça, je sais pas,
+      mais é sérieux,
+
+ 620: 10:33:36.08 10:33:37.20  Duration 00:00:01.12  22
+      il faut l'aider.
+
+ 621: 10:33:44.02 10:33:45.17  Duration 00:00:01.15  24
+      -Tudo bem, Charlotte?
+      -Sim.
+
+ 622: 10:33:46.19 10:33:49.08  Duration 00:00:02.14  38
+      -Vous êtes sûre que ça va?
+      -Sim.
+
+ 623: 10:33:50.07 10:33:53.12  Duration 00:00:03.05  48
+      Je sais pas ce qu'il a.
+      Je pense qu'il s'est retourné.
+
+ 624: 10:33:53.16 10:33:55.06  Duration 00:00:01.15  24
+      Il est agité, aujourd'hui.
+
+ 625: 10:33:55.11 10:33:57.04  Duration 00:00:01.18  26
+      Il se manifeste.
+
+ 626: 10:33:57.08 10:33:59.24  Duration 00:00:02.16  40
+      Peut-être que é trop
+      pour ses petites oreilles.
+
+ 627: 10:34:00.22 10:34:02.17  Duration 00:00:01.20  27
+      Il doit pas aimer les délinquants.
+
+ 628: 10:34:02.21 10:34:05.05  Duration 00:00:02.09  35
+      É bien.
+      Au moins, il sera pas avocat.
+
+ 629: 10:34:12.22 10:34:14.05  Duration 00:00:01.08  20
+      Rovère?
+
+ 630: 10:34:16.15 10:34:18.21  Duration 00:00:02.06  34
+      Je vais nommer un expert psychiatre
+      pour Laurence.
+
+ 631: 10:34:19.01 10:34:20.08  Duration 00:00:01.07  19
+      Pour Laurence?
+
+ 632: 10:34:20.12 10:34:22.08  Duration 00:00:01.21  28
+      Sim. J'ai eu accès
+      au dossier de sa fille.
+
+ 633: 10:34:22.13 10:34:25.01  Duration 00:00:02.13  38
+      Ça ne peut pas être Cédric Vérand
+      qui l'a tuée.
+
+ 634: 10:34:25.05 10:34:27.23  Duration 00:00:02.18  41
+      Impossible.
+      Il était à 300 km du lieu du crime.
+
+ 635: 10:34:29.05 10:34:32.23  Duration 00:00:03.18  56
+      Je veux savoir si elle a développé
+      des symptômes post-traumatiques.
+
+ 636: 10:34:33.03 10:34:36.02  Duration 00:00:02.24  44
+      Elle peut faire des épisodes
+      hallucinatoires ou mythomaniaques.
+
+ 637: 10:34:37.10 10:34:40.02  Duration 00:00:02.17  40
+      Si je comprends bien,
+      quand on a perdu un enfant,
+
+ 638: 10:34:40.06 10:34:43.18  Duration 00:00:03.12  52
+      on est forcément
+      et définitivement fou, é ça?
+
+ 639: 10:34:43.22 10:34:45.00  Duration 00:00:01.03  17
+      Não.
+
+ 640: 10:34:45.05 10:34:48.18  Duration 00:00:03.13  53
+      Mais on est prêt à tout
+      pour trouver le responsable.
+
+ 641: 10:34:48.22 10:34:49.17  Duration 00:00:00.20  12
+      Não?
+
+ 642: 10:34:49.22 10:34:54.04  Duration 00:00:04.07  64
+      Vous n'imaginez même pas
+      qu'il ait pu lui mentir?
+
+ 643: 10:34:54.09 10:34:56.22  Duration 00:00:02.13  38
+      Mais moi,
+      j'ai besoin d'éléments tangibles,
+
+ 644: 10:34:57.01 10:34:58.07  Duration 00:00:01.06  19
+      logiques, Rovère.
+
+ 645: 10:34:58.12 10:34:59.18  Duration 00:00:01.06  19
+      "Logiques"...
+
+ 646: 10:34:59.22 10:35:02.05  Duration 00:00:02.08  35
+      On peut mourir d'une cirrhose du foie
+
+ 647: 10:35:02.09 10:35:04.17  Duration 00:00:02.08  35
+      sans jamais avoir bu
+      un verre d'alcool.
+
+ 648: 10:35:04.22 10:35:07.02  Duration 00:00:02.05  33
+      É particulièrement injuste.
+
+ 649: 10:35:07.07 10:35:08.23  Duration 00:00:01.16  25
+      Moi, ça me rassure.
+
+ 650: 10:35:09.02 10:35:12.20  Duration 00:00:03.18  56
+      Mais il n'y a pas de logique
+      dans la vie des êtres humains.
+
+ 651: 10:35:13.00 10:35:14.23  Duration 00:00:01.23  29
+      Qu'est-ce que je fais, moi, alors?
+
+ 652: 10:35:15.02 10:35:19.03  Duration 00:00:04.01  61
+      Je vais vous montrer
+      des éléments tangibles, logiques.
+
+ 653: 10:35:19.08 10:35:21.24  Duration 00:00:02.16  40
+      Je vais vous présenter Mlle Merteuil.
+
+ 654: 10:35:22.03 10:35:23.16  Duration 00:00:01.13  23
+      Léa, de son prénom.
+
+ 655: 10:35:23.20 10:35:27.06  Duration 00:00:03.11  52
+      Elle a été agressée il y a 18 mois
+      par Vérand.
+
+ 656: 10:35:29.22 10:35:32.10  Duration 00:00:02.13  38
+      Son avocat a dit
+      qu'il n'y avait pas de preuve.
+
+ 657: 10:35:34.06 10:35:36.08  Duration 00:00:02.02  31
+      Il a dit que j'avais eu peur,
+
+ 658: 10:35:36.13 10:35:38.08  Duration 00:00:01.20  27
+      que j'avais inventé.
+
+ 659: 10:35:40.09 10:35:43.24  Duration 00:00:03.15  54
+      Et ils ont retrouvé
+      dans le sac de Vérand
+
+ 660: 10:35:44.03 10:35:45.10  Duration 00:00:01.07  19
+      des cordes
+
+ 661: 10:35:46.06 10:35:47.24  Duration 00:00:01.18  26
+      pour la ligoter
+
+ 662: 10:35:48.03 10:35:50.24  Duration 00:00:02.21  43
+      et un couteau de chasse,
+
+ 663: 10:35:51.23 10:35:56.07  Duration 00:00:04.09  65
+      dont la destination
+      n'a pas été établie.
+
+ 664: 10:35:56.12 10:35:57.14  Duration 00:00:01.02  16
+      É ça?
+
+ 665: 10:35:58.16 10:35:59.20  Duration 00:00:01.04  17
+      Il fallait quoi?
+
+ 666: 10:36:00.14 10:36:02.23  Duration 00:00:02.09  35
+      Il fallait qu'il me tue
+      pour qu'on me croie?
+
+ 667: 10:36:03.03 10:36:04.22  Duration 00:00:01.19  26
+      Il allait me tuer.
+
+ 668: 10:36:05.15 10:36:07.05  Duration 00:00:01.15  24
+      Il l'a dit.
+
+ 669: 10:36:09.10 10:36:12.00  Duration 00:00:02.15  39
+      Il disait qu'il allait prendre
+      son temps.
+
+ 670: 10:36:14.12 10:36:17.09  Duration 00:00:02.22  43
+      Et ce sont des randonneurs
+      qui vous ont sauvé la vie.
+
+ 671: 10:36:19.20 10:36:21.10  Duration 00:00:01.15  24
+      Il a recommencé, é ça?
+
+ 672: 10:36:21.15 10:36:24.12  Duration 00:00:02.22  43
+      Je suis désolée, je suis tenue
+      au secret de l'instruction.
+
+ 673: 10:36:27.16 10:36:29.21  Duration 00:00:02.05  33
+      J'étais sûre
+      qu'il allait recommencer.
+
+ 674: 10:36:30.20 10:36:32.04  Duration 00:00:01.09  20
+      Il aime trop ça.
+
+ 675: 10:37:06.20 10:37:09.02  Duration 00:00:02.07  34
+      -Je vous tiens au courant.
+      -Ça marche.
+
+ 676: 10:37:09.06 10:37:10.11  Duration 00:00:01.05  18
+      Au revoir.
+
+ 677: 10:37:16.03 10:37:18.20  Duration 00:00:02.17  40
+      É fini, je rentre.
+
+ 678: 10:37:21.08 10:37:22.03  Duration 00:00:00.20  12
+      Je te rappelle.
+
+ 679: 10:37:25.18 10:37:27.08  Duration 00:00:01.15  24
+      -Bonjour.
+      -Bonjour.
+
+ 680: 10:37:28.23 10:37:30.03  Duration 00:00:01.05  18
+      Tu veux me parler?
+
+ 681: 10:37:31.08 10:37:33.02  Duration 00:00:01.19  26
+      Vous me protégerez, si je parle?
+
+ 682: 10:37:43.01 10:37:44.09  Duration 00:00:01.08  20
+      Qu'est-ce que tu as vu?
+
+ 683: 10:37:45.24 10:37:49.22  Duration 00:00:03.23  59
+      J'ai vu quelqu'un sortir
+      de sa chambre quand elle a été tuée.
+
+ 684: 10:37:50.02 10:37:51.18  Duration 00:00:01.16  25
+      Je l'ai vu passer
+      devant ma fenêtre.
+
+ 685: 10:37:51.23 10:37:53.06  Duration 00:00:01.08  20
+      C'était qui?
+
+ 686: 10:37:53.11 10:37:54.19  Duration 00:00:01.08  20
+      Vous me protégerez?
+
+ 687: 10:37:54.24 10:37:56.23  Duration 00:00:01.24  29
+      S'il le sait, il va me tuer.
+
+ 688: 10:37:57.02 10:37:58.15  Duration 00:00:01.13  23
+      J'ai encore un mois ici.
+
+ 689: 10:37:58.20 10:38:00.22  Duration 00:00:02.02  31
+      On en parlera au juge.
+      Tu as vu qui?
+
+ 690: 10:38:02.19 10:38:03.17  Duration 00:00:00.23  14
+      Cédric.
+
+ 691: 10:38:03.22 10:38:06.17  Duration 00:00:02.20  42
+      -Cédric Vérand?
+      -Sim.
+
+ 692: 10:38:07.19 10:38:10.23  Duration 00:00:03.04  47
+      É un cauchemar, le truc.
+      Ça finira jamais, quoi.
+
+ 693: 10:38:11.03 10:38:13.00  Duration 00:00:01.22  28
+      Et Nolan, tu le rackettais pas?
+
+ 694: 10:38:13.04 10:38:15.11  Duration 00:00:02.07  34
+      Não, je l'ai pas touché,
+      jamais de la vie.
+
+ 695: 10:38:15.16 10:38:17.17  Duration 00:00:02.01  31
+      Pourquoi vous le croyez lui
+      et pas moi?
+
+ 696: 10:38:17.22 10:38:19.05  Duration 00:00:01.08  20
+      Il a des preuves?
+
+ 697: 10:38:19.10 10:38:21.12  Duration 00:00:02.02  31
+      Des preuves, nous, on en cherche,
+
+ 698: 10:38:21.17 10:38:24.04  Duration 00:00:02.12  37
+      et on finit toujours par en trouver.
+
+ 699: 10:38:24.09 10:38:26.01  Duration 00:00:01.17  25
+      Alors on va ratisser ta chambre,
+
+ 700: 10:38:26.05 10:38:28.18  Duration 00:00:02.13  38
+      et ce qui est bien, pour le moment,
+
+ 701: 10:38:28.22 10:38:31.17  Duration 00:00:02.20  42
+      é que ça te fera fermer
+      ta petite gueule.
+
+ 702: 10:38:31.22 10:38:33.18  Duration 00:00:01.21  28
+      Avec moi, on se met pas
+      à gueuler comme ça.
+
+ 703: 10:38:33.23 10:38:35.09  Duration 00:00:01.11  22
+      Tu comprends ce que je dis?
+
+ 704: 10:38:38.16 10:38:39.23  Duration 00:00:01.07  19
+      Vous trouverez rien.
+
+ 705: 10:38:40.02 10:38:41.08  Duration 00:00:01.06  19
+      Vous trouverez rien.
+
+ 706: 10:38:41.13 10:38:44.23  Duration 00:00:03.10  51
+      Nolan fait ça pour se sentir
+      important, é tout ce qu'il veut.
+
+ 707: 10:38:48.18 10:38:50.15  Duration 00:00:01.22  28
+      Nolan voulait que je le protège.
+
+ 708: 10:38:50.19 10:38:53.05  Duration 00:00:02.11  37
+      Il en avait marre de se faire taxer
+      par l'autre enculé.
+
+ 709: 10:38:53.10 10:38:55.10  Duration 00:00:02.00  30
+      Tous les jours,
+      il lui demandait des trucs.
+
+ 710: 10:38:55.14 10:38:56.12  Duration 00:00:00.23  14
+      Vérand le frappait?
+
+ 711: 10:38:56.17 10:38:59.06  Duration 00:00:02.14  38
+      Não. Il est trop malin pour ça.
+
+ 712: 10:38:59.11 10:39:02.04  Duration 00:00:02.18  41
+      Son truc, c'était de torturer
+      la tête des gens
+
+ 713: 10:39:02.08 10:39:04.09  Duration 00:00:02.01  31
+      et repérer les mecs fragiles.
+
+ 714: 10:39:06.11 10:39:07.17  Duration 00:00:01.06  19
+      #Vous allez l'arrêter?#
+
+ 715: 10:39:10.19 10:39:12.01  Duration 00:00:01.07  19
+      On n'a pas de preuves.
+
+ 716: 10:39:12.06 10:39:14.14  Duration 00:00:02.08  35
+      On ne sait pas pourquoi
+      il aurait fait ça.
+
+ 717: 10:39:16.12 10:39:17.12  Duration 00:00:01.00  15
+      Tu le sais, toi?
+
+ 718: 10:39:22.21 10:39:24.16  Duration 00:00:01.20  27
+      Il doit bien kiffer, là.
+
+ 719: 10:39:24.21 10:39:25.24  Duration 00:00:01.03  17
+      Pardon?
+
+ 720: 10:39:26.11 10:39:29.18  Duration 00:00:03.07  49
+      Le fait que tout le monde le cherche,
+      que personne ne le serre.
+
+ 721: 10:39:29.22 10:39:31.07  Duration 00:00:01.10  21
+      Il doit kiffer.
+
+ 722: 10:39:31.11 10:39:32.19  Duration 00:00:01.08  20
+      Il est pas comme nous.
+
+ 723: 10:39:32.23 10:39:36.00  Duration 00:00:03.02  46
+      Il rêve pas de grosses bagnoles
+      ou d'avoir du fric.
+
+ 724: 10:39:36.04 10:39:38.21  Duration 00:00:02.17  40
+      Il veut entrer dans la tête des gens
+      et faire des trous.
+
+ 725: 10:39:39.00 10:39:40.12  Duration 00:00:01.12  22
+      Il est taré, ce mec.
+
+ 726: 10:39:45.06 10:39:46.20  Duration 00:00:01.14  23
+      Vous en êtes sûr?
+
+ 727: 10:39:46.24 10:39:47.22  Duration 00:00:00.23  14
+      Sim.
+
+ 728: 10:39:49.12 10:39:52.06  Duration 00:00:02.19  41
+      Cédric Vérand n'a pas pu
+      tuer votre fille.
+
+ 729: 10:39:55.10 10:39:57.14  Duration 00:00:02.04  32
+      Il est encore pire
+      que ce que je pensais.
+
+ 730: 10:39:58.22 10:39:59.21  Duration 00:00:00.24  14
+      Il a fait ça.
+
+ 731: 10:40:00.01 10:40:02.01  Duration 00:00:02.00  30
+      Juste...
+
+ 732: 10:40:02.05 10:40:03.15  Duration 00:00:01.10  21
+      pour le plaisir.
+
+ 733: 10:40:05.15 10:40:06.13  Duration 00:00:00.23  14
+      Est-ce que...
+
+ 734: 10:40:08.10 10:40:09.21  Duration 00:00:01.11  22
+      vous êtes sûre
+
+ 735: 10:40:10.01 10:40:13.02  Duration 00:00:03.01  46
+      d'avoir bien verrouillé sa porte?
+
+ 736: 10:40:13.07 10:40:15.00  Duration 00:00:01.18  26
+      Certaine.
+
+ 737: 10:40:15.04 10:40:17.05  Duration 00:00:02.01  31
+      On a vérifié les barreaux.
+
+ 738: 10:40:17.10 10:40:21.13  Duration 00:00:04.03  62
+      S'il est sorti,
+      é forcément par la porte.
+
+ 739: 10:40:21.18 10:40:23.18  Duration 00:00:02.00  30
+      Désolée, je peux pas vous aider.
+
+ 740: 10:40:25.23 10:40:29.21  Duration 00:00:03.23  59
+      Comment vous expliquez
+      que pour votre équipe,
+
+ 741: 10:40:30.01 10:40:32.17  Duration 00:00:02.16  40
+      ce jeune homme,
+      c'était l'élève modèle?
+
+ 742: 10:40:32.22 10:40:35.19  Duration 00:00:02.22  43
+      É comme s'ils étaient tous
+      sous son emprise.
+
+ 743: 10:40:37.05 10:40:38.15  Duration 00:00:01.10  21
+      Pour vous,
+
+ 744: 10:40:38.19 10:40:42.11  Duration 00:00:03.17  55
+      les délinquants sexuels
+
+ 745: 10:40:43.23 10:40:46.10  Duration 00:00:02.12  37
+      n'ont pas de place dans les CEF.
+
+ 746: 10:40:46.15 10:40:50.13  Duration 00:00:03.23  59
+      Ils doivent être envoyés chez le juge
+
+ 747: 10:40:50.17 10:40:51.19  Duration 00:00:01.02  16
+      ou en taule.
+
+ 748: 10:40:52.21 10:40:53.16  Duration 00:00:00.20  12
+      Pardon?
+
+ 749: 10:40:53.20 10:40:55.17  Duration 00:00:01.22  28
+      Laisser la porte ouverte,
+
+ 750: 10:40:55.22 10:41:00.00  Duration 00:00:04.03  62
+      é-à-dire l'inciter à fuguer.
+
+ 751: 10:41:03.15 10:41:06.02  Duration 00:00:02.12  37
+      Não mais si vous avouez,
+
+ 752: 10:41:07.04 10:41:10.22  Duration 00:00:03.18  56
+      on aurait un élément tangible
+      pour le confondre.
+
+ 753: 10:41:11.01 10:41:13.07  Duration 00:00:02.06  34
+      Parce que pénalement,
+      vous ne risquez rien.
+
+ 754: 10:41:14.18 10:41:16.12  Duration 00:00:01.19  26
+      Vous pouviez pas imaginer
+
+ 755: 10:41:16.16 10:41:19.16  Duration 00:00:03.00  45
+      qu'il allait assassiner
+      Isabelle Giraud.
+
+ 756: 10:41:22.02 10:41:25.18  Duration 00:00:03.16  55
+      Vous allez tout de même pas
+      le laisser s'en sortir comme ça!
+
+ 757: 10:41:29.17 10:41:33.04  Duration 00:00:03.12  52
+      Não mais enfin! Elle a laissé
+      la porte ouverte à ce type,
+
+ 758: 10:41:33.08 10:41:35.11  Duration 00:00:02.03  32
+      un violeur, un tueur potentiel.
+
+ 759: 10:41:35.16 10:41:37.23  Duration 00:00:02.07  34
+      Sans parler
+      de l'intentionnalité du geste.
+
+ 760: 10:41:38.02 10:41:40.21  Duration 00:00:02.19  41
+      Est-ce que vous pouvez me traduire,
+      Mme la juge?
+
+ 761: 10:41:41.00 10:41:43.23  Duration 00:00:02.23  44
+      Sim. Elle avait intérêt
+      à ce que ce crime soit commis.
+
+ 762: 10:41:44.03 10:41:46.20  Duration 00:00:02.17  40
+      Isabelle Giraud allait la dénoncer
+      à sa hiérarchie.
+
+ 763: 10:41:46.24 10:41:48.17  Duration 00:00:01.18  26
+      L'avocat soulèvera cette question.
+
+ 764: 10:41:48.22 10:41:53.03  Duration 00:00:04.06  64
+      Comment voulez-vous
+      que Laurence Manet puisse imaginer
+
+ 765: 10:41:53.07 10:41:56.02  Duration 00:00:02.20  42
+      ou deviner que cet hurluberlu
+      allait assassiner
+
+ 766: 10:41:56.07 10:41:59.04  Duration 00:00:02.22  43
+      la seule personne qui le défendait?
+
+ 767: 10:41:59.09 10:42:00.15  Duration 00:00:01.06  19
+      Peut-être.
+
+ 768: 10:42:00.19 10:42:03.09  Duration 00:00:02.15  39
+      Mais elle n'a pas dit qu'elle avait
+      laissé la porte ouverte.
+
+ 769: 10:42:03.14 10:42:05.22  Duration 00:00:02.08  35
+      Elle avait donc quelque chose
+      à se reprocher.
+
+ 770: 10:42:06.01 10:42:07.19  Duration 00:00:01.18  26
+      Elle a ralenti l'enquête.
+
+ 771: 10:42:07.23 10:42:10.19  Duration 00:00:02.21  43
+      Elle a jamais pensé
+      que Vérand avait fugué,
+
+ 772: 10:42:10.24 10:42:14.06  Duration 00:00:03.07  49
+      puisqu'il était à 6 h du matin
+      dans sa piaule en train de dormir.
+
+ 773: 10:42:14.10 10:42:17.18  Duration 00:00:03.08  50
+      Et puis elle a jamais essayé
+      de ralentir l'enquête.
+
+ 774: 10:42:17.22 10:42:19.16  Duration 00:00:01.19  26
+      Mais qu'est-ce que ça veut dire?
+
+ 775: 10:42:20.08 10:42:21.16  Duration 00:00:01.08  20
+      Não!
+
+ 776: 10:42:25.22 10:42:29.05  Duration 00:00:03.08  50
+      Vous n'êtes absolument pas objectif
+      avec Mme Manet.
+
+ 777: 10:42:30.07 10:42:32.24  Duration 00:00:02.17  40
+      Il se passe quoi entre elle et vous?
+
+ 778: 10:42:33.04 10:42:36.20  Duration 00:00:03.16  55
+      Vous allez pas me faire
+      une scène de jalousie, franchement.
+
+ 779: 10:42:38.05 10:42:39.14  Duration 00:00:01.09  20
+      On n'a plus l'âge, não?
+
+ 780: 10:42:39.19 10:42:41.09  Duration 00:00:01.15  24
+      Ah bon, on n'a plus l'âge?
+
+ 781: 10:42:41.13 10:42:43.18  Duration 00:00:02.05  33
+      Enfin, je veux dire
+      "je n'ai plus l'âge".
+
+ 782: 10:42:44.14 10:42:45.13  Duration 00:00:00.24  14
+      Enfin...
+
+ 783: 10:42:46.14 10:42:48.08  Duration 00:00:01.19  26
+      É pas ce que je voulais dire.
+
+ 784: 10:42:48.13 10:42:50.21  Duration 00:00:02.08  35
+      Je vous demande juste
+      de garder vos distances.
+
+ 785: 10:42:51.00 10:42:52.22  Duration 00:00:01.22  28
+      Très bien, je le ferai,
+      Mme la juge.
+
+ 786: 10:42:53.02 10:42:54.24  Duration 00:00:01.22  28
+      Et de faire attention à vous.
+
+ 787: 10:42:59.05 10:43:01.00  Duration 00:00:01.20  27
+      -Très bien.
+      -Très bien.
+
+ 788: 10:43:06.05 10:43:07.07  Duration 00:00:01.02  16
+      Commandant,
+
+ 789: 10:43:07.12 10:43:08.23  Duration 00:00:01.11  22
+      on a un problème.
+
+ 790: 10:43:09.02 10:43:09.23  Duration 00:00:00.21  13
+      Enfin, deux.
+
+ 791: 10:43:10.02 10:43:11.03  Duration 00:00:01.01  16
+      Je vous écoute.
+
+ 792: 10:43:11.07 10:43:12.18  Duration 00:00:01.11  22
+      On n'a pas de mobile pour Vérand.
+
+ 793: 10:43:12.23 10:43:15.11  Duration 00:00:02.13  38
+      On a réinterrogé les pensionnaires
+      et les éducateurs,
+
+ 794: 10:43:15.15 10:43:16.10  Duration 00:00:00.20  12
+      on n'a rien.
+
+ 795: 10:43:17.02 10:43:20.15  Duration 00:00:03.13  53
+      Il n'a jamais montré
+      la moindre animosité envers Isabelle.
+
+ 796: 10:43:21.09 10:43:23.06  Duration 00:00:01.22  28
+      Il vient d'entrer en garde à vue.
+
+ 797: 10:43:23.10 10:43:25.04  Duration 00:00:01.19  26
+      Il faut laisser du temps au temps.
+
+ 798: 10:43:25.09 10:43:27.11  Duration 00:00:02.02  31
+      Vous en êtes où, avec son alibi?
+
+ 799: 10:43:27.15 10:43:28.21  Duration 00:00:01.06  19
+      É le 2e problème.
+
+ 800: 10:43:29.01 10:43:32.22  Duration 00:00:03.21  58
+      On a bien retrouvé la petite nana
+      avec qui il a passé quelques heures.
+
+ 801: 10:43:33.01 10:43:34.10  Duration 00:00:01.09  20
+      Elle confirme tout.
+
+ 802: 10:43:38.12 10:43:40.00  Duration 00:00:01.13  23
+      Il avait besoin de me parler.
+
+ 803: 10:43:40.17 10:43:42.24  Duration 00:00:02.07  34
+      Au centre,
+      tout le monde est contre lui.
+
+ 804: 10:43:46.09 10:43:48.16  Duration 00:00:02.07  34
+      Cédric est arrivé à quelle heure,
+      chez vous?
+
+ 805: 10:43:48.21 10:43:51.01  Duration 00:00:02.05  33
+      Je sais pas, 11 h.
+
+ 806: 10:43:51.18 10:43:53.13  Duration 00:00:01.20  27
+      Ah não, je crois pas.
+
+ 807: 10:43:56.07 10:43:59.13  Duration 00:00:03.06  49
+      À 11 h, il n'était pas encore
+      sorti du centre.
+
+ 808: 10:43:59.18 10:44:02.01  Duration 00:00:02.08  35
+      Je sais pas, alors minuit.
+
+ 809: 10:44:02.06 10:44:04.17  Duration 00:00:02.11  37
+      Je vais vous demander
+      et vous conseiller
+
+ 810: 10:44:04.21 10:44:07.13  Duration 00:00:02.17  40
+      d'être beaucoup plus précise que ça.
+
+ 811: 10:44:07.18 10:44:09.20  Duration 00:00:02.02  31
+      Sim, mais y a pas écrit
+      horloge parlante.
+
+ 812: 10:44:10.00 10:44:10.22  Duration 00:00:00.22  13
+      Estelle!
+
+ 813: 10:44:11.01 10:44:12.21  Duration 00:00:01.20  27
+      Ne me parle pas comme ça, Estelle.
+
+ 814: 10:44:14.07 10:44:15.07  Duration 00:00:01.00  15
+      É clair?
+
+ 815: 10:44:20.23 10:44:22.07  Duration 00:00:01.09  20
+      Et vous, madame Tenon?
+
+ 816: 10:44:22.12 10:44:24.05  Duration 00:00:01.18  26
+      Vous connaissez Cédric Vérand?
+
+ 817: 10:44:24.09 10:44:25.07  Duration 00:00:00.23  14
+      Não.
+
+ 818: 10:44:25.12 10:44:28.17  Duration 00:00:03.05  48
+      Enfin, je savais
+      qu'elle avait un flirt au lycée,
+
+ 819: 10:44:28.21 10:44:30.03  Duration 00:00:01.07  19
+      mais je le connais pas.
+
+ 820: 10:44:31.03 10:44:34.02  Duration 00:00:02.24  44
+      Saviez-vous que ce jeune homme
+      a été condamné pour viol?
+
+ 821: 10:44:34.07 10:44:35.24  Duration 00:00:01.17  25
+      Mais il l'a pas violée.
+
+ 822: 10:44:36.03 10:44:37.12  Duration 00:00:01.09  20
+      Cédric ferait jamais ça.
+
+ 823: 10:44:37.17 10:44:39.24  Duration 00:00:02.07  34
+      Léa Merteuil n'est pas
+      du même avis que toi.
+
+ 824: 10:44:40.04 10:44:43.07  Duration 00:00:03.03  47
+      Facile de dire qu'elle voulait pas.
+      Il s'est fait piéger.
+
+ 825: 10:44:43.12 10:44:46.19  Duration 00:00:03.07  49
+      J'espère que tu ne te rends pas
+      compte de ce que tu dis.
+
+ 826: 10:44:47.14 10:44:49.06  Duration 00:00:01.17  25
+      Vraiment, j'espère.
+
+ 827: 10:44:54.01 10:44:55.14  Duration 00:00:01.13  23
+      Il va recommencer!
+
+ 828: 10:44:55.19 10:44:58.17  Duration 00:00:02.23  44
+      É pas à moi de le surveiller,
+      é à la police.
+
+ 829: 10:45:01.01 10:45:05.02  Duration 00:00:04.01  61
+      É pas la police qui a laissé
+      la porte ouverte à un déséquilibré.
+
+ 830: 10:45:05.06 10:45:07.01  Duration 00:00:01.20  27
+      Vous croyez que je m'en veux pas?
+
+ 831: 10:45:07.06 10:45:09.09  Duration 00:00:02.03  32
+      Ça me bouffe!
+
+ 832: 10:45:18.00 10:45:19.13  Duration 00:00:01.13  23
+      Peut-être qu'ils ont raison.
+
+ 833: 10:45:20.04 10:45:22.14  Duration 00:00:02.10  36
+      Je suis plus capable
+      de faire mon travail.
+
+ 834: 10:45:24.01 10:45:27.13  Duration 00:00:03.12  52
+      Je suis juste capable
+      de sauver les apparences.
+
+ 835: 10:45:28.16 10:45:29.24  Duration 00:00:01.08  20
+      É déjà pas mal.
+
+ 836: 10:45:31.18 10:45:34.20  Duration 00:00:03.02  46
+      Je sais pas exactement
+      ce qui vous est arrivé, mais...
+
+ 837: 10:45:36.00 10:45:36.24  Duration 00:00:00.24  14
+      vous me comprenez.
+
+ 838: 10:45:40.02 10:45:41.06  Duration 00:00:01.04  17
+      Excusez-moi.
+
+ 839: 10:46:13.04 10:46:15.21  Duration 00:00:02.17  40
+      Tu crois qu'il a dit à la directrice
+      qu'il a tué sa fille
+
+ 840: 10:46:16.00 10:46:17.02  Duration 00:00:01.02  16
+      juste pour le plaisir?
+
+ 841: 10:46:17.06 10:46:18.10  Duration 00:00:01.04  17
+      Un gamin de 17 ans?
+
+ 842: 10:46:18.15 10:46:21.01  Duration 00:00:02.11  37
+      En plus,
+      il vient d'une famille normale.
+
+ 843: 10:46:21.05 10:46:24.19  Duration 00:00:03.14  53
+      Mère employée municipale,
+      père comptable, mariés depuis 15 ans,
+
+ 844: 10:46:24.24 10:46:26.12  Duration 00:00:01.13  23
+      élevé dans un quartier paisible,
+
+ 845: 10:46:26.16 10:46:28.02  Duration 00:00:01.11  22
+      scolarité sans problème.
+
+ 846: 10:46:28.07 10:46:30.12  Duration 00:00:02.05  33
+      Les psychologues
+      vont s'arracher les cheveux.
+
+ 847: 10:46:30.16 10:46:32.24  Duration 00:00:02.08  35
+      -Je vais l'auditionner demain.
+      -É là.
+
+ 848: 10:46:39.18 10:46:40.15  Duration 00:00:00.22  13
+      Excusez-moi.
+
+ 849: 10:46:40.20 10:46:42.18  Duration 00:00:01.23  29
+      -Bonjour.
+      -Bonjour.
+
+ 850: 10:46:42.23 10:46:45.02  Duration 00:00:02.04  32
+      Quelqu'un s'appelle Gérard par ici?
+
+ 851: 10:46:47.00 10:46:48.16  Duration 00:00:01.16  25
+      -Tu es Adèle?
+      -Sim.
+
+ 852: 10:46:48.20 10:46:51.06  Duration 00:00:02.11  37
+      J'ai vu des photos de toi
+      au réfectoire.
+
+ 853: 10:46:51.11 10:46:52.24  Duration 00:00:01.13  23
+      Tu vas faire un tour de camion?
+
+ 854: 10:46:53.04 10:46:53.24  Duration 00:00:00.20  12
+      Não.
+
+ 855: 10:46:54.23 10:46:57.21  Duration 00:00:02.23  44
+      -Gérard est en salle de repos.
+      -Merci.
+
+ 856: 10:47:02.15 10:47:03.15  Duration 00:00:01.00  15
+      Tudo bem.
+
+ 857: 10:47:04.05 10:47:06.06  Duration 00:00:02.01  31
+      "Un tour de camion."
+
+ 858: 10:47:09.08 10:47:11.01  Duration 00:00:01.18  26
+      Je te dis d'arrêter.
+
+ 859: 10:47:17.13 10:47:20.04  Duration 00:00:02.16  40
+      Excusez-moi. Gérard?
+
+ 860: 10:47:20.08 10:47:21.03  Duration 00:00:00.20  12
+      Bonjour, Adèle.
+
+ 861: 10:47:23.07 10:47:24.04  Duration 00:00:00.22  13
+      Bonjour, Nadia.
+
+ 862: 10:47:25.19 10:47:26.14  Duration 00:00:00.20  12
+      Bonjour.
+
+ 863: 10:47:26.19 10:47:28.21  Duration 00:00:02.02  31
+      Une seconde, j'arrive tout de suite.
+
+ 864: 10:47:30.19 10:47:31.14  Duration 00:00:00.20  12
+      Il est canon.
+
+ 865: 10:47:31.19 10:47:33.04  Duration 00:00:01.10  21
+      Tu lui as parlé de moi?
+
+ 866: 10:47:33.08 10:47:35.22  Duration 00:00:02.14  38
+      J'en sais rien,
+      comment tu veux que je sache?
+
+ 867: 10:47:36.02 10:47:37.11  Duration 00:00:01.09  20
+      On voulait pas vous déranger.
+
+ 868: 10:47:39.10 10:47:43.01  Duration 00:00:03.16  55
+      Je voulais savoir si vous auriez pas
+      perdu ça, par hasard.
+
+ 869: 10:47:43.16 10:47:44.14  Duration 00:00:00.23  14
+      Ah não, désolé.
+
+ 870: 10:47:45.09 10:47:47.04  Duration 00:00:01.20  27
+      Ou quelqu'un dans votre entourage.
+
+ 871: 10:47:47.19 10:47:49.06  Duration 00:00:01.12  22
+      Não, pas à ma connaissance.
+
+ 872: 10:47:49.11 10:47:51.23  Duration 00:00:02.12  37
+      Mais vous,
+      vous avez oublié quelque chose.
+
+ 873: 10:47:52.03 10:47:53.15  Duration 00:00:01.12  22
+      É pour ça que vous venez?
+
+ 874: 10:47:57.17 10:47:58.14  Duration 00:00:00.22  13
+      Tiens.
+
+ 875: 10:48:01.20 10:48:02.18  Duration 00:00:00.23  14
+      É à toi, não?
+
+ 876: 10:48:31.17 10:48:32.22  Duration 00:00:01.05  18
+      Ah sim.
+
+ 877: 10:48:33.02 10:48:34.11  Duration 00:00:01.09  20
+      Ah sim.
+
+ 878: 10:48:40.04 10:48:43.01  Duration 00:00:02.22  43
+      Je suis désolée,
+      mais é très drôle.
+
+ 879: 10:48:44.14 10:48:46.10  Duration 00:00:01.21  28
+      J'étais sûre d'être rentrée chez moi.
+
+ 880: 10:48:46.14 10:48:48.13  Duration 00:00:01.24  29
+      Mais ton soutif a fait
+      un petit détour.
+
+ 881: 10:48:48.17 10:48:50.04  Duration 00:00:01.12  22
+      É pas vrai.
+
+ 882: 10:48:52.03 10:48:55.03  Duration 00:00:03.00  45
+      Remarque,
+      il est super beau gosse, não?
+
+ 883: 10:48:55.07 10:48:58.13  Duration 00:00:03.06  49
+      Arrête.
+      Mais pourquoi j'ai bu comme ça?
+
+ 884: 10:49:08.08 10:49:09.19  Duration 00:00:01.11  22
+      #Suis-moi.#
+
+ 885: 10:49:09.23 10:49:11.17  Duration 00:00:01.19  26
+      #J'ai entendu quelque chose.#
+
+ 886: 10:49:15.11 10:49:16.16  Duration 00:00:01.05  18
+      #Harry,#
+
+ 887: 10:49:16.20 10:49:18.18  Duration 00:00:01.23  29
+      #je sais que t'es là.#
+
+ 888: 10:49:21.07 10:49:23.12  Duration 00:00:02.05  33
+      #Ne fais pas ça, não!#
+
+ 889: 10:49:31.02 10:49:33.03  Duration 00:00:02.01  31
+      #Tire pas.#
+
+ 890: 10:49:59.05 10:50:00.10  Duration 00:00:01.05  18
+      Merde, Cédric!
+
+ 891: 10:50:03.09 10:50:05.23  Duration 00:00:02.14  38
+      Hé! Vérand s'est fait tirer dessus.
+
+ 892: 10:50:06.02 10:50:07.04  Duration 00:00:01.02  16
+      Les secours. Dépêche-toi.
+
+ 893: 10:50:08.09 10:50:09.13  Duration 00:00:01.04  17
+      Qu'est-ce que tu racontes?
+
+ 894: 10:50:12.09 10:50:13.22  Duration 00:00:01.13  23
+      É pas vrai.
+
+ 895: 10:50:26.20 10:50:28.02  Duration 00:00:01.07  19
+      Son cœur battait encore.
+
+ 896: 10:50:28.07 10:50:31.20  Duration 00:00:03.13  53
+      Les secouristes l'ont transféré
+      en soins intensifs.
+
+ 897: 10:50:32.00 10:50:34.22  Duration 00:00:02.22  43
+      -Il a dit quelque chose?
+      -Não, il était inconscient.
+
+ 898: 10:50:38.14 10:50:40.13  Duration 00:00:01.24  29
+      L'agresseur a tiré une seule fois.
+
+ 899: 10:50:40.18 10:50:44.03  Duration 00:00:03.10  51
+      Il a fui en direction
+      des appartements
+
+ 900: 10:50:44.07 10:50:46.02  Duration 00:00:01.20  27
+      de Mme la directrice.
+
+ 901: 10:50:46.07 10:50:48.11  Duration 00:00:02.04  32
+      Il y a une sortie de secours
+      au bout.
+
+ 902: 10:50:48.15 10:50:50.22  Duration 00:00:02.07  34
+      Est-ce que Mme Manet
+
+ 903: 10:50:51.02 10:50:53.23  Duration 00:00:02.21  43
+      a entendu quelque chose,
+
+ 904: 10:50:54.02 10:50:55.07  Duration 00:00:01.05  18
+      quelqu'un passer?
+
+ 905: 10:50:55.11 10:50:58.00  Duration 00:00:02.14  38
+      Je sais pas, não.
+      Pourquoi?
+
+ 906: 10:50:58.04 10:51:01.14  Duration 00:00:03.10  51
+      Parce que j'ai vérifié la porte,
+      et elle a pas été enfoncée.
+
+ 907: 10:51:01.19 10:51:03.17  Duration 00:00:01.23  29
+      Pour ouvrir la porte,
+      il faut un passe.
+
+ 908: 10:51:03.22 10:51:08.02  Duration 00:00:04.05  63
+      Si tu pouvais lui demander
+      où se trouve le sien...
+
+ 909: 10:51:08.07 10:51:10.05  Duration 00:00:01.23  29
+      Tu vas pas un peu trop vite
+      en besogne?
+
+ 910: 10:51:10.09 10:51:12.15  Duration 00:00:02.06  34
+      Elle détient les clés des chambres,
+      não?
+
+ 911: 10:51:12.20 10:51:15.05  Duration 00:00:02.10  36
+      Je te signale que l'autre type,
+
+ 912: 10:51:15.09 10:51:17.04  Duration 00:00:01.20  27
+      il a aussi le double des clés.
+
+ 913: 10:51:18.02 10:51:19.08  Duration 00:00:01.06  19
+      Et puis il dormait.
+
+ 914: 10:51:19.13 10:51:20.23  Duration 00:00:01.10  21
+      C'était très facile
+
+ 915: 10:51:21.03 10:51:22.18  Duration 00:00:01.15  24
+      de lui piquer ses clés
+
+ 916: 10:51:22.23 10:51:24.05  Duration 00:00:01.07  19
+      et de les lui ramener.
+
+ 917: 10:51:24.09 10:51:25.19  Duration 00:00:01.10  21
+      -Patron!
+      -Quoi?
+
+ 918: 10:51:25.24 10:51:27.20  Duration 00:00:01.21  28
+      Tu sais qu'elle débloque complètement
+
+ 919: 10:51:27.24 10:51:30.06  Duration 00:00:02.07  34
+      depuis qu'elle sait que Vérand
+      a buté sa fille.
+
+ 920: 10:51:30.10 10:51:32.11  Duration 00:00:02.01  31
+      Não, mais é ça.
+
+ 921: 10:51:32.15 10:51:35.08  Duration 00:00:02.18  41
+      Et elle est allée au Coccilomarket
+
+ 922: 10:51:35.13 10:51:37.19  Duration 00:00:02.06  34
+      acheter une arme
+      pour lui régler son compte.
+
+ 923: 10:51:37.24 10:51:40.12  Duration 00:00:02.13  38
+      É ça que tu penses?
+
+ 924: 10:51:40.17 10:51:41.18  Duration 00:00:01.01  16
+      Patron...
+
+ 925: 10:51:41.22 10:51:43.12  Duration 00:00:01.15  24
+      Arrête de m'appeler "patron",
+
+ 926: 10:51:43.17 10:51:45.17  Duration 00:00:02.00  30
+      ça me tape sur le système.
+
+ 927: 10:51:45.22 10:51:48.15  Duration 00:00:02.18  41
+      Toi aussi, tu me tapes
+      sur le système, é clair?
+
+ 928: 10:51:48.19 10:51:50.01  Duration 00:00:01.07  19
+      Elle a pas un mobile?
+
+ 929: 10:51:50.06 10:51:52.23  Duration 00:00:02.17  40
+      Ils ont tous des mobiles.
+      É des braqueurs, des dealers.
+
+ 930: 10:51:53.03 10:51:55.00  Duration 00:00:01.22  28
+      Tu crois que tu t'attaques
+      à la directrice?
+
+ 931: 10:51:55.05 10:51:58.10  Duration 00:00:03.05  48
+      Oh, mais quel flair!
+
+ 932: 10:51:58.15 10:52:01.09  Duration 00:00:02.19  41
+      T'es une leçon du professionnalisme.
+
+ 933: 10:52:02.13 10:52:05.07  Duration 00:00:02.19  41
+      Tu ferais mieux
+      de collaborer avec Nathalie.
+
+ 934: 10:52:05.11 10:52:06.17  Duration 00:00:01.06  19
+      Elle fait juste son boulot.
+
+ 935: 10:52:06.22 10:52:08.04  Duration 00:00:01.07  19
+      Sim, elle le fait bien.
+
+ 936: 10:52:08.09 10:52:11.07  Duration 00:00:02.23  44
+      Y a plus que Nathalie, maintenant.
+
+ 937: 10:52:11.11 10:52:13.10  Duration 00:00:01.24  29
+      Il commence à m'emmerder, celui-là.
+
+ 938: 10:52:14.24 10:52:17.15  Duration 00:00:02.16  40
+      É pas la peine d'insister.
+
+ 939: 10:52:17.20 10:52:18.24  Duration 00:00:01.04  17
+      É terminé.
+      Basta!
+
+ 940: 10:52:19.03 10:52:20.10  Duration 00:00:01.07  19
+      Il est pas dans son état normal.
+
+ 941: 10:52:20.14 10:52:22.16  Duration 00:00:02.02  31
+      Il se la fait, la dirlo, ou quoi?
+
+ 942: 10:52:22.20 10:52:25.18  Duration 00:00:02.23  44
+      -Je sais pas.
+      -Je vais finir par le croire.
+
+ 943: 10:52:25.22 10:52:27.12  Duration 00:00:01.15  24
+      Hé oh!
+
+ 944: 10:52:27.16 10:52:30.09  Duration 00:00:02.18  41
+      Y a que quand je le couve,
+      quand il loupe ses rendez-vous,
+
+ 945: 10:52:30.13 10:52:32.04  Duration 00:00:01.16  25
+      là, je fais mon travail.
+
+ 946: 10:52:32.09 10:52:33.05  Duration 00:00:00.21  13
+      Calme-toi.
+
+ 947: 10:52:33.09 10:52:36.01  Duration 00:00:02.17  40
+      Quoi, "calme-toi",
+      Mme "je m'énerve jamais"?
+
+ 948: 10:52:36.06 10:52:37.22  Duration 00:00:01.16  25
+      Toi, t'es là que 3 mois.
+
+ 949: 10:52:38.01 10:52:39.17  Duration 00:00:01.16  25
+      Moi, il y a 15 ans
+
+ 950: 10:52:39.21 10:52:42.06  Duration 00:00:02.10  36
+      que je suis mieux
+      qu'un fils qui le protège.
+
+ 951: 10:52:42.10 10:52:43.24  Duration 00:00:01.14  23
+      Alors je ne l'autorise pas
+
+ 952: 10:52:44.03 10:52:46.05  Duration 00:00:02.02  31
+      à me parler comme ça devant des gens,
+
+ 953: 10:52:46.09 10:52:47.21  Duration 00:00:01.12  22
+      un point, é tout.
+
+ 954: 10:52:48.00 10:52:50.02  Duration 00:00:02.02  31
+      Il commence à m'emmerder!
+
+ 955: 10:52:55.12 10:52:56.07  Duration 00:00:00.20  12
+      Rovère?
+
+ 956: 10:52:58.04 10:52:59.19  Duration 00:00:01.15  24
+      Je viens d'avoir l'hôpital.
+
+ 957: 10:52:59.23 10:53:01.16  Duration 00:00:01.18  26
+      Il a reçu une balle
+      au-dessus du cœur.
+
+ 958: 10:53:02.09 10:53:04.21  Duration 00:00:02.12  37
+      Aucun organe vital n'a été touché.
+
+ 959: 10:53:05.00 10:53:06.09  Duration 00:00:01.09  20
+      Alléluia!
+
+ 960: 10:53:06.13 10:53:08.13  Duration 00:00:02.00  30
+      En même temps,
+
+ 961: 10:53:08.17 10:53:11.11  Duration 00:00:02.19  41
+      il n'a rien vu parce qu'il dormait.
+
+ 962: 10:53:11.16 10:53:13.18  Duration 00:00:02.02  31
+      Il pourra jouer les saints innocents.
+
+ 963: 10:53:13.22 10:53:16.05  Duration 00:00:02.08  35
+      Ça, é son meilleur rôle.
+
+ 964: 10:53:16.10 10:53:18.08  Duration 00:00:01.23  29
+      Dites donc, vous êtes d'une humeur!
+
+ 965: 10:53:26.22 10:53:29.01  Duration 00:00:02.04  32
+      Ta chambre est à côté
+      de celle de Vérand?
+
+ 966: 10:53:29.23 10:53:30.24  Duration 00:00:01.01  16
+      Sim.
+
+ 967: 10:53:31.04 10:53:33.16  Duration 00:00:02.12  37
+      Et cette fois, t'as vu personne
+
+ 968: 10:53:33.21 10:53:36.12  Duration 00:00:02.16  40
+      passer sous ta fenêtre
+      en marchant ou en courant?
+
+ 969: 10:53:36.16 10:53:38.07  Duration 00:00:01.16  25
+      Não, j'ai vu personne.
+
+ 970: 10:53:40.22 10:53:41.19  Duration 00:00:00.22  13
+      Dis-moi,
+
+ 971: 10:53:41.24 10:53:44.12  Duration 00:00:02.13  38
+      toi, ça t'arrange,
+      que Vérand soit à l'hosto.
+
+ 972: 10:53:46.00 10:53:48.10  Duration 00:00:02.10  36
+      Comme ça, il t'emmerde plus.
+
+ 973: 10:53:48.14 10:53:49.09  Duration 00:00:00.20  12
+      Mais não.
+
+ 974: 10:53:50.17 10:53:52.06  Duration 00:00:01.14  23
+      Dis-moi, petit,
+
+ 975: 10:53:52.11 10:53:54.12  Duration 00:00:02.01  31
+      é pas un jour
+      où il faut m'emmerder.
+
+ 976: 10:53:54.16 10:53:57.03  Duration 00:00:02.12  37
+      J'ai moi aussi mes problèmes.
+
+ 977: 10:53:57.08 10:53:58.15  Duration 00:00:01.07  19
+      Je vais jouer franc-jeu.
+
+ 978: 10:53:58.20 10:54:01.15  Duration 00:00:02.20  42
+      Tu as vu qui a tiré,
+      mais tu veux pas le dire,
+
+ 979: 10:54:01.19 10:54:02.14  Duration 00:00:00.20  12
+      é ça?
+
+ 980: 10:54:02.19 10:54:04.06  Duration 00:00:01.12  22
+      Não, j'ai vu personne.
+
+ 981: 10:54:05.11 10:54:07.05  Duration 00:00:01.19  26
+      Tu sais, tu peux aller en taule.
+
+ 982: 10:54:07.09 10:54:10.10  Duration 00:00:03.01  46
+      Tu peux être accusé
+      de não-dénonciation de crime.
+
+ 983: 10:54:10.14 10:54:13.04  Duration 00:00:02.15  39
+      Tu peux être accusé
+      de complicité et d'homicide.
+
+ 984: 10:54:13.08 10:54:14.11  Duration 00:00:01.03  17
+      Tu comprends?
+
+ 985: 10:54:14.16 10:54:16.20  Duration 00:00:02.04  32
+      Même si t'es petit,
+      il faut que tu réalises.
+
+ 986: 10:54:18.00 10:54:20.14  Duration 00:00:02.14  38
+      Tu veux que je te décrive la prison?
+
+ 987: 10:54:20.19 10:54:22.09  Duration 00:00:01.15  24
+      É un truc...
+      Não, attends.
+
+ 988: 10:54:22.14 10:54:24.09  Duration 00:00:01.20  27
+      -É bon.
+      -Quoi, "é bon"?
+
+ 989: 10:54:24.14 10:54:26.11  Duration 00:00:01.22  28
+      -Qu'est-ce qu'il y a?
+      -Je peux te parler?
+
+ 990: 10:54:26.16 10:54:28.13  Duration 00:00:01.22  28
+      Vas-y, parle.
+
+ 991: 10:54:28.18 10:54:30.02  Duration 00:00:01.09  20
+      Par là.
+
+ 992: 10:54:30.07 10:54:31.16  Duration 00:00:01.09  20
+      Je reviens.
+
+ 993: 10:54:34.10 10:54:35.17  Duration 00:00:01.07  19
+      É Mme Manet.
+
+ 994: 10:54:38.19 10:54:39.15  Duration 00:00:00.21  13
+      Quoi?
+
+ 995: 10:54:39.20 10:54:42.01  Duration 00:00:02.06  34
+      É Mme Manet.
+
+ 996: 10:54:42.06 10:54:45.04  Duration 00:00:02.23  44
+      Tu veux dire que tu as vu Mme Manet
+
+ 997: 10:54:45.09 10:54:48.14  Duration 00:00:03.05  48
+      qui tirait sur Cédric Vérand?
+
+ 998: 10:54:48.19 10:54:51.10  Duration 00:00:02.16  40
+      Não. Je l'ai juste vue hier soir.
+
+ 999: 10:55:07.07 10:55:09.01  Duration 00:00:01.19  26
+      #Et ça, tu l'as dit à quelqu'un?#
+
+1000: 10:55:09.06 10:55:11.06  Duration 00:00:02.00  30
+      Não, je pouvais pas savoir.
+
+1001: 10:55:14.09 10:55:15.23  Duration 00:00:01.14  23
+      É ridicule.
+
+1002: 10:55:16.02 10:55:17.19  Duration 00:00:01.17  25
+      Nolan ne peut pas avoir vu ça.
+
+1003: 10:55:17.23 10:55:19.18  Duration 00:00:01.20  27
+      J'ai jamais touché une arme.
+
+1004: 10:55:19.22 10:55:22.02  Duration 00:00:02.05  33
+      Il y a forcément un de vous deux
+      qui ment.
+
+1005: 10:55:22.07 10:55:24.22  Duration 00:00:02.15  39
+      En même temps,
+      pourquoi Nolan irait inventer ça?
+
+1006: 10:55:25.02 10:55:26.13  Duration 00:00:01.11  22
+      Franchement, pourquoi?
+
+1007: 10:55:26.17 10:55:28.04  Duration 00:00:01.12  22
+      Je ne sais pas.
+
+1008: 10:55:28.08 10:55:31.16  Duration 00:00:03.08  50
+      Je sais juste que je n'ai pas tiré
+      sur Cédric Vérand.
+
+1009: 10:55:33.22 10:55:36.15  Duration 00:00:02.18  41
+      Est-ce que pour vous,
+      Cédric mérite de mourir?
+
+1010: 10:55:38.11 10:55:40.09  Duration 00:00:01.23  29
+      -Pardon?
+      -É un violeur, não?
+
+1011: 10:55:41.00 10:55:43.03  Duration 00:00:02.03  32
+      Comme l'assassin de votre fille.
+
+1012: 10:55:44.00 10:55:47.00  Duration 00:00:03.00  45
+      Encore un violeur
+      qui va échapper à la justice.
+
+1013: 10:55:48.01 10:55:50.04  Duration 00:00:02.03  32
+      É insupportable, não?
+
+1014: 10:55:50.24 10:55:54.16  Duration 00:00:03.17  55
+      Mais vous croyez vraiment
+      que je travaillerais dans un CEF
+
+1015: 10:55:54.20 10:55:56.14  Duration 00:00:01.19  26
+      si je croyais pas en la justice?
+
+1016: 10:55:56.19 10:55:59.00  Duration 00:00:02.06  34
+      Même après la mort de votre fille?
+
+1017: 10:56:00.10 10:56:02.08  Duration 00:00:01.23  29
+      Écoutez, sim,
+
+1018: 10:56:02.13 10:56:05.17  Duration 00:00:03.04  47
+      des types comme lui me donnent
+      des envies de meurtre.
+
+1019: 10:56:06.12 10:56:08.15  Duration 00:00:02.03  32
+      Mais entre l'idée
+      et le passage à l'acte,
+
+1020: 10:56:08.20 10:56:12.05  Duration 00:00:03.10  51
+      il y a quelque chose
+      qui s'appelle la conscience.
+
+1021: 10:56:13.11 10:56:15.16  Duration 00:00:02.05  33
+      La conscience, parfois,
+      on peut l'oublier.
+
+1022: 10:56:16.24 10:56:19.18  Duration 00:00:02.19  41
+      Je vais organiser
+      une confrontation avec Nolan.
+
+1023: 10:56:20.17 10:56:22.04  Duration 00:00:01.12  22
+      On verra qui me convaincra.
+
+1024: 10:56:23.09 10:56:24.11  Duration 00:00:01.02  16
+      Charlotte,
+
+1025: 10:56:24.16 10:56:26.11  Duration 00:00:01.20  27
+      faites-lui signer le procès-verbal.
+
+1026: 10:56:37.16 10:56:39.03  Duration 00:00:01.12  22
+      Signez là.
+
+1027: 10:56:40.03 10:56:41.06  Duration 00:00:01.03  17
+      É une fille.
+
+1028: 10:56:42.03 10:56:42.24  Duration 00:00:00.21  13
+      Pardon?
+
+1029: 10:56:43.04 10:56:45.00  Duration 00:00:01.21  28
+      Je suis sûre que é une fille.
+
+1030: 10:56:51.00 10:56:51.20  Duration 00:00:00.20  12
+      #Mais enfin,#
+
+1031: 10:56:52.00 10:56:54.01  Duration 00:00:02.01  31
+      vous imaginez Laurence Manet
+
+1032: 10:56:54.06 10:56:55.05  Duration 00:00:00.24  14
+      avec un pistolet
+
+1033: 10:56:55.09 10:56:57.04  Duration 00:00:01.20  27
+      et visant à bout portant Cédric?
+
+1034: 10:56:57.08 10:56:58.04  Duration 00:00:00.21  13
+      É ridicule.
+
+1035: 10:56:58.09 10:57:00.06  Duration 00:00:01.22  28
+      Não, ce n'est pas ridicule.
+
+1036: 10:57:00.23 10:57:03.21  Duration 00:00:02.23  44
+      Elle peut l'avoir fait
+      pour faire justice elle-même.
+
+1037: 10:57:04.01 10:57:05.18  Duration 00:00:01.17  25
+      Ça repose quand même
+
+1038: 10:57:05.22 10:57:08.01  Duration 00:00:02.04  32
+      sur le témoignage d'un gosse fragile.
+
+1039: 10:57:08.06 10:57:11.15  Duration 00:00:03.09  50
+      É pour ça que j'ai besoin
+      d'éléments complémentaires.
+
+1040: 10:57:11.20 10:57:15.20  Duration 00:00:04.00  60
+      "Des éléments complémentaires"?
+      Il suffit de savoir qui a fait ça.
+
+1041: 10:57:15.24 10:57:18.10  Duration 00:00:02.11  37
+      Pourquoi vous êtes sûr
+      qu'elle est innocente?
+
+1042: 10:57:18.14 10:57:20.02  Duration 00:00:01.13  23
+      Je le sais, é tout.
+
+1043: 10:57:20.07 10:57:22.13  Duration 00:00:02.06  34
+      Vous avez vu dans quel état
+      vous vous mettez?
+
+1044: 10:57:22.18 10:57:24.20  Duration 00:00:02.02  31
+      Vous voulez me virer de l'enquête?
+
+1045: 10:57:24.24 10:57:27.01  Duration 00:00:02.02  31
+      Alors allez-y, vous en avez envie.
+
+1046: 10:57:27.06 10:57:30.04  Duration 00:00:02.23  44
+      Arrêtez de me provoquer, Rovère.
+      Arrêtez.
+
+1047: 10:57:30.09 10:57:31.17  Duration 00:00:01.08  20
+      Je vous demande simplement
+
+1048: 10:57:31.22 10:57:33.17  Duration 00:00:01.20  27
+      de prendre de la distance,
+
+1049: 10:57:33.21 10:57:34.19  Duration 00:00:00.23  14
+      vous m'entendez?
+
+1050: 10:57:34.23 10:57:36.02  Duration 00:00:01.04  17
+      De la distance.
+
+1051: 10:57:36.07 10:57:37.14  Duration 00:00:01.07  19
+      Vous tracassez pas.
+
+1052: 10:57:37.18 10:57:40.18  Duration 00:00:03.00  45
+      Vous n'aurez pas à supporter
+      cette responsabilité.
+
+1053: 10:57:41.13 10:57:42.20  Duration 00:00:01.07  19
+      Quelle responsabilité?
+
+1054: 10:57:42.24 10:57:45.12  Duration 00:00:02.13  38
+      -De quoi vous parlez?
+      -À demain, Mme la juge.
+
+1055: 10:57:45.16 10:57:47.10  Duration 00:00:01.19  26
+      Rovère, de quoi vous parlez?
+
+1056: 10:57:49.11 10:57:50.10  Duration 00:00:00.24  14
+      Rovère!
+
+1057: 10:57:51.18 10:57:52.18  Duration 00:00:01.00  15
+      Merde!
+
+1058: 10:57:53.22 10:57:55.02  Duration 00:00:01.05  18
+      J'en ai marre.
+
+1059: 10:58:06.08 10:58:07.18  Duration 00:00:01.10  21
+      On attaque, là.
+
+1060: 10:58:08.08 10:58:09.17  Duration 00:00:01.09  20
+      Allez, on attaque.
+
+1061: 10:58:14.13 10:58:16.16  Duration 00:00:02.03  32
+      Donc ça fait 4,
+      1 pour les oranges.
+
+1062: 10:58:24.15 10:58:26.21  Duration 00:00:02.06  34
+      La Scientifique
+      a déjà fouillé partout.
+
+1063: 10:58:27.00 10:58:28.10  Duration 00:00:01.10  21
+      Vous pensez trouver quoi?
+
+1064: 10:58:34.05 10:58:35.15  Duration 00:00:01.10  21
+      -Merde.
+      -Je vous l'avais dit.
+
+1065: 10:58:35.20 10:58:37.20  Duration 00:00:02.00  30
+      Il y a rien, ici.
+
+1066: 10:58:38.00 10:58:39.09  Duration 00:00:01.09  20
+      Bon. OK.
+
+1067: 10:58:39.14 10:58:40.23  Duration 00:00:01.09  20
+      Merci.
+
+1068: 10:58:43.20 10:58:45.20  Duration 00:00:02.00  30
+      Dis donc, ambiance!
+
+1069: 10:58:52.09 10:58:55.09  Duration 00:00:03.00  45
+      -Vous avez vérifié ça?
+      -Sim.
+
+1070: 10:58:55.14 10:58:57.15  Duration 00:00:02.01  31
+      On a regardé
+      pendant la garde à vue de Vérand.
+
+1071: 10:58:57.20 10:58:59.01  Duration 00:00:01.06  19
+      Y avait rien.
+
+1072: 10:59:02.15 10:59:03.19  Duration 00:00:01.04  17
+      Aidez-moi.
+
+1073: 10:59:22.07 10:59:23.02  Duration 00:00:00.20  12
+      Y a un truc.
+
+1074: 10:59:30.16 10:59:32.04  Duration 00:00:01.13  23
+      Et ça, é quoi?
+
+1075: 10:59:33.02 10:59:33.22  Duration 00:00:00.20  12
+      Un couteau.
+
+1076: 10:59:34.02 10:59:36.05  Duration 00:00:02.03  32
+      Mais je vous jure,
+      hier, il y était pas.
+
+1077: 10:59:37.00 10:59:38.21  Duration 00:00:01.21  28
+      Mais aujourd'hui, il y est.
+
+1078: 10:59:45.08 10:59:47.18  Duration 00:00:02.10  36
+      Tu continues d'affirmer
+      que Cédric est parti
+
+1079: 10:59:47.23 10:59:49.12  Duration 00:00:01.14  23
+      de chez toi à 4 h
+
+1080: 10:59:49.16 10:59:51.17  Duration 00:00:02.01  31
+      la nuit où Isabelle Giraud
+      a été tuée.
+
+1081: 10:59:52.19 10:59:53.14  Duration 00:00:00.20  12
+      Sim.
+
+1082: 10:59:53.18 10:59:56.24  Duration 00:00:03.06  49
+      Alors que fait l'arme du crime
+      dans la chambre de ton copain?
+
+1083: 10:59:57.04 10:59:59.08  Duration 00:00:02.04  32
+      -J'en sais rien.
+      -T'en sais rien?
+
+1084: 11:00:00.10 11:00:02.14  Duration 00:00:02.04  32
+      Estelle, tu devrais
+      changer de version.
+
+1085: 11:00:04.08 11:00:07.12  Duration 00:00:03.04  47
+      On parle d'un meurtre, là, Estelle.
+      Tu entends?
+
+1086: 11:00:08.07 11:00:09.19  Duration 00:00:01.12  22
+      Écoute ce qu'elle te dit.
+
+1087: 11:00:09.23 11:00:11.01  Duration 00:00:01.03  17
+      Toi, ferme ta gueule.
+
+1088: 11:00:11.06 11:00:13.11  Duration 00:00:02.05  33
+      Tu peux pas comprendre,
+      t'as jamais aimé personne.
+
+1089: 11:00:13.16 11:00:15.06  Duration 00:00:01.15  24
+      Cédric n'a rien fait.
+
+1090: 11:00:15.11 11:00:16.23  Duration 00:00:01.12  22
+      Reviens tout de suite!
+
+1091: 11:00:18.10 11:00:19.18  Duration 00:00:01.08  20
+      Estelle, assieds-toi.
+
+1092: 11:00:22.19 11:00:23.14  Duration 00:00:00.20  12
+      Assieds-toi.
+
+1093: 11:00:31.24 11:00:34.06  Duration 00:00:02.07  34
+      Si j'avais su
+      qu'elle fréquentait ce garçon
+
+1094: 11:00:34.11 11:00:36.06  Duration 00:00:01.20  27
+      depuis plus d'un an...
+
+1095: 11:00:36.11 11:00:37.21  Duration 00:00:01.10  21
+      É bon.
+
+1096: 11:00:38.00 11:00:40.05  Duration 00:00:02.05  33
+      Estelle, si Cédric est innocent,
+
+1097: 11:00:40.09 11:00:42.01  Duration 00:00:01.17  25
+      il n'a pas besoin que tu mentes.
+
+1098: 11:00:43.06 11:00:44.04  Duration 00:00:00.23  14
+      Il a rien fait.
+
+1099: 11:00:44.08 11:00:47.09  Duration 00:00:03.01  46
+      Il est rentré chez lui directement
+      dans sa chambre.
+
+1100: 11:00:48.16 11:00:51.13  Duration 00:00:02.22  43
+      Si on retrouve les traces ADN
+      de Cédric sur le couteau,
+
+1101: 11:00:51.18 11:00:53.22  Duration 00:00:02.04  32
+      tu seras accusée de faux témoignage
+
+1102: 11:00:54.01 11:00:56.01  Duration 00:00:02.00  30
+      et peut-être même de complicité.
+
+1103: 11:00:56.23 11:00:59.12  Duration 00:00:02.14  38
+      Tu comprends ce que ça veut dire?
+
+1104: 11:00:59.17 11:01:02.02  Duration 00:00:02.10  36
+      Tu sais ce que tu risques?
+      À peu près 20 ans.
+
+1105: 11:01:02.07 11:01:06.10  Duration 00:00:04.03  62
+      Mais si tu te rétractes maintenant,
+      tu ne seras pas poursuivie.
+
+1106: 11:01:06.15 11:01:08.17  Duration 00:00:02.02  31
+      Mais é là, maintenant.
+
+1107: 11:01:10.01 11:01:11.19  Duration 00:00:01.18  26
+      Estelle, dis la vérité.
+
+1108: 11:01:13.09 11:01:14.10  Duration 00:00:01.01  16
+      Parle.
+
+1109: 11:01:15.15 11:01:16.18  Duration 00:00:01.03  17
+      Alors?
+
+1110: 11:01:18.11 11:01:20.06  Duration 00:00:01.20  27
+      À quelle heure il est parti?
+
+1111: 11:01:23.12 11:01:24.14  Duration 00:00:01.02  16
+      1 h du matin.
+
+1112: 11:01:29.01 11:01:31.05  Duration 00:00:02.04  32
+      Mais je vous jure que é pas lui.
+
+1113: 11:01:33.12 11:01:35.15  Duration 00:00:02.03  32
+      Bon. Parle-nous de ce couteau.
+
+1114: 11:01:36.17 11:01:37.18  Duration 00:00:01.01  16
+      Franchement,
+
+1115: 11:01:37.22 11:01:38.21  Duration 00:00:00.24  14
+      é bizarre.
+
+1116: 11:01:40.04 11:01:42.10  Duration 00:00:02.06  34
+      É pas celui qui a tiré
+      qui l'a mis là?
+
+1117: 11:01:42.15 11:01:44.19  Duration 00:00:02.04  32
+      Les analyses ADN sont en cours.
+
+1118: 11:01:44.23 11:01:47.16  Duration 00:00:02.18  41
+      É étrange
+      qu'il apparaisse comme par magie.
+
+1119: 11:01:49.12 11:01:53.09  Duration 00:00:03.22  58
+      Et puis ta petite copine qui revient
+      sur ton alibi, é quoi?
+
+1120: 11:01:54.02 11:01:55.23  Duration 00:00:01.21  28
+      Estelle, é une fille fragile.
+
+1121: 11:01:56.14 11:01:59.09  Duration 00:00:02.20  42
+      Je vous jure que je suis
+      rentré au centre juste après.
+
+1122: 11:02:02.19 11:02:05.08  Duration 00:00:02.14  38
+      T'en as pas marre
+      de te foutre de notre gueule?
+
+1123: 11:02:06.03 11:02:06.23  Duration 00:00:00.20  12
+      Pardon?
+
+1124: 11:02:07.02 11:02:09.00  Duration 00:00:01.23  29
+      Je sais que mon boulot
+
+1125: 11:02:09.04 11:02:12.07  Duration 00:00:03.03  47
+      me commande d'écouter
+      n'importe quelle connerie,
+
+1126: 11:02:12.12 11:02:14.12  Duration 00:00:02.00  30
+      mais là, je ne peux plus.
+
+1127: 11:02:14.17 11:02:17.23  Duration 00:00:03.06  49
+      T'as pensé à quoi, au moment
+      où tu croyais clamser, hier?
+
+1128: 11:02:18.03 11:02:20.17  Duration 00:00:02.14  38
+      T'as pensé à Isabelle Giraud,
+      à la petite Léa?
+
+1129: 11:02:20.22 11:02:23.17  Duration 00:00:02.20  42
+      À ce qu'elle ressentait
+      au moment ultime?
+
+1130: 11:02:23.22 11:02:27.10  Duration 00:00:03.13  53
+      Les médecins m'ont dit de les appeler
+      si je me sentais mal.
+
+1131: 11:02:27.15 11:02:28.17  Duration 00:00:01.02  16
+      Vas-y.
+
+1132: 11:02:28.21 11:02:29.16  Duration 00:00:00.20  12
+      Appelle-les.
+
+1133: 11:02:29.21 11:02:33.14  Duration 00:00:03.18  56
+      Et tu joueras ton petit numéro
+      d'enfant maltraité.
+
+1134: 11:02:40.14 11:02:41.09  Duration 00:00:00.20  12
+      Nadia!
+
+1135: 11:02:41.14 11:02:43.10  Duration 00:00:01.21  28
+      -Quoi?
+      -Ça y est.
+
+1136: 11:02:43.14 11:02:46.21  Duration 00:00:03.07  49
+      La compagnie de taxi a retrouvé celui
+      qu'on a pris après la soirée.
+
+1137: 11:02:47.00 11:02:48.10  Duration 00:00:01.10  21
+      Il vient nous chercher.
+
+1138: 11:02:48.15 11:02:51.13  Duration 00:00:02.23  44
+      Je suis pas d'humeur à me remémorer
+      toutes nos frasques.
+
+1139: 11:02:51.18 11:02:53.11  Duration 00:00:01.18  26
+      Ça n'a pas l'air d'aller, toi.
+
+1140: 11:02:53.15 11:02:54.12  Duration 00:00:00.22  13
+      É Rovère?
+
+1141: 11:02:54.16 11:02:56.10  Duration 00:00:01.19  26
+      Sim, pas seulement.
+
+1142: 11:02:56.15 11:02:57.13  Duration 00:00:00.23  14
+      Je suis inquiète.
+
+1143: 11:02:57.17 11:02:59.15  Duration 00:00:01.23  29
+      Il s'implique trop émotionnellement.
+
+1144: 11:02:59.20 11:03:02.11  Duration 00:00:02.16  40
+      J'ai qu'un seul mot à dire: Gégé!
+
+1145: 11:03:02.15 11:03:03.10  Duration 00:00:00.20  12
+      Quoi, Gégé?
+
+1146: 11:03:03.14 11:03:04.09  Duration 00:00:00.20  12
+      Mais Gérard!
+
+1147: 11:03:04.14 11:03:06.00  Duration 00:00:01.11  22
+      Il attend que ça.
+
+1148: 11:03:06.04 11:03:09.03  Duration 00:00:02.24  44
+      Il te faut un mec canon
+      pour te remonter le moral.
+
+1149: 11:03:09.08 11:03:10.05  Duration 00:00:00.22  13
+      Pas un pompier.
+
+1150: 11:03:10.09 11:03:11.21  Duration 00:00:01.12  22
+      Et pourquoi pas?
+
+1151: 11:03:12.00 11:03:13.16  Duration 00:00:01.16  25
+      Le #down dating,# é à la mode.
+
+1152: 11:03:13.21 11:03:16.01  Duration 00:00:02.05  33
+      Le #down dating#?
+
+1153: 11:03:16.06 11:03:17.21  Duration 00:00:01.15  24
+      #Down,# ça veut dire "en bas",
+
+1154: 11:03:18.00 11:03:19.22  Duration 00:00:01.22  28
+      et #dating#, #dating# quoi.
+
+1155: 11:03:20.01 11:03:22.01  Duration 00:00:02.00  30
+      É quand des nanas canon
+      comme toi,
+
+1156: 11:03:22.06 11:03:24.06  Duration 00:00:02.00  30
+      brillantes, sexy, intelligentes,
+
+1157: 11:03:24.11 11:03:26.13  Duration 00:00:02.02  31
+      sortent avec des mecs
+      d'un niveau social moins élevé.
+
+1158: 11:03:26.17 11:03:30.03  Duration 00:00:03.11  52
+      Comme ça, ils leur prennent pas
+      la tête avec des débats intellos.
+
+1159: 11:03:30.07 11:03:32.03  Duration 00:00:01.21  28
+      Le fun, é ce qu'il te faut.
+
+1160: 11:03:32.08 11:03:34.07  Duration 00:00:01.24  29
+      On n'arrête pas le progrès.
+
+1161: 11:03:34.11 11:03:36.10  Duration 00:00:01.24  29
+      Eh não.
+      Tiens, voilà le taxi.
+
+1162: 11:03:36.15 11:03:38.07  Duration 00:00:01.17  25
+      Écoute, Adèle...
+
+1163: 11:03:38.11 11:03:39.21  Duration 00:00:01.10  21
+      Allez, Nadia,
+
+1164: 11:03:40.00 11:03:40.24  Duration 00:00:00.24  14
+      juste 5 minutes.
+
+1165: 11:03:41.04 11:03:43.06  Duration 00:00:02.02  31
+      On va là où il nous a emmenées
+      l'autre soir.
+
+1166: 11:03:43.10 11:03:45.01  Duration 00:00:01.16  25
+      Comme ça, on règle ça.
+
+1167: 11:03:45.06 11:03:46.01  Duration 00:00:00.20  12
+      D'accord.
+
+1168: 11:03:46.05 11:03:48.07  Duration 00:00:02.02  31
+      Cette fille est complètement folle.
+
+1169: 11:03:48.12 11:03:50.00  Duration 00:00:01.13  23
+      En voiture, Simone.
+
+1170: 11:03:50.04 11:03:53.06  Duration 00:00:03.02  46
+      Qu'est-ce qu'elle me fait pas faire.
+      Bonjour!
+
+1171: 11:03:59.23 11:04:02.19  Duration 00:00:02.21  43
+      Un peu que je me souviens,
+      vous étiez déchaînées.
+
+1172: 11:04:02.24 11:04:05.16  Duration 00:00:02.17  40
+      Vous avez failli partir
+      avec le casque de pompier.
+
+1173: 11:04:08.11 11:04:11.05  Duration 00:00:02.19  41
+      Vous bougiez trop,
+      on s'est fait arrêter par les flics.
+
+1174: 11:04:11.10 11:04:14.00  Duration 00:00:02.15  39
+      Vous vous êtes pas démontées.
+      Nadia, é ça?
+
+1175: 11:04:14.05 11:04:16.21  Duration 00:00:02.16  40
+      Sim, mais là,
+      vous voulez parler de ma collègue.
+
+1176: 11:04:17.01 11:04:18.15  Duration 00:00:01.14  23
+      Não, c'était vous.
+
+1177: 11:04:18.20 11:04:20.04  Duration 00:00:01.09  20
+      Vous avez même dit:
+
+1178: 11:04:20.09 11:04:23.00  Duration 00:00:02.16  40
+      "Ce soir,
+      je collectionne les uniformes."
+
+1179: 11:04:23.05 11:04:25.04  Duration 00:00:01.24  29
+      Vous vouliez mettre le képi du flic.
+
+1180: 11:04:25.09 11:04:26.17  Duration 00:00:01.08  20
+      -Mais não!
+      -Si.
+
+1181: 11:04:26.22 11:04:28.14  Duration 00:00:01.17  25
+      Vous voulez voir?
+
+1182: 11:04:28.19 11:04:30.09  Duration 00:00:01.15  24
+      -Voir?
+      -Voir?
+
+1183: 11:04:30.14 11:04:31.16  Duration 00:00:01.02  16
+      Voir quoi?
+
+1184: 11:04:31.21 11:04:33.20  Duration 00:00:01.24  29
+      Depuis que je me suis fait braquer,
+
+1185: 11:04:34.00 11:04:36.10  Duration 00:00:02.10  36
+      j'enregistre tout.
+      Je vous envoie la vidéo?
+
+1186: 11:04:37.03 11:04:38.04  Duration 00:00:01.01  16
+      Ah não.
+
+1187: 11:04:38.09 11:04:40.14  Duration 00:00:02.05  33
+      Vous détruisez ça
+      le plus vite possible.
+
+1188: 11:04:43.00 11:04:45.04  Duration 00:00:02.04  32
+      Vous étiez plus marrante
+      la dernière fois.
+
+1189: 11:04:49.02 11:04:50.00  Duration 00:00:00.23  14
+      Excusez-moi,
+
+1190: 11:04:50.05 11:04:51.13  Duration 00:00:01.08  20
+      mais on tourne pas en rond?
+
+1191: 11:04:51.18 11:04:53.02  Duration 00:00:01.09  20
+      Não, on arrive.
+
+1192: 11:04:54.20 11:04:56.09  Duration 00:00:01.14  23
+      On arrive où? Ici?
+
+1193: 11:04:59.04 11:05:01.07  Duration 00:00:02.03  32
+      Vous vous trompez.
+
+1194: 11:05:01.11 11:05:03.11  Duration 00:00:02.00  30
+      Ah não, je suis sûr.
+
+1195: 11:05:04.09 11:05:05.18  Duration 00:00:01.09  20
+      Vous alliez à une soirée.
+
+1196: 11:05:07.23 11:05:10.06  Duration 00:00:02.08  35
+      Mon Dieu,
+      tu penses à ce que je pense?
+
+1197: 11:05:11.07 11:05:13.07  Duration 00:00:02.00  30
+      La fête du barreau.
+
+1198: 11:05:13.12 11:05:15.17  Duration 00:00:02.05  33
+      Ils viennent tous
+      finir la soirée ici.
+
+1199: 11:05:15.22 11:05:17.20  Duration 00:00:01.23  29
+      Avec tous les juges
+      et tous les avocats.
+
+1200: 11:05:18.00 11:05:19.23  Duration 00:00:01.23  29
+      Tous les magistrats de Paris.
+
+1201: 11:05:20.03 11:05:22.08  Duration 00:00:02.05  33
+      Chaque fois qu'un avocat
+      va me sourire,
+
+1202: 11:05:22.12 11:05:24.13  Duration 00:00:02.01  31
+      je vais imaginer le pire.
+
+1203: 11:05:24.18 11:05:26.18  Duration 00:00:02.00  30
+      Toi, au moins,
+      on sait avec qui t'as couché.
+
+1204: 11:05:29.03 11:05:30.04  Duration 00:00:01.01  16
+      Vous pouvez rouler.
+
+1205: 11:05:30.09 11:05:31.13  Duration 00:00:01.04  17
+      Roulez.
+
+1206: 11:05:33.09 11:05:35.24  Duration 00:00:02.15  39
+      -Mais ça, é ta faute.
+      -Comment ça?
+
+1207: 11:05:36.04 11:05:39.03  Duration 00:00:02.24  44
+      -É toujours ma faute.
+      -Tu m'embarques dans...
+
+1208: 11:05:42.04 11:05:43.04  Duration 00:00:01.00  15
+      Salut.
+
+1209: 11:05:49.05 11:05:50.10  Duration 00:00:01.05  18
+      Sim.
+
+1210: 11:05:50.14 11:05:51.11  Duration 00:00:00.22  13
+      Tu veux me voir?
+
+1211: 11:05:51.16 11:05:52.18  Duration 00:00:01.02  16
+      Ferme la porte.
+
+1212: 11:05:55.18 11:05:57.07  Duration 00:00:01.14  23
+      Dis donc, la tête!
+
+1213: 11:05:59.11 11:06:01.17  Duration 00:00:02.06  34
+      Je crains que tu doives
+
+1214: 11:06:01.22 11:06:03.18  Duration 00:00:01.21  28
+      terminer l'enquête sans moi.
+
+1215: 11:06:04.11 11:06:05.06  Duration 00:00:00.20  12
+      Quoi?
+
+1216: 11:06:06.09 11:06:09.07  Duration 00:00:02.23  44
+      J'ai besoin d'aller
+      humer l'air de la campagne.
+
+1217: 11:06:09.12 11:06:11.07  Duration 00:00:01.20  27
+      Pourquoi?
+      Qu'est-ce qui se passe?
+
+1218: 11:06:11.12 11:06:14.11  Duration 00:00:02.24  44
+      Le procureur a reçu
+      le rapport de la balistique.
+
+1219: 11:06:14.16 11:06:17.10  Duration 00:00:02.19  41
+      Ah sim, pour l'arme
+      qui a tiré sur Vérand, é ça?
+
+1220: 11:06:17.14 11:06:19.12  Duration 00:00:01.23  29
+      Mais toi, tu n'as pas eu le rapport.
+
+1221: 11:06:19.16 11:06:20.19  Duration 00:00:01.03  17
+      Pas besoin de le lire.
+
+1222: 11:06:20.24 11:06:22.05  Duration 00:00:01.06  19
+      É mon arme.
+
+1223: 11:06:24.07 11:06:25.10  Duration 00:00:01.03  17
+      Quoi?
+
+1224: 11:06:26.06 11:06:28.13  Duration 00:00:02.07  34
+      Tu as donné ton arme à Mme Manet?
+
+1225: 11:06:32.15 11:06:35.22  Duration 00:00:03.07  49
+      Je te demande
+      de continuer l'enquête sans moi.
+
+1226: 11:06:36.02 11:06:37.15  Duration 00:00:01.13  23
+      Putain, tu peux me dire
+
+1227: 11:06:37.19 11:06:41.16  Duration 00:00:03.22  58
+      comment Mme Manet s'est retrouvée
+      avec ton flingue dans ses mains?
+
+1228: 11:06:41.21 11:06:45.06  Duration 00:00:03.10  51
+      É le genre de questions
+      que j'ai pas envie qu'on me pose.
+
+1229: 11:06:45.10 11:06:47.16  Duration 00:00:02.06  34
+      Tu lui as donné ton flingue,
+      sim ou não?
+
+1230: 11:06:51.09 11:06:53.08  Duration 00:00:01.24  29
+      Bon. Je t'expliquerai.
+
+1231: 11:06:53.12 11:06:54.11  Duration 00:00:00.24  14
+      Mais, Gabriel...
+
+1232: 11:06:55.15 11:06:56.24  Duration 00:00:01.09  20
+      Entrez.
+
+1233: 11:06:59.09 11:07:01.03  Duration 00:00:01.19  26
+      -Commandant Rovère?
+      -Bonjour.
+
+1234: 11:07:01.08 11:07:02.16  Duration 00:00:01.08  20
+      Bonjour, messieurs.
+
+1235: 11:07:02.21 11:07:05.07  Duration 00:00:02.11  37
+      Capitaine Lornac.
+      On a un mandat d'amener pour vous.
+
+1236: 11:07:06.02 11:07:07.19  Duration 00:00:01.17  25
+      Si vous voulez bien nous suivre.
+
+1237: 11:07:27.06 11:07:28.14  Duration 00:00:01.08  20
+      Sim, M. le procureur?
+
+1238: 11:07:30.04 11:07:31.10  Duration 00:00:01.06  19
+      Quoi?
+
+1239: 11:07:33.13 11:07:34.14  Duration 00:00:01.01  16
+      Mais não.
+
+1240: 11:07:53.24 11:07:56.03  Duration 00:00:02.04  32
+      On a vérifié 3 fois
+      les stries sur la balle,
+
+1241: 11:07:56.07 11:07:57.20  Duration 00:00:01.13  23
+      il n'y a pas d'erreur possible.
+
+1242: 11:07:59.09 11:08:02.00  Duration 00:00:02.16  40
+      Je plaide la négligence.
+
+1243: 11:08:03.17 11:08:04.12  Duration 00:00:00.20  12
+      "La négligence"?
+
+1244: 11:08:04.17 11:08:07.19  Duration 00:00:03.02  46
+      J'ai toujours eu peur
+      des armes à feu,
+
+1245: 11:08:07.24 11:08:11.12  Duration 00:00:03.13  53
+      et j'ai, avec mon arme,
+      une relation assez distante,
+
+1246: 11:08:11.16 11:08:13.02  Duration 00:00:01.11  22
+      et...
+
+1247: 11:08:13.07 11:08:16.08  Duration 00:00:03.01  46
+      Donc je pense qu'elle a pu
+
+1248: 11:08:16.13 11:08:19.09  Duration 00:00:02.21  43
+      saisir l'occasion de se faire enlever
+      par quelqu'un
+
+1249: 11:08:19.13 11:08:21.11  Duration 00:00:01.23  29
+      de plus attentionné.
+
+1250: 11:08:26.22 11:08:29.01  Duration 00:00:02.04  32
+      À l'heure où Vérand
+      se faisait tirer dessus,
+
+1251: 11:08:29.05 11:08:32.07  Duration 00:00:03.02  46
+      votre téléphone a activé une borne
+      toute proche du CEF.
+
+1252: 11:08:32.11 11:08:33.06  Duration 00:00:00.20  12
+      Tiens donc.
+
+1253: 11:08:33.11 11:08:35.24  Duration 00:00:02.13  38
+      Là aussi,
+      vous plaidez la négligence?
+
+1254: 11:08:36.03 11:08:38.14  Duration 00:00:02.11  37
+      Vous avez une relation distante
+      avec votre téléphone?
+
+1255: 11:08:38.19 11:08:41.02  Duration 00:00:02.08  35
+      É-à-dire que...
+
+1256: 11:08:42.01 11:08:47.21  Duration 00:00:05.20  87
+      je mets mon téléphone portable
+      dans le même tiroir que mon arme.
+
+1257: 11:08:48.00 11:08:50.06  Duration 00:00:02.06  34
+      Ceci explique sûrement cela, não?
+
+1258: 11:08:51.14 11:08:53.23  Duration 00:00:02.09  35
+      "Si on ne fait rien, il recommencera.
+
+1259: 11:08:54.03 11:08:56.07  Duration 00:00:02.04  32
+      "Il aime ça, é sa passion."
+
+1260: 11:08:56.12 11:08:58.07  Duration 00:00:01.20  27
+      É vous qui avez dit ça
+      sur Vérand?
+
+1261: 11:08:59.24 11:09:01.13  Duration 00:00:01.14  23
+      É le témoignage de Me Binet.
+
+1262: 11:09:01.18 11:09:04.11  Duration 00:00:02.18  41
+      Il vous a entendu parler
+      à la juge Lintz.
+
+1263: 11:09:04.16 11:09:05.21  Duration 00:00:01.05  18
+      Vous avez bien dit ça?
+
+1264: 11:09:06.00 11:09:08.07  Duration 00:00:02.07  34
+      Sim. Não. Je sais pas.
+
+1265: 11:09:08.12 11:09:10.00  Duration 00:00:01.13  23
+      Il faut demander à la juge Lintz.
+
+1266: 11:09:13.08 11:09:14.16  Duration 00:00:01.08  20
+      Vous savez,
+
+1267: 11:09:14.21 11:09:17.12  Duration 00:00:02.16  40
+      ça fait un petit moment
+      que j'entends parler de vous.
+
+1268: 11:09:17.17 11:09:20.04  Duration 00:00:02.12  37
+      É beaucoup d'honneur.
+
+1269: 11:09:20.09 11:09:22.19  Duration 00:00:02.10  36
+      Vous êtes un flic désabusé,
+      en fin de carrière,
+
+1270: 11:09:22.24 11:09:25.20  Duration 00:00:02.21  43
+      vous n'en faites qu'à votre tête.
+
+1271: 11:09:25.24 11:09:28.14  Duration 00:00:02.15  39
+      Vous tombez sur une femme
+      qui vous touche,
+
+1272: 11:09:28.19 11:09:30.21  Duration 00:00:02.02  31
+      et peut-être plus, si affinités.
+
+1273: 11:09:31.00 11:09:33.11  Duration 00:00:02.11  37
+      Elle veut que les crimes de Vérand
+      soient punis.
+
+1274: 11:09:33.15 11:09:35.06  Duration 00:00:01.16  25
+      Vous voulez l'aider, alors...
+
+1275: 11:09:37.12 11:09:40.01  Duration 00:00:02.14  38
+      autant partir sur un coup d'éclat.
+
+1276: 11:09:40.05 11:09:41.21  Duration 00:00:01.16  25
+      Vous n'avez plus rien à perdre.
+
+1277: 11:09:42.01 11:09:44.05  Duration 00:00:02.04  32
+      É une très jolie histoire.
+
+1278: 11:09:44.10 11:09:46.13  Duration 00:00:02.03  32
+      Vous savez ce que je pense?
+
+1279: 11:09:46.18 11:09:48.13  Duration 00:00:01.20  27
+      Je vous en prie, s'il vous plaît.
+
+1280: 11:09:48.17 11:09:53.03  Duration 00:00:04.11  67
+      La profondeur de vos pensées
+      me donne le vertige.
+
+1281: 11:09:53.08 11:09:55.17  Duration 00:00:02.09  35
+      Vous avez donné votre arme
+      à Laurence Manet.
+
+1282: 11:09:55.21 11:09:57.11  Duration 00:00:01.15  24
+      É pour ça que Nolan l'a vue
+
+1283: 11:09:57.16 11:09:58.24  Duration 00:00:01.08  20
+      cacher le pistolet.
+
+1284: 11:09:59.03 11:10:01.10  Duration 00:00:02.07  34
+      Mais au dernier moment,
+      elle se sent pas la force.
+
+1285: 11:10:01.15 11:10:04.06  Duration 00:00:02.16  40
+      Elle vous téléphone
+      pour que vous veniez l'aider,
+
+1286: 11:10:04.11 11:10:06.09  Duration 00:00:01.23  29
+      et é vous qui avez tiré
+      sur Cédric.
+
+1287: 11:10:06.14 11:10:08.01  Duration 00:00:01.12  22
+      Et je le rate.
+
+1288: 11:10:08.05 11:10:09.00  Duration 00:00:00.20  12
+      Caramba!
+
+1289: 11:10:10.01 11:10:11.05  Duration 00:00:01.04  17
+      Faites voir vos mains.
+
+1290: 11:10:12.21 11:10:14.20  Duration 00:00:01.24  29
+      Mettez vos mains à plat
+      sur la table.
+
+1291: 11:10:16.14 11:10:17.09  Duration 00:00:00.20  12
+      Comme ça?
+
+1292: 11:10:21.06 11:10:22.08  Duration 00:00:01.02  16
+      Sim, vous le ratez.
+
+1293: 11:10:22.13 11:10:23.17  Duration 00:00:01.04  17
+      De pas grand-chose.
+
+1294: 11:10:25.11 11:10:27.22  Duration 00:00:02.11  37
+      Mais ça suffit
+      pour ne pas toucher le cœur.
+
+1295: 11:10:33.14 11:10:35.05  Duration 00:00:01.16  25
+      Il vous raccompagne en cellule.
+
+1296: 11:10:52.21 11:10:54.06  Duration 00:00:01.10  21
+      Madame la juge.
+
+1297: 11:10:56.22 11:11:00.21  Duration 00:00:03.24  59
+      Il croit à la culpabilité de Cédric,
+      mais il va pas lui tirer dessus.
+
+1298: 11:11:01.00 11:11:02.14  Duration 00:00:01.14  23
+      É un flic.
+
+1299: 11:11:02.18 11:11:03.24  Duration 00:00:01.06  19
+      Un très bon flic.
+
+1300: 11:11:04.23 11:11:06.15  Duration 00:00:01.17  25
+      Je vous en prie, madame la juge. 
+
+1301: 11:11:11.02 11:11:11.22  Duration 00:00:00.20  12
+      Asseyez-vous.
+
+1302: 11:11:15.10 11:11:18.04  Duration 00:00:02.19  41
+      Comment qualifieriez-vous
+      sa personnalité?
+
+1303: 11:11:18.09 11:11:19.13  Duration 00:00:01.04  17
+      Fiable
+
+1304: 11:11:19.18 11:11:21.09  Duration 00:00:01.16  25
+      et lucide.
+
+1305: 11:11:21.14 11:11:25.06  Duration 00:00:03.17  55
+      On m'a pourtant mentionné
+      des absences inopinées au travail,
+
+1306: 11:11:25.10 11:11:27.24  Duration 00:00:02.14  38
+      des comportements inappropriés
+      avec des témoins.
+
+1307: 11:11:28.04 11:11:31.23  Duration 00:00:03.19  56
+      On peut dire qu'il a des méthodes
+      assez hétérodoxes.
+
+1308: 11:11:32.03 11:11:34.16  Duration 00:00:02.13  38
+      Mais ça s'appelle
+      du professionnalisme.
+
+1309: 11:11:34.20 11:11:36.15  Duration 00:00:01.20  27
+      -Il est alcoolique?
+      -Não.
+
+1310: 11:11:37.05 11:11:39.14  Duration 00:00:02.09  35
+      Il boit, comme vous et moi.
+
+1311: 11:11:39.19 11:11:41.22  Duration 00:00:02.03  32
+      Mais ça ne fait pas de nous
+      des alcooliques.
+
+1312: 11:11:42.02 11:11:44.09  Duration 00:00:02.07  34
+      Il lui arrive d'être saoul
+      à son travail?
+
+1313: 11:11:44.14 11:11:46.07  Duration 00:00:01.18  26
+      Je ne l'ai jamais constaté.
+
+1314: 11:11:48.03 11:11:51.19  Duration 00:00:03.16  55
+      Désolé, mais le commandant Rovère
+      n'a pas l'air d'un flic exemplaire.
+
+1315: 11:11:51.24 11:11:54.02  Duration 00:00:02.03  32
+      Não, je n'ai pas dit "exemplaire".
+
+1316: 11:11:54.06 11:11:56.19  Duration 00:00:02.13  38
+      J'ai dit un bon flic,
+      si ce n'est le meilleur.
+
+1317: 11:11:57.21 11:12:00.08  Duration 00:00:02.12  37
+      Pourquoi avoir demandé à changer
+      d'enquêteurs?
+
+1318: 11:12:03.22 11:12:07.21  Duration 00:00:03.24  59
+      Vous vous êtes renseignée
+      sur les groupes PJ disponibles.
+
+1319: 11:12:09.21 11:12:11.14  Duration 00:00:01.18  26
+      Simple mesure de prudence.
+
+1320: 11:12:11.19 11:12:14.11  Duration 00:00:02.17  40
+      Je le fais quand les enquêtes
+      sont compliquées,
+
+1321: 11:12:14.15 11:12:15.20  Duration 00:00:01.05  18
+      et é le cas.
+
+1322: 11:12:16.00 11:12:18.16  Duration 00:00:02.16  40
+      Mobiliser deux groupes PJ
+      sur un simple homicide?
+
+1323: 11:12:18.21 11:12:19.20  Duration 00:00:00.24  14
+      Sim.
+
+1324: 11:12:21.08 11:12:22.05  Duration 00:00:00.22  13
+      Je vous remercie.
+
+1325: 11:12:22.10 11:12:24.08  Duration 00:00:01.23  29
+      Ça sera tout, pour le moment.
+
+1326: 11:12:24.12 11:12:25.16  Duration 00:00:01.04  17
+      #Françoise,#
+
+1327: 11:12:25.21 11:12:28.11  Duration 00:00:02.15  39
+      je ne peux pas aller chercher
+      les enfants, je travaille.
+
+1328: 11:12:30.07 11:12:31.23  Duration 00:00:01.16  25
+      Je dois raccrocher.
+
+1329: 11:12:34.15 11:12:35.10  Duration 00:00:00.20  12
+      Alors?
+
+1330: 11:12:37.03 11:12:38.08  Duration 00:00:01.05  18
+      É mal barré.
+
+1331: 11:12:39.04 11:12:40.20  Duration 00:00:01.16  25
+      Ils n'instruisent qu'à charge.
+
+1332: 11:12:41.20 11:12:43.05  Duration 00:00:01.10  21
+      Ils le lâcheront pas.
+
+1333: 11:12:45.11 11:12:47.03  Duration 00:00:01.17  25
+      Et vous, ça va?
+
+1334: 11:12:50.09 11:12:51.09  Duration 00:00:01.00  15
+      Tudo bem.
+
+1335: 11:12:59.22 11:13:02.14  Duration 00:00:02.17  40
+      J'ai l'impression
+      que je l'ai encore plus enfoncé.
+
+1336: 11:13:03.05 11:13:04.19  Duration 00:00:01.14  23
+      Mais não, madame la juge.
+
+1337: 11:13:04.23 11:13:07.09  Duration 00:00:02.11  37
+      Vous avez fait le maximum,
+      j'en suis sûr.
+
+1338: 11:13:14.03 11:13:17.09  Duration 00:00:03.06  49
+      J'aurais jamais dû laisser Rovère
+      enquêter sur cette affaire.
+
+1339: 11:13:19.22 11:13:21.23  Duration 00:00:02.01  31
+      On ne pouvait pas savoir.
+
+1340: 11:13:22.21 11:13:25.08  Duration 00:00:02.12  37
+      On croit toujours qu'il va maîtriser,
+
+1341: 11:13:25.12 11:13:26.15  Duration 00:00:01.03  17
+      et des fois...
+
+1342: 11:13:26.19 11:13:28.01  Duration 00:00:01.07  19
+      Ça dérape.
+
+1343: 11:13:37.16 11:13:40.07  Duration 00:00:02.16  40
+      Je voulais vous prévenir que
+      vous allez être auditionné demain.
+
+1344: 11:13:41.04 11:13:43.04  Duration 00:00:02.00  30
+      Fallait pas vous donner cette peine.
+
+1345: 11:13:43.09 11:13:46.06  Duration 00:00:02.22  43
+      Un petit coup de téléphone,
+      ça suffisait.
+
+1346: 11:13:47.14 11:13:50.21  Duration 00:00:03.07  49
+      Et puis je crois que j'ai pas
+      grand-chose à vous dire.
+
+1347: 11:13:53.01 11:13:56.02  Duration 00:00:03.01  46
+      Vous n'en avez pas marre
+      d'être le larbin d'un alcoolique?
+
+1348: 11:13:57.16 11:14:00.18  Duration 00:00:03.02  46
+      J'ai regardé votre dossier.
+      15 ans comme lieutenant...
+
+1349: 11:14:00.22 11:14:02.18  Duration 00:00:01.21  28
+      Il serait temps de diriger
+      un groupe crim.
+
+1350: 11:14:03.17 11:14:07.06  Duration 00:00:03.14  53
+      Attendez, vous me prenez pour qui
+      ou pour quoi?
+
+1351: 11:14:07.10 11:14:09.09  Duration 00:00:01.24  29
+      Pour un traître?
+      Une balance?
+
+1352: 11:14:10.19 11:14:13.13  Duration 00:00:02.19  41
+      Je veux que vous sachiez
+      que votre patron va tomber.
+
+1353: 11:14:13.18 11:14:16.23  Duration 00:00:03.05  48
+      Il n'a aucune chance,
+      il a trop de casseroles au cul...
+
+1354: 11:14:17.03 11:14:20.23  Duration 00:00:03.20  57
+      É à vous de voir s'il va tomber
+      avec vous ou sans vous.
+
+1355: 11:14:27.07 11:14:28.04  Duration 00:00:00.22  13
+      Foutez le camp.
+
+1356: 11:14:30.15 11:14:33.15  Duration 00:00:03.00  45
+      À votre place, je me mettrais
+      du bon côté de la barrière.
+
+1357: 11:14:33.20 11:14:36.00  Duration 00:00:02.05  33
+      Je vous ai demandé quelque chose, là.
+
+1358: 11:14:36.04 11:14:38.22  Duration 00:00:02.18  41
+      Je viens de vous demander
+      de foutre le camp.
+
+1359: 11:14:39.23 11:14:41.04  Duration 00:00:01.06  19
+      Réfléchissez.
+
+1360: 11:14:42.11 11:14:45.00  Duration 00:00:02.14  38
+      Il va bientôt y avoir besoin
+      d'un nouveau patron.
+
+1361: 11:14:47.15 11:14:49.11  Duration 00:00:01.21  28
+      À demain, lieutenant.
+
+1362: 11:14:59.12 11:15:01.13  Duration 00:00:02.01  31
+      Tu vois bien que ce type
+      nous manipule.
+
+1363: 11:15:02.11 11:15:04.18  Duration 00:00:02.07  34
+      Parce qu'il est venu te parler
+      à toi aussi?
+
+1364: 11:15:04.23 11:15:06.11  Duration 00:00:01.13  23
+      Il a fait tout le service.
+
+1365: 11:15:07.23 11:15:09.15  Duration 00:00:01.17  25
+      Tu vas faire ce que dit ce mec?
+
+1366: 11:15:09.19 11:15:12.01  Duration 00:00:02.07  34
+      Tudo bem pas?
+      J'en ai rien à foutre, de ce mec.
+
+1367: 11:15:12.06 11:15:14.12  Duration 00:00:02.06  34
+      Moi, é le patron qui m'inquiète.
+
+1368: 11:15:14.16 11:15:16.04  Duration 00:00:01.13  23
+      Il pouvait me causer,
+
+1369: 11:15:16.08 11:15:17.18  Duration 00:00:01.10  21
+      mais il a rien voulu dire.
+
+1370: 11:15:17.22 11:15:20.11  Duration 00:00:02.14  38
+      Un peu comme quelqu'un
+      qui se sent coupable.
+
+1371: 11:15:20.15 11:15:23.03  Duration 00:00:02.13  38
+      -Ça te trouble?
+      -Bien sûr.
+
+1372: 11:15:26.17 11:15:30.13  Duration 00:00:03.21  58
+      T'as jamais envisagé
+      qu'il faisait ça pour te protéger?
+
+1373: 11:15:32.14 11:15:36.06  Duration 00:00:03.17  55
+      É vrai que j'ai jamais envisagé
+      les choses sous cet angle.
+
+1374: 11:15:37.09 11:15:38.11  Duration 00:00:01.02  16
+      É vrai.
+
+1375: 11:15:39.16 11:15:43.02  Duration 00:00:03.11  52
+      Écoute, toi et Rovère,
+      vous êtes pas mes potes.
+
+1376: 11:15:43.07 11:15:46.19  Duration 00:00:03.12  52
+      Mais je ne me ferai pas manipuler
+      par les bœuf-carottes.
+
+1377: 11:15:46.24 11:15:48.14  Duration 00:00:01.15  24
+      Moi não plus, enfin.
+
+1378: 11:15:48.18 11:15:52.01  Duration 00:00:03.08  50
+      Mais sur le patron,
+      ils ont un dossier qui fait 10 kg.
+
+1379: 11:15:52.05 11:15:54.10  Duration 00:00:02.05  33
+      La balistique, ça prouve quoi?
+
+1380: 11:15:54.15 11:15:56.11  Duration 00:00:01.21  28
+      Qui te dit qu'on lui a pas volé
+      son flingue?
+
+1381: 11:15:56.16 11:15:57.23  Duration 00:00:01.07  19
+      É une théorie,
+
+1382: 11:15:58.02 11:16:00.04  Duration 00:00:02.02  31
+      mais j'imagine pas
+      un seul juge au monde
+
+1383: 11:16:00.08 11:16:02.02  Duration 00:00:01.19  26
+      qui voudrait l'accepter.
+
+1384: 11:16:02.22 11:16:03.23  Duration 00:00:01.01  16
+      Viens.
+
+1385: 11:16:04.18 11:16:05.13  Duration 00:00:00.20  12
+      Viens.
+
+1386: 11:16:27.02 11:16:28.10  Duration 00:00:01.08  20
+      Madame Manet,
+
+1387: 11:16:28.15 11:16:30.14  Duration 00:00:01.24  29
+      Rovère vous a demandé de rien dire.
+
+1388: 11:16:30.18 11:16:32.18  Duration 00:00:02.00  30
+      Mais si on fait rien,
+      il va tomber.
+
+1389: 11:16:32.22 11:16:34.07  Duration 00:00:01.10  21
+      É ça que vous voulez?
+
+1390: 11:16:34.12 11:16:36.13  Duration 00:00:02.01  31
+      Je n'ai pas tiré sur Cédric Vérand.
+
+1391: 11:16:36.18 11:16:39.19  Duration 00:00:03.01  46
+      Alors il va falloir
+      nous expliquer plus de choses,
+
+1392: 11:16:39.23 11:16:41.01  Duration 00:00:01.03  17
+      nous expliquer tout.
+
+1393: 11:16:43.09 11:16:44.12  Duration 00:00:01.03  17
+      D'accord.
+
+1394: 11:16:45.22 11:16:47.19  Duration 00:00:01.22  28
+      É moi qui ai volé son pistolet.
+
+1395: 11:16:57.14 11:17:00.08  Duration 00:00:02.19  41
+      #Je venais d'apprendre#
+      #que Vérand allait être relâché.#
+
+1396: 11:17:01.02 11:17:03.07  Duration 00:00:02.05  33
+      #Il allait encore s'en sortir.#
+
+1397: 11:17:04.13 11:17:06.10  Duration 00:00:01.22  28
+      #Je pouvais pas le supporter.#
+
+1398: 11:17:09.06 11:17:11.11  Duration 00:00:02.05  33
+      #J'ai vu son arme dans un tiroir.#
+
+1399: 11:17:19.07 11:17:20.17  Duration 00:00:01.10  21
+      #C'était tellement facile.#
+
+1400: 11:17:29.02 11:17:31.18  Duration 00:00:02.16  40
+      #J'ai passé la nuit à me demander#
+      #ce que j'allais faire.#
+
+1401: 11:17:31.23 11:17:33.11  Duration 00:00:01.13  23
+      #J'ai cru que j'allais devenir folle.#
+
+1402: 11:17:46.22 11:17:49.21  Duration 00:00:02.24  44
+      #J'ai fini par comprendre#
+      #que j'en étais pas capable.#
+
+1403: 11:18:01.05 11:18:04.05  Duration 00:00:03.00  45
+      #Le commandant Rovère#
+      #est arrivé une demi-heure plus tard.#
+
+1404: 11:18:09.16 11:18:11.17  Duration 00:00:02.01  31
+      Qu'est-ce que vous voulez
+      que je fasse?
+
+1405: 11:18:14.10 11:18:17.11  Duration 00:00:03.01  46
+      Je suis incapable
+      de répondre à cette question.
+
+1406: 11:18:23.08 11:18:25.05  Duration 00:00:01.22  28
+      Vous, vous avez assez bu.
+
+1407: 11:18:32.09 11:18:34.12  Duration 00:00:02.03  32
+      #"Apprivoiser l'absence#
+
+1408: 11:18:34.17 11:18:36.15  Duration 00:00:01.23  29
+      #"et faire son deuil."#
+
+1409: 11:18:38.12 11:18:40.19  Duration 00:00:02.07  34
+      Ce sont des gens
+      qui ont jamais perdu d'enfants
+
+1410: 11:18:40.23 11:18:43.08  Duration 00:00:02.10  36
+      qui vous expliquent
+      comment il faut faire.
+
+1411: 11:18:49.01 11:18:51.02  Duration 00:00:02.01  31
+      Faire son deuil,
+
+1412: 11:18:51.06 11:18:52.22  Duration 00:00:01.16  25
+      é un truc moderne.
+
+1413: 11:18:54.13 11:18:57.14  Duration 00:00:03.01  46
+      Aujourd'hui, il faut faire son deuil
+      parce que...
+
+1414: 11:18:57.18 11:19:00.23  Duration 00:00:03.05  48
+      on divorce,
+      parce qu'on est licencié.
+
+1415: 11:19:01.03 11:19:03.10  Duration 00:00:02.07  34
+      Bientôt il faudra faire son deuil
+
+1416: 11:19:03.15 11:19:06.07  Duration 00:00:02.17  40
+      parce qu'on est allergique au gluten.
+
+1417: 11:19:07.11 11:19:09.07  Duration 00:00:01.21  28
+      La vérité, é que...
+
+1418: 11:19:11.15 11:19:13.16  Duration 00:00:02.01  31
+      on essaye de survivre,
+
+1419: 11:19:13.20 11:19:14.21  Duration 00:00:01.01  16
+      é tout.
+
+1420: 11:19:18.03 11:19:19.13  Duration 00:00:01.10  21
+      On essaye.
+
+1421: 11:19:22.14 11:19:23.20  Duration 00:00:01.06  19
+      Sim.
+
+1422: 11:19:24.20 11:19:27.22  Duration 00:00:03.02  46
+      En aidant des jeunes délinquants,
+      par exemple.
+
+1423: 11:19:31.00 11:19:33.05  Duration 00:00:02.05  33
+      Vérand, il s'en sortira jamais.
+
+1424: 11:19:33.22 11:19:35.10  Duration 00:00:01.13  23
+      Il a ça en lui.
+
+1425: 11:19:36.04 11:19:38.06  Duration 00:00:02.02  31
+      É pas en tuant Vérand
+
+1426: 11:19:38.10 11:19:40.10  Duration 00:00:02.00  30
+      que vous allez retrouver votre fille.
+
+1427: 11:19:42.02 11:19:43.09  Duration 00:00:01.07  19
+      Je sais.
+
+1428: 11:19:44.16 11:19:45.18  Duration 00:00:01.02  16
+      Alors...
+
+1429: 11:19:46.14 11:19:48.16  Duration 00:00:02.02  31
+      je ramène mon flingue,
+
+1430: 11:19:48.21 11:19:50.11  Duration 00:00:01.15  24
+      et puis...
+
+1431: 11:19:51.10 11:19:52.08  Duration 00:00:00.23  14
+      on oublie.
+
+1432: 11:19:53.19 11:19:54.23  Duration 00:00:01.04  17
+      D'accord?
+
+1433: 11:20:07.00 11:20:08.20  Duration 00:00:01.20  27
+      #Ça venait des dortoirs.#
+
+1434: 11:20:10.10 11:20:12.06  Duration 00:00:01.21  28
+      #J'ai tout de suite compris.#
+
+1435: 11:20:19.23 11:20:21.17  Duration 00:00:01.19  26
+      Venez.
+      Venez, s'il vous plaît.
+
+1436: 11:20:44.23 11:20:45.21  Duration 00:00:00.23  14
+      Hé!
+
+1437: 11:20:46.01 11:20:49.10  Duration 00:00:03.09  50
+      Vérand s'est fait tirer dessus.
+      Appelle les secours, vite.
+
+1438: 11:20:50.24 11:20:52.19  Duration 00:00:01.20  27
+      Vous aviez l'arme, le mobile,
+
+1439: 11:20:52.24 11:20:54.17  Duration 00:00:01.18  26
+      et vous étiez sur place.
+
+1440: 11:20:54.22 11:20:56.14  Duration 00:00:01.17  25
+      Il m'a demandé de ne rien dire
+
+1441: 11:20:56.18 11:20:59.00  Duration 00:00:02.07  34
+      et il est sorti
+      par la porte de secours.
+
+1442: 11:20:59.18 11:21:03.06  Duration 00:00:03.13  53
+      Il voulait savoir qui avait fait ça
+      avant les résultats de la balistique.
+
+1443: 11:21:03.11 11:21:05.24  Duration 00:00:02.13  38
+      Qui pouvait savoir
+
+1444: 11:21:06.04 11:21:08.05  Duration 00:00:02.01  31
+      où se trouvait ce fameux flingue?
+
+1445: 11:21:12.05 11:21:13.12  Duration 00:00:01.07  19
+      Nom de Dieu.
+
+1446: 11:21:19.07 11:21:23.05  Duration 00:00:03.23  59
+      Mais t'as dû te sentir un peu seul,
+      quand Melki est parti, não?
+
+1447: 11:21:23.09 11:21:26.08  Duration 00:00:02.24  44
+      Si on regarde, y avait plus personne
+      pour te protéger.
+
+1448: 11:21:27.07 11:21:31.12  Duration 00:00:04.05  63
+      T'as peut-être eu peur que Vérand
+      recommence à te faire des misères.
+
+1449: 11:21:31.17 11:21:34.10  Duration 00:00:02.18  41
+      É pas toi qui as pris l'arme
+      pour te protéger?
+
+1450: 11:21:34.15 11:21:36.17  Duration 00:00:02.02  31
+      É pas toi qui as tiré
+      sur Vérand?
+
+1451: 11:21:36.21 11:21:37.16  Duration 00:00:00.20  12
+      Não.
+
+1452: 11:21:37.21 11:21:40.21  Duration 00:00:03.00  45
+      Je suis resté dans ma chambre
+      et j'ai pas touché à cette arme.
+
+1453: 11:21:41.01 11:21:42.08  Duration 00:00:01.07  19
+      T'en as parlé à quelqu'un?
+
+1454: 11:21:42.13 11:21:44.23  Duration 00:00:02.10  36
+      Não. J'en ai parlé à personne.
+
+1455: 11:21:50.08 11:21:51.10  Duration 00:00:01.02  16
+      É pas lui.
+
+1456: 11:21:51.15 11:21:53.07  Duration 00:00:01.17  25
+      Bien sûr que é pas lui.
+
+1457: 11:21:53.11 11:21:55.17  Duration 00:00:02.06  34
+      Il a trop peur de parler.
+
+1458: 11:21:55.22 11:21:58.23  Duration 00:00:03.01  46
+      Aux yeux des copains,
+      il passerait pour une balance.
+
+1459: 11:22:00.19 11:22:02.06  Duration 00:00:01.12  22
+      #Nolan est le seul au centre#
+
+1460: 11:22:02.11 11:22:04.18  Duration 00:00:02.07  34
+      qui connaissait l'existence
+      de ce pistolet.
+
+1461: 11:22:05.16 11:22:07.14  Duration 00:00:01.23  29
+      Vous avez des preuves contre lui?
+
+1462: 11:22:07.18 11:22:10.01  Duration 00:00:02.08  35
+      On a fouillé sa chambre,
+      on n'a rien trouvé.
+
+1463: 11:22:10.06 11:22:12.05  Duration 00:00:01.24  29
+      Mais je suis sûre
+      qu'il sait quelque chose.
+
+1464: 11:22:12.09 11:22:13.06  Duration 00:00:00.22  13
+      Faites-le parler.
+
+1465: 11:22:13.11 11:22:17.03  Duration 00:00:03.17  55
+      Sinon, je serai obligé de poursuivre
+      le commandant Rovère et Laurence
+
+1466: 11:22:17.08 11:22:18.10  Duration 00:00:01.02  16
+      pour homicide.
+
+1467: 11:22:18.14 11:22:20.11  Duration 00:00:01.22  28
+      Mais vous ne pouvez pas imaginer...
+
+1468: 11:22:22.00 11:22:23.06  Duration 00:00:01.06  19
+      Je suis désolé.
+
+1469: 11:22:23.11 11:22:27.05  Duration 00:00:03.19  56
+      Le témoignage de Laurence Manet
+      n'est pas recevable.
+
+1470: 11:22:27.09 11:22:30.15  Duration 00:00:03.06  49
+      Sans parler du comportement
+      inadmissible du commandant Rovère.
+
+1471: 11:22:30.20 11:22:33.02  Duration 00:00:02.07  34
+      Très bien, monsieur le procureur.
+
+1472: 11:22:33.07 11:22:34.22  Duration 00:00:01.15  24
+      Madame la juge!
+
+1473: 11:22:35.01 11:22:35.21  Duration 00:00:00.20  12
+      Sim?
+
+1474: 11:22:36.13 11:22:38.07  Duration 00:00:01.19  26
+      Ça devait finir par arriver.
+
+1475: 11:22:38.11 11:22:41.03  Duration 00:00:02.17  40
+      Nous avons protégé Rovère
+      beaucoup trop longtemps.
+
+1476: 11:22:47.17 11:22:49.01  Duration 00:00:01.09  20
+      Qu'est-ce qu'elle fiche?
+
+1477: 11:22:51.08 11:22:52.04  Duration 00:00:00.21  13
+      Qui ça?
+
+1478: 11:22:52.09 11:22:53.15  Duration 00:00:01.06  19
+      Mlle Lafleur.
+
+1479: 11:22:53.19 11:22:55.18  Duration 00:00:01.24  29
+      On a rendez-vous,
+      et elle va au café.
+
+1480: 11:22:55.23 11:22:57.05  Duration 00:00:01.07  19
+      Ça, é un peu fort.
+
+1481: 11:22:58.05 11:22:59.08  Duration 00:00:01.03  17
+      Peut-être que...
+
+1482: 11:22:59.13 11:23:02.05  Duration 00:00:02.17  40
+      É un peu fort de café,
+      é le cas de le dire.
+
+1483: 11:23:12.02 11:23:12.22  Duration 00:00:00.20  12
+      Bonsoir.
+
+1484: 11:23:14.21 11:23:17.07  Duration 00:00:02.11  37
+      -Sim, bonsoir.
+      -Excusez-moi.
+
+1485: 11:23:17.12 11:23:19.17  Duration 00:00:02.05  33
+      Est-ce que vous me reconnaissez?
+
+1486: 11:23:23.06 11:23:25.15  Duration 00:00:02.09  35
+      -Ah sim, é vous.
+      -Sim, é moi.
+
+1487: 11:23:28.23 11:23:31.14  Duration 00:00:02.16  40
+      En fait, je cherche un homme
+
+1488: 11:23:31.18 11:23:32.24  Duration 00:00:01.06  19
+      qui...
+
+1489: 11:23:33.03 11:23:34.24  Duration 00:00:01.21  28
+      Comment dire?
+
+1490: 11:23:35.04 11:23:37.06  Duration 00:00:02.02  31
+      Avec qui j'aurais pu
+      éventuellement...
+
+1491: 11:23:38.21 11:23:40.19  Duration 00:00:01.23  29
+      É le moment
+      de prendre un verre?
+
+1492: 11:23:40.24 11:23:42.13  Duration 00:00:01.14  23
+      Não, pas du tout.
+
+1493: 11:23:42.18 11:23:44.06  Duration 00:00:01.13  23
+      J'étais pas du tout...
+
+1494: 11:23:44.11 11:23:45.14  Duration 00:00:01.03  17
+      J'arrive tout de suite.
+
+1495: 11:23:45.19 11:23:46.14  Duration 00:00:00.20  12
+      Monsieur!
+
+1496: 11:23:46.18 11:23:48.19  Duration 00:00:02.01  31
+      Tout de suite, mademoiselle Lafleur.
+
+1497: 11:23:53.05 11:23:54.20  Duration 00:00:01.15  24
+      Éric, vous avez des nouvelles
+
+1498: 11:23:55.00 11:23:57.06  Duration 00:00:02.06  34
+      de la montre
+      que j'ai perdue l'autre soir?
+
+1499: 11:23:57.10 11:23:59.05  Duration 00:00:01.20  27
+      Não, désolé, monsieur.
+
+1500: 11:23:59.09 11:24:00.20  Duration 00:00:01.11  22
+      Ah bon. Merci.
+
+1501: 11:24:02.03 11:24:04.09  Duration 00:00:02.06  34
+      Allez, mademoiselle Lafleur,
+      on se dépêche.
+
+1502: 11:24:05.18 11:24:07.05  Duration 00:00:01.12  22
+      Après vous.
+
+1503: 11:24:15.12 11:24:17.06  Duration 00:00:01.19  26
+      Il y a un problème,
+      M. le procureur?
+
+1504: 11:24:17.10 11:24:19.09  Duration 00:00:01.24  29
+      -Vous étiez à la soirée du barreau?
+      -Não.
+
+1505: 11:24:20.01 11:24:21.17  Duration 00:00:01.16  25
+      En fait, je pouvais pas:
+
+1506: 11:24:21.21 11:24:24.20  Duration 00:00:02.24  44
+      la juge Lintz m'avait invitée
+      à une autre soirée.
+
+1507: 11:24:25.11 11:24:27.13  Duration 00:00:02.02  31
+      Ah sim, é vrai.
+
+1508: 11:24:27.18 11:24:29.01  Duration 00:00:01.08  20
+      Ma mémoire me joue des tours.
+
+1509: 11:24:29.06 11:24:30.04  Duration 00:00:00.23  14
+      Je vous en prie.
+
+1510: 11:24:30.09 11:24:31.07  Duration 00:00:00.23  14
+      Merci.
+
+1511: 11:24:44.09 11:24:46.03  Duration 00:00:01.19  26
+      #"Je ne regarderai#
+
+1512: 11:24:46.07 11:24:48.10  Duration 00:00:02.03  32
+      #"Ni l'or du soir qui tombe,#
+
+1513: 11:24:49.24 11:24:52.04  Duration 00:00:02.05  33
+      "Ni les voiles descendant
+
+1514: 11:24:52.08 11:24:54.05  Duration 00:00:01.22  28
+      "Au loin vers Harfleur
+
+1515: 11:24:55.00 11:24:56.20  Duration 00:00:01.20  27
+      "Et quand j'arriverai,
+
+1516: 11:24:56.24 11:24:59.12  Duration 00:00:02.13  38
+      "je mettrai sur ta tombe
+
+1517: 11:24:59.16 11:25:02.03  Duration 00:00:02.12  37
+      "Un bouquet de houx vert
+
+1518: 11:25:02.20 11:25:04.24  Duration 00:00:02.04  32
+      "Et de bruyère en fleur."
+
+1519: 11:25:06.03 11:25:07.11  Duration 00:00:01.08  20
+      Vous pouvez arrêter?
+
+1520: 11:25:07.16 11:25:09.14  Duration 00:00:01.23  29
+      Vous n'aimez pas la poésie?
+
+1521: 11:25:09.19 11:25:11.21  Duration 00:00:02.02  31
+      Não, pas vraiment.
+      Surtout à 3 h du matin.
+
+1522: 11:25:12.01 11:25:14.00  Duration 00:00:01.24  29
+      Vous préférez peut-être Apollinaire?
+
+1523: 11:25:14.05 11:25:15.12  Duration 00:00:01.07  19
+      #Alcools...#
+
+1524: 11:25:16.09 11:25:19.02  Duration 00:00:02.18  41
+      À défaut d'en boire,
+      je peux vous en réciter.
+
+1525: 11:25:19.07 11:25:21.00  Duration 00:00:01.18  26
+      Commandant...
+
+1526: 11:25:21.04 11:25:23.11  Duration 00:00:02.07  34
+      "Passent les jours
+      Et passent les semaines
+
+1527: 11:25:24.04 11:25:25.18  Duration 00:00:01.14  23
+      "Ni temps passé
+
+1528: 11:25:26.14 11:25:28.17  Duration 00:00:02.03  32
+      "Ni les amours reviennent
+
+1529: 11:25:29.08 11:25:31.10  Duration 00:00:02.02  31
+      "Sous le pont Mirabeau
+
+1530: 11:25:31.14 11:25:33.07  Duration 00:00:01.18  26
+      "Coule la Seine
+
+1531: 11:25:34.04 11:25:36.05  Duration 00:00:02.01  31
+      #"Vienne la nuit#
+
+1532: 11:25:36.09 11:25:37.24  Duration 00:00:01.15  24
+      #"Sonne l'heure#
+
+1533: 11:25:38.09 11:25:39.19  Duration 00:00:01.10  21
+      #"Les jours s'en vont#
+
+1534: 11:25:41.03 11:25:42.10  Duration 00:00:01.07  19
+      "Je demeure."
+
+1535: 11:25:55.13 11:25:57.16  Duration 00:00:02.03  32
+      -Bonjour, Pluvinage.
+      -Ah, Mme la juge!
+
+1536: 11:25:57.21 11:26:01.22  Duration 00:00:04.01  61
+      Pendant que j'y pense, savez-vous
+      si Rovère a reçu mes bouquins?
+
+1537: 11:26:02.01 11:26:02.21  Duration 00:00:00.20  12
+      Je sais pas.
+
+1538: 11:26:04.11 11:26:06.02  Duration 00:00:01.16  25
+      Je comprends pas
+      ce qui s'est passé.
+
+1539: 11:26:06.22 11:26:09.14  Duration 00:00:02.17  40
+      Cette enquête n'était pas
+      si différente des autres.
+
+1540: 11:26:12.07 11:26:15.17  Duration 00:00:03.10  51
+      Est-ce qu'il vous a parlé
+      de la directrice du CEF, Mme Manet?
+
+1541: 11:26:15.22 11:26:18.13  Duration 00:00:02.16  40
+      Vous savez, je suis pas
+      dans la confidence.
+
+1542: 11:26:18.17 11:26:21.06  Duration 00:00:02.14  38
+      Et Rovère est pas bavard,
+      en ce moment.
+
+1543: 11:26:21.11 11:26:24.04  Duration 00:00:02.18  41
+      -Vous avez des nouvelles?
+      -Pas pour l'instant.
+
+1544: 11:26:24.08 11:26:26.08  Duration 00:00:02.00  30
+      Sa garde à vue devrait finir
+      cet après-midi.
+
+1545: 11:26:29.17 11:26:30.19  Duration 00:00:01.02  16
+      Bon.
+
+1546: 11:26:30.23 11:26:32.20  Duration 00:00:01.22  28
+      Vous avez les analyses du couteau?
+
+1547: 11:26:33.00 11:26:34.24  Duration 00:00:01.24  29
+      É bien le sang d'Isabelle Giraud.
+
+1548: 11:26:35.04 11:26:37.09  Duration 00:00:02.05  33
+      On va pouvoir boucler ce dossier,
+      alors.
+
+1549: 11:26:37.14 11:26:38.21  Duration 00:00:01.07  19
+      Et les empreintes?
+
+1550: 11:26:39.00 11:26:41.01  Duration 00:00:02.01  31
+      É un petit peu là
+      que le bât blesse.
+
+1551: 11:26:41.06 11:26:43.21  Duration 00:00:02.15  39
+      -Sans vouloir noircir le tableau...
+      -Quoi?
+
+1552: 11:26:44.01 11:26:47.06  Duration 00:00:03.05  48
+      Elles correspondent pas
+      à celles de Cédric Vérand.
+
+1553: 11:26:47.11 11:26:48.24  Duration 00:00:01.13  23
+      Je suis désolé.
+
+1554: 11:26:51.21 11:26:53.17  Duration 00:00:01.21  28
+      Ce sont celles d'une délinquante
+
+1555: 11:26:53.21 11:26:56.10  Duration 00:00:02.14  38
+      enregistrée au fichier FAED
+      pour faux témoignage.
+
+1556: 11:26:56.15 11:26:58.09  Duration 00:00:01.19  26
+      Une certaine...
+
+1557: 11:26:58.14 11:27:00.05  Duration 00:00:01.16  25
+      Estelle Tenon.
+
+1558: 11:27:00.10 11:27:01.24  Duration 00:00:01.14  23
+      Estelle Tenon?
+
+1559: 11:27:02.24 11:27:04.00  Duration 00:00:01.01  16
+      Vous la connaissez?
+
+1560: 11:27:11.15 11:27:12.10  Duration 00:00:00.20  12
+      Não.
+
+1561: 11:27:12.15 11:27:14.20  Duration 00:00:02.05  33
+      Cédric est rentré au centre.
+
+1562: 11:27:15.11 11:27:18.05  Duration 00:00:02.19  41
+      Il voulait pas se faire choper
+      par sa directrice.
+
+1563: 11:27:24.23 11:27:28.12  Duration 00:00:03.14  53
+      Et la décision d'aller
+      chez Isabelle Giraud,
+
+1564: 11:27:29.15 11:27:32.17  Duration 00:00:03.02  46
+      tu l'as prise de ton propre chef,
+      é ta décision.
+
+1565: 11:27:35.14 11:27:37.05  Duration 00:00:01.16  25
+      Mais pourquoi t'as fait ça?
+
+1566: 11:27:37.20 11:27:39.07  Duration 00:00:01.12  22
+      Tu la connaissais même pas.
+
+1567: 11:27:39.12 11:27:41.06  Duration 00:00:01.19  26
+      J'avais l'impression qu'il était
+
+1568: 11:27:41.11 11:27:43.08  Duration 00:00:01.22  28
+      en train de tomber amoureux d'elle.
+
+1569: 11:27:44.18 11:27:45.18  Duration 00:00:01.00  15
+      Et je pouvais pas
+
+1570: 11:27:45.23 11:27:47.04  Duration 00:00:01.06  19
+      le supporter.
+
+1571: 11:27:47.08 11:27:48.14  Duration 00:00:01.06  19
+      T'étais jalouse?
+
+1572: 11:27:50.03 11:27:52.14  Duration 00:00:02.11  37
+      Et é pour ça que tu l'as tuée?
+
+1573: 11:27:54.05 11:27:56.08  Duration 00:00:02.03  32
+      Il disait qu'elle lui avait
+      sauvé la vie,
+
+1574: 11:27:56.12 11:27:58.18  Duration 00:00:02.06  34
+      que j'aurais pas pu faire
+      un truc pareil.
+
+1575: 11:28:00.04 11:28:01.15  Duration 00:00:01.11  22
+      Il parlait d'elle
+
+1576: 11:28:01.20 11:28:03.16  Duration 00:00:01.21  28
+      comme si sa vie avait changé.
+
+1577: 11:28:04.03 11:28:04.23  Duration 00:00:00.20  12
+      Et le couteau,
+
+1578: 11:28:05.03 11:28:06.16  Duration 00:00:01.13  23
+      tu l'as mis où?
+
+1579: 11:28:08.00 11:28:09.19  Duration 00:00:01.19  26
+      Je savais pas quoi en faire,
+
+1580: 11:28:09.23 11:28:11.08  Duration 00:00:01.10  21
+      alors je l'ai ramené chez moi.
+
+1581: 11:28:11.22 11:28:14.14  Duration 00:00:02.17  40
+      Puis vous êtes venus m'interroger,
+      et j'ai eu peur.
+
+1582: 11:28:14.18 11:28:17.02  Duration 00:00:02.09  35
+      Et tu l'as donné à Cédric Vérand.
+
+1583: 11:28:17.06 11:28:18.15  Duration 00:00:01.09  20
+      Il sait que é toi?
+
+1584: 11:28:21.04 11:28:23.21  Duration 00:00:02.17  40
+      Je suis allée le voir
+      à travers les grilles du CEF.
+
+1585: 11:28:25.07 11:28:26.23  Duration 00:00:01.16  25
+      Il m'a dit de pas m'inquiéter,
+
+1586: 11:28:27.03 11:28:28.21  Duration 00:00:01.18  26
+      que tout allait s'arranger.
+
+1587: 11:28:42.12 11:28:43.17  Duration 00:00:01.05  18
+      Complice?
+
+1588: 11:28:44.11 11:28:46.18  Duration 00:00:02.07  34
+      Complice d'un meurtre
+      auquel j'assiste pas?
+
+1589: 11:28:46.23 11:28:48.21  Duration 00:00:01.23  29
+      É ce que l'enquête va déterminer.
+
+1590: 11:28:49.01 11:28:51.05  Duration 00:00:02.04  32
+      Mais vous l'avez dit vous-même:
+
+1591: 11:28:51.10 11:28:53.08  Duration 00:00:01.23  29
+      "Estelle est une jeune fille
+      fragile..."
+
+1592: 11:28:53.13 11:28:55.03  Duration 00:00:01.15  24
+      Je l'ai pas forcée à faire ça.
+
+1593: 11:28:55.08 11:28:56.23  Duration 00:00:01.15  24
+      Elle se serait jetée sous un train,
+
+1594: 11:28:57.03 11:28:58.12  Duration 00:00:01.09  20
+      si vous le lui aviez demandé.
+
+1595: 11:29:00.14 11:29:01.14  Duration 00:00:01.00  15
+      Et pourquoi?
+
+1596: 11:29:01.19 11:29:03.22  Duration 00:00:02.03  32
+      Pourquoi j'aurais fait ça?
+
+1597: 11:29:04.02 11:29:06.20  Duration 00:00:02.18  41
+      Je crois que vous ne supportiez pas
+      de voir Melki
+
+1598: 11:29:06.24 11:29:09.22  Duration 00:00:02.23  44
+      réussir une vie
+      que vous êtes incapable d'avoir.
+
+1599: 11:29:10.02 11:29:13.00  Duration 00:00:02.23  44
+      Une compagne, un travail,
+
+1600: 11:29:13.05 11:29:14.10  Duration 00:00:01.05  18
+      un avenir...
+
+1601: 11:29:15.15 11:29:17.22  Duration 00:00:02.07  34
+      É Melki que j'aurais dû faire
+      tuer, não?
+
+1602: 11:29:18.02 11:29:20.13  Duration 00:00:02.11  37
+      Je crois que vous comprenez
+      très bien.
+
+1603: 11:29:21.16 11:29:22.12  Duration 00:00:00.21  13
+      É Melki
+
+1604: 11:29:22.17 11:29:24.15  Duration 00:00:01.23  29
+      que vous vouliez voir souffrir.
+
+1605: 11:29:24.19 11:29:27.11  Duration 00:00:02.17  40
+      É ça qui vous plaît.
+
+1606: 11:29:28.15 11:29:30.22  Duration 00:00:02.07  34
+      Vous répondrez de vos actes
+      devant un tribunal.
+
+1607: 11:29:31.02 11:29:33.14  Duration 00:00:02.12  37
+      Intéressez-vous à celui
+      qui a essayé de me tuer
+
+1608: 11:29:33.18 11:29:35.08  Duration 00:00:01.15  24
+      au lieu de vous acharner sur moi.
+
+1609: 11:29:35.13 11:29:37.00  Duration 00:00:01.12  22
+      Vous savez qui é?
+
+1610: 11:29:37.21 11:29:39.09  Duration 00:00:01.13  23
+      Cette nuit, j'ai eu un flash.
+
+1611: 11:29:39.14 11:29:41.00  Duration 00:00:01.11  22
+      "Un flash"?
+
+1612: 11:29:42.21 11:29:43.19  Duration 00:00:00.23  14
+      Alors, é qui?
+
+1613: 11:29:46.11 11:29:47.06  Duration 00:00:00.20  12
+      Mourad Melki.
+
+1614: 11:29:49.21 11:29:51.06  Duration 00:00:01.10  21
+      Bien sûr.
+
+1615: 11:29:52.09 11:29:53.04  Duration 00:00:00.20  12
+      #Écoutez,#
+
+1616: 11:29:53.09 11:29:55.20  Duration 00:00:02.11  37
+      tout ce qu'il veut,
+      é me bousiller ma vie
+
+1617: 11:29:55.24 11:29:57.12  Duration 00:00:01.13  23
+      et me faire virer du travail.
+
+1618: 11:29:57.17 11:30:00.10  Duration 00:00:02.18  41
+      Mais vous avez des raisons
+      de lui en vouloir.
+
+1619: 11:30:00.15 11:30:03.04  Duration 00:00:02.14  38
+      Pour vous, é lui, le responsable
+      de la mort de votre amie.
+
+1620: 11:30:03.24 11:30:05.03  Duration 00:00:01.04  17
+      Et alors?
+
+1621: 11:30:05.07 11:30:07.22  Duration 00:00:02.15  39
+      Vous n'avez pas été tenté
+      de faire justice vous-même?
+
+1622: 11:30:08.22 11:30:11.19  Duration 00:00:02.22  43
+      Vous préférez m'accuser moi
+      plutôt qu'un de vos flics?
+
+1623: 11:30:11.23 11:30:14.17  Duration 00:00:02.19  41
+      Nolan vous a remis le pistolet
+      du commandant Rovère.
+
+1624: 11:30:14.22 11:30:16.02  Duration 00:00:01.05  18
+      Charlotte?
+
+1625: 11:30:17.05 11:30:18.21  Duration 00:00:01.16  25
+      É lui qui vous a dit ça?
+
+1626: 11:30:19.00 11:30:20.04  Duration 00:00:01.04  17
+      Il en a pas eu besoin.
+
+1627: 11:30:22.23 11:30:24.16  Duration 00:00:01.18  26
+      Vous reconnaissez votre casque?
+
+1628: 11:30:24.21 11:30:27.14  Duration 00:00:02.18  41
+      On a analysé les cheveux
+      à l'intérieur.
+
+1629: 11:30:28.19 11:30:30.02  Duration 00:00:01.08  20
+      Je comprends pas.
+
+1630: 11:30:31.24 11:30:34.10  Duration 00:00:02.11  37
+      Comment expliquer
+      les résidus de tir?
+
+1631: 11:30:38.04 11:30:40.10  Duration 00:00:02.06  34
+      Moi, j'étais au boulot.
+
+1632: 11:30:40.15 11:30:43.00  Duration 00:00:02.10  36
+      É vrai.
+      On vous a vu là-bas à 6 h.
+
+1633: 11:30:43.05 11:30:44.20  Duration 00:00:01.15  24
+      Vous êtes arrivé en camionnette.
+
+1634: 11:30:45.00 11:30:46.22  Duration 00:00:01.22  28
+      -É ça?
+      -Sim, é ça.
+
+1635: 11:30:47.02 11:30:50.02  Duration 00:00:03.00  45
+      Un scooter, é facile à cacher
+      dans une camionnette.
+
+1636: 11:30:50.07 11:30:51.24  Duration 00:00:01.17  25
+      Votre collègue Frédéric Pardo
+
+1637: 11:30:52.04 11:30:54.09  Duration 00:00:02.05  33
+      vous a aidé à le descendre,
+
+1638: 11:30:54.13 11:30:56.18  Duration 00:00:02.05  33
+      et à 6 h 25, vous étiez au CEF,
+
+1639: 11:30:56.22 11:30:59.06  Duration 00:00:02.09  35
+      à l'heure où on a tiré
+      sur Cédric Vérand.
+
+1640: 11:30:59.11 11:31:02.00  Duration 00:00:02.14  38
+      Et à 7 h,
+      vous étiez de retour au boulot.
+
+1641: 11:31:03.13 11:31:04.18  Duration 00:00:01.05  18
+      M. Pardo a tout avoué
+
+1642: 11:31:04.23 11:31:06.17  Duration 00:00:01.19  26
+      au lieutenant Dimeglio.
+
+1643: 11:31:09.15 11:31:10.11  Duration 00:00:00.21  13
+      Eh sim.
+
+1644: 11:31:10.15 11:31:14.11  Duration 00:00:03.21  58
+      On ne peut pas à la fois vouloir
+      se venger et garder sa liberté.
+
+1645: 11:31:14.16 11:31:18.07  Duration 00:00:03.16  55
+      Il croyait quoi? Que j'allais rester
+      là à le regarder?
+
+1646: 11:31:19.02 11:31:20.09  Duration 00:00:01.07  19
+      É pas moi, le meurtrier.
+
+1647: 11:31:20.14 11:31:23.06  Duration 00:00:02.17  40
+      J'ai juste vengé Isabelle,
+      é tout.
+
+1648: 11:31:34.20 11:31:37.17  Duration 00:00:02.22  43
+      Comment j'aurais fait pour convaincre
+      Estelle de tuer Isabelle?
+
+1649: 11:31:38.11 11:31:40.17  Duration 00:00:02.06  34
+      É la question que je vous pose.
+
+1650: 11:31:42.18 11:31:44.20  Duration 00:00:02.02  31
+      Não, mais je comprends.
+
+1651: 11:31:45.00 11:31:46.12  Duration 00:00:01.12  22
+      Je comprends.
+
+1652: 11:31:48.03 11:31:50.23  Duration 00:00:02.20  42
+      Moi aussi, je croyais pas Estelle
+      capable de faire ça.
+
+1653: 11:31:51.21 11:31:54.06  Duration 00:00:02.10  36
+      Je pensais pas
+      qu'elle était tarée à ce point.
+
+1654: 11:31:54.11 11:31:56.06  Duration 00:00:01.20  27
+      #"Tarée"?#
+
+1655: 11:31:56.11 11:31:58.10  Duration 00:00:01.24  29
+      Vous voulez dire folle?
+
+1656: 11:32:00.24 11:32:04.14  Duration 00:00:03.15  54
+      Les psychiatres
+      parlent plutôt de fragilité,
+
+1657: 11:32:04.18 11:32:06.16  Duration 00:00:01.23  29
+      mais enfin...
+
+1658: 11:32:06.21 11:32:08.02  Duration 00:00:01.06  19
+      Je me sacrifierai pas pour elle.
+
+1659: 11:32:09.23 11:32:12.10  Duration 00:00:02.12  37
+      #De toute façon,#
+      #elle n'a que ce qu'elle mérite.#
+
+1660: 11:32:12.14 11:32:16.02  Duration 00:00:03.13  53
+      #Faut être conne pour tuer#
+      #une autre fille juste par jalousie.#
+
+1661: 11:32:17.00 11:32:21.17  Duration 00:00:04.17  70
+      #Vous avez l'air de la tenir#
+      #en très haute estime, votre amie.#
+
+1662: 11:32:21.21 11:32:23.20  Duration 00:00:01.24  29
+      #Vous pouvez dire ce que vous voulez.#
+
+1663: 11:32:25.00 11:32:26.20  Duration 00:00:01.20  27
+      Qu'elle se démerde, OK?
+
+1664: 11:32:26.24 11:32:28.00  Duration 00:00:01.01  16
+      Qu'elle se démerde!
+
+1665: 11:32:29.15 11:32:32.12  Duration 00:00:02.22  43
+      Ben sim, elle va se démerder.
+
+1666: 11:32:32.16 11:32:35.03  Duration 00:00:02.12  37
+      Elle va se démerder,
+      cette pauvre conne.
+
+1667: 11:32:43.07 11:32:46.03  Duration 00:00:02.21  43
+      Cédric disait qu'Isabelle Giraud
+      le détestait,
+
+1668: 11:32:46.22 11:32:49.04  Duration 00:00:02.07  34
+      qu'elle voulait le foutre en taule.
+
+1669: 11:32:50.14 11:32:52.17  Duration 00:00:02.03  32
+      É lui qui vous a amenée
+      chez elle?
+
+1670: 11:32:54.15 11:32:56.15  Duration 00:00:02.00  30
+      Il m'a dit que si je l'arrêtais pas,
+
+1671: 11:32:56.19 11:32:57.24  Duration 00:00:01.05  18
+      elle nous empêcherait
+
+1672: 11:32:58.04 11:32:59.07  Duration 00:00:01.03  17
+      de vivre ensemble.
+
+1673: 11:32:59.11 11:33:02.01  Duration 00:00:02.15  39
+      Tout ça pour un viol
+      qu'il n'avait pas commis.
+
+1674: 11:33:04.05 11:33:06.12  Duration 00:00:02.07  34
+      Et vous l'avez cru?
+
+1675: 11:33:09.09 11:33:12.06  Duration 00:00:02.22  43
+      Il a dit que si je le faisais pas,
+      il me quitterait,
+
+1676: 11:33:13.00 11:33:15.23  Duration 00:00:02.23  44
+      parce que ça voudrait dire
+      que je l'aimais pas vraiment.
+
+1677: 11:33:16.24 11:33:18.16  Duration 00:00:01.17  25
+      Pas comme lui, il m'aimait.
+
+1678: 11:33:49.12 11:33:53.12  Duration 00:00:04.00  60
+      On vient de me signifier
+      mon licenciement pour faute grave.
+
+1679: 11:33:55.04 11:33:57.04  Duration 00:00:02.00  30
+      Qu'est-ce que vous allez faire?
+
+1680: 11:33:58.24 11:34:00.06  Duration 00:00:01.07  19
+      Je ne sais pas.
+
+1681: 11:34:03.13 11:34:04.18  Duration 00:00:01.05  18
+      Vous fumez?
+
+1682: 11:34:06.12 11:34:08.19  Duration 00:00:02.07  34
+      Vous m'avez interdit
+      d'être alcoolique.
+
+1683: 11:34:11.19 11:34:13.19  Duration 00:00:02.00  30
+      Pourquoi vous ne m'avez pas
+      dénoncée?
+
+1684: 11:34:14.14 11:34:16.11  Duration 00:00:01.22  28
+      Ça aurait été beaucoup plus simple.
+
+1685: 11:34:19.02 11:34:22.02  Duration 00:00:03.00  45
+      Parce que j'ai un fort penchant
+
+1686: 11:34:22.06 11:34:23.24  Duration 00:00:01.18  26
+      pour les complications.
+
+1687: 11:34:28.04 11:34:30.05  Duration 00:00:02.01  31
+      Je ne connais même pas
+      votre prénom.
+
+1688: 11:34:32.10 11:34:36.11  Duration 00:00:04.01  61
+      Y a longtemps qu'on m'a pas appelé
+      par mon prénom.
+
+1689: 11:34:38.15 11:34:40.05  Duration 00:00:01.15  24
+      Gabriel.
+
+1690: 11:34:40.09 11:34:42.10  Duration 00:00:02.01  31
+      Mais...
+
+1691: 11:34:42.14 11:34:44.04  Duration 00:00:01.15  24
+      ne le répétez à personne.
+
+1692: 11:34:45.11 11:34:46.13  Duration 00:00:01.02  16
+      Promis.
+
+1693: 11:34:54.15 11:34:58.05  Duration 00:00:03.15  54
+      Finalement, é peut-être nous
+      qui sommes en réinsertion.
+
+1694: 11:34:58.22 11:35:00.03  Duration 00:00:01.06  19
+      Sim.
+
+1695: 11:35:00.07 11:35:02.13  Duration 00:00:02.06  34
+      Et en stage de longue durée.
+
+1696: 11:35:06.12 11:35:08.00  Duration 00:00:01.13  23
+      Merci, Gabriel.
+
+1697: 11:35:11.23 11:35:13.11  Duration 00:00:01.13  23
+      Ce fut un plaisir.
+
+1698: 11:35:16.03 11:35:17.10  Duration 00:00:01.07  19
+      Laurence.
+
+1699: 11:35:19.02 11:35:20.11  Duration 00:00:01.09  20
+      Laurence.
+
+1700: 11:35:38.11 11:35:39.13  Duration 00:00:01.02  16
+      Nadia!
+
+1701: 11:35:40.12 11:35:41.18  Duration 00:00:01.06  19
+      -Tu sais quoi?
+      -Não.
+
+1702: 11:35:41.22 11:35:44.03  Duration 00:00:02.06  34
+      Gérard m'a appelée,
+      il voudrait ton numéro.
+
+1703: 11:35:44.18 11:35:46.03  Duration 00:00:01.10  21
+      Allez!
+
+1704: 11:35:46.21 11:35:48.04  Duration 00:00:01.08  20
+      Bon. Je verrai.
+
+1705: 11:35:49.01 11:35:50.12  Duration 00:00:01.11  22
+      -Et toi?
+      -Quoi, moi?
+
+1706: 11:35:50.17 11:35:52.16  Duration 00:00:01.24  29
+      T'as trouvé le propriétaire
+      de la montre?
+
+1707: 11:35:52.20 11:35:53.21  Duration 00:00:01.01  16
+      Ah ça!
+
+1708: 11:35:54.10 11:35:55.10  Duration 00:00:01.00  15
+      Il est beau?
+
+1709: 11:35:57.05 11:35:59.05  Duration 00:00:02.00  30
+      Vas-y, dis-moi qui é.
+
+1710: 11:35:59.24 11:36:01.12  Duration 00:00:01.13  23
+      Tu me promets de pas crier?
+
+1711: 11:36:01.17 11:36:03.13  Duration 00:00:01.21  28
+      Pourquoi tu veux que je crie?
+
+1712: 11:36:07.05 11:36:08.04  Duration 00:00:00.24  14
+      Excusez-moi.
+
+1713: 11:36:09.13 11:36:11.12  Duration 00:00:01.24  29
+      -Merde.
+      -Madame la juge!
+
+1714: 11:36:11.17 11:36:13.04  Duration 00:00:01.12  22
+      Quand on parle du loup...
+
+1715: 11:36:13.08 11:36:14.19  Duration 00:00:01.11  22
+      On en voit la montre.
+
+1716: 11:36:14.24 11:36:18.01  Duration 00:00:03.02  46
+      Je voulais vous féliciter
+      pour l'affaire Giraud.
+
+1717: 11:36:18.06 11:36:19.23  Duration 00:00:01.17  25
+      Tout est bien qui finit bien.
+
+1718: 11:36:20.03 11:36:21.19  Duration 00:00:01.16  25
+      Merci, monsieur le procureur.
+
+1719: 11:36:21.24 11:36:24.05  Duration 00:00:02.06  34
+      Mlle Lafleur, puis-je vous parler?
+
+1720: 11:36:24.09 11:36:25.17  Duration 00:00:01.08  20
+      Sim, bien sûr.
+
+1721: 11:36:27.14 11:36:29.20  Duration 00:00:02.06  34
+      -Je vais vous laisser.
+      -À bientôt.
+
+1722: 11:36:37.21 11:36:40.15  Duration 00:00:02.19  41
+      -Eh bien, mademoiselle Lafleur...
+      -Sim?
+
+1723: 11:36:46.13 11:36:48.12  Duration 00:00:01.24  29
+      Le barman des Deux Palais
+      m'a contacté
+
+1724: 11:36:48.17 11:36:51.08  Duration 00:00:02.16  40
+      pour me remettre ma montre,
+      qu'une bonne âme
+
+1725: 11:36:51.13 11:36:54.01  Duration 00:00:02.13  38
+      a eu l'extrême courtoisie
+      de rapporter.
+
+1726: 11:36:56.10 11:36:57.15  Duration 00:00:01.05  18
+      Très bonne nouvelle.
+
+1727: 11:36:57.19 11:36:58.14  Duration 00:00:00.20  12
+      É super!
+
+1728: 11:36:59.21 11:37:01.06  Duration 00:00:01.10  21
+      Sim, é super.
+
+1729: 11:37:02.24 11:37:06.01  Duration 00:00:03.02  46
+      Connaissez-vous la différence
+      entre le tact et la politesse?
+
+1730: 11:37:06.17 11:37:07.19  Duration 00:00:01.02  16
+      Não.
+
+1731: 11:37:08.08 11:37:12.00  Duration 00:00:03.17  55
+      La politesse, é quand un homme
+      entre dans une salle de bains,
+
+1732: 11:37:12.04 11:37:14.02  Duration 00:00:01.23  29
+      qu'il voit une femme absolument nue,
+
+1733: 11:37:14.07 11:37:17.17  Duration 00:00:03.10  51
+      et qu'il referme la porte en disant:
+      "Pardon, madame."
+
+1734: 11:37:17.21 11:37:18.17  Duration 00:00:00.21  13
+      Le tact,
+
+1735: 11:37:18.22 11:37:21.20  Duration 00:00:02.23  44
+      é lorsqu'un homme
+      entre dans une salle de bains,
+
+1736: 11:37:21.24 11:37:24.01  Duration 00:00:02.02  31
+      qu'il voit une femme absolument nue,
+
+1737: 11:37:24.05 11:37:27.10  Duration 00:00:03.05  48
+      et qu'il referme la porte en disant:
+      "Pardon, monsieur."
+
+1738: 11:37:29.04 11:37:30.12  Duration 00:00:01.08  20
+      Tout ça pour vous dire
+
+1739: 11:37:30.17 11:37:34.01  Duration 00:00:03.09  50
+      que je compte sur vous demain
+      pour faire front à l'audience
+
+1740: 11:37:34.05 11:37:36.11  Duration 00:00:02.06  34
+      comme nous l'avons toujours fait
+
+1741: 11:37:36.16 11:37:38.09  Duration 00:00:01.18  26
+      et comme nous continuerons
+      à le faire.
+
+1742: 11:37:39.12 11:37:41.21  Duration 00:00:02.09  35
+      -N'est-ce pas le plus important?
+      -Si.
+
+1743: 11:37:44.06 11:37:46.14  Duration 00:00:02.08  35
+      Alors je vous dis bonsoir,
+      Mlle Lafleur.
+
+1744: 11:37:48.01 11:37:50.07  Duration 00:00:02.06  34
+      Alors je vous dis bonsoir,
+      M. le procureur.
+
+1745: 11:37:52.10 11:37:53.23  Duration 00:00:01.13  23
+      -Bonsoir.
+      -Bonsoir.
+
+1746: 11:38:00.06 11:38:01.18  Duration 00:00:01.12  22
+      Pour Lornac ...
+
+1747: 11:38:01.22 11:38:03.04  Duration 00:00:01.07  19
+      Écoutez,
+
+1748: 11:38:03.09 11:38:07.10  Duration 00:00:04.01  61
+      laissez Lornac et l'IGPN
+      à leur place.
+
+1749: 11:38:07.14 11:38:10.04  Duration 00:00:02.15  39
+      Vous avez dit la vérité, é tout.
+
+1750: 11:38:10.08 11:38:13.12  Duration 00:00:03.04  47
+      Je vous en ai voulu
+      de m'avoir mise dans cette situation.
+
+1751: 11:38:14.03 11:38:15.04  Duration 00:00:01.01  16
+      Vraiment.
+
+1752: 11:38:15.09 11:38:18.21  Duration 00:00:03.12  52
+      Vous aviez raison de m'en vouloir,
+      et Dimeglio aussi,
+
+1753: 11:38:19.00 11:38:22.13  Duration 00:00:03.13  53
+      mais é mon côté
+      preux chevalier Bayard.
+
+1754: 11:38:24.05 11:38:28.03  Duration 00:00:03.23  59
+      Faire ce que l'on pense juste
+      quelles que soient les conséquences.
+
+1755: 11:38:29.17 11:38:31.13  Duration 00:00:01.21  28
+      Vous allez revoir Mme Manet?
+
+1756: 11:38:33.13 11:38:34.24  Duration 00:00:01.11  22
+      Não, madame la juge,
+
+1757: 11:38:35.16 11:38:38.17  Duration 00:00:03.01  46
+      je n'ai pas l'intention
+      de revoir Mme Manet.
+
+1758: 11:38:39.15 11:38:41.11  Duration 00:00:01.21  28
+      Comme vous savez, je...
+
+1759: 11:38:43.00 11:38:45.09  Duration 00:00:02.09  35
+      Je ne mélange pas
+      mes affaires personnelles
+
+1760: 11:38:45.13 11:38:46.13  Duration 00:00:01.00  15
+      avec le métier.
+
+1761: 11:38:49.20 11:38:51.00  Duration 00:00:01.05  18
+      Ça serait pas très bon
+
+1762: 11:38:51.04 11:38:54.00  Duration 00:00:02.21  43
+      pour ma fragile santé mentale.
+
+1763: 11:38:55.10 11:38:56.21  Duration 00:00:01.11  22
+      Me voilà rassurée.
+
+1764: 11:38:58.09 11:38:59.10  Duration 00:00:01.01  16
+      Prenez soin de vous.
+
+1765: 11:38:59.15 11:39:01.04  Duration 00:00:01.14  23
+      Vos désirs sont des ordres,
+
+1766: 11:39:01.09 11:39:03.09  Duration 00:00:02.00  30
+      madame la juge.
+
+1767: 11:39:03.14 11:39:05.14  Duration 00:00:02.00  30
+      Je me trompe ou é...?
+
+1768: 11:39:06.09 11:39:08.03  Duration 00:00:01.19  26
+      Pin-pon, voilà le pompier.
+
+1769: 11:39:08.23 11:39:10.12  Duration 00:00:01.14  23
+      Vous moquez pas.
+
+1770: 11:39:11.09 11:39:12.15  Duration 00:00:01.06  19
+      Ouais.
+
+1771: 11:39:13.20 11:39:15.10  Duration 00:00:01.15  24
+      Au revoir, madame la juge.
+
+1772: 11:39:15.14 11:39:16.17  Duration 00:00:01.03  17
+      À bientôt.
+
+1773: 11:40:09.03 11:40:12.03  Duration 00:00:03.00  45
+      Sous-titrage: ECLAIR
+
