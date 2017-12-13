@@ -1,0 +1,3355 @@
+
+   1: 10:00:03.04 10:00:06.05  Duration 00:00:03.01  46
+O Ponto
+
+   2: 10:00:08.09 10:00:09.15  Duration 00:00:01.06  19
+Esta semana
+em# O Ponto,#
+
+   3: 10:00:10.14 10:00:14.09  Duration 00:00:03.20  57
+150º aniversário da criação
+da Confederação Canadense,
+
+   4: 10:00:14.14 10:00:17.05  Duration 00:00:02.16  40
+#O Canadá de ontem a hoje,#
+2ª parte.
+
+   5: 10:00:18.07 10:00:20.13  Duration 00:00:02.06  34
+Sua economia e suas medidas sociais,
+
+   6: 10:00:21.13 10:00:23.01  Duration 00:00:01.13  23
+sua política estrangeira,
+
+   7: 10:00:23.24 10:00:25.22  Duration 00:00:01.23  29
+sua Carta de Direitos e Liberdades,
+
+   8: 10:00:26.21 10:00:30.15  Duration 00:00:03.19  56
+seus recursos energéticos
+e sua conscientização ecológica.
+
+   9: 10:00:34.19 10:00:36.23  Duration 00:00:02.04  32
+Olá.
+Sou Azeb Wolde-Giorghis.
+
+  10: 10:00:37.02 10:00:38.07  Duration 00:00:01.05  18
+Bem-vindo a# O Ponto.#
+
+  11: 10:00:38.11 10:00:41.13  Duration 00:00:03.02  46
+Este ano marca uma data crucial
+da história do Canadá,
+
+  12: 10:00:41.17 10:00:44.11  Duration 00:00:02.19  41
+com o 150º aniversário
+da Confederação.
+
+  13: 10:00:44.15 10:00:47.24  Duration 00:00:03.09  50
+Nesta 2ª parte da série
+O Canadá de ontem a hoje,#
+
+  14: 10:00:48.03 10:00:51.03  Duration 00:00:03.00  45
+a jornalista Céline Galipeau
+e o diretor Peter Ingels
+
+  15: 10:00:51.07 10:00:53.05  Duration 00:00:01.23  29
+nos apresentam mais eventos
+
+  16: 10:00:53.09 10:00:54.15  Duration 00:00:01.06  19
+que moldaram o país.
+
+  17: 10:00:54.19 10:00:57.12  Duration 00:00:02.18  41
+O Canadá,
+onde ainda é às vezes difícil
+
+  18: 10:00:57.16 10:01:00.21  Duration 00:00:03.05  48
+conciliar interesses econômicos
+e direitos dos trabalhadores.
+
+  19: 10:01:01.00 10:01:02.15  Duration 00:00:01.15  24
+Equilíbrio
+que leva em conta
+
+  20: 10:01:02.19 10:01:05.11  Duration 00:00:02.17  40
+os laços estreitos
+que unem o Canadá aos EUA,
+
+  21: 10:01:05.15 10:01:07.19  Duration 00:00:02.04  32
+um vizinho parceiro e adversário
+
+  22: 10:01:07.23 10:01:09.13  Duration 00:00:01.15  24
+das empresas canadenses.
+
+  23: 10:01:09.17 10:01:11.22  Duration 00:00:02.05  33
+Eis a evolução
+da economia canadense
+
+  24: 10:01:12.01 10:01:14.06  Duration 00:00:02.05  33
+e seus impactos na sua sociedade.
+
+  25: 10:01:17.19 10:01:19.06  Duration 00:00:01.12  22
+O Canadá de ontem a hoje
+
+  26: 10:01:19.14 10:01:21.14  Duration 00:00:02.00  30
+A Economia e o Mundo do Trabalho
+
+  27: 10:01:27.06 10:01:29.03  Duration 00:00:01.22  28
+#Desde novembro de 2016...#
+
+  28: 10:01:29.07 10:01:32.00  Duration 00:00:02.18  41
+Amo este país!
+
+  29: 10:01:32.04 10:01:35.11  Duration 00:00:03.07  49
+#...a eleição de Donald Trump
+trouxe muitas surpresas#
+
+  30: 10:01:36.15 10:01:38.07  Duration 00:00:01.17  25
+#Seu questionamento
+de acordos,#
+
+  31: 10:01:38.11 10:01:41.04  Duration 00:00:02.18  41
+#como o Tratado Norte-Americano
+de Livre Comércio#
+
+  32: 10:01:41.09 10:01:43.02  Duration 00:00:01.18  26
+#ou a exportação de madeira#
+
+  33: 10:01:43.06 10:01:45.08  Duration 00:00:02.02  31
+#cria tensões
+entre os dois países.#
+
+  34: 10:01:46.02 10:01:47.09  Duration 00:00:01.07  19
+#Traço que caracteriza#
+
+  35: 10:01:47.13 10:01:50.00  Duration 00:00:02.12  37
+#as relações econômicas entre nós#
+
+  36: 10:01:50.04 10:01:51.04  Duration 00:00:01.00  15
+#há muito tempo.#
+
+  37: 10:01:55.16 10:01:57.03  Duration 00:00:01.12  22
+#No momento da Confederação,#
+
+  38: 10:01:57.07 10:02:00.01  Duration 00:00:02.19  41
+#a economia canadense
+é pouco diversificada.#
+
+  39: 10:02:00.05 10:02:01.19  Duration 00:00:01.14  23
+#Majoritariamente rurais,#
+
+  40: 10:02:01.23 10:02:04.11  Duration 00:00:02.13  38
+#as atividades
+são sobretudo a agricultura,#
+
+  41: 10:02:04.15 10:02:07.01  Duration 00:00:02.11  37
+#a pesca e a extração de madeira.#
+
+  42: 10:02:07.05 10:02:09.08  Duration 00:00:02.03  32
+#O comércio exterior é sobretudo#
+
+  43: 10:02:09.12 10:02:11.16  Duration 00:00:02.04  32
+#com a Grã-Bretanha e os EUA.#
+
+  44: 10:02:12.07 10:02:16.08  Duration 00:00:04.01  61
+#O surto da industrialização
+vai transformar a situação.#
+
+  45: 10:02:17.03 10:02:19.23  Duration 00:00:02.20  42
+A dinâmica da industrialização
+
+  46: 10:02:20.02 10:02:22.06  Duration 00:00:02.04  32
+é de transformações tecnológicas.
+
+  47: 10:02:22.11 10:02:23.19  Duration 00:00:01.08  20
+Representa,
+de certo modo,
+
+  48: 10:02:23.23 10:02:26.19  Duration 00:00:02.21  43
+uma conscientização
+na sociedade canadense
+
+  49: 10:02:26.24 10:02:29.19  Duration 00:00:02.20  42
+que a industrialização
+progride rapidamente
+
+  50: 10:02:29.23 10:02:34.06  Duration 00:00:04.08  65
+e tem efeitos reais
+na população canadense.
+
+  51: 10:02:36.16 10:02:39.00  Duration 00:00:02.09  35
+#Aos poucos,
+a população rural converge#
+
+  52: 10:02:39.04 10:02:40.18  Duration 00:00:01.14  23
+#para os centros urbanos#
+
+  53: 10:02:40.22 10:02:43.17  Duration 00:00:02.20  42
+#para trabalhar nas fábricas
+e nas manufaturas.#
+
+  54: 10:02:43.21 10:02:45.16  Duration 00:00:01.20  27
+#OS novos imigrantes também.#
+
+  55: 10:02:46.24 10:02:49.00  Duration 00:00:02.01  31
+#A economia canadense aproveita,#
+
+  56: 10:02:49.04 10:02:51.09  Duration 00:00:02.05  33
+#sobretudo cidades como Montreal.#
+
+  57: 10:02:55.11 10:02:59.18  Duration 00:00:04.07  64
+A indústria manufatureira
+desenvolve-se rapidamente
+
+  58: 10:02:59.22 10:03:04.22  Duration 00:00:05.00  75
+em Montreal, que se torna
+uma grande cidade industrial.
+
+  59: 10:03:05.02 10:03:07.08  Duration 00:00:02.06  34
+É em Montreal também
+que se construirão
+
+  60: 10:03:07.12 10:03:09.02  Duration 00:00:01.15  24
+os canais marítimos.
+
+  61: 10:03:09.06 10:03:12.14  Duration 00:00:03.08  50
+Ferrovias serão ligadas a Montreal
+
+  62: 10:03:12.18 10:03:14.01  Duration 00:00:01.08  20
+para que Montreal seja
+
+  63: 10:03:14.05 10:03:16.02  Duration 00:00:01.22  28
+a confluência
+da economia canadense. 
+
+  64: 10:03:19.09 10:03:22.04  Duration 00:00:02.20  42
+#Mas a industrialização
+tem efeitos nefastos.#
+
+  65: 10:03:22.08 10:03:25.06  Duration 00:00:02.23  44
+#Homens, mulheres e crianças
+são explorados,#
+
+  66: 10:03:25.10 10:03:26.18  Duration 00:00:01.08  20
+#abusos são frequentes.#
+
+  67: 10:03:26.22 10:03:28.09  Duration 00:00:01.12  22
+#Para isso mudar,#
+
+  68: 10:03:28.13 10:03:31.08  Duration 00:00:02.20  42
+#será preciso esperar
+o início do século XX.#
+
+  69: 10:03:32.22 10:03:35.14  Duration 00:00:02.17  40
+Empresários, religiosos,
+reformistas,
+
+  70: 10:03:35.18 10:03:37.17  Duration 00:00:01.24  29
+gente da classe média,
+
+  71: 10:03:37.21 10:03:41.15  Duration 00:00:03.19  56
+mas que é sensível aos aspectos
+desumanos da industrialização
+
+  72: 10:03:41.19 10:03:44.01  Duration 00:00:02.07  34
+exigem a regulação
+desses excessos.
+
+  73: 10:03:44.06 10:03:46.11  Duration 00:00:02.05  33
+É o começo do movimento operário.
+
+  74: 10:03:52.00 10:03:54.14  Duration 00:00:02.14  38
+#A I Guerra Mundial
+e os anos seguintes#
+
+  75: 10:03:54.19 10:03:57.00  Duration 00:00:02.06  34
+#são marcados
+por crescimento econômico#
+
+  76: 10:03:57.04 10:03:59.16  Duration 00:00:02.12  37
+#e radicalização
+do movimento operário.#
+
+  77: 10:04:01.01 10:04:03.02  Duration 00:00:02.01  31
+#A época vê inúmeras greves,#
+
+  78: 10:04:03.06 10:04:04.10  Duration 00:00:01.04  17
+#como a de Winnipeg.#
+
+  79: 10:04:05.09 10:04:07.21  Duration 00:00:02.12  37
+A greve de Winnipeg de 1919 será
+
+  80: 10:04:08.01 10:04:09.00  Duration 00:00:00.24  14
+dramática,
+
+  81: 10:04:09.04 10:04:12.05  Duration 00:00:03.01  46
+um momento culminante
+nesse ciclo de confrontos
+
+  82: 10:04:12.09 10:04:14.08  Duration 00:00:01.24  29
+entre os sindicatos
+e os patrões.
+
+  83: 10:04:14.12 10:04:16.06  Duration 00:00:01.19  26
+A greve dura 5 semanas,
+
+  84: 10:04:16.11 10:04:19.01  Duration 00:00:02.15  39
+e termina
+
+  85: 10:04:19.06 10:04:21.15  Duration 00:00:02.09  35
+com repressão violenta do governo.
+
+  86: 10:04:22.10 10:04:23.21  Duration 00:00:01.11  22
+#A Grande Depressão
+dos anos 30#
+
+  87: 10:04:24.01 10:04:25.06  Duration 00:00:01.05  18
+#paralisa tudo.#
+
+  88: 10:04:27.23 10:04:30.02  Duration 00:00:02.04  32
+Foi um período muito difícil
+
+  89: 10:04:30.06 10:04:34.09  Duration 00:00:04.03  62
+para toda a população canadense.
+
+  90: 10:04:34.14 10:04:36.12  Duration 00:00:01.23  29
+Há recessão econômica,
+
+  91: 10:04:36.17 10:04:37.17  Duration 00:00:01.00  15
+crise agrícola
+
+  92: 10:04:37.22 10:04:40.00  Duration 00:00:02.03  32
+e queda da produção industrial.
+
+  93: 10:04:40.05 10:04:42.20  Duration 00:00:02.15  39
+A taxa de desemprego
+ultrapassa os 30%
+
+  94: 10:04:42.24 10:04:44.22  Duration 00:00:01.23  29
+de mão de obra ativa da época.
+
+  95: 10:04:45.02 10:04:47.10  Duration 00:00:02.08  35
+#Com essa crise,
+é de novo a guerra#
+
+  96: 10:04:47.15 10:04:50.08  Duration 00:00:02.18  41
+#que salva a economia
+e os trabalhadores do país.#
+
+  97: 10:04:50.24 10:04:52.11  Duration 00:00:01.12  22
+Pelo esforço de guerra,
+
+  98: 10:04:52.15 10:04:54.14  Duration 00:00:01.24  29
+as indústrias precisam
+
+  99: 10:04:54.19 10:04:56.04  Duration 00:00:01.10  21
+produzir continuamente.
+
+ 100: 10:04:56.08 10:04:59.09  Duration 00:00:03.01  46
+O movimento sindical
+faz patrões e Estado entenderem
+
+ 101: 10:04:59.13 10:05:01.23  Duration 00:00:02.10  36
+que não há volta
+ao capitalismo selvagem.
+
+ 102: 10:05:02.03 10:05:05.16  Duration 00:00:03.13  53
+Então, o que faremos
+é que a partir de 1944
+
+ 103: 10:05:05.20 10:05:08.08  Duration 00:00:02.13  38
+será implementado
+um código trabalhista
+
+ 104: 10:05:08.12 10:05:11.13  Duration 00:00:03.01  46
+que permitirá definir,
+controlar o processo
+
+ 105: 10:05:11.17 10:05:13.22  Duration 00:00:02.05  33
+de reconhecimento dos sindicatos
+
+ 106: 10:05:14.01 10:05:15.06  Duration 00:00:01.05  18
+e de negociação coletiva.
+
+ 107: 10:05:21.09 10:05:23.04  Duration 00:00:01.20  27
+#O forte crescimento econômico#
+
+ 108: 10:05:23.08 10:05:24.20  Duration 00:00:01.12  22
+#ligado à II Guerra Mundial#
+
+ 109: 10:05:24.24 10:05:26.17  Duration 00:00:01.18  26
+#tem vários efeitos no país:#
+
+ 110: 10:05:26.21 10:05:30.08  Duration 00:00:03.12  52
+#aumento da integração
+à economia americana,#
+
+ 111: 10:05:30.12 10:05:33.07  Duration 00:00:02.20  42
+#diversificação
+dos setores de produção,#
+
+ 112: 10:05:33.24 10:05:36.05  Duration 00:00:02.06  34
+#aceleração da eletrificação,#
+
+ 113: 10:05:36.09 10:05:38.17  Duration 00:00:02.08  35
+#e a instauração
+de programas sociais,#
+
+ 114: 10:05:38.21 10:05:41.19  Duration 00:00:02.23  44
+#como seguro-desemprego
+e pensão de família.#
+
+ 115: 10:05:44.11 10:05:47.00  Duration 00:00:02.14  38
+#Apesar dos avanços,
+os organismos sindicais#
+
+ 116: 10:05:47.04 10:05:48.20  Duration 00:00:01.16  25
+#devem continuar a luta#
+
+ 117: 10:05:49.00 10:05:50.21  Duration 00:00:01.21  28
+#pelo reconhecimento
+dos seus direitos.#
+
+ 118: 10:05:51.01 10:05:53.00  Duration 00:00:01.24  29
+#As greves se multiplicam.#
+
+ 119: 10:05:53.04 10:05:56.11  Duration 00:00:03.07  49
+Também vemos os esforços
+do movimento sindical
+
+ 120: 10:05:56.15 10:05:58.21  Duration 00:00:02.06  34
+para tentar organizar
+os trabalhadores
+
+ 121: 10:05:59.00 10:06:00.15  Duration 00:00:01.15  24
+que não eram organizados.
+
+ 122: 10:06:00.20 10:06:02.14  Duration 00:00:01.19  26
+É realmente nos anos 60
+
+ 123: 10:06:02.18 10:06:06.24  Duration 00:00:04.06  64
+que os setores público e parapúblico
+conseguirão obter
+
+ 124: 10:06:07.04 10:06:11.02  Duration 00:00:03.23  59
+o reconhecimento
+do direito de se sindicalizar,
+
+ 125: 10:06:11.06 10:06:12.17  Duration 00:00:01.11  22
+negociar e fazer greve. 
+
+ 126: 10:06:13.08 10:06:14.14  Duration 00:00:01.06  19
+#A alta da gasolina,#
+
+ 127: 10:06:14.18 10:06:16.16  Duration 00:00:01.23  29
+#provocada
+pelos países petrolíferos#
+
+ 128: 10:06:16.20 10:06:18.08  Duration 00:00:01.13  23
+#nos anos 70,#
+
+ 129: 10:06:18.12 10:06:20.11  Duration 00:00:01.24  29
+#traz novas incertezas.#
+
+ 130: 10:06:20.18 10:06:24.22  Duration 00:00:04.04  62
+Amanhã, o governo do Canadá
+pedirá ao Parlamento
+
+ 131: 10:06:25.01 10:06:28.15  Duration 00:00:03.14  53
+autorização para impor
+restrições rigorosas
+
+ 132: 10:06:28.19 10:06:30.21  Duration 00:00:02.02  31
+à alta dos preços e das rendas.
+
+ 133: 10:06:33.22 10:06:35.00  Duration 00:00:01.03  17
+#Para remediar a crise,#
+
+ 134: 10:06:35.05 10:06:37.24  Duration 00:00:02.19  41
+#buscam-se soluções
+na maior integração#
+
+ 135: 10:06:38.03 10:06:40.04  Duration 00:00:02.01  31
+#das economias
+do Canadá e dos EUA.#
+
+ 136: 10:06:45.04 10:06:47.19  Duration 00:00:02.15  39
+O Tratado de Livre Comércio
+entre Canadá e EUA,
+
+ 137: 10:06:47.24 10:06:50.02  Duration 00:00:02.03  32
+no fim dos anos 80,
+
+ 138: 10:06:50.07 10:06:53.00  Duration 00:00:02.18  41
+vai consolidar
+as relações econômicas
+
+ 139: 10:06:53.04 10:06:55.14  Duration 00:00:02.10  36
+que já eram próximas
+entre Canadá e EUA.
+
+ 140: 10:06:56.06 10:06:59.23  Duration 00:00:03.17  55
+#Mas essa integração das economias,
+junto com a robotização,#
+
+ 141: 10:07:00.03 10:07:03.03  Duration 00:00:03.00  45
+#a informatização e a globalização#
+
+ 142: 10:07:03.07 10:07:04.07  Duration 00:00:01.00  15
+#tem um preço.#
+
+ 143: 10:07:04.11 10:07:06.19  Duration 00:00:02.08  35
+Toda a produção que dependia
+
+ 144: 10:07:06.24 10:07:09.21  Duration 00:00:02.22  43
+de mão de obra barata
+
+ 145: 10:07:10.00 10:07:13.02  Duration 00:00:03.02  46
+vai para países em desenvolvimento.
+
+ 146: 10:07:13.06 10:07:16.22  Duration 00:00:03.16  55
+E foi preciso se reorientar
+
+ 147: 10:07:17.01 10:07:19.13  Duration 00:00:02.12  37
+para setores mais especializados.
+
+ 148: 10:07:21.01 10:07:23.12  Duration 00:00:02.11  37
+#Hoje, diante dessa globalização,#
+
+ 149: 10:07:23.16 10:07:26.04  Duration 00:00:02.13  38
+#muitos países se fecham,#
+
+ 150: 10:07:26.24 10:07:29.19  Duration 00:00:02.20  42
+#Tentam proteger
+sua economia e seus empregos.#
+
+ 151: 10:07:33.23 10:07:36.07  Duration 00:00:02.09  35
+Vamos devolver
+
+ 152: 10:07:36.12 10:07:39.09  Duration 00:00:02.22  43
+à América toda a sua grandeza.
+
+ 153: 10:07:42.22 10:07:45.20  Duration 00:00:02.23  44
+#O desafio do Canadá
+será encontrar o equilíbrio#
+
+ 154: 10:07:45.24 10:07:47.21  Duration 00:00:01.22  28
+#entre manter as exportações,#
+
+ 155: 10:07:48.00 10:07:49.18  Duration 00:00:01.18  26
+#um vizinho protecionista#
+
+ 156: 10:07:49.22 10:07:53.00  Duration 00:00:03.03  47
+#e uma economia mundial integrada.#
+
+ 157: 10:08:08.12 10:08:10.24  Duration 00:00:02.12  37
+No Canadá,
+diversas medidas sociais
+
+ 158: 10:08:11.03 10:08:12.19  Duration 00:00:01.16  25
+garantem
+a segurança do povo.
+
+ 159: 10:08:12.23 10:08:14.21  Duration 00:00:01.23  29
+É o chamado
+de Estado-providência.
+
+ 160: 10:08:15.00 10:08:16.21  Duration 00:00:01.21  28
+Orgulho
+da identidade canadense,
+
+ 161: 10:08:17.00 10:08:19.05  Duration 00:00:02.05  33
+esse direito agora bem arraigado
+
+ 162: 10:08:19.09 10:08:21.02  Duration 00:00:01.18  26
+é, contudo, questionado.
+
+ 163: 10:08:21.06 10:08:23.18  Duration 00:00:02.12  37
+Vejamos
+como o Estado-providência criou
+
+ 164: 10:08:23.22 10:08:27.05  Duration 00:00:03.08  50
+para enfrentar as diversas
+realidades sociais do país.
+
+ 165: 10:08:30.17 10:08:32.14  Duration 00:00:01.22  28
+O Canadá de ontem a hoje
+
+ 166: 10:08:33.02 10:08:35.11  Duration 00:00:02.09  35
+O Estado-providência
+
+ 167: 10:08:36.01 10:08:38.06  Duration 00:00:02.05  33
+O que é concreto, hoje,
+
+ 168: 10:08:38.10 10:08:41.02  Duration 00:00:02.17  40
+é que anunciam a redução
+da verba da saúde
+
+ 169: 10:08:41.06 10:08:43.12  Duration 00:00:02.06  34
+em 60 bilhões de dólares
+para o Canadá,
+
+ 170: 10:08:43.17 10:08:45.15  Duration 00:00:01.23  29
+e que essa redução
+
+ 171: 10:08:45.19 10:08:47.16  Duration 00:00:01.22  28
+terá um impacto negativo
+
+ 172: 10:08:47.20 10:08:49.16  Duration 00:00:01.21  28
+em nossa capacidade
+de atendimento. 
+
+ 173: 10:08:55.03 10:08:57.01  Duration 00:00:01.23  29
+#O debate
+sobre a verba da saúde#
+
+ 174: 10:08:57.05 10:09:00.05  Duration 00:00:03.00  45
+#parece ser um questionamento
+do Estado-providência.#
+
+ 175: 10:09:00.19 10:09:03.12  Duration 00:00:02.18  41
+#Subvencionada
+pela União e pelas províncias,#
+
+ 176: 10:09:03.17 10:09:06.17  Duration 00:00:03.00  45
+#la saúde viu, ao longo dos anos,
+a parte de Ottawa#
+
+ 177: 10:09:06.22 10:09:10.00  Duration 00:00:03.03  47
+#cair de 50% a menos de 4%.#
+
+ 178: 10:09:10.05 10:09:13.00  Duration 00:00:02.20  42
+#A contragosto,
+a maioria das províncias negociou#
+
+ 179: 10:09:13.05 10:09:15.15  Duration 00:00:02.10  36
+#um acordo bilateral
+com o federal.#
+
+ 180: 10:09:16.02 10:09:18.15  Duration 00:00:02.13  38
+#Esse conflito
+entre Ottawa e as províncias#
+
+ 181: 10:09:18.19 10:09:20.08  Duration 00:00:01.14  23
+#tem origens longínquas.#
+
+ 182: 10:09:23.12 10:09:25.03  Duration 00:00:01.16  25
+#No início da Confederação,#
+
+ 183: 10:09:25.07 10:09:29.01  Duration 00:00:03.19  56
+#o Estado tem papel quase nulo
+na ajuda aos necessitados.#
+
+ 184: 10:09:29.16 10:09:31.22  Duration 00:00:02.06  34
+O governo federal, em princípio,
+
+ 185: 10:09:32.01 10:09:36.14  Duration 00:00:04.13  68
+segundo a repartição de poderes
+em virtude da Constituição de 1867,
+
+ 186: 10:09:36.19 10:09:40.02  Duration 00:00:03.08  50
+não cuida das condições de vida,
+
+ 187: 10:09:40.06 10:09:42.20  Duration 00:00:02.14  38
+das políticas sociais
+ou da caridade pública.
+
+ 188: 10:09:43.00 10:09:45.21  Duration 00:00:02.21  43
+Os pobres devem trabalhar
+por suas melhorias,
+
+ 189: 10:09:46.01 10:09:48.12  Duration 00:00:02.11  37
+Ser pobre é sinal de decadência,
+
+ 190: 10:09:48.16 10:09:50.18  Duration 00:00:02.02  31
+é um sinal
+que fica mais negativo.
+
+ 191: 10:09:50.22 10:09:52.20  Duration 00:00:01.23  29
+São pessoas
+que foram incapazes
+
+ 192: 10:09:52.24 10:09:55.22  Duration 00:00:02.23  44
+de cuidar de si próprias.
+
+ 193: 10:09:57.00 10:09:59.16  Duration 00:00:02.16  40
+#O socorro caritativo,
+quando chega,#
+
+ 194: 10:09:59.21 10:10:02.08  Duration 00:00:02.12  37
+#é ligado à iniciativa privada,#
+
+ 195: 10:10:02.12 10:10:04.10  Duration 00:00:01.23  29
+#indivíduoais ou de organismos.#
+
+ 196: 10:10:04.14 10:10:07.03  Duration 00:00:02.14  38
+As associações caritativas
+ou filantrópicas,
+
+ 197: 10:10:07.07 10:10:09.00  Duration 00:00:01.18  26
+as congregações religiosas,
+
+ 198: 10:10:09.04 10:10:10.22  Duration 00:00:01.18  26
+vão ajudar
+os desfavorecidos.
+
+ 199: 10:10:11.02 10:10:14.04  Duration 00:00:03.02  46
+Também é lavada ajuda
+a quem tem méritos.
+
+ 200: 10:10:14.08 10:10:17.24  Duration 00:00:03.16  55
+Não só é preciso provar
+que não se tem recursos,
+
+ 201: 10:10:18.03 10:10:21.19  Duration 00:00:03.16  55
+mas também que se tem uma moral
+acima de qualquer suspeita.
+
+ 202: 10:10:21.24 10:10:23.24  Duration 00:00:02.00  30
+É preciso ser
+um pobre merecedor.
+
+ 203: 10:10:24.04 10:10:26.12  Duration 00:00:02.08  35
+As organizações
+têm a mesma conclusão:
+
+ 204: 10:10:26.16 10:10:28.05  Duration 00:00:01.14  23
+ajudar os pobres
+a se ajudarem
+
+ 205: 10:10:28.09 10:10:30.02  Duration 00:00:01.18  26
+para serem independentes,
+
+ 206: 10:10:30.06 10:10:33.10  Duration 00:00:03.04  47
+sem dependerem
+da caridade privada nem do Estado.
+
+ 207: 10:10:35.09 10:10:38.00  Duration 00:00:02.16  40
+#Mas a pressão
+ligada à industrialização#
+
+ 208: 10:10:38.04 10:10:41.13  Duration 00:00:03.09  50
+#e à urbanização
+na virada do século XX,#
+
+ 209: 10:10:41.18 10:10:44.00  Duration 00:00:02.07  34
+#com a crise econômica
+dos anos 30,#
+
+ 210: 10:10:44.05 10:10:48.00  Duration 00:00:03.20  57
+#fazem com que a caridade privada
+não consiga mais dar conta.#
+
+ 211: 10:10:48.05 10:10:51.05  Duration 00:00:03.00  45
+O que o Estado vai fazer
+quando intervir
+
+ 212: 10:10:51.09 10:10:54.12  Duration 00:00:03.03  47
+é que se limitará
+a subvencionar a caridade privada.
+
+ 213: 10:10:54.16 10:10:56.06  Duration 00:00:01.15  24
+O principal objetivo
+do Estado
+
+ 214: 10:10:56.11 10:10:59.20  Duration 00:00:03.09  50
+é garantir que os pobres
+não tenham a convicção
+
+ 215: 10:10:59.24 10:11:03.14  Duration 00:00:03.15  54
+de que têm o direito
+de exigir auxílio do Estado.
+
+ 216: 10:11:06.05 10:11:08.21  Duration 00:00:02.16  40
+#A gravidade da crise econômica
+dos anos 30#
+
+ 217: 10:11:09.00 10:11:10.13  Duration 00:00:01.13  23
+#mostra os limites
+do sistema.#
+
+ 218: 10:11:11.05 10:11:13.01  Duration 00:00:01.21  28
+#O desemprego e a miséria#
+
+ 219: 10:11:13.06 10:11:16.10  Duration 00:00:03.04  47
+#forçam os governos e os indivíduos#
+
+ 220: 10:11:16.15 10:11:17.20  Duration 00:00:01.05  18
+#a buscar soluções.#
+
+ 221: 10:11:20.06 10:11:22.11  Duration 00:00:02.05  33
+#As ideias mais audaciosas virão#
+
+ 222: 10:11:22.15 10:11:24.18  Duration 00:00:02.03  32
+#de um jovem pastor do Saskatchewan#
+
+ 223: 10:11:24.22 10:11:28.08  Duration 00:00:03.11  52
+#que é eleito deputado
+de um partido socialista, a CCF,#
+
+ 224: 10:11:28.12 10:11:30.19  Duration 00:00:02.07  34
+#ancestral do atual NPD.#
+
+ 225: 10:11:30.23 10:11:33.07  Duration 00:00:02.09  35
+#Tommy Douglas vai para Ottawa#
+
+ 226: 10:11:33.11 10:11:36.18  Duration 00:00:03.07  49
+#com intenção de lutar
+contra a desigualdade social.#
+
+ 227: 10:11:38.24 10:11:41.22  Duration 00:00:02.23  44
+Ele propõe, no fundo,
+
+ 228: 10:11:42.02 10:11:45.20  Duration 00:00:03.18  56
+reformas sociais importantes
+
+ 229: 10:11:45.24 10:11:48.03  Duration 00:00:02.04  32
+que interessam a população.
+
+ 230: 10:11:48.08 10:11:51.02  Duration 00:00:02.19  41
+Os liberais, que estão no poder,
+
+ 231: 10:11:51.06 10:11:56.11  Duration 00:00:05.05  78
+vão decidir resistir
+a essa ascensão
+
+ 232: 10:11:56.15 10:12:00.09  Duration 00:00:03.19  56
+adotando eles próprios
+políticas sociais,
+
+ 233: 10:12:00.13 10:12:04.03  Duration 00:00:03.15  54
+como os auxílios sociais,
+por exemplo,
+
+ 234: 10:12:05.05 10:12:08.13  Duration 00:00:03.08  50
+que visam a puxar o tapete
+
+ 235: 10:12:08.18 10:12:10.08  Duration 00:00:01.15  24
+do partido socialista.
+
+ 236: 10:12:12.22 10:12:16.02  Duration 00:00:03.05  48
+#Em 1944,
+Tommy Douglas deixa Ottawa#
+
+ 237: 10:12:16.06 10:12:19.21  Duration 00:00:03.15  54
+#para ser eleito primeiro-ministro
+socialista da Saskatchewan.#
+
+ 238: 10:12:20.00 10:12:22.08  Duration 00:00:02.08  35
+É o 1º governo socialista
+da América do Norte.
+
+ 239: 10:12:22.12 10:12:25.19  Duration 00:00:03.07  49
+Toda a América do Norte
+observa isso
+
+ 240: 10:12:25.23 10:12:31.06  Duration 00:00:05.08  80
+com muita preocupação
+ou esperança,
+
+ 241: 10:12:31.10 10:12:33.04  Duration 00:00:01.19  26
+dependendo da pessoa.
+
+ 242: 10:12:34.09 10:12:36.14  Duration 00:00:02.05  33
+E o que a Saskatchewan vai fazer,
+
+ 243: 10:12:36.18 10:12:41.07  Duration 00:00:04.14  68
+adotando as primeiras leis
+de seguro hospitalização
+
+ 244: 10:12:41.11 10:12:42.17  Duration 00:00:01.06  19
+e seguro-saúde,
+
+ 245: 10:12:42.21 10:12:45.23  Duration 00:00:03.02  46
+é realmente forçar
+o resto do Canadá
+
+ 246: 10:12:46.03 10:12:48.14  Duration 00:00:02.11  37
+a refletir
+sobre o sistema de saúde.
+
+ 247: 10:12:48.19 10:12:51.23  Duration 00:00:03.04  47
+A grande mudança
+com o Estado-providência
+
+ 248: 10:12:52.03 10:12:54.06  Duration 00:00:02.03  32
+é que pouco importa o mérito,
+
+ 249: 10:12:54.10 10:12:57.10  Duration 00:00:03.00  45
+todos terão direito
+à mesma cobertura social.
+
+ 250: 10:12:57.15 10:12:59.10  Duration 00:00:01.20  27
+É o princípio
+da universalidade.
+
+ 251: 10:12:59.15 10:13:02.03  Duration 00:00:02.13  38
+#O socorro caritativo
+tornou-se um direito#
+
+ 252: 10:13:02.19 10:13:04.22  Duration 00:00:02.03  32
+#pela dignidade da pessoa.#
+
+ 253: 10:13:06.13 10:13:08.22  Duration 00:00:02.09  35
+#Uma rede social que agrupa medidas#
+
+ 254: 10:13:09.01 10:13:12.00  Duration 00:00:02.24  44
+#financiadas
+pelas diversas instâncias do governo.#
+
+ 255: 10:13:12.04 10:13:14.17  Duration 00:00:02.13  38
+#É o chamado Estado-providência.#
+
+ 256: 10:13:14.21 10:13:19.13  Duration 00:00:04.17  70
+#A partir de meados dos anos 70
+e do início dos anos 80,#
+
+ 257: 10:13:20.04 10:13:23.05  Duration 00:00:03.01  46
+#os governos rompem
+com essa filosofia.#
+
+ 258: 10:13:23.10 10:13:25.03  Duration 00:00:01.18  26
+#Cortam os programas sociais.#
+
+ 259: 10:13:27.21 10:13:28.19  Duration 00:00:00.23  14
+#Os anos 80#
+
+ 260: 10:13:28.23 10:13:31.19  Duration 00:00:02.21  43
+#marcam a chegada
+da pior recessão econômica#
+
+ 261: 10:13:31.23 10:13:33.22  Duration 00:00:01.24  29
+#desde a crise dos anos 30:#
+
+ 262: 10:13:34.02 10:13:36.01  Duration 00:00:01.24  29
+#falências, empresas fechando,#
+
+ 263: 10:13:36.06 10:13:37.01  Duration 00:00:00.20  12
+#demissões...#
+
+ 264: 10:13:37.05 10:13:40.00  Duration 00:00:02.20  42
+#O Estado-providência
+esvazia o tesouro.#
+
+ 265: 10:13:40.18 10:13:43.06  Duration 00:00:02.13  38
+#Reformes limitando o acesso 
+aos programas sociais#
+
+ 266: 10:13:43.10 10:13:45.12  Duration 00:00:02.02  31
+#vão se multiplicar ano após ano.#
+
+ 267: 10:13:46.01 10:13:48.21  Duration 00:00:02.20  42
+#Os protestos dos beneficiários
+também.#
+
+ 268: 10:13:50.10 10:13:52.23  Duration 00:00:02.13  38
+Os anos 80 constituem uma virada.
+
+ 269: 10:13:53.02 10:13:56.17  Duration 00:00:03.15  54
+É a crise do Estado-providência
+que estoura.
+
+ 270: 10:13:56.22 10:14:00.04  Duration 00:00:03.07  49
+Em vez de financiar
+programas de política social,
+
+ 271: 10:14:00.09 10:14:03.12  Duration 00:00:03.03  47
+vão se orientar
+para programas que favoreçam
+
+ 272: 10:14:03.16 10:14:05.05  Duration 00:00:01.14  23
+a retomada da economia.
+
+ 273: 10:14:10.17 10:14:13.06  Duration 00:00:02.14  38
+#Com a população envelhecendo,#
+
+ 274: 10:14:13.20 10:14:16.09  Duration 00:00:02.14  38
+#os auxílios
+são cada vez mais solicitados.#
+
+ 275: 10:14:17.02 10:14:19.22  Duration 00:00:02.20  42
+#A isso somam-se as reações
+dos diversos governos#
+
+ 276: 10:14:20.01 10:14:22.21  Duration 00:00:02.20  42
+#ao contexto econômico
+cada vez mais volátil.#
+
+ 277: 10:14:27.05 10:14:30.07  Duration 00:00:03.02  46
+#As mentalidades evoluíram
+nos últimos 50 anos.#
+
+ 278: 10:14:31.04 10:14:34.00  Duration 00:00:02.21  43
+#Mesmo se o Estado-providência
+não desaparecer,#
+
+ 279: 10:14:34.19 10:14:36.03  Duration 00:00:01.09  20
+#ele terá de se adaptar#
+
+ 280: 10:14:36.07 10:14:38.14  Duration 00:00:02.07  34
+#à nova realidade
+da sociedade canadense.#
+
+ 281: 10:14:58.07 10:15:00.12  Duration 00:00:02.05  33
+Com um vizinho poderoso
+como os EUA,
+
+ 282: 10:15:00.16 10:15:02.12  Duration 00:00:01.21  28
+destacar-se
+na cena internacional
+
+ 283: 10:15:02.16 10:15:04.15  Duration 00:00:01.24  29
+sempre foi um desafio
+para o Canadá.
+
+ 284: 10:15:04.19 10:15:07.15  Duration 00:00:02.21  43
+Ao longo das décadas,
+o Canadá conseguiu,
+
+ 285: 10:15:07.19 10:15:11.04  Duration 00:00:03.10  51
+fazendo papel de mediador,
+criando os capacetes azuis,
+
+ 286: 10:15:11.08 10:15:13.08  Duration 00:00:02.00  30
+e envolvendo-se em conflitos.
+
+ 287: 10:15:13.12 10:15:15.12  Duration 00:00:02.00  30
+Com a instabilidade mundial atual,
+
+ 288: 10:15:15.16 10:15:18.23  Duration 00:00:03.07  49
+o Canadá espera fazer sempre
+seu papel de mediador.
+
+ 289: 10:15:22.11 10:15:23.21  Duration 00:00:01.10  21
+O Canadá de ontem a hoje
+
+ 290: 10:15:24.08 10:15:26.00  Duration 00:00:01.17  25
+A Política Estrangeira
+
+ 291: 10:15:30.02 10:15:32.20  Duration 00:00:02.18  41
+#Fevereiro de 2016.
+O governo federal#
+
+ 292: 10:15:32.24 10:15:35.17  Duration 00:00:02.18  41
+#retire seus CF-18 do Oriente Médio.#
+
+ 293: 10:15:36.10 10:15:37.08  Duration 00:00:00.23  14
+#Motivo?#
+
+ 294: 10:15:37.12 10:15:39.01  Duration 00:00:01.14  23
+Nós queremos realmente
+
+ 295: 10:15:39.05 10:15:43.19  Duration 00:00:04.14  68
+criar uma estabilidade política,
+social e econômica.
+
+ 296: 10:15:44.13 10:15:46.15  Duration 00:00:02.02  31
+#Com essa virada de posição,#
+
+ 297: 10:15:46.19 10:15:49.12  Duration 00:00:02.18  41
+#o governo canadense
+envia uma mensagem clara:#
+
+ 298: 10:15:49.16 10:15:52.03  Duration 00:00:02.12  37
+#ele espera retomar
+seu papel inicial,#
+
+ 299: 10:15:52.20 10:15:57.02  Duration 00:00:04.07  64
+#o de diplomata e mediador
+na cena mundial.#
+
+ 300: 10:15:57.22 10:16:01.00  Duration 00:00:03.03  47
+#Ora, o contexto internacional
+imprevisível#
+
+ 301: 10:16:01.04 10:16:03.07  Duration 00:00:02.03  32
+#poderia mudar o curso dos fatos.#
+
+ 302: 10:16:04.23 10:16:06.18  Duration 00:00:01.20  27
+#A história nos lembra isso.#
+
+ 303: 10:16:12.10 10:16:15.03  Duration 00:00:02.18  41
+#Após a Confederação de 1867,#
+
+ 304: 10:16:15.07 10:16:18.11  Duration 00:00:03.04  47
+#o Dominion of Canada
+ainda é uma colônia britânica.#
+
+ 305: 10:16:18.15 10:16:20.15  Duration 00:00:02.00  30
+#Ele cuida dos assuntos internos,#
+
+ 306: 10:16:20.19 10:16:21.22  Duration 00:00:01.03  17
+#mas no exterior#
+
+ 307: 10:16:22.01 10:16:24.11  Duration 00:00:02.10  36
+#é a Grã-Bretanha
+que fala em seu nome.#
+
+ 308: 10:16:25.02 10:16:27.00  Duration 00:00:01.23  29
+Quando a guerra estoura
+em 1914
+
+ 309: 10:16:27.04 10:16:28.23  Duration 00:00:01.19  26
+entre a Alemanha
+e a Grã-Bretanha,
+
+ 310: 10:16:29.02 10:16:31.07  Duration 00:00:02.05  33
+o Canadá nem precisa
+declarar guerra,
+
+ 311: 10:16:31.11 10:16:33.23  Duration 00:00:02.12  37
+ele é incluído
+na declaração britânica.
+
+ 312: 10:16:34.14 10:16:37.24  Duration 00:00:03.10  51
+#Se a decisão de entrar em guerra
+não cabe ao governo,#
+
+ 313: 10:16:38.03 10:16:40.13  Duration 00:00:02.10  36
+#o Canadá decide
+participar a fundo#
+
+ 314: 10:16:40.17 10:16:43.24  Duration 00:00:03.07  49
+#enviando centenas de milhares
+de voluntários.#
+
+ 315: 10:16:45.01 10:16:48.21  Duration 00:00:03.20  57
+#Mas 3 anos depois, o federal
+impõe o serviço obrigatório,#
+
+ 316: 10:16:49.13 10:16:51.13  Duration 00:00:02.00  30
+#que reanima debates virulentos.#
+
+ 317: 10:16:52.13 10:16:54.07  Duration 00:00:01.19  26
+5 cidadãos pacíficos mortos
+
+ 318: 10:16:54.11 10:16:56.00  Duration 00:00:01.14  23
+#Quando a guerra acaba,#
+
+ 319: 10:16:56.04 10:16:59.15  Duration 00:00:03.11  52
+#o Canadá é um dos signatários
+do Tratado de Versalhes.#
+
+ 320: 10:16:59.20 10:17:03.14  Duration 00:00:03.19  56
+#Uma primeira etapa de autonomia
+que tem poucos efeitos.#
+
+ 321: 10:17:03.18 10:17:07.07  Duration 00:00:03.14  53
+é preciso esperar
+o Estatuto de Westminster, em 1931,
+
+ 322: 10:17:07.12 10:17:10.02  Duration 00:00:02.15  39
+que declara oficialmente
+
+ 323: 10:17:10.06 10:17:13.14  Duration 00:00:03.08  50
+que certas colônias britânicas
+terão uma medida de autonomia
+
+ 324: 10:17:13.18 10:17:17.06  Duration 00:00:03.13  53
+para sua gestão interna
+e para as relações exteriores
+
+ 325: 10:17:17.11 10:17:19.15  Duration 00:00:02.04  32
+Podemos classificá-lo
+
+ 326: 10:17:19.19 10:17:22.21  Duration 00:00:03.02  46
+como uma declaração de independência
+canadense.
+
+ 327: 10:17:23.01 10:17:25.01  Duration 00:00:02.00  30
+Guerra!
+Hitler ataca
+
+ 328: 10:17:25.16 10:17:26.22  Duration 00:00:01.06  19
+#Em 1939,#
+
+ 329: 10:17:27.02 10:17:28.19  Duration 00:00:01.17  25
+#a II Guerra Mundial estoura.#
+
+ 330: 10:17:30.05 10:17:32.11  Duration 00:00:02.06  34
+#Dessa vez,
+o governo canadense#
+
+ 331: 10:17:32.16 10:17:33.19  Duration 00:00:01.03  17
+#leva uma semana#
+
+ 332: 10:17:33.24 10:17:35.22  Duration 00:00:01.23  29
+#para entrar no conflito.#
+
+ 333: 10:17:36.01 10:17:38.18  Duration 00:00:02.17  40
+Foi a ocasião para o Canadá
+
+ 334: 10:17:38.22 10:17:41.18  Duration 00:00:02.21  43
+de afirmar
+seu novo status internacional.
+
+ 335: 10:17:45.14 10:17:46.14  Duration 00:00:01.00  15
+#Em 1956,#
+
+ 336: 10:17:46.19 10:17:50.19  Duration 00:00:04.00  60
+#uma crise estoura quando o Egito
+nacionaliza o Canal de Suez.#
+
+ 337: 10:17:50.24 10:17:52.11  Duration 00:00:01.12  22
+#O Canadá,
+que busca espaço#
+
+ 338: 10:17:52.16 10:17:54.12  Duration 00:00:01.21  28
+#na nova ordem mundial,#
+
+ 339: 10:17:54.16 10:17:57.21  Duration 00:00:03.05  48
+#propõe uma solução para separar
+os beligerantes.#
+
+ 340: 10:17:58.01 10:17:59.23  Duration 00:00:01.22  28
+Lester Pearson vai propor
+
+ 341: 10:18:00.02 10:18:04.21  Duration 00:00:04.19  71
+uma força de interposição pacífica
+sob a autoridade da ONU,
+
+ 342: 10:18:05.00 10:18:05.20  Duration 00:00:00.20  12
+os capacetes azuis,
+
+ 343: 10:18:06.00 10:18:08.00  Duration 00:00:02.00  30
+para separar os egípcios,
+os israelenses,
+
+ 344: 10:18:08.04 10:18:11.01  Duration 00:00:02.22  43
+os franceses e os britânicos
+em torno do canal.
+
+ 345: 10:18:11.05 10:18:13.09  Duration 00:00:02.04  32
+E aí, o Canadá afirma-se
+
+ 346: 10:18:13.13 10:18:17.23  Duration 00:00:04.10  66
+como portador de uma visão única
+do futuro do mundo
+
+ 347: 10:18:18.02 10:18:19.13  Duration 00:00:01.11  22
+e da paz no mundo.
+
+ 348: 10:18:22.11 10:18:24.16  Duration 00:00:02.05  33
+E aliás, Lester Pearson ganha
+
+ 349: 10:18:24.20 10:18:26.22  Duration 00:00:02.02  31
+o prêmio Nobel da Paz por isso.
+
+ 350: 10:18:30.12 10:18:33.11  Duration 00:00:02.24  44
+#Durante a Revolução Tranquila
+dos anos 60,#
+
+ 351: 10:18:33.15 10:18:35.23  Duration 00:00:02.08  35
+#a vinda de Charles de Gaulle
+a Montreal#
+
+ 352: 10:18:36.02 10:18:38.20  Duration 00:00:02.18  41
+#dá visibilidade internacional
+ao Canadá#
+
+ 353: 10:18:39.00 10:18:41.06  Duration 00:00:02.06  34
+#e à causa independentista
+do Quebec.#
+
+ 354: 10:18:41.15 10:18:43.12  Duration 00:00:01.22  28
+Viva o Quebec!
+
+ 355: 10:18:46.14 10:18:49.18  Duration 00:00:03.04  47
+Viva o Quebec livre!
+
+ 356: 10:18:52.13 10:18:54.12  Duration 00:00:01.24  29
+#A aspiração autonomista
+do Quebec#
+
+ 357: 10:18:54.16 10:18:57.06  Duration 00:00:02.15  39
+#condiciona
+a política estrangeira canadense#
+
+ 358: 10:18:57.10 10:18:59.07  Duration 00:00:01.22  28
+#de ajuda e desenvolvimento,#
+
+ 359: 10:18:59.12 10:19:02.10  Duration 00:00:02.23  44
+#sobretudo na África,
+onde a descolonização#
+
+ 360: 10:19:02.14 10:19:04.17  Duration 00:00:02.03  32
+#criou enormes demandas.#
+
+ 361: 10:19:04.21 10:19:08.17  Duration 00:00:03.21  58
+O Canadá concede
+cada vez mais dinheiro
+
+ 362: 10:19:08.21 10:19:12.00  Duration 00:00:03.04  47
+à África francófona
+
+ 363: 10:19:12.04 10:19:15.05  Duration 00:00:03.01  46
+para atender às necessidades
+dessa região,
+
+ 364: 10:19:15.09 10:19:19.02  Duration 00:00:03.18  56
+mas também para neutralizar
+
+ 365: 10:19:19.06 10:19:23.07  Duration 00:00:04.01  61
+as atividades quebequenses
+nesse campo.
+
+ 366: 10:19:23.23 10:19:26.01  Duration 00:00:02.03  32
+#A chegada de Pierre Trudeau
+ao poder#
+
+ 367: 10:19:26.05 10:19:27.01  Duration 00:00:00.21  13
+#marca uma mudança.#
+
+ 368: 10:19:27.18 10:19:30.09  Duration 00:00:02.16  40
+#Ele toma distância
+dos Estados Unidos,#
+
+ 369: 10:19:30.22 10:19:33.15  Duration 00:00:02.18  41
+#não participa do embargo a Cuba#
+
+ 370: 10:19:33.19 10:19:36.18  Duration 00:00:02.24  44
+#e cause grande polêmica
+reconhecendo oficialmente#
+
+ 371: 10:19:36.22 10:19:38.19  Duration 00:00:01.22  28
+#a China comunista.#
+
+ 372: 10:19:38.23 10:19:41.22  Duration 00:00:02.24  44
+Pierre Trudeau procura maximizar
+
+ 373: 10:19:42.01 10:19:44.10  Duration 00:00:02.09  35
+a autonomia canadense.
+
+ 374: 10:19:44.15 10:19:47.24  Duration 00:00:03.09  50
+Mas finalmente,
+ele se dá conta
+
+ 375: 10:19:48.03 10:19:51.21  Duration 00:00:03.18  56
+que a margem de manobra
+para um pequeno país como o Canadá,
+
+ 376: 10:19:52.00 10:19:54.00  Duration 00:00:02.00  30
+num mundo dominado
+pela Guerra Fria,
+
+ 377: 10:19:54.05 10:19:55.16  Duration 00:00:01.11  22
+é bem limitada.
+
+ 378: 10:20:02.07 10:20:04.02  Duration 00:00:01.20  27
+#A eleição de Brian Mulroney#
+
+ 379: 10:20:04.06 10:20:06.15  Duration 00:00:02.09  35
+#permite uma aproximação com os EUA.#
+
+ 380: 10:20:06.19 10:20:08.22  Duration 00:00:02.03  32
+#O primeiro-ministro se destaca#
+
+ 381: 10:20:09.01 10:20:11.11  Duration 00:00:02.10  36
+#pelo tratado
+de livre comércio bilateral.#
+
+ 382: 10:20:12.23 10:20:14.04  Duration 00:00:01.06  19
+#Também se destaca#
+
+ 383: 10:20:14.08 10:20:17.05  Duration 00:00:02.22  43
+#pela luta contra o apartheid
+na África do Sul.#
+
+ 384: 10:20:19.08 10:20:23.21  Duration 00:00:04.13  68
+#Solto, Mandela vem agradecer
+ao povo canadense em Ottawa.#
+
+ 385: 10:20:26.09 10:20:28.08  Duration 00:00:01.24  29
+#Ocupado no país com o Quebec,#
+
+ 386: 10:20:28.12 10:20:31.14  Duration 00:00:03.02  46
+#Jean Chrétien tem pouco tempo
+para a política estrangeira.#
+
+ 387: 10:20:32.09 10:20:34.16  Duration 00:00:02.07  34
+#Ele recusa participar
+da Guerra no Iraque,#
+
+ 388: 10:20:34.20 10:20:37.24  Duration 00:00:03.04  47
+#mas envia tropas
+em apoio ao Afeganistão.#
+
+ 389: 10:20:40.16 10:20:43.04  Duration 00:00:02.13  38
+#A eleição de Stephen Harper
+em 2006#
+
+ 390: 10:20:43.08 10:20:46.23  Duration 00:00:03.15  54
+#marca uma nova virada
+na política estrangeira canadense.#
+
+ 391: 10:20:47.03 10:20:50.01  Duration 00:00:02.23  44
+Pela primeira vez
+o Canadá é um país beligerante,
+
+ 392: 10:20:50.06 10:20:54.22  Duration 00:00:04.16  70
+e isso se reflete na recusa,
+em seguida, de as Nações Unidas
+
+ 393: 10:20:55.01 10:20:58.05  Duration 00:00:03.04  47
+darem um lugar ao Canadá
+no Conselho de Segurança,
+
+ 394: 10:20:58.09 10:21:00.14  Duration 00:00:02.05  33
+pois julgam
+que o Canadá colabora
+
+ 395: 10:21:00.18 10:21:01.15  Duration 00:00:00.22  13
+com os americanos.
+
+ 396: 10:21:05.14 10:21:08.14  Duration 00:00:03.00  45
+#A política estrangeira do Canadá
+foi moldada#
+
+ 397: 10:21:08.18 10:21:10.11  Duration 00:00:01.18  26
+#pelas personalidades#
+
+ 398: 10:21:10.15 10:21:11.18  Duration 00:00:01.03  17
+#dos primeiros-ministros,#
+
+ 399: 10:21:11.22 10:21:14.12  Duration 00:00:02.15  39
+#seus ideais,
+valores e experiências.#
+
+ 400: 10:21:15.10 10:21:16.23  Duration 00:00:01.13  23
+#A eleição de Justin Trudeau#
+
+ 401: 10:21:17.02 10:21:20.21  Duration 00:00:03.19  56
+#marca o desejo de uma volta do país
+à cena internacional.#
+
+ 402: 10:21:24.10 10:21:28.10  Duration 00:00:04.00  60
+#Entretanto, a instabilidade mundial
+pode comprometer#
+
+ 403: 10:21:28.14 10:21:31.01  Duration 00:00:02.12  37
+#o papel que o Canadá pretende ter.#
+
+ 404: 10:22:01.12 10:22:04.07  Duration 00:00:02.20  42
+Foi um documento
+que revolucionou o direito:
+
+ 405: 10:22:04.11 10:22:08.24  Duration 00:00:04.13  68
+a Carta dos Direitos e Liberdades
+na Constituição, em 1982.
+
+ 406: 10:22:09.03 10:22:11.06  Duration 00:00:02.03  32
+Essa carta
+provocou controvérsias
+
+ 407: 10:22:11.10 10:22:13.01  Duration 00:00:01.16  25
+que ainda perduram,
+
+ 408: 10:22:13.05 10:22:15.22  Duration 00:00:02.17  40
+entre outras coisas
+por proteger indivíduos
+
+ 409: 10:22:16.01 10:22:17.22  Duration 00:00:01.21  28
+e os grupos minoritários.
+
+ 410: 10:22:21.20 10:22:23.10  Duration 00:00:01.15  24
+Carta dos Direitos e Liberdades
+
+ 411: 10:22:30.19 10:22:32.12  Duration 00:00:01.18  26
+#Na virada do século XXI,#
+
+ 412: 10:22:32.16 10:22:35.13  Duration 00:00:02.22  43
+#um debate
+agita a sociedade canadense.#
+
+ 413: 10:22:35.18 10:22:38.08  Duration 00:00:02.15  39
+#A luta em torno
+da definição do casamento#
+
+ 414: 10:22:38.13 10:22:41.06  Duration 00:00:02.18  41
+#opõe abertura de espírito
+e conformismo,#
+
+ 415: 10:22:41.10 10:22:44.01  Duration 00:00:02.16  40
+#liberdades indivíduoais e tradições.#
+
+ 416: 10:22:44.10 10:22:49.08  Duration 00:00:04.23  74
+#A Carta dos Direitos e Liberdades,
+adotada em 1982, abriu um debate#
+
+ 417: 10:22:49.12 10:22:53.02  Duration 00:00:03.15  54
+#que os pais da Confederação
+certamente não previram.#
+
+ 418: 10:22:53.07 10:22:55.00  Duration 00:00:01.18  26
+A Carta canadense se impôs
+
+ 419: 10:22:55.04 10:22:58.02  Duration 00:00:02.23  44
+como um vetor de mudança social.
+
+ 420: 10:22:58.07 10:23:00.18  Duration 00:00:02.11  37
+A Suprema Corte do Canadá
+realmente quis
+
+ 421: 10:23:00.23 10:23:04.22  Duration 00:00:03.24  59
+que essa carta opere aos poucos
+
+ 422: 10:23:05.01 10:23:07.03  Duration 00:00:02.02  31
+uma verdadeira revolução,
+
+ 423: 10:23:07.19 10:23:10.04  Duration 00:00:02.10  36
+uma revolução cultural,
+
+ 424: 10:23:10.08 10:23:13.23  Duration 00:00:03.15  54
+instaurando a cultura
+dos direitos e liberdades.
+
+ 425: 10:23:16.11 10:23:17.20  Duration 00:00:01.09  20
+Suprema Corte do Canadá
+
+ 426: 10:23:17.24 10:23:20.10  Duration 00:00:02.11  37
+#Interpretada
+pela Suprema Corte do Canadá,#
+
+ 427: 10:23:20.14 10:23:22.13  Duration 00:00:01.24  29
+#o tribunal máximo do país,#
+
+ 428: 10:23:22.17 10:23:25.08  Duration 00:00:02.16  40
+#a Carta permitiu avanços#
+
+ 429: 10:23:25.12 10:23:27.01  Duration 00:00:01.14  23
+#em vários campos,#
+
+ 430: 10:23:27.05 10:23:29.19  Duration 00:00:02.14  38
+#sobretudo em matéria de aborto,#
+
+ 431: 10:23:29.24 10:23:32.00  Duration 00:00:02.01  31
+#dando o direito
+ao casamento civil#
+
+ 432: 10:23:32.04 10:23:33.20  Duration 00:00:01.16  25
+#de casais do mesmo sexo#
+
+ 433: 10:23:33.24 10:23:37.08  Duration 00:00:03.09  50
+#e abrindo a via legal
+à ajuda médica para morrer.#
+
+ 434: 10:23:40.03 10:23:43.19  Duration 00:00:03.16  55
+O que a Carta permitiu fazer
+
+ 435: 10:23:43.23 10:23:45.21  Duration 00:00:01.23  29
+foi dar como um choque elétrico
+
+ 436: 10:23:46.00 10:23:47.23  Duration 00:00:01.23  29
+à liberdade indivíduoal,
+
+ 437: 10:23:48.13 10:23:53.03  Duration 00:00:04.15  69
+para permitir ter um alicerce
+
+ 438: 10:23:53.07 10:23:54.15  Duration 00:00:01.08  20
+em direito constitucional.
+
+ 439: 10:23:58.17 10:24:01.24  Duration 00:00:03.07  49
+#Desde o fim dos anos 60,
+Pierre Trudeau anuncia#
+
+ 440: 10:24:02.04 10:24:05.08  Duration 00:00:03.04  47
+#sua intenção de repatriar
+a Constituição canadense#
+
+ 441: 10:24:05.12 10:24:09.00  Duration 00:00:03.13  53
+#inscrevendo nela um estatuto
+de direitos e liberdades.#
+
+ 442: 10:24:09.15 10:24:12.17  Duration 00:00:03.02  46
+Se o governo federal insiste
+
+ 443: 10:24:12.21 10:24:14.13  Duration 00:00:01.17  25
+para que o estatuto
+dos direitos humanos
+
+ 444: 10:24:14.17 10:24:17.20  Duration 00:00:03.03  47
+seja parte integrante
+da Constituição
+
+ 445: 10:24:17.24 10:24:19.14  Duration 00:00:01.15  24
+é porque crê
+que os direitos humanos
+
+ 446: 10:24:19.18 10:24:22.12  Duration 00:00:02.19  41
+têm a mesma importância
+para todos os canadenses.
+
+ 447: 10:24:23.00 10:24:26.10  Duration 00:00:03.10  51
+#A vontade política do governo
+é clara.#
+
+ 448: 10:24:26.15 10:24:31.04  Duration 00:00:04.14  68
+#Quando a Constituição do Canadá
+é repatriada, em 1982,#
+
+ 449: 10:24:31.09 10:24:33.04  Duration 00:00:01.20  27
+#a nova Carta
+de Direitos e Libertés#
+
+ 450: 10:24:33.08 10:24:36.05  Duration 00:00:02.22  43
+consta
+como primeira lei constitucional.
+
+ 451: 10:24:36.10 10:24:38.07  Duration 00:00:01.22  28
+A Carta canadense
+de Direitos e Libertés
+
+ 452: 10:24:38.11 10:24:42.18  Duration 00:00:04.07  64
+prevalece sobre as leis federais
+e sobre as leis provinciais.
+
+ 453: 10:24:42.23 10:24:47.09  Duration 00:00:04.11  67
+E a Carta torna-se uma muralha
+para os cidadãos,
+
+ 454: 10:24:48.09 10:24:53.09  Duration 00:00:05.00  75
+um escudo
+contra intervenções arbitrárias
+
+ 455: 10:24:53.13 10:24:54.15  Duration 00:00:01.02  16
+do Estado
+
+ 456: 10:24:54.19 10:24:57.19  Duration 00:00:03.00  45
+ou intervenções do Estado
+que seriam irrazoáveis.
+
+ 457: 10:24:58.04 10:25:00.08  Duration 00:00:02.04  32
+A Carta é parte
+da lei suprema do país
+
+ 458: 10:25:00.13 10:25:03.09  Duration 00:00:02.21  43
+e a Carta inscreve
+certas garantias
+
+ 459: 10:25:03.13 10:25:04.23  Duration 00:00:01.10  21
+em matéria linguística.
+
+ 460: 10:25:05.02 10:25:08.09  Duration 00:00:03.07  49
+Portanto, a natureza bilíngue
+do nível federal,
+
+ 461: 10:25:08.13 10:25:11.11  Duration 00:00:02.23  44
+o caráter bilíngue
+da província da Nova Brunswick
+
+ 462: 10:25:11.15 10:25:13.13  Duration 00:00:01.23  29
+estão inscritos na Carta.
+
+ 463: 10:25:16.14 10:25:19.22  Duration 00:00:03.08  50
+#Inscrevendo a Carta
+como primeira lei constitucional,#
+
+ 464: 10:25:20.01 10:25:22.02  Duration 00:00:02.01  31
+#os magistrados do país
+decidirão#
+
+ 465: 10:25:22.06 10:25:23.21  Duration 00:00:01.15  24
+#sobre questões delicadas.#
+
+ 466: 10:25:24.00 10:25:25.23  Duration 00:00:01.23  29
+A Carta não saiu do nada.
+
+ 467: 10:25:26.02 10:25:28.18  Duration 00:00:02.16  40
+A sociedade já estava mudando.
+
+ 468: 10:25:28.22 10:25:31.21  Duration 00:00:02.24  44
+Acho que a Carta tornou-se o canal
+
+ 469: 10:25:32.00 10:25:34.04  Duration 00:00:02.04  32
+de valores
+que já estavam presentes.
+
+ 470: 10:25:34.09 10:25:38.00  Duration 00:00:03.16  55
+Era um desejo que já se afirmava
+no contexto canadense.
+
+ 471: 10:25:39.08 10:25:41.21  Duration 00:00:02.13  38
+#Com o tempo,
+a Suprema Corte fica lotada#
+
+ 472: 10:25:42.00 10:25:43.21  Duration 00:00:01.21  28
+#de casos ligados à Carta.#
+
+ 473: 10:25:44.00 10:25:45.13  Duration 00:00:01.13  23
+#Sua interpretação#
+
+ 474: 10:25:45.17 10:25:48.13  Duration 00:00:02.21  43
+#influencia profundamente
+a sociedade canadense.#
+
+ 475: 10:25:48.17 10:25:51.20  Duration 00:00:03.03  47
+houve uma decisão da Suprema Corte
+
+ 476: 10:25:51.24 10:25:54.01  Duration 00:00:02.02  31
+autorizando,
+sob certas condições,
+
+ 477: 10:25:54.06 10:25:56.00  Duration 00:00:01.19  26
+a ajuda médica para morrer,
+
+ 478: 10:25:56.04 10:25:57.24  Duration 00:00:01.20  27
+decisões da Suprema Corte
+
+ 479: 10:25:58.03 10:26:01.24  Duration 00:00:03.21  58
+no que concerne prazos
+em processos que eram longos demais,
+
+ 480: 10:26:03.00 10:26:04.08  Duration 00:00:01.08  20
+decisões
+
+ 481: 10:26:04.12 10:26:07.03  Duration 00:00:02.16  40
+no que concerne
+as penas mínimas obrigatórias
+
+ 482: 10:26:07.07 10:26:08.06  Duration 00:00:00.24  14
+no âmbito criminal.
+
+ 483: 10:26:08.11 10:26:11.21  Duration 00:00:03.10  51
+Devo dizer que a Carta
+ainda é ativa
+
+ 484: 10:26:12.10 10:26:16.11  Duration 00:00:04.01  61
+e ainda é utilizada poderosamente
+
+ 485: 10:26:16.15 10:26:18.17  Duration 00:00:02.02  31
+pelos cidadãos canadenses
+
+ 486: 10:26:18.21 10:26:20.24  Duration 00:00:02.03  32
+e amplamente interpretada
+
+ 487: 10:26:21.04 10:26:22.23  Duration 00:00:01.19  26
+pela Suprema Corte
+do Canadá. 
+
+ 488: 10:26:23.17 10:26:25.15  Duration 00:00:01.23  29
+#Entretanto,
+esses casos famosos#
+
+ 489: 10:26:25.19 10:26:28.05  Duration 00:00:02.11  37
+#despertam o sentimento
+em deputados#
+
+ 490: 10:26:28.09 10:26:32.07  Duration 00:00:03.23  59
+#que os juízes da Suprema Corte
+se substituíram aos legisladores.#
+
+ 491: 10:26:32.11 10:26:33.11  Duration 00:00:01.00  15
+Não é verdade,
+
+ 492: 10:26:33.15 10:26:36.16  Duration 00:00:03.01  46
+seria um exagero,
+uma mentira, até,
+
+ 493: 10:26:36.20 10:26:41.01  Duration 00:00:04.06  64
+sugerir que os tribunais têm
+a última palavra sobre essas questões
+
+ 494: 10:26:41.06 10:26:43.22  Duration 00:00:02.16  40
+sobre liberdades
+e direitos fundamentais.
+
+ 495: 10:26:45.14 10:26:46.16  Duration 00:00:01.02  16
+#Uma coisa é certa,#
+
+ 496: 10:26:46.20 10:26:49.00  Duration 00:00:02.05  33
+#a Suprema Corte
+deu às liberdades indivíduoais#
+
+ 497: 10:26:49.04 10:26:50.18  Duration 00:00:01.14  23
+#garantidas pela Carta#
+
+ 498: 10:26:50.22 10:26:52.02  Duration 00:00:01.05  18
+#toda a força#
+
+ 499: 10:26:52.06 10:26:55.15  Duration 00:00:03.09  50
+#e ela até se mostrou audaciosa
+em certos julgamentos.#
+
+ 500: 10:26:55.19 10:26:58.20  Duration 00:00:03.01  46
+#A Suprema Corte
+não se substituiu aos legisladores#
+
+ 501: 10:26:58.24 10:27:00.23  Duration 00:00:01.24  29
+#interpretando a Carta,#
+
+ 502: 10:27:01.02 10:27:04.01  Duration 00:00:02.24  44
+#mas ela balizou claramente
+o poder dos eleitos.#
+
+ 503: 10:27:04.22 10:27:09.13  Duration 00:00:04.16  70
+Isso força os legisladores
+a pensar melhor,
+
+ 504: 10:27:09.17 10:27:11.19  Duration 00:00:02.02  31
+a refletir mais,
+
+ 505: 10:27:12.11 10:27:14.06  Duration 00:00:01.20  27
+quando adotam leis.
+
+ 506: 10:27:14.10 10:27:19.08  Duration 00:00:04.23  74
+Isso também força os legisladores a
+ser mais prudentes, mais vigilantes,
+
+ 507: 10:27:19.12 10:27:24.08  Duration 00:00:04.21  73
+e a não exagerar,
+de modo que suas leis
+
+ 508: 10:27:24.13 10:27:27.01  Duration 00:00:02.13  38
+não sejam declaradas
+inconstitucionais.
+
+ 509: 10:27:29.21 10:27:34.06  Duration 00:00:04.10  66
+Isso deu um novo fôlego
+para que os tribunais
+
+ 510: 10:27:34.10 10:27:36.21  Duration 00:00:02.11  37
+possam proteger
+o estado de direito.
+
+ 511: 10:27:37.01 10:27:39.15  Duration 00:00:02.14  38
+Há sempre esse exercício de diálogo
+
+ 512: 10:27:39.19 10:27:41.05  Duration 00:00:01.11  22
+para chegar enfim
+
+ 513: 10:27:41.10 10:27:43.00  Duration 00:00:01.15  24
+à uma solução melhor
+
+ 514: 10:27:43.04 10:27:46.16  Duration 00:00:03.12  52
+que beneficiará
+a sociedade em geral,
+
+ 515: 10:27:46.20 10:27:51.11  Duration 00:00:04.16  70
+mas que não limita exageradamente
+
+ 516: 10:27:51.15 10:27:54.05  Duration 00:00:02.15  39
+os direitos e liberdades
+dados aos indivíduos
+
+ 517: 10:27:54.10 10:27:56.18  Duration 00:00:02.08  35
+perante o aparelho governamental.
+
+ 518: 10:27:59.24 10:28:03.05  Duration 00:00:03.06  49
+#Intimamente ligada
+à evolução da democracia,#
+
+ 519: 10:28:03.09 10:28:04.20  Duration 00:00:01.11  22
+#a Carta dos Direitos e Liberdades#
+
+ 520: 10:28:05.00 10:28:07.15  Duration 00:00:02.15  39
+#soube definir, apoiar e alimentar#
+
+ 521: 10:28:07.20 10:28:09.21  Duration 00:00:02.01  31
+#a busca por um equilíbrio#
+
+ 522: 10:28:10.01 10:28:13.16  Duration 00:00:03.15  54
+#entre os direitos individuais
+e os da sociedade canadense.#
+
+ 523: 10:28:38.03 10:28:40.16  Duration 00:00:02.13  38
+É possível conciliar
+exploração do petróleo
+
+ 524: 10:28:40.20 10:28:42.19  Duration 00:00:01.24  29
+e proteção do meio ambiente?
+
+ 525: 10:28:42.23 10:28:44.24  Duration 00:00:02.01  31
+Qual é nossa relação
+com a natureza?
+
+ 526: 10:28:45.03 10:28:49.04  Duration 00:00:04.01  61
+Nesse último capítulo sobre os
+150 anos da Confederação Canadense,
+
+ 527: 10:28:49.08 10:28:51.10  Duration 00:00:02.02  31
+examinamos o difícil equilíbrio
+
+ 528: 10:28:51.14 10:28:54.24  Duration 00:00:03.10  51
+entre desenvolvimento energético
+e consciência ecológica.
+
+ 529: 10:28:58.11 10:29:00.02  Duration 00:00:01.16  25
+O Canadá de ontem a hoje
+
+ 530: 10:29:00.19 10:29:02.13  Duration 00:00:01.19  26
+Energia e Ecologia
+
+ 531: 10:29:07.07 10:29:08.17  Duration 00:00:01.10  21
+#Fevereiro de 2017.#
+
+ 532: 10:29:09.04 10:29:12.24  Duration 00:00:03.20  57
+#A Parcs Canada começa
+a reintrodução do bisão-americano#
+
+ 533: 10:29:13.04 10:29:14.11  Duration 00:00:01.07  19
+#no Parque Nacional de Banff.#
+
+ 534: 10:29:14.16 10:29:16.11  Duration 00:00:01.20  27
+Os bisões acabaram
+simplesmente
+
+ 535: 10:29:16.15 10:29:18.21  Duration 00:00:02.06  34
+porque os caçaram
+quando a ferrovia chegou.
+
+ 536: 10:29:21.04 10:29:23.10  Duration 00:00:02.06  34
+#Mas como a caça abusiva ao bisão#
+
+ 537: 10:29:23.14 10:29:27.02  Duration 00:00:03.13  53
+#teve um papel tão importante
+na história da Confederação?#
+
+ 538: 10:29:27.07 10:29:29.15  Duration 00:00:02.08  35
+#A resposta está no nosso passado.#
+
+ 539: 10:29:34.05 10:29:35.17  Duration 00:00:01.12  22
+#Quando nos confederamos,#
+
+ 540: 10:29:35.21 10:29:37.20  Duration 00:00:01.24  29
+#a industrialização dependia#
+
+ 541: 10:29:38.00 10:29:40.07  Duration 00:00:02.07  34
+#da imensa demanda de energia#
+
+ 542: 10:29:40.12 10:29:42.13  Duration 00:00:02.01  31
+#das centenas de milhares
+de máquinas.#
+
+ 543: 10:29:42.17 10:29:44.05  Duration 00:00:01.13  23
+#E a transferência da energia#
+
+ 544: 10:29:44.10 10:29:47.17  Duration 00:00:03.07  49
+#às máquinas exigia correias.#
+
+ 545: 10:29:47.22 10:29:49.16  Duration 00:00:01.19  26
+O bisão foi basicamente caçado
+
+ 546: 10:29:49.20 10:29:51.22  Duration 00:00:02.02  31
+para fornecer couro
+
+ 547: 10:29:52.02 10:29:53.23  Duration 00:00:01.21  28
+à Revolução Industrial
+britânica.
+
+ 548: 10:29:54.03 10:29:56.24  Duration 00:00:02.21  43
+Pois com o couro dos bisões,
+faziam-se correias
+
+ 549: 10:29:57.03 10:29:58.21  Duration 00:00:01.18  26
+das máquinas industriais.
+
+ 550: 10:30:00.00 10:30:02.10  Duration 00:00:02.10  36
+#A industrialização
+não tem só vantagens.#
+
+ 551: 10:30:02.24 10:30:05.06  Duration 00:00:02.07  34
+#Ela também traz
+poluição, insalubridade#
+
+ 552: 10:30:05.11 10:30:08.03  Duration 00:00:02.17  40
+#e contaminação de certos meios.#
+
+ 553: 10:30:08.07 10:30:10.21  Duration 00:00:02.14  38
+#Mas na época,
+as preocupações ambientais#
+
+ 554: 10:30:11.00 10:30:11.21  Duration 00:00:00.21  13
+#não existiam.#
+
+ 555: 10:30:12.01 10:30:13.19  Duration 00:00:01.18  26
+Queríamos que a cidade
+
+ 556: 10:30:13.23 10:30:18.04  Duration 00:00:04.06  64
+parecesse uma metrópole industrial,
+
+ 557: 10:30:18.09 10:30:22.02  Duration 00:00:03.18  56
+e a fumaça das chaminés era sinal
+
+ 558: 10:30:22.06 10:30:24.07  Duration 00:00:02.01  31
+dessa prosperidade,
+dessa riqueza.
+
+ 559: 10:30:24.11 10:30:27.20  Duration 00:00:03.09  50
+Eram qualificadas
+de "chaminés do progresso".
+
+ 560: 10:30:28.08 10:30:31.14  Duration 00:00:03.06  49
+#A industrialização
+terá efeitos na natureza.#
+
+ 561: 10:30:31.18 10:30:34.02  Duration 00:00:02.09  35
+#Os raros esforços de proteção
+remontam#
+
+ 562: 10:30:34.07 10:30:36.02  Duration 00:00:01.20  27
+a meados do século XIX.
+
+ 563: 10:30:36.06 10:30:38.18  Duration 00:00:02.12  37
+#Mas o objetivo não é
+o que pensamos.#
+
+ 564: 10:30:41.19 10:30:42.23  Duration 00:00:01.04  17
+Pedem ao governo
+
+ 565: 10:30:43.03 10:30:46.21  Duration 00:00:03.18  56
+que proteja esses recursos
+e criam reservas,
+
+ 566: 10:30:47.01 10:30:50.03  Duration 00:00:03.02  46
+mas esses territórios
+são atribuídos a clubes,
+
+ 567: 10:30:50.07 10:30:53.10  Duration 00:00:03.03  47
+portanto a indivíduos
+
+ 568: 10:30:53.14 10:30:56.12  Duration 00:00:02.23  44
+que terão o monopólio
+desses territórios.
+
+ 569: 10:30:56.17 10:30:59.04  Duration 00:00:02.12  37
+Também querem criar
+uma indústria turística
+
+ 570: 10:30:59.08 10:31:01.09  Duration 00:00:02.01  31
+para a ferrovia Canadian Pacific
+
+ 571: 10:31:01.13 10:31:02.24  Duration 00:00:01.11  22
+que passa nessas regiões.
+
+ 572: 10:31:03.04 10:31:06.22  Duration 00:00:03.18  56
+É um modo de estimular
+a indústria ferroviária, turística.
+
+ 573: 10:31:07.02 10:31:10.19  Duration 00:00:03.17  55
+#É o que motiva a criação
+de uma série de parques nacionais,#
+
+ 574: 10:31:10.23 10:31:15.02  Duration 00:00:04.04  62
+#dos quais o primeiro abre em Banff,
+no Alberta, em 1885.#
+
+ 575: 10:31:18.05 10:31:21.17  Duration 00:00:03.12  52
+#Com o tempo, a demanda de energia
+fica gigantesca.#
+
+ 576: 10:31:22.07 10:31:25.07  Duration 00:00:03.00  45
+#Cada região do país
+faz suas escolhas energéticas#
+
+ 577: 10:31:25.11 10:31:28.06  Duration 00:00:02.20  42
+#em função do território
+e dos recursos disponíveis.#
+
+ 578: 10:31:28.19 10:31:32.08  Duration 00:00:03.14  53
+#Veremos assim o Ontário
+e as Marítimas escolher o carvão,#
+
+ 579: 10:31:33.00 10:31:35.05  Duration 00:00:02.05  33
+#o Quebec, as hidrelétricas.#
+
+ 580: 10:31:35.19 10:31:38.17  Duration 00:00:02.23  44
+#Até o átomo dará sua contribuição.#
+
+ 581: 10:31:38.22 10:31:41.22  Duration 00:00:03.00  45
+#Mas em meados do século XX,
+tudo muda.#
+
+ 582: 10:31:49.03 10:31:51.24  Duration 00:00:02.21  43
+O momento decisivo
+na história do país
+
+ 583: 10:31:52.03 10:31:55.18  Duration 00:00:03.15  54
+é a descoberta de petróleo abundante
+em Leduc, em 1947.
+
+ 584: 10:31:55.23 10:32:01.02  Duration 00:00:05.04  77
+Da noite para o dia, o Canadá
+dispõe de uma reserva de combustível
+
+ 585: 10:32:01.06 10:32:05.06  Duration 00:00:04.00  60
+que pode ser transportada facilmente
+pelo país.
+
+ 586: 10:32:05.11 10:32:07.14  Duration 00:00:02.03  32
+#essa descoberta
+transforma totalmente#
+
+ 587: 10:32:07.18 10:32:10.03  Duration 00:00:02.10  36
+#a história energética e ecológica
+do país.#
+
+ 588: 10:32:15.12 10:32:16.08  Duration 00:00:00.21  13
+#O Canadá vira#
+
+ 589: 10:32:16.12 10:32:18.06  Duration 00:00:01.19  26
+#um enorme canteiro de obras#
+
+ 590: 10:32:18.11 10:32:20.19  Duration 00:00:02.08  35
+#para transporte de energia.#
+
+ 591: 10:32:21.04 10:32:23.18  Duration 00:00:02.14  38
+#Pipelines, linhas de alta tensão#
+
+ 592: 10:32:23.24 10:32:25.24  Duration 00:00:02.00  30
+#e ferrovias cortam o país.#
+
+ 593: 10:32:26.03 10:32:28.17  Duration 00:00:02.14  38
+#Mas esse transporte
+causará problemas.#
+
+ 594: 10:32:31.01 10:32:33.01  Duration 00:00:02.00  30
+#Aos poucos,
+a consciência ecológica#
+
+ 595: 10:32:33.06 10:32:35.06  Duration 00:00:02.00  30
+#começa a ganhar corpo pelo país.#
+
+ 596: 10:32:35.20 10:32:38.10  Duration 00:00:02.15  39
+#Os nativos
+são os primeiros a lutar.#
+
+ 597: 10:32:38.20 10:32:40.14  Duration 00:00:01.19  26
+Temos a responsabilidade
+
+ 598: 10:32:40.18 10:32:43.15  Duration 00:00:02.22  43
+de compartilhar
+nosso saber tradicional,
+
+ 599: 10:32:43.20 10:32:45.16  Duration 00:00:01.21  28
+sobretudo sobre a ecologia,
+
+ 600: 10:32:45.20 10:32:47.07  Duration 00:00:01.12  22
+a questão ambiental,
+
+ 601: 10:32:47.11 10:32:48.22  Duration 00:00:01.11  22
+e compartilhar
+esse saber.
+
+ 602: 10:32:55.10 10:32:58.23  Duration 00:00:03.13  53
+#E como sempre, são tragédias
+que provocam mudanças:#
+
+ 603: 10:32:59.02 10:33:03.02  Duration 00:00:04.00  60
+#o descarrilhamento de um trem
+de carga perigosa em Mississauga,#
+
+ 604: 10:33:03.06 10:33:06.02  Duration 00:00:02.21  43
+#o naufrágio
+da plataforma Ocean Ranger,#
+
+ 605: 10:33:06.06 10:33:07.16  Duration 00:00:01.10  21
+#ao largo da Terra Nova#
+
+ 606: 10:33:07.20 10:33:10.02  Duration 00:00:02.07  34
+#e o da Exxon Valdez no Alasca,#
+
+ 607: 10:33:10.06 10:33:13.11  Duration 00:00:03.05  48
+#e ultimamente a tragédia
+de Lac-Mégantic.#
+
+ 608: 10:33:16.24 10:33:19.05  Duration 00:00:02.06  34
+Nos anos 70, há realmente
+
+ 609: 10:33:19.09 10:33:23.00  Duration 00:00:03.16  55
+uma radicalização
+dos movimentos ambientalistas
+
+ 610: 10:33:23.04 10:33:26.08  Duration 00:00:03.04  47
+que criticam o modo
+de desenvolvimento econômico,
+
+ 611: 10:33:26.12 10:33:27.15  Duration 00:00:01.03  17
+a sociedade de consumo,
+
+ 612: 10:33:27.19 10:33:31.07  Duration 00:00:03.13  53
+e que mostram
+que estamos destruindo o planeta.
+
+ 613: 10:33:31.12 10:33:35.14  Duration 00:00:04.02  61
+#O surgimento de novas energias,
+solar, eólica#
+
+ 614: 10:33:35.18 10:33:38.10  Duration 00:00:02.17  40
+#e a consolidação
+da consciência ecológica#
+
+ 615: 10:33:38.14 10:33:40.11  Duration 00:00:01.22  28
+#não impedem que consumamos#
+
+ 616: 10:33:40.15 10:33:42.07  Duration 00:00:01.17  25
+#cada vez mais energia.#
+
+ 617: 10:33:42.11 10:33:44.03  Duration 00:00:01.17  25
+#estamos numa encruzilhada.#
+
+ 618: 10:33:45.01 10:33:47.24  Duration 00:00:02.23  44
+Nossa época não tem precedentes.
+
+ 619: 10:33:48.03 10:33:50.12  Duration 00:00:02.09  35
+A quantidade de energia
+que consumimos atualmente
+
+ 620: 10:33:50.16 10:33:53.17  Duration 00:00:03.01  46
+nunca foi afetada no Canadá.
+
+ 621: 10:33:53.23 10:33:59.03  Duration 00:00:05.05  78
+Então minha pergunta é: como será
+a vida se consumirmos menos energia
+
+ 622: 10:33:59.07 10:34:02.13  Duration 00:00:03.06  49
+e qual será o impacto
+sobre os comuns mortais?
+
+ 623: 10:34:08.00 10:34:10.09  Duration 00:00:02.09  35
+#150 anos após a Confederação,#
+
+ 624: 10:34:10.13 10:34:13.11  Duration 00:00:02.23  44
+#ainda dependemos
+de várias formas de energia#
+
+ 625: 10:34:13.15 10:34:15.23  Duration 00:00:02.08  35
+#para alimentar
+nosso estilo de vida.#
+
+ 626: 10:34:16.02 10:34:18.18  Duration 00:00:02.16  40
+#Hoje, tentamos
+chegar a um consenso#
+
+ 627: 10:34:18.22 10:34:21.08  Duration 00:00:02.11  37
+#reduzindo nossa pegada ecológica#
+
+ 628: 10:34:21.12 10:34:24.16  Duration 00:00:03.04  47
+#e tentando reparar
+os erros do passado,#
+
+ 629: 10:34:24.20 10:34:27.11  Duration 00:00:02.16  40
+#pelo bem-estar
+das gerações futuras.#
+
+ 630: 10:34:34.24 10:34:37.20  Duration 00:00:02.21  43
+#Há momentos em que uma nação,
+um país,#
+
+ 631: 10:34:37.24 10:34:40.21  Duration 00:00:02.22  43
+#se toca, se molda e se redefine.#
+
+ 632: 10:34:41.10 10:34:42.18  Duration 00:00:01.08  20
+#Concebendo o Canadá,#
+
+ 633: 10:34:42.22 10:34:46.01  Duration 00:00:03.04  47
+#esses momentos ocuparam
+os pais da Confederação.#
+
+ 634: 10:34:47.09 10:34:48.14  Duration 00:00:01.05  18
+#Ante esses desafios,#
+
+ 635: 10:34:48.18 10:34:52.08  Duration 00:00:03.15  54
+#a jovem confederação conseguiu
+estabelecer as bases do país#
+
+ 636: 10:34:52.12 10:34:54.17  Duration 00:00:02.05  33
+#conquistando
+territórios do Oeste,#
+
+ 637: 10:34:54.21 10:34:57.04  Duration 00:00:02.08  35
+#ricos em recursos e em promessas.#
+
+ 638: 10:34:58.14 10:35:01.02  Duration 00:00:02.13  38
+#Esquecidos
+na esteira dessa aventura,#
+
+ 639: 10:35:01.06 10:35:02.24  Duration 00:00:01.18  26
+#os povos autóctones.#
+
+ 640: 10:35:03.03 10:35:04.20  Duration 00:00:01.17  25
+#O destino deles#
+
+ 641: 10:35:04.24 10:35:07.03  Duration 00:00:02.04  32
+#é um dos capítulos mais sombrios#
+
+ 642: 10:35:07.07 10:35:08.09  Duration 00:00:01.02  16
+#da nossa história.#
+
+ 643: 10:35:08.14 10:35:11.16  Duration 00:00:03.02  46
+#Um desafio
+que ainda não conseguimos resolver.#
+
+ 644: 10:35:19.08 10:35:21.02  Duration 00:00:01.19  26
+#A história da Confederação#
+
+ 645: 10:35:21.06 10:35:23.21  Duration 00:00:02.15  39
+#é portanto 150 anos
+de questionamentos,#
+
+ 646: 10:35:24.00 10:35:25.24  Duration 00:00:01.24  29
+#de sucessos e de erros#
+
+ 647: 10:35:26.03 10:35:28.15  Duration 00:00:02.12  37
+#que não param
+de redefinir nosso país.#
+
+ 648: 10:35:35.07 10:35:37.01  Duration 00:00:01.19  26
+#São essas experiências#
+
+ 649: 10:35:37.05 10:35:40.00  Duration 00:00:02.20  42
+#que nos distinguem
+do poderoso vizinho do sul,#
+
+ 650: 10:35:40.04 10:35:43.15  Duration 00:00:03.11  52
+#um dos objetivos
+que estimularam nossa confederação.#
+
+ 651: 10:35:47.22 10:35:49.20  Duration 00:00:01.23  29
+#150 anos de ações cidadãs#
+
+ 652: 10:35:49.24 10:35:52.11  Duration 00:00:02.12  37
+#que ajudaram
+a tecer a fibra social,#
+
+ 653: 10:35:52.16 10:35:55.08  Duration 00:00:02.17  40
+#econômica e política
+do nosso país,#
+
+ 654: 10:35:55.12 10:35:56.22  Duration 00:00:01.10  21
+#que definiram quem somos#
+
+ 655: 10:35:57.01 10:35:59.17  Duration 00:00:02.16  40
+#e que balizam nosso futuro
+como Nação.#
+
+ 656: 10:36:23.02 10:36:25.15  Duration 00:00:02.13  38
+Os bois-almiscarados
+do arquipélago ártico
+
+ 657: 10:36:25.19 10:36:28.05  Duration 00:00:02.11  37
+vivem na região polar
+há milhares de anos.
+
+ 658: 10:36:28.09 10:36:30.04  Duration 00:00:01.20  27
+Estão perfeitamente adaptados.
+
+ 659: 10:36:30.08 10:36:31.20  Duration 00:00:01.12  22
+Porém, há alguns anos,
+
+ 660: 10:36:31.24 10:36:33.23  Duration 00:00:01.24  29
+uma doença misteriosa
+os ataca
+
+ 661: 10:36:34.02 10:36:35.13  Duration 00:00:01.11  22
+e mata em quantidade.
+
+ 662: 10:36:35.17 10:36:38.03  Duration 00:00:02.11  37
+Os cientistas e os inuits
+uniram esforços
+
+ 663: 10:36:38.07 10:36:40.18  Duration 00:00:02.11  37
+para tentar descobrir por quê.
+
+ 664: 10:36:40.23 10:36:44.01  Duration 00:00:03.03  47
+Bois-almiscarados
+
+ 665: 10:36:57.09 10:36:59.05  Duration 00:00:01.21  28
+Estavam aqui
+há pouco tempo.
+
+ 666: 10:37:00.04 10:37:02.08  Duration 00:00:02.04  32
+Sabemos por causa da neve pisada.
+
+ 667: 10:37:04.08 10:37:08.18  Duration 00:00:04.10  66
+#Colin Amegainek passou a vida
+caçando na Ilha de Victoria,#
+
+ 668: 10:37:08.22 10:37:10.06  Duration 00:00:01.09  20
+#no Ártico canadense.#
+
+ 669: 10:37:12.12 10:37:14.22  Duration 00:00:02.10  36
+#Hoje, com seu grupo de caçadores,#
+
+ 670: 10:37:15.02 10:37:16.18  Duration 00:00:01.16  25
+#ele procura
+bois-almiscarados.#
+
+ 671: 10:37:19.08 10:37:21.07  Duration 00:00:01.24  29
+Tem uma pista
+de boi-almiscarado.
+
+ 672: 10:37:22.17 10:37:24.12  Duration 00:00:01.20  27
+Parece estar indo
+para o leste.
+
+ 673: 10:37:28.07 10:37:30.22  Duration 00:00:02.15  39
+#O boi-almiscarado
+é uma das principais#
+
+ 674: 10:37:31.02 10:37:34.19  Duration 00:00:03.17  55
+#fontes de alimento dos Inuits
+nessa região remota do Nunavut.#
+
+ 675: 10:37:39.14 10:37:42.03  Duration 00:00:02.14  38
+#Mas aqui,
+no arquipélago ártico canadense,#
+
+ 676: 10:37:42.08 10:37:45.04  Duration 00:00:02.21  43
+#os caçadores
+da comunidade de Cambridge Bay#
+
+ 677: 10:37:45.08 10:37:48.09  Duration 00:00:03.01  46
+#notam mudanças
+nos animais que abatem.#
+
+ 678: 10:37:58.18 10:38:00.00  Duration 00:00:01.07  19
+Quando cortamos o animal,
+
+ 679: 10:38:01.01 10:38:03.23  Duration 00:00:02.22  43
+notamos cada vez mais quistos
+
+ 680: 10:38:04.02 10:38:06.01  Duration 00:00:01.24  29
+e manchas brancas na carne.
+
+ 681: 10:38:08.20 10:38:10.07  Duration 00:00:01.12  22
+É preocupante.
+
+ 682: 10:38:15.10 10:38:17.06  Duration 00:00:01.21  28
+Não anuncia nada de bom.
+
+ 683: 10:38:18.17 10:38:20.11  Duration 00:00:01.19  26
+Vemos que o boi está doente
+
+ 684: 10:38:20.15 10:38:21.16  Duration 00:00:01.01  16
+ao remover a pele.
+
+ 685: 10:38:22.14 10:38:24.19  Duration 00:00:02.05  33
+A carne está descolorida, magra.
+
+ 686: 10:38:26.03 10:38:27.10  Duration 00:00:01.07  19
+Não tem gordura.
+
+ 687: 10:38:31.17 10:38:33.22  Duration 00:00:02.05  33
+Achei esse boi-almiscarado
+bem magro.
+
+ 688: 10:38:39.11 10:38:41.20  Duration 00:00:02.09  35
+Com os sinais de doença que vemos,
+
+ 689: 10:38:41.24 10:38:44.00  Duration 00:00:02.01  31
+melhor deixar a carne aqui.
+
+ 690: 10:38:48.12 10:38:49.14  Duration 00:00:01.02  16
+É alarmante.
+
+ 691: 10:38:49.19 10:38:52.13  Duration 00:00:02.19  41
+Os Inuits não gostamos
+de desperdiçar comida.
+
+ 692: 10:38:56.08 10:39:00.05  Duration 00:00:03.22  58
+#Estima-se que haja cerca de 100 mil
+bois-almiscarados no Canadá.#
+
+ 693: 10:39:02.09 10:39:04.19  Duration 00:00:02.10  36
+O boi-almiscarado
+é um ser fascinante,
+
+ 694: 10:39:04.23 10:39:06.15  Duration 00:00:01.17  25
+uma relíquia
+da Era do Gelo.
+
+ 695: 10:39:07.18 10:39:11.02  Duration 00:00:03.09  50
+Geneticamente,
+os bois-almiscarados são únicos.
+
+ 696: 10:39:11.06 10:39:13.02  Duration 00:00:01.21  28
+Eles não têm
+parentes próximos.
+
+ 697: 10:39:15.03 10:39:18.03  Duration 00:00:03.00  45
+São animais
+emblemáticos do Ártico.
+
+ 698: 10:39:18.07 10:39:21.03  Duration 00:00:02.21  43
+São maravilhosamente
+bem adaptados ao clima.
+
+ 699: 10:39:23.17 10:39:26.07  Duration 00:00:02.15  39
+#Seu habitat vai de leste a oeste#
+
+ 700: 10:39:26.11 10:39:29.04  Duration 00:00:02.18  41
+#e bem além do Círculo Polar Ártico.#
+
+ 701: 10:39:30.00 10:39:33.03  Duration 00:00:03.03  47
+#Mas se as populações do continente
+vão bem,#
+
+ 702: 10:39:33.07 10:39:36.09  Duration 00:00:03.02  46
+#o estado de saúde dos animais
+das ilhas Banks e Victoria#
+
+ 703: 10:39:36.13 10:39:37.22  Duration 00:00:01.09  20
+#ficou preocupante.#
+
+ 704: 10:39:38.21 10:39:40.19  Duration 00:00:01.23  29
+#Aqui, de uns anos para cá,#
+
+ 705: 10:39:40.23 10:39:43.17  Duration 00:00:02.19  41
+#bois-almiscarados,
+aparentemente em boa saúde,#
+
+ 706: 10:39:43.21 10:39:45.05  Duration 00:00:01.09  20
+#morrem subitamente.#
+
+ 707: 10:39:45.09 10:39:47.20  Duration 00:00:02.11  37
+#A mortalidade é importante.#
+
+ 708: 10:39:49.03 10:39:52.06  Duration 00:00:03.03  47
+#Quando chegou
+à Ilha Victoria, em 2010,#
+
+ 709: 10:39:52.11 10:39:55.17  Duration 00:00:03.06  49
+#a veterinária Susan Kutz
+estranha o que está havendo.#
+
+ 710: 10:39:57.21 10:39:59.07  Duration 00:00:01.11  22
+Cientificamente,
+
+ 711: 10:39:59.12 10:40:01.24  Duration 00:00:02.12  37
+não conhecemos bem
+os bois-almiscarados
+
+ 712: 10:40:02.04 10:40:04.07  Duration 00:00:02.03  32
+e temos de aprender quase tudo.
+
+ 713: 10:40:06.17 10:40:09.10  Duration 00:00:02.18  41
+A presença científica
+no Ártico é recente,
+
+ 714: 10:40:09.14 10:40:10.21  Duration 00:00:01.07  19
+mas o saber tradicional
+
+ 715: 10:40:11.00 10:40:12.05  Duration 00:00:01.05  18
+dos que lá vivem
+
+ 716: 10:40:12.09 10:40:16.05  Duration 00:00:03.21  58
+e que viram mais bois-almiscarados
+do que jamais verei perduram.
+
+ 717: 10:40:17.01 10:40:20.09  Duration 00:00:03.08  50
+Eles têm conhecimentos
+passados de geração em geração.
+
+ 718: 10:40:26.24 10:40:29.10  Duration 00:00:02.11  37
+#Eis porque os cientistas
+e os Inuits#
+
+ 719: 10:40:29.14 10:40:31.09  Duration 00:00:01.20  27
+#escolheram a cooperação.#
+
+ 720: 10:40:32.09 10:40:34.12  Duration 00:00:02.03  32
+Os conhecimentos tradicionais
+
+ 721: 10:40:34.16 10:40:37.01  Duration 00:00:02.10  36
+são provavelmente
+o que há de melhor
+
+ 722: 10:40:37.05 10:40:38.11  Duration 00:00:01.06  19
+para quem vem aqui.
+
+ 723: 10:40:38.15 10:40:42.06  Duration 00:00:03.16  55
+É um bom ponto de partida
+para todos, em vez de dizer:
+
+ 724: 10:40:42.10 10:40:44.13  Duration 00:00:02.03  32
+"Estamos aqui, vamos lá ver."
+
+ 725: 10:40:44.17 10:40:46.16  Duration 00:00:01.24  29
+Você não pode fazer isso.
+
+ 726: 10:40:51.07 10:40:54.15  Duration 00:00:03.08  50
+#E na Ilha Victoria,
+o trabalho começa em campo.#
+
+ 727: 10:41:00.13 10:41:02.16  Duration 00:00:02.03  32
+#Hoje os Inuits farão a viagem#
+
+ 728: 10:41:02.21 10:41:04.04  Duration 00:00:01.08  20
+#com os pesquisadores.#
+
+ 729: 10:41:05.22 10:41:07.08  Duration 00:00:01.11  22
+#Desde 2014,#
+
+ 730: 10:41:07.13 10:41:10.12  Duration 00:00:02.24  44
+#os cientistas fornecem
+aos caçadores kits#
+
+ 731: 10:41:10.16 10:41:12.14  Duration 00:00:01.23  29
+#para coletarem amostras#
+
+ 732: 10:41:12.18 10:41:14.00  Duration 00:00:01.07  19
+#dos bois que matam.#
+
+ 733: 10:41:17.02 10:41:20.06  Duration 00:00:03.04  47
+#Primeiro as amostras de sangue
+e matéria fecal,#
+
+ 734: 10:41:20.10 10:41:22.22  Duration 00:00:02.12  37
+#para detectar parasitas e doenças.#
+
+ 735: 10:41:25.08 10:41:27.23  Duration 00:00:02.15  39
+#Depois coletam amostras de pelo#
+
+ 736: 10:41:28.02 10:41:30.06  Duration 00:00:02.04  32
+#para testar hormônios de stress.#
+
+ 737: 10:41:30.19 10:41:33.22  Duration 00:00:03.03  47
+#Será que os animais
+estão mais estressados,#
+
+ 738: 10:41:34.02 10:41:36.14  Duration 00:00:02.12  37
+#ficando mais vulneráveis
+às infecções?#
+
+ 739: 10:41:37.21 10:41:40.12  Duration 00:00:02.16  40
+Deve ter
+o mínimo de sangue no pelo,
+
+ 740: 10:41:40.16 10:41:43.00  Duration 00:00:02.09  35
+para evitar
+a contaminação da amostra.
+
+ 741: 10:41:46.05 10:41:47.23  Duration 00:00:01.18  26
+Depois de coletada,
+
+ 742: 10:41:49.16 10:41:50.15  Duration 00:00:00.24  14
+dobre.
+
+ 743: 10:41:55.06 10:41:57.02  Duration 00:00:01.21  28
+#De volta à comunidade,#
+
+ 744: 10:41:57.07 10:41:59.18  Duration 00:00:02.11  37
+#as amostras
+são dadas aos cientistas.#
+
+ 745: 10:41:59.22 10:42:02.22  Duration 00:00:03.00  45
+Coisas estranhas nos animais?
+Sarna?
+
+ 746: 10:42:03.01 10:42:05.12  Duration 00:00:02.11  37
+-Falta de gordura.
+-"Falta de gordura"?
+
+ 747: 10:42:06.11 10:42:08.02  Duration 00:00:01.16  25
+-Os dois?
+-Sim.
+
+ 748: 10:42:12.11 10:42:14.19  Duration 00:00:02.08  35
+#Todo ano,
+os inuits guiam turistas#
+
+ 749: 10:42:14.24 10:42:17.02  Duration 00:00:02.03  32
+#na caça aos bois-almiscarados.#
+
+ 750: 10:42:26.11 10:42:28.17  Duration 00:00:02.06  34
+#Os pesquisadores
+dizem que as amostras#
+
+ 751: 10:42:28.21 10:42:30.07  Duration 00:00:01.11  22
+#trazidas pelos guias inuits#
+
+ 752: 10:42:30.12 10:42:33.05  Duration 00:00:02.18  41
+#são umas das melhores
+fontes de dados.#
+
+ 753: 10:42:34.19 10:42:36.13  Duration 00:00:01.19  26
+São os dados
+mais importantes,
+
+ 754: 10:42:36.17 10:42:39.11  Duration 00:00:02.19  41
+pois eles os coletam
+todo ano na mesma época,
+
+ 755: 10:42:39.15 10:42:41.10  Duration 00:00:01.20  27
+no mesmo tipo de animal.
+
+ 756: 10:42:44.23 10:42:47.07  Duration 00:00:02.09  35
+eis uma boa amostra,
+bem coletada.
+
+ 757: 10:42:52.14 10:42:55.16  Duration 00:00:03.02  46
+Nossas amostras nos dizem
+o que está acontecendo.
+
+ 758: 10:42:56.07 10:42:59.12  Duration 00:00:03.05  48
+Os conhecimentos do povo
+nos contam sobre o passado,
+
+ 759: 10:42:59.16 10:43:02.05  Duration 00:00:02.14  38
+mesmo o que aconteceu
+antes de nascerem,
+
+ 760: 10:43:02.09 10:43:04.18  Duration 00:00:02.09  35
+graças a o que seus pais contaram.
+
+ 761: 10:43:17.13 10:43:19.08  Duration 00:00:01.20  27
+#E é a Matilde Tomaselli#
+
+ 762: 10:43:19.13 10:43:23.02  Duration 00:00:03.14  53
+#que cabe a tarefa de fazer
+as entrevistas com os caçadores.#
+
+ 763: 10:43:23.18 10:43:25.08  Duration 00:00:01.15  24
+#Ela usa croquis#
+
+ 764: 10:43:25.13 10:43:29.07  Duration 00:00:03.19  56
+#para ver onde os caçadores
+observam mudanças nos animais.#
+
+ 765: 10:43:31.06 10:43:33.14  Duration 00:00:02.08  35
+Os croquis mostram diversos órgãos.
+
+ 766: 10:43:33.24 10:43:36.09  Duration 00:00:02.10  36
+Nós perguntamos
+onde eles viram lesões.
+
+ 767: 10:43:37.07 10:43:41.02  Duration 00:00:03.20  57
+Temos os pulmões, o coração,
+os rins, o baço
+
+ 768: 10:43:41.06 10:43:43.16  Duration 00:00:02.10  36
+e suas posições no boi-almiscarado.
+
+ 769: 10:43:45.10 10:43:47.08  Duration 00:00:01.23  29
+É um meio simples,
+
+ 770: 10:43:47.12 10:43:50.00  Duration 00:00:02.13  38
+mas torna a conversa eficaz.
+
+ 771: 10:43:52.06 10:43:55.12  Duration 00:00:03.06  49
+#Mas transformar essa informação
+em dados científicos#
+
+ 772: 10:43:55.16 10:43:56.19  Duration 00:00:01.03  17
+#não é fácil.#
+
+ 773: 10:43:57.05 10:44:01.07  Duration 00:00:04.02  61
+#Então a Sra. Tomaselli
+utiliza feijões.#
+
+ 774: 10:44:02.15 10:44:04.22  Duration 00:00:02.07  34
+#Os caçadores dividem os feijões#
+
+ 775: 10:44:05.01 10:44:08.09  Duration 00:00:03.08  50
+#para comparar suas observações
+atuais e passadas.#
+
+ 776: 10:44:10.00 10:44:11.24  Duration 00:00:01.24  29
+No contexto da doença,
+
+ 777: 10:44:12.03 10:44:14.05  Duration 00:00:02.02  31
+os feijões representam
+as anomalias
+
+ 778: 10:44:14.09 10:44:16.12  Duration 00:00:02.03  32
+observadas num dado momento.
+
+ 779: 10:44:17.20 10:44:20.16  Duration 00:00:02.21  43
+Eles tinham uma lista
+das diversas doenças
+
+ 780: 10:44:20.20 10:44:22.21  Duration 00:00:02.01  31
+e atribuíam
+proporções relativas.
+
+ 781: 10:44:24.05 10:44:28.04  Duration 00:00:03.24  59
+Eles repetiam a mesma operação
+para as diversas anomalias.
+
+ 782: 10:44:31.00 10:44:32.20  Duration 00:00:01.20  27
+E eu meço isso tudo
+
+ 783: 10:44:32.24 10:44:36.03  Duration 00:00:03.04  47
+para ter uma estimativa
+das porcentagens.
+
+ 784: 10:44:36.18 10:44:40.08  Duration 00:00:03.15  54
+#Graças a esse método,
+Matilde Tomaselli pôde concluir#
+
+ 785: 10:44:40.12 10:44:42.06  Duration 00:00:01.19  26
+#que os caçadores de Cambridge Bay#
+
+ 786: 10:44:42.10 10:44:46.01  Duration 00:00:03.16  55
+#observam cerca de 85%
+de bois-almiscarados a menos#
+
+ 787: 10:44:46.05 10:44:48.05  Duration 00:00:02.00  30
+#que nos anos 90.#
+
+ 788: 10:44:50.06 10:44:51.17  Duration 00:00:01.11  22
+Há 20 anos,
+
+ 789: 10:44:51.21 10:44:54.13  Duration 00:00:02.17  40
+havia muito boi-almiscarado
+perto da aldeia.
+
+ 790: 10:44:58.21 10:45:01.13  Duration 00:00:02.17  40
+Agora é preciso andar
+centenas de quilômetros
+
+ 791: 10:45:01.18 10:45:03.21  Duration 00:00:02.03  32
+para ver um.
+
+ 792: 10:45:05.19 10:45:08.17  Duration 00:00:02.23  44
+#Com essa colaboração
+com os inuits,#
+
+ 793: 10:45:08.22 10:45:11.11  Duration 00:00:02.14  38
+#os cientistas contaram
+perto de Cambridge Bay#
+
+ 794: 10:45:11.15 10:45:14.14  Duration 00:00:02.24  44
+#só uma dezena de mortes
+de bois-almiscarados em 2010.#
+
+ 795: 10:45:16.04 10:45:20.00  Duration 00:00:03.21  58
+#Mas na verdade, os caçadores
+revelaram à Sra. Tomaselli#
+
+ 796: 10:45:20.04 10:45:24.23  Duration 00:00:04.19  71
+#terem visto mais 125 carcaças
+entre 2010 e 2014.#
+
+ 797: 10:45:28.08 10:45:31.22  Duration 00:00:03.14  53
+Isso alterou totalmente
+nossos modelos científicos.
+
+ 798: 10:45:32.01 10:45:34.11  Duration 00:00:02.10  36
+Até lá, nossas pesquisas
+sobre as mortes
+
+ 799: 10:45:34.15 10:45:36.04  Duration 00:00:01.14  23
+cobriam três anos.
+
+ 800: 10:45:37.13 10:45:39.11  Duration 00:00:01.23  29
+Agora,
+falando com os caçadores,
+
+ 801: 10:45:39.15 10:45:42.20  Duration 00:00:03.05  48
+vimos que isso já dura
+há muito mais tempo.
+
+ 802: 10:45:44.08 10:45:46.14  Duration 00:00:02.06  34
+O pior ano foi 2012,
+
+ 803: 10:45:46.19 10:45:48.15  Duration 00:00:01.21  28
+e não fazíamos ideia disso.
+
+ 804: 10:45:50.10 10:45:53.08  Duration 00:00:02.23  44
+A fiabilidade
+dos conhecimentos científicos
+
+ 805: 10:45:53.12 10:45:55.00  Duration 00:00:01.13  23
+teria sido comprometida
+
+ 806: 10:45:55.04 10:45:58.13  Duration 00:00:03.09  50
+se não tivéssemos conversado
+com a população.
+
+ 807: 10:46:01.08 10:46:03.11  Duration 00:00:02.03  32
+É uma constatação importante.
+
+ 808: 10:46:03.15 10:46:06.01  Duration 00:00:02.11  37
+Os pesquisadores
+raramente admitem isso.
+
+ 809: 10:46:08.22 10:46:10.17  Duration 00:00:01.20  27
+São os dados deles.
+
+ 810: 10:46:10.21 10:46:12.06  Duration 00:00:01.10  21
+Não são meus,
+
+ 811: 10:46:12.22 10:46:15.05  Duration 00:00:02.08  35
+e sim da comunidade
+de Cambridge Bay.
+
+ 812: 10:46:16.06 10:46:18.12  Duration 00:00:02.06  34
+Eles são coautores do estudo.
+
+ 813: 10:46:19.14 10:46:21.13  Duration 00:00:01.24  29
+#Enquanto as pesquisas seguem,#
+
+ 814: 10:46:21.17 10:46:25.06  Duration 00:00:03.14  53
+#os caçadores se perguntam
+se terão as respostas a tempo.#
+
+ 815: 10:46:30.08 10:46:32.08  Duration 00:00:02.00  30
+Juntos podemos descobrir
+
+ 816: 10:46:32.12 10:46:34.21  Duration 00:00:02.09  35
+por que as mudanças estão ocorrendo.
+
+ 817: 10:46:35.00 10:46:37.14  Duration 00:00:02.14  38
+E se não pudermos mudar nada,
+
+ 818: 10:46:37.18 10:46:39.16  Duration 00:00:01.23  29
+talvez possamos achar um jeito
+
+ 819: 10:46:39.20 10:46:43.11  Duration 00:00:03.16  55
+de salvar nossos animais
+e continuar a caçar.
+
+ 820: 10:46:43.15 10:46:46.00  Duration 00:00:02.10  36
+Se é o que queremos para o futuro,
+
+ 821: 10:46:46.04 10:46:47.21  Duration 00:00:01.17  25
+então devemos nos envolver.
+
+ 822: 10:46:55.01 10:46:57.00  Duration 00:00:01.24  29
+Bois-almiscarados
+
+ 823: 10:46:57.05 10:46:59.10  Duration 00:00:02.05  33
+#Eis o que provocou#
+
+ 824: 10:46:59.15 10:47:02.06  Duration 00:00:02.16  40
+#as preocupações
+dos inuits e pesquisadores:#
+
+ 825: 10:47:02.11 10:47:03.22  Duration 00:00:01.11  22
+#o verme pulmonar.#
+
+ 826: 10:47:05.08 10:47:07.00  Duration 00:00:01.17  25
+#Esse parasita, encontrado#
+
+ 827: 10:47:07.04 10:47:09.08  Duration 00:00:02.04  32
+#na maioria dos bois-almiscarados
+do continente,#
+
+ 828: 10:47:09.13 10:47:13.03  Duration 00:00:03.15  54
+#era desconhecida na Ilha de Victoria
+até recentemente.#
+
+ 829: 10:47:13.19 10:47:16.08  Duration 00:00:02.14  38
+#Ele ataca os pulmões
+dos bois-almiscarados#
+
+ 830: 10:47:16.12 10:47:18.14  Duration 00:00:02.02  31
+#e provoca sangramento abundante.#
+
+ 831: 10:47:18.18 10:47:20.14  Duration 00:00:01.21  28
+Podemos dizer
+que são os pulmões
+
+ 832: 10:47:20.18 10:47:22.17  Duration 00:00:01.24  29
+por causa
+do sangue mais pesado,
+
+ 833: 10:47:22.21 10:47:24.01  Duration 00:00:01.05  18
+sobretudo após correr.
+
+ 834: 10:47:24.05 10:47:25.03  Duration 00:00:00.23  14
+-É o que acha?
+-É.
+
+ 835: 10:47:25.08 10:47:26.19  Duration 00:00:01.11  22
+São boas informações.
+
+ 836: 10:47:28.13 10:47:32.05  Duration 00:00:03.17  55
+Os vermes formam quistos
+e lesionam o tecido pulmonar.
+
+ 837: 10:47:33.01 10:47:35.11  Duration 00:00:02.10  36
+No esforço,
+os vasos sanguíneos estouram
+
+ 838: 10:47:35.15 10:47:37.12  Duration 00:00:01.22  28
+e o sangue se acumula
+nos pulmões.
+
+ 839: 10:47:38.24 10:47:42.03  Duration 00:00:03.04  47
+Os animais tentam expulsá-lo
+soprando e tossindo.
+
+ 840: 10:47:45.23 10:47:49.05  Duration 00:00:03.07  49
+#O parasita se espalha
+quando os ovos eclodem#
+
+ 841: 10:47:49.09 10:47:51.12  Duration 00:00:02.03  32
+#nos pulmões do boi-almiscarado.#
+
+ 842: 10:47:52.02 10:47:55.16  Duration 00:00:03.14  53
+#Os animais expectoram
+e depois engolem as larvas.#
+
+ 843: 10:47:55.20 10:47:57.18  Duration 00:00:01.23  29
+#Depois as defecam.#
+
+ 844: 10:47:57.22 10:48:00.03  Duration 00:00:02.06  34
+#Depois disso, vem essa lesma.#
+
+ 845: 10:48:00.07 10:48:03.05  Duration 00:00:02.23  44
+#as larvas do verme pulmonar
+penetram na pele.#
+
+ 846: 10:48:04.05 10:48:06.14  Duration 00:00:02.09  35
+#Quando estão dentro,
+se fizer calor,#
+
+ 847: 10:48:06.18 10:48:10.12  Duration 00:00:03.19  56
+#elas completam seu ciclo de vida
+e tornam-se infecciosas.#
+
+ 848: 10:48:10.16 10:48:13.04  Duration 00:00:02.13  38
+#E quando um boi-almiscarado
+come uma lesma,#
+
+ 849: 10:48:13.08 10:48:15.05  Duration 00:00:01.22  28
+#o processo recomeça.#
+
+ 850: 10:48:21.02 10:48:22.07  Duration 00:00:01.05  18
+#Até recentemente,#
+
+ 851: 10:48:22.11 10:48:24.24  Duration 00:00:02.13  38
+#o arquipélago ártico canadense
+era frio demais#
+
+ 852: 10:48:25.04 10:48:27.24  Duration 00:00:02.20  42
+#para o verme
+completar o ciclo de vida.#
+
+ 853: 10:48:29.05 10:48:31.08  Duration 00:00:02.03  32
+#Mas isso mudou.#
+
+ 854: 10:48:37.02 10:48:39.24  Duration 00:00:02.22  43
+A parte do ciclo dentro da lesma
+
+ 855: 10:48:40.03 10:48:42.22  Duration 00:00:02.19  41
+depende
+da temperatura ambiente externa.
+
+ 856: 10:48:45.02 10:48:46.01  Duration 00:00:00.24  14
+Quando faz 20 graus,
+
+ 857: 10:48:46.05 10:48:48.20  Duration 00:00:02.15  39
+o verme pode se desenvolver
+em 2 semanas.
+
+ 858: 10:48:48.24 10:48:51.19  Duration 00:00:02.20  42
+A 10 graus,
+pode levar de 3 a 4 meses.
+
+ 859: 10:48:53.09 10:48:55.17  Duration 00:00:02.08  35
+Verme pulmonar
+
+ 860: 10:48:55.21 10:49:00.01  Duration 00:00:04.05  63
+#Nos anos 90,
+o verme era confinado ao continente.#
+
+ 861: 10:49:00.16 10:49:02.18  Duration 00:00:02.02  31
+#Mas desde 1981,#
+
+ 862: 10:49:02.22 10:49:05.17  Duration 00:00:02.20  42
+#a temperatura média
+nessa região do Ártico#
+
+ 863: 10:49:05.21 10:49:07.17  Duration 00:00:01.21  28
+#aumentou 2 graus.#
+
+ 864: 10:49:08.05 10:49:13.08  Duration 00:00:05.03  77
+#O verme foi detectado pela 1ª vez
+em 2008 na ponta sudoeste da ilha.#
+
+ 865: 10:49:13.24 10:49:17.13  Duration 00:00:03.14  53
+#Em 2014, ele tinha invadido
+dois terços da ilha.#
+
+ 866: 10:49:19.24 10:49:22.13  Duration 00:00:02.14  38
+Os anos 90
+não foram quentes o bastante
+
+ 867: 10:49:22.17 10:49:25.14  Duration 00:00:02.22  43
+para o verme se desenvolver
+na Ilha de Victoria.
+
+ 868: 10:49:26.13 10:49:28.20  Duration 00:00:02.07  34
+Quando eles vinham, morriam.
+
+ 869: 10:49:31.17 10:49:35.14  Duration 00:00:03.22  58
+Mas desde os anos 2000
+e até recentemente,
+
+ 870: 10:49:35.18 10:49:38.23  Duration 00:00:03.05  48
+os dados climáticos nos dizem
+que faz bastante calor
+
+ 871: 10:49:39.02 10:49:41.03  Duration 00:00:02.01  31
+para o verme
+poder desenvolver-se.
+
+ 872: 10:49:45.14 10:49:47.12  Duration 00:00:01.23  29
+#Os cientistas também cogitam#
+
+ 873: 10:49:47.16 10:49:49.13  Duration 00:00:01.22  28
+#se o clima
+anormalmente quente#
+
+ 874: 10:49:49.17 10:49:52.24  Duration 00:00:03.07  49
+#impede os animais
+de combater bem as infecções.#
+
+ 875: 10:49:56.24 10:50:00.16  Duration 00:00:03.17  55
+Os bois-almiscarados adaptaram-se
+ao clima seco e frio do Ártico.
+
+ 876: 10:50:02.01 10:50:03.02  Duration 00:00:01.01  16
+Quando de repente
+
+ 877: 10:50:03.06 10:50:06.06  Duration 00:00:03.00  45
+as temperaturas atingem
+de 20 a 30 graus, 
+
+ 878: 10:50:06.10 10:50:07.20  Duration 00:00:01.10  21
+é um stress.
+
+ 879: 10:50:09.01 10:50:13.07  Duration 00:00:04.06  64
+Podemos supo que isso os deixa
+mais vulneráveis a outras doenças.
+
+ 880: 10:50:16.00 10:50:18.22  Duration 00:00:02.22  43
+#O que deixa os animais doentes
+é uma bactéria.#
+
+ 881: 10:50:20.18 10:50:24.20  Duration 00:00:04.02  61
+#Chamada# Erysipelothrix rhusiopathiae#,
+ela envenena o sangue.#
+
+ 882: 10:50:25.19 10:50:27.09  Duration 00:00:01.15  24
+Vê essas cicatrizes?
+
+ 883: 10:50:28.09 10:50:30.11  Duration 00:00:02.02  31
+-#Erysipelothrix#.
+-É mesmo?
+
+ 884: 10:50:31.09 10:50:34.02  Duration 00:00:02.18  41
+#Os cientistas confirmaram
+que ela é culpada#
+
+ 885: 10:50:34.06 10:50:36.07  Duration 00:00:02.01  31
+#pela mortalidade
+do boi-almiscarado#
+
+ 886: 10:50:36.11 10:50:39.17  Duration 00:00:03.06  49
+#nas ilhas Victoria e Banks
+desde 2010.#
+
+ 887: 10:50:43.15 10:50:46.07  Duration 00:00:02.17  40
+É meio enigmático.
+
+ 888: 10:50:46.11 10:50:49.07  Duration 00:00:02.21  43
+Não sabemos
+de onde vem essa bactéria,
+
+ 889: 10:50:49.12 10:50:51.01  Duration 00:00:01.14  23
+se ela sempre esteve lá
+
+ 890: 10:50:51.22 10:50:56.23  Duration 00:00:05.01  76
+e por que, nessas ilhas vastas
+de uns 300.000 km2,
+
+ 891: 10:50:58.02 10:50:59.22  Duration 00:00:01.20  27
+constatamos essa mortalidade.
+
+ 892: 10:51:02.08 10:51:05.04  Duration 00:00:02.21  43
+#Mas a bactéria
+não é o único mistério.#
+
+ 893: 10:51:06.10 10:51:10.02  Duration 00:00:03.17  55
+#Há cada vez mais relatos
+da presença do vírus Orf.#
+
+ 894: 10:51:12.00 10:51:14.07  Duration 00:00:02.07  34
+Talvez tenha alguma coisa aí.
+Aqui.
+
+ 895: 10:51:15.04 10:51:18.14  Duration 00:00:03.10  51
+Ce vírus causa sarna
+na boca, no focinho
+
+ 896: 10:51:18.18 10:51:21.19  Duration 00:00:03.01  46
+nos mamilos
+e na parte inferior das patas.
+
+ 897: 10:51:22.14 10:51:24.15  Duration 00:00:02.01  31
+No sul, em geral, vemos o vírus
+
+ 898: 10:51:24.20 10:51:26.19  Duration 00:00:01.24  29
+nos animais jovens.
+
+ 899: 10:51:29.11 10:51:32.21  Duration 00:00:03.10  51
+Agora vemos o vírus Orf
+afetar bois-almiscarados adultos,
+
+ 900: 10:51:33.00 10:51:35.04  Duration 00:00:02.04  32
+o que é alarmante e perturbador.
+
+ 901: 10:51:36.03 10:51:38.15  Duration 00:00:02.12  37
+Pode indicar
+que os animais sofrem stress
+
+ 902: 10:51:38.19 10:51:40.10  Duration 00:00:01.16  25
+e ficaram mais frágeis.
+
+ 903: 10:51:40.14 10:51:43.21  Duration 00:00:03.07  49
+O clima deve ser
+um desses elementos de stress.
+
+ 904: 10:51:47.18 10:51:50.13  Duration 00:00:02.20  42
+#Os cientistas dizem
+que entender as interações#
+
+ 905: 10:51:50.17 10:51:53.04  Duration 00:00:02.12  37
+#entre o clima e a doença#
+
+ 906: 10:51:53.09 10:51:54.12  Duration 00:00:01.03  17
+#na Ilha de Victoria#
+
+ 907: 10:51:54.16 10:51:56.05  Duration 00:00:01.14  23
+#vai nos preparar melhor#
+
+ 908: 10:51:56.10 10:51:59.11  Duration 00:00:03.01  46
+#para os efeitos
+do aquecimento global na saúde#
+
+ 909: 10:51:59.16 10:52:02.01  Duration 00:00:02.10  36
+#de animais e humanos
+em todo o planeta.#
+
+ 910: 10:52:05.07 10:52:07.19  Duration 00:00:02.12  37
+Quanto mais soubermos
+sobre a influência do clima
+
+ 911: 10:52:07.23 10:52:10.15  Duration 00:00:02.17  40
+nas doenças do norte,
+
+ 912: 10:52:10.19 10:52:13.01  Duration 00:00:02.07  34
+mais poderemos usar isso
+para entender
+
+ 913: 10:52:13.05 10:52:15.13  Duration 00:00:02.08  35
+o que acontecerá com a malária
+
+ 914: 10:52:15.17 10:52:18.10  Duration 00:00:02.18  41
+e outras doenças humanas ou animais.
+
+ 915: 10:52:21.00 10:52:23.00  Duration 00:00:02.00  30
+Isso nos dá
+um modelo inalterado
+
+ 916: 10:52:23.04 10:52:25.21  Duration 00:00:02.17  40
+para fazer
+uma parte do nosso trabalho.
+
+ 917: 10:52:28.10 10:52:31.22  Duration 00:00:03.12  52
+#As ilhas Banks e Victoria
+são importantes#
+
+ 918: 10:52:32.02 10:52:32.22  Duration 00:00:00.20  12
+#para a ciência,#
+
+ 919: 10:52:33.01 10:52:35.04  Duration 00:00:02.03  32
+#pois é um dos últimos lugares
+da Terra#
+
+ 920: 10:52:35.08 10:52:38.03  Duration 00:00:02.20  42
+#onde a única coisa
+que mudou nos últimos anos#
+
+ 921: 10:52:38.07 10:52:39.12  Duration 00:00:01.05  18
+#foi o clima.#
+
+ 922: 10:52:41.21 10:52:43.23  Duration 00:00:02.02  31
+É um sistema simples
+que podemos estudar
+
+ 923: 10:52:44.02 10:52:47.01  Duration 00:00:02.24  44
+sem outros fatores que alterem
+os resultados,
+
+ 924: 10:52:47.05 10:52:48.18  Duration 00:00:01.13  23
+como acontece no sul,
+
+ 925: 10:52:48.22 10:52:51.05  Duration 00:00:02.08  35
+como a agricultura industrial.
+
+ 926: 10:52:51.19 10:52:55.09  Duration 00:00:03.15  54
+Então, o grande motor de mudança
+é o meio ambiente.
+
+ 927: 10:52:57.12 10:52:59.17  Duration 00:00:02.05  33
+#Mas para os habitantes
+de Cambridge Bay,#
+
+ 928: 10:52:59.21 10:53:01.11  Duration 00:00:01.15  24
+#respostas
+podem significar#
+
+ 929: 10:53:01.15 10:53:03.23  Duration 00:00:02.08  35
+#algo ainda mais importante,#
+
+ 930: 10:53:04.02 10:53:05.20  Duration 00:00:01.18  26
+#como manter sua cultura.#
+
+ 931: 10:53:09.19 10:53:12.08  Duration 00:00:02.14  38
+Sei que a pesquisa científica
+pode ajudar
+
+ 932: 10:53:12.12 10:53:14.22  Duration 00:00:02.10  36
+a melhorar
+a saúde de nossos animais
+
+ 933: 10:53:15.02 10:53:17.10  Duration 00:00:02.08  35
+e a qualidade da nossa comida.
+
+ 934: 10:53:18.17 10:53:23.05  Duration 00:00:04.13  68
+Se pudermos fazer algo
+participando da pesquisa,
+
+ 935: 10:53:23.09 10:53:26.04  Duration 00:00:02.20  42
+será melhor não só para nós hoje,
+
+ 936: 10:53:26.08 10:53:28.15  Duration 00:00:02.07  34
+mas também para os animais,
+
+ 937: 10:53:28.19 10:53:29.19  Duration 00:00:01.00  15
+e para
+
+ 938: 10:53:29.23 10:53:33.15  Duration 00:00:03.17  55
+que nossos filhos e netos possam
+caçar animais com saúde.
+
+ 939: 10:53:36.17 10:53:38.06  Duration 00:00:01.14  23
+Para nós, inuits,
+
+ 940: 10:53:38.11 10:53:42.04  Duration 00:00:03.18  56
+o que fazemos agora pode garantir
+o futuro de nossos filhos.
+
+ 941: 10:53:49.04 10:53:50.13  Duration 00:00:01.09  20
+É só por hoje.
+
+ 942: 10:53:50.17 10:53:51.24  Duration 00:00:01.07  19
+De Dacar a Bruxelas,
+
+ 943: 10:53:52.03 10:53:54.18  Duration 00:00:02.15  39
+onde você estiver,
+na francofonia ou não,
+
+ 944: 10:53:54.22 10:53:58.19  Duration 00:00:03.22  58
+obrigada por seguir os programas
+da Radio-Canada na TV5 Monde.
+
+ 945: 10:53:58.23 10:53:59.24  Duration 00:00:01.01  16
+Até logo.
+
+ 946: 10:54:18.02 10:54:20.18  Duration 00:00:02.16  40
+Adaptação: Adriana Gasparoni
+Legendagem: ECLAIR
+
