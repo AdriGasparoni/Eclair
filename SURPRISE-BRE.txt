@@ -359,308 +359,299 @@ Música! Música!
 Música!
 
  104: 10:12:13.01 10:12:17.01  Duration 00:00:04.00  60
--OK. Viens ici.
--Sim, monsieur, j'arrive.
+-OK. Venha cá.
+-Sim, senhor, estou indo.
 
  105: 10:12:17.19 10:12:21.13  Duration 00:00:03.19  56
-Alors, tu as le droit de jouer,
-mais à une seule condition.
+Então, você pode tocar,
+mas com uma condição.
 
  106: 10:12:21.17 10:12:23.03  Duration 00:00:01.11  22
--Sans pantalon?
+-Sem calça?
 -Não.
 
  107: 10:12:24.16 10:12:26.17  Duration 00:00:02.01  31
--Que tu joues au centre.
--Tout seul?
+-Que toque no meio.
+-Sozinho?
 
  108: 10:12:26.21 10:12:29.23  Duration 00:00:03.02  46
-Mais oui.
-Mesdames et messieurs, Totti!
+Mas claro.
+Senhoras e senhores, Totti!
 
  109: 10:12:42.00 10:12:43.07  Duration 00:00:01.07  19
-Waouh!
+Uau!
 
  110: 10:13:43.14 10:13:45.15  Duration 00:00:02.01  31
-Allez-y, tous ensemble!
+Vamos lá, todos juntos!
 
  111: 10:14:05.21 10:14:07.06  Duration 00:00:01.10  21
-Quand le hula hoop
+Quando o bambolê
 
  112: 10:14:07.10 10:14:10.22  Duration 00:00:03.12  52
-devient une véritable passion.
+vira uma verdadeira paixão.
 
  113: 10:14:11.02 10:14:13.20  Duration 00:00:02.18  41
 Victoria Bouglione.
 
  114: 10:30:45.16 10:30:47.18  Duration 00:00:02.02  31
-Faisant fi de la difficulté,
+Ignorando as dificuldades,
 
  115: 10:30:47.22 10:30:50.01  Duration 00:00:02.04  32
-ils ne se prennent pas
-trop au sérieux,
+eles não se levam a sério,
 
  116: 10:30:50.05 10:30:51.04  Duration 00:00:00.24  14
-et pourtant,
+e no entanto,
 
  117: 10:30:51.08 10:30:55.16  Duration 00:00:04.08  65
-ils ont choisi des équilibres
-vraiment instables.
+eles escolheram equilíbrios
+realmente instáveis.
 
  118: 10:30:55.20 10:30:59.22  Duration 00:00:04.02  61
-Primés au Festival international
-du cirque de Monte-Carlo,
+Premiados no Festival Internacional
+do Circo de Monte Carlo,
 
  119: 10:31:00.01 10:31:02.04  Duration 00:00:02.03  32
-les Meleshin!
+os Meleshin!
 
  120: 10:40:06.16 10:40:09.00  Duration 00:00:02.09  35
-Allô? Allô?
+Alô? Alô?
 
  121: 10:42:48.20 10:42:49.20  Duration 00:00:01.00  15
-Obrigado beaucoup.
+Muito obrigado.
 
  122: 10:42:55.07 10:42:58.17  Duration 00:00:03.10  51
 #Ladies and gentlemen.#
 
  123: 10:42:58.21 10:43:02.05  Duration 00:00:03.09  50
-Voulez-vous du rock-and-roll,
-ce soir?
+Vocês querem rock and roll
+esta noite?
 
  124: 10:43:03.01 10:43:04.12  Duration 00:00:01.11  22
 Sim!
 
  125: 10:43:04.16 10:43:07.09  Duration 00:00:02.18  41
-Je suis désolé,
-mais je n'ai rien entendu.
+Desculpem, mas não ouvi nada.
 
  126: 10:43:07.13 10:43:10.19  Duration 00:00:03.06  49
-Voulez-vous du rock-and-roll,
-ce soir?
+Vocês querem rock and roll
+esta noite?
 
  127: 10:43:10.24 10:43:12.18  Duration 00:00:01.19  26
 Sim!
 
  128: 10:43:13.19 10:43:16.08  Duration 00:00:02.14  38
-D'accord. Je reviens ce soir.
+Está bem.
+Volto à noite.
 
  129: 10:43:17.18 10:43:19.03  Duration 00:00:01.10  21
 Que pena.
 
  130: 10:43:19.08 10:43:20.15  Duration 00:00:01.07  19
-Não, c'était une blague.
+Não, era brincadeira.
 
  131: 10:43:20.19 10:43:25.08  Duration 00:00:04.14  68
-Maintenant, sérieusement,
-tout d'abord, je veux tout le monde
+Agora, sério,
+primeiro, quero todo mundo
 
  132: 10:43:26.03 10:43:27.07  Duration 00:00:01.04  17
-debout.
+de pé.
 
  133: 10:43:27.11 10:43:30.06  Duration 00:00:02.20  42
-S'il vous plaît, un, deux, trois.
+Por favor, um, dois, três.
 
  134: 10:43:37.06 10:43:38.11  Duration 00:00:01.05  18
-Vous êtes beaux, là.
+Estão lindos, assim.
 
  135: 10:43:38.15 10:43:40.11  Duration 00:00:01.21  28
-Quand la musique commence,
+Quando a música começar,
 
  136: 10:43:40.15 10:43:43.24  Duration 00:00:03.09  50
-je veux vous tous danser.
+quero ver todo mundo dançando.
 
  137: 10:43:44.23 10:43:46.13  Duration 00:00:01.15  24
-Ben oui, c'est ça, #Surpresa.#
+Pois é, é isso, o# Surpresa.#
 
  138: 10:43:46.17 10:43:50.21  Duration 00:00:04.04  62
-Tout le monde danser, sauter, crier,
-taper des mains, taper des pieds...
+Todo mundo, dançando, pulando,
+gritando, batendo palmas, pés...
 
  139: 10:43:51.00 10:43:52.03  Duration 00:00:01.03  17
-Tout est permis.
+Vale tudo.
 
  140: 10:43:52.08 10:43:55.07  Duration 00:00:02.24  44
-Je veux une bonne ambiance
-du rock-and-roll.
+Quero um clima rock and roll.
 
  141: 10:45:31.16 10:45:34.20  Duration 00:00:03.04  47
-Il y a 2 ans,
-sur la piste du Cirque d'Hiver,
+Há 2 anos,
+no picadeiro do Circo de Inverno,
 
  142: 10:45:34.24 10:45:38.04  Duration 00:00:03.05  48
-la famille Bouglione
-rejoignait la famille Casselly
+a família Bouglione
+juntou-se à família Casselly
 
  143: 10:45:38.08 10:45:40.21  Duration 00:00:02.13  38
-pour un moment d'exception.
+para um momento excepcional.
 
  144: 10:45:41.00 10:45:44.05  Duration 00:00:03.05  48
-Vous avez été nombreux
-à souhaiter leur retour.
+Vocês foram muitos
+a pedirem sua volta.
 
  145: 10:45:44.09 10:45:47.17  Duration 00:00:03.08  50
-Alors, dans la plus belle
-tradition du cirque,
+Portanto,
+na mais bela tradição do circo,
 
  146: 10:45:47.21 10:45:52.21  Duration 00:00:05.00  75
-voici pour vous
-le bal des éléphants!
+eis para vocês
+o baile dos elefantes!
 
  147: 10:51:51.13 10:51:53.05  Duration 00:00:01.17  25
-Et maintenant, chers amis,
+E agora, caros amigos,
 
  148: 10:51:53.09 10:51:55.09  Duration 00:00:02.00  30
-nous avons le plaisir
-de vous proposer
+temos o prazer de apresentar,
 
  149: 10:51:55.13 10:51:58.24  Duration 00:00:03.11  52
-sur cette piste légendaire
-du Cirque d'Hiver,
+neste picadeiro lendário
+duo Circo de Inverno,
 
  150: 10:51:59.03 10:52:01.11  Duration 00:00:02.08  35
-et à l'occasion
-de ce nouveau espetáculo...
+e nesta novo espetáculo...
 
  151: 10:52:18.19 10:52:20.16  Duration 00:00:01.22  28
 Que pena.
 
  152: 10:52:20.20 10:52:23.23  Duration 00:00:03.03  47
-Mais non, c'est pas du tout comme ça.
+Não, não é nada assim.
 
  153: 10:52:24.03 10:52:25.02  Duration 00:00:00.24  14
-Je vous explique.
+Vou explicar.
 
  154: 10:52:25.06 10:52:28.06  Duration 00:00:03.00  45
-Alors, chaque fois
-que vous voyez cette lumière,
+Então, cada vez
+que vocês virem essa luz,
 
  155: 10:52:30.11 10:52:32.22  Duration 00:00:02.11  37
-vous devez tous crier "hé!".
+devem todos gritar "ei!".
 
  156: 10:52:33.01 10:52:34.21  Duration 00:00:01.20  27
-On fait une petite répétition.
+Vamos fazer
+um pequeno ensaio.
 
  157: 10:52:39.00 10:52:40.17  Duration 00:00:01.17  25
-Hé!
+Ei!
 
  158: 10:52:40.22 10:52:42.00  Duration 00:00:01.03  17
-É déjà pas mal.
+Está razoável.
 
  159: 10:52:42.04 10:52:45.23  Duration 00:00:03.19  56
-Et maintenant,
-que les filles et les mamans.
+E agora, só as meninas e as mães.
 
  160: 10:52:55.05 10:52:58.15  Duration 00:00:03.10  51
-Maintenant,
-que les garçons et les papas.
+Agora, só os meninos e os pais.
 
  161: 10:53:06.08 10:53:07.21  Duration 00:00:01.13  23
 #Muy macho.#
 
  162: 10:53:08.23 10:53:11.14  Duration 00:00:02.16  40
-Et encore une fois, tous ensemble.
+E mais uma vez, todos juntos.
 
  163: 10:53:15.22 10:53:16.24  Duration 00:00:01.02  16
-Très, très bien.
+Muito, muito bem.
 
  164: 10:53:17.04 10:53:18.14  Duration 00:00:01.10  21
-Et après ça,
+E depois disso,
 
  165: 10:53:18.18 10:53:22.20  Duration 00:00:04.02  61
-on fait tous la danse
-du tigre heureux.
+fazemos todos a dança
+do tigre feliz.
 
  166: 10:53:23.18 10:53:27.09  Duration 00:00:03.16  55
-En anglais,
-la danse du tigre heureux.
-
+Em inglês,
+a dança do tigre feliz.
  167: 10:53:28.06 10:53:31.24  Duration 00:00:03.18  56
-En espagnol,
-la danse du tigre heureux.
-
+Em espanhol,
+a dança do tigre feliz.
  168: 10:53:32.04 10:53:34.24  Duration 00:00:02.20  42
-En chinois, "miaou".
+Em chinês, "miau".
 
  169: 10:53:35.23 10:53:39.00  Duration 00:00:03.02  46
-Alors, pour faire la danse,
-on doit tous lever les bras.
+Para fazer a dança,
+vamos levantar os braços.
 
  170: 10:53:39.04 10:53:40.20  Duration 00:00:01.16  25
-Tous les bras en l'air.
+Todos os braços para cima.
 
  171: 10:53:43.12 10:53:46.11  Duration 00:00:02.24  44
-On reste comme ça
-pendant plus ou moins 20 minutes.
+Ficamos assim
+durante uns 20 minutos.
 
  172: 10:53:46.16 10:53:49.10  Duration 00:00:02.19  41
-Mais non, c'était une blague.
-La danse du tigre heureux.
-
+Que nada, brincadeira!
+A dança do tigre feliz.
  173: 10:53:49.14 10:53:52.05  Duration 00:00:02.16  40
-Tous les bras en haut,
-et après, on fait comme ça.
+Braços para cima,
+e depois, fazemos assim.
 
  174: 10:53:56.14 10:53:57.20  Duration 00:00:01.06  19
-Allez-y, tous ensemble.
+Vamos, todos juntos.
 
  175: 10:53:59.20 10:54:00.23  Duration 00:00:01.03  17
-É bien.
+Muito bem.
 
  176: 10:54:01.02 10:54:03.04  Duration 00:00:02.02  31
-É pas synchronisé,
-mais c'est bien.
+Não está sincronizado,
+mas está bom.
 
  177: 10:54:03.08 10:54:06.16  Duration 00:00:03.08  50
-On recommence. Maestro!
+Vamos recomeçar. Maestro!
 
  178: 10:54:15.04 10:54:17.23  Duration 00:00:02.19  41
--Hé!
--Et on danse le tigre. Allez-y!
+-Ei!
+-E dançamos o tigre. Vamos lá!
 
  179: 10:55:03.16 10:55:05.10  Duration 00:00:01.19  26
-Et on danse le tigre.
+E dançamos o tigre.
 
  180: 10:56:28.01 10:56:31.16  Duration 00:00:03.15  54
-C'était votre ami... Totti!
+Foi o seu amigo... Totti!
 
  181: 10:56:36.16 10:56:39.05  Duration 00:00:02.14  38
-Les anciens se rappellent
-que durant notre enfance,
+Os mais velhos lembram
+que na infância
 
  182: 10:56:39.09 10:56:41.14  Duration 00:00:02.05  33
-nous avions une distraction
-que nous appelions
+tínhamos uma distração chamada
 
  183: 10:56:41.18 10:56:43.06  Duration 00:00:01.13  23
-les patins à roulettes.
+patins de rodinhas.
 
  184: 10:56:43.11 10:56:47.00  Duration 00:00:03.14  53
-Aujourd'hui,
-on parlerait plutôt de rollers.
+Hoje em dia,
+chamaríamos de# rollers#.
 
  185: 10:56:47.15 10:56:49.14  Duration 00:00:01.24  29
-Fougue et enthousiasme,
+Ardor e entusiasmo,
 
  186: 10:56:49.18 10:56:52.23  Duration 00:00:03.05  48
-avec Matt et Valentina.
+com Matt e Valentina.
 
  187: 11:03:15.23 11:03:17.12  Duration 00:00:01.14  23
-Allez. OK.
+Vamos lá. OK.
 
  188: 11:03:19.05 11:03:20.19  Duration 00:00:01.14  23
-Allez.
+Vamos lá.
 
  189: 11:03:40.15 11:03:43.05  Duration 00:00:02.15  39
 OK, OK...
 
  190: 11:03:49.11 11:03:51.02  Duration 00:00:01.16  25
-Par là...
+Por aqui...
 
  191: 11:04:08.13 11:04:10.00  Duration 00:00:01.12  22
-Alors...
+Então...
 
  192: 11:04:12.09 11:04:15.01  Duration 00:00:02.17  40
-Comment vous appelez-vous?
+Como você se chama?
 
  193: 11:04:16.03 11:04:17.19  Duration 00:00:01.16  25
 -Olivier?
@@ -670,54 +661,54 @@ Comment vous appelez-vous?
 Olivier!
 
  195: 11:04:24.03 11:04:28.01  Duration 00:00:03.23  59
-Mesdames et messieurs, un grand bravo
+Senhoras e senhores,
+um grande bravo
 
  196: 11:04:29.01 11:04:31.15  Duration 00:00:02.14  38
-pour Olivier!
+para o Olivier!
 
  197: 11:05:13.03 11:05:14.09  Duration 00:00:01.06  19
 Olivier.
 
  198: 11:05:15.15 11:05:16.20  Duration 00:00:01.05  18
-Monte.
+Suba.
 
  199: 11:05:22.13 11:05:23.18  Duration 00:00:01.05  18
-Tourne.
+Vire-se.
 
  200: 11:05:25.00 11:05:26.05  Duration 00:00:01.05  18
-Assis!
+Sentado!
 
  201: 11:05:38.05 11:05:39.14  Duration 00:00:01.09  20
 Olivier...
 
  202: 11:05:40.18 11:05:42.02  Duration 00:00:01.09  20
-pas ici.
+Aqui, não.
 
  203: 11:06:37.11 11:06:38.17  Duration 00:00:01.06  19
-Très drôle.
+Muito engraçado.
 
  204: 11:06:41.11 11:06:44.21  Duration 00:00:03.10  51
-Maintenant,
-je vous présente un artiste
+Agora, apresento um artista
 
  205: 11:06:45.00 11:06:49.07  Duration 00:00:04.07  64
-qui, avant, était très ringard,
+que, antes, era muito brega,
 
  206: 11:06:49.11 11:06:51.17  Duration 00:00:02.06  34
-mais depuis qu'il m'a rencontrée,
+mas desde que ele me conheceu,
 
  207: 11:06:51.21 11:06:56.07  Duration 00:00:04.11  67
-il est totalement prêt
-pour le monde entier.
+ele está totalmente pronto
+para o mundo inteiro.
 
  208: 11:06:56.24 11:06:58.05  Duration 00:00:01.06  19
-Mesdames et messieurs,
+Senhoras e senhores,
 
  209: 11:06:58.19 11:07:03.02  Duration 00:00:04.08  65
-voici Scott le magicien!
+é Scott, o mágico!
 
  210: 11:07:12.22 11:07:13.17  Duration 00:00:00.20  12
-Regarde.
+Veja.
 
  211: 11:07:46.13 11:07:47.18  Duration 00:00:01.05  18
 OK.
@@ -726,141 +717,140 @@ OK.
 Olivier!
 
  213: 11:10:13.12 11:10:16.15  Duration 00:00:03.03  47
-Scott et Muriel!
+Scott e Muriel!
 
  214: 11:10:22.23 11:10:25.02  Duration 00:00:02.04  32
-Ils représentent la force tranquille
+Eles representam
+a força tranquila
 
  215: 11:10:25.07 11:10:28.03  Duration 00:00:02.21  43
-et la puissance
-en parfaite harmonie.
+e a potência em perfeita harmonia.
 
  216: 11:10:28.07 11:10:30.12  Duration 00:00:02.05  33
-Après avoir triomphé à Las Vegas,
+Após triunfar em Las Vegas,
 
  217: 11:10:30.16 11:10:34.10  Duration 00:00:03.19  56
-voici, pour la première fois à Paris,
+aqui está,
+pela primeira vez em Paris,
 
  218: 11:10:34.14 11:10:36.17  Duration 00:00:02.03  32
-le duo AA!
+a dupla AA!
 
  219: 11:18:05.12 11:18:06.24  Duration 00:00:01.12  22
-Une chose est sûre,
+Uma coisa é certa,
 
  220: 11:18:07.03 11:18:10.24  Duration 00:00:03.21  58
-avec eux, c'est émotion garantie.
+com eles, é emoção garantida.
 
  221: 11:18:11.03 11:18:12.08  Duration 00:00:01.05  18
-Mais surtout
+Mas acima de tudo,
 
  222: 11:18:12.13 11:18:15.07  Duration 00:00:02.19  41
-que cela ne vous empêche pas
-de les apprécier
+que isso não impeça vocês
+de os apreciarem
 
  223: 11:18:15.11 11:18:17.20  Duration 00:00:02.09  35
-à la hauteur de leurs exploits.
+à altura de suas façanhas.
 
  224: 11:18:17.24 11:18:21.04  Duration 00:00:03.05  48
-Pour vous, les Garcia!
+Para vocês, os Garcia!
 
  225: 11:24:15.07 11:24:17.00  Duration 00:00:01.18  26
-Les Garcia!
+Os Garcia!
 
  226: 11:24:36.11 11:24:37.20  Duration 00:00:01.09  20
-Au cours de ce espetáculo, 
+Ao longo do espetáculo, 
 
  227: 11:24:37.24 11:24:40.13  Duration 00:00:02.14  38
-nous rencontrons
-de multiples sensations.
+encontramos múltiplas sensações.
 
  228: 11:24:40.17 11:24:44.20  Duration 00:00:04.03  62
-Il y a la joie, bien sûr,
-l'admiration, souvent,
+Tem alegria, é claro,
+admiração, com frequência,
 
  229: 11:24:45.00 11:24:46.22  Duration 00:00:01.22  28
-les frissons, parfois,
+frissons, às vezes,
 
  230: 11:24:47.01 11:24:49.01  Duration 00:00:02.00  30
-mais ce qu'il y a d'extraordinaire
+mas o que há de extraordinário
 
  231: 11:24:49.05 11:24:51.14  Duration 00:00:02.09  35
-avec les artistes
-que nous allons retrouver,
+com os artistas que vamos rever
 
  232: 11:24:51.18 11:24:54.24  Duration 00:00:03.06  49
-c'est cette incroyable complicité
-qu'ils ont sur la piste,
+é essa cumplicidade incrível
+que têm no picadeiro,
 
  233: 11:24:55.04 11:24:57.11  Duration 00:00:02.07  34
-mais également
-dans la vie de tous les jours
+mas também na vida cotidiana
 
  234: 11:24:57.15 11:24:59.01  Duration 00:00:01.11  22
-avec leur partenaire.
+com seu parceiro.
 
  235: 11:24:59.05 11:25:03.22  Duration 00:00:04.17  70
-Et c'est cela qui leur permet
-de nous offrir des moments rares.
+E é isso que os faz
+poder nos oferecer momentos raros.
 
  236: 11:25:05.02 11:25:08.21  Duration 00:00:03.19  56
-Clown d'Or au Festival international
-du cirque de Monte-Carlo,
+Clown d'Or no Festival Internacional
+do Circo de Monte Carlo,
 
  237: 11:25:09.00 11:25:11.02  Duration 00:00:02.02  31
-les Casselly!
+os Casselly!
 
  238: 11:28:10.15 11:28:13.02  Duration 00:00:02.12  37
-Et maintenant, chers amis,
-si vous le permettez,
+E agora, caros amigos,
+se me permitem,
 
  239: 11:28:13.06 11:28:15.21  Duration 00:00:02.15  39
-j'aimerais attirer votre attention
-sur ce qui va suivre.
+quero chamar a atenção
+para o que vem aí.
 
  240: 11:28:16.00 11:28:19.09  Duration 00:00:03.09  50
-En effet, les Casselly vous proposent
+Na verdade,
+os Casselly vão mostrar algo
 
  241: 11:28:19.14 11:28:20.23  Duration 00:00:01.09  20
-encore plus difficile.
+ainda mais difícil.
 
  242: 11:28:21.02 11:28:24.15  Duration 00:00:03.13  53
-Un exercice qu'ils sont actuellement
-les seuls au monde à réaliser.
+Um exercício que, atualmente,
+eles são os únicos a fazer.
 
  243: 11:28:24.20 11:28:27.18  Duration 00:00:02.23  44
-Un exercice de leur création.
+Um exercício criado por eles.
 
  244: 11:28:27.22 11:28:29.04  Duration 00:00:01.07  19
-Imaginez, plutôt.
+Tentem imaginar.
 
  245: 11:28:29.09 11:28:32.17  Duration 00:00:03.08  50
-Ils vont tenter pour vous un triple
+Eles vão tentar para vocês um triplo
 
  246: 11:28:32.22 11:28:35.00  Duration 00:00:02.03  32
-saut périlleux à la bascule,
+salto mortal à la bascule,
 
  247: 11:28:35.04 11:28:38.14  Duration 00:00:03.10  51
-avec arrivée
-sur le dos de l'éléphant.
+com chegada no dorso do elefante.
 
  248: 11:28:38.18 11:28:41.10  Duration 00:00:02.17  40
-Alors, avant de solliciter
-le plus grand silence,
+Então antes de pedir
+o maior silêncio,
 
  249: 11:28:41.15 11:28:44.04  Duration 00:00:02.14  38
-je vous demanderai d'encourager,
-comme il se doit,
+peço que encorajem,
+como eles merecem,
 
  250: 11:28:44.08 11:28:48.10  Duration 00:00:04.02  61
-celui qu'on surnomme à juste titre
-"le prince des éléphants":
+aquele que é apelidado com razão
+de "príncipe dos elefantes":
 
  251: 11:28:48.15 11:28:51.10  Duration 00:00:02.20  42
 René Casselly Junior.
 
  252: 11:29:12.02 11:29:14.08  Duration 00:00:02.06  34
-Kimba, vous êtes prête?
+Kimba, você está pronta?
 
  253: 11:31:55.19 11:31:59.04  Duration 00:00:03.10  51
-Sous-titrage: ECLAIR
+Adaptação: Adriana Gasparoni
+Legendagem: ECLAIR
 
