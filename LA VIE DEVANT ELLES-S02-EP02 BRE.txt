@@ -1751,450 +1751,452 @@ O que houve?
 Nada.
 
  532: 10:35:51.07 10:35:54.06  Duration 00:00:02.24  50
-Ce n'est pas ce que nous faisons,
-mais é très bien.
+Não é o que nós fazemos,
+mas é muito bom.
 
  533: 10:35:54.10 10:35:55.14  Duration 00:00:01.04  20
-Vous avez appris où?
+Onde você aprendeu?
 
  534: 10:35:55.18 10:35:56.23  Duration 00:00:01.05  20
-Toute seule.
+Sozinha.
 
  535: 10:35:57.02 10:35:59.11  Duration 00:00:02.09  40
-Mon rêve était de devenir styliste.
+Meu sonho era ser estilista.
 
  536: 10:35:59.15 10:36:01.03  Duration 00:00:01.13  26
-Vous n'en êtes pas loin.
+Você não está longe.
 
  537: 10:36:02.15 10:36:04.07  Duration 00:00:01.17  29
-Vous aviez des modèles?
-Des patrons?
+Você tinha modelos?
+Moldes?
 
  538: 10:36:04.11 10:36:05.08  Duration 00:00:00.22  15
 Não.
 
  539: 10:36:05.12 10:36:08.17  Duration 00:00:03.05  54
-En fait, j'ai voyagé au Maghreb,
-j'ai regardé et...
+Na verdade, viajei para o Magrebe,
+observei e...
 
  540: 10:36:08.21 10:36:10.07  Duration 00:00:01.11  24
-et voilà.
+e pronto.
 
  541: 10:36:10.11 10:36:14.14  Duration 00:00:04.03  70
-É trop original, trop ethnique.
-Vous voyez ce que je veux dire?
+É diferente demais, étnico demais.
+Entende o que quero dizer?
 
  542: 10:36:14.18 10:36:17.01  Duration 00:00:02.08  39
-Ça sera difficile à commercialiser.
+Será difícil de vender.
 
  543: 10:36:17.05 10:36:18.19  Duration 00:00:01.14  27
-Si vous travaillez de chez vous,
+Se trabalhar em casa,
 
  544: 10:36:18.23 10:36:21.11  Duration 00:00:02.13  43
-on peut vous employer
-à temps partiel.
+podemos empregá-la
+em meio expediente.
 
  545: 10:36:21.16 10:36:23.18  Duration 00:00:02.02  35
-La maison fournit le tissu
-et les patrons.
+A casa dá o tecido
+e os moldes.
 
  546: 10:36:23.22 10:36:26.08  Duration 00:00:02.11  41
-Vous vous chargez du reste.
-On a une commande, là.
+Você faz o resto.
+Temos um pedido urgente.
 
  547: 10:36:26.12 10:36:27.07  Duration 00:00:00.20  14
-Super.
+Ótimo.
 
  548: 10:36:27.11 10:36:30.15  Duration 00:00:03.04  54
-É un travail particulier.
-Il faut de la conviction.
+É um trabalho especial.
+Exige convicção.
 
  549: 10:36:30.19 10:36:33.23  Duration 00:00:03.04  54
-Nos employées adhèrent
-aux costumes qu'elles fabriquent.
+Nossas funcionárias aderem
+aos trajes que fabricam.
 
  550: 10:36:34.02 10:36:35.24  Duration 00:00:01.22  32
-La bonne couture
-suppose de la ferveur.
+A boa costura implica fervor.
 
  551: 10:36:36.03 10:36:39.04  Duration 00:00:03.01  52
-Il ne s'agit pas de coudre,
-mais de croire à ce que l'on coud.
+Não é só costurar,
+mas acreditar no que costuramos.
 
  552: 10:36:42.12 10:36:44.17  Duration 00:00:02.05  37
-Si vous m'encouragez pas, en plus.
+Se não me apoiam,
+ainda por cima...
 
  553: 10:36:44.21 10:36:46.20  Duration 00:00:01.24  33
-Elle a raison.
-On a tous commencé, petit.
+Está certa.
+Todos começam pequenos.
 
  554: 10:36:47.00 10:36:48.20  Duration 00:00:01.20  31
-On finira tout petit.
+E acabam pequenos.
 
  555: 10:36:49.13 10:36:52.18  Duration 00:00:03.05  54
-Les curés, enfants de chœur,
-ont fini avec des galons.
+Os padres começam coroinhas
+e terminam com galões.
 
  556: 10:36:52.23 10:36:56.11  Duration 00:00:03.13  60
-Si on m'avait dit qu'un jour,
-ma fille fabriquerait ces attirails,
+Se me dissessem que minha filha
+fabricaria esses trajes,
 
  557: 10:36:56.15 10:36:58.04  Duration 00:00:01.14  27
-et en plus, dans mon bistrot,
+e além de tudo
+no meu bar,
 
  558: 10:36:58.08 10:37:00.18  Duration 00:00:02.10  41
-je crois que j'aurai fait une crise
-cardiaque.
+acho que eu teria
+um ataque cardíaco.
 
  559: 10:37:01.16 10:37:02.16  Duration 00:00:01.00  17
-Il est toujours temps.
+Ainda dá tempo.
 
  560: 10:37:02.21 10:37:06.19  Duration 00:00:03.23  67
--T'es charmant comme garçon.
--Não. É sa façon d'être gentil.
+-Que rapaz adorável.
+-Não. É o jeito dele de ser gentil.
 
  561: 10:37:06.23 10:37:08.05  Duration 00:00:01.07  22
 Hein, Didier?
 
  562: 10:37:11.00 10:37:12.12  Duration 00:00:01.12  25
-Je viens chercher mon fils.
+Vim buscar meu filho.
 
  563: 10:37:13.20 10:37:15.04  Duration 00:00:01.09  23
-De qui vous parlez?
+De quem está falando?
 
  564: 10:37:15.16 10:37:16.21  Duration 00:00:01.05  20
-D'Alexis.
+Do Alexis.
 
  565: 10:37:17.00 10:37:19.13  Duration 00:00:02.13  43
-Il a 4 ans.
-Il est grand comme ça.
+Ele tem 4 anos.
+É deste tamanho.
 
  566: 10:37:19.18 10:37:21.19  Duration 00:00:02.01  35
-Vous avez dévalisé la boutique
-de jouets.
+Comprou toda a loja de brinquedos.
 
  567: 10:37:21.24 10:37:23.01  Duration 00:00:01.02  18
-Je viens le chercher.
+Eu vim buscá-lo.
 
  568: 10:37:23.05 10:37:25.17  Duration 00:00:02.12  42
-Ici, é un café.
-Soit vous prenez à boire
+Aqui é um café.
+Ou você pede uma bebida
 
  569: 10:37:25.21 10:37:26.23  Duration 00:00:01.02  18
-ou vous sortez.
+ou sai.
 
  570: 10:37:29.03 10:37:29.23  Duration 00:00:00.20  14
-Tu comprends pas?
+Não entendeu?
 
  571: 10:37:35.02 10:37:35.22  Duration 00:00:00.20  14
-Tu dégages.
+Saia daqui.
 
  572: 10:37:37.14 10:37:38.21  Duration 00:00:01.07  22
-É pas fini, hein.
+Não acabou, ouviu?
 
  573: 10:37:42.15 10:37:44.01  Duration 00:00:01.11  24
-Au revoir, mon poulet.
+Tchau, meu fofinho.
 
  574: 10:38:02.01 10:38:05.05  Duration 00:00:03.04  54
-Il ne faudrait pas que ça devienne
-une habitude.
+É só porque é para você.
+Que não vire um hábito.
 
  575: 10:38:06.05 10:38:08.14  Duration 00:00:02.09  40
-T'es tellement doué.
-Pourquoi je m'en passerai?
+Você é tão bom nisso.
+Por que desperdiçar?
 
  576: 10:38:08.19 10:38:10.24  Duration 00:00:02.05  37
-Sim. É ça.
-Dore-moi la pilule.
+Sei. 
+Pode dourar a pílula.
 
  577: 10:38:12.23 10:38:15.02  Duration 00:00:02.04  37
-Bon. Qu'est-ce qu'on met comme nom?
+Que nome vamos colocar?
 
  578: 10:38:15.06 10:38:16.10  Duration 00:00:01.04  20
-Un truc pays de l'Est.
+Um nome do Leste.
 
  579: 10:38:18.12 10:38:19.11  Duration 00:00:00.24  16
 Revkolevski?
 
  580: 10:38:20.11 10:38:21.16  Duration 00:00:01.05  20
-Ça te dit?
+O que acha?
 
  581: 10:38:21.20 10:38:22.24  Duration 00:00:01.04  20
-Ouais.
+É.
 
  582: 10:38:23.03 10:38:25.05  Duration 00:00:02.02  35
 Masha Revkolevski.
 
  583: 10:38:26.00 10:38:27.18  Duration 00:00:01.18  29
-Allez. Vendu.
+Pronto. Decidido.
 
  584: 10:38:28.16 10:38:31.02  Duration 00:00:02.11  41
-Article 227.7 du code pénal.
+Artigo 227.7 do código penal.
 
  585: 10:38:32.23 10:38:36.08  Duration 00:00:03.10  58
-Je sais. Elle risque 1 an de prison
-et 100 000 francs d'amende.
+Eu sei. Ela pode pegar um ano
+e 100 mil francos de multa.
 
  586: 10:38:36.12 10:38:38.20  Duration 00:00:02.08  39
-Plus circonstances aggravantes
-contre enfant.
+E circunstâncias agravantes
+por ser menor.
 
  587: 10:38:39.12 10:38:41.24  Duration 00:00:02.12  42
-Alma, s'il te plaît,
-pour la dernière fois,
+Alma, por favor,
+pela última vez,
 
  588: 10:38:42.03 10:38:43.11  Duration 00:00:01.08  22
-dis-moi où ils sont.
+diga onde eles estão.
 
  589: 10:38:47.19 10:38:48.14  Duration 00:00:00.20  14
-Pourquoi tu fais ça?
+Por que faz isso?
 
  590: 10:38:48.19 10:38:50.23  Duration 00:00:02.04  37
-Je te l'ai dit.
-Je suis pas d'accord avec toi.
+Eu já disse.
+Não concordo com você.
 
  591: 10:38:51.03 10:38:53.13  Duration 00:00:02.10  41
-Tu trouves que j'ai tort
-de défendre un homme
+Estou errado
+em defender um homem
 
  592: 10:38:53.17 10:38:54.23  Duration 00:00:01.06  21
-à qui on a enlevé l'enfant?
+cujo filho raptaram?
 
  593: 10:38:55.02 10:38:56.02  Duration 00:00:01.00  17
-Não. É pas ça.
+Não. Não é isso.
 
  594: 10:38:56.20 10:39:00.01  Duration 00:00:03.06  55
-É que si j'avais été avocate,
-j'aurais défendu la femme.
+É que se eu fosse advogada,
+defenderia a mulher.
 
  595: 10:39:00.11 10:39:03.02  Duration 00:00:02.16  45
-Et tu te rends complice
-d'enlèvement d'un enfant?
+Então é cúmplice
+do rapto de uma criança?
 
  596: 10:39:05.07 10:39:06.06  Duration 00:00:00.24  16
 Sim.
 
  597: 10:39:09.04 10:39:11.14  Duration 00:00:02.10  41
-Tu as conscience
-que tu te mets hors la loi?
+Tem consciência
+que você infringe a lei?
 
  598: 10:39:11.18 10:39:14.11  Duration 00:00:02.18  46
-Tu défends un client
-que mon cabinet met en cause.
+Defende um cliente
+acusado pelo meu escritório.
 
  599: 10:39:15.21 10:39:16.16  Duration 00:00:00.20  14
 Sim.
 
  600: 10:39:18.15 10:39:19.13  Duration 00:00:00.23  16
-Ah sim?
+É mesmo?
 
  601: 10:39:20.21 10:39:22.13  Duration 00:00:01.17  29
-Mais... Alma, je peux plus te garder.
+Mas...
+Você não pode ficar.
 
  602: 10:39:23.21 10:39:24.16  Duration 00:00:00.20  14
-Tu comprends?
+Entende isso?
 
  603: 10:39:26.23 10:39:27.18  Duration 00:00:00.20  14
-Je te comprends.
+Eu entendo.
 
  604: 10:39:27.23 10:39:29.11  Duration 00:00:01.13  26
-Ah sim?
+É mesmo?
 
  605: 10:39:29.15 10:39:30.12  Duration 00:00:00.22  15
-Et donc?
+E então?
 
  606: 10:39:32.24 10:39:34.11  Duration 00:00:01.12  25
-Je vais te rendre le studio.
+Vou devolver
+a quitinete.
 
  607: 10:39:35.20 10:39:37.11  Duration 00:00:01.16  28
-É pas ça que je te demande.
+Não foi isso que pedi.
 
  608: 10:39:37.16 10:39:38.23  Duration 00:00:01.07  22
-Não, mais je vais le faire.
+Não, mas vou fazê-lo.
 
  609: 10:39:41.16 10:39:42.18  Duration 00:00:01.02  18
-On peut pas continuer.
+Não podemos continuar.
 
  610: 10:39:43.10 10:39:45.15  Duration 00:00:02.05  37
-Attends. On va trouver une solution.
+Espere.
+Vamos achar uma solução.
 
  611: 10:39:45.20 10:39:47.15  Duration 00:00:01.20  31
-T'as été formidable avec moi.
+Você foi incrível comigo.
 
  612: 10:39:47.19 10:39:50.08  Duration 00:00:02.14  44
-Et je l'oublierai jamais.
-Mais maintenant...
+E nunca esquecerei isso.
+Mas agora...
 
  613: 10:39:52.09 10:39:54.02  Duration 00:00:01.18  29
--Qu'est-ce que j'ai fait?
--Rien.
+-O que eu fiz?
+-Nada.
 
  614: 10:39:54.21 10:39:57.05  Duration 00:00:02.09  40
-Rien. C'était magnifique
-entre nous, et...
+Nada.
+Foi maravilhoso entre nós, e...
 
  615: 10:39:58.04 10:39:59.22  Duration 00:00:01.18  29
-je t'ai tellement aimé, mais...
+eu amei tanto você, mas...
 
  616: 10:40:00.01 10:40:02.00  Duration 00:00:01.24  33
-mais j'y arrive plus.
+mas não consigo mais.
 
  617: 10:40:02.04 10:40:03.21  Duration 00:00:01.17  29
-Ça marche plus.
+Não está mais dando certo.
 
  618: 10:40:10.04 10:40:11.04  Duration 00:00:01.00  17
-T'as quelqu'un?
+Tem outro cara?
 
  619: 10:40:13.21 10:40:14.16  Duration 00:00:00.20  14
 Não.
 
  620: 10:40:21.17 10:40:22.17  Duration 00:00:01.00  17
-OK.
+Está bem.
 
  621: 10:40:24.15 10:40:26.06  Duration 00:00:01.16  28
-On va préparer ton compte.
+Vamos fechar suas contas.
 
  622: 10:40:34.06 10:40:37.00  Duration 00:00:02.19  47
-Il y a mieux comme mot de rupture,
-tu crois pas?
+Há coisa melhor para dizer
+ao terminar, não?
 
  623: 10:40:41.22 10:40:43.04  Duration 00:00:01.07  22
-Je fais ce que je peux.
+Faço o que posso.
 
  624: 10:41:27.01 10:41:28.04  Duration 00:00:01.03  19
 Alma?
 
  625: 10:41:31.01 10:41:32.11  Duration 00:00:01.10  24
-Ça va?
+Tudo bem?
 
  626: 10:41:34.00 10:41:35.05  Duration 00:00:01.05  20
-Tu peux m'héberger?
+Pode me hospedar?
 
  627: 10:41:35.20 10:41:37.05  Duration 00:00:01.10  24
-Sim. Qu'est-ce qu'il y a?
+Sim. O que houve?
 
  628: 10:41:38.05 10:41:39.11  Duration 00:00:01.06  21
-J'ai quitté Duparcq.
+Deixei o Duparcq.
 
  629: 10:41:40.03 10:41:41.07  Duration 00:00:01.04  20
-Enfin.
+Finalmente.
 
  630: 10:41:42.22 10:41:43.23  Duration 00:00:01.01  18
-Allez. Viens.
+Vamos, entre.
 
  631: 10:42:16.09 10:42:18.19  Duration 00:00:02.10  41
--T'es bien installée?
--Ouais. Obrigada.
+-Está bem instalada?
+-Estou. Obrigada.
 
  632: 10:42:19.16 10:42:20.19  Duration 00:00:01.03  19
-T'es un amour.
+Você é um amor.
 
  633: 10:42:20.23 10:42:21.18  Duration 00:00:00.20  14
-Ça va?
+Tudo bem?
 
  634: 10:42:24.14 10:42:26.01  Duration 00:00:01.12  25
-Viens. On va boire un coup.
+Venha. Vamos beber.
 
  635: 10:42:36.17 10:42:38.24  Duration 00:00:02.07  39
-Il n'y a pas quelqu'un
-pour s'occuper de l'enfant?
+Ninguém pode cuidar do menino?
 
  636: 10:42:39.03 10:42:41.16  Duration 00:00:02.13  43
-S'il vous plaît.
-il faut s'occuper de l'enfant.
+Por favor,
+alguém tem que cuidar dele.
 
  637: 10:42:41.20 10:42:43.06  Duration 00:00:01.11  24
-Moi, j'ai jamais pu.
+Nunca quis ter filhos.
 
  638: 10:42:43.10 10:42:45.03  Duration 00:00:01.18  29
-Mais il n'y a pas une mère?
+Mas ele não tem mãe?
 
  639: 10:42:46.03 10:42:47.08  Duration 00:00:01.05  20
-Viens.
+Vem!
 
  640: 10:42:48.03 10:42:49.09  Duration 00:00:01.06  21
-J'ai gagné.
+Eu ganhei!
 
  641: 10:42:50.11 10:42:51.10  Duration 00:00:00.24  16
-T'as entendu?
+Você ouviu?
 
  642: 10:42:51.22 10:42:53.03  Duration 00:00:01.06  21
-Prêt?
+Está pronto?
 
  643: 10:42:53.07 10:42:54.22  Duration 00:00:01.15  27
-Hein. Petit joueur.
+Hein, brincalhão?
 
  644: 10:42:55.01 10:42:58.01  Duration 00:00:03.00  51
-On va jouer au papa.
-É un jeu qui plaît aux filles.
+Vamos brincar de papai.
+As meninas adoram.
 
  645: 10:42:58.21 10:43:00.11  Duration 00:00:01.15  27
-Bonjour, mademoiselle.
+Bom dia, moça.
 
  646: 10:43:00.15 10:43:01.18  Duration 00:00:01.03  19
-Salut.
+Oi.
 
  647: 10:43:02.24 10:43:05.13  Duration 00:00:02.14  44
-Ça va, Alexis?
-Je suis venue voir ta maman.
+Tudo bem, Alexis?
+Vim falar com sua mãe.
 
  648: 10:43:05.17 10:43:06.21  Duration 00:00:01.04  20
--Elle est là?
--Ouais.
+-Ela está?
+-Sim.
 
  649: 10:43:07.16 10:43:09.17  Duration 00:00:02.01  35
-Tu nous excuses,
-on va prendre un bain.
+Com licença,
+vamos tomar banho.
 
  650: 10:43:09.21 10:43:11.02  Duration 00:00:01.06  21
-D'accord?
+Está bem?
 
  651: 10:43:11.06 10:43:13.13  Duration 00:00:02.07  39
-Ça fait longtemps
-qu'on ne s'est point lavé.
+Faz tempo que não nos lavamos.
 
  652: 10:43:14.01 10:43:15.17  Duration 00:00:01.16  28
-Tu m'as appelée?
+Você me chamou?
 
  653: 10:43:19.14 10:43:20.17  Duration 00:00:01.03  19
 É gentil.
 
  654: 10:43:21.20 10:43:24.04  Duration 00:00:02.09  40
-Rodolphe m'a dit de rester
-autant que je voulais.
+Rodolphe disse
+que posso ficar quanto quiser.
 
  655: 10:43:26.11 10:43:28.14  Duration 00:00:02.03  36
-Ça, ça va pas être possible.
+Isso não vai ser possível.
 
  656: 10:43:28.18 10:43:31.15  Duration 00:00:02.22  49
-Solana a pris 1 billet pour vous
-et Alexis. Départ ce soir.
+Solana comprou passagens
+para vocês. Hoje à noite.
 
  657: 10:43:35.15 10:43:36.14  Duration 00:00:00.24  16
 Masha.
 
  658: 10:43:36.18 10:43:39.00  Duration 00:00:02.07  39
 -Sim?
--Ton fils refuse de prendre le bain.
+-Seu filho não quer tomar banho.
 
  659: 10:43:40.03 10:43:42.01  Duration 00:00:01.23  33
-Il n'a pas l'habitude des baignoires.
+Ele não está habituado
+a banheira.
 
  660: 10:43:42.05 10:43:43.12  Duration 00:00:01.07  22
-Ah, mais é un bidet.
+Ah, mas é um bidê.
 
  661: 10:43:43.17 10:43:45.05  Duration 00:00:01.13  26
--Quoi?
--Un bidet.
+-O quê?
+-Um bidê.
 
  662: 10:43:45.09 10:43:46.20  Duration 00:00:01.11  24
-Je sais pas ce que é.
+Não sei o que é.
 
  663: 10:43:47.00 10:43:49.09  Duration 00:00:02.09  40
-É une toute petite baignoire.
+É uma banheira pequenina.
 
  664: 10:43:49.14 10:43:50.16  Duration 00:00:01.02  18
-Attends.
+Espere.
 
  665: 10:43:50.20 10:43:51.18  Duration 00:00:00.23  16
 Alma.
@@ -2203,7 +2205,7 @@ Alma.
 Alma.
 
  667: 10:43:57.14 10:44:00.04  Duration 00:00:02.15  44
-Je crois qu'elle me fait la gueule.
+Acho que ela está emburrada comigo.
 
  668: 10:44:17.14 10:44:18.15  Duration 00:00:01.01  18
 Allez. Allez.
