@@ -889,417 +889,418 @@ Não precisava.
 Tem focas na Baía de Somme.
 
  259: 10:17:16.13 10:17:18.20  Durée 00:00:02.07  Lisibilité 34
-Tu t'es reposé
-ou tu as fait que travailler?
+Você descansou ou só estudou?
 
  260: 10:17:18.24 10:17:20.02  Durée 00:00:01.03  Lisibilité 17
-Ni l'un ni l'autre.
+Nem um nem outro.
 
  261: 10:17:20.06 10:17:23.19  Durée 00:00:03.13  Lisibilité 53
-Quand je dois travailler, je m'endors
-et je pense à mon travail.
+Quando tenho que estudar,
+caio no sono e penso no estudo.
 
  262: 10:17:24.06 10:17:28.01  Durée 00:00:03.20  Lisibilité 57
-Ça ira mieux, maintenant que t'es là.
-Viens, on a plein de choses à faire.
+Vai melhorar, agora, estando aqui.
+Venho, temos muito trabalho.
 
  263: 10:17:28.05 10:17:29.14  Durée 00:00:01.09  Lisibilité 20
-Allez.
+Vamos.
 
- 264: 10:17:34.10 10:17:35.23  Durée 00:00:01.13  Lisibilité 23
-Bon. Choisis ce que tu veux.
+ 264 10:17:34.10 10:17:35.23  Durée 00:00:01.13  Lisibilité 23
+Bom.
+Escolha o que quiser.
 
  265: 10:17:37.03 10:17:39.12  Durée 00:00:02.09  Lisibilité 35
-Regarde.
-T'en voulais pas une comme ça?
+Veja.
+Não queria uma assim?
 
  266: 10:17:39.20 10:17:41.02  Durée 00:00:01.07  Lisibilité 19
-Ça fait radio.
+Parece um rádio.
 
  267: 10:17:41.06 10:17:42.15  Durée 00:00:01.09  Lisibilité 20
--Bonjour.
--Bonjour.
+-Olá.
+-Olá.
 
  268: 10:17:42.19 10:17:45.15  Durée 00:00:02.21  Lisibilité 43
--Je peux vous aider?
--On veut ce qui se fait de mieux.
+-Posso ajudar?
+-Queremos o que há de melhor.
 
  269: 10:17:45.20 10:17:47.21  Durée 00:00:02.01  Lisibilité 31
--OK.
--Le top du top. Vous voyez?
+-Certo.
+-O top do top. Entende?
 
  270: 10:17:48.00 10:17:49.16  Durée 00:00:01.16  Lisibilité 25
-D'accord. Ça, é très bien.
+Certo.
+Este é muito bom.
 
  271: 10:17:49.20 10:17:52.02  Durée 00:00:02.07  Lisibilité 34
-É une enceinte portative
-qui fait radio.
+É um som portátil com rádio.
 
  272: 10:17:52.07 10:17:55.00  Durée 00:00:02.18  Lisibilité 41
-Tu peux brancher ton MP3
-ou ton lecteur,
+Você pode ligar seu MP3
+ou seu leitor
 
  273: 10:17:55.04 10:17:56.03  Durée 00:00:00.24  Lisibilité 14
-ou ton téléphone.
+ou seu celular.
 
  274: 10:17:56.07 10:17:58.17  Durée 00:00:02.10  Lisibilité 36
-Ce que tu veux.
-Ça marche en Bluetooth.
+O que quiser.
+Funciona com Bluetooth.
 
  275: 10:18:12.19 10:18:13.15  Durée 00:00:00.21  Lisibilité 13
-1 824 E
+1.824 euros
 
  276: 10:18:13.20 10:18:15.04  Durée 00:00:01.09  Lisibilité 20
-et 33 centimes.
+e 33 cêntimos.
 
  277: 10:18:16.20 10:18:18.17  Durée 00:00:01.22  Lisibilité 28
-T'inquiète, j'ai touché une prime.
+Tudo bem,
+recebi indenização.
 
  278: 10:18:20.05 10:18:22.12  Durée 00:00:02.07  Lisibilité 34
--Il est bien, celui-là.
--Sim, je pense.
+-Esse é bom.
+-Sim, também acho.
 
  279: 10:18:28.00 10:18:29.06  Durée 00:00:01.06  Lisibilité 19
-Il est beau!
+É lindo!
 
  280: 10:18:29.10 10:18:31.14  Durée 00:00:02.04  Lisibilité 32
-É trop beau! Waouh!
+É lindo demais! Uau!
 
  281: 10:18:31.18 10:18:32.21  Durée 00:00:01.03  Lisibilité 17
-Ah ouais!
+Nossa!
 
  282: 10:19:04.08 10:19:06.17  Durée 00:00:02.09  Lisibilité 35
 680 E
 
  283: 10:19:12.17 10:19:13.23  Durée 00:00:01.06  Lisibilité 19
-Vert ou bleu?
+Verde ou azul?
 
  284: 10:19:14.18 10:19:15.15  Durée 00:00:00.22  Lisibilité 13
-Vert.
+Verde.
 
  285: 10:19:22.05 10:19:23.08  Durée 00:00:01.03  Lisibilité 17
-Obrigado. Au revoir.
+Obrigado. Tchau.
 
  286: 10:19:23.12 10:19:24.24  Durée 00:00:01.12  Lisibilité 22
-Obrigado. Au revoir.
+Obrigado. Tchau.
 
  287: 10:19:25.03 10:19:26.14  Durée 00:00:01.11  Lisibilité 22
-Tu ressembleras aux autres.
+Vai parecer
+com os outros.
 
  288: 10:19:27.05 10:19:29.21  Durée 00:00:02.16  Lisibilité 40
-L'ostracisme
-ne sera pas ta problématique.
+O ostracismo
+não será seu problema.
 
  289: 10:19:56.09 10:19:57.13  Durée 00:00:01.04  Lisibilité 17
 15,45.
 
  290: 10:19:59.06 10:20:02.15  Durée 00:00:03.09  Lisibilité 50
-Não, attends. Tu rends d'abord
-les 20 E que je t'ai donnés,
+Não, espere. Devolva primeiro
+os 20 E que lhe dei,
 
  291: 10:20:02.19 10:20:04.03  Durée 00:00:01.09  Lisibilité 20
-comme ça,
+assim,
 
  292: 10:20:04.07 10:20:07.04  Durée 00:00:02.22  Lisibilité 43
-et la machine calcule le montant
-que tu dois rendre.
+e a máquina calcula
+o valor do troco.
 
  293: 10:20:07.08 10:20:08.18  Durée 00:00:01.10  Lisibilité 21
-Et ça affiche 4,55 E.
+E mostra 4,55 euros.
 
  294: 10:20:08.22 10:20:10.17  Durée 00:00:01.20  Lisibilité 27
-É ce que je t'ai rendu.
-Regarde.
+Foi o que eu devolvi.
+Veja.
 
  295: 10:20:10.21 10:20:14.11  Durée 00:00:03.15  Lisibilité 54
-Mais si on te donne un billet de 50
-et que ça coûte 13,48 E?
+Mas e se lhe derem uma nota de 50
+e custar 13,48 E?
 
  296: 10:20:14.15 10:20:16.06  Durée 00:00:01.16  Lisibilité 25
-Ben, 36,52.
+Bem, é 36,52.
 
  297: 10:20:17.05 10:20:19.06  Durée 00:00:02.01  Lisibilité 31
-Écoute, é la procédure.
+Olhe, é o procedimento.
 
  298: 10:20:19.10 10:20:21.23  Durée 00:00:02.13  Lisibilité 38
-Tu rentres le montant du client,
-et la machine calcule.
+Tecla o montante pago
+e máquina calcula.
 
  299: 10:20:22.09 10:20:25.05  Durée 00:00:02.21  Lisibilité 43
-Et si ta caisse est fausse,
-é pris sur ta paye.
+E se der diferença no caixa,
+descontam de você.
 
  300: 10:20:27.10 10:20:28.22  Durée 00:00:01.12  Lisibilité 22
-Donc voici mon CV.
+Aqui está meu currículo.
 
  301: 10:20:29.07 10:20:32.09  Durée 00:00:03.02  Lisibilité 46
-Bon. Je vous préviens,
-j'ai beaucoup de candidatures.
+Bom. Vou avisando,
+tenho muitos candidatos.
 
  302: 10:20:33.08 10:20:35.02  Durée 00:00:01.19  Lisibilité 26
-É bien.
-Vous avez un véhicule?
+É bom.
+Você tem veículo?
 
  303: 10:20:35.06 10:20:36.04  Durée 00:00:00.23  Lisibilité 14
-Bien sûr.
+Claro.
 
  304: 10:20:36.08 10:20:37.16  Durée 00:00:01.08  Lisibilité 20
-Vous roulez dans Paris?
+Roda em Paris?
 
  305: 10:20:37.21 10:20:40.13  Durée 00:00:02.17  Lisibilité 40
-Il faut être efficace
-dans les déplacements.
+É preciso ser eficaz
+nos deslocamentos.
 
  306: 10:20:40.17 10:20:43.06  Durée 00:00:02.14  Lisibilité 38
-Aller de A à B
-sans passer par C ou D.
+Ir de A a B
+sem passar por C ou D.
 
  307: 10:20:44.02 10:20:44.23  Durée 00:00:00.21  Lisibilité 13
-Voilà. Parfait.
+Pronto.
+Perfeito.
 
  308: 10:20:46.17 10:20:49.00  Durée 00:00:02.08  Lisibilité 35
-Je vous mets le certificat
-de cession.
+Vou lhe dar
+o comprovante de compra.
 
  309: 10:20:49.04 10:20:50.09  Durée 00:00:01.05  Lisibilité 18
-Et d'immatriculation.
+E do registro.
 
  310: 10:20:50.13 10:20:51.14  Durée 00:00:01.01  Lisibilité 16
-D'accord.
+Certo.
 
  311: 10:20:51.18 10:20:52.24  Durée 00:00:01.06  Lisibilité 19
 OK.
 
  312: 10:20:53.04 10:20:54.24  Durée 00:00:01.20  Lisibilité 27
 -Obrigado.
--De rien.
+-De nada.
 
  313: 10:21:21.11 10:21:22.07  Durée 00:00:00.21  Lisibilité 13
-Allez, monte.
+Vamos, suba.
 
  314: 10:21:22.12 10:21:24.03  Durée 00:00:01.16  Lisibilité 25
-Je commence à livrer demain.
+Começo a entregar amanhã.
 
  315: 10:21:29.23 10:21:32.08  Durée 00:00:02.10  Lisibilité 36
-On y va mollo.
-É un mi-temps, alors...
+Vamos pegar leve.
+É meio expediente...
 
  316: 10:21:33.03 10:21:35.06  Durée 00:00:02.03  Lisibilité 32
-Des croques,
-1 carafe d'eau, et hop!
+Misto quente, água e pronto!
 
  317: 10:21:35.24 10:21:37.02  Durée 00:00:01.03  Lisibilité 17
-Pourquoi au restaurant?
+Por que restaurante?
 
  318: 10:21:37.06 10:21:38.12  Durée 00:00:01.06  Lisibilité 19
--Ça va?
--Impeccable.
+-Tudo bem?
+-Maravilha.
 
  319: 10:21:39.10 10:21:40.20  Durée 00:00:01.10  Lisibilité 21
-Bonjour.
+Olá.
 
  320: 10:21:40.24 10:21:43.19  Durée 00:00:02.20  Lisibilité 42
--Je peux faire à manger, moi.
--Ça va, maman. Arrête.
+-Eu posso cozinhar.
+-Tudo bem, mãe. Pare.
 
  321: 10:21:45.24 10:21:48.09  Durée 00:00:02.10  Lisibilité 36
-Ah, bonsoir.
-Vous aussi, vous venez ici?
+Ah, boa noite.
+Você também vem aqui?
 
  322: 10:21:48.13 10:21:49.19  Durée 00:00:01.06  Lisibilité 19
-Não, é la 1re fois.
+Não, é a 1ª vez.
 
  323: 10:21:49.24 10:21:53.03  Durée 00:00:03.04  Lisibilité 47
-Mais... J'ai trouvé un boulot,
-alors é pas la dernière.
+Mas... Consegui emprego,
+então não é a última.
 
  324: 10:21:53.24 10:21:54.20  Durée 00:00:00.21  Lisibilité 13
-Ah, super.
+Ótimo!
 
  325: 10:21:55.20 10:21:56.20  Durée 00:00:01.00  Lisibilité 15
-Félicitations.
+Parabéns.
 
  326: 10:21:57.15 10:21:58.12  Durée 00:00:00.22  Lisibilité 13
-Il faut fêter ça.
+Vamos comemorar.
 
  327: 10:21:58.23 10:21:59.19  Durée 00:00:00.21  Lisibilité 13
 Sylvain.
 
  328: 10:21:59.23 10:22:01.14  Durée 00:00:01.16  Lisibilité 25
-Tu nous mets 2 apéros maison.
+Traga 2 aperitivos da casa.
 
  329: 10:22:03.00 10:22:04.07  Durée 00:00:01.07  Lisibilité 19
-Vous travaillez dans quoi?
+Onde é o trabalho?
 
  330: 10:22:05.06 10:22:06.19  Durée 00:00:01.13  Lisibilité 23
-Dans la restauration.
+Num restaurante.
 
  331: 10:22:06.24 10:22:08.04  Durée 00:00:01.05  Lisibilité 18
-Ah, super.
+Ah, ótimo.
 
  332: 10:22:08.08 10:22:09.08  Durée 00:00:01.00  Lisibilité 15
 Top.
 
  333: 10:22:10.04 10:22:11.02  Durée 00:00:00.23  Lisibilité 14
-Et...
+E...
 
  334: 10:22:11.06 10:22:13.19  Durée 00:00:02.13  Lisibilité 38
-Ah, pardon.
-Je vous présente mon fils.
+Desculpe.
+Esse é o meu filho.
 
  335: 10:22:13.23 10:22:15.14  Durée 00:00:01.16  Lisibilité 25
 -Noé.
--Salut.
+-Oi.
 
  336: 10:22:15.18 10:22:16.13  Durée 00:00:00.20  Lisibilité 12
-É le voisin.
+É o vizinho.
 
  337: 10:22:16.17 10:22:18.03  Durée 00:00:01.11  Lisibilité 22
--Euh...
+-Ahn...
 -Diego.
 
  338: 10:22:18.24 10:22:21.00  Durée 00:00:02.01  Lisibilité 31
-É sa fille qui est à...
-en Maths sup.
+É a filha dele que faz...
+Engenharia.
 
  339: 10:22:21.04 10:22:22.23  Durée 00:00:01.19  Lisibilité 26
-É ça.
-É elle, là-bas.
+Isso.
+É ela, ali.
 
  340: 10:22:27.16 10:22:28.15  Durée 00:00:00.24  Lisibilité 14
 Obrigado.
 
  341: 10:22:29.16 10:22:31.00  Durée 00:00:01.09  Lisibilité 20
-Vous avez choisi?
+Escolheram?
 
  342: 10:22:31.04 10:22:32.20  Durée 00:00:01.16  Lisibilité 25
-Sim. 1 croque, s'il vous plaît.
+Sim. 1 misto, por favor.
 
  343: 10:22:33.05 10:22:34.18  Durée 00:00:01.13  Lisibilité 23
-Não. Une côte de bœuf.
+Não. Uma costela.
 
  344: 10:22:35.12 10:22:36.15  Durée 00:00:01.03  Lisibilité 17
-Bien saignante.
+Mal passada.
 
  345: 10:22:37.04 10:22:39.20  Durée 00:00:02.16  Lisibilité 40
-Je vais vous laisser.
-Je suis avec ma mère.
+Preciso ir.
+Estou com minha mãe.
 
  346: 10:22:44.09 10:22:47.09  Durée 00:00:03.00  Lisibilité 45
-Et si t'as besoin d'un coup de main
-en maths, tu viens,
+E se precisar de ajuda
+em matemática, venha,
 
  347: 10:22:47.13 10:22:48.21  Durée 00:00:01.08  Lisibilité 20
-tu frappes à la porte.
+é só bater na porta.
 
  348: 10:22:49.08 10:22:53.00  Durée 00:00:03.17  Lisibilité 55
-Je vous laisse ma carte,
-et vous m'appelez quand vous voulez.
+Vou lhe deixar meu cartão,
+e pode ligar quando quiser.
 
  349: 10:22:54.08 10:22:55.18  Durée 00:00:01.10  Lisibilité 21
--Obrigado.
--Voilà.
+-Obrigada.
+-É isso.
 
  350: 10:22:55.22 10:22:57.05  Durée 00:00:01.08  Lisibilité 20
-Ben, bonne soirée.
+Bem, boa noite.
 
  351: 10:22:59.00 10:23:01.09  Durée 00:00:02.09  Lisibilité 35
-Ah, 1 verre de bourgogne,
-s'il vous plaît.
+Ah, 1 taça de bourgogne,
+por favor.
 
  352: 10:23:01.13 10:23:02.21  Durée 00:00:01.08  Lisibilité 20
 1 bourgogne.
 
  353: 10:23:03.01 10:23:05.16  Durée 00:00:02.15  Lisibilité 39
-É quoi,
-le point le plus bas de IF?
+Qual é o ponto mais baixo de IF?
 
  354: 10:23:06.24 10:23:07.19  Durée 00:00:00.20  Lisibilité 12
 4.3.
 
  355: 10:23:07.23 10:23:11.05  Durée 00:00:03.07  Lisibilité 49
-Sim. Donc on peut dire que
-la fonction admet un minimum de...
+É. Então podemos dizer
+que a função admite o mínimo de...
 
  356: 10:23:12.10 10:23:13.11  Durée 00:00:01.01  Lisibilité 16
--3 en 4 de IR.
+-3 em 4 de IR.
 
  357: 10:23:13.16 10:23:14.12  Durée 00:00:00.21  Lisibilité 13
-Excellent.
+Excelente.
 
  358: 10:23:14.16 10:23:16.09  Durée 00:00:01.18  Lisibilité 26
--Alors, maintenant...
--Euh...
+-Então, agora...
+-Ahn...
 
  359: 10:23:16.14 10:23:18.05  Durée 00:00:01.16  Lisibilité 25
--Bonjour, Nadia.
--Bonjour.
+-Olá, Nadia.
+-Olá.
 
  360: 10:23:18.10 10:23:20.20  Durée 00:00:02.10  Lisibilité 36
-Je voulais vous remercier
-d'avoir accepté de l'aider.
+Queria lhe agradecer
+por ajudá-lo.
 
  361: 10:23:21.00 10:23:23.06  Durée 00:00:02.06  Lisibilité 34
-Je peux vous offrir un thé?
-Un café?
+Aceita um chá?
+Um café?
 
  362: 10:23:23.11 10:23:26.07  Durée 00:00:02.21  Lisibilité 43
-Sim. Un café.
-Les capsules vertes, si vous avez.
+Sim. Um café.
+Cápsula verde, se tiver.
 
  363: 10:23:27.17 10:23:29.16  Durée 00:00:01.24  Lisibilité 29
-J'ai plus de capsules. Pardon.
+Acabaram as cápsulas.
+Perdão.
 
  364: 10:23:30.15 10:23:32.20  Durée 00:00:02.05  Lisibilité 33
-Sim. J'ai bu la dernière, ce matin.
+Sim. Tomei a última de manhã.
 
  365: 10:23:33.00 10:23:34.21  Durée 00:00:01.21  Lisibilité 28
--Un thé?
--Sim. OK. Obrigado.
+-Um chá?
+-Sim. OK. Obrigada.
 
  366: 10:24:00.10 10:24:01.24  Durée 00:00:01.14  Lisibilité 23
 Nadia Avronat
 
  367: 10:24:17.22 10:24:19.13  Durée 00:00:01.16  Lisibilité 25
-C'était de la frime, l'autre fois.
+Era só para se exibir.
 
  368: 10:24:20.13 10:24:24.13  Durée 00:00:04.00  Lisibilité 60
-Moi, je m'en fous, des autres.
-Il fallait lui donner du café filtre.
+Não estou nem aí para os outros.
+Podia dar a ele café filtrado.
 
  369: 10:24:24.18 10:24:26.19  Durée 00:00:02.01  Lisibilité 31
-Il y a longtemps
-que j'en avais envie.
+Fazia tempo que eu queria.
 
  370: 10:24:26.24 10:24:29.17  Durée 00:00:02.18  Lisibilité 41
-É comme au restaurant,
-t'as eu honte d'être #cheap.#
+É como no restaurante,
+tem vergonha de ser dura.
 
  371: 10:24:29.22 10:24:32.18  Durée 00:00:02.21  Lisibilité 43
-Je me fous des autres pour moi,
-mais pas pour toi.
+Não ligo para os outros por mim,
+mas por você.
 
  372: 10:24:32.23 10:24:34.15  Durée 00:00:01.17  Lisibilité 25
-Tu restes ici. Tu m'écoutes.
+Fique aqui. Escute.
 
  373: 10:24:35.18 10:24:39.11  Durée 00:00:03.18  Lisibilité 56
-Quand tu souffres, je souffre.
-Et je veux pas qu'on se moque de toi,
+Quando você sofre, eu sofro.
+E não quero que zoem você,
 
  374: 10:24:39.15 10:24:44.03  Durée 00:00:04.13  Lisibilité 68
-parce que quand tu vas au restaurant,
-tu prends 1 croque et 1 carafe d'eau.
+porque quando vai ao restaurante
+come misto quente com água.
 
  375: 10:24:46.09 10:24:49.00  Durée 00:00:02.16  Lisibilité 40
-Je veux pas qu'on t'empêche
-de réussir par méchanceté.
+Não quero que não tenha sucesso
+por maldade.
 
  376: 10:24:49.05 10:24:50.19  Durée 00:00:01.14  Lisibilité 23
-Tu comprends?
+Entendeu?
 
  377: 10:24:52.16 10:24:54.20  Durée 00:00:02.04  Lisibilité 32
-Mets la table,
-le poisson va être trop cuit.
+Ponha a mesa,
+o peixe já está pronto.
 
  378: 10:25:12.03 10:25:15.02  Durée 00:00:02.24  Lisibilité 44
 É quoi, le délire
