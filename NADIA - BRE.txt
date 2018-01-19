@@ -275,624 +275,618 @@ Não é grave.
 Tirou 2!
 
   81: 10:06:42.19 10:06:44.21  Durée 00:00:02.02  Lisibilité 31
--Il avait que des 18.
--Ils l'ont dit,
+-Ele só tirava 18.
+-Eles disseram
 
   82: 10:06:45.01 10:06:46.08  Durée 00:00:01.07  Lisibilité 19
-que ce serait dur, au début.
+que o começo
+seria duro.
 
   83: 10:06:47.05 10:06:48.16  Durée 00:00:01.11  Lisibilité 22
-Pas comme ça.
-Là, é grave.
+Não assim.
+Isso é sério.
 
   84: 10:06:48.21 10:06:50.04  Durée 00:00:01.08  Lisibilité 20
-J'y vais. À tout de suite.
+Vou indo. Até já.
 
   85: 10:06:50.08 10:06:51.11  Durée 00:00:01.03  Lisibilité 17
-À tout de suite.
+Até já.
 
   86: 10:06:51.16 10:06:53.22  Durée 00:00:02.06  Lisibilité 34
-Il souffre trop, là. Je le vois bien.
+Ele está sofrendo muito,
+eu percebo.
 
   87: 10:06:54.02 10:06:56.20  Durée 00:00:02.18  Lisibilité 41
-Et é pas les notes.
-Ils ont des baskets à 150 balles.
+E não são as notas.
+Eles usam tênis caros.
 
   88: 10:06:56.24 10:06:59.01  Durée 00:00:02.02  Lisibilité 31
-Ils partent en vacances.
-Ils vont au théâtre.
+Viajam de férias.
+Vão ao teatro.
 
   89: 10:06:59.05 10:07:02.04  Durée 00:00:02.24  Lisibilité 44
-Ça m'étonnerait
-qu'ils le virent au bout de 15 jours.
+Duvido que o reprovem
+depois de 15 dias.
 
   90: 10:07:02.09 10:07:04.14  Durée 00:00:02.05  Lisibilité 33
-Si ça se trouve,
-il serait mieux ailleurs.
+Talvez seja melhor ele sair.
 
   91: 10:07:05.18 10:07:07.22  Durée 00:00:02.04  Lisibilité 32
-Ne me regarde pas comme ça.
-Tu me demandes mon avis.
+Não olhe assim.
+Pediu minha opinião.
 
   92: 10:07:08.01 10:07:10.04  Durée 00:00:02.03  Lisibilité 32
-Ça sert à quoi
-qu'il souffre comme ça?
+De que adianta
+ele sofrer tanto?
 
   93: 10:07:11.04 10:07:14.04  Durée 00:00:03.00  Lisibilité 45
-Stop. Tu peux pas comprendre,
-t'as pas d'enfants.
+Pare. Você não entende,
+você não tem filhos.
 
   94: 10:07:19.12 10:07:20.13  Durée 00:00:01.01  Lisibilité 16
-Pardon.
+Desculpe.
 
   95: 10:07:20.17 10:07:23.00  Durée 00:00:02.08  Lisibilité 35
-J'ai été méchante, mais...
+Maldade minha, mas...
 
   96: 10:07:23.05 10:07:24.17  Durée 00:00:01.12  Lisibilité 22
-Tu veux pas qu'il y arrive?
+Não quer
+que ele se dê bem?
 
   97: 10:07:24.21 10:07:25.19  Durée 00:00:00.23  Lisibilité 14
-Mais é pas ça.
+Mas não é isso.
 
   98: 10:07:26.22 10:07:28.14  Durée 00:00:01.17  Lisibilité 25
-T'as plein d'idées pour lui.
+Você projeta muito nele.
 
   99: 10:07:28.19 10:07:30.14  Durée 00:00:01.20  Lisibilité 27
-Tu y as pensé, s'il y arrive pas?
+Já pensou
+se ele não conseguir?
 
  100: 10:07:31.20 10:07:32.23  Durée 00:00:01.03  Lisibilité 17
-Il va y arriver.
+Ele vai conseguir.
 
  101: 10:07:33.03 10:07:35.15  Durée 00:00:02.12  Lisibilité 37
-Madame, il est pas question
-de le renvoyer.
+Está fora de cogitação reprová-lo.
 
  102: 10:07:36.22 10:07:39.09  Durée 00:00:02.12  Lisibilité 37
-Certes, vous êtes un peu juste
-pour l'instant, Noé.
+É verdade que está meio justo, Noé.
 
  103: 10:07:39.14 10:07:41.14  Durée 00:00:02.00  Lisibilité 30
-Je vous assure qu'il travaille.
-Tout le temps.
+Juro que ele estuda.
+O tempo todo.
 
  104: 10:07:41.19 10:07:43.06  Durée 00:00:01.12  Lisibilité 22
-J'en doute pas, madame.
+Não duvido, senhora.
 
  105: 10:07:43.18 10:07:46.07  Durée 00:00:02.14  Lisibilité 38
-Sans doute
-que vous vous organisez mal.
+Você deve estar
+se organizando mal.
 
  106: 10:07:46.11 10:07:48.07  Durée 00:00:01.21  Lisibilité 28
-Il faut des leçons en plus?
+Precisa de aulas extras?
 
  107: 10:07:48.12 10:07:51.00  Durée 00:00:02.13  Lisibilité 38
-On n'en est pas là, madame.
+Ainda não chegamos a esse ponto.
 
  108: 10:07:51.04 10:07:52.12  Durée 00:00:01.08  Lisibilité 20
-Noé, on vous a pris
+Noé, aceitamos você
 
  109: 10:07:52.17 10:07:55.00  Durée 00:00:02.08  Lisibilité 35
-parce qu'on pense
-que vous pouvez réussir.
+porque achamos
+que você vai conseguir.
 
  110: 10:07:55.05 10:07:56.07  Durée 00:00:01.02  Lisibilité 16
-Vous comprenez ça?
+Entende isso?
 
  111: 10:07:59.18 10:08:02.09  Durée 00:00:02.16  Lisibilité 40
-La seule question, aujourd'hui,
-é votre motivation.
+A única questão no momento
+é sua motivação.
 
  112: 10:08:02.13 10:08:04.03  Durée 00:00:01.15  Lisibilité 24
-On vous sent un peu en retrait.
+Sentimos que está acuado.
 
  113: 10:08:04.08 10:08:06.18  Durée 00:00:02.10  Lisibilité 36
-Vous ne participez pas assez
-en classe.
+Você não participa muito em aula.
 
  114: 10:08:07.13 10:08:09.05  Durée 00:00:01.17  Lisibilité 25
-Est-ce que vous voulez réussir?
+Você quer ter boas notas?
 
  115: 10:08:12.24 10:08:14.08  Durée 00:00:01.09  Lisibilité 20
-Não, mais réponds.
+Responda.
 
  116: 10:08:14.12 10:08:15.10  Durée 00:00:00.23  Lisibilité 14
-Madame.
+Senhora.
 
  117: 10:08:17.12 10:08:19.12  Durée 00:00:02.00  Lisibilité 30
-Pourquoi tu participes pas
-en classe?
+Por que não participa das aulas?
 
  118: 10:08:19.16 10:08:20.23  Durée 00:00:01.07  Lisibilité 19
--Je sais pas.
--Quoi?
+-Não sei.
+-O quê?
 
  119: 10:08:21.02 10:08:22.03  Durée 00:00:01.01  Lisibilité 16
-Je sais pas.
+Não sei.
 
  120: 10:08:23.17 10:08:26.12  Durée 00:00:02.20  Lisibilité 42
-Essaie de dire ce que tu ressens.
-É important.
+Tente dizer o que você sente.
+É importante.
 
  121: 10:08:36.10 10:08:37.09  Durée 00:00:00.24  Lisibilité 14
-Hé, regarde.
+Ei, veja.
 
  122: 10:08:38.04 10:08:39.23  Durée 00:00:01.19  Lisibilité 26
-Ils ont le modèle
-avec la bande verte.
+Tem o modelo
+com faixa verde.
 
  123: 10:08:40.02 10:08:41.15  Durée 00:00:01.13  Lisibilité 23
-Viens. Je te les paye.
+Venha. Vou comprar.
 
  124: 10:08:41.19 10:08:42.21  Durée 00:00:01.02  Lisibilité 16
-Laisse tomber.
+Deixe para lá.
 
  125: 10:08:43.00 10:08:45.03  Durée 00:00:02.03  Lisibilité 32
-Quoi? É le modèle
-qu'ils ont tous?
+O que foi? É o modelo
+que eles têm?
 
  126: 10:08:45.23 10:08:48.04  Durée 00:00:02.06  Lisibilité 34
-Les baskets toutes seules,
-é pire.
+Só os tênis é pior.
 
  127: 10:08:48.16 10:08:50.10  Durée 00:00:01.19  Lisibilité 26
-"Pire"? Pire que quoi?
+"Pior"? Pior que o quê?
 
  128: 10:08:54.01 10:08:56.23  Durée 00:00:02.22  Lisibilité 43
-Ça fait le pauvre
-qui peut se payer que les baskets?
+Parece um pobre
+que pode comprar tênis?
 
  129: 10:08:57.10 10:09:00.07  Durée 00:00:02.22  Lisibilité 43
--É pas ça.
--Tu t'en fous, de ce qu'ils pensent.
+-Não é isso.
+-Dane-se o que eles pensam.
 
  130: 10:09:00.12 10:09:01.22  Durée 00:00:01.10  Lisibilité 21
-Mais je m'en fous.
+Não estou nem aí.
 
  131: 10:09:02.02 10:09:05.01  Durée 00:00:02.24  Lisibilité 44
-Si je m'en étais pas foutu,
-tu serais même pas là!
+Se eu não desse a mínima,
+você não estaria aqui!
 
  132: 10:09:06.10 10:09:09.17  Durée 00:00:03.07  Lisibilité 49
-Ils voulaient pas que je te garde.
-Mes parents, mes profs, ton père.
+Ninguém queria que eu tivesse você.
+Meus pais, professores, seu pai.
 
  133: 10:09:09.21 10:09:11.01  Durée 00:00:01.05  Lisibilité 18
-Ils m'ont tourné le dos.
+Todos me largaram.
 
  134: 10:09:11.19 10:09:13.17  Durée 00:00:01.23  Lisibilité 29
-Je sais ce que é,
-d'être pas pareil.
+Sei o que é ser diferente.
 
  135: 10:09:13.21 10:09:16.15  Durée 00:00:02.19  Lisibilité 41
-É pas facile.
-On n'est pas chez les Bisounours.
+Não é fácil.
+Não somos os Ursinhos Carinhosos.
 
  136: 10:09:20.16 10:09:22.12  Durée 00:00:01.21  Lisibilité 28
-J'ai pas fait le même programme.
+Meu programa foi diferente.
 
  137: 10:09:22.16 10:09:23.24  Durée 00:00:01.08  Lisibilité 20
-J'ai trop de retard.
+Estou muito atrasado.
 
  138: 10:09:25.18 10:09:27.11  Durée 00:00:01.18  Lisibilité 26
-Et avec les transports,
-je tiendrai pas.
+Mais a viagem,
+não aguento.
 
  139: 10:09:32.01 10:09:34.03  Durée 00:00:02.02  Lisibilité 31
-Si tu dois redoubler,
-é pas grave.
+Se você repetir, não faz mal.
 
  140: 10:09:35.02 10:09:36.19  Durée 00:00:01.17  Lisibilité 25
-Et on déménage à Paris.
+E nos mudamos para Paris.
 
  141: 10:09:37.10 10:09:39.02  Durée 00:00:01.17  Lisibilité 25
-On n'est pas chez les Bisounours.
+Não é Ursinhos Carinhosos.
 
  142: 10:09:42.11 10:09:44.16  Durée 00:00:02.05  Lisibilité 33
-Je peux pas
-trouver un appartement à Paris?
+Não posso achar um apê em Paris?
 
  143: 10:09:45.17 10:09:47.04  Durée 00:00:01.12  Lisibilité 22
-T'as vu combien tu gagnes?
+Viu quanto você ganha?
 
  144: 10:10:03.20 10:10:07.09  Durée 00:00:03.14  Lisibilité 53
-Spécialiste du quartier
-depuis 1969
+Especialista no bairro
+desde 1969
 
  145: 10:10:10.14 10:10:13.19  Durée 00:00:03.05  Lisibilité 48
-Les fiches de paye,
-le contrat de travail,
+Contracheques,
+contrato de trabalho,
 
  146: 10:10:13.23 10:10:16.01  Durée 00:00:02.03  Lisibilité 32
-les quittances de loyer,
+recibos de aluguel,
 
  147: 10:10:16.05 10:10:17.17  Durée 00:00:01.12  Lisibilité 22
-pièce d'identité.
+identidade.
 
  148: 10:10:18.22 10:10:20.02  Durée 00:00:01.05  Lisibilité 18
-Je vois pas de caution.
+Não vejo fiador.
 
  149: 10:10:20.15 10:10:22.12  Durée 00:00:01.22  Lisibilité 28
-Avec votre profil,
-é pas possible.
+Com seu perfil,
+não é possível.
 
  150: 10:10:22.17 10:10:24.24  Durée 00:00:02.07  Lisibilité 34
-Il faut que quelqu'un
-qui gagne 3 fois le loyer
+É preciso um fiador
+que ganhe o triplo
 
  151: 10:10:25.03 10:10:26.02  Durée 00:00:00.24  Lisibilité 14
-se porte garant.
+do aluguel.
 
  152: 10:10:26.06 10:10:27.14  Durée 00:00:01.08  Lisibilité 20
-Mais je trouve ça où?
+Onde vou achar isso?
 
  153: 10:10:28.20 10:10:31.18  Durée 00:00:02.23  Lisibilité 44
-Ben... Vous pourriez mettre
-12 mois de loyer sur un compte?
+Bem... Pode pôr
+12 meses de aluguel numa conta?
 
  154: 10:12:00.21 10:12:04.04  Durée 00:00:03.08  Lisibilité 50
-On était d'accord pour que personne
-ne signe de départ volontaire.
+Combinamos que ninguém assinaria
+a demissão voluntária.
 
  155: 10:12:04.20 10:12:06.10  Durée 00:00:01.15  Lisibilité 24
-Mais la situation a changé.
+Mas a situação mudou.
 
  156: 10:12:06.15 10:12:07.19  Durée 00:00:01.04  Lisibilité 17
-Tu nous en parles, d'abord.
+Explique, primeiro.
 
  157: 10:12:08.08 10:12:11.05  Durée 00:00:02.22  Lisibilité 43
-J'avais besoin de la prime de départ
-pour Noé.
+Preciso da indenização
+para o Noé.
 
  158: 10:12:11.09 10:12:12.23  Durée 00:00:01.14  Lisibilité 23
-Putain, mais é pas vrai!
+Putz, não acredito!
 
  159: 10:12:13.10 10:12:15.18  Durée 00:00:02.08  Lisibilité 35
-L'individualisme,
-é ça, leur victoire.
+O individualismo
+é a vitória deles.
 
  160: 10:12:16.15 10:12:19.21  Durée 00:00:03.06  Lisibilité 49
-Je veux que mon fils
-ait une vie meilleure que la mienne.
+Quero que meu filho
+tenha uma vida melhor que a minha.
 
  161: 10:12:20.01 10:12:23.09  Durée 00:00:03.08  Lisibilité 50
-Et tu vas payer les profs
-pour qu'il ait des bonnes notes?
+E vai pagar aos professores
+por boas notas?
 
  162: 10:12:24.01 10:12:26.11  Durée 00:00:02.10  Lisibilité 36
-Je déménage à Paris.
-Les transports, é trop dur.
+Para me mudar para Paris.
+A viagem é dura.
 
  163: 10:12:26.15 10:12:28.01  Durée 00:00:01.11  Lisibilité 22
-Tu vas faire comment?
+Como vai fazer?
 
  164: 10:12:28.06 10:12:30.14  Durée 00:00:02.08  Lisibilité 35
-La prime, é même pas
-1 an de salaire. Et là,
+A indenização
+não é nem 1 ano de salário.
 
  165: 10:12:30.19 10:12:32.19  Durée 00:00:02.00  Lisibilité 30
-t'es au chômage.
--É n'importe quoi.
+e vai ficar desempregada.
+-Absurdo.
 
  166: 10:12:32.23 10:12:35.02  Durée 00:00:02.04  Lisibilité 32
-Et pas besoin d'être maman
-pour le voir.
+E não precisa ser mãe
+para saber.
 
  167: 10:12:35.07 10:12:37.10  Durée 00:00:02.03  Lisibilité 32
-J'ai pas le choix.
-Si je fais rien, il arrête.
+Não tenho opção.
+Senão ele desiste.
 
  168: 10:12:37.20 10:12:39.12  Durée 00:00:01.17  Lisibilité 25
-Pourquoi tu le mets pas
-en internat?
+Porque não o internato?
 
  169: 10:12:39.17 10:12:41.10  Durée 00:00:01.18  Lisibilité 26
-Mais il n'y a pas d'internat.
+Mas não tem internato.
 
  170: 10:12:42.03 10:12:43.23  Durée 00:00:01.20  Lisibilité 27
-Je vais trouver du travail.
+Vou conseguir emprego.
 
  171: 10:12:44.03 10:12:45.07  Durée 00:00:01.04  Lisibilité 17
-J'ai toujours géré, não?
+Sempre me virei, não?
 
  172: 10:13:04.08 10:13:05.06  Durée 00:00:00.23  Lisibilité 14
-Très bien.
+Muito bem.
 
  173: 10:13:05.10 10:13:07.06  Durée 00:00:01.21  Lisibilité 28
-Alors on va vous créer un compte.
+Agora vamos criar uma conta.
 
  174: 10:13:08.18 10:13:09.17  Durée 00:00:00.24  Lisibilité 14
-Alors...
+Então...
 
  175: 10:13:09.21 10:13:11.21  Durée 00:00:02.00  Lisibilité 30
-vous n'avez pas d'emprunt
-en cours.
+nenhum empréstimo atualmente.
 
  176: 10:13:12.00 10:13:13.22  Durée 00:00:01.22  Lisibilité 28
-Vous avez un LDD.
+Você tem uma poupança.
 
  177: 10:13:14.01 10:13:16.06  Durée 00:00:02.05  Lisibilité 33
-Vous n'avez jamais eu de découvert.
+Nunca ficou no vermelho.
 
  178: 10:13:16.11 10:13:18.10  Durée 00:00:01.24  Lisibilité 29
-Des comme vous,
-on en aimerait plus.
+Pessoas assim,
+queríamos mais.
 
  179: 10:13:21.07 10:13:24.01  Durée 00:00:02.19  Lisibilité 41
-Les taux d'intérêts sont au plus bas,
-en ce moment.
+A taxa de juros está baixa,
+no momento.
 
  180: 10:13:24.05 10:13:25.13  Durée 00:00:01.08  Lisibilité 20
-Pourquoi ne pas emprunter
+Por que não pedir
 
  181: 10:13:25.18 10:13:27.01  Durée 00:00:01.08  Lisibilité 20
-un peu d'argent?
+um empréstimo?
 
  182: 10:13:27.05 10:13:29.15  Durée 00:00:02.10  Lisibilité 36
-Vous pourriez garder l'argent
-de votre prime,
+Você poderia
+guardar sua indenização,
 
  183: 10:13:29.20 10:13:31.15  Durée 00:00:01.20  Lisibilité 27
-et on vous prêterait les 10 000 E,
+e emprestaríamos os 10.000 E,
 
  184: 10:13:31.20 10:13:33.14  Durée 00:00:01.19  Lisibilité 26
-que vous bloqueriez
-pour votre caution.
+que você bloquearia
+na caução.
 
  185: 10:13:35.17 10:13:38.04  Durée 00:00:02.12  Lisibilité 37
-É bien d'avoir du cash
-pour un déménagement.
+É bom ter dinheiro para se mudar.
 
  186: 10:13:38.08 10:13:42.11  Durée 00:00:04.03  Lisibilité 62
-Et ça vous permettrait de souffler,
-avant de retrouver du travail.
+E isso lhe permite respirar
+enquanto procura emprego.
 
  187: 10:13:43.06 10:13:45.11  Durée 00:00:02.05  Lisibilité 33
-Je devrais
-rembourser combien, alors?
+Quanto terei que pagar por mês?
 
  188: 10:13:45.15 10:13:46.16  Durée 00:00:01.01  Lisibilité 16
-Je vais vous dire ça.
+Já vou lhe dizer.
 
  189: 10:13:47.02 10:13:49.10  Durée 00:00:02.08  Lisibilité 35
-On a beaucoup parlé de vous
-au conseil de classe.
+Falamos muito de você
+no conselho de classe.
 
  190: 10:13:49.24 10:13:51.11  Durée 00:00:01.12  Lisibilité 22
-Il n'est pas trop tard.
+Não é tarde demais.
 
  191: 10:13:51.15 10:13:53.15  Durée 00:00:02.00  Lisibilité 30
-Vous ne devez pas vous décourager.
+Você não pode desanimar.
 
  192: 10:13:53.19 10:13:56.07  Durée 00:00:02.13  Lisibilité 38
-Pendant les vacances,
-vous devez, un, vous reposer,
+Durante as férias
+você deve descansar
 
  193: 10:13:56.11 10:13:57.14  Durée 00:00:01.03  Lisibilité 17
-deux, réviser.
-É tout.
+e estudar.
+Só isso.
 
  194: 10:13:58.19 10:14:00.16  Durée 00:00:01.22  Lisibilité 28
-Je pars chez ma tante
-en baie de Somme.
+Vou para a Baía de Somme.
 
  195: 10:14:00.21 10:14:02.15  Durée 00:00:01.19  Lisibilité 26
-É très bien,
-la baie de Somme.
+É ótima,
+a Baía de Somme.
 
  196: 10:14:02.19 10:14:04.16  Durée 00:00:01.22  Lisibilité 28
-Et surtout, ne travaillez pas trop.
+Sobretudo,
+não estude demais.
 
  197: 10:14:04.20 10:14:05.21  Durée 00:00:01.01  Lisibilité 16
-6, 7 heures par jour,
+7 horas por dia
 
  198: 10:14:06.00 10:14:08.02  Durée 00:00:02.02  Lisibilité 31
-é largement suffisant.
+bastam.
 
  199: 10:14:08.06 10:14:11.07  Durée 00:00:03.01  Lisibilité 46
-Et le reste du temps, Noé,
-allez courir sur la plage.
+E o resto do tempo, Noé,
+vá correr na praia.
 
  200: 10:14:11.12 10:14:13.15  Durée 00:00:02.03  Lisibilité 32
-Et bien sûr,
-on ne travaille pas le 25, Noé.
+E é claro,
+não estude no dia 25.
 
  201: 10:14:13.19 10:14:15.14  Durée 00:00:01.20  Lisibilité 27
-Ni le 31 ni le 1er.
-On fait la fête.
+Nem dia 31 nem no 1º.
+É festa.
 
  202: 10:14:16.16 10:14:18.23  Durée 00:00:02.07  Lisibilité 34
-On m'a dit que vous déménagiez
-dans Paris.
+Soube que vai se mudar para Paris.
 
  203: 10:14:19.02 10:14:20.11  Durée 00:00:01.09  Lisibilité 20
-É une bonne nouvelle.
+É uma boa notícia.
 
  204: 10:14:20.15 10:14:23.19  Durée 00:00:03.04  Lisibilité 47
-Bon. Reprenez vos cours
-depuis le début de l'année.
+Bom. Revise as aulas
+desde o começo do ano.
 
  205: 10:14:23.23 10:14:27.03  Durée 00:00:03.05  Lisibilité 48
-Insistez sur les points difficiles
-et respectez la méthode.
+Insista nos pontos difíceis
+e respeite o método.
 
  206: 10:14:27.08 10:14:29.10  Durée 00:00:02.02  Lisibilité 31
-Je t'écoute, mais tu expliques mal.
+Eu ouvi, mas me explicou mal.
 
  207: 10:14:29.14 10:14:31.09  Durée 00:00:01.20  Lisibilité 27
-Là-bas, je payais 580 de loyer.
+Lá eu pagava 580 de aluguel.
 
  208: 10:14:32.08 10:14:34.15  Durée 00:00:02.07  Lisibilité 34
-Ici, je paye 830.
-Ça fait 250 de différence.
+Aqui, pago 830.
+São 250 de diferença.
 
  209: 10:14:34.19 10:14:38.03  Durée 00:00:03.09  Lisibilité 50
--Payés avec les 120 de la bourse...
--Tu payes le crédit avec.
+-Pagos com os 120 da bolsa...
+-Os 250 pagam o empréstimo.
 
  210: 10:14:38.07 10:14:40.24  Durée 00:00:02.17  Lisibilité 40
-Não. É grâce à la bourse
-que j'ai eu le crédit.
+Não. Foi graças à bolsa
+que tive o empréstimo.
 
  211: 10:14:41.03 10:14:42.15  Durée 00:00:01.12  Lisibilité 22
-Mais je rembourserais sans.
+Mas pagarei sem ela.
 
  212: 10:14:42.20 10:14:45.15  Durée 00:00:02.20  Lisibilité 42
-Quand tu empruntes 100,
-tu dois pouvoir rembourser 300.
+Quando pega 100 emprestados,
+deve poder pagar 300.
 
  213: 10:14:45.19 10:14:48.15  Durée 00:00:02.21  Lisibilité 43
-N'empêche que le crédit
-plus les 250 du loyer,
+Ainda sim o empréstimo
+mais os 250 do aluguel
 
  214: 10:14:48.19 10:14:50.21  Durée 00:00:02.02  Lisibilité 31
-ça va te faire au moins 350 de plus.
+darão no mínimo 350 a mais.
 
  215: 10:14:51.00 10:14:54.01  Durée 00:00:03.01  Lisibilité 46
-Tu oublies les 120 E de la bourse
-et l'argent de côté.
+Esqueça os 120 E da bolsa
+e a caderneta.
 
  216: 10:14:54.05 10:14:55.18  Durée 00:00:01.13  Lisibilité 23
-Ça se joue à 50 E.
+É por 50 E.
 
  217: 10:14:55.22 10:14:56.19  Durée 00:00:00.22  Lisibilité 13
-É rien.
+Não é nada.
 
  218: 10:14:56.23 10:14:57.23  Durée 00:00:01.00  Lisibilité 15
-Bon. Alors...
+Bom. Então...
 
  219: 10:15:03.06 10:15:05.01  Durée 00:00:01.20  Lisibilité 27
-Ils m'ont pas filé le bon code.
+Não me deram a senha certa.
 
  220: 10:15:05.05 10:15:07.07  Durée 00:00:02.02  Lisibilité 31
-Oh não, elle a pas le bon code.
+Não!
+Ela não tem a senha certa.
 
  221: 10:15:08.08 10:15:09.03  Durée 00:00:00.20  Lisibilité 12
-Ne bouge pas.
+Espere aí.
 
  222: 10:15:09.08 10:15:11.11  Durée 00:00:02.03  Lisibilité 32
-J'ai mon amie qui emménage
-dans l'immeuble,
+Tenho uma amiga
+que está se mudando,
 
  223: 10:15:11.15 10:15:13.13  Durée 00:00:01.23  Lisibilité 29
-et on n'a pas le bon code.
-Vous pourriez...
+e não temos a senha certa.
+Pode...
 
  224: 10:15:13.18 10:15:15.19  Durée 00:00:02.01  Lisibilité 31
-Ah sim.
-Il a changé il y a 1 semaine.
+Ah, sim.
+Ele mudou há 1 semana.
 
  225: 10:15:16.14 10:15:18.00  Durée 00:00:01.11  Lisibilité 22
 É 2405.
 
  226: 10:15:18.04 10:15:18.24  Durée 00:00:00.20  Lisibilité 12
-D'accord.
+Certo.
 
  227: 10:15:19.04 10:15:20.00  Durée 00:00:00.21  Lisibilité 13
 Obrigado.
 
  228: 10:15:20.05 10:15:22.01  Durée 00:00:01.21  Lisibilité 28
--Obrigado. É gentil.
--De rien.
+-Obrigado. Agradeço.
+-De nada.
 
  229: 10:15:25.00 10:15:26.04  Durée 00:00:01.04  Lisibilité 17
-Où est l'ascenseur?
+E o elevador?
 
  230: 10:15:26.20 10:15:27.19  Durée 00:00:00.24  Lisibilité 14
-Il n'y en a pas.
+Não tem.
 
  231: 10:15:27.24 10:15:29.11  Durée 00:00:01.12  Lisibilité 22
--Je vous l'ai dit.
+-Eu avisei.
 -Não.
 
  232: 10:15:29.16 10:15:31.05  Durée 00:00:01.14  Lisibilité 23
-Ben si, je vous l'ai dit.
+Sim, eu avisei.
 
  233: 10:15:31.21 10:15:34.05  Durée 00:00:02.09  Lisibilité 35
-Nadia, t'abuses.
-4 étages sans ascenseur?
+Está abusando.
+4 andares sem elevador?
 
  234: 10:15:35.02 10:15:36.03  Durée 00:00:01.01  Lisibilité 16
-Je vous monte un carton?
+Levo uma caixa?
 
  235: 10:15:36.08 10:15:37.08  Durée 00:00:01.00  Lisibilité 15
-J'habite au 3e.
+Eu moro no 3º.
 
  236: 10:15:38.00 10:15:39.06  Durée 00:00:01.06  Lisibilité 19
-Euh... Sim. Obrigado.
+Ahn... Sim.
+Obrigada.
 
  237: 10:15:39.10 10:15:41.15  Durée 00:00:02.05  Lisibilité 33
-É ma faute, j'ai voté contre.
+É culpa minha, votei contra.
 
  238: 10:15:44.06 10:15:45.20  Durée 00:00:01.14  Lisibilité 23
-Houlà, 32 Go de RAM
+Nossa! 32 Go de RAM
 
  239: 10:15:45.24 10:15:48.12  Durée 00:00:02.13  Lisibilité 38
-et 1 disque SSD de 1 To.
-Vous vous faites plaisir.
+e 1 disco SSD de 1 To.
+Você caprichou!
 
  240: 10:15:48.17 10:15:50.06  Durée 00:00:01.14  Lisibilité 23
-É mon fils. Il est à Henri-IV.
+É meu filho.
+Está no Henri-IV.
 
  241: 10:15:50.11 10:15:52.16  Durée 00:00:02.05  Lisibilité 33
-Ah sim? Ma fille est passée par là.
+É mesmo?
+Minha filha passou por lá.
 
  242: 10:15:52.20 10:15:55.08  Durée 00:00:02.13  Lisibilité 38
-Au début, c'était dur,
-mais après, elle a adoré.
+No começo foi duro,
+mas depois ela adorou.
 
  243: 10:15:56.16 10:15:58.08  Durée 00:00:01.17  Lisibilité 25
-É le père, je suppose?
+É o pai também,
+suponho?
 
  244: 10:16:00.18 10:16:02.02  Durée 00:00:01.09  Lisibilité 20
-Bon, ben, é pas le père.
+Bom, não é o pai.
 
  245: 10:16:02.06 10:16:04.01  Durée 00:00:01.20  Lisibilité 27
-Ma fille peut l'aider, hein.
+Minha filha pode ajudá-lo.
 
  246: 10:16:04.17 10:16:06.04  Durée 00:00:01.12  Lisibilité 22
-Elle est en Maths sup.
+Ela faz Matemática.
 
  247: 10:16:06.08 10:16:08.06  Durée 00:00:01.23  Lisibilité 29
-Ah, pourquoi pas?
-Il faut voir.
+Ah, por que não?
+Veremos.
 
  248: 10:16:29.01 10:16:30.01  Durée 00:00:01.00  Lisibilité 15
 Voilà.
 
  249: 10:16:32.19 10:16:33.23  Durée 00:00:01.04  Lisibilité 17
-É nouveau, ça?
+Isso é novo?
 
  250: 10:16:34.07 10:16:35.07  Durée 00:00:01.00  Lisibilité 15
-Sim.
+É.
 
  251: 10:16:36.07 10:16:38.01  Durée 00:00:01.19  Lisibilité 26
-L'autre ne faisait pas canapé-lit.
+O outro não era sofá-cama.
 
  252: 10:16:38.05 10:16:41.01  Durée 00:00:02.21  Lisibilité 43
-Et j'ai commandé les rideaux
-pour aller avec les coussins.
+E comprei cortinas
+combinando com as almofadas.
 
  253: 10:16:41.05 10:16:44.19  Durée 00:00:03.14  Lisibilité 53
-Et regarde. Regarde ta chambre.
-Sur le bureau.
+E veja. Veja seu quarto.
+Na mesa.
 
  254: 10:16:49.15 10:16:51.21  Durée 00:00:02.06  Lisibilité 34
-Il était en promo.
-J'ai fait une affaire.
+Estava em promoção.
+Ótimo negócio.
 
  255: 10:16:54.23 10:16:56.11  Durée 00:00:01.13  Lisibilité 23
-Et attends.
+E espere.
 
  256: 10:16:56.15 10:16:58.10  Durée 00:00:01.20  Lisibilité 27
-J'ai un cadeau pour toi.
+Tenho um presente para você.
 
  257: 10:17:02.00 10:17:04.07  Durée 00:00:02.07  Lisibilité 34
-Obrigado, mon chaton.
-Il ne fallait pas.
+Obrigada, gatinho.
+Não precisava.
 
  258: 10:17:08.22 10:17:10.21  Durée 00:00:01.24  Lisibilité 29
-Il y a des phoques
-en baie de Somme.
+Tem focas na Baía de Somme.
 
  259: 10:17:16.13 10:17:18.20  Durée 00:00:02.07  Lisibilité 34
 Tu t'es reposé
