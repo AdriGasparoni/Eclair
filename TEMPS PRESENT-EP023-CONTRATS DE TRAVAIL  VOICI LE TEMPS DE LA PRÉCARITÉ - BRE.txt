@@ -1,0 +1,3530 @@
+
+   1: 10:00:22.10 10:00:25.01  Durée 00:00:02.16  Lisibilité 40
+Tempo Presente
+Programa de reportagens
+
+   2: 10:00:25.11 10:00:26.16  Durée 00:00:01.05  Lisibilité 18
+Boa noite a todos.
+
+   3: 10:00:26.20 10:00:28.02  Durée 00:00:01.07  Lisibilité 19
+Compartilhamos com vocês
+
+   4: 10:00:28.06 10:00:30.04  Durée 00:00:01.23  Lisibilité 29
+nossos problemas
+de precariedade.
+
+   5: 10:00:30.08 10:00:33.00  Durée 00:00:02.17  Lisibilité 40
+Falamos de aposentados,
+de famílias monoparentais,
+
+   6: 10:00:33.04 10:00:36.02  Durée 00:00:02.23  Lisibilité 44
+de desempregados,
+de jovens formados neste país,
+
+   7: 10:00:36.06 10:00:38.05  Durée 00:00:01.24  Lisibilité 29
+um dos mais ricos do mundo.
+
+   8: 10:00:38.09 10:00:40.23  Durée 00:00:02.14  Lisibilité 38
+Há a sensação
+de que o conforto que era maior
+
+   9: 10:00:41.02 10:00:43.19  Durée 00:00:02.17  Lisibilité 40
+que o dos vizinhos
+está se erodindo.
+
+  10: 10:00:44.07 10:00:46.17  Durée 00:00:02.10  Lisibilité 36
+Veremos
+que é todo o mercado do trabalho
+
+  11: 10:00:46.21 10:00:48.19  Durée 00:00:01.23  Lisibilité 29
+que está mudando aqui.
+
+  12: 10:00:48.23 10:00:52.24  Durée 00:00:04.01  Lisibilité 61
+O tempo em que podíamos esperar
+uma carreira confortável a vida toda
+
+  13: 10:00:53.03 10:00:56.12  Durée 00:00:03.09  Lisibilité 50
+numa empresa
+ou no serviço público passou.
+
+  14: 10:00:56.16 10:00:59.11  Durée 00:00:02.20  Lisibilité 42
+Nós observávamos
+além da fronteira os francoeses
+
+  15: 10:00:59.15 10:01:03.18  Durée 00:00:04.03  Lisibilité 62
+e seus contratos de prazo determinado
+ou indeterminado, CPD ou CPI.
+
+  16: 10:01:03.22 10:01:07.06  Durée 00:00:03.09  Lisibilité 50
+Desta vez somos nós,
+suíços, que teremos de batalhar
+
+  17: 10:01:07.10 10:01:09.09  Durée 00:00:01.24  Lisibilité 29
+com contratos mais precários.
+
+  18: 10:01:09.14 10:01:11.21  Durée 00:00:02.07  Lisibilité 34
+Entregadores de bicicleta
+sem seguro,
+
+  19: 10:01:12.00 10:01:14.07  Durée 00:00:02.07  Lisibilité 34
+motoristas
+obrigados a ser autônomos
+
+  20: 10:01:14.11 10:01:17.06  Durée 00:00:02.20  Lisibilité 42
+para o patrão economizar
+nos encargos sociais,
+
+  21: 10:01:17.10 10:01:20.22  Durée 00:00:03.12  Lisibilité 52
+assalariados demitidos
+e recontratados ganhando menos,
+
+  22: 10:01:21.01 10:01:24.12  Durée 00:00:03.11  Lisibilité 52
+o recurso à terceirização,
+aos contratos ilegais,
+
+  23: 10:01:24.16 10:01:28.00  Durée 00:00:03.09  Lisibilité 50
+tudo vira uma realidade crescente
+em geral dissimulada,
+
+  24: 10:01:28.04 10:01:30.05  Durée 00:00:02.01  Lisibilité 31
+pois os empregados
+têm de se calar.
+
+  25: 10:01:30.09 10:01:32.21  Durée 00:00:02.12  Lisibilité 37
+Myriam Gazut
+e Frank Preiswerk desvelam
+
+  26: 10:01:33.00 10:01:35.23  Durée 00:00:02.23  Lisibilité 44
+esse universo
+do trabalho precário. Vejam.
+
+  27: 10:01:41.20 10:01:43.21  Durée 00:00:02.01  Lisibilité 31
+Sou entregador autônomo.
+
+  28: 10:01:44.00 10:01:46.12  Durée 00:00:02.12  Lisibilité 37
+Entrego todo tipo de mercadoria
+
+  29: 10:01:46.16 10:01:48.20  Durée 00:00:02.04  Lisibilité 32
+que clientes
+encomendam na internet.
+
+  30: 10:01:51.05 10:01:53.13  Durée 00:00:02.08  Lisibilité 35
+Desde que me conectei
+no aplicativo,
+
+  31: 10:01:53.17 10:01:54.21  Durée 00:00:01.04  Lisibilité 17
+espero um pedido.
+
+  32: 10:01:55.16 10:01:57.02  Durée 00:00:01.11  Lisibilité 22
+Se não houver pedido,
+
+  33: 10:01:57.06 10:02:00.10  Durée 00:00:03.04  Lisibilité 47
+posso esperar a tarde toda
+e ficar à disposição,
+
+  34: 10:02:00.14 10:02:03.11  Durée 00:00:02.22  Lisibilité 43
+mas não ganhar nada
+por ser pago por pedido.
+
+  35: 10:02:06.04 10:02:09.01  Durée 00:00:02.22  Lisibilité 43
+O carro é meu.
+A gasolina é por minha conta.
+
+  36: 10:02:09.05 10:02:13.05  Durée 00:00:04.00  Lisibilité 60
+Tudo é por minha conta:
+seguro em caso de acidente, tudo.
+
+  37: 10:02:15.07 10:02:16.13  Durée 00:00:01.06  Lisibilité 19
+Trabalho a semana toda
+
+  38: 10:02:16.17 10:02:21.10  Durée 00:00:04.18  Lisibilité 71
+com horários que duram em média
+de 6 a 7 horas por dia.
+
+  39: 10:02:23.22 10:02:26.06  Durée 00:00:02.09  Lisibilité 35
+No fim do mês, quanto você ganha?
+
+  40: 10:02:26.10 10:02:28.10  Durée 00:00:02.00  Lisibilité 30
+Em torno de mil francos.
+
+  41: 10:02:28.15 10:02:29.20  Durée 00:00:01.05  Lisibilité 18
+Às vezes menos.
+
+  42: 10:02:34.21 10:02:39.21  Durée 00:00:05.00  Lisibilité 75
+Contratos de trabalho
+Chegou o tempo da precariedade
+
+  43: 10:02:51.02 10:02:53.17  Durée 00:00:02.15  Lisibilité 39
+#José tem 28 anos
+e mora em Genebra.#
+
+  44: 10:02:53.21 10:02:56.22  Durée 00:00:03.01  Lisibilité 46
+#Ele trabalha há 2 meses
+numa plataforma digital.#
+
+  45: 10:02:57.01 10:03:00.13  Durée 00:00:03.12  Lisibilité 52
+#Esse setor em plena expansão
+é uma selva.#
+
+  46: 10:03:00.17 10:03:04.16  Durée 00:00:03.24  Lisibilité 59
+#Sua história é emblemática
+de uma onda que varre direitos.#
+
+  47: 10:03:04.20 10:03:05.17  Durée 00:00:00.22  Lisibilité 13
+#Vemos na Suíça#
+
+  48: 10:03:05.21 10:03:09.02  Durée 00:00:03.06  Lisibilité 49
+#uma precarização geral
+dos contratos de trabalho.#
+
+  49: 10:03:11.05 10:03:13.14  Durée 00:00:02.09  Lisibilité 35
+#Sua situação
+não lhe parece normal.#
+
+  50: 10:03:13.18 10:03:17.00  Durée 00:00:03.07  Lisibilité 49
+#José vai ao sindicato
+informar-se sobre seus direitos.#
+
+  51: 10:03:18.15 10:03:22.11  Durée 00:00:03.21  Lisibilité 58
+Você tem um contrato,
+se entendi bem? Vamos ler juntos.
+
+  52: 10:03:22.16 10:03:25.01  Durée 00:00:02.10  Lisibilité 36
+É meio esquisito, este troço.
+
+  53: 10:03:25.05 10:03:28.19  Durée 00:00:03.14  Lisibilité 53
+O que a empresa lhe deu
+foi um mandado.
+
+  54: 10:03:28.23 10:03:30.08  Durée 00:00:01.10  Lisibilité 21
+Sim.
+
+  55: 10:03:30.13 10:03:34.21  Durée 00:00:04.08  Lisibilité 65
+Significa que você trabalha
+num regime autônomo.
+
+  56: 10:03:35.00 10:03:36.24  Durée 00:00:01.24  Lisibilité 29
+Como se fosse
+por conta própria.
+
+  57: 10:03:37.03 10:03:39.19  Durée 00:00:02.16  Lisibilité 40
+Vejamos. Você está
+no registro do comércio?
+
+  58: 10:03:39.24 10:03:41.06  Durée 00:00:01.07  Lisibilité 19
+Não.
+
+  59: 10:03:41.10 10:03:43.24  Durée 00:00:02.14  Lisibilité 38
+Você não é autônomo.
+Não tem independência
+
+  60: 10:03:44.03 10:03:47.05  Durée 00:00:03.02  Lisibilité 46
+no resto do dia.
+- Não.
+
+  61: 10:03:47.09 10:03:49.12  Durée 00:00:02.03  Lisibilité 32
+Não tem empresa
+por conta própria?
+
+  62: 10:03:49.16 10:03:50.23  Durée 00:00:01.07  Lisibilité 19
+Nenhuma.
+
+  63: 10:03:51.02 10:03:55.24  Durée 00:00:04.22  Lisibilité 73
+Você nunca requisitou
+nada na Previdência? Nunca?
+
+  64: 10:03:56.13 10:03:58.14  Durée 00:00:02.01  Lisibilité 31
+#As perguntas têm o objetivo#
+
+  65: 10:03:58.18 10:04:02.01  Durée 00:00:03.08  Lisibilité 50
+#de determinar se José
+é realmente um autônomo#
+
+  66: 10:04:02.05 10:04:04.12  Durée 00:00:02.07  Lisibilité 34
+#ou se na verdade é um empregado#
+
+  67: 10:04:04.16 10:04:07.19  Durée 00:00:03.03  Lisibilité 47
+#cujo status lhe é negado
+pelo empregador.#
+
+  68: 10:04:07.24 10:04:10.13  Durée 00:00:02.14  Lisibilité 38
+Você não pode, se entendi bem,
+
+  69: 10:04:10.18 10:04:11.16  Durée 00:00:00.23  Lisibilité 14
+recusar um pedido?
+
+  70: 10:04:11.20 10:04:15.07  Durée 00:00:03.12  Lisibilité 52
+Se eu recusar,
+posso ser multado em 50 francos.
+
+  71: 10:04:15.21 10:04:17.23  Durée 00:00:02.02  Lisibilité 31
+Também faz publicidade
+para eles.
+
+  72: 10:04:18.02 10:04:22.08  Durée 00:00:04.06  Lisibilité 64
+Se você fosse autônomo,
+não faria publicidade para eles.
+
+  73: 10:04:22.12 10:04:24.21  Durée 00:00:02.09  Lisibilité 35
+Você faria para você.
+
+  74: 10:04:25.01 10:04:28.04  Durée 00:00:03.03  Lisibilité 47
+E se você não fizer,
+é penalizado em 50 francos.
+
+  75: 10:04:29.01 10:04:31.22  Durée 00:00:02.21  Lisibilité 43
+Mais ou menos,
+quanto você ganha por corrida?
+
+  76: 10:04:32.15 10:04:34.05  Durée 00:00:01.15  Lisibilité 24
+Entre 7 e 10 francos.
+
+  77: 10:04:35.03 10:04:38.24  Durée 00:00:03.21  Lisibilité 58
+Em uma hora,
+quantas corridas consegue fazer?
+
+  78: 10:04:39.04 10:04:41.20  Durée 00:00:02.16  Lisibilité 40
+O máximo é uma, em geral.
+
+  79: 10:04:41.24 10:04:44.11  Durée 00:00:02.12  Lisibilité 37
+- Nunca 3 ou 4 por hora?
+- Impossível.
+
+  80: 10:04:44.16 10:04:45.11  Durée 00:00:00.20  Lisibilité 12
+"Impossível."
+
+  81: 10:04:45.15 10:04:49.05  Durée 00:00:03.15  Lisibilité 54
+Podemos dizer que no fim do mês
+ganho menos de mil francos.
+
+  82: 10:04:50.00 10:04:52.11  Durée 00:00:02.11  Lisibilité 37
+#José mal ganha mil francos
+por mês,#
+
+  83: 10:04:52.15 10:04:55.19  Durée 00:00:03.04  Lisibilité 47
+#deduzidas as despesas
+com gasolina e celular.#
+
+  84: 10:04:58.14 10:05:02.01  Durée 00:00:03.12  Lisibilité 52
+#Desse valor, ele ainda deverá tirar
+as cotizações sociais#
+
+  85: 10:05:02.05 10:05:03.17  Durée 00:00:01.12  Lisibilité 22
+#que seu patrão não paga,#
+
+  86: 10:05:03.22 10:05:06.18  Durée 00:00:02.21  Lisibilité 43
+#já que é considerado
+como autônomo.#
+
+  87: 10:05:07.23 10:05:12.05  Durée 00:00:04.07  Lisibilité 64
+Podemos - dou uma primeira opinião
+baseada nisso -
+
+  88: 10:05:13.07 10:05:17.19  Durée 00:00:04.12  Lisibilité 67
+dizer que este contrato não está
+conforme às disposições legais.
+
+  89: 10:05:17.24 10:05:20.19  Durée 00:00:02.20  Lisibilité 42
+É um caso que nos dá
+uma ideia bem clara
+
+  90: 10:05:20.23 10:05:23.08  Durée 00:00:02.10  Lisibilité 36
+do que é esse mundo novo,
+
+  91: 10:05:23.12 10:05:25.23  Durée 00:00:02.11  Lisibilité 37
+da introdução dessa# uberização#.
+
+  92: 10:05:26.02 10:05:30.15  Durée 00:00:04.13  Lisibilité 68
+Ou seja, um modelo econômico
+que utiliza as novas tecnologias,
+
+  93: 10:05:30.19 10:05:33.00  Durée 00:00:02.06  Lisibilité 34
+portanto, tudo que é digital.
+
+  94: 10:05:33.04 10:05:35.07  Durée 00:00:02.03  Lisibilité 32
+Vejo um risco enorme
+para a sociedade,
+
+  95: 10:05:35.11 10:05:37.02  Durée 00:00:01.16  Lisibilité 25
+pois essa precariedade
+
+  96: 10:05:37.06 10:05:41.08  Durée 00:00:04.02  Lisibilité 61
+pode virar rapidamente o cotidiano
+de milhares de outras pessoas.
+
+  97: 10:05:41.19 10:05:45.01  Durée 00:00:03.07  Lisibilité 49
+#Umberto Bandiera recebe
+cada vez mais gente#
+
+  98: 10:05:45.05 10:05:48.00  Durée 00:00:02.20  Lisibilité 42
+#em situação de hiperprecariedade.#
+
+  99: 10:05:48.05 10:05:51.01  Durée 00:00:02.21  Lisibilité 43
+#Apesar da proibição
+de falar com a imprensa,#
+
+ 100: 10:05:51.05 10:05:55.07  Durée 00:00:04.02  Lisibilité 61
+#desiludido, José ignora
+a mensagem enviada pelos patrões.#
+
+ 101: 10:05:55.11 10:05:58.18  Durée 00:00:03.07  Lisibilité 49
+#"Se alguém se disser
+concorrente ou jornalista#
+
+ 102: 10:05:58.22 10:06:01.12  Durée 00:00:02.15  Lisibilité 39
+#"e lhe fizer perguntas
+sobre a empresa,#
+
+ 103: 10:06:01.16 10:06:04.01  Durée 00:00:02.10  Lisibilité 36
+#"recomendamos que não responda."#
+
+ 104: 10:06:05.13 10:06:07.01  Durée 00:00:01.13  Lisibilité 23
+Você está com raiva?
+
+ 105: 10:06:07.05 10:06:09.13  Durée 00:00:02.08  Lisibilité 35
+Irritado.
+Não aceito as condições.
+
+ 106: 10:06:09.17 10:06:12.16  Durée 00:00:02.24  Lisibilité 44
+Não aceito que me forcem
+a aceitar uma corrida
+
+ 107: 10:06:12.21 10:06:14.19  Durée 00:00:01.23  Lisibilité 29
+quando sei
+
+ 108: 10:06:14.23 10:06:17.20  Durée 00:00:02.22  Lisibilité 43
+não vou ganhar nada,
+com a gasolina que pago.
+
+ 109: 10:06:17.24 10:06:20.00  Durée 00:00:02.01  Lisibilité 31
+Mas sou obrigado a aceitar,
+senão
+
+ 110: 10:06:20.04 10:06:21.21  Durée 00:00:01.17  Lisibilité 25
+terei de pagar 50 francos.
+
+ 111: 10:06:22.00 10:06:25.12  Durée 00:00:03.12  Lisibilité 52
+No final... Lamento muito...
+
+ 112: 10:06:25.16 10:06:28.05  Durée 00:00:02.14  Lisibilité 38
+O entregador, o colega,
+acabou de passar.
+
+ 113: 10:06:28.23 10:06:32.10  Durée 00:00:03.12  Lisibilité 52
+Finalmente,
+ainda bem que moro com meus pais.
+
+ 114: 10:06:32.14 10:06:36.22  Durée 00:00:04.08  Lisibilité 65
+Se morasse sozinho, não poderia
+me sustentar, na verdade. Impossível.
+
+ 115: 10:06:38.11 10:06:41.03  Durée 00:00:02.17  Lisibilité 40
+Se obrigam o entregador
+a executar uma tarefa
+
+ 116: 10:06:41.07 10:06:44.03  Durée 00:00:02.21  Lisibilité 43
+de trabalho
+atribuída pelo empregador,
+
+ 117: 10:06:44.07 10:06:46.08  Durée 00:00:02.01  Lisibilité 31
+há uma relação de subordinação
+
+ 118: 10:06:46.12 10:06:48.21  Durée 00:00:02.09  Lisibilité 35
+que envolve
+um contrato de trabalho.
+
+ 119: 10:06:51.10 10:06:54.22  Durée 00:00:03.12  Lisibilité 52
+#Ex-juiz, presidente do Tribunal
+do Trabalho, notadamente,#
+
+ 120: 10:06:55.01 10:06:58.16  Durée 00:00:03.15  Lisibilité 54
+#Nicolas Marthe conhece bem
+o mundo do trabalho.#
+
+ 121: 10:06:58.20 10:07:02.14  Durée 00:00:03.19  Lisibilité 56
+Se o empregador considera que
+o entregador não é empregado
+
+ 122: 10:07:02.18 10:07:04.17  Durée 00:00:01.24  Lisibilité 29
+e sim autônomo,
+
+ 123: 10:07:04.21 10:07:08.01  Durée 00:00:03.05  Lisibilité 48
+é uma forma de não pagar
+os encargos sociais.
+
+ 124: 10:07:08.06 10:07:10.06  Durée 00:00:02.00  Lisibilité 30
+Há uma tendência se definindo
+
+ 125: 10:07:10.10 10:07:11.06  Durée 00:00:00.21  Lisibilité 13
+de os patrões
+
+ 126: 10:07:11.10 10:07:14.22  Durée 00:00:03.12  Lisibilité 52
+quererem de fato
+qualificar o máximo possível
+
+ 127: 10:07:15.01 10:07:17.07  Durée 00:00:02.06  Lisibilité 34
+suas relações contratuais
+com os empregados
+
+ 128: 10:07:17.11 10:07:19.06  Durée 00:00:01.20  Lisibilité 27
+como autônomos.
+
+ 129: 10:07:19.10 10:07:21.13  Durée 00:00:02.03  Lisibilité 32
+Assim eles se liberam
+
+ 130: 10:07:21.17 10:07:23.24  Durée 00:00:02.07  Lisibilité 34
+de qualquer obrigação
+como empregador.
+
+ 131: 10:07:27.04 10:07:29.14  Durée 00:00:02.10  Lisibilité 36
+#No mundo qualificado
+de "nova economia",#
+
+ 132: 10:07:29.18 10:07:31.01  Durée 00:00:01.08  Lisibilité 20
+#domina o princípio#
+
+ 133: 10:07:31.06 10:07:34.03  Durée 00:00:02.22  Lisibilité 43
+#de fazer passar empregados
+por autônomos.#
+
+ 134: 10:07:35.22 10:07:37.22  Durée 00:00:02.00  Lisibilité 30
+#Mas os entregadores da Notime#
+
+ 135: 10:07:38.01 10:07:39.20  Durée 00:00:01.19  Lisibilité 26
+#com o mesmo status que José#
+
+ 136: 10:07:39.24 10:07:43.08  Durée 00:00:03.09  Lisibilité 50
+#lutaram para ser reconhecidos
+como funcionários.#
+
+ 137: 10:07:48.04 10:07:49.23  Durée 00:00:01.19  Lisibilité 26
+#"Para os entregadores
+só piora.#
+
+ 138: 10:07:50.02 10:07:52.20  Durée 00:00:02.18  Lisibilité 41
+#"Notime,
+tem que negociar conosco agora!"#
+
+ 139: 10:07:52.24 10:07:54.19  Durée 00:00:01.20  Lisibilité 27
+#A revolta começou em Berna.#
+
+ 140: 10:07:54.23 10:07:58.21  Durée 00:00:03.23  Lisibilité 59
+#Alguns meses depois, em 2017,
+na Praça Federal,#
+
+ 141: 10:07:59.00 10:08:02.08  Durée 00:00:03.08  Lisibilité 50
+#os entregadores protestam
+contra o status de falso autônomo.#
+
+ 142: 10:08:03.00 10:08:05.17  Durée 00:00:02.17  Lisibilité 40
+#"A Notime é uberização."#
+
+ 143: 10:08:06.14 10:08:08.07  Durée 00:00:01.18  Lisibilité 26
+#Após semanas de mobilização#
+
+ 144: 10:08:08.11 10:08:10.13  Durée 00:00:02.02  Lisibilité 31
+#e sob pressão do Seguro Social,#
+
+ 145: 10:08:10.17 10:08:13.16  Durée 00:00:02.24  Lisibilité 44
+#eles ganham
+e obtêm novos contratos#
+
+ 146: 10:08:13.20 10:08:18.07  Durée 00:00:04.12  Lisibilité 67
+#com toda a cobertura social
+que cabe ao status de empregado.#
+
+ 147: 10:08:18.11 10:08:22.03  Durée 00:00:03.17  Lisibilité 55
+#"Entregamos comida
+por salários de fome."#
+
+ 148: 10:08:22.16 10:08:25.08  Durée 00:00:02.17  Lisibilité 40
+#Mas como a resistência deles
+se organizou?#
+
+ 149: 10:08:25.12 10:08:28.09  Durée 00:00:02.22  Lisibilité 43
+#Quais eram
+suas condições de trabalho antes?#
+
+ 150: 10:08:32.11 10:08:34.02  Durée 00:00:01.16  Lisibilité 25
+É um emprego maneiro.
+Andamos
+
+ 151: 10:08:34.06 10:08:38.10  Durée 00:00:04.04  Lisibilité 62
+de bicicleta pela cidade,
+passeamos e encontramos gente.
+
+ 152: 10:08:38.14 10:08:39.09  Durée 00:00:00.20  Lisibilité 12
+Pedalar
+
+ 153: 10:08:39.13 10:08:41.01  Durée 00:00:01.13  Lisibilité 23
+e o trabalho em si
+
+ 154: 10:08:41.05 10:08:44.21  Durée 00:00:03.16  Lisibilité 55
+me são muito prazerosos,
+apesar das más condições.
+
+ 155: 10:08:45.00 10:08:47.04  Durée 00:00:02.04  Lisibilité 32
+Mas no começo,
+não pensamos nisso.
+
+ 156: 10:08:47.21 10:08:50.20  Durée 00:00:02.24  Lisibilité 44
+#Dominique tem 20 anos.
+E quando ela não pedala#
+
+ 157: 10:08:50.24 10:08:54.07  Durée 00:00:03.08  Lisibilité 50
+#ela é estudante
+na Escola Politécnica de Zurique.#
+
+ 158: 10:08:57.24 10:08:59.00  Durée 00:00:01.01  Lisibilité 16
+Logo nos disseram
+
+ 159: 10:08:59.04 10:09:01.05  Durée 00:00:02.01  Lisibilité 31
+que usaríamos
+nossa própria bike,
+
+ 160: 10:09:01.09 10:09:04.06  Durée 00:00:02.22  Lisibilité 43
+nosso próprio celular.
+
+ 161: 10:09:04.10 10:09:07.08  Durée 00:00:02.23  Lisibilité 44
+E quando fizemos
+o curso pela internet,
+
+ 162: 10:09:07.12 10:09:10.12  Durée 00:00:03.00  Lisibilité 45
+recebemos um# login#
+para baixar o aplicativo.
+
+ 163: 10:09:12.12 10:09:16.02  Durée 00:00:03.15  Lisibilité 54
+A gerente nos explicou então
+como tudo funcionava.
+
+ 164: 10:09:16.06 10:09:19.18  Durée 00:00:03.12  Lisibilité 52
+Ela também destacou
+que éramos considerados autônomos.
+
+ 165: 10:09:19.22 10:09:22.24  Durée 00:00:03.02  Lisibilité 46
+Na hora,
+achei que era realmente maneiro.
+
+ 166: 10:09:23.03 10:09:26.15  Durée 00:00:03.12  Lisibilité 52
+#Trabalhando por chamada,
+por 22,50 francos por hora,#
+
+ 167: 10:09:26.19 10:09:29.12  Durée 00:00:02.18  Lisibilité 41
+#os entregadores deveriam usar
+o próprio material#
+
+ 168: 10:09:29.16 10:09:32.00  Durée 00:00:02.09  Lisibilité 35
+#sem compensação
+pelas suas despesas.#
+
+ 169: 10:09:32.04 10:09:33.22  Durée 00:00:01.18  Lisibilité 26
+#Mas não é só isso.#
+
+ 170: 10:09:38.04 10:09:42.05  Durée 00:00:04.01  Lisibilité 61
+Começamos a trabalhar assim,
+meio ingenuamente,
+
+ 171: 10:09:42.09 10:09:43.04  Durée 00:00:00.20  Lisibilité 12
+e aos poucos
+
+ 172: 10:09:43.08 10:09:46.16  Durée 00:00:03.08  Lisibilité 50
+notamos que a Previdência Social
+não é paga.
+
+ 173: 10:09:47.04 10:09:49.08  Durée 00:00:02.04  Lisibilité 32
+Aí entendi eu teria que pagar
+
+ 174: 10:09:49.12 10:09:52.05  Durée 00:00:02.18  Lisibilité 41
+as partes do empregador
+e do empregado
+
+ 175: 10:09:52.09 10:09:54.17  Durée 00:00:02.08  Lisibilité 35
+porque sou autônoma,
+ou pseudoautônomo.
+
+ 176: 10:09:55.15 10:09:57.08  Durée 00:00:01.18  Lisibilité 26
+Inicialmente,
+
+ 177: 10:09:57.12 10:10:00.18  Durée 00:00:03.06  Lisibilité 49
+não tinha muita consciência
+do que isso significava.
+
+ 178: 10:10:00.22 10:10:02.17  Durée 00:00:01.20  Lisibilité 27
+Aí, ao começar a trabalhar
+
+ 179: 10:10:02.21 10:10:05.14  Durée 00:00:02.18  Lisibilité 41
+e a poder conversar
+com os outros entregadores,
+
+ 180: 10:10:05.19 10:10:08.12  Durée 00:00:02.18  Lisibilité 41
+vimos tudo que faltava,
+todos os problemas.
+
+ 181: 10:10:09.05 10:10:12.19  Durée 00:00:03.14  Lisibilité 53
+Entendemos que direitos tínhamos
+e os que nos recusavam.
+
+ 182: 10:10:15.13 10:10:18.01  Durée 00:00:02.13  Lisibilité 38
+Uma psicoterapeuta autônoma,
+
+ 183: 10:10:18.19 10:10:20.02  Durée 00:00:01.08  Lisibilité 20
+um artesão,
+
+ 184: 10:10:20.06 10:10:22.00  Durée 00:00:01.19  Lisibilité 26
+uma terapeuta
+ou uma tradutora
+
+ 185: 10:10:22.04 10:10:25.15  Durée 00:00:03.11  Lisibilité 52
+cobram entre 90 e 200 francos
+por hora.
+
+ 186: 10:10:25.19 10:10:27.19  Durée 00:00:02.00  Lisibilité 30
+Podem pagar todas as despesas:
+
+ 187: 10:10:27.23 10:10:30.02  Durée 00:00:02.04  Lisibilité 32
+encargos, material de trabalho.
+
+ 188: 10:10:30.06 10:10:32.07  Durée 00:00:02.01  Lisibilité 31
+Hoje contratam gente
+como autônoma
+
+ 189: 10:10:32.11 10:10:35.03  Durée 00:00:02.17  Lisibilité 40
+como entregadores,
+motoristas de táxi,
+
+ 190: 10:10:35.07 10:10:38.01  Durée 00:00:02.19  Lisibilité 41
+montadores de móveis, artesãos,
+
+ 191: 10:10:38.05 10:10:41.01  Durée 00:00:02.21  Lisibilité 43
+pagam 20 ou 25 francos por hora
+e dizem:
+
+ 192: 10:10:41.05 10:10:42.20  Durée 00:00:01.15  Lisibilité 24
+"Paguem tudo vocês mesmos."
+
+ 193: 10:10:42.24 10:10:45.21  Durée 00:00:02.22  Lisibilité 43
+Corresponde a um salário real
+de 10 ou 15 francos
+
+ 194: 10:10:46.00 10:10:47.19  Durée 00:00:01.19  Lisibilité 26
+que não sustenta, na Suíça.
+
+ 195: 10:10:56.19 10:10:59.20  Durée 00:00:03.01  Lisibilité 46
+Quais eram
+as reivindicações principais,
+
+ 196: 10:10:59.24 10:11:02.04  Durée 00:00:02.05  Lisibilité 33
+quando vocês começaram
+o movimento?
+
+ 197: 10:11:03.18 10:11:07.10  Durée 00:00:03.17  Lisibilité 55
+Em 1º lugar, um salário melhor.
+Um melhor salário básico.
+
+ 198: 10:11:10.00 10:11:12.11  Durée 00:00:02.11  Lisibilité 37
+As outras reivindicações eram
+
+ 199: 10:11:12.15 10:11:15.21  Durée 00:00:03.06  Lisibilité 49
+seguro de acidente,
+pagamento de encargos sociais,
+
+ 200: 10:11:16.00 10:11:18.13  Durée 00:00:02.13  Lisibilité 38
+como AVS, AI,
+seguro de perda de renda,
+
+ 201: 10:11:18.17 10:11:21.03  Durée 00:00:02.11  Lisibilité 37
+portanto,
+todos os encargos sociais.
+
+ 202: 10:11:21.07 10:11:24.15  Durée 00:00:03.08  Lisibilité 50
+E é claro, a eliminação
+da pseudoindependência
+
+ 203: 10:11:24.19 10:11:27.07  Durée 00:00:02.13  Lisibilité 38
+onde a relação de trabalho
+não era clara.
+
+ 204: 10:11:27.11 10:11:29.19  Durée 00:00:02.08  Lisibilité 35
+Você é pago
+quando conserta a bike?
+
+ 205: 10:11:30.23 10:11:33.17  Durée 00:00:02.19  Lisibilité 41
+Não era pago até recentemente,
+mas agora
+
+ 206: 10:11:33.21 10:11:35.09  Durée 00:00:01.13  Lisibilité 23
+recebemos um valor baixo.
+
+ 207: 10:11:35.13 10:11:37.06  Durée 00:00:01.18  Lisibilité 26
+Um franco a mais
+por hora de trabalho.
+
+ 208: 10:11:37.10 10:11:41.16  Durée 00:00:04.06  Lisibilité 64
+Era importante que a empresa pagasse
+pela manutenção da bicicleta?
+
+ 209: 10:11:44.00 10:11:47.06  Durée 00:00:03.06  Lisibilité 49
+Era realmente muito importante
+recebermos algo.
+
+ 210: 10:11:49.18 10:11:52.02  Durée 00:00:02.09  Lisibilité 35
+Porque quem pedala
+tanto quanto eu,
+
+ 211: 10:11:52.18 10:11:55.10  Durée 00:00:02.17  Lisibilité 40
+- percorro
+cerca de 10.000 km por ano -,
+
+ 212: 10:11:58.07 10:12:00.24  Durée 00:00:02.17  Lisibilité 40
+aí a bicicleta se desgasta muito.
+
+ 213: 10:12:01.03 10:12:03.10  Durée 00:00:02.07  Lisibilité 34
+Deve-se prever
+uma bicicleta por ano
+
+ 214: 10:12:03.14 10:12:07.17  Durée 00:00:04.03  Lisibilité 62
+e receber 1 franco a mais
+por hora de entrega para isso
+
+ 215: 10:12:10.14 10:12:11.23  Durée 00:00:01.09  Lisibilité 20
+é realmente o mínimo.
+
+ 216: 10:12:12.02 10:12:14.06  Durée 00:00:02.04  Lisibilité 32
+Senão o trabalho não é rentável.
+
+ 217: 10:12:15.22 10:12:18.04  Durée 00:00:02.07  Lisibilité 34
+#Um franco de despesas
+a mais por hora#
+
+ 218: 10:12:18.09 10:12:21.18  Durée 00:00:03.09  Lisibilité 50
+#foi o que eles finalmente obtiveram.
+Eles pediam 8.#
+
+ 219: 10:12:24.14 10:12:28.14  Durée 00:00:04.00  Lisibilité 60
+#Uns 350 entregadores trabalham
+nessa empresa baseada em Zurique#
+
+ 220: 10:12:28.18 10:12:31.11  Durée 00:00:02.18  Lisibilité 41
+#e presente em vários cantões.#
+
+ 221: 10:12:31.15 10:12:33.02  Durée 00:00:01.12  Lisibilité 22
+#A Notime vai muito bem#
+
+ 222: 10:12:33.06 10:12:37.17  Durée 00:00:04.11  Lisibilité 67
+#e atende especialmente
+a La Poste, os CFF e a Manor.#
+
+ 223: 10:12:38.08 10:12:42.02  Durée 00:00:03.19  Lisibilité 56
+#"Nosso objetivo é fazer das compras
+na sua loja online#
+
+ 224: 10:12:42.06 10:12:43.14  Durée 00:00:01.08  Lisibilité 20
+#"a melhor experiência."#
+
+ 225: 10:12:45.23 10:12:48.10  Durée 00:00:02.12  Lisibilité 37
+#"Ganhar dinheiro
+mantendo a forma."#
+
+ 226: 10:12:49.21 10:12:53.08  Durée 00:00:03.12  Lisibilité 52
+#"A equipe da Notime
+que torna tudo isso possível."#
+
+ 227: 10:12:54.05 10:12:56.15  Durée 00:00:02.10  Lisibilité 36
+#Mas como uma startup
+em plena expansão#
+
+ 228: 10:12:56.19 10:12:59.20  Durée 00:00:03.01  Lisibilité 46
+#cujos fundadores
+são empreendedores experientes#
+
+ 229: 10:12:59.24 10:13:02.12  Durée 00:00:02.13  Lisibilité 38
+#pôde propor contratos assim?#
+
+ 230: 10:13:02.16 10:13:05.02  Durée 00:00:02.11  Lisibilité 37
+#Perguntamos isso a um deles.#
+
+ 231: 10:13:07.07 10:13:10.17  Durée 00:00:03.10  Lisibilité 51
+No início organizamos isso
+para uma equipe reduzida,
+
+ 232: 10:13:10.21 10:13:13.02  Durée 00:00:02.06  Lisibilité 34
+com despesas administrativas
+mínimas.
+
+ 233: 10:13:14.01 10:13:15.18  Durée 00:00:01.17  Lisibilité 25
+Achamos que lidar
+com autônomos
+
+ 234: 10:13:15.22 10:13:18.01  Durée 00:00:02.04  Lisibilité 32
+era mais simples,
+pois não precisávamos
+
+ 235: 10:13:18.05 10:13:20.24  Durée 00:00:02.19  Lisibilité 41
+de toda a infraestrutura
+para empregar gente.
+
+ 236: 10:13:25.14 10:13:28.17  Durée 00:00:03.03  Lisibilité 47
+Havia a obrigação
+dea se registrar como autônomo
+
+ 237: 10:13:28.22 10:13:30.18  Durée 00:00:01.21  Lisibilité 28
+na Caixa Cantonal
+de Compensação
+
+ 238: 10:13:30.22 10:13:34.03  Durée 00:00:03.06  Lisibilité 49
+para que todas as cotizações sociais
+fossem pagas.
+
+ 239: 10:13:36.06 10:13:37.23  Durée 00:00:01.17  Lisibilité 25
+Fui à Caixa Cantonal
+
+ 240: 10:13:38.02 10:13:41.21  Durée 00:00:03.19  Lisibilité 56
+de Compensação me registrar e ver
+como pagar minhas cotizações.
+
+ 241: 10:13:42.00 10:13:43.03  Durée 00:00:01.03  Lisibilité 17
+Mas me disseram
+
+ 242: 10:13:43.07 10:13:44.11  Durée 00:00:01.04  Lisibilité 17
+para ver
+com a empresa,
+
+ 243: 10:13:44.15 10:13:47.04  Durée 00:00:02.14  Lisibilité 38
+pois segundo a Caixa,
+eu não era autônomo.
+
+ 244: 10:13:51.07 10:13:53.06  Durée 00:00:01.24  Lisibilité 29
+#Novidade,
+esse tipo de empresa#
+
+ 245: 10:13:53.11 10:13:55.23  Durée 00:00:02.12  Lisibilité 37
+#passa os encargos patronais
+aos empregados#
+
+ 246: 10:13:56.02 10:13:58.08  Durée 00:00:02.06  Lisibilité 34
+#e inverte as responsabilidades.#
+
+ 247: 10:13:59.07 10:14:01.09  Durée 00:00:02.02  Lisibilité 31
+#Mas nesse caso,
+a Caixa de Compensação#
+
+ 248: 10:14:01.13 10:14:03.07  Durée 00:00:01.19  Lisibilité 26
+#está habilitada a decidir.#
+
+ 249: 10:14:03.12 10:14:07.01  Durée 00:00:03.14  Lisibilité 53
+#Não basta o empregador
+definir o trabalhador como autônomo#
+
+ 250: 10:14:07.05 10:14:09.00  Durée 00:00:01.20  Lisibilité 27
+#para ser realidade.#
+
+ 251: 10:14:09.05 10:14:11.01  Durée 00:00:01.21  Lisibilité 28
+#Na entrevista,
+várias vezes,#
+
+ 252: 10:14:11.05 10:14:14.20  Durée 00:00:03.15  Lisibilité 54
+#o patrão da Notime fala
+dos entregadores como empregados,#
+
+ 253: 10:14:15.00 10:14:16.13  Durée 00:00:01.13  Lisibilité 23
+#antes de se corrigir.#
+
+ 254: 10:14:16.17 10:14:19.00  Durée 00:00:02.08  Lisibilité 35
+#Um lapso no centro da polêmica#
+
+ 255: 10:14:19.05 10:14:21.13  Durée 00:00:02.08  Lisibilité 35
+#que opõe os estregadores
+à Notime.#
+
+ 256: 10:14:22.22 10:14:26.21  Durée 00:00:03.24  Lisibilité 59
+Para sua startup,
+a noção de flexibilidade
+
+ 257: 10:14:27.00 10:14:28.16  Durée 00:00:01.16  Lisibilité 25
+é algo importante?
+
+ 258: 10:14:28.20 10:14:30.22  Durée 00:00:02.02  Lisibilité 31
+É uma noção essencial.
+
+ 259: 10:14:31.02 10:14:35.07  Durée 00:00:04.05  Lisibilité 63
+Sim. Nós temos muita gente,
+empregados que são estudantes.
+
+ 260: 10:14:35.11 10:14:39.07  Durée 00:00:03.21  Lisibilité 58
+Eles vão à aula de manhã,
+mas à tarde eles podem se exercitar
+
+ 261: 10:14:39.11 10:14:41.17  Durée 00:00:02.06  Lisibilité 34
+e além disso, ganhar dinheiro.
+
+ 262: 10:14:41.21 10:14:45.00  Durée 00:00:03.04  Lisibilité 47
+Nossos entregadores apreciam
+a flexibilidade.
+
+ 263: 10:14:46.06 10:14:48.06  Durée 00:00:02.00  Lisibilité 30
+#"Horários de trabalho flexíveis."#
+
+ 264: 10:14:51.01 10:14:52.13  Durée 00:00:01.12  Lisibilité 22
+#"Entregas
+mediante pedido:#
+
+ 265: 10:14:52.17 10:14:55.12  Durée 00:00:02.20  Lisibilité 42
+#"flexibilidade máxima
+para os clientes online."#
+
+ 266: 10:14:58.08 10:15:00.20  Durée 00:00:02.12  Lisibilité 37
+A lei do trabalho suíça
+é bem liberal.
+
+ 267: 10:15:00.24 10:15:02.23  Durée 00:00:01.24  Lisibilité 29
+Isso nos permite empregar
+
+ 268: 10:15:03.02 10:15:05.24  Durée 00:00:02.22  Lisibilité 43
+para contratar
+entregadores com flexibilidade.
+
+ 269: 10:15:08.00 10:15:10.01  Durée 00:00:02.01  Lisibilité 31
+A flexibilidade nesse trabalho
+
+ 270: 10:15:10.05 10:15:12.05  Durée 00:00:02.00  Lisibilité 30
+é obviamente
+uma enorme vantagem.
+
+ 271: 10:15:12.09 10:15:15.09  Durée 00:00:03.00  Lisibilité 45
+É também por isso
+que muitos de nós, estudantes,
+
+ 272: 10:15:16.08 10:15:17.18  Durée 00:00:01.10  Lisibilité 21
+trabalhamos na Notime,
+
+ 273: 10:15:17.22 10:15:21.20  Durée 00:00:03.23  Lisibilité 59
+pois podemos escolher
+com flexibilidade as faixas horárias.
+
+ 274: 10:15:23.14 10:15:25.06  Durée 00:00:01.17  Lisibilité 25
+O que aprendi de importante
+
+ 275: 10:15:25.10 10:15:27.11  Durée 00:00:02.01  Lisibilité 31
+é que mesmo num emprego flexível
+
+ 276: 10:15:27.15 10:15:30.07  Durée 00:00:02.17  Lisibilité 40
+temos direito
+a boas condições de trabalho.
+
+ 277: 10:15:34.20 10:15:36.16  Durée 00:00:01.21  Lisibilité 28
+Flexibilidade
+não deve significar
+
+ 278: 10:15:36.20 10:15:40.07  Durée 00:00:03.12  Lisibilité 52
+que não estamos, por exemplo,
+segurados contra acidentes.
+
+ 279: 10:15:42.05 10:15:43.15  Durée 00:00:01.10  Lisibilité 21
+#Vocês ouviram bem.#
+
+ 280: 10:15:43.19 10:15:44.24  Durée 00:00:01.05  Lisibilité 18
+#Os jovens descobriram#
+
+ 281: 10:15:45.03 10:15:48.20  Durée 00:00:03.17  Lisibilité 55
+#que não estavam segurados
+contra acidentes pelo empregador.#
+
+ 282: 10:15:50.18 10:15:55.00  Durée 00:00:04.07  Lisibilité 64
+Era desconfortável saber que
+eu pedalava sem seguro de acidentes.
+
+ 283: 10:15:55.04 10:15:58.11  Durée 00:00:03.07  Lisibilité 49
+Estava sempre pensando nisso.
+É um trabalho perigoso.
+
+ 284: 10:15:58.16 10:16:03.13  Durée 00:00:04.22  Lisibilité 73
+Trabalhamos na rua, quando é inverno,
+quando faz frio, de noite.
+
+ 285: 10:16:03.17 10:16:06.21  Durée 00:00:03.04  Lisibilité 47
+Pensamos sempre na segurança,
+nas precauções a tomar
+
+ 286: 10:16:07.00 10:16:10.16  Durée 00:00:03.16  Lisibilité 55
+e ao mesmo tempo temos de ser
+o mais rápidos possível.
+
+ 287: 10:16:10.21 10:16:13.09  Durée 00:00:02.13  Lisibilité 38
+Difícil então trabalhar
+nessas condições
+
+ 288: 10:16:13.13 10:16:17.04  Durée 00:00:03.16  Lisibilité 55
+e pedalar sem a proteção
+que todo trabalhador tem na Suíça
+
+ 289: 10:16:17.08 10:16:18.15  Durée 00:00:01.07  Lisibilité 19
+ou deveria ter.
+
+ 290: 10:16:23.13 10:16:27.09  Durée 00:00:03.21  Lisibilité 58
+Acho que o pior,
+o que me chocou logo no começo,
+
+ 291: 10:16:27.14 10:16:29.10  Durée 00:00:01.21  Lisibilité 28
+é que recrutaram jovens
+
+ 292: 10:16:29.14 10:16:32.22  Durée 00:00:03.08  Lisibilité 50
+e em nome do lucro
+os fizeram percorrer ruas
+
+ 293: 10:16:33.02 10:16:35.14  Durée 00:00:02.12  Lisibilité 37
+das grandes cidades
+sem seguro acidentes.
+
+ 294: 10:16:38.00 10:16:41.23  Durée 00:00:03.23  Lisibilité 59
+#Sem seguro acidentes, e ainda
+por cima, tinham de ficar calados.#
+
+ 295: 10:16:42.16 10:16:45.19  Durée 00:00:03.03  Lisibilité 47
+#No primeiro contrato válido
+até setembro de 2017,#
+
+ 296: 10:16:45.23 10:16:48.03  Durée 00:00:02.05  Lisibilité 33
+#estava escrito claramente...#
+
+ 297: 10:16:48.07 10:16:50.10  Durée 00:00:02.03  Lisibilité 32
+#"O mandatado tem o compromisso#
+
+ 298: 10:16:50.14 10:16:54.00  Durée 00:00:03.11  Lisibilité 52
+#"de tratar esta convenção
+de maneira confidencial#
+
+ 299: 10:16:54.04 10:16:56.18  Durée 00:00:02.14  Lisibilité 38
+#"e de não divulgá-lo a terceiros.#
+
+ 300: 10:16:58.10 10:16:59.20  Durée 00:00:01.10  Lisibilité 21
+#"Em caso de violação,#
+
+ 301: 10:16:59.24 10:17:03.10  Durée 00:00:03.11  Lisibilité 52
+#"o mandatário reserva-se
+o direito de processo judicial."#
+
+ 302: 10:17:04.03 10:17:06.08  Durée 00:00:02.05  Lisibilité 33
+#Com uma disposição dessas,
+parece#
+
+ 303: 10:17:06.12 10:17:09.20  Durée 00:00:03.08  Lisibilité 50
+#que a empresa sabia
+que fazia algo errado.#
+
+ 304: 10:17:11.00 10:17:13.21  Durée 00:00:02.21  Lisibilité 43
+Você falou
+da preocupação da Notime
+
+ 305: 10:17:14.00 10:17:15.20  Durée 00:00:01.20  Lisibilité 27
+com a segurança
+dos entregadores.
+
+ 306: 10:17:15.24 10:17:18.16  Durée 00:00:02.17  Lisibilité 40
+Então como é possível
+que durante dois anos
+
+ 307: 10:17:19.08 10:17:21.08  Durée 00:00:02.00  Lisibilité 30
+a Notime não tenha pagado
+
+ 308: 10:17:21.12 10:17:23.24  Durée 00:00:02.12  Lisibilité 37
+o seguro acidentes
+para os entregadores?
+
+ 309: 10:17:24.15 10:17:26.22  Durée 00:00:02.07  Lisibilité 34
+É isso mesmo?
+Tem certeza disso?
+
+ 310: 10:17:27.01 10:17:29.15  Durée 00:00:02.14  Lisibilité 38
+Você foi informada
+que era assim?
+
+ 311: 10:17:29.19 10:17:31.11  Durée 00:00:01.17  Lisibilité 25
+Os entregadores
+nos disseram.
+
+ 312: 10:17:33.00 10:17:34.04  Durée 00:00:01.04  Lisibilité 17
+Nós indicamos
+
+ 313: 10:17:34.08 10:17:36.01  Durée 00:00:01.18  Lisibilité 26
+para os anos de 2015 e 2016
+
+ 314: 10:17:36.05 10:17:37.20  Durée 00:00:01.15  Lisibilité 24
+uma soma total de trabalho
+
+ 315: 10:17:37.24 10:17:39.08  Durée 00:00:01.09  Lisibilité 20
+que também nos foi imputada
+
+ 316: 10:17:39.12 10:17:41.15  Durée 00:00:02.03  Lisibilité 32
+pelo seguro contra acidentes.
+
+ 317: 10:17:41.19 10:17:44.06  Durée 00:00:02.12  Lisibilité 37
+Então a informação
+é infelizmente falsa.
+
+ 318: 10:17:44.19 10:17:47.07  Durée 00:00:02.13  Lisibilité 38
+Se entendi bem,
+afirma que desde o começo
+
+ 319: 10:17:47.11 10:17:51.12  Durée 00:00:04.01  Lisibilité 61
+a Notime tinha seguro contra
+acidentes para todos os entregadores?
+
+ 320: 10:17:51.16 10:17:53.16  Durée 00:00:02.00  Lisibilité 30
+Foi o que você acabou de dizer.
+
+ 321: 10:17:54.07 10:17:56.12  Durée 00:00:02.05  Lisibilité 33
+Não está tecnicamente correto.
+
+ 322: 10:17:56.17 10:18:01.02  Durée 00:00:04.10  Lisibilité 66
+Nós fizemos isso retroativamente
+para 2015 e também para 2016.
+
+ 323: 10:18:02.09 10:18:04.21  Durée 00:00:02.12  Lisibilité 37
+#Insatisfeitos
+com a resposta vaga,#
+
+ 324: 10:18:05.01 10:18:06.10  Durée 00:00:01.09  Lisibilité 20
+#voltamos a insistir,#
+
+ 325: 10:18:06.14 10:18:08.19  Durée 00:00:02.05  Lisibilité 33
+#mas não obtivemos
+nada mais claro.#
+
+ 326: 10:18:11.23 10:18:14.03  Durée 00:00:02.05  Lisibilité 33
+#Mas o que podemos afirmar#
+
+ 327: 10:18:14.07 10:18:16.10  Durée 00:00:02.03  Lisibilité 32
+#é que o 1º contrato
+não mencionava#
+
+ 328: 10:18:16.14 10:18:18.22  Durée 00:00:02.08  Lisibilité 35
+#quem devia assumir
+o seguro acidentes.#
+
+ 329: 10:18:19.01 10:18:21.08  Durée 00:00:02.07  Lisibilité 34
+#Pelo contrário
+no novo contrato,#
+
+ 330: 10:18:21.12 10:18:22.24  Durée 00:00:01.12  Lisibilité 22
+#está escrito claramente:#
+
+ 331: 10:18:24.20 10:18:28.02  Durée 00:00:03.07  Lisibilité 49
+#"O empregador contrata
+para o empregado um seguro#
+
+ 332: 10:18:28.06 10:18:31.06  Durée 00:00:03.00  Lisibilité 45
+#"para acidentes profissionais
+ou não."#
+
+ 333: 10:18:32.20 10:18:35.00  Durée 00:00:02.05  Lisibilité 33
+#Como era antes
+de os entregadores#
+
+ 334: 10:18:35.04 10:18:38.18  Durée 00:00:03.14  Lisibilité 53
+#pressionarem para ser reconhecidos
+como empregados?#
+
+ 335: 10:18:38.22 10:18:41.16  Durée 00:00:02.19  Lisibilité 41
+#Como eles
+nunca recebiam contracheque,#
+
+ 336: 10:18:41.20 10:18:45.24  Durée 00:00:04.04  Lisibilité 62
+#era difícil saber
+o que a Notime pagava ou não.#
+
+ 337: 10:18:46.03 10:18:49.03  Durée 00:00:03.00  Lisibilité 45
+#Nós procuramos
+entregadores acidentados.#
+
+ 338: 10:18:49.07 10:18:51.22  Durée 00:00:02.15  Lisibilité 39
+#A Notime não tinha
+seguro para eles.#
+
+ 339: 10:18:52.01 10:18:55.13  Durée 00:00:03.12  Lisibilité 52
+#A empresa fechou, portanto,
+acordos caso a caso.#
+
+ 340: 10:18:57.15 10:19:00.14  Durée 00:00:02.24  Lisibilité 44
+É evidente
+que nós precisávamos de ajuda.
+
+ 341: 10:19:00.18 10:19:02.04  Durée 00:00:01.11  Lisibilité 22
+Foi preciso esse choque
+
+ 342: 10:19:02.08 10:19:06.01  Durée 00:00:03.18  Lisibilité 56
+para nos tocarmos que a empresa
+tinha passado dos limites.
+
+ 343: 10:19:06.05 10:19:07.05  Durée 00:00:01.00  Lisibilité 15
+Não era só
+
+ 344: 10:19:07.09 10:19:09.11  Durée 00:00:02.02  Lisibilité 31
+uma questão
+de direitos trabalhistas.
+
+ 345: 10:19:09.15 10:19:12.03  Durée 00:00:02.13  Lisibilité 38
+Também afetava a nossa dignidade.
+
+ 346: 10:19:13.04 10:19:16.04  Durée 00:00:03.00  Lisibilité 45
+Parecia-nos
+que eles tinham passado dos limites.
+
+ 347: 10:19:16.08 10:19:19.11  Durée 00:00:03.03  Lisibilité 47
+Acho que foi
+o que nos estimulou a nos unir.
+
+ 348: 10:19:21.14 10:19:22.23  Durée 00:00:01.09  Lisibilité 20
+#A necessidade
+de unir forças#
+
+ 349: 10:19:23.02 10:19:26.24  Durée 00:00:03.22  Lisibilité 58
+#os levou a organizar
+a manifestação de setembro de 2017.#
+
+ 350: 10:19:27.03 10:19:29.09  Durée 00:00:02.06  Lisibilité 34
+#Mas não são só
+plataformas digitais#
+
+ 351: 10:19:29.13 10:19:32.16  Durée 00:00:03.03  Lisibilité 47
+#que querem economizar
+no custo do trabalho.#
+
+ 352: 10:19:32.20 10:19:34.12  Durée 00:00:01.17  Lisibilité 25
+#Essa realidade
+também afeta#
+
+ 353: 10:19:34.17 10:19:37.13  Durée 00:00:02.21  Lisibilité 43
+#os setores de atividade
+tradicionais.#
+
+ 354: 10:19:38.12 10:19:41.22  Durée 00:00:03.10  Lisibilité 51
+Não vamos desistir!
+
+ 355: 10:19:42.02 10:19:43.15  Durée 00:00:01.13  Lisibilité 23
+#Em Genebra, em novembro,#
+
+ 356: 10:19:43.19 10:19:47.10  Durée 00:00:03.16  Lisibilité 55
+#as funcionárias de dois EMS
+estão em greve há 8 dias.#
+
+ 357: 10:19:47.14 10:19:49.03  Durée 00:00:01.14  Lisibilité 23
+#Elas se opõem
+à terceirização#
+
+ 358: 10:19:49.07 10:19:51.19  Durée 00:00:02.12  Lisibilité 37
+#do serviço hoteleiro
+onde trabalham.#
+
+ 359: 10:19:51.23 10:19:55.02  Durée 00:00:03.04  Lisibilité 47
+#A questão é séria:
+ou elas aceitam o novo contrato#
+
+ 360: 10:19:55.07 10:19:57.20  Durée 00:00:02.13  Lisibilité 38
+#regulado
+por outra convenção coletiva#
+
+ 361: 10:19:57.24 10:20:00.21  Durée 00:00:02.22  Lisibilité 43
+#e acabarão tendo
+uma perda salarial drástica,#
+
+ 362: 10:20:01.00 10:20:04.02  Durée 00:00:03.02  Lisibilité 46
+#ou elas recusam
+e perdem o emprego.#
+
+ 363: 10:20:04.06 10:20:05.11  Durée 00:00:01.05  Lisibilité 18
+Caso as terceirizem,
+
+ 364: 10:20:05.15 10:20:08.14  Durée 00:00:02.24  Lisibilité 44
+não estarão mais
+na convenção coletiva dos EMS
+
+ 365: 10:20:08.18 10:20:11.06  Durée 00:00:02.13  Lisibilité 38
+e passariam à do setor hoteleiro
+
+ 366: 10:20:11.11 10:20:13.15  Durée 00:00:02.04  Lisibilité 32
+que é claramente pior.
+Por exemplo,
+
+ 367: 10:20:13.19 10:20:15.13  Durée 00:00:01.19  Lisibilité 26
+em termos salariais,
+o mínimo
+
+ 368: 10:20:15.17 10:20:19.04  Durée 00:00:03.12  Lisibilité 52
+é 3.417 francos brutos por mês,
+
+ 369: 10:20:19.08 10:20:20.24  Durée 00:00:01.16  Lisibilité 25
+o que será para as colegas
+
+ 370: 10:20:21.03 10:20:24.04  Durée 00:00:03.01  Lisibilité 46
+uma perda de salário
+de mais de mil francos.
+
+ 371: 10:20:24.08 10:20:27.06  Durée 00:00:02.23  Lisibilité 44
+E tudo isso por um aumento
+do tempo de trabalho,
+
+ 372: 10:20:27.10 10:20:28.18  Durée 00:00:01.08  Lisibilité 20
+já que têm 40 horas 
+
+ 373: 10:20:28.22 10:20:32.00  Durée 00:00:03.03  Lisibilité 47
+mas passariam com a nova convenção
+a 42 horas.
+
+ 374: 10:20:32.04 10:20:34.13  Durée 00:00:02.09  Lisibilité 35
+Sem falar de tudo que pioraria
+
+ 375: 10:20:34.17 10:20:35.24  Durée 00:00:01.07  Lisibilité 19
+em termos de pensão, 
+
+ 376: 10:20:36.03 10:20:38.04  Durée 00:00:02.01  Lisibilité 31
+férias,
+organização do trabalho etc.
+
+ 377: 10:20:38.09 10:20:41.11  Durée 00:00:03.02  Lisibilité 46
+PESSOAL EM GREVE
+
+ 378: 10:20:41.15 10:20:45.14  Durée 00:00:03.24  Lisibilité 59
+Foi difícil decidir fazer greve?
+
+ 379: 10:20:45.19 10:20:48.08  Durée 00:00:02.14  Lisibilité 38
+Sim. Sabe,
+somos meras funcionárias.
+
+ 380: 10:20:48.13 10:20:50.24  Durée 00:00:02.11  Lisibilité 37
+Somos as funcionárias
+mais mal pagas
+
+ 381: 10:20:51.03 10:20:53.04  Durée 00:00:02.01  Lisibilité 31
+da casa.
+Nós nos perguntamos
+
+ 382: 10:20:53.08 10:20:56.09  Durée 00:00:03.01  Lisibilité 46
+se perderíamos o emprego,
+que consequências teríamos,
+
+ 383: 10:20:56.13 10:20:59.24  Durée 00:00:03.11  Lisibilité 52
+se haveria represálias.
+Foi um pouco difícil.
+
+ 384: 10:21:00.03 10:21:02.13  Durée 00:00:02.10  Lisibilité 36
+Mas pensamos:
+"O que temos a perder?"
+
+ 385: 10:21:02.17 10:21:06.15  Durée 00:00:03.23  Lisibilité 59
+Não temos muito a perder.
+Vamos em frente. Vamos lutar.
+
+ 386: 10:21:07.02 10:21:08.22  Durée 00:00:01.20  Lisibilité 27
+Todos juntos! Todos juntos!
+
+ 387: 10:21:09.21 10:21:12.17  Durée 00:00:02.21  Lisibilité 43
+Vocês esperavam
+fazer uma greve tão longa?
+
+ 388: 10:21:12.21 10:21:16.18  Durée 00:00:03.22  Lisibilité 58
+Jamais. Eu nunca imaginei
+nem fazer greve.
+
+ 389: 10:21:20.05 10:21:23.17  Durée 00:00:03.12  Lisibilité 52
+#Nesse dia, as grevistas protestam
+ante o Grande Conselho#
+
+ 390: 10:21:23.21 10:21:25.09  Durée 00:00:01.13  Lisibilité 23
+#que votará
+a favor ou contra#
+
+ 391: 10:21:25.13 10:21:28.01  Durée 00:00:02.13  Lisibilité 38
+#uma resolução
+pedindo ao Conselho de Estado#
+
+ 392: 10:21:28.05 10:21:29.24  Durée 00:00:01.19  Lisibilité 26
+#que intervenha com urgência#
+
+ 393: 10:21:30.03 10:21:32.19  Durée 00:00:02.16  Lisibilité 40
+#a fim de impedir
+essas duas terceirizações.#
+
+ 394: 10:21:33.17 10:21:36.05  Durée 00:00:02.13  Lisibilité 38
+Então o pessoal está em greve
+
+ 395: 10:21:36.10 10:21:40.24  Durée 00:00:04.14  Lisibilité 68
+contra o projeto de terceirização
+planejado pela direção.
+
+ 396: 10:21:41.03 10:21:42.16  Durée 00:00:01.13  Lisibilité 23
+São camareiras,
+
+ 397: 10:21:42.21 10:21:45.02  Durée 00:00:02.06  Lisibilité 34
+lavadeiras,
+funcionárias da cafeteria
+
+ 398: 10:21:45.07 10:21:49.10  Durée 00:00:04.03  Lisibilité 62
+que têm um contato privilegiado
+e direto com os idosos.
+
+ 399: 10:21:52.13 10:21:57.13  Durée 00:00:05.00  Lisibilité 75
+#Continuamos nossa luta porque
+a direção recusa-se a nos ouvir.#
+
+ 400: 10:21:57.17 10:22:01.19  Durée 00:00:04.02  Lisibilité 61
+#Eles se recusam a negociar
+conosco e com os sindicatos.#
+
+ 401: 10:22:02.08 10:22:06.04  Durée 00:00:03.21  Lisibilité 58
+#Nós lutamos para manter
+nossas condições de trabalho.#
+
+ 402: 10:22:06.08 10:22:07.09  Durée 00:00:01.01  Lisibilité 16
+#Com tudo isso,#
+
+ 403: 10:22:07.13 10:22:11.01  Durée 00:00:03.13  Lisibilité 53
+#vocês acham que os residentes
+pagarão menos pela estadia?#
+
+ 404: 10:22:11.05 10:22:12.05  Durée 00:00:01.00  Lisibilité 15
+Não!
+
+ 405: 10:22:13.06 10:22:18.01  Durée 00:00:04.20  Lisibilité 72
+#Não. A direção das residências
+Notre-Dame de la Compassion#
+
+ 406: 10:22:18.05 10:22:19.13  Durée 00:00:01.08  Lisibilité 20
+#pensa nos idosos?#
+
+ 407: 10:22:19.17 10:22:20.18  Durée 00:00:01.01  Lisibilité 16
+Não!
+
+ 408: 10:22:24.18 10:22:26.06  Durée 00:00:01.13  Lisibilité 23
+#Nós esperamos muito#
+
+ 409: 10:22:26.10 10:22:28.18  Durée 00:00:02.08  Lisibilité 35
+#que o Sr. Poggia,
+que entrou agora,#
+
+ 410: 10:22:28.22 10:22:30.10  Durée 00:00:01.13  Lisibilité 23
+#e todos os deputados...#
+
+ 411: 10:22:30.14 10:22:34.10  Durée 00:00:03.21  Lisibilité 58
+#Interpelado, Mauro Poggia
+é o magistrado de tutela dos EMS.#
+
+ 412: 10:22:34.14 10:22:36.10  Durée 00:00:01.21  Lisibilité 28
+#É ele que deverá aplicar#
+
+ 413: 10:22:36.14 10:22:39.17  Durée 00:00:03.03  Lisibilité 47
+#o que os deputados
+votarem hoje após o debate.#
+
+ 414: 10:22:40.03 10:22:44.05  Durée 00:00:04.02  Lisibilité 61
+Tudo isso é um gravíssimo atentado
+contra as condições de trabalho
+
+ 415: 10:22:44.09 10:22:46.01  Durée 00:00:01.17  Lisibilité 25
+do pessoal desses dois EMS
+
+ 416: 10:22:46.05 10:22:50.06  Durée 00:00:04.01  Lisibilité 61
+e pode se propagar aos poucos
+para o resto dos EMS do cantão.
+
+ 417: 10:22:50.16 10:22:53.10  Durée 00:00:02.19  Lisibilité 41
+Mas nós não temos,
+em todo caso, nem o papel
+
+ 418: 10:22:53.14 10:22:54.24  Durée 00:00:01.10  Lisibilité 21
+nem a competência
+
+ 419: 10:22:55.03 10:22:58.10  Durée 00:00:03.07  Lisibilité 49
+de intervir na direção operacional
+do estabelecimento.
+
+ 420: 10:22:59.02 10:23:00.16  Durée 00:00:01.14  Lisibilité 23
+Com terceirização assim,
+
+ 421: 10:23:00.20 10:23:02.00  Durée 00:00:01.05  Lisibilité 18
+o que fazer?
+
+ 422: 10:23:02.04 10:23:05.15  Durée 00:00:03.11  Lisibilité 52
+Estão oferecendo um mercado
+a empresas privadas.
+
+ 423: 10:23:05.20 10:23:09.07  Durée 00:00:03.12  Lisibilité 52
+Estão privatizando
+uma parte dos serviços públicos
+
+ 424: 10:23:09.11 10:23:11.23  Durée 00:00:02.12  Lisibilité 37
+e a isso, nos opomos firmemente.
+
+ 425: 10:23:12.20 10:23:15.15  Durée 00:00:02.20  Lisibilité 42
+Nós estamos destruindo
+a sociedade genebrense
+
+ 426: 10:23:15.19 10:23:17.17  Durée 00:00:01.23  Lisibilité 29
+que nós conhecemos.
+
+ 427: 10:23:17.22 10:23:21.19  Durée 00:00:03.22  Lisibilité 58
+Nós vamos criar um verdadeiro
+massacre no mercado do emprego.
+
+ 428: 10:23:22.11 10:23:25.19  Durée 00:00:03.08  Lisibilité 50
+Saibam simplesmente que esses EMS
+não são deficitários,
+
+ 429: 10:23:25.24 10:23:27.00  Durée 00:00:01.01  Lisibilité 16
+que a subvenção,
+
+ 430: 10:23:27.04 10:23:30.15  Durée 00:00:03.11  Lisibilité 52
+nos contratos de prestação
+que estão em negociação,
+
+ 431: 10:23:30.19 10:23:32.09  Durée 00:00:01.15  Lisibilité 24
+está aumentando.
+
+ 432: 10:23:32.13 10:23:35.02  Durée 00:00:02.14  Lisibilité 38
+Então não há necessidade imperiosa
+
+ 433: 10:23:35.06 10:23:37.20  Durée 00:00:02.14  Lisibilité 38
+de terceirizar
+uma parte do pessoal
+
+ 434: 10:23:37.24 10:23:42.09  Durée 00:00:04.10  Lisibilité 66
+para manter os números pretos
+ou para sair do vermelho.
+
+ 435: 10:23:42.14 10:23:44.05  Durée 00:00:01.16  Lisibilité 25
+#Motivados...#
+
+ 436: 10:23:44.09 10:23:46.18  Durée 00:00:02.09  Lisibilité 35
+#Mas então,
+se as subvenções aumentam#
+
+ 437: 10:23:46.22 10:23:50.07  Durée 00:00:03.10  Lisibilité 51
+#e os dois EMS
+não estão no vermelho,#
+
+ 438: 10:23:50.12 10:23:51.18  Durée 00:00:01.06  Lisibilité 19
+#por que terceirizar?#
+
+ 439: 10:23:51.22 10:23:55.14  Durée 00:00:03.17  Lisibilité 55
+#Nós procuramos o diretor,
+que não pode se pronunciar#
+
+ 440: 10:23:55.18 10:23:58.06  Durée 00:00:02.13  Lisibilité 38
+#porque uma mediação
+está em curso.#
+
+ 441: 10:23:58.11 10:24:01.00  Durée 00:00:02.14  Lisibilité 38
+#Para entendê-lo,
+citamos uma entrevista#
+
+ 442: 10:24:01.04 10:24:04.01  Durée 00:00:02.22  Lisibilité 43
+#que ele deu
+antes da proibição de falar.#
+
+ 443: 10:24:05.06 10:24:07.22  Durée 00:00:02.16  Lisibilité 40
+#"'Nós queremos fornecer
+serviços de qualidade#
+
+ 444: 10:24:08.01 10:24:10.07  Durée 00:00:02.06  Lisibilité 34
+#"'por preços razoáveis
+para os residentes',#
+
+ 445: 10:24:10.11 10:24:12.13  Durée 00:00:02.02  Lisibilité 31
+#"explica o diretor
+dos dois EMS.#
+
+ 446: 10:24:12.17 10:24:15.09  Durée 00:00:02.17  Lisibilité 40
+#"'Terceirizando,
+continuamos nessa via.'"#
+
+ 447: 10:24:16.24 10:24:20.14  Durée 00:00:03.15  Lisibilité 54
+#"Além disso, o diretor dos EMS
+critica o Conselho de Estado.#
+
+ 448: 10:24:20.18 10:24:24.14  Durée 00:00:03.21  Lisibilité 58
+#"'Todo ano, as subvenções
+não compensam as anuidades.'"#
+
+ 449: 10:24:25.10 10:24:29.03  Durée 00:00:03.18  Lisibilité 56
+#Na véspera, o Grande Conselho
+genebrense votou por maioria#
+
+ 450: 10:24:29.07 10:24:31.03  Durée 00:00:01.21  Lisibilité 28
+#a favor das grevistas.#
+
+ 451: 10:24:32.16 10:24:33.19  Durée 00:00:01.03  Lisibilité 17
+É uma bela vitória,
+
+ 452: 10:24:33.23 10:24:37.13  Durée 00:00:03.15  Lisibilité 54
+um belo sinal que o Parlamento
+envia ao Conselho de Estado
+
+ 453: 10:24:37.17 10:24:39.01  Durée 00:00:01.09  Lisibilité 20
+pedindo que intervenha
+
+ 454: 10:24:39.05 10:24:41.04  Durée 00:00:01.24  Lisibilité 29
+para impedir
+essa terceirização.
+
+ 455: 10:24:42.10 10:24:44.12  Durée 00:00:02.02  Lisibilité 31
+#Uma vitória de curta duração.#
+
+ 456: 10:24:44.16 10:24:47.14  Durée 00:00:02.23  Lisibilité 44
+#Em poucas horas,
+o clima esfriou.#
+
+ 457: 10:24:49.23 10:24:53.15  Durée 00:00:03.17  Lisibilité 55
+O Sr. Poggia parecia
+bastante sensível à nossa causa
+
+ 458: 10:24:53.19 10:24:55.15  Durée 00:00:01.21  Lisibilité 28
+e deixou subentendido
+
+ 459: 10:24:55.19 10:24:58.09  Durée 00:00:02.15  Lisibilité 39
+que fará o necessário
+para impedir isso.
+
+ 460: 10:24:58.13 10:25:00.22  Durée 00:00:02.09  Lisibilité 35
+Em todo caso,
+foi o que entendemos.
+
+ 461: 10:25:01.19 10:25:05.17  Durée 00:00:03.23  Lisibilité 59
+E de manhã,
+as últimas notícias que tivemos
+
+ 462: 10:25:05.22 10:25:09.24  Durée 00:00:04.02  Lisibilité 61
+foram que o Sr. Poggia
+teria mudado de ideia.
+
+ 463: 10:25:10.03 10:25:12.03  Durée 00:00:02.00  Lisibilité 30
+E como vocês reagem?
+
+ 464: 10:25:12.08 10:25:14.04  Durée 00:00:01.21  Lisibilité 28
+Estamos desapontadas,
+
+ 465: 10:25:14.08 10:25:15.06  Durée 00:00:00.23  Lisibilité 14
+decepcionadas,
+
+ 466: 10:25:15.10 10:25:17.16  Durée 00:00:02.06  Lisibilité 34
+e se não podemos confiar
+
+ 467: 10:25:17.20 10:25:19.14  Durée 00:00:01.19  Lisibilité 26
+nas decisões
+do Grande Conselho,
+
+ 468: 10:25:19.18 10:25:21.06  Durée 00:00:01.13  Lisibilité 23
+em quem vamos confiar?
+
+ 469: 10:25:21.17 10:25:24.11  Durée 00:00:02.19  Lisibilité 41
+Vocês poderiam viver
+com o novo salário?
+
+ 470: 10:25:24.15 10:25:26.22  Durée 00:00:02.07  Lisibilité 34
+Não. Com 3.400 francos?
+
+ 471: 10:25:27.01 10:25:31.13  Durée 00:00:04.12  Lisibilité 67
+Acha que conseguimos viver em Genebra
+com um aluguel de 2 mil francos,
+
+ 472: 10:25:31.17 10:25:34.23  Durée 00:00:03.06  Lisibilité 49
+seguros - para 3,
+pois somos 3, dá 1.500?
+
+ 473: 10:25:35.17 10:25:38.14  Durée 00:00:02.22  Lisibilité 43
+Como fazemos?
+É impossível.
+
+ 474: 10:25:38.19 10:25:40.01  Durée 00:00:01.07  Lisibilité 19
+Não vou poder viver.
+
+ 475: 10:25:40.05 10:25:42.21  Durée 00:00:02.16  Lisibilité 40
+Preciso ir pedir auxílio
+ao Estado.
+
+ 476: 10:25:43.15 10:25:44.21  Durée 00:00:01.06  Lisibilité 19
+Ou nos deixam o emprego
+
+ 477: 10:25:45.00 10:25:48.20  Durée 00:00:03.20  Lisibilité 57
+para podermos viver dignamente
+com nossos salários,
+
+ 478: 10:25:48.24 10:25:52.00  Durée 00:00:03.01  Lisibilité 46
+ou o estado terá de nos ajudar
+
+ 479: 10:25:52.04 10:25:56.19  Durée 00:00:04.15  Lisibilité 69
+a viver, a pagar nossos seguros,
+o aluguel e tudo mais.
+
+ 480: 10:25:57.04 10:25:58.14  Durée 00:00:01.10  Lisibilité 21
+Parece consternada.
+
+ 481: 10:25:58.18 10:26:00.01  Durée 00:00:01.08  Lisibilité 20
+Estou consternada.
+
+ 482: 10:26:01.21 10:26:04.06  Durée 00:00:02.10  Lisibilité 36
+Pois isso tudo é muito injusto.
+
+ 483: 10:26:04.10 10:26:07.07  Durée 00:00:02.22  Lisibilité 43
+Vai fazer 17 anos
+que trabalho nesse EMS.
+
+ 484: 10:26:08.13 10:26:09.10  Durée 00:00:00.22  Lisibilité 13
+#Após a greve,#
+
+ 485: 10:26:09.14 10:26:12.18  Durée 00:00:03.04  Lisibilité 47
+#o Sr. Poggia pediu
+que todos os lados negociassem.#
+
+ 486: 10:26:12.22 10:26:15.07  Durée 00:00:02.10  Lisibilité 36
+#De que lado a balança pesará?#
+
+ 487: 10:26:15.11 10:26:18.02  Durée 00:00:02.16  Lisibilité 40
+#As funcionárias retomaram
+o trabalho na incerteza#
+
+ 488: 10:26:18.06 10:26:19.10  Durée 00:00:01.04  Lisibilité 17
+#do futuro.#
+
+ 489: 10:26:24.24 10:26:26.23  Durée 00:00:01.24  Lisibilité 29
+#Contratos de trabalho precários#
+
+ 490: 10:26:27.02 10:26:29.21  Durée 00:00:02.19  Lisibilité 41
+#não afetam apenas
+os pouco qualificados,#
+
+ 491: 10:26:30.00 10:26:32.22  Durée 00:00:02.22  Lisibilité 43
+#mas também
+quem tem anos de estudo.#
+
+ 492: 10:26:35.09 10:26:38.23  Durée 00:00:03.14  Lisibilité 53
+#É o que se constata na EPFL,
+instituição de renome mundial.#
+
+ 493: 10:26:41.02 10:26:44.18  Durée 00:00:03.16  Lisibilité 55
+#Aqui, a precarização vem
+do contrato de prazo determinado#
+
+ 494: 10:26:44.22 10:26:46.11  Durée 00:00:01.14  Lisibilité 23
+#bem conhecido na França.#
+
+ 495: 10:26:48.00 10:26:51.22  Durée 00:00:03.22  Lisibilité 58
+#Na Suíça, o serviço público
+também propõe esse tipo de contrato.#
+
+ 496: 10:26:53.05 10:26:55.20  Durée 00:00:02.15  Lisibilité 39
+Fazia anos
+que eu tentava voltar à EPFL.
+
+ 497: 10:26:55.24 10:27:00.01  Durée 00:00:04.02  Lisibilité 61
+Ela é um projeto maravilhoso.
+Pode ser a energia de amanhã.
+
+ 498: 10:27:00.06 10:27:01.14  Durée 00:00:01.08  Lisibilité 20
+É muito incrível.
+
+ 499: 10:27:01.18 10:27:06.19  Durée 00:00:05.01  Lisibilité 76
+Adoro toda essa atmosfera
+de pesquisa, de efervescência,
+
+ 500: 10:27:06.23 10:27:11.00  Durée 00:00:04.02  Lisibilité 61
+e de encontrar soluções todo dia
+para um novo problema.
+
+ 501: 10:27:11.04 10:27:12.04  Durée 00:00:01.00  Lisibilité 15
+E...
+
+ 502: 10:27:13.17 10:27:17.15  Durée 00:00:03.23  Lisibilité 59
+E para manter
+esse espírito de criatividade,
+
+ 503: 10:27:17.19 10:27:20.17  Durée 00:00:02.23  Lisibilité 44
+as pessoas precisam
+de boas condições,
+
+ 504: 10:27:20.21 10:27:23.02  Durée 00:00:02.06  Lisibilité 34
+é preciso haver
+confiança recíproca.
+
+ 505: 10:27:24.09 10:27:26.09  Durée 00:00:02.00  Lisibilité 30
+#Jean-Marc é politécnico.#
+
+ 506: 10:27:26.13 10:27:28.04  Durée 00:00:01.16  Lisibilité 25
+#Ele trabalha numa pesquisa#
+
+ 507: 10:27:28.09 10:27:31.18  Durée 00:00:03.09  Lisibilité 50
+#de envergadura internacional
+sobre fusão nuclear,#
+
+ 508: 10:27:31.22 10:27:33.23  Durée 00:00:02.01  Lisibilité 31
+#possivelmente
+a energia de amanhã.#
+
+ 509: 10:27:34.13 10:27:37.15  Durée 00:00:03.02  Lisibilité 46
+#Ele foi contratado
+por prazo determinado,#
+
+ 510: 10:27:37.19 10:27:39.19  Durée 00:00:02.00  Lisibilité 30
+#o que o espantou,
+pois há 10 anos#
+
+ 511: 10:27:39.23 10:27:43.03  Durée 00:00:03.05  Lisibilité 48
+#ele já tinha trabalhado na EPFL,
+mas na época#
+
+ 512: 10:27:43.07 10:27:46.24  Durée 00:00:03.17  Lisibilité 55
+#ele tinha um contrato clássico
+de prazo indeterminado.#
+
+ 513: 10:27:47.03 10:27:50.11  Durée 00:00:03.08  Lisibilité 50
+#Motivado e sem conhecer
+o sistema do prazo determinado,#
+
+ 514: 10:27:50.15 10:27:54.04  Durée 00:00:03.14  Lisibilité 53
+#ele aceita, esperando obter depois
+o prazo indeterminado.#
+
+ 515: 10:27:57.04 10:27:59.09  Durée 00:00:02.05  Lisibilité 33
+Explicaram-me que esse contrato
+
+ 516: 10:28:00.20 10:28:03.01  Durée 00:00:02.06  Lisibilité 34
+era de prazo determinado
+de um ano,
+
+ 517: 10:28:03.05 10:28:05.06  Durée 00:00:02.01  Lisibilité 31
+renovável de ano em ano,
+
+ 518: 10:28:05.10 10:28:07.16  Durée 00:00:02.06  Lisibilité 34
+por um prazo máximo de 5 anos.
+
+ 519: 10:28:07.20 10:28:11.20  Durée 00:00:04.00  Lisibilité 60
+É passagem obrigatória para ter
+um contrato de prazo indeterminado.
+
+ 520: 10:28:22.02 10:28:25.12  Durée 00:00:03.10  Lisibilité 51
+Meu antecessor tinha um contrato
+por prazo indeterminado.
+
+ 521: 10:28:25.16 10:28:29.08  Durée 00:00:03.17  Lisibilité 55
+Ele trabalhou 37 anos
+no cargo em que o sucedi.
+
+ 522: 10:28:29.12 10:28:32.07  Durée 00:00:02.20  Lisibilité 42
+Um cargo bem especializado
+
+ 523: 10:28:32.11 10:28:34.19  Durée 00:00:02.08  Lisibilité 35
+que exige
+conhecimentos específicos.
+
+ 524: 10:28:34.24 10:28:38.09  Durée 00:00:03.10  Lisibilité 51
+É curioso: seu antecessor
+trabalhou 37 anos,
+
+ 525: 10:28:38.13 10:28:39.09  Durée 00:00:00.21  Lisibilité 13
+você assume,
+
+ 526: 10:28:39.14 10:28:43.05  Durée 00:00:03.16  Lisibilité 55
+e lhe oferecem um contrato
+de um ano renovável?
+
+ 527: 10:28:44.02 10:28:46.00  Durée 00:00:01.23  Lisibilité 29
+Para mim, é incompreensível.
+
+ 528: 10:28:47.15 10:28:49.12  Durée 00:00:01.22  Lisibilité 28
+O projeto existe há 50 anos,
+
+ 529: 10:28:49.16 10:28:52.18  Durée 00:00:03.02  Lisibilité 46
+ele deveria durar
+pelo menos uns trinta anos,
+
+ 530: 10:28:53.01 10:28:55.18  Durée 00:00:02.17  Lisibilité 40
+é realmente um projeto perene
+de longo prazo.
+
+ 531: 10:28:56.13 10:28:59.20  Durée 00:00:03.07  Lisibilité 49
+#Um contrato limitado no tempo
+para um cargo perene.#
+
+ 532: 10:28:59.24 10:29:02.24  Durée 00:00:03.00  Lisibilité 45
+#Essa é a nova política da EPFL?#
+
+ 533: 10:29:03.03 10:29:06.14  Durée 00:00:03.11  Lisibilité 52
+#Financiado pela Confederação
+e por fundos europeus,#
+
+ 534: 10:29:06.18 10:29:08.22  Durée 00:00:02.04  Lisibilité 32
+#o programa
+em que Jean-Marc colabora#
+
+ 535: 10:29:09.02 10:29:11.12  Durée 00:00:02.10  Lisibilité 36
+#é um dos mais importantes
+da EPFL.#
+
+ 536: 10:29:11.16 10:29:14.12  Durée 00:00:02.21  Lisibilité 43
+#Cerca de 120 pessoas
+trabalham nesse laboratório#
+
+ 537: 10:29:14.16 10:29:16.12  Durée 00:00:01.21  Lisibilité 28
+#e muitos de seus colegas#
+
+ 538: 10:29:16.16 10:29:19.19  Durée 00:00:03.03  Lisibilité 47
+#também têm
+contratos por prazo determinado.#
+
+ 539: 10:29:19.23 10:29:21.21  Durée 00:00:01.23  Lisibilité 29
+#Uma situação
+que de anos para cá#
+
+ 540: 10:29:22.00 10:29:25.06  Durée 00:00:03.06  Lisibilité 49
+#preocupa o sindicato
+dos funcionários da Confederação.#
+
+ 541: 10:29:27.11 10:29:30.09  Durée 00:00:02.23  Lisibilité 44
+Não há motivo para que gente
+
+ 542: 10:29:30.13 10:29:32.14  Durée 00:00:02.01  Lisibilité 31
+que está lá para empregos perenes
+
+ 543: 10:29:32.18 10:29:34.18  Durée 00:00:02.00  Lisibilité 30
+não tenha prazo indeterminado.
+
+ 544: 10:29:35.20 10:29:37.22  Durée 00:00:02.02  Lisibilité 31
+As EPF deveriam ser
+
+ 545: 10:29:38.02 10:29:40.22  Durée 00:00:02.20  Lisibilité 42
+um empregador social,
+como a Confederação,
+
+ 546: 10:29:41.01 10:29:42.24  Durée 00:00:01.23  Lisibilité 29
+que por sinal
+gaba-se de sê-lo.
+
+ 547: 10:29:43.12 10:29:46.22  Durée 00:00:03.10  Lisibilité 51
+O pessoal
+administrativo e técnico
+
+ 548: 10:29:47.01 10:29:50.10  Durée 00:00:03.09  Lisibilité 50
+que pode trabalhar num dado momento
+num certo projeto
+
+ 549: 10:29:50.14 10:29:52.09  Durée 00:00:01.20  Lisibilité 27
+e mudar para outro projeto,
+
+ 550: 10:29:52.13 10:29:55.05  Durée 00:00:02.17  Lisibilité 40
+para essas pessoas
+não é aceitável
+
+ 551: 10:29:55.09 10:29:57.13  Durée 00:00:02.04  Lisibilité 32
+ter contrato
+por prazo determinado.
+
+ 552: 10:29:57.17 10:30:01.00  Durée 00:00:03.08  Lisibilité 50
+Está claramente mencionado na lei.
+
+ 553: 10:30:01.04 10:30:03.19  Durée 00:00:02.15  Lisibilité 39
+Não se pode impor
+prazo determinado
+
+ 554: 10:30:03.23 10:30:06.23  Durée 00:00:03.00  Lisibilité 45
+para contornar as regras
+do prazo indeterminado.
+
+ 555: 10:30:07.16 10:30:09.06  Durée 00:00:01.15  Lisibilité 24
+#Diálogo de surdos
+entre o sindicato#
+
+ 556: 10:30:09.10 10:30:11.16  Durée 00:00:02.06  Lisibilité 34
+#e a direção de recursos humanos#
+
+ 557: 10:30:11.21 10:30:13.19  Durée 00:00:01.23  Lisibilité 29
+#onde o problema se banalizou.#
+
+ 558: 10:30:15.21 10:30:18.11  Durée 00:00:02.15  Lisibilité 39
+Nós temos, dos nossos colaboradores,
+
+ 559: 10:30:18.15 10:30:22.06  Durée 00:00:03.16  Lisibilité 55
+mais de três quartos com contrato
+por prazo indeterminado.
+
+ 560: 10:30:22.11 10:30:25.12  Durée 00:00:03.01  Lisibilité 46
+Mas também tem uma parte
+
+ 561: 10:30:25.16 10:30:29.08  Durée 00:00:03.17  Lisibilité 55
+de colaboradores
+que trabalham em projetos
+
+ 562: 10:30:29.12 10:30:30.18  Durée 00:00:01.06  Lisibilité 19
+que podem ser
+
+ 563: 10:30:30.22 10:30:33.09  Durée 00:00:02.12  Lisibilité 37
+financiados por fundos externos.
+
+ 564: 10:30:33.13 10:30:35.01  Durée 00:00:01.13  Lisibilité 23
+E isso nos leva
+
+ 565: 10:30:35.05 10:30:38.19  Durée 00:00:03.14  Lisibilité 53
+a, digamos, adaptar
+a forma dos contratos em função
+
+ 566: 10:30:38.23 10:30:39.24  Durée 00:00:01.01  Lisibilité 16
+desses projetos.
+
+ 567: 10:30:40.03 10:30:42.02  Durée 00:00:01.24  Lisibilité 29
+Esses projetos
+têm prazo limitado,
+
+ 568: 10:30:42.06 10:30:44.05  Durée 00:00:01.24  Lisibilité 29
+financiamento
+por um prazo limitado
+
+ 569: 10:30:44.10 10:30:45.24  Durée 00:00:01.14  Lisibilité 23
+então isso explique
+
+ 570: 10:30:46.03 10:30:49.11  Durée 00:00:03.08  Lisibilité 50
+uma boa parte das situações
+
+ 571: 10:30:49.15 10:30:52.08  Durée 00:00:02.18  Lisibilité 41
+de contratos por prazo determinado.
+
+ 572: 10:30:53.11 10:30:56.05  Durée 00:00:02.19  Lisibilité 41
+Nós estamos ancorados
+numa realidade econômica
+
+ 573: 10:30:56.09 10:30:59.24  Durée 00:00:03.15  Lisibilité 54
+com a qual devemos trabalhar
+todos os dias,
+
+ 574: 10:31:00.04 10:31:02.13  Durée 00:00:02.09  Lisibilité 35
+sabendo que o mundo não é perfeito
+
+ 575: 10:31:02.17 10:31:05.19  Durée 00:00:03.02  Lisibilité 46
+mas oferece oportunidades
+que tentamos agarrar.
+
+ 576: 10:31:05.23 10:31:09.12  Durée 00:00:03.14  Lisibilité 53
+Isso cria postos de trabalho
+extremamente interessantes,
+
+ 577: 10:31:09.16 10:31:13.05  Durée 00:00:03.14  Lisibilité 53
+mas sabemos que eles podem acabar
+após alguns anos.
+
+ 578: 10:31:14.05 10:31:18.09  Durée 00:00:04.04  Lisibilité 62
+#"Motivos econômicos ditam
+o tipo de contrato", nos dizem.#
+
+ 579: 10:31:18.21 10:31:20.17  Durée 00:00:01.21  Lisibilité 28
+#Financiamentos externos
+aumentaram.#
+
+ 580: 10:31:20.21 10:31:23.06  Durée 00:00:02.10  Lisibilité 36
+#Por isso os CPDs aumentaram,#
+
+ 581: 10:31:23.10 10:31:26.00  Durée 00:00:02.15  Lisibilité 39
+#com toda a insegurança
+que isso provoca.#
+
+ 582: 10:31:27.08 10:31:29.10  Durée 00:00:02.02  Lisibilité 31
+Não é fácil pedir que assinem
+
+ 583: 10:31:29.14 10:31:31.15  Durée 00:00:02.01  Lisibilité 31
+um contrato
+por prazo determinado.
+
+ 584: 10:31:32.11 10:31:35.11  Durée 00:00:03.00  Lisibilité 45
+Isso impacta diretamente
+o ambiente de trabalho.
+
+ 585: 10:31:35.21 10:31:38.09  Durée 00:00:02.13  Lisibilité 38
+Como se comportar
+perante os superiores
+
+ 586: 10:31:38.13 10:31:41.19  Durée 00:00:03.06  Lisibilité 49
+se temos a impressão
+de estar sempre sendo avaliado?
+
+ 587: 10:31:41.23 10:31:43.21  Durée 00:00:01.23  Lisibilité 29
+É como uma pressão invisível
+
+ 588: 10:31:44.00 10:31:45.22  Durée 00:00:01.22  Lisibilité 28
+para manterem a cabeça baixa.
+
+ 589: 10:31:46.23 10:31:49.20  Durée 00:00:02.22  Lisibilité 43
+Você diria que há um certo medo?
+
+ 590: 10:31:49.24 10:31:53.05  Durée 00:00:03.06  Lisibilité 49
+Sim. Pensamos:
+"Ainda estarei aqui ano que vem?"
+
+ 591: 10:31:53.09 10:31:56.11  Durée 00:00:03.02  Lisibilité 46
+Porque, finalmente,
+é uma posição frágil.
+
+ 592: 10:31:57.23 10:31:58.19  Durée 00:00:00.21  Lisibilité 13
+Na medida
+
+ 593: 10:31:58.23 10:32:03.00  Durée 00:00:04.02  Lisibilité 61
+em que as pessoas foram bem
+informadas sobre o tipo de contrato
+
+ 594: 10:32:03.04 10:32:04.01  Durée 00:00:00.22  Lisibilité 13
+que assinam,
+
+ 595: 10:32:04.05 10:32:07.02  Durée 00:00:02.22  Lisibilité 43
+parece-nos que elas têm a escolha
+
+ 596: 10:32:07.06 10:32:11.10  Durée 00:00:04.04  Lisibilité 62
+em relação ao tipo de contrato
+
+ 597: 10:32:11.14 10:32:15.21  Durée 00:00:04.07  Lisibilité 64
+que vão aceitar ou não.
+
+ 598: 10:32:18.17 10:32:21.08  Durée 00:00:02.16  Lisibilité 40
+#Aceitar ou recusar um CPD,#
+
+ 599: 10:32:21.19 10:32:23.19  Durée 00:00:02.00  Lisibilité 30
+#só para quem pode dar-se o luxo.#
+
+ 600: 10:32:23.23 10:32:26.09  Durée 00:00:02.11  Lisibilité 37
+#Muitos aceitam por falta de opção.#
+
+ 601: 10:32:26.13 10:32:27.24  Durée 00:00:01.11  Lisibilité 22
+#É o caso de François,#
+
+ 602: 10:32:28.04 10:32:31.22  Durée 00:00:03.18  Lisibilité 56
+#contratado em CPD por outra
+grande instituição pública:#
+
+ 603: 10:32:32.01 10:32:33.01  Durée 00:00:01.00  Lisibilité 15
+#o CHUV.#
+
+ 604: 10:32:33.05 10:32:36.16  Durée 00:00:03.11  Lisibilité 52
+#Com a promessa
+de obter depois um emprego fixo.#
+
+ 605: 10:32:36.20 10:32:39.15  Durée 00:00:02.20  Lisibilité 42
+#Só que no momento
+em que deveria obtê-lo,#
+
+ 606: 10:32:39.19 10:32:42.06  Durée 00:00:02.12  Lisibilité 37
+#seu contrato não foi renovado.#
+
+ 607: 10:32:42.11 10:32:44.11  Durée 00:00:02.00  Lisibilité 30
+Temos sempre medo
+do fim do prazo,
+
+ 608: 10:32:44.15 10:32:46.15  Durée 00:00:02.00  Lisibilité 30
+do fim do ano,
+do fim do contrato.
+
+ 609: 10:32:46.19 10:32:49.19  Durée 00:00:03.00  Lisibilité 45
+Pensamos: "Será que vão
+renovar esse contrato?"
+
+ 610: 10:32:49.23 10:32:52.08  Durée 00:00:02.10  Lisibilité 36
+Então, claro
+que mantemos cabeça baixa.
+
+ 611: 10:32:52.12 10:32:55.14  Durée 00:00:03.02  Lisibilité 46
+Trabalhamos, fazemos horas extras
+sem reclamar.
+
+ 612: 10:32:55.18 10:32:58.06  Durée 00:00:02.13  Lisibilité 38
+Somos conciliantes,
+aceitamos o salário.
+
+ 613: 10:32:59.20 10:33:01.05  Durée 00:00:01.10  Lisibilité 21
+#Pai de família
+de 40 anos#
+
+ 614: 10:33:01.09 10:33:03.19  Durée 00:00:02.10  Lisibilité 36
+#doutor em ciências sociais,#
+
+ 615: 10:33:03.23 10:33:06.02  Durée 00:00:02.04  Lisibilité 32
+#François teve
+4 contratos de 1 ano.#
+
+ 616: 10:33:06.06 10:33:08.08  Durée 00:00:02.02  Lisibilité 31
+#Prova que apreciavam
+seu trabalho.#
+
+ 617: 10:33:08.13 10:33:11.19  Durée 00:00:03.06  Lisibilité 49
+#Mas nunca chegou ao Graal:
+o emprego fixo prometido.#
+
+ 618: 10:33:13.16 10:33:14.18  Durée 00:00:01.02  Lisibilité 16
+#Ele quis falar,#
+
+ 619: 10:33:14.22 10:33:18.08  Durée 00:00:03.11  Lisibilité 52
+#mas para não diminuir suas chances
+de conseguir emprego,#
+
+ 620: 10:33:18.12 10:33:20.10  Durée 00:00:01.23  Lisibilité 29
+#não quer ser reconhecido.#
+
+ 621: 10:33:21.24 10:33:24.09  Durée 00:00:02.10  Lisibilité 36
+Minha chefe atual voltou de férias
+
+ 622: 10:33:24.13 10:33:28.02  Durée 00:00:03.14  Lisibilité 53
+e me disse: "Lamento lhe dizer
+assim brutalmente,
+
+ 623: 10:33:28.06 10:33:30.13  Durée 00:00:02.07  Lisibilité 34
+"mas não vou renovar
+seu contrato."
+
+ 624: 10:33:30.17 10:33:32.08  Durée 00:00:01.16  Lisibilité 25
+Na porta, assim.
+
+ 625: 10:33:32.12 10:33:35.07  Durée 00:00:02.20  Lisibilité 42
+Fiquei extremamente chocado.
+E eu disse a ela:
+
+ 626: 10:33:35.11 10:33:39.04  Durée 00:00:03.18  Lisibilité 56
+"Não é possível.
+O que eu estou fazendo vai continuar.
+
+ 627: 10:33:39.09 10:33:40.04  Durée 00:00:00.20  Lisibilité 12
+"É contínuo."
+
+ 628: 10:33:40.08 10:33:43.00  Durée 00:00:02.17  Lisibilité 40
+Quando ela me disse isso,
+foi como um soco.
+
+ 629: 10:33:43.04 10:33:44.19  Durée 00:00:01.15  Lisibilité 24
+Eu realmente não esperava.
+
+ 630: 10:33:44.23 10:33:49.10  Durée 00:00:04.12  Lisibilité 67
+Comecei a transpirar,
+me senti muito mal, vomitei.
+
+ 631: 10:33:49.14 10:33:52.09  Durée 00:00:02.20  Lisibilité 42
+Fui ao médico, que viu meu estado.
+
+ 632: 10:33:52.13 10:33:54.10  Durée 00:00:01.22  Lisibilité 28
+Eu desabei na frente dele.
+
+ 633: 10:33:55.02 10:33:58.21  Durée 00:00:03.19  Lisibilité 56
+Depois disso você compreende
+em que situação você está.
+
+ 634: 10:33:59.00 10:34:01.06  Durée 00:00:02.06  Lisibilité 34
+Você vê seus filhos
+chegando em casa
+
+ 635: 10:34:01.10 10:34:04.08  Durée 00:00:02.23  Lisibilité 44
+e dizendo:
+"Por que você está sempre em casa?"
+
+ 636: 10:34:04.12 10:34:05.24  Durée 00:00:01.12  Lisibilité 22
+E você explica.
+
+ 637: 10:34:07.16 10:34:09.12  Durée 00:00:01.21  Lisibilité 28
+É extremamente duro.
+
+ 638: 10:34:13.14 10:34:15.01  Durée 00:00:01.12  Lisibilité 22
+#François quer reagir#
+
+ 639: 10:34:15.05 10:34:18.16  Durée 00:00:03.11  Lisibilité 52
+#e marca uma reunião
+no sindicato dos serviços públicos.#
+
+ 640: 10:34:18.20 10:34:22.03  Durée 00:00:03.08  Lisibilité 50
+#Ainda mais que suas atividades
+foram para um colega,#
+
+ 641: 10:34:22.07 10:34:24.05  Durée 00:00:01.23  Lisibilité 29
+#prova que seu trabalho perdura.#
+
+ 642: 10:34:24.09 10:34:28.11  Durée 00:00:04.02  Lisibilité 61
+#Ainda por cima,
+a equipe ganhou mais gente em CPD.#
+
+ 643: 10:34:29.05 10:34:30.11  Durée 00:00:01.06  Lisibilité 19
+Você mesmo sabia
+
+ 644: 10:34:30.15 10:34:34.20  Durée 00:00:04.05  Lisibilité 63
+que estava no número exato
+de prorrogações máximas de CPD
+
+ 645: 10:34:35.00 10:34:38.10  Durée 00:00:03.10  Lisibilité 51
+para o empregador. Ele não pode
+lhe fazer um novo CPD.
+
+ 646: 10:34:38.15 10:34:41.15  Durée 00:00:03.00  Lisibilité 45
+Nem mais um dia.
+Vira automaticamente um CPI.
+
+ 647: 10:34:41.20 10:34:43.04  Durée 00:00:01.09  Lisibilité 20
+Minha chefe sabia.
+
+ 648: 10:34:43.08 10:34:44.21  Durée 00:00:01.13  Lisibilité 23
+Talvez ela não soubesse
+
+ 649: 10:34:45.01 10:34:47.15  Durée 00:00:02.14  Lisibilité 38
+quando me disse:
+"mantenho você até 2018."
+
+ 650: 10:34:47.20 10:34:51.16  Durée 00:00:03.21  Lisibilité 58
+Depois ela analisou
+um pouco melhor as coisas
+
+ 651: 10:34:51.20 10:34:55.02  Durée 00:00:03.07  Lisibilité 49
+e se tocou se ela prorrogasse
+
+ 652: 10:34:55.06 10:34:58.07  Durée 00:00:03.01  Lisibilité 46
+com um novo CPD,
+você entraria em CPI.
+
+ 653: 10:34:58.11 10:35:01.17  Durée 00:00:03.06  Lisibilité 49
+Ela percebeu
+e encerrou o contrato.
+
+ 654: 10:35:02.24 10:35:05.03  Durée 00:00:02.04  Lisibilité 32
+Ter 4 contratos
+por prazo determinado
+
+ 655: 10:35:05.07 10:35:07.23  Durée 00:00:02.16  Lisibilité 40
+e não ter a proposta
+de um indeterminado
+
+ 656: 10:35:08.02 10:35:09.16  Durée 00:00:01.14  Lisibilité 23
+é legal?
+
+ 657: 10:35:10.13 10:35:12.23  Durée 00:00:02.10  Lisibilité 36
+"Se é legal?" Sim.
+
+ 658: 10:35:13.21 10:35:15.22  Durée 00:00:02.01  Lisibilité 31
+Se é justo? Não.
+
+ 659: 10:35:16.02 10:35:19.03  Durée 00:00:03.01  Lisibilité 46
+Se você levasse o caso a um juiz,
+o que ele diria?
+
+ 660: 10:35:19.07 10:35:20.23  Durée 00:00:01.16  Lisibilité 25
+Que desperdiçamos
+seu tempo.
+
+ 661: 10:35:21.02 10:35:24.15  Durée 00:00:03.13  Lisibilité 53
+Ele teve 4 CPD
+no período máximo legal.
+
+ 662: 10:35:24.19 10:35:28.06  Durée 00:00:03.12  Lisibilité 52
+Ele mostrará o artigo da lei
+e que é desperdício de tempo.
+
+ 663: 10:35:28.10 10:35:30.11  Durée 00:00:02.01  Lisibilité 31
+"Você está aqui para pedir algo
+
+ 664: 10:35:30.15 10:35:32.20  Durée 00:00:02.05  Lisibilité 33
+"que sabe que não procede."
+
+ 665: 10:35:32.24 10:35:35.14  Durée 00:00:02.15  Lisibilité 39
+O empregador fez
+o que tem direito de fazer.
+
+ 666: 10:35:36.22 10:35:38.03  Durée 00:00:01.06  Lisibilité 19
+#O CHUV nos disse#
+
+ 667: 10:35:38.07 10:35:41.06  Durée 00:00:02.24  Lisibilité 44
+#que 500 empregados
+têm o mesmo contrato#
+
+ 668: 10:35:41.10 10:35:42.14  Durée 00:00:01.04  Lisibilité 17
+#que François,#
+
+ 669: 10:35:42.18 10:35:46.24  Durée 00:00:04.06  Lisibilité 64
+#mas que isso só representa 4%
+dos contratos, ou seja, a exceção.#
+
+ 670: 10:35:47.03 10:35:49.15  Durée 00:00:02.12  Lisibilité 37
+#Também invocam
+os famosos fundos externos#
+
+ 671: 10:35:49.19 10:35:52.17  Durée 00:00:02.23  Lisibilité 44
+#para justificar
+um contrato de tempo limitado.#
+
+ 672: 10:35:54.01 10:35:56.11  Durée 00:00:02.10  Lisibilité 36
+#Exceção que no mundo do trabalho#
+
+ 673: 10:35:56.15 10:35:57.15  Durée 00:00:01.00  Lisibilité 15
+#ganha terreno#
+
+ 674: 10:35:57.19 10:36:00.21  Durée 00:00:03.02  Lisibilité 46
+#e que tem consequências
+concretas no cotidiano.#
+
+ 675: 10:36:01.00 10:36:03.16  Durée 00:00:02.16  Lisibilité 40
+#Por exemplo,
+para pedir empréstimo no banco#
+
+ 676: 10:36:03.21 10:36:06.04  Durée 00:00:02.08  Lisibilité 35
+#ou simplesmente
+para conseguir moradia.#
+
+ 677: 10:36:08.14 10:36:10.09  Durée 00:00:01.20  Lisibilité 27
+Ouvi dizer que há uma agência
+
+ 678: 10:36:10.13 10:36:13.06  Durée 00:00:02.18  Lisibilité 41
+para funcionários públicos
+com aluguéis baixos.
+
+ 679: 10:36:13.11 10:36:17.18  Durée 00:00:04.07  Lisibilité 64
+Telefonei para lá
+e eles logo me responderam
+
+ 680: 10:36:17.22 10:36:21.13  Durée 00:00:03.16  Lisibilité 55
+que só aceitavam gente com contrato
+por prazo indeterminado.
+
+ 681: 10:36:21.18 10:36:25.10  Durée 00:00:03.17  Lisibilité 55
+É muito paradoxal,
+já que o EPFL
+contrata seus funcionários
+
+ 682: 10:36:25.14 10:36:28.07  Durée 00:00:02.18  Lisibilité 41
+com contratos precários.
+
+ 683: 10:36:28.11 10:36:31.19  Durée 00:00:03.08  Lisibilité 50
+E em paralelo, a agência
+dos empregados da Confederação
+
+ 684: 10:36:31.24 10:36:36.04  Durée 00:00:04.05  Lisibilité 63
+não quer oferecer apartamentos
+a esses mesmos funcionários.
+
+ 685: 10:36:36.08 10:36:39.07  Durée 00:00:02.24  Lisibilité 44
+Continuei procurando em Lausanne,
+
+ 686: 10:36:39.11 10:36:44.08  Durée 00:00:04.22  Lisibilité 73
+mas muitas agências imobiliárias
+exigem o contrato de trabalho
+
+ 687: 10:36:44.13 10:36:45.10  Durée 00:00:00.22  Lisibilité 13
+e eu acho
+
+ 688: 10:36:45.14 10:36:47.24  Durée 00:00:02.10  Lisibilité 36
+que é um problema,
+pois procurei uns meses
+
+ 689: 10:36:48.03 10:36:49.23  Durée 00:00:01.20  Lisibilité 27
+e acabei desistindo.
+
+ 690: 10:36:50.11 10:36:54.11  Durée 00:00:04.00  Lisibilité 60
+Acho que meu contrato teve
+um efeito negativo na minha procura.
+
+ 691: 10:36:55.14 10:36:57.03  Durée 00:00:01.14  Lisibilité 23
+Achei um meio-termo.
+
+ 692: 10:36:57.07 10:36:59.09  Durée 00:00:02.02  Lisibilité 31
+Moro com a minha mãe,
+na verdade,
+
+ 693: 10:36:59.14 10:37:04.05  Durée 00:00:04.16  Lisibilité 70
+e montei uma residência secundária
+num camping
+
+ 694: 10:37:04.09 10:37:09.03  Durée 00:00:04.19  Lisibilité 71
+para ter uma escapatória,
+um refúgio simpático também para mim.
+
+ 695: 10:37:10.08 10:37:13.01  Durée 00:00:02.18  Lisibilité 41
+Posso fazer uma pergunta?
+Que idade você tem?
+
+ 696: 10:37:13.05 10:37:15.02  Durée 00:00:01.22  Lisibilité 28
+Hoje tenho 37 anos.
+
+ 697: 10:37:16.12 10:37:20.22  Durée 00:00:04.10  Lisibilité 66
+O recurso ao CPD no serviço público
+é a nova tendência?
+
+ 698: 10:37:21.01 10:37:24.10  Durée 00:00:03.09  Lisibilité 50
+Isso causa muitos problemas.
+É a nova tendência.
+
+ 699: 10:37:24.14 10:37:28.00  Durée 00:00:03.11  Lisibilité 52
+É também o resultado
+das discussões no Parlamento
+
+ 700: 10:37:28.04 10:37:29.18  Durée 00:00:01.14  Lisibilité 23
+e das eleições.
+
+ 701: 10:37:29.22 10:37:32.08  Durée 00:00:02.11  Lisibilité 37
+Devemos fazer
+o elo entre quem elegemos
+
+ 702: 10:37:32.12 10:37:36.04  Durée 00:00:03.17  Lisibilité 55
+e quem decide depois
+os orçamentos, as leis
+
+ 703: 10:37:36.08 10:37:37.20  Durée 00:00:01.12  Lisibilité 22
+e os contratos.
+
+ 704: 10:37:37.24 10:37:39.02  Durée 00:00:01.03  Lisibilité 17
+#Palavra de militante.#
+
+ 705: 10:37:40.16 10:37:42.18  Durée 00:00:02.02  Lisibilité 31
+#Temos de constatar
+que o serviço público#
+
+ 706: 10:37:42.22 10:37:45.18  Durée 00:00:02.21  Lisibilité 43
+#foi tomado
+pelos métodos do setor privado.#
+
+ 707: 10:37:48.01 10:37:52.19  Durée 00:00:04.18  Lisibilité 71
+Para o sindicalista, ficamos
+no âmbito legal# stricto sensu#.
+
+ 708: 10:37:52.23 10:37:54.07  Durée 00:00:01.09  Lisibilité 20
+Um âmbito ético?
+
+ 709: 10:37:54.11 10:37:58.15  Durée 00:00:04.04  Lisibilité 62
+Não. Ele disse que realmente
+era revoltante. É lógico.
+
+ 710: 10:37:58.19 10:38:01.16  Durée 00:00:02.22  Lisibilité 43
+Legalmente,
+não há muito o que fazer.
+
+ 711: 10:38:01.21 10:38:04.21  Durée 00:00:03.00  Lisibilité 45
+Não posso imaginar
+que numa instituição dessas
+
+ 712: 10:38:05.00 10:38:07.05  Durée 00:00:02.05  Lisibilité 33
+possam deixar gente
+nessa situação.
+
+ 713: 10:38:07.10 10:38:09.11  Durée 00:00:02.01  Lisibilité 31
+Se ele faz um bom trabalho,
+
+ 714: 10:38:09.15 10:38:12.13  Durée 00:00:02.23  Lisibilité 44
+não é do interesse deles
+dispensá-lo.
+
+ 715: 10:38:12.18 10:38:14.14  Durée 00:00:01.21  Lisibilité 28
+É absurdo. Não faz sentido.
+
+ 716: 10:38:14.18 10:38:17.09  Durée 00:00:02.16  Lisibilité 40
+Seu marido fechou contrato
+por prazo determinado,
+
+ 717: 10:38:17.13 10:38:20.04  Durée 00:00:02.16  Lisibilité 40
+então ele aceitou
+as regras do jogo.
+
+ 718: 10:38:20.08 10:38:23.06  Durée 00:00:02.23  Lisibilité 44
+Podiam ser as regras do jogo
+pelo enfoque legal,
+
+ 719: 10:38:23.10 10:38:25.12  Durée 00:00:02.02  Lisibilité 31
+mas quando a vaga
+estava em concurso
+
+ 720: 10:38:25.16 10:38:26.11  Durée 00:00:00.20  Lisibilité 12
+não era em CPD,
+
+ 721: 10:38:26.15 10:38:29.23  Durée 00:00:03.08  Lisibilité 50
+era uma vaga de contrato
+por prazo indeterminado.
+
+ 722: 10:38:30.02 10:38:33.08  Durée 00:00:03.06  Lisibilité 49
+Quando ele recebeu o 1º CPD,
+lembro que ficou surpreso.
+
+ 723: 10:38:33.12 10:38:35.17  Durée 00:00:02.05  Lisibilité 33
+A chefe dele da época disse
+
+ 724: 10:38:35.21 10:38:37.06  Durée 00:00:01.10  Lisibilité 21
+que era uma formalidade,
+
+ 725: 10:38:37.10 10:38:39.24  Durée 00:00:02.14  Lisibilité 38
+que todo mundo passou por isso,
+
+ 726: 10:38:40.03 10:38:42.10  Durée 00:00:02.07  Lisibilité 34
+que todas as pessoas
+que estavam em CPI
+
+ 727: 10:38:42.14 10:38:44.16  Durée 00:00:02.02  Lisibilité 31
+tinham passado pelo CPD.
+
+ 728: 10:38:44.20 10:38:47.16  Durée 00:00:02.21  Lisibilité 43
+Era a prática,
+era normal, era assim.
+
+ 729: 10:38:49.14 10:38:51.13  Durée 00:00:01.24  Lisibilité 29
+Tenho muitas dúvidas.
+Estou farto.
+
+ 730: 10:38:51.17 10:38:56.01  Durée 00:00:04.09  Lisibilité 65
+Será que afinal
+sou eu que não sou normal?
+
+ 731: 10:38:56.06 10:38:58.13  Durée 00:00:02.07  Lisibilité 34
+Eu me dediquei a fundo
+nesse trabalho.
+
+ 732: 10:38:58.17 10:39:01.16  Durée 00:00:02.24  Lisibilité 44
+Não hesitei em fazer hora extra
+durante 4 anos.
+
+ 733: 10:39:02.14 10:39:05.06  Durée 00:00:02.17  Lisibilité 40
+Eu trabalhava muito
+e tinha fé no meu trabalho.
+
+ 734: 10:39:05.11 10:39:09.19  Durée 00:00:04.08  Lisibilité 65
+Espero que eles se toquem
+dos estragos que causam.
+
+ 735: 10:39:10.16 10:39:11.16  Durée 00:00:01.00  Lisibilité 15
+Estou cansado.
+
+ 736: 10:39:13.03 10:39:16.00  Durée 00:00:02.22  Lisibilité 43
+#O próprio princípio do CPD
+para um cargo perene#
+
+ 737: 10:39:16.04 10:39:18.05  Durée 00:00:02.01  Lisibilité 31
+#chama atenção pela brutalidade.#
+
+ 738: 10:39:19.00 10:39:22.14  Durée 00:00:03.14  Lisibilité 53
+#Os contratos por prazo determinado
+são a nova realidade,#
+
+ 739: 10:39:22.18 10:39:27.02  Durée 00:00:04.09  Lisibilité 65
+#com funcionários precarizados
+que substituem outros precários.#
+
+ 740: 10:39:32.08 10:39:34.10  Durée 00:00:02.02  Lisibilité 31
+#Estamos na região de Lausanne.#
+
+ 741: 10:39:34.14 10:39:38.22  Durée 00:00:04.08  Lisibilité 65
+#A Helvetia Environnement comprou
+a SRS, empresa de limpeza urbana.#
+
+ 742: 10:39:39.02 10:39:40.16  Durée 00:00:01.14  Lisibilité 23
+#Consequência da compra:#
+
+ 743: 10:39:40.20 10:39:42.05  Durée 00:00:01.10  Lisibilité 21
+#novos contratos.#
+
+ 744: 10:39:42.09 10:39:44.08  Durée 00:00:01.24  Lisibilité 29
+#Aqui os salários não baixaram.#
+
+ 745: 10:39:44.12 10:39:48.06  Durée 00:00:03.19  Lisibilité 56
+#A questão central é a desvalorização
+da previdência profissional.#
+
+ 746: 10:39:48.11 10:39:52.06  Durée 00:00:03.20  Lisibilité 57
+#Esses empregados apelaram
+para o sindicato para resistir.#
+
+ 747: 10:39:52.10 10:39:56.17  Durée 00:00:04.07  Lisibilité 64
+#Eles vão se encontrar para participar
+de uma nova assembleia geral.#
+
+ 748: 10:39:56.21 10:40:01.12  Durée 00:00:04.16  Lisibilité 70
+Agora, a LPP... Está claro
+que não avançamos nada.
+
+ 749: 10:40:01.16 10:40:03.03  Durée 00:00:01.12  Lisibilité 22
+É um grande problema.
+
+ 750: 10:40:03.08 10:40:05.05  Durée 00:00:01.22  Lisibilité 28
+A questão da previdência
+é primordial
+
+ 751: 10:40:05.09 10:40:08.19  Durée 00:00:03.10  Lisibilité 51
+porque a diminuição que vocês
+vão sofrer é significativa.
+
+ 752: 10:40:09.05 10:40:11.08  Durée 00:00:02.03  Lisibilité 32
+Se abandonarmos
+
+ 753: 10:40:11.13 10:40:14.07  Durée 00:00:02.19  Lisibilité 41
+a organização coletiva
+que conseguimos criar,
+
+ 754: 10:40:14.11 10:40:16.23  Durée 00:00:02.12  Lisibilité 37
+vai complicar
+defender sua aposentadoria
+
+ 755: 10:40:17.02 10:40:19.17  Durée 00:00:02.15  Lisibilité 39
+nos próximos anos
+na Helvetia Environnement.
+
+ 756: 10:40:19.21 10:40:21.13  Durée 00:00:01.17  Lisibilité 25
+Vai ser muito complicado.
+
+ 757: 10:40:22.21 10:40:25.17  Durée 00:00:02.21  Lisibilité 43
+#É difícil para eles
+aceitar nossa câmera#
+
+ 758: 10:40:25.21 10:40:28.11  Durée 00:00:02.15  Lisibilité 39
+#por medo de represálias
+do empregador.#
+
+ 759: 10:40:29.18 10:40:33.04  Durée 00:00:03.11  Lisibilité 52
+#Enfim, eles decidiram
+tornar público o que estão passando.#
+
+ 760: 10:40:33.09 10:40:35.04  Durée 00:00:01.20  Lisibilité 27
+Temos de lutar por coisas
+
+ 761: 10:40:35.08 10:40:38.21  Durée 00:00:03.13  Lisibilité 53
+das quais não deveríamos
+nem ter dúvidas.
+
+ 762: 10:40:39.00 10:40:43.05  Durée 00:00:04.05  Lisibilité 63
+Estamos no nosso direito e devemos
+nos orgulhar do que fazemos.
+
+ 763: 10:40:43.10 10:40:44.10  Durée 00:00:01.00  Lisibilité 15
+Com certeza.
+
+ 764: 10:40:44.14 10:40:47.00  Durée 00:00:02.11  Lisibilité 37
+Qual foi sua reação
+quando você descobriu
+
+ 765: 10:40:47.05 10:40:49.16  Durée 00:00:02.11  Lisibilité 37
+o novo contrato
+que eles propunham?
+
+ 766: 10:40:49.20 10:40:51.01  Durée 00:00:01.06  Lisibilité 19
+Então...
+
+ 767: 10:40:51.05 10:40:53.04  Durée 00:00:01.24  Lisibilité 29
+1º, o salário de base
+não mudou,
+
+ 768: 10:40:53.08 10:40:55.07  Durée 00:00:01.24  Lisibilité 29
+então OK, parece o mínimo,
+
+ 769: 10:40:55.11 10:40:57.09  Durée 00:00:01.23  Lisibilité 29
+ainda bem que tínhamos isso.
+
+ 770: 10:40:57.13 10:40:59.00  Durée 00:00:01.12  Lisibilité 22
+E aí nos tocamos
+
+ 771: 10:40:59.04 10:41:01.05  Durée 00:00:02.01  Lisibilité 31
+com os comparativos
+que nos deram
+
+ 772: 10:41:01.09 10:41:04.08  Durée 00:00:02.24  Lisibilité 44
+que notadamente para a previdência,
+
+ 773: 10:41:04.12 10:41:07.08  Durée 00:00:02.21  Lisibilité 43
+no meu caso, pode significar
+na aposentadoria
+
+ 774: 10:41:07.12 10:41:11.07  Durée 00:00:03.20  Lisibilité 57
+algo como 400 francos
+a menos de renda por mês.
+
+ 775: 10:41:11.11 10:41:15.21  Durée 00:00:04.10  Lisibilité 66
+Então é simplesmente inaceitável.
+Não tem por quê.
+
+ 776: 10:41:16.00 10:41:17.08  Durée 00:00:01.08  Lisibilité 20
+É uma punição.
+
+ 777: 10:41:17.12 10:41:20.10  Durée 00:00:02.23  Lisibilité 44
+Não fomos punidos
+porque fomos comprados.
+
+ 778: 10:41:21.12 10:41:24.21  Durée 00:00:03.09  Lisibilité 50
+#Manter conquistas é difícil
+quando o Estado é legalmente#
+
+ 779: 10:41:25.00 10:41:28.12  Durée 00:00:03.12  Lisibilité 52
+#obrigado a fazer licitações
+para fazer economias.#
+
+ 780: 10:41:28.16 10:41:31.19  Durée 00:00:03.03  Lisibilité 47
+#Pierre-Olivier questiona
+o fundamento dessa lei#
+
+ 781: 10:41:31.23 10:41:34.15  Durée 00:00:02.17  Lisibilité 40
+#que tem efeitos perversos
+para os empregados.#
+
+ 782: 10:41:34.19 10:41:36.10  Durée 00:00:01.16  Lisibilité 25
+O argumento principal deles
+
+ 783: 10:41:36.14 10:41:39.17  Durée 00:00:03.03  Lisibilité 47
+para dizer que não podem pagar
+um bom plano de previdência
+
+ 784: 10:41:39.21 10:41:42.04  Durée 00:00:02.08  Lisibilité 35
+é que o mercado
+é cada vez mais duro.
+
+ 785: 10:41:42.09 10:41:46.06  Durée 00:00:03.22  Lisibilité 58
+Talvez seja uma situação induzida
+por essa lei das licitações
+
+ 786: 10:41:46.10 10:41:48.07  Durée 00:00:01.22  Lisibilité 28
+que faz com que a cada 5 anos
+
+ 787: 10:41:48.12 10:41:52.16  Durée 00:00:04.04  Lisibilité 62
+um município pode fazer licitações
+para seus diversos serviços
+
+ 788: 10:41:52.20 10:41:56.04  Durée 00:00:03.09  Lisibilité 50
+o que necessariamente
+puxa os preços para baixo.
+
+ 789: 10:41:58.21 10:42:01.13  Durée 00:00:02.17  Lisibilité 40
+Eles podem dizer:
+"Para vocês contribuintes,
+
+ 790: 10:42:01.17 10:42:04.03  Durée 00:00:02.11  Lisibilité 37
+"encontrei uma empresa
+de coleta de lixo
+
+ 791: 10:42:04.07 10:42:06.21  Durée 00:00:02.14  Lisibilité 38
+"que é vantajosa,
+mais barata que a outra.
+
+ 792: 10:42:07.00 10:42:08.03  Durée 00:00:01.03  Lisibilité 17
+"Fiquem contentes."
+
+ 793: 10:42:08.08 10:42:10.24  Durée 00:00:02.16  Lisibilité 40
+Infelizmente,
+sem considerar muito
+
+ 794: 10:42:11.03 10:42:14.10  Durée 00:00:03.07  Lisibilité 49
+que isso acaba influenciando
+essencialmente o salário
+
+ 795: 10:42:14.14 10:42:16.23  Durée 00:00:02.09  Lisibilité 35
+e as condições de trabalho
+do pessoal.
+
+ 796: 10:42:22.00 10:42:25.09  Durée 00:00:03.09  Lisibilité 50
+#A preocupação principal
+é em torno da aposentadoria,#
+
+ 797: 10:42:25.14 10:42:28.01  Durée 00:00:02.12  Lisibilité 37
+#mas não é a única perda.#
+
+ 798: 10:42:28.05 10:42:31.08  Durée 00:00:03.03  Lisibilité 47
+#Bônus por tempo de serviço e folgas
+também diminuem.#
+
+ 799: 10:42:31.13 10:42:33.14  Durée 00:00:02.01  Lisibilité 31
+#Além disso, inicialmente,
+era previsto#
+
+ 800: 10:42:33.18 10:42:37.18  Durée 00:00:04.00  Lisibilité 60
+#que o tempo de trabalho
+aumentasse de 45 a 46 horas.#
+
+ 801: 10:42:40.01 10:42:42.06  Durée 00:00:02.05  Lisibilité 33
+#Procurada, a direção da Helvetia#
+
+ 802: 10:42:42.10 10:42:44.23  Durée 00:00:02.13  Lisibilité 38
+#recusou-se a nos dar entrevista.#
+
+ 803: 10:42:45.02 10:42:48.03  Durée 00:00:03.01  Lisibilité 46
+#Mas ela respondeu por e-mail
+às nossas perguntas.#
+
+ 804: 10:42:49.07 10:42:53.07  Durée 00:00:04.00  Lisibilité 60
+#"É importante salientar
+que nenhuma demissão ocorreu.#
+
+ 805: 10:42:53.11 10:42:54.06  Durée 00:00:00.20  Lisibilité 12
+#"Posso garantir#
+
+ 806: 10:42:54.10 10:42:57.12  Durée 00:00:03.02  Lisibilité 46
+#"que as condições contratuais
+dos colaboradores da SRS#
+
+ 807: 10:42:57.16 10:42:59.09  Durée 00:00:01.18  Lisibilité 26
+#"só mudarão marginalmente.#
+
+ 808: 10:43:00.22 10:43:03.09  Durée 00:00:02.12  Lisibilité 37
+#"Por esses elementos,
+falar em precarização#
+
+ 809: 10:43:03.13 10:43:06.21  Durée 00:00:03.08  Lisibilité 50
+#"dentro da nossa empresa
+parece difamatório."#
+
+ 810: 10:43:07.01 10:43:09.01  Durée 00:00:02.00  Lisibilité 30
+#Pode-se realmente
+falar de diferença marginal?#
+
+ 811: 10:43:09.05 10:43:11.07  Durée 00:00:02.02  Lisibilité 31
+#Isto é, de diferença mínima?#
+
+ 812: 10:43:11.11 10:43:13.06  Durée 00:00:01.20  Lisibilité 27
+#Não é o ponto de vista#
+
+ 813: 10:43:13.10 10:43:16.07  Durée 00:00:02.22  Lisibilité 43
+#dos empregados afetados
+pela mudança de contrato.#
+
+ 814: 10:43:16.12 10:43:18.05  Durée 00:00:01.18  Lisibilité 26
+Desdo o começo nos disseram
+
+ 815: 10:43:18.09 10:43:19.18  Durée 00:00:01.09  Lisibilité 20
+que isso não ia mudar.
+
+ 816: 10:43:19.22 10:43:23.13  Durée 00:00:03.16  Lisibilité 55
+Até pregaram circulares
+nos escritórios dizendo
+
+ 817: 10:43:23.17 10:43:24.20  Durée 00:00:01.03  Lisibilité 17
+que nada mudaria.
+
+ 818: 10:43:24.24 10:43:27.04  Durée 00:00:02.05  Lisibilité 33
+Mas finalmente não,
+
+ 819: 10:43:27.08 10:43:29.12  Durée 00:00:02.04  Lisibilité 32
+levamos um grande choque
+
+ 820: 10:43:29.16 10:43:32.14  Durée 00:00:02.23  Lisibilité 44
+em relação
+a nossas condições gerais.
+
+ 821: 10:43:32.18 10:43:34.13  Durée 00:00:01.20  Lisibilité 27
+É a operação financeira
+típica
+
+ 822: 10:43:34.17 10:43:36.18  Durée 00:00:02.01  Lisibilité 31
+de um concorrente
+que come o outro
+
+ 823: 10:43:36.22 10:43:40.19  Durée 00:00:03.22  Lisibilité 58
+com a pejoração do pessoal
+"comprado", por assim dizer.
+
+ 824: 10:43:40.23 10:43:43.00  Durée 00:00:02.02  Lisibilité 31
+É também uma intenção
+
+ 825: 10:43:43.04 10:43:46.08  Durée 00:00:03.04  Lisibilité 47
+de maximizar o lucro
+em cima dos mais fracos.
+
+ 826: 10:43:46.13 10:43:48.13  Durée 00:00:02.00  Lisibilité 30
+Infelizmente,
+isso está dominando
+
+ 827: 10:43:48.17 10:43:50.12  Durée 00:00:01.20  Lisibilité 27
+nossa boa e velha Suíça.
+
+ 828: 10:43:51.07 10:43:54.06  Durée 00:00:02.24  Lisibilité 44
+#"Sobre os planos de previdência,
+quero dizer#
+
+ 829: 10:43:54.10 10:43:55.23  Durée 00:00:01.13  Lisibilité 23
+#"que os das nossas empresas#
+
+ 830: 10:43:56.02 10:43:58.24  Durée 00:00:02.22  Lisibilité 43
+#"vão além
+da cobertura obrigatória."#
+
+ 831: 10:43:59.03 10:44:02.14  Durée 00:00:03.11  Lisibilité 52
+#Se a Helvetia respeita
+a cobertura obrigatória,#
+
+ 832: 10:44:02.18 10:44:04.20  Durée 00:00:02.02  Lisibilité 31
+#no final
+os empregados perdem,#
+
+ 833: 10:44:04.24 10:44:07.24  Durée 00:00:03.00  Lisibilité 45
+#já que sua situação
+era melhor antes da compra.#
+
+ 834: 10:44:08.14 10:44:10.12  Durée 00:00:01.23  Lisibilité 29
+#Os empregados não conseguiram#
+
+ 835: 10:44:10.16 10:44:13.01  Durée 00:00:02.10  Lisibilité 36
+#manter seu antigo
+plano de previdência,#
+
+ 836: 10:44:13.05 10:44:16.18  Durée 00:00:03.13  Lisibilité 53
+#mas sua mobilização permitiu
+minimizar o desastre.#
+
+ 837: 10:44:16.22 10:44:19.20  Durée 00:00:02.23  Lisibilité 44
+É uma tendência
+que não é só suíça.
+
+ 838: 10:44:19.24 10:44:21.23  Durée 00:00:01.24  Lisibilité 29
+É da Europa,
+de outros países,
+
+ 839: 10:44:22.02 10:44:23.23  Durée 00:00:01.21  Lisibilité 28
+mesmo fora da Europa.
+
+ 840: 10:44:24.02 10:44:25.03  Durée 00:00:01.01  Lisibilité 16
+Tendência de precarização
+
+ 841: 10:44:25.07 10:44:28.16  Durée 00:00:03.09  Lisibilité 50
+no sentido de exigir
+cada vez mais dos empregados
+
+ 842: 10:44:28.20 10:44:32.00  Durée 00:00:03.05  Lisibilité 48
+e, é evidente,
+com cada vez menos vantagens.
+
+ 843: 10:44:32.05 10:44:34.20  Durée 00:00:02.15  Lisibilité 39
+Os empregadores são organizados
+
+ 844: 10:44:34.24 10:44:36.21  Durée 00:00:01.22  Lisibilité 28
+de modo a poder sempre tentar
+
+ 845: 10:44:37.00 10:44:39.23  Durée 00:00:02.23  Lisibilité 44
+tirar o máximo de lucro
+das instituições
+
+ 846: 10:44:40.02 10:44:41.24  Durée 00:00:01.22  Lisibilité 28
+e das regulamentações.
+
+ 847: 10:44:42.03 10:44:46.01  Durée 00:00:03.23  Lisibilité 59
+Na maioria dos casos,
+eles estão na legalidade,
+
+ 848: 10:44:46.05 10:44:50.10  Durée 00:00:04.05  Lisibilité 63
+mas usam essa legalidade
+para sua vantagem,
+
+ 849: 10:44:50.14 10:44:53.20  Durée 00:00:03.06  Lisibilité 49
+ou seja, para poder tirar
+o máximo de lucro.
+
+ 850: 10:45:00.16 10:45:03.01  Durée 00:00:02.10  Lisibilité 36
+#Em Berna, os entregadores#
+
+ 851: 10:45:03.05 10:45:05.19  Durée 00:00:02.14  Lisibilité 38
+#acabaram apelando
+para um sindicato.#
+
+ 852: 10:45:09.02 10:45:11.05  Durée 00:00:02.03  Lisibilité 32
+#Se agora se reúnem regularmente#
+
+ 853: 10:45:11.09 10:45:13.16  Durée 00:00:02.07  Lisibilité 34
+#para discutir
+as condições de trabalho,#
+
+ 854: 10:45:13.20 10:45:15.20  Durée 00:00:02.00  Lisibilité 30
+#isso não foi simples.#
+
+ 855: 10:45:16.00 10:45:17.19  Durée 00:00:01.19  Lisibilité 26
+#Trabalhando num aplicativo,#
+
+ 856: 10:45:17.23 10:45:19.19  Durée 00:00:01.21  Lisibilité 28
+#os entregadores não se viam.#
+
+ 857: 10:45:19.23 10:45:22.17  Durée 00:00:02.19  Lisibilité 41
+#Não há onde se encontrar.
+Cada um na sua bolha#
+
+ 858: 10:45:22.21 10:45:24.10  Durée 00:00:01.14  Lisibilité 23
+#com horários variados.#
+
+ 859: 10:45:24.15 10:45:28.03  Durée 00:00:03.13  Lisibilité 53
+#Conseguir criar esse movimento
+foi um desafio.#
+
+ 860: 10:45:32.23 10:45:34.10  Durée 00:00:01.12  Lisibilité 22
+Os entregadores deram
+
+ 861: 10:45:34.14 10:45:38.10  Durée 00:00:03.21  Lisibilité 58
+claramente mandato
+a nosso sindicato para negociar.
+
+ 862: 10:45:39.24 10:45:41.21  Durée 00:00:01.22  Lisibilité 28
+Nós procuramos a empresa.
+
+ 863: 10:45:44.08 10:45:46.21  Durée 00:00:02.13  Lisibilité 38
+Recebemos uma ligação da empresa
+
+ 864: 10:45:47.00 10:45:51.00  Durée 00:00:04.00  Lisibilité 60
+que disse que definitivamente
+ela não queria falar com a UNIA.
+
+ 865: 10:45:53.21 10:45:56.10  Durée 00:00:02.14  Lisibilité 38
+Os entregadores da Notime
+então se reuniram
+
+ 866: 10:45:56.14 10:45:59.02  Durée 00:00:02.13  Lisibilité 38
+para resolver o problema
+com o empregador.
+
+ 867: 10:46:00.22 10:46:01.18  Durée 00:00:00.21  Lisibilité 13
+Desde o começo,
+
+ 868: 10:46:01.22 10:46:05.20  Durée 00:00:03.23  Lisibilité 59
+essa empresa foi fortemente hostil
+com o sindicato.
+
+ 869: 10:46:11.17 10:46:14.02  Durée 00:00:02.10  Lisibilité 36
+Ficamos irritados
+com a atitude da UNIA.
+
+ 870: 10:46:15.21 10:46:17.16  Durée 00:00:01.20  Lisibilité 27
+Entendemos
+que nossos entregadores
+
+ 871: 10:46:17.20 10:46:19.18  Durée 00:00:01.23  Lisibilité 29
+contactaram o sindicato.
+
+ 872: 10:46:21.13 10:46:22.14  Durée 00:00:01.01  Lisibilité 16
+Organizar-se, OK,
+
+ 873: 10:46:22.18 10:46:25.14  Durée 00:00:02.21  Lisibilité 43
+que aconselho,
+mas não vimos motivo algum
+
+ 874: 10:46:25.18 10:46:28.08  Durée 00:00:02.15  Lisibilité 39
+para nos sentar e negociar
+com a UNIA.
+
+ 875: 10:46:29.11 10:46:31.24  Durée 00:00:02.13  Lisibilité 38
+Discutimos melhor
+com nossos entregadores
+
+ 876: 10:46:32.03 10:46:34.12  Durée 00:00:02.09  Lisibilité 35
+que com a UNIA.
+
+ 877: 10:46:36.21 10:46:39.03  Durée 00:00:02.07  Lisibilité 34
+#Desde 1º de outubro de 2017,#
+
+ 878: 10:46:39.07 10:46:41.07  Durée 00:00:02.00  Lisibilité 30
+#os entregadores
+têm um novo contrato#
+
+ 879: 10:46:41.11 10:46:44.17  Durée 00:00:03.06  Lisibilité 49
+#em que agora são reconhecidos
+como empregados.#
+
+ 880: 10:46:44.21 10:46:48.07  Durée 00:00:03.11  Lisibilité 52
+#Mas as cotização sociais anteriores
+ainda estão vagas.#
+
+ 881: 10:46:51.09 10:46:52.14  Durée 00:00:01.05  Lisibilité 18
+O que seria bom
+
+ 882: 10:46:52.18 10:46:55.06  Durée 00:00:02.13  Lisibilité 38
+é que cada um ache
+um extrato individual
+
+ 883: 10:46:55.10 10:46:58.12  Durée 00:00:03.02  Lisibilité 46
+de seu seguro social para saber
+
+ 884: 10:46:58.17 10:47:02.05  Durée 00:00:03.13  Lisibilité 53
+o que aconteceu com a AVS
+nos últimos 5 anos.
+
+ 885: 10:47:03.20 10:47:07.14  Durée 00:00:03.19  Lisibilité 56
+A mesma coisa com os seguros
+de perda de renda e acidente.
+
+ 886: 10:47:07.18 10:47:11.20  Durée 00:00:04.02  Lisibilité 61
+Próxima etapa: vocês devem obter
+comprovantes de salários,
+
+ 887: 10:47:11.24 10:47:15.03  Durée 00:00:03.04  Lisibilité 47
+pois muitos de vocês
+têm problemas com impostos.
+
+ 888: 10:47:16.03 10:47:17.14  Durée 00:00:01.11  Lisibilité 22
+Falando com eles, notei
+
+ 889: 10:47:17.18 10:47:20.11  Durée 00:00:02.18  Lisibilité 41
+que muitas coisas importantes
+os incomodam.
+
+ 890: 10:47:20.15 10:47:23.07  Durée 00:00:02.17  Lisibilité 40
+Eles ainda precisam de um empurrão
+
+ 891: 10:47:23.11 10:47:25.17  Durée 00:00:02.06  Lisibilité 34
+para que realmente aconteça algo.
+
+ 892: 10:47:25.21 10:47:28.16  Durée 00:00:02.20  Lisibilité 42
+Que eles entendam
+que algo tem de acontecer.
+
+ 893: 10:47:29.16 10:47:32.21  Durée 00:00:03.05  Lisibilité 48
+A pressão é gentil, mas firme.
+Para se mexerem.
+
+ 894: 10:47:33.16 10:47:35.20  Durée 00:00:02.04  Lisibilité 32
+#Se desde outubro de 2017#
+
+ 895: 10:47:35.24 10:47:38.17  Durée 00:00:02.18  Lisibilité 41
+#os entregadores
+tornaram-se empregados,#
+
+ 896: 10:47:38.22 10:47:40.11  Durée 00:00:01.14  Lisibilité 23
+#o status anterior
+ainda é vago#
+
+ 897: 10:47:40.15 10:47:43.01  Durée 00:00:02.11  Lisibilité 37
+#e ao longo da entrevista,
+o dono da startup#
+
+ 898: 10:47:43.05 10:47:45.24  Durée 00:00:02.19  Lisibilité 41
+#disse coisas que causam confusão.#
+
+ 899: 10:47:46.23 10:47:49.03  Durée 00:00:02.05  Lisibilité 33
+Achei suas respostas nada claras.
+
+ 900: 10:47:49.07 10:47:50.24  Durée 00:00:01.17  Lisibilité 25
+Elas têm contradições.
+
+ 901: 10:47:51.03 10:47:53.18  Durée 00:00:02.15  Lisibilité 39
+Os entregadores eram autônomos
+
+ 902: 10:47:53.22 10:47:57.04  Durée 00:00:03.07  Lisibilité 49
+e então deviam pagar
+seus próprios encargos sociais
+
+ 903: 10:47:57.08 10:47:59.15  Durée 00:00:02.07  Lisibilité 34
+ou eram empregados?
+
+ 904: 10:48:00.23 10:48:03.13  Durée 00:00:02.15  Lisibilité 39
+Nos contratos,
+eles eram autônomos.
+
+ 905: 10:48:03.17 10:48:05.14  Durée 00:00:01.22  Lisibilité 28
+A Caixa de Compensação
+de Zurique
+
+ 906: 10:48:05.18 10:48:08.07  Durée 00:00:02.14  Lisibilité 38
+constatou na revisão
+do ano de 2015
+
+ 907: 10:48:08.11 10:48:12.05  Durée 00:00:03.19  Lisibilité 56
+que a responsabilidade de pagar
+os encargos sociais era nossa
+
+ 908: 10:48:12.09 10:48:14.08  Durée 00:00:01.24  Lisibilité 29
+e que tínhamos de pagá-los.
+
+ 909: 10:48:16.15 10:48:18.20  Durée 00:00:02.05  Lisibilité 33
+#O Sr. Antoni não diz claramente,#
+
+ 910: 10:48:18.24 10:48:21.10  Durée 00:00:02.11  Lisibilité 37
+#mas a Notime foi posta na linha#
+
+ 911: 10:48:21.14 10:48:23.06  Durée 00:00:01.17  Lisibilité 25
+#pela Caixa de Compensação#
+
+ 912: 10:48:23.10 10:48:26.16  Durée 00:00:03.06  Lisibilité 49
+#e obrigada a pagar
+as cotizações dos empregados.#
+
+ 913: 10:48:26.20 10:48:28.14  Durée 00:00:01.19  Lisibilité 26
+#Os pagamentos foram feitos?#
+
+ 914: 10:48:29.12 10:48:31.11  Durée 00:00:01.24  Lisibilité 29
+Nós pagamos
+os encargos sociais.
+
+ 915: 10:48:31.15 10:48:35.05  Durée 00:00:03.15  Lisibilité 54
+Infelizmente persiste um rumor,
+mas nós pagamos para 2015,
+
+ 916: 10:48:35.09 10:48:37.09  Durée 00:00:02.00  Lisibilité 30
+estamos pagando para 2016,
+
+ 917: 10:48:37.13 10:48:40.11  Durée 00:00:02.23  Lisibilité 44
+e para 2017,
+eles são todos empregados.
+
+ 918: 10:48:40.15 10:48:42.11  Durée 00:00:01.21  Lisibilité 28
+Sempre pagamos esses encargos.
+
+ 919: 10:48:42.15 10:48:46.19  Durée 00:00:04.04  Lisibilité 62
+Não nos pusemos acima da lei.
+Não violamos lei alguma.
+
+ 920: 10:48:47.13 10:48:48.14  Durée 00:00:01.01  Lisibilité 16
+#Pelo Sr. Antoni,#
+
+ 921: 10:48:48.18 10:48:51.20  Durée 00:00:03.02  Lisibilité 46
+#os pagamentos das cotizações sociais
+foram feitos.#
+
+ 922: 10:48:52.00 10:48:53.19  Durée 00:00:01.19  Lisibilité 26
+#Mas um mês após a filmagem#
+
+ 923: 10:48:53.23 10:48:55.24  Durée 00:00:02.01  Lisibilité 31
+#os entregadores verificaram#
+
+ 924: 10:48:56.03 10:48:58.05  Durée 00:00:02.02  Lisibilité 31
+#e ainda não tinham
+o comprovante.#
+
+ 925: 10:49:02.02 10:49:05.10  Durée 00:00:03.08  Lisibilité 50
+Tenho a impressão
+que a última palavra não foi dita.
+
+ 926: 10:49:06.04 10:49:08.19  Durée 00:00:02.15  Lisibilité 39
+Especialmente
+sobre o tratamento do passado.
+
+ 927: 10:49:12.04 10:49:13.18  Durée 00:00:01.14  Lisibilité 23
+Por isso estamos contentes
+
+ 928: 10:49:13.22 10:49:17.06  Durée 00:00:03.09  Lisibilité 50
+que a empresa saiba que
+que o grande público a observa.
+
+ 929: 10:49:23.04 10:49:25.08  Durée 00:00:02.04  Lisibilité 32
+Pela primeira vez
+na história suíça,
+
+ 930: 10:49:25.12 10:49:28.12  Durée 00:00:03.00  Lisibilité 45
+empregados de uma plataforma digital
+mobilizaram-se
+
+ 931: 10:49:28.16 10:49:30.13  Durée 00:00:01.22  Lisibilité 28
+para defender seus direitos.
+
+ 932: 10:49:30.17 10:49:33.18  Durée 00:00:03.01  Lisibilité 46
+Pela 1ª vez eles se organizaram,
+e coletivamente,
+
+ 933: 10:49:33.22 10:49:36.05  Durée 00:00:02.08  Lisibilité 35
+exigiram o respeito
+a seus direitos.
+
+ 934: 10:49:37.09 10:49:39.18  Durée 00:00:02.09  Lisibilité 35
+Eles tentaram
+pegar a onda da# uberização#.
+
+ 935: 10:49:39.22 10:49:42.09  Durée 00:00:02.12  Lisibilité 37
+Eles viram outras empresas fazendo
+
+ 936: 10:49:42.13 10:49:44.20  Durée 00:00:02.07  Lisibilité 34
+e pensaram:
+"Vamos tentar também."
+
+ 937: 10:49:44.24 10:49:47.04  Durée 00:00:02.05  Lisibilité 33
+Acho que o liberalismo atual
+permite isso.
+
+ 938: 10:49:47.08 10:49:50.21  Durée 00:00:03.13  Lisibilité 53
+Os trabalhadores devem resistir
+e lutar por seus direitos.
+
+ 939: 10:49:53.04 10:49:56.16  Durée 00:00:03.12  Lisibilité 52
+#Uma vitória dos entregadores:
+sua situação melhorou.#
+
+ 940: 10:49:56.20 10:49:59.20  Durée 00:00:03.00  Lisibilité 45
+#Mas o novo contrato
+está longe de ser a panaceia.#
+
+ 941: 10:50:00.00 10:50:04.01  Durée 00:00:04.01  Lisibilité 61
+#Eles trabalham sob demanda
+com um contrato zero hora garantida.#
+
+ 942: 10:50:04.05 10:50:07.18  Durée 00:00:03.13  Lisibilité 53
+#Outra forma de contrato precário
+que se espalha na Suíça.#
+
+ 943: 10:50:12.05 10:50:13.16  Durée 00:00:01.11  Lisibilité 22
+Acho que somos
+
+ 944: 10:50:13.20 10:50:15.17  Durée 00:00:01.22  Lisibilité 28
+uma nova geração
+
+ 945: 10:50:15.21 10:50:18.19  Durée 00:00:02.23  Lisibilité 44
+com novos conflitos
+que concernem realmente
+
+ 946: 10:50:18.23 10:50:22.03  Durée 00:00:03.05  Lisibilité 48
+a Suíça
+e o futuro do mundo do trabalho.
+
+ 947: 10:50:23.09 10:50:25.24  Durée 00:00:02.15  Lisibilité 39
+É um grande problema
+que nos espera
+
+ 948: 10:50:26.03 10:50:29.20  Durée 00:00:03.17  Lisibilité 55
+e acho que a política
+não liga o suficiente para isso.
+
+ 949: 10:50:31.16 10:50:34.18  Durée 00:00:03.02  Lisibilité 46
+Precisamos defender os direitos
+adquiridos por nossos ancestrais
+
+ 950: 10:50:34.22 10:50:37.07  Durée 00:00:02.10  Lisibilité 36
+no século XX
+e também no século XIX,
+
+ 951: 10:50:37.11 10:50:40.11  Durée 00:00:03.00  Lisibilité 45
+e que são questionados
+por novas plataformas
+
+ 952: 10:50:40.15 10:50:43.18  Durée 00:00:03.03  Lisibilité 47
+que tentam contornar
+seu papel de empregador.
+
+ 953: 10:50:47.23 10:50:51.03  Durée 00:00:03.05  Lisibilité 48
+Nós não desistimos!
+
+ 954: 10:50:52.01 10:50:54.23  Durée 00:00:02.22  Lisibilité 43
+#A Suíça vai mal no seu salariado.#
+
+ 955: 10:50:55.03 10:50:58.18  Durée 00:00:03.15  Lisibilité 54
+#O empregado tornou-se um custo
+que é imperativo reduzir.#
+
+ 956: 10:50:58.22 10:51:01.09  Durée 00:00:02.12  Lisibilité 37
+#Assim, no setor privado
+e no público,#
+
+ 957: 10:51:01.13 10:51:03.18  Durée 00:00:02.05  Lisibilité 33
+#os contratos são precarizados.#
+
+ 958: 10:51:03.22 10:51:06.18  Durée 00:00:02.21  Lisibilité 43
+#Consequência:
+os empregados são pobres hoje#
+
+ 959: 10:51:06.22 10:51:08.12  Durée 00:00:01.15  Lisibilité 24
+#e serão pobres amanhã,#
+
+ 960: 10:51:08.17 10:51:10.02  Durée 00:00:01.10  Lisibilité 21
+#pois com salários caindo,#
+
+ 961: 10:51:10.06 10:51:13.20  Durée 00:00:03.14  Lisibilité 53
+#há o risco de comprometer
+o sistema de aposentadoria.#
+
+ 962: 10:51:28.03 10:51:31.17  Durée 00:00:03.14  Lisibilité 53
+O Conselho Federal acaba de anunciar
+que está disposto a criar
+
+ 963: 10:51:31.21 10:51:33.17  Durée 00:00:01.21  Lisibilité 28
+uma nova categoria
+de trabalhadores
+
+ 964: 10:51:33.21 10:51:36.05  Durée 00:00:02.09  Lisibilité 35
+para responder
+à# uberização# do emprego,
+
+ 965: 10:51:36.09 10:51:37.19  Durée 00:00:01.10  Lisibilité 21
+trabalhadores de plataforma,
+
+ 966: 10:51:37.23 10:51:42.19  Durée 00:00:04.21  Lisibilité 73
+que teriam um status
+entre assalariado e autônomo,
+
+ 967: 10:51:42.23 10:51:44.21  Durée 00:00:01.23  Lisibilité 29
+com cobertura social melhor.
+
+ 968: 10:51:45.01 10:51:48.18  Durée 00:00:03.17  Lisibilité 55
+Excelente noite a todos.
+Ótima semana e até breve.
+
+ 969: 10:52:04.24 10:52:07.24  Durée 00:00:03.00  Lisibilité 45
+Adaptação: Adriana Gasparoni
+Legendagem: ECLAIR
+
