@@ -1,0 +1,3004 @@
+
+   1: 10:00:03.06 10:00:06.04  Duration 00:00:02.23  44
+O Ponto
+
+   2: 10:00:08.09 10:00:09.15  Duration 00:00:01.06  19
+Esta semana em# O Ponto,#
+
+   3: 10:00:10.15 10:00:13.13  Duration 00:00:02.23  44
+a imunoterapia e os vírus
+para vencer o câncer.
+
+   4: 10:00:14.17 10:00:16.10  Duration 00:00:01.18  26
+O último desejo
+de Gord Downie,
+
+   5: 10:00:16.15 10:00:18.09  Duration 00:00:01.19  26
+morto de câncer do cérebro.
+
+   6: 10:00:19.08 10:00:21.00  Duration 00:00:01.17  25
+A devoção de um cuidador.
+
+   7: 10:00:21.24 10:00:25.10  Duration 00:00:03.11  52
+E as consequências imprevisíveis
+do degelo das bactérias.
+
+   8: 10:00:31.07 10:00:33.13  Duration 00:00:02.06  34
+Olá.
+Sou Azeb Wolde-Giorghis.
+
+   9: 10:00:33.17 10:00:34.19  Duration 00:00:01.02  16
+Bem-vindos a# O Ponto.#
+
+  10: 10:00:34.23 10:00:38.06  Duration 00:00:03.08  50
+Começou uma revolução
+na guerra contra o câncer.
+
+  11: 10:00:38.10 10:00:39.22  Duration 00:00:01.12  22
+Pacientes terminais
+
+  12: 10:00:40.01 10:00:42.05  Duration 00:00:02.04  32
+em que todo tratamento fracassou
+
+  13: 10:00:42.09 10:00:45.20  Duration 00:00:03.11  52
+recuperam quase por milagre
+a saúde e não têm mais câncer,
+
+  14: 10:00:45.24 10:00:48.17  Duration 00:00:02.18  41
+meses após terem
+esse tratamento experimental.
+
+  15: 10:00:48.21 10:00:51.03  Duration 00:00:02.07  34
+Essa nova abordagem
+é a imunoterapia.
+
+  16: 10:00:51.07 10:00:52.18  Duration 00:00:01.11  22
+Ela só é administrada
+
+  17: 10:00:52.22 10:00:55.03  Duration 00:00:02.06  34
+em alguns centros de pesquisa
+por ora,
+
+  18: 10:00:55.07 10:00:57.19  Duration 00:00:02.12  37
+e só é eficaz
+numa minoria de casos.
+
+  19: 10:00:57.23 10:00:59.12  Duration 00:00:01.14  23
+Mas o método
+é tão promissor
+
+  20: 10:00:59.16 10:01:02.06  Duration 00:00:02.15  39
+que interessa
+a muitos pesquisadores.
+
+  21: 10:01:02.11 10:01:05.18  Duration 00:00:03.07  49
+Imunoterapia contra o câncer
+
+  22: 10:01:08.06 10:01:12.00  Duration 00:00:03.19  56
+#Um é pesquisador,
+o outro, hematólogo.#
+
+  23: 10:01:12.13 10:01:14.18  Duration 00:00:02.05  33
+#O primeiro
+trabalha em laboratório,#
+
+  24: 10:01:14.23 10:01:16.14  Duration 00:00:01.16  25
+#o segundo, em clínica.#
+
+  25: 10:01:17.10 10:01:19.23  Duration 00:00:02.13  38
+#mas eles colaboram
+para o mesmo objetivo,#
+
+  26: 10:01:20.02 10:01:23.10  Duration 00:00:03.08  50
+#o de levantar um exército
+de mercenários especializados.#
+
+  27: 10:01:23.14 10:01:25.24  Duration 00:00:02.10  36
+-Oi, Michel. Tudo bem?
+-Tudo. Obrigado.
+
+  28: 10:01:26.03 10:01:28.06  Duration 00:00:02.03  32
+Perfeito.
+Obrigado por nos visitar.
+
+  29: 10:01:28.21 10:01:31.17  Duration 00:00:02.21  43
+#E contra quem pretendem
+lançar os mercenários?#
+
+  30: 10:01:31.22 10:01:34.11  Duration 00:00:02.14  38
+#Contra o câncer.
+Nada mais, nada menos.#
+
+  31: 10:01:35.01 10:01:38.17  Duration 00:00:03.16  55
+#Aqui não tem quimioterapia
+ou radioterapia.#
+
+  32: 10:01:38.21 10:01:41.12  Duration 00:00:02.16  40
+#Os dois apostam mais
+na força de ataque#
+
+  33: 10:01:41.17 10:01:44.02  Duration 00:00:02.10  36
+#do sistema imunitário.#
+
+  34: 10:01:44.07 10:01:48.07  Duration 00:00:04.00  60
+#O método deles tem o nome
+de imunoterapia do câncer.#
+
+  35: 10:01:48.11 10:01:51.13  Duration 00:00:03.02  46
+A imunoterapia é um campo
+tão promissor
+
+  36: 10:01:51.17 10:01:54.12  Duration 00:00:02.20  42
+que químicos, bioquímicos
+
+  37: 10:01:54.17 10:01:58.18  Duration 00:00:04.01  61
+e fisiologistas começaram
+a se interessar muito por ele.
+
+  38: 10:01:59.07 10:02:02.15  Duration 00:00:03.08  50
+Por exemplo, o Dr. Tremblay
+
+  39: 10:02:02.19 10:02:07.14  Duration 00:00:04.20  72
+é um bioquímico de alto nível,
+bastante reputado,
+
+  40: 10:02:08.10 10:02:11.23  Duration 00:00:03.13  53
+que pôde aplicar
+certas descobertas suas
+
+  41: 10:02:12.02 10:02:14.18  Duration 00:00:02.16  40
+ao sistema imunitário
+de modo bem promissor.
+
+  42: 10:02:15.03 10:02:18.17  Duration 00:00:03.14  53
+Então, havia aí
+uma aliança natural.
+
+  43: 10:02:21.19 10:02:23.22  Duration 00:00:02.03  32
+#Especialista
+em cânceres do sangue,#
+
+  44: 10:02:24.01 10:02:27.18  Duration 00:00:03.17  55
+#o Dr. Jean-Sébastien Delisle
+é confrontado diariamente#
+
+  45: 10:02:27.22 10:02:30.08  Duration 00:00:02.11  37
+#à complexidade
+do sistema imunitário.#
+
+  46: 10:02:32.12 10:02:34.15  Duration 00:00:02.03  32
+Bom dia. Como vai hoje?
+
+  47: 10:02:35.15 10:02:37.11  Duration 00:00:01.21  28
+#Ante os vírus
+e as bactérias,#
+
+  48: 10:02:37.15 10:02:40.00  Duration 00:00:02.10  36
+#ele sabe
+que o sistema imunitário ganha#
+
+  49: 10:02:40.05 10:02:41.17  Duration 00:00:01.12  22
+#a maioria dos combates.#
+
+  50: 10:02:42.07 10:02:45.10  Duration 00:00:03.03  47
+#Mas contra o câncer,#
+o sistema fracassa,#
+
+  51: 10:02:45.14 10:02:48.15  Duration 00:00:03.01  46
+#pois as células cancerosas
+usam vários estratagemas#
+
+  52: 10:02:48.19 10:02:50.04  Duration 00:00:01.10  21
+#para contorná-lo.#
+
+  53: 10:02:53.23 10:02:54.24  Duration 00:00:01.01  16
+#Em seus laboratórios,#
+
+  54: 10:02:55.04 10:02:58.12  Duration 00:00:03.08  50
+#o Dr. Jean-Sébastien Delisle
+prepara a réplica,#
+
+  55: 10:02:58.16 10:03:00.04  Duration 00:00:01.13  23
+#que passa principalmente#
+
+  56: 10:03:00.08 10:03:01.07  Duration 00:00:00.24  14
+#pelos linfócitos T,#
+
+  57: 10:03:01.11 10:03:03.17  Duration 00:00:02.06  34
+#poderosos guerreiros
+imunológicos.#
+
+  58: 10:03:04.12 10:03:06.12  Duration 00:00:02.00  30
+Há vários tipos
+de células imunitárias
+
+  59: 10:03:06.17 10:03:09.08  Duration 00:00:02.16  40
+que podem atacar as infecções
+ou os cânceres.
+
+  60: 10:03:09.12 10:03:12.12  Duration 00:00:03.00  45
+O linfócito T é,
+de certo modo,
+
+  61: 10:03:13.19 10:03:16.04  Duration 00:00:02.10  36
+provavelmente o subtipo
+mais importante.
+
+  62: 10:03:16.08 10:03:18.10  Duration 00:00:02.02  31
+Ele coordena
+as respostas imunitárias,
+
+  63: 10:03:19.02 10:03:21.00  Duration 00:00:01.23  29
+tem capacidade de memória,
+
+  64: 10:03:21.04 10:03:26.00  Duration 00:00:04.21  73
+e já foi provado
+há várias décadas
+
+  65: 10:03:26.04 10:03:29.21  Duration 00:00:03.17  55
+que ele é o arquiteto principal
+
+  66: 10:03:30.00 10:03:32.18  Duration 00:00:02.18  41
+das respostas antivirais
+e antitumorais.
+
+  67: 10:03:35.18 10:03:37.17  Duration 00:00:01.24  29
+#Esse aparelho ultrapreciso#
+
+  68: 10:03:37.21 10:03:40.20  Duration 00:00:02.24  44
+#permite ver os soldados
+do sistema imunitário,#
+
+  69: 10:03:41.00 10:03:43.19  Duration 00:00:02.19  41
+#como se alinhados
+em posição de sentido.#
+
+  70: 10:03:45.23 10:03:48.00  Duration 00:00:02.02  31
+#Assim os cientistas
+podem escolher#
+
+  71: 10:03:48.05 10:03:51.15  Duration 00:00:03.10  51
+#os melhores linfócitos T
+a serem enviados ao front.#
+
+  72: 10:03:53.02 10:03:56.04  Duration 00:00:03.02  46
+#Essa triagem
+segue critérios bem precisos.#
+
+  73: 10:03:57.13 10:04:00.19  Duration 00:00:03.06  49
+Primeiramente, será que ele
+é capaz de ser tóxico?
+
+  74: 10:04:00.23 10:04:03.08  Duration 00:00:02.10  36
+Será que é capaz de matar?
+
+  75: 10:04:03.12 10:04:05.24  Duration 00:00:02.12  37
+Será que ele é capaz
+de proliferar?
+
+  76: 10:04:06.03 10:04:08.20  Duration 00:00:02.17  40
+Certos linfócitos T
+perdem essa capacidade
+
+  77: 10:04:08.24 10:04:10.08  Duration 00:00:01.09  20
+quando se esgotam.
+
+  78: 10:04:10.12 10:04:12.11  Duration 00:00:01.24  29
+E será que é capaz de persistir?
+
+  79: 10:04:12.15 10:04:16.19  Duration 00:00:04.04  62
+Então, persistência,
+proliferação, funcionalidade.
+
+  80: 10:04:18.11 10:04:22.09  Duration 00:00:03.23  59
+#Um linfócito esgotado
+é um linfócito ineficaz.#
+
+  81: 10:04:22.13 10:04:24.19  Duration 00:00:02.06  34
+#Então é preciso evitar
+que ele se canse#
+
+  82: 10:04:24.23 10:04:28.05  Duration 00:00:03.07  49
+#combatendo todos os intrusos
+encontrados no caminho.#
+
+  83: 10:04:30.03 10:04:32.17  Duration 00:00:02.14  38
+#Estabelecem portanto
+um alvo prioritário.#
+
+  84: 10:04:33.04 10:04:35.19  Duration 00:00:02.15  39
+#E esse alvo são os antígenos.#
+
+  85: 10:04:36.24 10:04:39.07  Duration 00:00:02.08  35
+#O antígeno
+é o perfil da célula,#
+
+  86: 10:04:39.22 10:04:42.19  Duration 00:00:02.22  43
+#uma carteira de identidade
+que permite saber#
+
+  87: 10:04:42.23 10:04:46.09  Duration 00:00:03.11  52
+#se o sistema imunitário
+enfrenta uma célula amistosa#
+
+  88: 10:04:46.14 10:04:47.14  Duration 00:00:01.00  15
+#ou perigosa.#
+
+  89: 10:04:50.06 10:04:52.03  Duration 00:00:01.22  28
+#Quando uma célula estranha
+entra#
+
+  90: 10:04:52.07 10:04:54.02  Duration 00:00:01.20  27
+#na circulação sanguínea,#
+
+  91: 10:04:54.06 10:04:56.14  Duration 00:00:02.08  35
+#seus antígenos emitem sinais.#
+
+  92: 10:04:56.18 10:04:58.03  Duration 00:00:01.10  21
+#O alerta é lançado.#
+
+  93: 10:04:58.07 10:05:00.13  Duration 00:00:02.06  34
+#Certas células
+do sistema imunitário,#
+
+  94: 10:05:00.17 10:05:02.07  Duration 00:00:01.15  24
+#como a célula dendrítica,#
+
+  95: 10:05:02.11 10:05:04.23  Duration 00:00:02.12  37
+#registram então
+o perfil do inimigo.#
+
+  96: 10:05:05.02 10:05:08.16  Duration 00:00:03.14  53
+#O perfil é em seguida apresentado
+aos linfócitos T,#
+
+  97: 10:05:08.20 10:05:11.12  Duration 00:00:02.17  40
+#que dispõem então
+de um alvo claro.#
+
+  98: 10:05:11.16 10:05:13.03  Duration 00:00:01.12  22
+#Com esse alvo na cabeça,#
+
+  99: 10:05:13.07 10:05:15.14  Duration 00:00:02.07  34
+#os linfócitos T
+saem logo para eliminar#
+
+ 100: 10:05:15.18 10:05:18.15  Duration 00:00:02.22  43
+#as células
+que carregam esse antígeno.#
+
+ 101: 10:05:19.12 10:05:22.08  Duration 00:00:02.21  43
+#Identificar o antígeno
+das células cancerosas#
+
+ 102: 10:05:22.12 10:05:25.22  Duration 00:00:03.10  51
+#é relativamente simples
+para o Dr. Delisle e sua equipe.#
+
+ 103: 10:05:26.18 10:05:29.05  Duration 00:00:02.12  37
+#A dificuldade deles surge#
+
+ 104: 10:05:29.09 10:05:32.01  Duration 00:00:02.17  40
+#quando as células tumorais
+se defendem.#
+
+ 105: 10:05:33.06 10:05:34.21  Duration 00:00:01.15  24
+#Elas despistam
+os linfócitos T,#
+
+ 106: 10:05:35.00 10:05:38.24  Duration 00:00:03.24  59
+#sobretudo desregulando o sistema
+de freio e aceleração deles.#
+
+ 107: 10:05:39.03 10:05:42.04  Duration 00:00:03.01  46
+#Quando os aceleradores
+do linfócito T se ativam,#
+
+ 108: 10:05:42.08 10:05:44.02  Duration 00:00:01.19  26
+#ele passa ao ataque.#
+
+ 109: 10:05:44.06 10:05:47.13  Duration 00:00:03.07  49
+#Depois de dominada a ameaça,
+os freios entram em ação.#
+
+ 110: 10:05:48.08 10:05:51.05  Duration 00:00:02.22  43
+#O linfócito T
+cessa então sua ofensiva.#
+
+ 111: 10:05:51.19 10:05:55.10  Duration 00:00:03.16  55
+#Mas quando o linfócito T
+ataca a célula cancerosa,#
+
+ 112: 10:05:55.14 10:05:59.13  Duration 00:00:03.24  59
+#esta se defende
+ativando os freios do linfócito.#
+
+ 113: 10:06:00.05 10:06:01.24  Duration 00:00:01.19  26
+#Ele fica então desarmado.#
+
+ 114: 10:06:02.03 10:06:05.02  Duration 00:00:02.24  44
+#A célula cancerosa#
+#tem agora campo livre.#
+
+ 115: 10:06:10.04 10:06:11.12  Duration 00:00:01.08  20
+#Em laboratório,#
+
+ 116: 10:06:11.17 10:06:13.22  Duration 00:00:02.05  33
+#é preciso selecionar
+os linfócitos T#
+
+ 117: 10:06:14.01 10:06:18.01  Duration 00:00:04.00  60
+#cujos freios as células tumorais
+são incapazes de ativar.#
+
+ 118: 10:06:18.24 10:06:23.04  Duration 00:00:04.05  63
+#Esse tipo de manipulação
+exige grandes precauções.#
+
+ 119: 10:06:23.09 10:06:26.00  Duration 00:00:02.16  40
+#Querem evitar
+toda forma de contaminação.#
+
+ 120: 10:06:27.08 10:06:30.18  Duration 00:00:03.10  51
+#A seleção dos linfócitos T#
+é feita em cultura.#
+
+ 121: 10:06:30.23 10:06:34.11  Duration 00:00:03.13  53
+#Eles expõem as células T
+ao antígeno das células cancerosas#
+
+ 122: 10:06:34.15 10:06:37.13  Duration 00:00:02.23  44
+#assim como a uma mistura
+de sinais químicos.#
+
+ 123: 10:06:39.05 10:06:43.07  Duration 00:00:04.02  61
+#No final, obtém-se uma quantidade
+suficiente de superlinfócitos T#
+
+ 124: 10:06:43.12 10:06:46.22  Duration 00:00:03.10  51
+#insensíveis às manobras
+de defesa das células cancerosas.#
+
+ 125: 10:06:47.20 10:06:48.17  Duration 00:00:00.22  13
+#Em seguida,#
+
+ 126: 10:06:48.21 10:06:51.21  Duration 00:00:03.00  45
+#o paciente recebe uma perfusão
+de células imunitárias#
+
+ 127: 10:06:52.00 10:06:54.14  Duration 00:00:02.14  38
+#prontas para atacar o câncer.#
+
+ 128: 10:06:59.01 10:07:01.16  Duration 00:00:02.15  39
+#Do outro lado da cidade,
+na Univ. McGill,#
+
+ 129: 10:07:01.21 10:07:04.16  Duration 00:00:02.20  42
+#Michel L. Tremblay
+estuda o câncer do pâncreas.#
+
+ 130: 10:07:05.19 10:07:08.14  Duration 00:00:02.20  42
+Isso é ótimo!
+É o que você queria.
+
+ 131: 10:07:08.18 10:07:10.16  Duration 00:00:01.23  29
+#Para esse especialista
+em oncologia,#
+
+ 132: 10:07:10.20 10:07:14.03  Duration 00:00:03.08  50
+#o soldado predileto
+não é o linfócito T,#
+
+ 133: 10:07:14.19 10:07:17.01  Duration 00:00:02.07  34
+#mas sim a célula dendrítica,#
+
+ 134: 10:07:17.05 10:07:19.19  Duration 00:00:02.14  38
+#um ator importante
+do sistema imunitário.#
+
+ 135: 10:07:21.13 10:07:22.21  Duration 00:00:01.08  20
+#Verdadeira sentinela,#
+
+ 136: 10:07:23.00 10:07:25.23  Duration 00:00:02.23  44
+#a célula dendrítica
+não tem o objetivo de atacar,#
+
+ 137: 10:07:26.02 10:07:28.16  Duration 00:00:02.14  38
+#e sim identificar
+o perfil do inimigo.#
+
+ 138: 10:07:29.10 10:07:31.19  Duration 00:00:02.09  35
+#Depois ela transmitirá
+essa informação#
+
+ 139: 10:07:31.23 10:07:35.11  Duration 00:00:03.13  53
+#ao linfócito T#
+#que avançará sobre seu alvo.#
+
+ 140: 10:07:35.16 10:07:37.20  Duration 00:00:02.04  32
+A célula dendrítica é o general
+
+ 141: 10:07:37.24 10:07:41.10  Duration 00:00:03.11  52
+que inicia
+todo tipo de evento imunológico
+
+ 142: 10:07:41.14 10:07:44.02  Duration 00:00:02.13  38
+para ativar o sistema imunitário,
+
+ 143: 10:07:44.06 10:07:46.19  Duration 00:00:02.13  38
+após a apresentação
+de um antígeno tumoral.
+
+ 144: 10:07:48.02 10:07:50.11  Duration 00:00:02.09  35
+#Levantar um exército
+de células dendríticas#
+
+ 145: 10:07:50.15 10:07:52.21  Duration 00:00:02.06  34
+#á mais fácil falar que fazer.#
+
+ 146: 10:07:53.00 10:07:55.01  Duration 00:00:02.01  31
+#Primeiro tiram
+do hidrogênio líquido#
+
+ 147: 10:07:55.05 10:07:57.21  Duration 00:00:02.16  40
+#glóbulos brancos
+de sangue animal.#
+
+ 148: 10:07:58.13 10:08:02.22  Duration 00:00:04.09  65
+#Essas células imunitárias,
+preservadas a menos 195 graus Celsius#
+
+ 149: 10:08:03.01 10:08:06.06  Duration 00:00:03.05  48
+#são diferenciadas
+graças a um coquetel químico único.#
+
+ 150: 10:08:07.16 10:08:10.21  Duration 00:00:03.05  48
+#Elas se transformarão então
+em células dendríticas.#
+
+ 151: 10:08:12.09 10:08:14.18  Duration 00:00:02.09  35
+#Depois resta
+apresentar-lhes antígenos,#
+
+ 152: 10:08:14.23 10:08:19.02  Duration 00:00:04.04  62
+#a famosa carteira de identidade
+das células cancerosas.#
+
+ 153: 10:08:19.24 10:08:24.21  Duration 00:00:04.22  73
+E a partir de uma seleção
+de uns 50 antígenos
+
+ 154: 10:08:25.01 10:08:28.00  Duration 00:00:02.24  44
+que sabemos presentes
+nesse tumor em especial,
+
+ 155: 10:08:28.12 10:08:31.10  Duration 00:00:02.23  44
+podemos escolher
+a de melhor resposta do paciente,
+
+ 156: 10:08:31.14 10:08:34.03  Duration 00:00:02.14  38
+a de melhor resposta das células.
+
+ 157: 10:08:36.00 10:08:37.03  Duration 00:00:01.03  17
+#Aqui, separam#
+
+ 158: 10:08:37.08 10:08:40.05  Duration 00:00:02.22  43
+#e selecionam
+as melhores células dendríticas,#
+
+ 159: 10:08:41.02 10:08:42.17  Duration 00:00:01.15  24
+#células que serão#
+
+ 160: 10:08:42.22 10:08:45.21  Duration 00:00:02.24  44
+#reintroduzidas
+na circulação sanguínea do animal.#
+
+ 161: 10:08:49.08 10:08:51.24  Duration 00:00:02.16  40
+#Mas antes elas terão
+de proliferar em cultura.#
+
+ 162: 10:08:54.10 10:08:57.14  Duration 00:00:03.04  47
+#No final, milhões
+de células dendríticas ativadas#
+
+ 163: 10:08:57.18 10:08:59.20  Duration 00:00:02.02  31
+#estarão prontas para transfusão.#
+
+ 164: 10:08:59.24 10:09:01.11  Duration 00:00:01.12  22
+#Elas irão assim se ligar#
+
+ 165: 10:09:01.15 10:09:03.17  Duration 00:00:02.02  31
+#às células T
+circulando no sangue#
+
+ 166: 10:09:03.22 10:09:06.24  Duration 00:00:03.02  46
+#para apresentar a elas
+o alvo a atacar.#
+
+ 167: 10:09:07.22 10:09:09.20  Duration 00:00:01.23  29
+#Em posse do perfil do inimigo,#
+
+ 168: 10:09:09.24 10:09:13.00  Duration 00:00:03.01  46
+#as células T sairão à caça
+das células cancerosas,#
+
+ 169: 10:09:13.05 10:09:16.08  Duration 00:00:03.03  47
+#em todos os recantos
+do organismo.#
+
+ 170: 10:09:16.19 10:09:18.06  Duration 00:00:01.12  22
+#Um detalhe importante,#
+
+ 171: 10:09:18.10 10:09:22.09  Duration 00:00:03.24  59
+#pois 90% dos pacientes morrem
+por causa de metástases#
+
+ 172: 10:09:22.14 10:09:24.16  Duration 00:00:02.02  31
+#disseminadas
+por todo o organismo#
+
+ 173: 10:09:24.20 10:09:27.13  Duration 00:00:02.18  41
+#e não por causa
+do câncer original.#
+
+ 174: 10:09:29.21 10:09:32.12  Duration 00:00:02.16  40
+A imunoterapia
+foca no tumor primário,
+
+ 175: 10:09:32.17 10:09:35.06  Duration 00:00:02.14  38
+mas também nas metástases,
+
+ 176: 10:09:35.10 10:09:37.10  Duration 00:00:02.00  30
+pois os mesmos
+antígenos tumorais
+
+ 177: 10:09:37.14 10:09:39.08  Duration 00:00:01.19  26
+também estarão nas células 
+
+ 178: 10:09:39.13 10:09:42.14  Duration 00:00:03.01  46
+que circulam e que vão se alojar
+em outros pontos.
+
+ 179: 10:09:42.18 10:09:44.24  Duration 00:00:02.06  34
+Poderemos, com a imunoterapia,
+
+ 180: 10:09:45.03 10:09:49.06  Duration 00:00:04.03  62
+procurar tumores
+que começam por todo o corpo,
+
+ 181: 10:09:49.10 10:09:51.24  Duration 00:00:02.14  38
+nos pulmões, nos ossos,
+
+ 182: 10:09:52.03 10:09:54.10  Duration 00:00:02.07  34
+onde as células T
+poderão alcançá-los.
+
+ 183: 10:09:57.06 10:09:58.10  Duration 00:00:01.04  17
+#Mundo afora,#
+
+ 184: 10:09:58.15 10:10:00.09  Duration 00:00:01.19  26
+#investem-se
+bilhões de dólares#
+
+ 185: 10:10:00.13 10:10:02.14  Duration 00:00:02.01  31
+#em diversas abordagens
+imunológicas.#
+
+ 186: 10:10:03.18 10:10:05.24  Duration 00:00:02.06  34
+#Elas têm resultados
+espetaculares,#
+
+ 187: 10:10:06.04 10:10:08.14  Duration 00:00:02.10  36
+#mas entre um número baixo
+de pacientes,#
+
+ 188: 10:10:08.18 10:10:11.14  Duration 00:00:02.21  43
+#entre somente 20 a 30% deles.#
+
+ 189: 10:10:13.07 10:10:17.13  Duration 00:00:04.06  64
+Isso reflete acima de tudo o fato
+de que ainda entendemos muito mal
+
+ 190: 10:10:17.17 10:10:20.24  Duration 00:00:03.07  49
+as relações entre o sistema
+imunitário e o câncer.
+
+ 191: 10:10:23.00 10:10:24.11  Duration 00:00:01.11  22
+O fato
+de em certos casos
+
+ 192: 10:10:24.15 10:10:27.08  Duration 00:00:02.18  41
+podermos ter resultados
+quase miraculosos
+
+ 193: 10:10:27.12 10:10:28.22  Duration 00:00:01.10  21
+em pacientes refratários
+
+ 194: 10:10:29.02 10:10:31.18  Duration 00:00:02.16  40
+enquanto em outros
+não há resposta alguma
+
+ 195: 10:10:31.22 10:10:33.13  Duration 00:00:01.16  25
+depende provavelmente
+
+ 196: 10:10:33.18 10:10:37.02  Duration 00:00:03.09  50
+de fatores relacionados
+ao próprio tumor.
+
+ 197: 10:10:38.19 10:10:40.11  Duration 00:00:01.17  25
+O tumor pode ter aprendido
+
+ 198: 10:10:40.16 10:10:43.07  Duration 00:00:02.16  40
+a despistar melhor
+o sistema imunitário.
+
+ 199: 10:10:44.18 10:10:47.11  Duration 00:00:02.18  41
+#A baixa taxa de eficácia
+da imunoterapia#
+
+ 200: 10:10:47.15 10:10:50.11  Duration 00:00:02.21  43
+#explica-se também
+pela composição química#
+
+ 201: 10:10:50.15 10:10:52.07  Duration 00:00:01.17  25
+#do entorno do tumor.#
+
+ 202: 10:10:52.11 10:10:56.13  Duration 00:00:04.02  61
+#Essa muralha reduz a eficácia
+do sistema imunitário.#
+
+ 203: 10:10:57.05 10:11:00.09  Duration 00:00:03.04  47
+#É por esse motivo
+que se recorre à radioterapia#
+
+ 204: 10:11:00.14 10:11:02.06  Duration 00:00:01.17  25
+#e à quimioterapia.#
+
+ 205: 10:11:03.07 10:11:06.16  Duration 00:00:03.09  50
+Os tumores sólidos têm realmente
+muitas células estromais
+
+ 206: 10:11:06.20 10:11:09.00  Duration 00:00:02.05  33
+que protegem esse tumor.
+
+ 207: 10:11:09.04 10:11:11.10  Duration 00:00:02.06  34
+Então para permitir a entrada
+das células dendríticas,
+
+ 208: 10:11:11.14 10:11:13.07  Duration 00:00:01.18  26
+das células T efectoras,
+
+ 209: 10:11:13.11 10:11:16.08  Duration 00:00:02.22  43
+utilizamos a radioterapia
+e a quimioterapia
+
+ 210: 10:11:16.12 10:11:19.24  Duration 00:00:03.12  52
+para criar quebras nessa massa
+
+ 211: 10:11:20.03 10:11:25.04  Duration 00:00:05.01  76
+e permitir às células 
+chegarem às células tumorais
+
+ 212: 10:11:25.08 10:11:26.03  Duration 00:00:00.20  12
+para matá-las.
+
+ 213: 10:11:29.13 10:11:32.23  Duration 00:00:03.10  51
+#Na imunoterapia,
+maximizam-se as chances de sucesso#
+
+ 214: 10:11:33.02 10:11:35.08  Duration 00:00:02.06  34
+#combinando tratamentos diversos.#
+
+ 215: 10:11:35.13 10:11:39.21  Duration 00:00:04.08  65
+#Em certos casos, o efeito sinérgico
+triplica o número de pacientes#
+
+ 216: 10:11:40.01 10:11:41.08  Duration 00:00:01.07  19
+#que responde bem.#
+
+ 217: 10:11:41.12 10:11:44.07  Duration 00:00:02.20  42
+A história nos prova,
+
+ 218: 10:11:44.12 10:11:47.08  Duration 00:00:02.21  43
+as combinações,
+em certos casos, deram certo,
+
+ 219: 10:11:47.12 10:11:51.17  Duration 00:00:04.05  63
+e as combinações baseadas
+em fundamentos científicos sólidos
+
+ 220: 10:11:51.21 10:11:53.22  Duration 00:00:02.01  31
+são nossa melhor garantia
+
+ 221: 10:11:54.01 10:11:56.12  Duration 00:00:02.11  37
+para otimizar
+esses tratamentos no futuro.
+
+ 222: 10:11:57.22 10:12:00.21  Duration 00:00:02.24  44
+#A imunoterapia
+oferece avanços notáveis,#
+
+ 223: 10:12:01.00 10:12:04.19  Duration 00:00:03.19  56
+#mas certas abordagens
+provocam mais efeitos colaterais.#
+
+ 224: 10:12:05.14 10:12:09.01  Duration 00:00:03.12  52
+#Os linfócitos T ativados
+ficam às vezes tão potentes#
+
+ 225: 10:12:09.05 10:12:11.18  Duration 00:00:02.13  38
+#que provocam uma reação autoimune,#
+
+ 226: 10:12:11.22 10:12:15.08  Duration 00:00:03.11  52
+#isto é,
+atacam até os tecidos saudáveis,#
+
+ 227: 10:12:15.12 10:12:17.17  Duration 00:00:02.05  33
+#como se o acelerador emperrasse,#
+
+ 228: 10:12:17.21 10:12:19.22  Duration 00:00:02.01  31
+#incapaz de acionar o freio.#
+
+ 229: 10:12:20.01 10:12:21.15  Duration 00:00:01.14  23
+Seria uma ilusão crer
+
+ 230: 10:12:21.20 10:12:24.17  Duration 00:00:02.22  43
+que a imunoterapia,
+por ser o sistema imunitário,
+
+ 231: 10:12:24.21 10:12:26.05  Duration 00:00:01.09  20
+por vir de nós,
+
+ 232: 10:12:26.09 10:12:28.16  Duration 00:00:02.07  34
+é perfeitamente benigna.
+
+ 233: 10:12:28.20 10:12:29.15  Duration 00:00:00.20  12
+De fato, não.
+
+ 234: 10:12:29.19 10:12:32.07  Duration 00:00:02.13  38
+É uma arma
+que temos de domesticar,
+
+ 235: 10:12:32.11 10:12:37.02  Duration 00:00:04.16  70
+uma arma que já foi despistada
+pelo câncer,
+
+ 236: 10:12:37.06 10:12:39.02  Duration 00:00:01.21  28
+que deve ser bem dirigida.
+
+ 237: 10:12:43.09 10:12:45.02  Duration 00:00:01.18  26
+#Aliás, em novembro de 2016,#
+
+ 238: 10:12:46.00 10:12:49.06  Duration 00:00:03.06  49
+#as autoridades americanas
+deram um fim abrupto#
+
+ 239: 10:12:49.11 10:12:51.10  Duration 00:00:01.24  29
+#a um teste clínico de fase 2#
+
+ 240: 10:12:51.15 10:12:55.06  Duration 00:00:03.16  55
+#após 5 pacientes
+morrerem de edema cerebral,#
+
+ 241: 10:12:55.11 10:12:57.11  Duration 00:00:02.00  30
+#sinal de toxicidade neurológica.#
+
+ 242: 10:12:58.10 10:13:00.12  Duration 00:00:02.02  31
+É um alerta muito sério.
+
+ 243: 10:13:01.12 10:13:04.01  Duration 00:00:02.14  38
+Ainda há muito espaço
+para a ambição,
+
+ 244: 10:13:04.15 10:13:07.18  Duration 00:00:03.03  47
+mas uma ambição
+que deve ser monitorada, é lógico,
+
+ 245: 10:13:07.22 10:13:10.00  Duration 00:00:02.03  32
+que deve ser
+constantemente afinada.
+
+ 246: 10:13:11.05 10:13:12.11  Duration 00:00:01.06  19
+Radiação
+Perigo
+
+ 247: 10:13:12.15 10:13:15.11  Duration 00:00:02.21  43
+#Atualmente, só pacientes
+em fase terminal#
+
+ 248: 10:13:15.15 10:13:17.09  Duration 00:00:01.19  26
+#participam
+dos testes clínicos.#
+
+ 249: 10:13:19.09 10:13:21.21  Duration 00:00:02.12  37
+#A imunoterapia representa
+de certo modo#
+
+ 250: 10:13:22.01 10:13:24.14  Duration 00:00:02.13  38
+#o tratamento da última chance.#
+
+ 251: 10:13:25.15 10:13:28.04  Duration 00:00:02.14  38
+#Mais que nunca,
+aposta-se na colaboração#
+
+ 252: 10:13:28.09 10:13:31.04  Duration 00:00:02.20  42
+#de todos os pesquisadores
+para domar o câncer.#
+
+ 253: 10:13:32.05 10:13:35.11  Duration 00:00:03.06  49
+#Apesar de seus esforços,
+fato é que seu alvo#
+
+ 254: 10:13:35.16 10:13:38.23  Duration 00:00:03.07  49
+#tem todas as aparências
+de um inimigo imortal.#
+
+ 255: 10:13:44.13 10:13:47.12  Duration 00:00:02.24  44
+#Pouco importa o ângulo de ataque
+contra o câncer,#
+
+ 256: 10:13:47.16 10:13:49.09  Duration 00:00:01.18  26
+#os cientistas
+são otimistas.#
+
+ 257: 10:13:49.23 10:13:52.23  Duration 00:00:03.00  45
+-Muito obrigado.
+-Vamos falar disso tudo.
+
+ 258: 10:13:53.02 10:13:55.08  Duration 00:00:02.06  34
+-Ainda resta muito trabalho.
+-Claro.
+
+ 259: 10:13:55.12 10:13:57.00  Duration 00:00:01.13  23
+Mas é muito promissor.
+
+ 260: 10:13:57.04 10:13:59.17  Duration 00:00:02.13  38
+Estou contentíssimo.
+Nos falamos em breve.
+
+ 261: 10:13:59.21 10:14:01.17  Duration 00:00:01.21  28
+-Perfeito.
+-Para os novos resultados.
+
+ 262: 10:14:01.21 10:14:04.10  Duration 00:00:02.14  38
+Ainda não é a fase
+em que se cura tudo.
+
+ 263: 10:14:04.14 10:14:06.06  Duration 00:00:01.17  25
+Não eliminaremos o câncer.
+
+ 264: 10:14:06.11 10:14:07.18  Duration 00:00:01.07  19
+Haverá sempre câncer,
+
+ 265: 10:14:07.22 10:14:10.11  Duration 00:00:02.14  38
+pois é uma propriedade intrínseca
+das células.
+
+ 266: 10:14:10.16 10:14:14.05  Duration 00:00:03.14  53
+Está claro que sempre haverá
+células cancerosas.
+
+ 267: 10:14:15.22 10:14:19.01  Duration 00:00:03.04  47
+Mas a ideia
+é que seremos capazes de focar
+
+ 268: 10:14:19.06 10:14:21.14  Duration 00:00:02.08  35
+nos diversos tipos de câncer
+
+ 269: 10:14:21.18 10:14:25.21  Duration 00:00:04.03  62
+segundo os genes que foram prpimeiro
+uma doença genética,
+
+ 270: 10:14:26.00 10:14:28.00  Duration 00:00:02.00  30
+logo,
+genes que foram afetados.
+
+ 271: 10:14:29.04 10:14:31.16  Duration 00:00:02.12  37
+O câncer é um inimigo terrível.
+
+ 272: 10:14:31.21 10:14:34.11  Duration 00:00:02.15  39
+O sistema imunitário
+tem várias armas.
+
+ 273: 10:14:34.16 10:14:36.23  Duration 00:00:02.07  34
+Temos de aprender a fazer
+
+ 274: 10:14:37.02 10:14:39.23  Duration 00:00:02.21  43
+com que o câncer
+não possa vencê-las todas
+
+ 275: 10:14:40.02 10:14:42.02  Duration 00:00:02.00  30
+e que essas armas imunitárias
+
+ 276: 10:14:42.06 10:14:44.00  Duration 00:00:01.19  26
+possam ser melhoradas.
+
+ 277: 10:14:44.23 10:14:47.04  Duration 00:00:02.06  34
+É nisso que todos trabalhamos.
+
+ 278: 10:14:47.24 10:14:49.18  Duration 00:00:01.19  26
+Os resultados atuais
+são bons.
+
+ 279: 10:14:49.22 10:14:51.20  Duration 00:00:01.23  29
+E com a evolução,
+ultimamente,
+
+ 280: 10:14:51.24 10:14:54.16  Duration 00:00:02.17  40
+podemos confirmar
+que vocês poderão ter férias.
+
+ 281: 10:14:55.21 10:14:58.15  Duration 00:00:02.19  41
+#Com esse importante avanço
+contra o câncer,#
+
+ 282: 10:14:58.19 10:15:00.24  Duration 00:00:02.05  33
+#os pesquisadores pensam
+que chegamos enfim#
+
+ 283: 10:15:01.03 10:15:03.16  Duration 00:00:02.13  38
+#à beira de uma próxima revolução.#
+
+ 284: 10:15:04.16 10:15:06.12  Duration 00:00:01.21  28
+eu vejo muita coisa positiva.
+
+ 285: 10:15:07.11 10:15:09.21  Duration 00:00:02.10  36
+Chegamos a mais de 70% dos cânceres
+
+ 286: 10:15:10.01 10:15:11.01  Duration 00:00:01.00  15
+curados.
+
+ 287: 10:15:11.05 10:15:14.08  Duration 00:00:03.03  47
+Estávamos em 20% há 50 anos.
+
+ 288: 10:15:15.00 10:15:17.02  Duration 00:00:02.02  31
+Um caminho incrível foi feito.
+
+ 289: 10:15:17.15 10:15:19.17  Duration 00:00:02.02  31
+E há muita coisa acontecendo,
+
+ 290: 10:15:19.21 10:15:22.12  Duration 00:00:02.16  40
+e tem gente que sobrevive,
+todo dia.
+
+ 291: 10:15:28.24 10:15:32.21  Duration 00:00:03.22  58
+Os vírus farão parte
+dos tratamentos contra o câncer?
+
+ 292: 10:15:33.00 10:15:34.15  Duration 00:00:01.15  24
+Para essa oncologista
+do Quebec,
+
+ 293: 10:15:34.19 10:15:38.03  Duration 00:00:03.09  50
+diretora de pesquisa clínica
+na Universidade Duke,
+
+ 294: 10:15:38.07 10:15:39.11  Duration 00:00:01.04  17
+não há dúvida.
+
+ 295: 10:15:39.15 10:15:41.20  Duration 00:00:02.05  33
+Annick Desjardins
+usa o vírus da pólio
+
+ 296: 10:15:41.24 10:15:43.17  Duration 00:00:01.18  26
+para tratar
+o câncer do cérebro
+
+ 297: 10:15:43.21 10:15:46.10  Duration 00:00:02.14  38
+e seus resultados
+são espetaculares.
+
+ 298: 10:15:48.17 10:15:51.07  Duration 00:00:02.15  39
+#Clyde Gann, 61 anos,#
+
+ 299: 10:15:51.11 10:15:55.16  Duration 00:00:04.05  63
+#está no 3º tumor no cérebro
+desde 2013.#
+
+ 300: 10:15:55.20 10:15:57.19  Duration 00:00:01.24  29
+#Ele tentou de tudo
+para se curar:#
+
+ 301: 10:15:58.07 10:16:02.11  Duration 00:00:04.04  62
+#radioterapia, quimioterapia
+e cirurgia.#
+
+ 302: 10:16:02.15 10:16:05.18  Duration 00:00:03.03  47
+#Mas ele ainda tem esperança
+de sair dessa#
+
+ 303: 10:16:05.22 10:16:07.17  Duration 00:00:01.20  27
+#graças a um novo tratamento#
+
+ 304: 10:16:07.21 10:16:11.16  Duration 00:00:03.20  57
+#desenvolvido
+com o vírus da póliomielite.#
+
+ 305: 10:16:12.22 10:16:16.20  Duration 00:00:03.23  59
+Meu tratamento está indo bem.
+Eu me sinto bem.
+
+ 306: 10:16:16.24 10:16:21.17  Duration 00:00:04.18  71
+Posso andar 4 ou 5 quilômetros
+por dia.
+
+ 307: 10:16:21.21 10:16:23.18  Duration 00:00:01.22  28
+#Ele foi injetado em março#
+
+ 308: 10:16:23.22 10:16:27.12  Duration 00:00:03.15  54
+#com o vírus modificado da pólio
+no cérebro.#
+
+ 309: 10:16:27.16 10:16:29.15  Duration 00:00:01.24  29
+#Um vírus que,
+no entanto, matou#
+
+ 310: 10:16:29.20 10:16:31.21  Duration 00:00:02.01  31
+#milhões de pessoas.#
+
+ 311: 10:16:32.00 10:16:36.05  Duration 00:00:04.05  63
+#Ele agora é utilizado
+para destruir o glioblastoma,#
+
+ 312: 10:16:36.09 10:16:40.01  Duration 00:00:03.17  55
+#um tumor mortal
+que ameaça a vida de Clyde.#
+
+ 313: 10:16:40.06 10:16:44.15  Duration 00:00:04.09  65
+É um dos poucos centros médicos
+
+ 314: 10:16:44.19 10:16:50.13  Duration 00:00:05.19  86
+em que todo mundo nos encoraja
+
+ 315: 10:16:50.17 10:16:51.21  Duration 00:00:01.04  17
+com os tratamentos.
+
+ 316: 10:16:52.00 10:16:54.16  Duration 00:00:02.16  40
+-Isso ajuda?
+-Ah, sim! Sim!
+
+ 317: 10:16:55.14 10:16:58.23  Duration 00:00:03.09  50
+#Ele está num ambicioso
+programa de pesquisa#
+
+ 318: 10:16:59.03 10:17:02.21  Duration 00:00:03.18  56
+#no Duke Cancer Center,
+na Carolina do Norte.#
+
+ 319: 10:17:03.08 10:17:05.21  Duration 00:00:02.13  38
+#Nós acompanhamos
+ele e seus médicos,#
+
+ 320: 10:17:06.00 10:17:10.08  Duration 00:00:04.08  65
+#que desenvolvem esse tratamento
+que provoca espanto e incredulidade.#
+
+ 321: 10:17:10.20 10:17:15.09  Duration 00:00:04.14  68
+A primeira paciente
+a quem oferecemos o vírus da pólio,
+
+ 322: 10:17:16.07 10:17:18.18  Duration 00:00:02.11  37
+a mãe dela me disse:
+
+ 323: 10:17:18.22 10:17:22.10  Duration 00:00:03.13  53
+"Gosto muito da senhora, doutora,
+mas acho que está louca."
+
+ 324: 10:17:22.14 10:17:24.03  Duration 00:00:01.14  23
+Foi o que ela me disse.
+
+ 325: 10:17:24.07 10:17:26.21  Duration 00:00:02.14  38
+#A oncologista quebequense
+Annick Desjardins#
+
+ 326: 10:17:27.00 10:17:30.20  Duration 00:00:03.20  57
+#dirige a pesquisa clínica
+desse tratamento desde 2012.#
+
+ 327: 10:17:32.21 10:17:35.05  Duration 00:00:02.09  35
+#Seu colega, oDr. Henry Friedman,#
+
+ 328: 10:17:35.10 10:17:39.19  Duration 00:00:04.09  65
+#diretor no Duke Cancer Center,
+também não acreditava nele.#
+
+ 329: 10:17:40.03 10:17:42.09  Duration 00:00:02.06  34
+Dr. Henry Friedman
+Diretor Duke Cancer Center
+
+ 330: 10:17:42.13 10:17:45.03  Duration 00:00:02.15  39
+Como imaginar tratar
+um tumor no cérebro
+
+ 331: 10:17:45.07 10:17:46.18  Duration 00:00:01.11  22
+com um produto
+tão tóxico?
+
+ 332: 10:17:46.22 10:17:48.12  Duration 00:00:01.15  24
+Eu achava impossível.
+
+ 333: 10:17:48.16 10:17:50.23  Duration 00:00:02.07  34
+A Agência Fed. da Saúde
+reagiu assim.
+
+ 334: 10:17:51.22 10:17:54.10  Duration 00:00:02.13  38
+#A Food and Drug Administration,
+nos EUA,#
+
+ 335: 10:17:54.20 10:17:57.10  Duration 00:00:02.15  39
+#temia de fato
+que o hospital provocasse#
+
+ 336: 10:17:57.15 10:18:00.21  Duration 00:00:03.06  49
+#uma pandemia de pólio
+manipulando o vírus.#
+
+ 337: 10:18:01.01 10:18:04.10  Duration 00:00:03.09  50
+#Hoje, o Dr. Desjardins
+ainda está impressionado#
+
+ 338: 10:18:04.14 10:18:07.10  Duration 00:00:02.21  43
+#pelos resultados da fase 1,
+em que 21 pacientes#
+
+ 339: 10:18:07.15 10:18:08.24  Duration 00:00:01.09  20
+#foram tratados.#
+
+ 340: 10:18:09.04 10:18:11.07  Duration 00:00:02.03  32
+Se olhar
+com o tratamento da pólio, 
+
+ 341: 10:18:11.11 10:18:13.13  Duration 00:00:02.02  31
+temos mais de 20% dos pacientes
+
+ 342: 10:18:13.18 10:18:18.12  Duration 00:00:04.19  71
+ainda vivos 3, 4, 5 anos depois.
+
+ 343: 10:18:18.16 10:18:20.23  Duration 00:00:02.07  34
+Em princípio deviam ter morrido?
+
+ 344: 10:18:21.02 10:18:22.03  Duration 00:00:01.01  16
+Estariam mortos.
+
+ 345: 10:18:27.08 10:18:29.22  Duration 00:00:02.14  38
+#É um dia importante
+para Clyde Gann.#
+
+ 346: 10:18:30.02 10:18:34.12  Duration 00:00:04.10  66
+#Ele está no hospital
+para ter outra IRM#
+
+ 347: 10:18:34.18 10:18:36.15  Duration 00:00:01.22  28
+#e toda uma série de testes.#
+
+ 348: 10:18:40.10 10:18:43.10  Duration 00:00:03.00  45
+#Ele saberá em breve
+se seu tumor no cérebro,#
+
+ 349: 10:18:43.14 10:18:46.15  Duration 00:00:03.01  46
+#tratado com o vírus da pólio,
+diminuiu.#
+
+ 350: 10:18:47.03 10:18:51.16  Duration 00:00:04.13  68
+#Ele aguarda ansioso seus resultados
+e a Dra. Annick Desjardins#
+
+ 351: 10:18:51.21 10:18:54.08  Duration 00:00:02.12  37
+#com sua esposa
+e um de seus filhos.#
+
+ 352: 10:18:54.13 10:18:59.06  Duration 00:00:04.18  71
+Desde nosso primeiro encontro,
+a Dra. Desjardins me disse
+
+ 353: 10:18:59.11 10:19:00.23  Duration 00:00:01.12  22
+que eu precisava
+de metas,
+
+ 354: 10:19:01.03 10:19:06.18  Duration 00:00:05.15  84
+de um plano, que era preciso
+respeitá-lo e ser otimista.
+
+ 355: 10:19:09.07 10:19:12.00  Duration 00:00:02.18  41
+#Se Clyde ainda pode esperar viver,#
+
+ 356: 10:19:12.04 10:19:15.11  Duration 00:00:03.07  49
+#é também graças ao trabalho
+do microbiólogo#
+
+ 357: 10:19:15.16 10:19:17.11  Duration 00:00:01.20  27
+#Matthias Gromeier.#
+
+ 358: 10:19:17.15 10:19:21.05  Duration 00:00:03.15  54
+#Ele tornou
+o vírus da pólio seguro#
+
+ 359: 10:19:21.10 10:19:22.14  Duration 00:00:01.04  17
+#para tratar o câncer.#
+
+ 360: 10:19:22.18 10:19:25.13  Duration 00:00:02.20  42
+#20 anos de pesquisa
+e um pouco de sorte#
+
+ 361: 10:19:25.17 10:19:28.19  Duration 00:00:03.02  46
+#para chegar
+a resultados surpreendentes.#
+
+ 362: 10:19:28.24 10:19:31.09  Duration 00:00:02.10  36
+Foi por acaso
+que criamos esse vírus
+
+ 363: 10:19:31.14 10:19:34.12  Duration 00:00:02.23  44
+para combater o câncer.
+
+ 364: 10:19:34.17 10:19:37.16  Duration 00:00:02.24  44
+Não estava em nossos planos.
+
+ 365: 10:19:37.21 10:19:40.16  Duration 00:00:02.20  42
+#Hoje, o tratamento funciona,#
+
+ 366: 10:19:40.21 10:19:45.13  Duration 00:00:04.17  70
+#pois o vírus da poliomielite
+transformado pelo Dr. Gromeier#
+
+ 367: 10:19:45.17 10:19:49.24  Duration 00:00:04.07  64
+#pode se prender ao tumor
+e açoitar o sistema imunitário.#
+
+ 368: 10:19:50.03 10:19:52.19  Duration 00:00:02.16  40
+Matthias Gromeier
+Microbiólogo Duke Cancer Center
+
+ 369: 10:19:52.23 10:19:54.24  Duration 00:00:02.01  31
+O vírus ajuda
+o sistema imunitário
+
+ 370: 10:19:55.03 10:19:59.08  Duration 00:00:04.05  63
+a focar no tumor
+sem atacar o cérebro.
+
+ 371: 10:20:00.02 10:20:03.02  Duration 00:00:03.00  45
+#São portanto os anticorpos
+do paciente que fazem#
+
+ 372: 10:20:03.07 10:20:04.13  Duration 00:00:01.06  19
+#quase todo o trabalho.#
+
+ 373: 10:20:04.17 10:20:07.00  Duration 00:00:02.08  35
+#É o que se chama
+de imunoterapia.#
+
+ 374: 10:20:14.03 10:20:17.09  Duration 00:00:03.06  49
+#A Dra. Desjardins tem boas notícias
+para seu paciente.#
+
+ 375: 10:20:20.24 10:20:24.19  Duration 00:00:03.20  57
+Esta lesão aqui,
+que era muito densa, muito sólida,
+
+ 376: 10:20:24.23 10:20:26.13  Duration 00:00:01.15  24
+começou a se quebrar.
+
+ 377: 10:20:29.15 10:20:31.14  Duration 00:00:01.24  29
+#4 meses após o tratamento,#
+
+ 378: 10:20:31.19 10:20:34.09  Duration 00:00:02.15  39
+#o tumor
+no cérebro de Clyde regride.#
+
+ 379: 10:20:41.13 10:20:45.00  Duration 00:00:03.12  52
+#O glioblastoma
+pode desaparecer totalmente#
+
+ 380: 10:20:45.04 10:20:46.15  Duration 00:00:01.11  22
+#dentro de meses.#
+
+ 381: 10:20:47.04 10:20:51.18  Duration 00:00:04.14  68
+#Annick Desjardins nos mostra aqui
+o cérebro da sua primeira paciente#
+
+ 382: 10:20:51.23 10:20:53.24  Duration 00:00:02.01  31
+#tratada com o vírus da pólio.#
+
+ 383: 10:20:54.03 10:20:57.05  Duration 00:00:03.02  46
+O que podemos ver agora,
+5 anos depois,
+
+ 384: 10:20:57.09 10:20:59.03  Duration 00:00:01.19  26
+é que o tumor desapareceu.
+
+ 385: 10:20:59.07 10:21:04.03  Duration 00:00:04.21  73
+Não só o tumor,
+mas também a cavidade cirúrgica,
+
+ 386: 10:21:04.07 10:21:06.14  Duration 00:00:02.07  34
+#O cérebro curado
+que vocês viram agora#
+
+ 387: 10:21:06.18 10:21:09.21  Duration 00:00:03.03  47
+#é o de uma moça
+de vinte e poucos anos.#
+
+ 388: 10:21:10.00 10:21:13.24  Duration 00:00:03.24  59
+#Ela está em remissão há 5 anos
+de um câncer que ia matá-la.#
+
+ 389: 10:21:15.01 10:21:17.18  Duration 00:00:02.17  40
+#Apesar dos resultados
+espetaculares,#
+
+ 390: 10:21:17.22 10:21:20.07  Duration 00:00:02.10  36
+#os especialistas são prudentes.#
+
+ 391: 10:21:20.11 10:21:24.23  Duration 00:00:04.12  67
+Nós acreditamos
+que isso pode fazer
+
+ 392: 10:21:25.02 10:21:27.18  Duration 00:00:02.16  40
+um grande desbloqueio
+no tratamento do câncer.
+
+ 393: 10:21:28.11 10:21:31.13  Duration 00:00:03.02  46
+Meus pacientes em remissão
+me perguntam:
+
+ 394: 10:21:31.17 10:21:32.24  Duration 00:00:01.07  19
+"O que devo fazer?
+
+ 395: 10:21:33.18 10:21:37.00  Duration 00:00:03.07  49
+"O que devo fazer?
+Será que posso me casar?
+
+ 396: 10:21:37.04 10:21:39.12  Duration 00:00:02.08  35
+"Será que posso ter filhos?"
+
+ 397: 10:21:41.18 10:21:43.19  Duration 00:00:02.01  31
+Resposta: "Não sei."
+
+ 398: 10:21:43.23 10:21:46.16  Duration 00:00:02.18  41
+#Ainda restam
+muitos testes a fazer#
+
+ 399: 10:21:46.21 10:21:51.01  Duration 00:00:04.05  63
+#a fim de poder um dia comercializar
+esse tratamento promissor.#
+
+ 400: 10:21:51.06 10:21:54.05  Duration 00:00:02.24  44
+#O Duke Cancer Center#
+
+ 401: 10:21:54.09 10:21:59.00  Duration 00:00:04.16  70
+#já tenta tratar outros tipos
+de câncer com o vírus da pólio.#
+
+ 402: 10:22:03.04 10:22:07.19  Duration 00:00:04.15  69
+#A guerra contra essa doença
+provavelmente jamais será ganha,#
+
+ 403: 10:22:07.23 10:22:09.07  Duration 00:00:01.09  20
+#mas cada pequena vitória#
+
+ 404: 10:22:09.11 10:22:11.01  Duration 00:00:01.15  24
+#que dá uma nova esperança#
+
+ 405: 10:22:11.05 10:22:14.21  Duration 00:00:03.16  55
+#também dá às vezes uma nova vida.#
+
+ 406: 10:22:19.05 10:22:22.15  Duration 00:00:03.10  51
+Gord Downie é o cantor
+da banda canadense Tragically Hip.
+
+ 407: 10:22:22.19 10:22:24.22  Duration 00:00:02.03  32
+Ele tinha um câncer incurável.
+
+ 408: 10:22:25.01 10:22:27.11  Duration 00:00:02.10  36
+Seus dias estavam contados
+e ele sabia.
+
+ 409: 10:22:27.15 10:22:28.12  Duration 00:00:00.22  13
+Antes de morrer,
+
+ 410: 10:22:28.16 10:22:31.00  Duration 00:00:02.09  35
+ele quis divulgar
+a vida de um jovem nativo,
+
+ 411: 10:22:31.04 10:22:33.21  Duration 00:00:02.17  40
+Chanie Wenjack,
+falecido há 50 anos.
+
+ 412: 10:22:34.00 10:22:36.20  Duration 00:00:02.20  42
+Para Gord Downie, o jovem Charlie
+encarna perfeitamente
+
+ 413: 10:22:36.24 10:22:40.10  Duration 00:00:03.11  52
+o enorme fosso entre o Canadá
+e suas Primeiras Nações.
+
+ 414: 10:22:40.14 10:22:42.15  Duration 00:00:02.01  31
+Eis a última missão desse cantor
+
+ 415: 10:22:42.19 10:22:45.05  Duration 00:00:02.11  37
+antes de sucumbir a seu câncer.
+
+ 416: 10:22:51.00 10:22:52.19  Duration 00:00:01.19  26
+#20 de agosto de 2016.#
+
+ 417: 10:22:53.10 10:22:56.17  Duration 00:00:03.07  49
+#A banda lendária Tragically Hip
+se despede do público.#
+
+ 418: 10:22:58.23 10:23:01.19  Duration 00:00:02.21  43
+#O cantor Gord Downie,
+poeta do rock canadense,#
+
+ 419: 10:23:02.10 10:23:05.12  Duration 00:00:03.02  46
+#sofre de um câncer no cérebro
+incurável.#
+
+ 420: 10:23:13.05 10:23:14.11  Duration 00:00:01.06  19
+#Seus fãs se chocam#
+
+ 421: 10:23:14.16 10:23:18.22  Duration 00:00:04.06  64
+#com a ideia de que essa voz icônica
+possa se apagar para sempre.#
+
+ 422: 10:23:23.17 10:23:26.05  Duration 00:00:02.13  38
+#Mas o país ignora,
+naquela noite,#
+
+ 423: 10:23:26.09 10:23:29.20  Duration 00:00:03.11  52
+#que Gord Downie
+já prepara um novo projeto,#
+
+ 424: 10:23:30.00 10:23:33.18  Duration 00:00:03.18  56
+#que será a realização
+mais importante da sua vida.#
+
+ 425: 10:23:41.04 10:23:45.00  Duration 00:00:03.21  58
+#3 semanas depois, Gord Downie
+voa para o norte do Ontário,#
+
+ 426: 10:23:45.14 10:23:48.06  Duration 00:00:02.17  40
+#uma das regiões
+mais isoladas do país.#
+
+ 427: 10:23:48.11 10:23:51.02  Duration 00:00:02.16  40
+#Uma viagem que ele deseja fazer
+há tempos.#
+
+ 428: 10:23:55.10 10:23:57.08  Duration 00:00:01.23  29
+#No coração da floresta boreal,#
+
+ 429: 10:23:57.12 10:23:59.05  Duration 00:00:01.18  26
+#ele espera entender melhor#
+
+ 430: 10:23:59.09 10:24:03.04  Duration 00:00:03.20  57
+#um profundo mal-estar
+que o tortura há anos.#
+
+ 431: 10:24:04.00 10:24:05.13  Duration 00:00:01.13  23
+Eu nunca soube por quê,
+
+ 432: 10:24:05.18 10:24:11.09  Duration 00:00:05.16  85
+mas sempre senti
+que não éramos um país.
+
+ 433: 10:24:11.13 10:24:14.00  Duration 00:00:02.12  37
+Agora acho que sei.
+
+ 434: 10:24:21.09 10:24:22.09  Duration 00:00:01.00  15
+#Ogoki Post.#
+
+ 435: 10:24:23.24 10:24:27.10  Duration 00:00:03.11  52
+#Pequena comunidade nativa
+na Reserva de Marten Falls.#
+
+ 436: 10:24:36.05 10:24:38.24  Duration 00:00:02.19  41
+#Gord Downie veio encontrar
+as irmãs Wenjack#
+
+ 437: 10:24:39.04 10:24:42.17  Duration 00:00:03.13  53
+#com seus dois irmãos
+e uma pequena equipe de filmagem.#
+
+ 438: 10:24:45.03 10:24:46.22  Duration 00:00:01.19  26
+#Ele quer se recolher#
+
+ 439: 10:24:47.02 10:24:49.22  Duration 00:00:02.20  42
+#no túmulo do jovem irmão delas,
+Chanie,#
+
+ 440: 10:24:50.01 10:24:52.09  Duration 00:00:02.08  35
+#falecido há 50 anos.#
+
+ 441: 10:24:59.08 10:25:02.09  Duration 00:00:03.01  46
+Meu próprio pai cavou esse túmulo.
+
+ 442: 10:25:02.13 10:25:06.17  Duration 00:00:04.04  62
+E ele estava sofrendo tanto
+
+ 443: 10:25:06.22 10:25:10.02  Duration 00:00:03.05  48
+que quase caiu dentro dele.
+
+ 444: 10:25:12.05 10:25:17.20  Duration 00:00:05.15  84
+Eu, foi minha revolta que me fez
+superar a morte do meu irmão.
+
+ 445: 10:25:35.09 10:25:39.10  Duration 00:00:04.01  61
+#Chanie Wenjack era
+um jovem Ojibwé de Marten Falls.#
+
+ 446: 10:25:39.24 10:25:45.04  Duration 00:00:05.05  78
+#Em 1963, com 9 anos,
+ele foi arrancado da família,#
+
+ 447: 10:25:45.08 10:25:48.13  Duration 00:00:03.05  48
+#como dezenas de milhares
+de outros jovens nativos,#
+
+ 448: 10:25:48.17 10:25:51.24  Duration 00:00:03.07  49
+#depois enviado
+para um pensionato longe de casa.#
+
+ 449: 10:25:52.03 10:25:54.24  Duration 00:00:02.21  43
+Ele me perguntou
+por que eu não ia.
+
+ 450: 10:25:55.03 10:25:59.05  Duration 00:00:04.02  61
+Eu respondi que meu nome
+não estava na lista.
+
+ 451: 10:25:59.09 10:26:04.17  Duration 00:00:05.08  80
+Eu via bem que ele não queria ir.
+
+ 452: 10:26:04.21 10:26:09.02  Duration 00:00:04.06  64
+Então eu lhe disse para não
+se preocupar, que tudo daria certo.
+
+ 453: 10:26:11.07 10:26:13.22  Duration 00:00:02.15  39
+#Entre 1902 e 1976,#
+
+ 454: 10:26:14.02 10:26:16.20  Duration 00:00:02.18  41
+#o pensionato autóctone
+Cecilia Jeffrey,#
+
+ 455: 10:26:16.24 10:26:19.06  Duration 00:00:02.07  34
+#sob a tutela
+da Igreja Presbiteriana,#
+
+ 456: 10:26:19.10 10:26:21.06  Duration 00:00:01.21  28
+#acolhe milhares de jovens.#
+
+ 457: 10:26:22.12 10:26:23.21  Duration 00:00:01.09  20
+#Atrás desses muros,#
+
+ 458: 10:26:24.00 10:26:28.04  Duration 00:00:04.04  62
+#várias crianças são vítimas
+de abusos físicos e sexuais.#
+
+ 459: 10:26:28.09 10:26:33.22  Duration 00:00:05.13  83
+Dei que ele foi espancado.
+Que ele foi punido.
+
+ 460: 10:26:34.02 10:26:37.00  Duration 00:00:02.23  44
+E sei também
+que ele foi agredido sexualmente.
+
+ 461: 10:26:38.17 10:26:42.21  Duration 00:00:04.04  62
+#Em outubro de 1966,
+Chanie foge do pensionato.#
+
+ 462: 10:26:45.08 10:26:47.22  Duration 00:00:02.14  38
+#Seu objetivo: voltar para casa.#
+
+ 463: 10:26:48.01 10:26:51.06  Duration 00:00:03.05  48
+#Um trajeto de 600 km, a pé.#
+
+ 464: 10:26:54.11 10:26:57.21  Duration 00:00:03.10  51
+#Vestido com uma capa
+e com alguns fósforos no bolso,#
+
+ 465: 10:26:58.00 10:27:00.10  Duration 00:00:02.10  36
+#ele segue a ferrovia
+para o norte,#
+
+ 466: 10:27:00.14 10:27:04.01  Duration 00:00:03.12  52
+#enfrentando noites glaciais
+e as chuvas do outono.#
+
+ 467: 10:27:05.10 10:27:08.11  Duration 00:00:03.01  46
+#Seu corpo sem vida
+foi achado 2 dias depois,#
+
+ 468: 10:27:08.15 10:27:10.10  Duration 00:00:01.20  27
+#perto da linha de ferro.#
+
+ 469: 10:27:12.07 10:27:15.12  Duration 00:00:03.05  48
+#A autópsia revela
+que Chanie morreu de frio.#
+
+ 470: 10:27:16.07 10:27:18.22  Duration 00:00:02.15  39
+#Ele tinha feridas
+nas pernas e no rosto,#
+
+ 471: 10:27:19.01 10:27:21.03  Duration 00:00:02.02  31
+#como se tivesse caído
+várias vezes,#
+
+ 472: 10:27:21.07 10:27:23.13  Duration 00:00:02.06  34
+#fraco e desorientado.#
+
+ 473: 10:27:30.07 10:27:33.05  Duration 00:00:02.23  44
+#50 anos após a morte
+do jeune Chanie,#
+
+ 474: 10:27:33.09 10:27:36.13  Duration 00:00:03.04  47
+#sua família ainda não consegue
+fazer seu luto.#
+
+ 475: 10:27:38.02 10:27:41.19  Duration 00:00:03.17  55
+Durante a sua convalescença,
+após a cirurgia nos pulmões,
+
+ 476: 10:27:41.24 10:27:46.20  Duration 00:00:04.21  73
+a dor o mantinha
+muitas vezes acordado.
+
+ 477: 10:27:46.24 10:27:50.04  Duration 00:00:03.05  48
+Então eu ficava perto dele
+
+ 478: 10:27:50.08 10:27:52.21  Duration 00:00:02.13  38
+e, iluminados pela lua,
+
+ 479: 10:27:53.00 10:27:57.24  Duration 00:00:04.24  74
+dançávamos enquanto todos dormiam.
+
+ 480: 10:27:59.10 10:28:03.01  Duration 00:00:03.16  55
+Por muito tempo eu recusei
+o que tinha acontecido.
+
+ 481: 10:28:03.21 10:28:08.16  Duration 00:00:04.20  72
+Velyn Wenjack
+Irmã de Chanie
+
+ 482: 10:28:08.21 10:28:13.24  Duration 00:00:05.03  77
+Até eu ir ao local da sua morte.
+
+ 483: 10:28:14.03 10:28:15.22  Duration 00:00:01.19  26
+Não era fácil,
+
+ 484: 10:28:16.02 10:28:21.14  Duration 00:00:05.12  82
+mas eu precisava fazer isso
+
+ 485: 10:28:21.18 10:28:24.18  Duration 00:00:03.00  45
+para virar a página.
+
+ 486: 10:28:27.11 10:28:31.01  Duration 00:00:03.15  54
+É incrível essa tendência
+que há no Sul
+
+ 487: 10:28:31.06 10:28:35.08  Duration 00:00:04.02  61
+a, digamos, ignorar tudo isso,
+
+ 488: 10:28:35.12 10:28:38.03  Duration 00:00:02.16  40
+a fazer como se nada
+tivesse acontecido.
+
+ 489: 10:28:38.08 10:28:42.22  Duration 00:00:04.14  68
+Não é a ideia
+que se tem do Canadá. 
+
+ 490: 10:28:43.02 10:28:45.03  Duration 00:00:02.01  31
+Nós não fizemos nada!
+
+ 491: 10:28:52.20 10:28:55.23  Duration 00:00:03.03  47
+#O Centro Nacional
+da Verdade e da Reconciliação#
+
+ 492: 10:28:56.03 10:28:59.08  Duration 00:00:03.05  48
+#guarda em seus arquivos
+depoimentos e vestígios#
+
+ 493: 10:28:59.12 10:29:01.23  Duration 00:00:02.11  37
+#dos ex-alunos dos pensionatos.#
+
+ 494: 10:29:04.12 10:29:07.11  Duration 00:00:02.24  44
+#Ry Moran,
+um mestiço da Colúmbia Britânica,#
+
+ 495: 10:29:07.16 10:29:09.16  Duration 00:00:02.00  30
+#é diretor geral do Centro.#
+
+ 496: 10:29:13.10 10:29:14.16  Duration 00:00:01.06  19
+A história de Chanie
+
+ 497: 10:29:14.20 10:29:17.08  Duration 00:00:02.13  38
+é a de todas essas crianças
+arrancadas do lar.
+
+ 498: 10:29:18.09 10:29:20.17  Duration 00:00:02.08  35
+Crianças
+que tinham saudade de casa,
+
+ 499: 10:29:20.21 10:29:22.11  Duration 00:00:01.15  24
+agredidas, violadas.
+
+ 500: 10:29:22.15 10:29:24.23  Duration 00:00:02.08  35
+Crianças que queriam sair de lá.
+
+ 501: 10:29:25.03 10:29:27.16  Duration 00:00:02.13  38
+Deveríamos questionar
+por que as crianças
+
+ 502: 10:29:27.21 10:29:29.15  Duration 00:00:01.19  26
+queriam fugir
+dos pensionatos.
+
+ 503: 10:29:33.18 10:29:36.01  Duration 00:00:02.08  35
+#Ele repertoriou casos
+de 35 jovens#
+
+ 504: 10:29:36.05 10:29:37.10  Duration 00:00:01.05  18
+#mortos como Chanie#
+
+ 505: 10:29:37.15 10:29:40.05  Duration 00:00:02.15  39
+#após fugir dos pensionatos.#
+
+ 506: 10:29:41.19 10:29:45.19  Duration 00:00:04.00  60
+#Crianças muitas vezes esquecidas,
+como centenas de jovens nativos#
+
+ 507: 10:29:45.24 10:29:48.04  Duration 00:00:02.05  33
+#enterrados em túmulos anônimos#
+
+ 508: 10:29:48.08 10:29:50.23  Duration 00:00:02.15  39
+#nos terrenos
+dessas instituições antigas.#
+
+ 509: 10:29:53.18 10:29:57.13  Duration 00:00:03.20  57
+Eu ainda sentia a dor
+da perda do meu irmão.
+
+ 510: 10:29:57.18 10:30:01.11  Duration 00:00:03.18  56
+#Mas Pearl Wenjack não aceita
+que o irmão tenha morrido em vão.#
+
+ 511: 10:30:01.15 10:30:06.06  Duration 00:00:04.16  70
+Eu queria que sua história
+servisse para alguma coisa.
+
+ 512: 10:30:06.10 10:30:09.04  Duration 00:00:02.19  41
+Eu não sabia como,
+
+ 513: 10:30:09.09 10:30:15.21  Duration 00:00:06.12  97
+mas eu sabia que isso aconteceria.
+
+ 514: 10:30:16.01 10:30:20.19  Duration 00:00:04.18  71
+Quem poderia imaginar?
+Tragically Hip!
+
+ 515: 10:30:23.00 10:30:25.08  Duration 00:00:02.08  35
+#A banda Tragically Hip
+fez carreira#
+
+ 516: 10:30:25.12 10:30:28.00  Duration 00:00:02.13  38
+#abordando temas
+próprios do Canadá,#
+
+ 517: 10:30:28.04 10:30:30.03  Duration 00:00:01.24  29
+#com um tom em geral irônico.#
+
+ 518: 10:30:30.07 10:30:32.17  Duration 00:00:02.10  36
+#A marca do letrista Gord Downie.#
+
+ 519: 10:30:34.19 10:30:39.09  Duration 00:00:04.15  69
+#Em 2012, Downie vê um artigo
+de 1967,#
+
+ 520: 10:30:39.13 10:30:41.00  Duration 00:00:01.12  22
+#da revista# Macleans,
+
+ 521: 10:30:41.04 10:30:44.06  Duration 00:00:03.02  46
+#que contava a história
+de Chanie Wenjack.#
+
+ 522: 10:30:44.11 10:30:48.04  Duration 00:00:03.18  56
+#Foi bem entes de saber
+que ele tinha câncer.#
+
+ 523: 10:30:49.22 10:30:54.19  Duration 00:00:04.22  73
+Meu irmão Mike me deu esse artigo
+que conta a história
+
+ 524: 10:30:54.23 10:30:59.17  Duration 00:00:04.19  71
+de um menino que fugiu
+para voltar para casa.
+
+ 525: 10:31:00.10 10:31:04.24  Duration 00:00:04.14  68
+#Para Downie, a morte do jovem Chanie
+encarna o fosso que existe#
+
+ 526: 10:31:05.03 10:31:07.24  Duration 00:00:02.21  43
+#entre as Primeiras Nações
+e o resto do país.#
+
+ 527: 10:31:08.22 10:31:09.17  Duration 00:00:00.20  12
+Nunca se fala nisso.
+
+ 528: 10:31:09.21 10:31:12.06  Duration 00:00:02.10  36
+Enquanto passamos
+a maior parte do tempo
+
+ 529: 10:31:12.10 10:31:14.08  Duration 00:00:01.23  29
+nos gabando
+de# donuts# e hóquei.
+
+ 530: 10:31:15.12 10:31:17.17  Duration 00:00:02.05  33
+#Inspirado por esse triste relato,#
+
+ 531: 10:31:17.21 10:31:20.19  Duration 00:00:02.23  44
+#Gord Downie escreve
+uma dezena de poemas.#
+
+ 532: 10:31:28.03 10:31:31.09  Duration 00:00:03.06  49
+#E é um membro
+da ex-banda cult The Stills#
+
+ 533: 10:31:31.13 10:31:33.11  Duration 00:00:01.23  29
+#que dará vida a seus textos.#
+
+ 534: 10:31:36.12 10:31:37.18  Duration 00:00:01.06  19
+#Em 2013,#
+
+ 535: 10:31:37.23 10:31:41.15  Duration 00:00:03.17  55
+#Dave Hamelin e outro músico
+da cena# indie# de Toronto,#
+
+ 536: 10:31:41.20 10:31:42.24  Duration 00:00:01.04  17
+#Kevin Drew,#
+
+ 537: 10:31:43.03 10:31:46.12  Duration 00:00:03.09  50
+#abordam Gord Downie
+para um projeto de álbum solo.#
+
+ 538: 10:31:50.23 10:31:54.18  Duration 00:00:03.20  57
+#Downie propõe a eles os textos
+sobre o jovem Chanie.#
+
+ 539: 10:31:54.22 10:31:58.19  Duration 00:00:03.22  58
+Gord não nos indicou exatamente
+qual era a história do álbum.
+
+ 540: 10:31:58.24 10:32:01.19  Duration 00:00:02.20  42
+Ele não queria que pensássemos nela
+no álbum.
+
+ 541: 10:32:01.23 10:32:05.19  Duration 00:00:03.21  58
+Ele não queria
+que fosse forçado demais.
+
+ 542: 10:32:07.24 10:32:12.04  Duration 00:00:04.05  63
+Nas aulas de história, nunca
+ouvi falar de escolas residenciais.
+
+ 543: 10:32:12.08 10:32:14.18  Duration 00:00:02.10  36
+Não conhecia
+os pensionatos autóctones?
+
+ 544: 10:32:14.23 10:32:16.06  Duration 00:00:01.08  20
+Nada.
+
+ 545: 10:32:16.24 10:32:17.22  Duration 00:00:00.23  14
+Nada.
+
+ 546: 10:32:21.24 10:32:23.23  Duration 00:00:01.24  29
+Foi Gord que nos falou deles.
+
+ 547: 10:32:24.02 10:32:27.09  Duration 00:00:03.07  49
+Eu tenho 40 anos e cresci
+num mundo narcisista.
+
+ 548: 10:32:28.16 10:32:32.00  Duration 00:00:03.09  50
+Kevin Drew - Músico
+
+ 549: 10:32:32.04 10:32:35.05  Duration 00:00:03.01  46
+Nã me mandaram
+fechar os olhos para isso.
+
+ 550: 10:32:35.09 10:32:37.13  Duration 00:00:02.04  32
+Aparentemente, eu o fazia.
+
+ 551: 10:32:39.11 10:32:41.05  Duration 00:00:01.19  26
+Não posso mais viver assim.
+
+ 552: 10:32:41.09 10:32:43.04  Duration 00:00:01.20  27
+Quero ver o mundo
+como ele é.
+
+ 553: 10:32:51.12 10:32:54.19  Duration 00:00:03.07  49
+#Em alguns dias, num estúdio
+à beira do Lago Ontário,#
+
+ 554: 10:32:54.23 10:32:56.20  Duration 00:00:01.22  28
+#em plena tempestade de neve,#
+
+ 555: 10:32:56.24 10:32:59.10  Duration 00:00:02.11  37
+#o trio grava dez músicas.#
+
+ 556: 10:33:00.08 10:33:03.12  Duration 00:00:03.04  47
+#O álbum é concluído
+em janeiro de 2014.#
+
+ 557: 10:33:04.22 10:33:07.14  Duration 00:00:02.17  40
+Depois, pensamos:
+"Quando lançamos o álbum?"
+
+ 558: 10:33:07.18 10:33:10.23  Duration 00:00:03.05  48
+E Gord disse: "Outubro de 2016."
+
+ 559: 10:33:11.14 10:33:14.20  Duration 00:00:03.06  49
+Kevin e eu ficamos:
+"O quê? Como assim?
+
+ 560: 10:33:15.08 10:33:17.09  Duration 00:00:02.01  31
+"Você quer lançá-lo em 3 anos?"
+
+ 561: 10:33:17.13 10:33:19.02  Duration 00:00:01.14  23
+E ele:
+"Deve ser lançado
+
+ 562: 10:33:19.06 10:33:22.18  Duration 00:00:03.12  52
+"no 50º aniversário
+da morte de Chanie."
+
+ 563: 10:33:22.22 10:33:23.24  Duration 00:00:01.02  16
+Era essa a ideia.
+
+ 564: 10:33:29.22 10:33:34.07  Duration 00:00:04.10  66
+#Mas na primavera de 2016,
+uma notícia abala o Canadá.#
+
+ 565: 10:33:34.12 10:33:36.19  Duration 00:00:02.07  34
+Outras notícias
+chamaram nossa atenção,
+
+ 566: 10:33:36.23 10:33:38.14  Duration 00:00:01.16  25
+sobretudo o câncer
+que ameaça
+
+ 567: 10:33:38.18 10:33:41.20  Duration 00:00:03.02  46
+a vida do cantor
+da banda The Tragically Hip.
+
+ 568: 10:33:43.18 10:33:46.18  Duration 00:00:03.00  45
+#Gord Downie sofre 2 intervenções
+no cérebro,#
+
+ 569: 10:33:46.22 10:33:50.00  Duration 00:00:03.03  47
+#além de tratamentos
+de radioterapia e químio.#
+
+ 570: 10:33:50.20 10:33:53.03  Duration 00:00:02.08  35
+#Apesar do prognóstico sombrio,#
+
+ 571: 10:33:53.08 10:33:57.01  Duration 00:00:03.18  56
+#a história do jovem Chanie
+ainda ocupa a mente do cantor.#
+
+ 572: 10:33:58.07 10:34:03.21  Duration 00:00:05.14  83
+Precisamos encontrar um meio
+de ajudar nossos amigos do Norte.
+
+ 573: 10:34:04.05 10:34:06.17  Duration 00:00:02.12  37
+Não digo que conseguiremos
+porque vou morrer,
+
+ 574: 10:34:06.21 10:34:11.21  Duration 00:00:05.00  75
+mas digamos que isso me dá
+a oportunidade de chamar a atenção.
+
+ 575: 10:34:15.22 10:34:19.09  Duration 00:00:03.12  52
+#E assim, no show de despedida
+dos Tragically Hip,#
+
+ 576: 10:34:19.13 10:34:23.05  Duration 00:00:03.17  55
+#Gord Downie aproveita o momento
+para dar sua mensagem.#
+
+ 577: 10:34:23.10 10:34:27.02  Duration 00:00:03.17  55
+Levaremos uns cem anos
+
+ 578: 10:34:27.07 10:34:30.00  Duration 00:00:02.18  41
+para compreender
+o que realmente aconteceu lá.
+
+ 579: 10:34:30.04 10:34:33.19  Duration 00:00:03.15  54
+E não é bonito.
+Todo mundo sabe.
+
+ 580: 10:34:35.06 10:34:37.11  Duration 00:00:02.05  33
+Gord dirigiu-se à nação
+
+ 581: 10:34:37.16 10:34:39.09  Duration 00:00:01.18  26
+num evento cheio de emoção.
+
+ 582: 10:34:39.13 10:34:41.22  Duration 00:00:02.09  35
+Todos os fãs do Tragically Hip
+ouviram.
+
+ 583: 10:34:42.01 10:34:44.06  Duration 00:00:02.05  33
+Era o que o país precisava ouvir.
+
+ 584: 10:34:50.14 10:34:54.11  Duration 00:00:03.22  58
+#Algumas semanas depois,
+Gord Downie e seus novos parceiros#
+
+ 585: 10:34:54.15 10:34:56.23  Duration 00:00:02.08  35
+#ensaiavam
+para a turnê# Secret Path,
+
+ 586: 10:34:57.03 10:34:58.23  Duration 00:00:01.20  27
+#"Trilha Secreta".#
+
+ 587: 10:34:59.22 10:35:03.23  Duration 00:00:04.01  61
+#O novo álbum conta a história
+trágica de Chanie Wenjack.#
+
+ 588: 10:35:09.20 10:35:12.24  Duration 00:00:03.04  47
+O# Secret Path#
+deu a ele muita força.
+
+ 589: 10:35:13.04 10:35:14.04  Duration 00:00:01.00  15
+Virou a vida dele.
+
+ 590: 10:35:14.08 10:35:18.12  Duration 00:00:04.04  62
+Era a coisa mais importante
+para ele além da família.
+
+ 591: 10:35:20.23 10:35:23.11  Duration 00:00:02.13  38
+#Mas a saúde de Downie
+estava frágil.#
+
+ 592: 10:35:24.05 10:35:27.03  Duration 00:00:02.23  44
+#O projeto
+muitas vezes o esgota.#
+
+ 593: 10:35:29.13 10:35:31.08  Duration 00:00:01.20  27
+É uma provação.
+
+ 594: 10:35:31.12 10:35:35.10  Duration 00:00:03.23  59
+Que eu me impus.
+
+ 595: 10:35:36.02 10:35:38.21  Duration 00:00:02.19  41
+Secret Path
+Gord Downie e Jeff Lemire
+
+ 596: 10:35:39.00 10:35:42.01  Duration 00:00:03.01  46
+#O lançamento do álbum
+virá com um livro#
+
+ 597: 10:35:42.05 10:35:43.20  Duration 00:00:01.15  24
+#e um filme de animação.#
+
+ 598: 10:35:43.24 10:35:47.10  Duration 00:00:03.11  52
+#O artista quer tocar
+no máximo de gente possível.#
+
+ 599: 10:35:55.18 10:35:58.06  Duration 00:00:02.13  38
+#Mas antes de apresentar
+sua obra ao público,#
+
+ 600: 10:35:58.24 10:36:02.22  Duration 00:00:03.23  59
+#Gord Downie quer a permissão
+da família Wenjack.#
+
+ 601: 10:36:03.01 10:36:05.01  Duration 00:00:02.00  30
+Não é um relato fidedigno.
+
+ 602: 10:36:05.06 10:36:08.16  Duration 00:00:03.10  51
+Tentamos mais exprimir
+
+ 603: 10:36:08.21 10:36:12.24  Duration 00:00:04.03  62
+seu desejo de voltar para casa.
+
+ 604: 10:36:16.20 10:36:20.17  Duration 00:00:03.22  58
+Avanço rapidamente
+
+ 605: 10:36:20.23 10:36:26.19  Duration 00:00:05.21  88
+Na trilha desconhecida
+
+ 606: 10:36:26.24 10:36:32.17  Duration 00:00:05.18  86
+E o que eu sinto
+
+ 607: 10:36:32.21 10:36:37.04  Duration 00:00:04.08  65
+Ninguém pode compreender
+
+ 608: 10:36:37.08 10:36:41.13  Duration 00:00:04.05  63
+Eu tentei contar
+uma história simples
+
+ 609: 10:36:41.17 10:36:44.23  Duration 00:00:03.06  49
+que descreve o que era o Canadá,
+o que ainda é hoje.
+
+ 610: 10:36:45.02 10:36:50.03  Duration 00:00:05.01  76
+A história de um menino
+que, a meu ver,
+
+ 611: 10:36:50.07 10:36:55.04  Duration 00:00:04.22  73
+será contada de diversas formas
+por diversas pessoas.
+
+ 612: 10:36:55.09 10:36:58.11  Duration 00:00:03.02  46
+Um futuro símbolo.
+
+ 613: 10:36:58.15 10:37:03.03  Duration 00:00:04.13  68
+É a melhor coisa que eu fiz.
+
+ 614: 10:37:03.08 10:37:08.14  Duration 00:00:05.06  79
+Quero dizer com isso
+que isso me reconforta.
+
+ 615: 10:37:08.19 10:37:12.07  Duration 00:00:03.13  53
+Em nome das gerações futuras,
+
+ 616: 10:37:12.12 10:37:14.10  Duration 00:00:01.23  29
+obrigado pelo que você fez.
+
+ 617: 10:37:19.04 10:37:22.07  Duration 00:00:03.03  47
+Seu projeto vai dar
+grandes resultados
+
+ 618: 10:37:22.12 10:37:27.20  Duration 00:00:05.08  80
+e levar a uma cura,
+pois eu estou curada, agora.
+
+ 619: 10:37:31.11 10:37:35.16  Duration 00:00:04.05  63
+#De vota ao Centro da Verdade
+e da Reconciliação em Winnipeg.#
+
+ 620: 10:37:36.17 10:37:38.19  Duration 00:00:02.02  31
+Tem uma coisa
+que quero mostrar.
+
+ 621: 10:37:38.23 10:37:40.06  Duration 00:00:01.08  20
+#Na nossa visita,#
+
+ 622: 10:37:40.10 10:37:43.14  Duration 00:00:03.04  47
+#o Centro acaba de receber
+um objeto perturbador.#
+
+ 623: 10:37:44.08 10:37:46.12  Duration 00:00:02.04  32
+Podemos ver manchas de sangue.
+
+ 624: 10:37:46.16 10:37:48.15  Duration 00:00:01.24  29
+#Um chicote ensanguentado#
+
+ 625: 10:37:48.19 10:37:51.21  Duration 00:00:03.02  46
+#encontrado na parede
+de um antigo pensionato.#
+
+ 626: 10:37:52.19 10:37:54.13  Duration 00:00:01.19  26
+#Outra prova das atrocidades#
+
+ 627: 10:37:54.17 10:37:56.23  Duration 00:00:02.06  34
+#infligidas às crianças autóctones.#
+
+ 628: 10:37:58.23 10:38:01.04  Duration 00:00:02.06  34
+Os canadenses precisam entender
+
+ 629: 10:38:01.08 10:38:02.16  Duration 00:00:01.08  20
+de onde vêm os nativos
+
+ 630: 10:38:02.20 10:38:06.19  Duration 00:00:03.24  59
+e a vida em muitos casos difícil
+que eles ainda têm.
+
+ 631: 10:38:14.14 10:38:16.19  Duration 00:00:02.05  33
+#14 de outubro de 2016.#
+
+ 632: 10:38:19.18 10:38:21.17  Duration 00:00:01.24  29
+#Gord Downie chega a Ottawa#
+
+ 633: 10:38:21.22 10:38:25.20  Duration 00:00:03.23  59
+#para apresentar o# Secret Path#
+no Centro Nacional das Artes.#
+
+ 634: 10:38:32.05 10:38:34.17  Duration 00:00:02.12  37
+#A família Wenjack estará lá.#
+
+ 635: 10:38:39.19 10:38:42.01  Duration 00:00:02.07  34
+#E bem no meio da primeira fila,#
+
+ 636: 10:38:42.06 10:38:45.09  Duration 00:00:03.03  47
+#um lugar reservado para Chanie.#
+
+ 637: 10:38:48.24 10:38:51.04  Duration 00:00:02.05  33
+Fazemos algo
+que ninguém fez antes.
+
+ 638: 10:38:51.08 10:38:53.17  Duration 00:00:02.09  35
+Neste momento
+eu me sinto tão bem!
+
+ 639: 10:38:53.21 10:38:59.22  Duration 00:00:06.01  91
+Corra ao longo do rio,
+na trilha secreta.
+
+ 640: 10:39:02.11 10:39:08.00  Duration 00:00:05.14  83
+Não deixarei mais que me batam,
+não volto mais lá.
+
+ 641: 10:39:08.04 10:39:12.16  Duration 00:00:04.12  67
+Vou só fechar os olhos
+em recuperar o fôlego.
+
+ 642: 10:39:12.20 10:39:16.09  Duration 00:00:03.14  53
+É lá que eu devia estar.
+
+ 643: 10:39:16.13 10:39:26.13  Duration 00:00:10.00  150
+Estou morto aqui...
+aqui... e aqui...
+
+ 644: 10:39:27.04 10:39:30.09  Duration 00:00:03.05  48
+#Um espetáculo sóbrio,
+uma mensagem tocante.#
+
+ 645: 10:39:30.13 10:39:31.21  Duration 00:00:01.08  20
+#E um símbolo:#
+
+ 646: 10:39:32.00 10:39:35.02  Duration 00:00:03.02  46
+#a marcha de um menino
+para seu fim inevitável.#
+
+ 647: 10:39:36.16 10:39:38.24  Duration 00:00:02.08  35
+#Os destinos trágicos
+do jovem nativo#
+
+ 648: 10:39:39.03 10:39:42.06  Duration 00:00:03.03  47
+#e do cantor popular
+agora estão unidos.#
+
+ 649: 10:39:49.07 10:39:52.16  Duration 00:00:03.09  50
+Pearl Wenjack vai agora
+fazer uma oração.
+
+ 650: 10:40:04.15 10:40:07.18  Duration 00:00:03.03  47
+Minha maior esperança
+é mostrar ao resto do mundo
+
+ 651: 10:40:07.23 10:40:10.14  Duration 00:00:02.16  40
+o que aconteceu no Canadá.
+
+ 652: 10:40:10.18 10:40:14.05  Duration 00:00:03.12  52
+Mas não devemos parar por aí,
+
+ 653: 10:40:14.09 10:40:17.04  Duration 00:00:02.20  42
+é preciso também
+que a cura continue.
+
+ 654: 10:40:29.06 10:40:31.01  Duration 00:00:01.20  27
+Ainda hoje, quando vejo
+
+ 655: 10:40:31.05 10:40:33.19  Duration 00:00:02.14  38
+uma ferrovia,
+eu paro e penso em Chanie.
+
+ 656: 10:40:36.14 10:40:41.07  Duration 00:00:04.18  71
+Eu olho ao longe e vejo
+
+ 657: 10:40:41.12 10:40:47.03  Duration 00:00:05.16  85
+a distância
+que ainda falta percorrer.
+
+ 658: 10:40:54.02 10:40:57.11  Duration 00:00:03.09  50
+#Gord apresenta# Secret Path#
+em algumas cidades do Canadá,#
+
+ 659: 10:40:57.15 10:41:01.12  Duration 00:00:03.22  58
+#animado pelo desejo de divulgar
+a história do jovem Chanie#
+
+ 660: 10:41:01.17 10:41:03.09  Duration 00:00:01.17  25
+#de ponta a outra do país,#
+
+ 661: 10:41:03.13 10:41:07.03  Duration 00:00:03.15  54
+#enquanto sua saúde
+lhe permitir continuar.#
+
+ 662: 10:41:09.00 10:41:13.12  Duration 00:00:04.12  67
+É o que quero fazer.
+Todo o resto não tem importância.
+
+ 663: 10:41:30.12 10:41:32.08  Duration 00:00:01.21  28
+É um papel que alguns de nós
+
+ 664: 10:41:32.12 10:41:34.15  Duration 00:00:02.03  32
+têm e terão de cumprir
+algum dia:
+
+ 665: 10:41:34.19 10:41:36.04  Duration 00:00:01.10  21
+o de parente cuidador.
+
+ 666: 10:41:36.08 10:41:38.22  Duration 00:00:02.14  38
+A seguir,
+um aposentado de 76 anos
+
+ 667: 10:41:39.01 10:41:42.14  Duration 00:00:03.13  53
+faz o que pode para aliviar
+a vida de seus velhos pais.
+
+ 668: 10:41:45.03 10:41:46.11  Duration 00:00:01.08  20
+Vá com calma.
+
+ 669: 10:41:48.24 10:41:52.07  Duration 00:00:03.08  50
+Jean-Guy Moreau,
+parente cuidador de meus 2 pais.
+
+ 670: 10:41:56.14 10:41:59.12  Duration 00:00:02.23  44
+Minha mãe vive num lar de idosos
+
+ 671: 10:41:59.16 10:42:01.14  Duration 00:00:01.23  29
+e meu pai,
+num abrigo de longa duração.
+
+ 672: 10:42:02.07 10:42:03.03  Duration 00:00:00.21  13
+Venha se sentar.
+
+ 673: 10:42:03.07 10:42:06.08  Duration 00:00:03.01  46
+O mais difícil para papai
+é a falta da minha mãe.
+
+ 674: 10:42:06.13 10:42:08.01  Duration 00:00:01.13  23
+É normal, no fundo.
+
+ 675: 10:42:08.05 10:42:11.01  Duration 00:00:02.21  43
+Você viveu com uma mulher
+praticamente 80 anos
+
+ 676: 10:42:11.05 10:42:13.16  Duration 00:00:02.11  37
+e é separado dela
+por razões de saúde.
+
+ 677: 10:42:14.05 10:42:16.08  Duration 00:00:02.03  32
+Veja, papai, é a mamãe.
+
+ 678: 10:42:16.22 10:42:18.04  Duration 00:00:01.07  19
+-Ah, é?
+-Pois é.
+
+ 679: 10:42:19.16 10:42:21.08  Duration 00:00:01.17  25
+Ela trouxe um presente.
+
+ 680: 10:42:23.09 10:42:26.08  Duration 00:00:02.24  44
+Eu, como responsável,
+como parente cuidador,
+
+ 681: 10:42:26.12 10:42:30.09  Duration 00:00:03.22  58
+procuro ajudar a fazê-los
+se encontrarem de tempos em tempos.
+
+ 682: 10:42:30.13 10:42:31.22  Duration 00:00:01.09  20
+E é uma grande festa.
+
+ 683: 10:42:32.02 10:42:33.07  Duration 00:00:01.05  18
+Veja, é a mamãe.
+
+ 684: 10:42:34.16 10:42:37.17  Duration 00:00:03.01  46
+Parei de trabalhar
+para ser cuidador,
+
+ 685: 10:42:37.21 10:42:42.06  Duration 00:00:04.10  66
+pois acho superimportante
+cuidar bem dos meus pais.
+
+ 686: 10:42:42.10 10:42:45.22  Duration 00:00:03.12  52
+Eles precisam principalmente
+de uma espécie de serenidade,
+
+ 687: 10:42:46.01 10:42:47.17  Duration 00:00:01.16  25
+de uma espécie
+de segurança.
+
+ 688: 10:42:47.21 10:42:50.03  Duration 00:00:02.07  34
+Meu pai sempre diz:
+"Quero ir para casa."
+
+ 689: 10:42:50.08 10:42:52.06  Duration 00:00:01.23  29
+"Você está em casa.
+É seu quarto.
+
+ 690: 10:42:52.10 10:42:54.04  Duration 00:00:01.19  26
+"Tem seu nome na porta.
+
+ 691: 10:42:54.08 10:42:57.07  Duration 00:00:02.24  44
+"Veja o retrato da mamãe com você.
+
+ 692: 10:42:57.12 10:42:58.21  Duration 00:00:01.09  20
+"É mesmo o seu quarto."
+
+ 693: 10:42:59.00 10:43:00.22  Duration 00:00:01.22  28
+"-Ah, é? Tem certeza?
+-Tenho."
+
+ 694: 10:43:01.01 10:43:02.15  Duration 00:00:01.14  23
+E aí ele fica bem.
+
+ 695: 10:43:06.22 10:43:08.22  Duration 00:00:02.00  30
+Eu que era do estilo ansioso,
+
+ 696: 10:43:09.01 10:43:11.12  Duration 00:00:02.11  37
+comecei a fazer meditação
+
+ 697: 10:43:11.17 10:43:12.20  Duration 00:00:01.03  17
+para me acalmar,
+
+ 698: 10:43:12.24 10:43:16.04  Duration 00:00:03.05  48
+para quando for visitá-los
+ficar mais tranquilo.
+
+ 699: 10:43:16.08 10:43:18.06  Duration 00:00:01.23  29
+E isso faz muito bem a eles.
+
+ 700: 10:43:18.10 10:43:20.01  Duration 00:00:01.16  25
+-É um prazer, hein?
+-Sim.
+
+ 701: 10:43:23.19 10:43:25.11  Duration 00:00:01.17  25
+Como éramos muito pobres,
+
+ 702: 10:43:25.15 10:43:28.21  Duration 00:00:03.06  49
+meus pais nos puseram
+em instituições, os 8 filhos.
+
+ 703: 10:43:29.01 10:43:31.10  Duration 00:00:02.09  35
+Cinco foram para o orfanato.
+
+ 704: 10:43:31.14 10:43:34.02  Duration 00:00:02.13  38
+Você imagina, com 5 anos,
+num orfanato,
+
+ 705: 10:43:34.06 10:43:36.13  Duration 00:00:02.07  34
+os problemas afetivos que tivemos?
+
+ 706: 10:43:36.17 10:43:38.13  Duration 00:00:01.21  28
+Mas eles não tiveram escolha.
+
+ 707: 10:43:41.11 10:43:43.18  Duration 00:00:02.07  34
+Eu poderia dizer:
+"Não vou cuidar deles."
+
+ 708: 10:43:43.23 10:43:45.08  Duration 00:00:01.10  21
+Mas é o contrário.
+
+ 709: 10:43:45.12 10:43:47.19  Duration 00:00:02.07  34
+Minha reflexão me levou a ficar
+
+ 710: 10:43:47.24 10:43:50.01  Duration 00:00:02.02  31
+cada vez mais próximo
+dos meus pais.
+
+ 711: 10:43:50.05 10:43:51.00  Duration 00:00:00.20  12
+Eu penso:
+
+ 712: 10:43:51.04 10:43:56.12  Duration 00:00:05.08  80
+"Talvez sejo o que me fez falta
+durante os 7, 8 anos no orfanato
+
+ 713: 10:43:56.17 10:43:58.16  Duration 00:00:01.24  29
+"que estou recuperando agora."
+
+ 714: 10:44:01.07 10:44:03.05  Duration 00:00:01.23  29
+Estatísticas provam
+que os cuidadores
+
+ 715: 10:44:03.09 10:44:04.20  Duration 00:00:01.11  22
+são sobretudo mulheres.
+
+ 716: 10:44:05.07 10:44:07.24  Duration 00:00:02.17  40
+É curioso,
+mas tenho a impressão
+
+ 717: 10:44:08.03 10:44:11.01  Duration 00:00:02.23  44
+que o fato de ter tido
+
+ 718: 10:44:12.14 10:44:15.24  Duration 00:00:03.10  51
+uma primeira vida de casal
+com uma mulher doente
+
+ 719: 10:44:16.03 10:44:18.02  Duration 00:00:01.24  29
+que morreu depois
+
+ 720: 10:44:18.06 10:44:20.07  Duration 00:00:02.01  31
+e de ter ficado sozinho
+
+ 721: 10:44:20.12 10:44:21.20  Duration 00:00:01.08  20
+com minha filha
+
+ 722: 10:44:22.09 10:44:26.08  Duration 00:00:03.24  59
+contribuiu muito para eu ficar
+próximo do meu coração.
+
+ 723: 10:44:34.23 10:44:38.08  Duration 00:00:03.10  51
+Para ser um parente cuidador melhor,
+sinta-se bem,
+
+ 724: 10:44:38.12 10:44:41.07  Duration 00:00:02.20  42
+tire tempo para meditar,
+fazer exercício.
+
+ 725: 10:44:41.12 10:44:44.05  Duration 00:00:02.18  41
+E faça exercício
+até para ser campeão,
+
+ 726: 10:44:44.10 10:44:47.01  Duration 00:00:02.16  40
+porque ser parente cuidador
+exige energia.
+
+ 727: 10:44:51.08 10:44:53.04  Duration 00:00:01.21  28
+É um privilégio extraordinário
+
+ 728: 10:44:53.08 10:44:55.24  Duration 00:00:02.16  40
+acompanhar pessoas
+que estão no fim da vida
+
+ 729: 10:44:56.03 10:44:58.12  Duration 00:00:02.09  35
+e ser capaz
+de se pôr no nível deles.
+
+ 730: 10:44:58.16 10:45:01.24  Duration 00:00:03.08  50
+Isso obriga a entrar
+em nosso coração de criança
+
+ 731: 10:45:02.03 10:45:06.14  Duration 00:00:04.11  67
+e ser capaz de estar com eles
+para acompanhá-los até o fim.
+
+ 732: 10:45:13.00 10:45:14.08  Duration 00:00:01.08  20
+Quais serão
+as consequências
+
+ 733: 10:45:14.12 10:45:17.02  Duration 00:00:02.15  39
+do degelo das bactérias
+nas regiões polares?
+
+ 734: 10:45:17.06 10:45:20.00  Duration 00:00:02.19  41
+As mudanças climáticas
+trazem mudanças.
+
+ 735: 10:45:20.04 10:45:22.19  Duration 00:00:02.15  39
+Sabemos que o derretimento
+do gelo continental
+
+ 736: 10:45:22.23 10:45:24.16  Duration 00:00:01.18  26
+faz o nível do mar subir.
+
+ 737: 10:45:24.20 10:45:28.07  Duration 00:00:03.12  52
+Mas um novo temor
+veio se juntar à lista.
+
+ 738: 10:45:31.22 10:45:34.07  Duration 00:00:02.10  36
+#As camadas de gelo
+das regiões polares#
+
+ 739: 10:45:34.11 10:45:36.23  Duration 00:00:02.12  37
+#contêm muito mais vida
+do que se pensava.#
+
+ 740: 10:45:38.10 10:45:40.14  Duration 00:00:02.04  32
+#Cientistas
+descobriram recentemente#
+
+ 741: 10:45:40.18 10:45:43.10  Duration 00:00:02.17  40
+#que bactérias,
+vírus e fungos#
+
+ 742: 10:45:43.14 10:45:45.10  Duration 00:00:01.21  28
+#podiam sobreviver
+por séculos#
+
+ 743: 10:45:45.15 10:45:46.22  Duration 00:00:01.07  19
+#e até milênios,#
+
+ 744: 10:45:47.01 10:45:50.23  Duration 00:00:03.22  58
+#no permafrost, nas geleiras
+e nas extensões de água gelada.#
+
+ 745: 10:45:51.03 10:45:52.20  Duration 00:00:01.17  25
+#Quando esse gelo derrete,#
+
+ 746: 10:45:52.24 10:45:55.09  Duration 00:00:02.10  36
+#as consequências
+podem ser fatais.#
+
+ 747: 10:45:57.23 10:46:00.20  Duration 00:00:02.22  43
+#Foi o que aconteceu
+em agosto de 2016.#
+
+ 748: 10:46:01.00 10:46:04.03  Duration 00:00:03.03  47
+#Península de Yamal,
+na tundra siberiana.#
+
+ 749: 10:46:04.13 10:46:08.04  Duration 00:00:03.16  55
+#Um adolescente morre por causa
+de uma infecção por anthrax,#
+
+ 750: 10:46:08.09 10:46:11.10  Duration 00:00:03.01  46
+#e dezenas de pessoas
+são hospitalizadas.#
+
+ 751: 10:46:13.11 10:46:16.07  Duration 00:00:02.21  43
+#Fonte da infecção:
+uma carcaça de rena#
+
+ 752: 10:46:16.12 10:46:19.03  Duration 00:00:02.16  40
+#que estava congelada há 75 anos.#
+
+ 753: 10:46:21.10 10:46:24.09  Duration 00:00:02.24  44
+#O animal morreu
+numa epidemia de anthrax#
+
+ 754: 10:46:24.14 10:46:27.17  Duration 00:00:03.03  47
+#que assolou a Sibéria
+no começo do século XX.#
+
+ 755: 10:46:27.22 10:46:30.15  Duration 00:00:02.18  41
+#Mas a bactéria que o matou
+sobreviveu.#
+
+ 756: 10:46:32.06 10:46:34.13  Duration 00:00:02.07  34
+#Uma onde de calor em 2016#
+
+ 757: 10:46:34.17 10:46:36.18  Duration 00:00:02.01  31
+#descongelou a carcaça do animal,#
+
+ 758: 10:46:36.22 10:46:39.22  Duration 00:00:03.00  45
+#o que permitiu ao anthrax
+propagar-se de novo.#
+
+ 759: 10:46:44.01 10:46:47.09  Duration 00:00:03.08  50
+#Trata-se até agora
+da única morte registrada#
+
+ 760: 10:46:47.13 10:46:50.07  Duration 00:00:02.19  41
+#causada por um patógeno
+preso no gelo.#
+
+ 761: 10:46:50.12 10:46:52.22  Duration 00:00:02.10  36
+#Mas pesquisas recentes
+demonstraram#
+
+ 762: 10:46:53.01 10:46:55.13  Duration 00:00:02.12  37
+#que outras doenças extintas
+podem ressurgir#
+
+ 763: 10:46:55.17 10:46:57.00  Duration 00:00:01.08  20
+#nas regiões nórdicas.#
+
+ 764: 10:46:57.12 10:46:59.07  Duration 00:00:01.20  27
+#Por exemplo, na Sibéria,#
+
+ 765: 10:46:59.11 10:47:02.01  Duration 00:00:02.15  39
+#foram encontrados
+fragmentos de DNA#
+
+ 766: 10:47:02.06 10:47:05.02  Duration 00:00:02.21  43
+#do vírus da varíola
+em cadáveres humanos#
+
+ 767: 10:47:05.06 10:47:08.01  Duration 00:00:02.20  42
+#vitimados pela epidemia
+no século XIX.#
+
+ 768: 10:47:08.06 10:47:12.19  Duration 00:00:04.13  68
+#No Alasca, vestígios do vírus
+da gripe espanhola de 1918#
+
+ 769: 10:47:12.23 10:47:14.18  Duration 00:00:01.20  27
+#também foram observados.#
+
+ 770: 10:47:17.03 10:47:20.14  Duration 00:00:03.11  52
+#Outros organismos podem sobreviver
+ainda mais tempo,#
+
+ 771: 10:47:20.18 10:47:22.12  Duration 00:00:01.19  26
+#até milhares de anos.#
+
+ 772: 10:47:22.22 10:47:25.23  Duration 00:00:03.01  46
+#Pesquisadores encontraram
+tais bactérias e vírus#
+
+ 773: 10:47:26.02 10:47:28.03  Duration 00:00:02.01  31
+#na Antártica e na Sibéria.#
+
+ 774: 10:47:28.17 10:47:30.24  Duration 00:00:02.07  34
+#Depois de reanimados
+em laboratório,#
+
+ 775: 10:47:31.03 10:47:34.08  Duration 00:00:03.05  48
+#esses micro-organismos
+conseguiam se multiplicar#
+
+ 776: 10:47:34.12 10:47:36.15  Duration 00:00:02.03  32
+#e ainda eram infecciosos.#
+
+ 777: 10:47:38.07 10:47:40.05  Duration 00:00:01.23  29
+Como esses patógenos conseguem
+
+ 778: 10:47:40.09 10:47:42.22  Duration 00:00:02.13  38
+sobreviver tanto tempo
+num clima desses?
+
+ 779: 10:47:43.01 10:47:44.24  Duration 00:00:01.23  29
+É uma questão de adaptação.
+
+ 780: 10:47:46.08 10:47:49.03  Duration 00:00:02.20  42
+#Esses organismos
+ditos psicrófilos#
+
+ 781: 10:47:49.08 10:47:51.19  Duration 00:00:02.11  37
+#adaptaram-se
+às condições glaciais.#
+
+ 782: 10:47:52.24 10:47:55.07  Duration 00:00:02.08  35
+#São muito encontrados
+no permafrost,#
+
+ 783: 10:47:55.12 10:47:57.11  Duration 00:00:01.24  29
+#o solo constantemente gelado.#
+
+ 784: 10:47:58.05 10:48:01.14  Duration 00:00:03.09  50
+#Esse meio frio, escuro
+e fraco em oxigênio,#
+
+ 785: 10:48:01.19 10:48:05.12  Duration 00:00:03.18  56
+#oferece condições ideais
+para proteger esses micro-organismos#
+
+ 786: 10:48:05.16 10:48:07.02  Duration 00:00:01.11  22
+#da degradação.#
+
+ 787: 10:48:09.07 10:48:12.16  Duration 00:00:03.09  50
+#As bactérias que se reproduzem
+pela formação de esporos,#
+
+ 788: 10:48:12.20 10:48:14.19  Duration 00:00:01.24  29
+#como o anthrax e o tétano,#
+
+ 789: 10:48:14.23 10:48:16.15  Duration 00:00:01.17  25
+#estão entre
+as mais bem adaptadas,#
+
+ 790: 10:48:16.20 10:48:20.09  Duration 00:00:03.14  53
+#pois os esporos podem sobreviver
+a temperaturas extremas#
+
+ 791: 10:48:20.13 10:48:22.06  Duration 00:00:01.18  26
+#durante séculos.#
+
+ 792: 10:48:23.00 10:48:24.09  Duration 00:00:01.09  20
+#Dentre os vírus,#
+
+ 793: 10:48:24.13 10:48:26.13  Duration 00:00:02.00  30
+#os chamados vírus gigantes,#
+
+ 794: 10:48:26.17 10:48:28.21  Duration 00:00:02.04  32
+#como o# Pithovirus sibericum,
+
+ 795: 10:48:29.00 10:48:32.23  Duration 00:00:03.23  59
+#são particularmente resistentes
+à degradação bioquímica.#
+
+ 796: 10:48:35.24 10:48:40.09  Duration 00:00:04.10  66
+#No gelo, esses micro-organismos
+ficam em estado de dormência,#
+
+ 797: 10:48:40.13 10:48:42.19  Duration 00:00:02.06  34
+#mas não ficam
+totalmente inativos.#
+
+ 798: 10:48:43.07 10:48:45.20  Duration 00:00:02.13  38
+#Cientistas observaram
+que essas bactérias#
+
+ 799: 10:48:45.24 10:48:49.11  Duration 00:00:03.12  52
+#continuavam trocando
+fragmentos de DNA entre elas#
+
+ 800: 10:48:49.15 10:48:51.15  Duration 00:00:02.00  30
+#e podiam assim evoluir.#
+
+ 801: 10:48:51.19 10:48:55.07  Duration 00:00:03.13  53
+#Essas bactérias também são capazes
+de reparar seu DNA#
+
+ 802: 10:48:55.11 10:48:57.17  Duration 00:00:02.06  34
+#danificado
+durante o congelamento.#
+
+ 803: 10:48:58.17 10:49:01.14  Duration 00:00:02.22  43
+#Analisando os genomas
+desses micro-organismos,#
+
+ 804: 10:49:01.18 10:49:04.15  Duration 00:00:02.22  43
+#podemos entender melhor
+a vida que reinava na Terra#
+
+ 805: 10:49:04.19 10:49:06.20  Duration 00:00:02.01  31
+#há vários milhões de anos.#
+
+ 806: 10:49:07.08 10:49:09.05  Duration 00:00:01.22  28
+Hoje, a descoberta
+desses patógenos
+
+ 807: 10:49:09.09 10:49:10.11  Duration 00:00:01.02  16
+preocupa.
+
+ 808: 10:49:10.15 10:49:13.07  Duration 00:00:02.17  40
+Alguns nunca tiveram contato
+com humanos.
+
+ 809: 10:49:13.11 10:49:16.06  Duration 00:00:02.20  42
+Nosso sistema imunitário
+pode não ser adaptado,
+
+ 810: 10:49:16.10 10:49:19.23  Duration 00:00:03.13  53
+e certas bactérias pré-históricas
+têm resistência natural
+
+ 811: 10:49:20.02 10:49:22.09  Duration 00:00:02.07  34
+a todos os antibióticos
+conhecidos.
+
+ 812: 10:49:23.15 10:49:25.21  Duration 00:00:02.06  34
+#Os cientistas
+acompanham a situação,#
+
+ 813: 10:49:26.09 10:49:28.22  Duration 00:00:02.13  38
+#pois o Ártico esquenta
+3 vezes mais rápido#
+
+ 814: 10:49:29.02 10:49:31.00  Duration 00:00:01.23  29
+#que o resto do globo.#
+
+ 815: 10:49:31.12 10:49:33.08  Duration 00:00:01.21  28
+#Com o permafrost derretendo,#
+
+ 816: 10:49:33.13 10:49:35.22  Duration 00:00:02.09  35
+#os micro-organismos
+contidos no gelo#
+
+ 817: 10:49:36.02 10:49:38.02  Duration 00:00:02.00  30
+#podem ir parar nos oceanos#
+
+ 818: 10:49:38.06 10:49:40.06  Duration 00:00:02.00  30
+#e perturbar os ecossistemas.#
+
+ 819: 10:49:41.00 10:49:44.20  Duration 00:00:03.20  57
+#Essas descobertas são um lembrete
+que as variações do clima#
+
+ 820: 10:49:45.00 10:49:47.14  Duration 00:00:02.14  38
+#podem ter consequências
+inesperadas.#
+
+ 821: 10:49:54.00 10:49:56.13  Duration 00:00:02.13  38
+É só por hoje.
+
+ 822: 10:49:56.17 10:49:57.18  Duration 00:00:01.01  16
+De Dacar a Túnis,
+
+ 823: 10:49:57.22 10:50:00.06  Duration 00:00:02.09  35
+onde você estiver
+na francofonia ou não,
+
+ 824: 10:50:00.10 10:50:03.24  Duration 00:00:03.14  53
+obrigada por ver os programas
+da Radio-Canada na TV5 Monde.
+
+ 825: 10:50:04.03 10:50:04.23  Duration 00:00:00.20  12
+Até logo.
+
+ 826: 10:50:23.03 10:50:25.19  Duration 00:00:02.16  40
+Adaptação: Adriana Gasparoni
+Legendagem: ECLAIR
+
