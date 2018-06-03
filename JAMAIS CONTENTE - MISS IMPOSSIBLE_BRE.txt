@@ -1,0 +1,4204 @@
+
+   1: 10:00:17.21 10:00:20.09  Duration 00:00:02.13  38
+      #Si seulement
+      on n'était pas obligé d'avoir un nez.#
+
+   2: 10:00:21.04 10:00:22.13  Duration 00:00:01.09  20
+      #Et un menton.#
+
+   3: 10:00:22.17 10:00:23.20  Duration 00:00:01.03  17
+      #Et des genoux.#
+
+   4: 10:00:29.11 10:00:31.03  Duration 00:00:01.17  25
+      #Ça, é moi à la rentrée.#
+
+   5: 10:00:31.07 10:00:32.23  Duration 00:00:01.16  25
+      #Je suis assez moche.#
+
+   6: 10:00:33.02 10:00:36.17  Duration 00:00:03.15  54
+      #Je devrais vivre dans une boîte,
+      en haut, au fond du placard.#
+
+   7: 10:00:36.21 10:00:39.18  Duration 00:00:02.22  43
+      #On me sortirait une fois par an,
+      pour Halloween.#
+
+   8: 10:00:39.22 10:00:41.14  Duration 00:00:01.17  25
+      #On me mettrait sur la télé.#
+
+   9: 10:00:46.23 10:00:48.10  Duration 00:00:01.12  22
+      Jamais contente
+
+  10: 10:00:48.14 10:00:50.03  Duration 00:00:01.14  23
+      Aurore!
+
+  11: 10:00:50.08 10:00:51.08  Duration 00:00:01.00  15
+      Aurore!
+
+  12: 10:00:53.22 10:00:54.22  Duration 00:00:01.00  15
+      T'es prête?
+
+  13: 10:01:19.18 10:01:22.19  Duration 00:00:03.01  46
+      Adapté du roman #Le Journal d'Aurore
+      #de Marie Desplechin
+
+  14: 10:01:39.04 10:01:42.11  Duration 00:00:03.07  49
+      #Quand on redouble,
+      on sait déjà que ça va mal se passer.#
+
+  15: 10:01:43.01 10:01:44.09  Duration 00:00:01.08  20
+      Cette année, je la sens pas.
+
+  16: 10:01:44.14 10:01:46.05  Duration 00:00:01.16  25
+      T'es médium, maintenant?
+
+  17: 10:01:46.09 10:01:49.05  Duration 00:00:02.21  43
+      Pourquoi je le serais pas?
+      T'as bien des cheveux.
+
+  18: 10:01:53.21 10:01:54.16  Duration 00:00:00.20  12
+      Vous remplissez
+
+  19: 10:01:54.21 10:01:58.19  Duration 00:00:03.23  59
+      toutes les informations.
+      Si vous ne comprenez pas, demandez.
+
+  20: 10:01:58.24 10:02:00.18  Duration 00:00:01.19  26
+      On est en 5e A.
+      Laissez tomber
+
+  21: 10:02:00.23 10:02:03.08  Duration 00:00:02.10  36
+      les cases en haut de la feuille,
+
+  22: 10:02:03.13 10:02:05.00  Duration 00:00:01.12  22
+      é pour moi.
+
+  23: 10:02:05.04 10:02:06.23  Duration 00:00:01.19  26
+      Madame, vous êtes enceinte?
+
+  24: 10:02:07.02 10:02:09.17  Duration 00:00:02.15  39
+      T'es sûr que tu peux
+      parler comme ça?
+
+  25: 10:02:10.13 10:02:12.13  Duration 00:00:02.00  30
+      Commence par lever la main,
+      et réfléchis
+
+  26: 10:02:12.18 10:02:14.12  Duration 00:00:01.19  26
+      à l'utilité de tes questions.
+
+  27: 10:02:14.16 10:02:18.12  Duration 00:00:03.21  58
+      Allez, on va pas y passer non plus
+      toute la journée.
+
+  28: 10:02:18.17 10:02:21.15  Duration 00:00:02.23  44
+      - Aurore, ma fiche t'intéresse pas?
+      - Non, pas vraiment.
+
+  29: 10:02:22.05 10:02:23.15  Duration 00:00:01.10  21
+      Je te retiens pas ici.
+
+  30: 10:02:25.15 10:02:27.01  Duration 00:00:01.11  22
+      Je sors ou je sors pas?
+
+  31: 10:02:27.06 10:02:28.13  Duration 00:00:01.07  19
+      Oui, tu sors.
+
+  32: 10:02:28.18 10:02:31.10  Duration 00:00:02.17  40
+      Tu vas chez le proviseur,
+      tu prends un mot. Allez.
+
+  33: 10:02:31.15 10:02:32.10  Duration 00:00:00.20  12
+      Allez, ouste.
+
+  34: 10:02:34.21 10:02:35.24  Duration 00:00:01.03  17
+      Du calme, les autres.
+
+  35: 10:02:36.04 10:02:37.00  Duration 00:00:00.21  13
+      Voilà.
+
+  36: 10:02:37.04 10:02:38.09  Duration 00:00:01.05  18
+      Allez, au revoir.
+
+  37: 10:02:38.14 10:02:39.20  Duration 00:00:01.06  19
+      Prenez vos cahiers.
+
+  38: 10:02:40.00 10:02:41.03  Duration 00:00:01.03  17
+      Le premier jour...
+
+  39: 10:02:41.23 10:02:44.10  Duration 00:00:02.12  37
+      Vous pouvez aussi sortir avec Aurore.
+
+  40: 10:02:50.13 10:02:51.13  Duration 00:00:01.00  15
+      Aurore.
+
+  41: 10:02:52.04 10:02:54.00  Duration 00:00:01.21  28
+      Aurore, on va pas recommencer.
+
+  42: 10:02:54.05 10:02:56.16  Duration 00:00:02.11  37
+      D'accord, madame. On va faire quoi?
+
+  43: 10:02:56.21 10:02:58.12  Duration 00:00:01.16  25
+      Sois imaginative, travaille.
+
+  44: 10:02:58.16 10:03:00.09  Duration 00:00:01.18  26
+      - Je travaille.
+      - Non.
+
+  45: 10:03:01.21 10:03:04.22  Duration 00:00:03.01  46
+      - D'accord, mais j'y arrive pas.
+      - Tout le monde y arrive.
+
+  46: 10:03:05.02 10:03:06.19  Duration 00:00:01.17  25
+      Tu vas pas tripler?
+
+  47: 10:03:07.13 10:03:10.02  Duration 00:00:02.14  38
+      Pense à ton avenir.
+      Il faut te faire aider, Aurore.
+
+  48: 10:03:10.20 10:03:13.14  Duration 00:00:02.19  41
+      Demande à Sophie.
+      Elle est brillante, à ce qu'on dit.
+
+  49: 10:03:15.24 10:03:18.19  Duration 00:00:02.20  42
+      - É ta sœur, Sophie.
+      - Non.
+
+  50: 10:03:19.15 10:03:21.05  Duration 00:00:01.15  24
+      Si, é ta sœur.
+
+  51: 10:03:21.21 10:03:23.16  Duration 00:00:01.20  27
+      Elle, é pas pareil.
+
+  52: 10:03:24.11 10:03:26.06  Duration 00:00:01.20  27
+      Elle a été malade, petite.
+
+  53: 10:03:26.10 10:03:27.10  Duration 00:00:01.00  15
+      Malade?
+
+  54: 10:03:28.02 10:03:29.14  Duration 00:00:01.12  22
+      Très malade.
+
+  55: 10:03:29.18 10:03:32.02  Duration 00:00:02.09  35
+      Une sorte de...
+
+  56: 10:03:32.07 10:03:34.00  Duration 00:00:01.18  26
+      Une espèce de choc nerveux.
+
+  57: 10:03:34.04 10:03:35.07  Duration 00:00:01.03  17
+      Ella a été adoptée,
+
+  58: 10:03:35.12 10:03:36.21  Duration 00:00:01.09  20
+      quand elle était petite.
+
+  59: 10:03:37.23 10:03:39.24  Duration 00:00:02.01  31
+      É pas drôle, pour moi.
+
+  60: 10:03:40.03 10:03:42.05  Duration 00:00:02.02  31
+      Franchement, Aurore, tu me fatigues.
+
+  61: 10:03:43.13 10:03:45.24  Duration 00:00:02.11  37
+      #Les profs,
+      on sait jamais ce qu'ils veulent#
+
+  62: 10:03:46.04 10:03:47.03  Duration 00:00:00.24  14
+      #comme réponse.#
+
+  63: 10:03:47.07 10:03:50.00  Duration 00:00:02.18  41
+      #Des fois, il faut dire
+      ce qu'on pense, des fois...#
+
+  64: 10:03:58.17 10:03:59.18  Duration 00:00:01.01  16
+      #La voilà.#
+
+  65: 10:03:59.23 10:04:00.24  Duration 00:00:01.01  16
+      #É elle, Sophie.#
+
+  66: 10:04:02.05 10:04:04.02  Duration 00:00:01.22  28
+      #L'autre, é l'aînée, Jessica.#
+
+  67: 10:04:04.06 10:04:07.07  Duration 00:00:03.01  46
+      #Elle se croit tout permis
+      depuis qu'elle a son BEP.#
+
+  68: 10:04:07.12 10:04:10.00  Duration 00:00:02.13  38
+      - Tu veux pas mettre la 4?
+      - Chut, j'entends rien.
+
+  69: 10:04:10.04 10:04:11.10  Duration 00:00:01.06  19
+      Je travaille!
+
+  70: 10:04:11.15 10:04:12.22  Duration 00:00:01.07  19
+      T'es assez forte comme ça.
+
+  71: 10:04:13.08 10:04:15.08  Duration 00:00:02.00  30
+      - Je le dirai à maman.
+      - É ça.
+
+  72: 10:04:15.12 10:04:17.20  Duration 00:00:02.08  35
+      Ça fait deux heures
+      que t'es dessus. T'as fini.
+
+  73: 10:04:18.00 10:04:20.12  Duration 00:00:02.12  37
+      Maman!
+      Elles m'empêchent de travailler.
+
+  74: 10:04:20.17 10:04:24.01  Duration 00:00:03.09  50
+      - Chut! On peut pas se concentrer!
+      - Se concentrer sur quoi?
+
+  75: 10:04:24.06 10:04:25.09  Duration 00:00:01.03  17
+      Maman, je mange pas ici!
+
+  76: 10:04:25.23 10:04:28.16  Duration 00:00:02.18  41
+      - Aurore, tu peux baisser un peu?
+      - Oui.
+
+  77: 10:04:28.21 10:04:31.10  Duration 00:00:02.14  38
+      On peut savoir
+      où est-ce que tu manges?
+
+  78: 10:04:31.14 10:04:32.21  Duration 00:00:01.07  19
+      Tu vas voir, sale rate!
+
+  79: 10:04:33.01 10:04:34.02  Duration 00:00:01.01  16
+      Tu vois, é une rate.
+
+  80: 10:04:34.07 10:04:35.11  Duration 00:00:01.04  17
+      Ça suffit, les filles!
+
+  81: 10:04:35.16 10:04:37.12  Duration 00:00:01.21  28
+      Attendez
+      que votre père soit rentré...
+
+  82: 10:04:37.16 10:04:39.17  Duration 00:00:02.01  31
+      - Papa travaille, ce soir?
+      - Je te l'ai dit.
+
+  83: 10:04:39.21 10:04:40.17  Duration 00:00:00.21  13
+      Salut.
+
+  84: 10:04:41.16 10:04:43.11  Duration 00:00:01.20  27
+      Aurore, tu viens m'aider, là.
+
+  85: 10:04:43.15 10:04:45.15  Duration 00:00:02.00  30
+      É toujours moi, quoi.
+
+  86: 10:04:45.20 10:04:47.10  Duration 00:00:01.15  24
+      É toi qui fais beaucoup de...
+
+  87: 10:04:48.01 10:04:50.03  Duration 00:00:02.02  31
+      É toi qui as besoin
+      d'apprendre à aider.
+
+  88: 10:04:53.03 10:04:55.00  Duration 00:00:01.22  28
+      Mets tout ça au frigo.
+
+  89: 10:04:55.04 10:04:56.09  Duration 00:00:01.05  18
+      Allez.
+
+  90: 10:04:57.16 10:04:59.05  Duration 00:00:01.14  23
+      Comme il faut.
+
+  91: 10:04:59.09 10:05:02.05  Duration 00:00:02.21  43
+      Tu sors le gratin
+      pour faire de la place.
+
+  92: 10:05:17.09 10:05:19.15  Duration 00:00:02.06  34
+      - Qu'est-ce qu'il y a?
+      - Ben, rien.
+
+  93: 10:05:19.19 10:05:22.11  Duration 00:00:02.17  40
+      É du gratin. On se demande
+      ce qu'on a fait de mal.
+
+  94: 10:05:22.16 10:05:24.12  Duration 00:00:01.21  28
+      T'as qu'à changer de pension.
+
+  95: 10:05:24.17 10:05:26.23  Duration 00:00:02.06  34
+      - Facile à dire. J'irais où?
+      - En pension.
+
+  96: 10:05:27.03 10:05:29.14  Duration 00:00:02.11  37
+      Il y en a
+      qui font du gratin tous les jours.
+
+  97: 10:05:29.18 10:05:30.22  Duration 00:00:01.04  17
+      É pas drôle.
+
+  98: 10:05:31.02 10:05:33.17  Duration 00:00:02.15  39
+      - É pourtant un peu drôle.
+      - Non.
+
+  99: 10:05:35.10 10:05:38.10  Duration 00:00:03.00  45
+      - É une question d'argent.
+      - Pas d'argent, pas de pension.
+
+ 100: 10:05:38.14 10:05:39.17  Duration 00:00:01.03  17
+      Être pauvre a du bon.
+
+ 101: 10:05:44.10 10:05:46.18  Duration 00:00:02.08  35
+      É pas vrai!
+      Mais qu'est-ce que t'as?
+
+ 102: 10:05:47.21 10:05:49.18  Duration 00:00:01.22  28
+      Qu'est-ce qu'on t'a fait?
+
+ 103: 10:05:49.23 10:05:52.04  Duration 00:00:02.06  34
+      Elle est chiante.
+      Elle est née comme ça.
+
+ 104: 10:05:54.19 10:05:55.22  Duration 00:00:01.03  17
+      Chiante et coincée.
+
+ 105: 10:05:58.00 10:05:59.24  Duration 00:00:01.24  29
+      Parce que j'aime pas le gratin?
+
+ 106: 10:06:00.20 10:06:02.21  Duration 00:00:02.01  31
+      Qu'est-ce que t'as? T'as mal?
+
+ 107: 10:06:04.03 10:06:06.18  Duration 00:00:02.15  39
+      - Je me suis coincé le dos.
+      - Comment?
+
+ 108: 10:06:06.22 10:06:08.06  Duration 00:00:01.09  20
+      En ouvrant une porte.
+
+ 109: 10:06:08.21 10:06:11.13  Duration 00:00:02.17  40
+      Viens faire
+      les fiches de paye avec moi.
+
+ 110: 10:06:38.01 10:06:39.12  Duration 00:00:01.11  22
+      - Salut.
+      - Salut.
+
+ 111: 10:06:50.19 10:06:53.16  Duration 00:00:02.22  43
+      #Lui, é Marceau.
+      Le fils de la copine du père de Lola.#
+
+ 112: 10:06:53.20 10:06:55.24  Duration 00:00:02.04  32
+      #Je suis sortie avec, et Lola aussi.#
+
+ 113: 10:06:56.03 10:06:58.03  Duration 00:00:02.00  30
+      #Maintenant,
+      on sait pas qui sort avec.#
+
+ 114: 10:07:02.11 10:07:05.18  Duration 00:00:03.07  49
+      Comment tu te sens?
+      Tu flippes pas trop, d'être seule?
+
+ 115: 10:07:05.23 10:07:07.04  Duration 00:00:01.06  19
+      Comment ça?
+
+ 116: 10:07:07.08 10:07:09.01  Duration 00:00:01.18  26
+      Ben, avec les 5e.
+
+ 117: 10:07:09.05 10:07:10.19  Duration 00:00:01.14  23
+      On va moins te voir, forcément.
+
+ 118: 10:07:10.23 10:07:13.18  Duration 00:00:02.20  42
+      Ben non, pourquoi?
+      T'es totalement con, ou quoi?
+
+ 119: 10:07:13.22 10:07:16.19  Duration 00:00:02.22  43
+      Tout le monde devrait redoubler.
+      Je suis comme chez moi.
+
+ 120: 10:07:16.23 10:07:17.24  Duration 00:00:01.01  16
+      À l'aise, sans stress.
+
+ 121: 10:07:21.14 10:07:22.09  Duration 00:00:00.20  12
+      En tout cas...
+
+ 122: 10:07:23.24 10:07:27.12  Duration 00:00:03.13  53
+      je suis toujours là pour toi.
+      Si tu veux qu'on ressorte ensemble...
+
+ 123: 10:07:28.20 10:07:32.13  Duration 00:00:03.18  56
+      Je vois pas l'intérêt. J'avais déjà
+      du mal à t'aimer tous les jours.
+
+ 124: 10:07:36.09 10:07:39.06  Duration 00:00:02.22  43
+      Justement. Là, on sera pas
+      ensemble tout le temps.
+
+ 125: 10:07:44.03 10:07:47.01  Duration 00:00:02.23  44
+      En 1337, é le début
+      de la guerre de Cent Ans.
+
+ 126: 10:07:47.06 10:07:50.03  Duration 00:00:02.22  43
+      En 1415,
+      é le désastre d'Azincourt.
+
+ 127: 10:07:50.07 10:07:53.09  Duration 00:00:03.02  46
+      La guerre entre Armagnacs
+      et Bourguignons ravage le royaume.
+
+ 128: 10:07:53.13 10:07:57.08  Duration 00:00:03.20  57
+      En 1429, Jeanne d'Arc
+      rejoint Charles VII à Chinon.
+
+ 129: 10:07:57.12 10:08:00.18  Duration 00:00:03.06  49
+      Elle est brûlée vive 2 ans plus tard
+      à Rouen par les Anglais.
+
+ 130: 10:08:00.22 10:08:01.17  Duration 00:00:00.20  12
+      Je reprends.
+
+ 131: 10:08:01.22 10:08:04.07  Duration 00:00:02.10  36
+      En 1337, é le début
+      de la guerre de Cent Ans.
+
+ 132: 10:08:08.16 10:08:11.12  Duration 00:00:02.21  43
+      La première défaite française
+      a lieu à Crécy en 1346.
+
+ 133: 10:08:13.01 10:08:15.02  Duration 00:00:02.01  31
+      Une autre défaite la suit à Poitiers.
+
+ 134: 10:08:16.17 10:08:17.20  Duration 00:00:01.03  17
+      Examinons le principe
+
+ 135: 10:08:18.00 10:08:19.14  Duration 00:00:01.14  23
+      de la première déclinaison latine.
+
+ 136: 10:08:52.13 10:08:54.22  Duration 00:00:02.09  35
+      #Faites-moi ça
+      avant la fin de la semaine.#
+
+ 137: 10:09:13.06 10:09:14.24  Duration 00:00:01.18  26
+      Vas-y, ramène un Carambar.
+
+ 138: 10:09:23.05 10:09:24.06  Duration 00:00:01.01  16
+      Parfait.
+
+ 139: 10:09:24.10 10:09:26.07  Duration 00:00:01.22  28
+      Putain! T'es un sumo.
+
+ 140: 10:09:33.20 10:09:36.10  Duration 00:00:02.15  39
+      Cours d'histoire
+
+ 141: 10:09:49.19 10:09:51.09  Duration 00:00:01.15  24
+      On va chez toi, après?
+
+ 142: 10:09:51.14 10:09:53.12  Duration 00:00:01.23  29
+      Allez, Samira. Mais vas-y!
+
+ 143: 10:09:53.17 10:09:55.04  Duration 00:00:01.12  22
+      On s'en fiche.
+
+ 144: 10:09:58.03 10:10:00.17  Duration 00:00:02.14  38
+      Bonjour, Stéphane.
+      Bonjour, Kamila.
+
+ 145: 10:10:03.09 10:10:05.19  Duration 00:00:02.10  36
+      #La qualité de Samira,
+      é de vivre dans un café.#
+
+ 146: 10:10:05.23 10:10:07.21  Duration 00:00:01.23  29
+      #Son défaut, é ses frères.#
+
+ 147: 10:10:08.00 10:10:10.22  Duration 00:00:02.22  43
+      #Elle croit toujours
+      qu'on la voit pour les draguer.#
+
+ 148: 10:10:11.02 10:10:12.15  Duration 00:00:01.13  23
+      #Elle a pas tout à fait tort.#
+
+ 149: 10:10:16.19 10:10:18.13  Duration 00:00:01.19  26
+      - Allez, hop!
+      - Moi aussi!
+
+ 150: 10:10:18.17 10:10:19.16  Duration 00:00:00.24  14
+      Oui, toi aussi.
+
+ 151: 10:10:30.05 10:10:32.06  Duration 00:00:02.01  31
+      #Qui a un sérum#
+
+ 152: 10:10:32.10 10:10:34.17  Duration 00:00:02.07  34
+      #De régénération#
+
+ 153: 10:10:34.22 10:10:37.06  Duration 00:00:02.09  35
+      #Il est né le divin enfant#
+
+ 154: 10:10:38.02 10:10:41.06  Duration 00:00:03.04  47
+      #Des fois, é affolant,
+      comme je suis désinhibée.#
+
+ 155: 10:10:41.11 10:10:42.17  Duration 00:00:01.06  19
+      #Je sais pas ce qui me prend.#
+
+ 156: 10:10:42.22 10:10:46.00  Duration 00:00:03.03  47
+      #La fille timide qui perd la boule
+      et chante n'importe quoi.#
+
+ 157: 10:10:46.15 10:10:47.10  Duration 00:00:00.20  12
+      #Atroce.#
+
+ 158: 10:11:04.14 10:11:06.23  Duration 00:00:02.09  35
+      Allez, allez. Je vous vois. Rentrez.
+
+ 159: 10:11:09.15 10:11:11.14  Duration 00:00:01.24  29
+      Rentrez, rentrez. Bonjour.
+
+ 160: 10:11:12.02 10:11:14.11  Duration 00:00:02.09  35
+      Bonjour. Vous vous installez.
+
+ 161: 10:11:16.02 10:11:19.10  Duration 00:00:03.08  50
+      #Suite à l'épidémie de grossesses,
+      on a touché un remplaçant.#
+
+ 162: 10:11:19.14 10:11:21.18  Duration 00:00:02.04  32
+      - Bonjour.
+      - On s'installe rapidement.
+
+ 163: 10:11:21.22 10:11:24.12  Duration 00:00:02.15  39
+      Comme ça,
+      on se présente rapidement. Allez.
+
+ 164: 10:11:24.17 10:11:25.14  Duration 00:00:00.22  13
+      La capuche.
+
+ 165: 10:11:25.18 10:11:27.02  Duration 00:00:01.09  20
+      - Moi?
+      - Oui.
+
+ 166: 10:11:27.06 10:11:29.09  Duration 00:00:02.03  32
+      Installez-vous. On sort aucun cahier.
+
+ 167: 10:11:29.13 10:11:31.14  Duration 00:00:02.01  31
+      On met son sac par terre.
+
+ 168: 10:11:31.18 10:11:32.19  Duration 00:00:01.01  16
+      Il y a plus personne?
+
+ 169: 10:11:32.24 10:11:34.19  Duration 00:00:01.20  27
+      Qui ferait une blague idiote. OK.
+
+ 170: 10:11:34.23 10:11:35.18  Duration 00:00:00.20  12
+      Allez, hop.
+
+ 171: 10:11:36.23 10:11:38.07  Duration 00:00:01.09  20
+      Eh bien, bonjour.
+
+ 172: 10:11:38.12 10:11:40.07  Duration 00:00:01.20  27
+      Bonjour.
+
+ 173: 10:11:40.12 10:11:43.03  Duration 00:00:02.16  40
+      Je m'appelle Sébastien Couette.
+
+ 174: 10:11:45.17 10:11:47.03  Duration 00:00:01.11  22
+      Voilà.
+
+ 175: 10:11:47.08 10:11:49.22  Duration 00:00:02.14  38
+      Ça fait rire au départ.
+      Ça me faisait rire aussi.
+
+ 176: 10:11:50.02 10:11:52.08  Duration 00:00:02.06  34
+      Cinq minutes, après, ça m'a passé.
+
+ 177: 10:11:52.12 10:11:54.01  Duration 00:00:01.14  23
+      Je vais vous vouvoyer.
+
+ 178: 10:11:54.06 10:11:57.23  Duration 00:00:03.17  55
+      Pourquoi? Parce que j'ai envie
+      de vous respecter, de vous traiter
+
+ 179: 10:11:58.03 10:11:59.13  Duration 00:00:01.10  21
+      pas comme des petits bébés.
+
+ 180: 10:11:59.17 10:12:01.19  Duration 00:00:02.02  31
+      Vous pouvez vous redresser,
+      mademoiselle?
+
+ 181: 10:12:01.23 10:12:05.03  Duration 00:00:03.05  48
+      J'aimerais vous expliquer
+      comment je vais vous évaluer.
+
+ 182: 10:12:05.08 10:12:08.06  Duration 00:00:02.23  44
+      Chez moi,
+      vous avez tous 10 au départ.
+
+ 183: 10:12:10.07 10:12:13.00  Duration 00:00:02.18  41
+      "Oh là là! Incroyable.
+      Merci de ce cadeau."
+
+ 184: 10:12:13.05 10:12:15.04  Duration 00:00:01.24  29
+      Pour démarrer ce nouveau système,
+
+ 185: 10:12:15.09 10:12:17.23  Duration 00:00:02.14  38
+      on va commencer
+      par la lecture d'un livre.
+
+ 186: 10:12:18.03 10:12:20.05  Duration 00:00:02.02  31
+      #M. Couette est bourré d'ambitions.#
+
+ 187: 10:12:20.10 10:12:23.00  Duration 00:00:02.15  39
+      On va commencer
+      avec l'inénarrable...
+
+ 188: 10:12:23.04 10:12:24.20  Duration 00:00:01.16  25
+      #Aucune chance qu'il tombe enceinte.#
+
+ 189: 10:12:24.24 10:12:26.23  Duration 00:00:01.24  29
+      Que veut dire inénarrable,
+      d'après vous?
+
+ 190: 10:12:28.17 10:12:29.19  Duration 00:00:01.02  16
+      Qu'on ne #ninarre# pas.
+
+ 191: 10:12:29.24 10:12:33.14  Duration 00:00:03.15  54
+      Qu'on ne #ninarre# pas.
+      #Ninarrer,# ça n'existe pas.
+
+ 192: 10:12:33.19 10:12:35.05  Duration 00:00:01.11  22
+      Verbe du 1er groupe, #ninarrer.#
+
+ 193: 10:12:35.10 10:12:37.19  Duration 00:00:02.09  35
+      Qui ne se narre pas,
+      qui ne se raconte pas.
+
+ 194: 10:12:37.23 10:12:38.18  Duration 00:00:00.20  12
+      L'inénarrable,
+
+ 195: 10:12:38.23 10:12:40.14  Duration 00:00:01.16  25
+      l'ineffable...
+
+ 196: 10:12:42.06 10:12:43.21  Duration 00:00:01.15  24
+      Pas mieux. L'incontournable...
+
+ 197: 10:12:44.22 10:12:46.06  Duration 00:00:01.09  20
+      #Princesse de Clèves.#
+
+ 198: 10:12:47.05 10:12:49.02  Duration 00:00:01.22  28
+      #La mauvaise nouvelle: il est fou.#
+
+ 199: 10:12:49.06 10:12:50.17  Duration 00:00:01.11  22
+      #La bonne: il me connaît pas.#
+
+ 200: 10:12:50.21 10:12:53.05  Duration 00:00:02.09  35
+      #Zéro casier judiciaire,
+      retour à la case départ.#
+
+ 201: 10:12:53.10 10:12:54.08  Duration 00:00:00.23  14
+      Samira!
+
+ 202: 10:12:56.15 10:12:57.24  Duration 00:00:01.09  20
+      Qu'est-ce qu'elle fait?
+
+ 203: 10:12:59.12 10:13:01.13  Duration 00:00:02.01  31
+      - É son frère.
+      - Ben ouais.
+
+ 204: 10:13:01.18 10:13:02.16  Duration 00:00:00.23  14
+      Aurore.
+
+ 205: 10:13:04.15 10:13:07.18  Duration 00:00:03.03  47
+      - Il y a Areski qui veut te voir.
+      - Qu'est-ce qu'il me veut?
+
+ 206: 10:13:07.23 10:13:09.01  Duration 00:00:01.03  17
+      Je suis pas la poste.
+
+ 207: 10:13:15.02 10:13:16.00  Duration 00:00:00.23  14
+      Il t'a dit quoi?
+
+ 208: 10:13:16.04 10:13:18.08  Duration 00:00:02.04  32
+      "Est-ce que tu peux
+      me ramener Aurore?"
+
+ 209: 10:13:22.03 10:13:23.10  Duration 00:00:01.07  19
+      Salut. Ça va?
+
+ 210: 10:13:24.00 10:13:24.23  Duration 00:00:00.23  14
+      Ouais.
+
+ 211: 10:13:26.01 10:13:28.06  Duration 00:00:02.05  33
+      Tu te souviens,
+      au café, t'avais chanté...
+
+ 212: 10:13:28.16 10:13:30.18  Duration 00:00:02.02  31
+      Vous aviez qu'à pas
+      brancher le micro.
+
+ 213: 10:13:32.12 10:13:36.02  Duration 00:00:03.15  54
+      J'ai fait quelque chose de mal,
+      ou t'es toujours aussi désagréable?
+
+ 214: 10:13:36.07 10:13:37.19  Duration 00:00:01.12  22
+      Ben, ça dépend.
+
+ 215: 10:13:38.19 10:13:41.01  Duration 00:00:02.07  34
+      É bizarre.
+      Qu'est-ce qu'il lui demande?
+
+ 216: 10:13:44.02 10:13:48.04  Duration 00:00:04.02  61
+      On a un groupe, avec des amis,
+      et on cherche une chanteuse.
+
+ 217: 10:13:48.08 10:13:49.07  Duration 00:00:00.24  14
+      Et du coup,
+
+ 218: 10:13:49.12 10:13:50.15  Duration 00:00:01.03  17
+      j'ai pensé à toi.
+
+ 219: 10:13:50.19 10:13:51.14  Duration 00:00:00.20  12
+      Moi?
+
+ 220: 10:13:51.19 10:13:54.01  Duration 00:00:02.07  34
+      Oui, toi.
+      Tu vois quelqu'un d'autre, ici?
+
+ 221: 10:13:54.15 10:13:56.02  Duration 00:00:01.12  22
+      Mais pourquoi?
+
+ 222: 10:13:56.07 10:13:58.01  Duration 00:00:01.19  26
+      T'avais l'air marrante.
+
+ 223: 10:14:00.11 10:14:02.07  Duration 00:00:01.21  28
+      Je peux réfléchir et te dire après?
+
+ 224: 10:14:02.12 10:14:03.17  Duration 00:00:01.05  18
+      Pas longtemps.
+
+ 225: 10:14:13.18 10:14:16.01  Duration 00:00:02.08  35
+      - É bon. J'ai réfléchi et...
+      - Et alors?
+
+ 226: 10:14:16.05 10:14:18.15  Duration 00:00:02.10  36
+      - Je crois pas que ce sera possible.
+      - Pourquoi?
+
+ 227: 10:14:20.18 10:14:22.13  Duration 00:00:01.20  27
+      - É ta sœur.
+      - Quoi?
+
+ 228: 10:14:22.18 10:14:24.08  Duration 00:00:01.15  24
+      - É ta sœur
+      - Samira?
+
+ 229: 10:14:25.01 10:14:27.11  Duration 00:00:02.10  36
+      Mais qu'est-ce qu'elle
+      vient faire là-dedans?
+
+ 230: 10:14:27.15 10:14:29.14  Duration 00:00:01.24  29
+      Elle veut pas qu'on sorte avec toi.
+
+ 231: 10:14:29.19 10:14:31.09  Duration 00:00:01.15  24
+      Comme é mon amie avant toi,
+
+ 232: 10:14:31.14 10:14:33.14  Duration 00:00:02.00  30
+      et que j'en ai peu,
+      je veux pas la perdre.
+
+ 233: 10:14:33.18 10:14:35.23  Duration 00:00:02.05  33
+      Et j'ai pas envie
+      de finir toute seule.
+
+ 234: 10:14:36.02 10:14:39.04  Duration 00:00:03.02  46
+      T'inquiète pas pour Samira,
+      je lui expliquerai.
+
+ 235: 10:14:39.09 10:14:41.05  Duration 00:00:01.21  28
+      - Dis pas que é moi.
+      - Non, non.
+
+ 236: 10:14:41.09 10:14:42.04  Duration 00:00:00.20  12
+      OK.
+
+ 237: 10:14:43.08 10:14:44.11  Duration 00:00:01.03  17
+      Non, je peux pas.
+
+ 238: 10:14:45.05 10:14:46.19  Duration 00:00:01.14  23
+      É pas grave. Salut.
+
+ 239: 10:14:46.24 10:14:48.01  Duration 00:00:01.02  16
+      Salut.
+
+ 240: 10:14:48.24 10:14:52.04  Duration 00:00:03.05  48
+      - Tu me fais pas la bise?
+      - Non. J'ai des mycoses à la peau
+
+ 241: 10:14:52.09 10:14:53.16  Duration 00:00:01.07  19
+      et des allergies.
+
+ 242: 10:14:53.21 10:14:54.20  Duration 00:00:00.24  14
+      Salut.
+
+ 243: 10:14:56.09 10:14:57.20  Duration 00:00:01.11  22
+      Vous ferez quoi, sans moi?
+
+ 244: 10:14:58.00 10:14:59.19  Duration 00:00:01.19  26
+      Ben, trouver quelqu'un d'autre.
+
+ 245: 10:15:00.10 10:15:02.08  Duration 00:00:01.23  29
+      Ouais, bien sûr.
+
+ 246: 10:15:04.12 10:15:05.17  Duration 00:00:01.05  18
+      Il te drague, ça se voit.
+
+ 247: 10:15:05.22 10:15:09.00  Duration 00:00:03.03  47
+      - J'ai même pas le droit d'y penser.
+      - On n'a rien fait de mal.
+
+ 248: 10:15:09.05 10:15:11.21  Duration 00:00:02.16  40
+      Tu te rappelles s'ils sont beaux,
+      ses autres frères?
+
+ 249: 10:15:12.00 10:15:13.06  Duration 00:00:01.06  19
+      Je te réponds même pas.
+
+ 250: 10:15:21.13 10:15:24.09  Duration 00:00:02.21  43
+      Des fois, Marceau,
+      j'ai l'impression de l'aimer encore.
+
+ 251: 10:15:24.14 10:15:27.13  Duration 00:00:02.24  44
+      - Le fils de la copine de ton père...
+      - Le dis pas.
+
+ 252: 10:15:29.17 10:15:32.04  Duration 00:00:02.12  37
+      É un peu illégal.
+      Ça peut pas marcher.
+
+ 253: 10:15:34.20 10:15:37.00  Duration 00:00:02.05  33
+      Il t'a demandé
+      de ressortir avec lui?
+
+ 254: 10:15:37.04 10:15:38.20  Duration 00:00:01.16  25
+      Ouais, mais j'ai dit non.
+
+ 255: 10:15:38.24 10:15:41.00  Duration 00:00:02.01  31
+      Je l'aimais, mais je m'ennuyais trop.
+
+ 256: 10:15:41.04 10:15:42.13  Duration 00:00:01.09  20
+      Il est pas si ennuyeux.
+
+ 257: 10:15:44.02 10:15:45.22  Duration 00:00:01.20  27
+      T'es peut-être frigide.
+
+ 258: 10:15:46.01 10:15:48.04  Duration 00:00:02.03  32
+      Comme l'émission à la télé?
+
+ 259: 10:15:48.09 10:15:51.03  Duration 00:00:02.19  41
+      - Sur les enfants abusés.
+      - T'as regardé?
+
+ 260: 10:15:51.07 10:15:52.03  Duration 00:00:00.21  13
+      C'était trop bien.
+
+ 261: 10:15:52.08 10:15:54.12  Duration 00:00:02.04  32
+      T'as été abusée,
+      quand t'étais petite?
+
+ 262: 10:15:54.16 10:15:55.11  Duration 00:00:00.20  12
+      Je sais plus.
+
+ 263: 10:15:55.16 10:15:57.03  Duration 00:00:01.12  22
+      Il est où, ton gésier?
+
+ 264: 10:15:58.17 10:16:00.12  Duration 00:00:01.20  27
+      Il m'a pas mis le gésier, ce con.
+
+ 265: 10:16:02.11 10:16:04.24  Duration 00:00:02.13  38
+      Aurore, on ne joue pas
+      avec la nourriture.
+
+ 266: 10:16:05.04 10:16:06.01  Duration 00:00:00.22  13
+      Je dois la manger?
+
+ 267: 10:16:09.12 10:16:11.17  Duration 00:00:02.05  33
+      Qu'est-ce que vous faites,
+      en français?
+
+ 268: 10:16:11.22 10:16:13.03  Duration 00:00:01.06  19
+      #La Princesse de Clèves.#
+
+ 269: 10:16:13.07 10:16:15.24  Duration 00:00:02.17  40
+      Encore? Pourquoi toujours
+      #La Princesse de Clèves#?
+
+ 270: 10:16:16.03 10:16:18.03  Duration 00:00:02.00  30
+      - É l'école.
+      - Quel rapport?
+
+ 271: 10:16:18.07 10:16:20.08  Duration 00:00:02.01  31
+      De mon temps, c'était déjà ce livre.
+
+ 272: 10:16:20.13 10:16:22.08  Duration 00:00:01.20  27
+      - Ah bon?
+      - Eh oui. Vous l'avez lu?
+
+ 273: 10:16:23.02 10:16:24.16  Duration 00:00:01.14  23
+      - Je sais plus.
+      - Moi, je l'ai lu,
+
+ 274: 10:16:24.21 10:16:26.14  Duration 00:00:01.18  26
+      #La Princesse de Clèves.
+      #- Mme Parfaite.
+
+ 275: 10:16:26.19 10:16:28.01  Duration 00:00:01.07  19
+      É pas ma faute.
+
+ 276: 10:16:30.03 10:16:31.22  Duration 00:00:01.19  26
+      Tu veux qu'on t'aide, en cuisine?
+
+ 277: 10:16:32.10 10:16:34.22  Duration 00:00:02.12  37
+      - Ça va, maman.
+      - OK. Je te demande.
+
+ 278: 10:16:37.13 10:16:38.24  Duration 00:00:01.11  22
+      Mangeons.
+
+ 279: 10:16:39.04 10:16:41.06  Duration 00:00:02.02  31
+      Sophie.
+      Maman, je te sers après.
+
+ 280: 10:16:41.11 10:16:42.24  Duration 00:00:01.13  23
+      Cuisse, comme d'habitude?
+
+ 281: 10:16:43.04 10:16:45.19  Duration 00:00:02.15  39
+      - Donne et dis "s'il te plaît".
+      - S'il te plaît.
+
+ 282: 10:16:47.12 10:16:50.04  Duration 00:00:02.17  40
+      - Maman. Blanc? Cuisse? Aile?
+      - Oui.
+
+ 283: 10:16:50.09 10:16:52.04  Duration 00:00:01.20  27
+      Blanc et aile.
+      Faut que tu manges.
+
+ 284: 10:16:52.09 10:16:54.22  Duration 00:00:02.13  38
+      Vous savez si j'ai été abusée,
+      dans mon enfance?
+
+ 285: 10:16:58.15 10:17:01.14  Duration 00:00:02.24  44
+      J'ai besoin de savoir
+      par qui et dans quelles conditions.
+
+ 286: 10:17:01.18 10:17:04.12  Duration 00:00:02.19  41
+      Sinon, je vais rester frigide
+      toute ma vie.
+
+ 287: 10:17:05.20 10:17:07.13  Duration 00:00:01.18  26
+      Ça veut dire quoi?
+
+ 288: 10:17:07.18 10:17:10.02  Duration 00:00:02.09  35
+      Aurore, si é une blague,
+      elle est pas drôle,
+
+ 289: 10:17:10.06 10:17:13.14  Duration 00:00:03.08  50
+      et sinon, on appelle la police.
+      - É un peu exagéré.
+
+ 290: 10:17:13.19 10:17:15.07  Duration 00:00:01.13  23
+      É des conneries de Lola?
+
+ 291: 10:17:15.20 10:17:17.04  Duration 00:00:01.09  20
+      On peut même plus parler.
+
+ 292: 10:17:20.18 10:17:24.05  Duration 00:00:03.12  52
+      #Se mettre dans des états pareils
+      pour une toute petite remarque,#
+
+ 293: 10:17:24.09 10:17:25.14  Duration 00:00:01.05  18
+      #é pas hystérique?#
+
+ 294: 10:17:30.10 10:17:34.05  Duration 00:00:03.20  57
+      "On m'a offert des sneakers,
+      mais puis-je les porter avec tout?"
+
+ 295: 10:17:34.09 10:17:36.12  Duration 00:00:02.03  32
+      "Safia, 14 ans."
+
+ 296: 10:17:41.00 10:17:44.11  Duration 00:00:03.11  52
+      Elle te traite comme ça, et é
+      tout ce que tu trouves à dire?
+
+ 297: 10:17:48.17 10:17:50.06  Duration 00:00:01.14  23
+      Elle va peut-être bosser.
+
+ 298: 10:17:50.11 10:17:54.04  Duration 00:00:03.18  56
+      #Au moins, on la verra plus
+      tirer la gueule toute la journée.#
+
+ 299: 10:17:54.08 10:17:56.24  Duration 00:00:02.16  40
+      #Certains sont bien, en pension.
+      Ils préfèrent, même.#
+
+ 300: 10:17:57.03 10:17:58.17  Duration 00:00:01.14  23
+      #Quand même, on fait pas ça.#
+
+ 301: 10:17:59.14 10:18:01.03  Duration 00:00:01.14  23
+      #On l'envoie pas au goulag.#
+
+ 302: 10:18:01.08 10:18:03.09  Duration 00:00:02.01  31
+      #Elle y resterait un an.#
+
+ 303: 10:18:03.13 10:18:06.05  Duration 00:00:02.17  40
+      #Après les vacances de la Toussaint,
+      on l'inscrit.#
+
+ 304: 10:18:06.09 10:18:07.12  Duration 00:00:01.03  17
+      #Je sais pas.#
+
+ 305: 10:18:07.17 10:18:10.06  Duration 00:00:02.14  38
+      É peut-être une bonne idée.
+      Là, je sais plus.
+
+ 306: 10:18:13.00 10:18:16.09  Duration 00:00:03.09  50
+      Arrête de t'en faire, va.
+      Ça va s'arranger.
+
+ 307: 10:18:18.14 10:18:22.01  Duration 00:00:03.12  52
+      #Je peux pas m'arrêter de m'en faire
+      quand ça va pas s'arranger.#
+
+ 308: 10:18:30.08 10:18:33.18  Duration 00:00:03.10  51
+      Demain,
+      je la conduirai dans la forêt.
+
+ 309: 10:18:35.18 10:18:38.12  Duration 00:00:02.19  41
+      T'en fais pas,
+      elle trouvera ses petits cailloux.
+
+ 310: 10:18:38.22 10:18:41.06  Duration 00:00:02.09  35
+      É ça, le problème.
+      Elle va revenir.
+
+ 311: 10:18:41.10 10:18:43.06  Duration 00:00:01.21  28
+      Il faut qu'on enlève les cailloux.
+
+ 312: 10:18:45.14 10:18:46.15  Duration 00:00:01.01  16
+      #Si ça marche pas,#
+
+ 313: 10:18:46.20 10:18:47.18  Duration 00:00:00.23  14
+      il restera l'ogre.
+
+ 314: 10:18:47.23 10:18:49.03  Duration 00:00:01.05  18
+      Elle est imbouffable.
+
+ 315: 10:18:49.08 10:18:51.00  Duration 00:00:01.17  25
+      #Imbouffable, notre fille.#
+
+ 316: 10:18:54.06 10:18:56.12  Duration 00:00:02.06  34
+      #Franchement... Un ogre, en plus.#
+
+ 317: 10:18:56.16 10:18:58.19  Duration 00:00:02.03  32
+      #"Ma chérie, j'appelle un ogre."#
+
+ 318: 10:18:58.23 10:19:00.00  Duration 00:00:01.02  16
+      #Trop marrant.#
+
+ 319: 10:19:00.04 10:19:02.01  Duration 00:00:01.22  28
+      #Ça fait super peur, pour des parents.#
+
+ 320: 10:19:02.05 10:19:05.21  Duration 00:00:03.16  55
+      #Il y a des gens, ils devraient pas
+      avoir le droit d'avoir des enfants.#
+
+ 321: 10:19:06.00 10:19:07.22  Duration 00:00:01.22  28
+      #Un ogre... N'importe quoi.#
+
+ 322: 10:20:23.12 10:20:25.07  Duration 00:00:01.20  27
+      Ils veulent se débarrasser de moi.
+
+ 323: 10:20:26.08 10:20:27.19  Duration 00:00:01.11  22
+      J'ai plus d'avenir, Lola.
+
+ 324: 10:20:29.04 10:20:31.13  Duration 00:00:02.09  35
+      - Je suis SDF.
+      - Mais non, pas SDF.
+
+ 325: 10:20:32.06 10:20:35.03  Duration 00:00:02.22  43
+      Si. Sans maison et sans emploi.
+
+ 326: 10:20:38.13 10:20:40.05  Duration 00:00:01.17  25
+      T'as qu'à faire une fugue.
+
+ 327: 10:20:40.09 10:20:41.20  Duration 00:00:01.11  22
+      Ils vont se calmer.
+
+ 328: 10:20:42.05 10:20:44.18  Duration 00:00:02.13  38
+      Ils veulent te mettre dehors,
+      tu pars la première.
+
+ 329: 10:20:47.11 10:20:49.13  Duration 00:00:02.02  31
+      Viens chez moi.
+      Je suis ta copine ou pas?
+
+ 330: 10:20:49.18 10:20:52.05  Duration 00:00:02.12  37
+      É pas faire une fugue,
+      é aller chez toi.
+
+ 331: 10:20:52.09 10:20:53.22  Duration 00:00:01.13  23
+      Tout le monde sait où je suis.
+
+ 332: 10:20:55.05 10:20:58.14  Duration 00:00:03.09  50
+      Je te laisserai jamais tomber.
+      Regarde, je laisse tomber,
+
+ 333: 10:20:58.19 10:21:00.21  Duration 00:00:02.02  31
+      pour tes cheveux?
+      - Non. É vrai.
+
+ 334: 10:21:01.00 10:21:03.16  Duration 00:00:02.16  40
+      Pour l'instant,
+      é pas une réussite.
+
+ 335: 10:21:03.20 10:21:04.19  Duration 00:00:00.24  14
+      On peut pas dire.
+
+ 336: 10:21:12.17 10:21:15.20  Duration 00:00:03.03  47
+      - Aurore, viens t'asseoir.
+      - En fait, j'ai du boulot.
+
+ 337: 10:21:16.00 10:21:17.04  Duration 00:00:01.04  17
+      Non. Viens t'asseoir.
+
+ 338: 10:21:26.04 10:21:27.19  Duration 00:00:01.15  24
+      Qu'as-tu fait à tes cheveux?
+
+ 339: 10:21:31.22 10:21:34.24  Duration 00:00:03.02  46
+      J'espère que tu te rends compte
+      que ta sortie, à table...
+
+ 340: 10:21:35.03 10:21:36.17  Duration 00:00:01.14  23
+      Écoute-moi, s'il te plaît.
+
+ 341: 10:21:37.07 10:21:39.04  Duration 00:00:01.22  28
+      Soit é une provocation,
+
+ 342: 10:21:39.08 10:21:41.22  Duration 00:00:02.14  38
+      et é ta dernière
+      dans ce genre-là,
+
+ 343: 10:21:42.01 10:21:45.00  Duration 00:00:02.24  44
+      soit é autre chose.
+      Et là, j'ai besoin de savoir.
+
+ 344: 10:21:45.24 10:21:49.07  Duration 00:00:03.08  50
+      - Je peux pas en parler avec toi.
+      - Avec ta mère, alors?
+
+ 345: 10:21:49.11 10:21:50.11  Duration 00:00:01.00  15
+      Non plus.
+
+ 346: 10:21:51.11 10:21:52.23  Duration 00:00:01.12  22
+      Arrête de gigoter.
+
+ 347: 10:21:56.03 10:21:57.24  Duration 00:00:01.21  28
+      Ta mère et moi, on pense que...
+
+ 348: 10:21:58.24 10:22:01.09  Duration 00:00:02.10  36
+      t'es pas heureuse, ici, avec nous.
+
+ 349: 10:22:01.13 10:22:04.18  Duration 00:00:03.05  48
+      L'idée de la pension
+      nous paraît être une bonne solution.
+
+ 350: 10:22:04.22 10:22:06.21  Duration 00:00:01.24  29
+      Comme ça, vous serez débarrassés.
+
+ 351: 10:22:07.00 10:22:08.11  Duration 00:00:01.11  22
+      - Comment ça?
+      - Ben oui.
+
+ 352: 10:22:08.21 10:22:10.17  Duration 00:00:01.21  28
+      On m'abandonne, et plus de problème.
+
+ 353: 10:22:10.21 10:22:11.16  Duration 00:00:00.20  12
+      N'importe quoi.
+
+ 354: 10:22:11.21 10:22:15.17  Duration 00:00:03.21  58
+      Je sais ce que je dis. Le mieux,
+      ce serait que je me suicide.
+
+ 355: 10:22:16.05 10:22:17.24  Duration 00:00:01.19  26
+      É ça, je vais me suicider.
+
+ 356: 10:22:19.03 10:22:22.10  Duration 00:00:03.07  49
+      Comme ça, vous serez contents.
+      Et ça vous fera des économies.
+
+ 357: 10:22:22.15 10:22:23.18  Duration 00:00:01.03  17
+      Aurore.
+
+ 358: 10:22:24.08 10:22:27.14  Duration 00:00:03.06  49
+      Arrête de dire des conneries,
+      tu me fatigues.
+
+ 359: 10:22:28.12 10:22:30.21  Duration 00:00:02.09  35
+      Arrête de bouger, s'il te plaît.
+
+ 360: 10:22:34.22 10:22:36.20  Duration 00:00:01.23  29
+      É tout? É fini?
+
+ 361: 10:22:37.13 10:22:38.19  Duration 00:00:01.06  19
+      Non.
+
+ 362: 10:22:38.23 10:22:41.00  Duration 00:00:02.02  31
+      Non.
+      Tu vas commencer par me ranger
+
+ 363: 10:22:41.05 10:22:42.08  Duration 00:00:01.03  17
+      tout ton bordel.
+
+ 364: 10:22:42.12 10:22:44.13  Duration 00:00:02.01  31
+      É toujours moi.
+      Comment vous ferez,
+
+ 365: 10:22:44.18 10:22:47.05  Duration 00:00:02.12  37
+      sans moi?
+      - Tu veux que je t'en colle une?
+
+ 366: 10:22:50.15 10:22:52.00  Duration 00:00:01.10  21
+      Arrête de bouger!
+
+ 367: 10:22:55.00 10:22:56.02  Duration 00:00:01.02  16
+      Arrête!
+
+ 368: 10:23:11.09 10:23:14.17  Duration 00:00:03.08  50
+      Ça y est, mon père me hait aussi.
+      É triste.
+
+ 369: 10:23:39.00 10:23:42.09  Duration 00:00:03.09  50
+      À mon espèce de famille
+
+ 370: 10:23:45.06 10:23:46.15  Duration 00:00:01.09  20
+      T'as écrit ta lettre?
+
+ 371: 10:23:46.19 10:23:48.10  Duration 00:00:01.16  25
+      - Oui.
+      - T'as demandé quoi?
+
+ 372: 10:23:48.20 10:23:51.14  Duration 00:00:02.19  41
+      - Un nouveau portable.
+      - T'es con, ou quoi?
+
+ 373: 10:23:51.18 10:23:54.06  Duration 00:00:02.13  38
+      C'était pour la pension,
+      pas pour un portable.
+
+ 374: 10:23:54.10 10:23:56.00  Duration 00:00:01.15  24
+      Je demande ce que je veux.
+
+ 375: 10:23:56.04 10:23:58.17  Duration 00:00:02.13  38
+      T'as qu'à fuguer,
+      si ça t'intéresse tellement.
+
+ 376: 10:24:00.14 10:24:04.09  Duration 00:00:03.20  57
+      #J'ai fait la fugue la plus courte
+      de l'histoire mondiale des fugues.#
+
+ 377: 10:24:13.02 10:24:14.11  Duration 00:00:01.09  20
+      Voilà. É là.
+
+ 378: 10:24:18.13 10:24:19.22  Duration 00:00:01.09  20
+      É une blague?
+
+ 379: 10:24:20.01 10:24:21.12  Duration 00:00:01.11  22
+      Je reste pas ici 5 minutes.
+
+ 380: 10:24:21.17 10:24:22.22  Duration 00:00:01.05  18
+      Tu te fous de moi?
+
+ 381: 10:24:23.02 10:24:24.01  Duration 00:00:00.24  14
+      Non.
+
+ 382: 10:24:24.06 10:24:25.19  Duration 00:00:01.13  23
+      Après tout ce que j'ai fait?
+
+ 383: 10:24:25.23 10:24:28.04  Duration 00:00:02.06  34
+      Passer deux jours là-dedans?
+      T'es tarée.
+
+ 384: 10:24:28.08 10:24:30.03  Duration 00:00:01.20  27
+      Putain! Tu fais chier!
+
+ 385: 10:24:33.18 10:24:34.17  Duration 00:00:00.24  14
+      Tu fais quoi?
+
+ 386: 10:24:34.21 10:24:37.09  Duration 00:00:02.13  38
+      T'as un mauvais fond
+      et tu finiras toute seule!
+
+ 387: 10:24:37.13 10:24:40.07  Duration 00:00:02.19  41
+      É ça! Et je me ferai
+      des vraies amies en pension!
+
+ 388: 10:24:41.17 10:24:45.16  Duration 00:00:03.24  59
+      Maître Renard par l'odeur alléché,
+      lui tint à peu près ce langage:
+
+ 389: 10:24:45.20 10:24:47.10  Duration 00:00:01.15  24
+      "Hé, bonjour, monsieur du Corbeau.
+
+ 390: 10:24:47.14 10:24:50.13  Duration 00:00:02.24  44
+      "Que vous êtes joli,
+      que vous me semblez beau.
+
+ 391: 10:24:50.17 10:24:51.12  Duration 00:00:00.20  12
+      "Sans mentir,
+
+ 392: 10:24:51.17 10:24:55.07  Duration 00:00:03.15  54
+      "si votre ramage se rapporte
+      à votre plumage, vous êtes le phénix
+
+ 393: 10:24:55.12 10:24:56.17  Duration 00:00:01.05  18
+      "des hôtes de ces bois."
+
+ 394: 10:24:57.22 10:25:01.03  Duration 00:00:03.06  49
+      À ces mots, le Corbeau
+      ne se sent plus de joie, et pour...
+
+ 395: 10:25:01.08 10:25:03.21  Duration 00:00:02.13  38
+      Nawen, le stylo dans le nez,
+      mauvaise idée.
+
+ 396: 10:25:04.01 10:25:06.17  Duration 00:00:02.16  40
+      J'ai déjà pas le droit
+      de vous donner une aspirine,
+
+ 397: 10:25:06.22 10:25:09.13  Duration 00:00:02.16  40
+      alors vous sortir un bouchon
+      de la tête, encore moins.
+
+ 398: 10:25:09.18 10:25:13.05  Duration 00:00:03.12  52
+      Alors, #La Princesse de Clèves,
+      #je vais interroger...
+
+ 399: 10:25:13.09 10:25:14.22  Duration 00:00:01.13  23
+      Les têtes se baissent.
+
+ 400: 10:25:15.01 10:25:16.21  Duration 00:00:01.20  27
+      Mlle... Aurore.
+
+ 401: 10:25:18.00 10:25:19.02  Duration 00:00:01.02  16
+      La pauvre.
+
+ 402: 10:25:19.06 10:25:20.06  Duration 00:00:01.00  15
+      La pauvre.
+
+ 403: 10:25:20.10 10:25:21.12  Duration 00:00:01.02  16
+      Qu'est-ce que j'ai fait?
+
+ 404: 10:25:21.17 10:25:23.17  Duration 00:00:02.00  30
+      Je sais pas. À vous de me le dire.
+
+ 405: 10:25:24.10 10:25:25.22  Duration 00:00:01.12  22
+      Qu'est-ce que je dois vous dire?
+
+ 406: 10:25:26.18 10:25:27.17  Duration 00:00:00.24  14
+      Je vous encourage
+
+ 407: 10:25:27.22 10:25:30.05  Duration 00:00:02.08  35
+      à résumer l'histoire,
+      pour toute la classe.
+
+ 408: 10:25:30.10 10:25:31.04  Duration 00:00:00.19  11
+      Levez-vous.
+
+ 409: 10:25:32.06 10:25:33.13  Duration 00:00:01.07  19
+      On se lève.
+
+ 410: 10:25:33.17 10:25:34.24  Duration 00:00:01.07  19
+      On articule bien.
+
+ 411: 10:25:37.01 10:25:38.04  Duration 00:00:01.03  17
+      Je vous écoute.
+
+ 412: 10:25:39.19 10:25:42.11  Duration 00:00:02.17  40
+      Ça se voit trop,
+      que é une histoire inventée.
+
+ 413: 10:25:43.12 10:25:44.20  Duration 00:00:01.08  20
+      Je suis d'accord.
+
+ 414: 10:25:45.20 10:25:48.18  Duration 00:00:02.23  44
+      Déjà, la princesse, à 16 ans,
+      elle se marie avec un vieux.
+
+ 415: 10:25:49.14 10:25:51.23  Duration 00:00:02.09  35
+      Qui peut faire ça?
+      Il y a qu'en Inde,
+
+ 416: 10:25:52.03 10:25:54.04  Duration 00:00:02.01  31
+      ou dans les petites
+      régions éloignées.
+
+ 417: 10:25:54.08 10:25:57.02  Duration 00:00:02.19  41
+      Ensuite, elle tombe amoureuse
+      d'un mec comme elle,
+
+ 418: 10:25:57.07 10:25:59.06  Duration 00:00:01.24  29
+      hyper-beau, hyper-riche,
+
+ 419: 10:25:59.11 10:26:01.04  Duration 00:00:01.18  26
+      et qui est fou amoureux d'elle.
+
+ 420: 10:26:01.09 10:26:03.00  Duration 00:00:01.16  25
+      Le mec parfait, quoi.
+      Évidemment.
+
+ 421: 10:26:03.04 10:26:05.13  Duration 00:00:02.09  35
+      Le prince charmant,
+      comme dans #Blanche Neige.#
+
+ 422: 10:26:05.18 10:26:09.21  Duration 00:00:04.03  62
+      Elle veut pas de lui.
+      Elle se fait des délires toute seule.
+
+ 423: 10:26:10.01 10:26:11.09  Duration 00:00:01.08  20
+      Je sais pas. Bref.
+
+ 424: 10:26:11.13 10:26:13.09  Duration 00:00:01.21  28
+      Ensuite, elle...
+
+ 425: 10:26:13.14 10:26:14.13  Duration 00:00:00.24  14
+      Devinez.
+
+ 426: 10:26:16.05 10:26:17.18  Duration 00:00:01.13  23
+      Je sais pas. J'hésite.
+
+ 427: 10:26:17.23 10:26:19.20  Duration 00:00:01.22  28
+      À qui va-t-elle demander conseil?
+
+ 428: 10:26:20.00 10:26:21.06  Duration 00:00:01.06  19
+      Ce qu'elle doit faire.
+
+ 429: 10:26:22.10 10:26:25.01  Duration 00:00:02.16  40
+      À sa mère. É n'importe quoi.
+
+ 430: 10:26:25.06 10:26:26.05  Duration 00:00:00.24  14
+      Qui demande à sa mère?
+
+ 431: 10:26:26.10 10:26:27.05  Duration 00:00:00.20  12
+      S'il vous plaît.
+
+ 432: 10:26:27.10 10:26:30.18  Duration 00:00:03.08  50
+      Donc sa mère dit non.
+      Elle va voir son chéri et lui dit:
+
+ 433: 10:26:30.23 10:26:33.22  Duration 00:00:02.24  44
+      "Ma mère est pas d'accord.
+      Je te dis pas mon mari."
+
+ 434: 10:26:34.02 10:26:35.05  Duration 00:00:01.03  17
+      N'importe quoi.
+
+ 435: 10:26:35.09 10:26:38.21  Duration 00:00:03.12  52
+      Ils sont malheureux comme des chiens
+      à cause d'une mère chiante,
+
+ 436: 10:26:39.01 10:26:40.12  Duration 00:00:01.11  22
+      et tout le monde meurt.
+
+ 437: 10:26:40.16 10:26:42.11  Duration 00:00:01.20  27
+      Embrouille sur embrouille.
+
+ 438: 10:26:42.15 10:26:44.22  Duration 00:00:02.07  34
+      Personne peut croire à l'histoire,
+      monsieur.
+
+ 439: 10:26:47.22 10:26:49.15  Duration 00:00:01.18  26
+      D'accord. D'accord.
+
+ 440: 10:26:49.20 10:26:51.10  Duration 00:00:01.15  24
+      En même temps, é un roman.
+
+ 441: 10:26:51.20 10:26:55.20  Duration 00:00:04.00  60
+      Donc déjà,
+      ce qui est sûr, é que...
+
+ 442: 10:26:56.15 10:26:59.01  Duration 00:00:02.11  37
+      é que vos idées
+      viennent pas d'Internet.
+
+ 443: 10:26:59.05 10:27:01.01  Duration 00:00:01.21  28
+      Et ça, là, je suis content.
+
+ 444: 10:27:01.06 10:27:02.15  Duration 00:00:01.09  20
+      Ensuite...
+
+ 445: 10:27:04.00 10:27:06.14  Duration 00:00:02.14  38
+      Ensuite,
+      é un avis personnel, un vrai.
+
+ 446: 10:27:06.19 10:27:07.24  Duration 00:00:01.05  18
+      É ce que vous vouliez.
+
+ 447: 10:27:08.04 10:27:10.03  Duration 00:00:01.24  29
+      - Oui.
+      - Vous vouliez pas autre chose.
+
+ 448: 10:27:10.07 10:27:12.04  Duration 00:00:01.22  28
+      Vous avez écrit
+      ce que vous avez dit?
+
+ 449: 10:27:12.09 10:27:13.16  Duration 00:00:01.07  19
+      Vite fait, mais il y a tout.
+
+ 450: 10:27:13.21 10:27:14.19  Duration 00:00:00.23  14
+      "Vite fait".
+
+ 451: 10:27:14.23 10:27:17.21  Duration 00:00:02.23  44
+      Donc, bien fait, mais longuement,
+      sur une copie double.
+
+ 452: 10:27:18.00 10:27:19.06  Duration 00:00:01.06  19
+      OK?
+
+ 453: 10:27:20.16 10:27:24.05  Duration 00:00:03.14  53
+      Au vu de ce que je viens d'entendre,
+      je vous laisse le week-end
+
+ 454: 10:27:24.10 10:27:26.17  Duration 00:00:02.07  34
+      pour rédiger un avis personnel.
+      Au revoir.
+
+ 455: 10:27:28.21 10:27:30.20  Duration 00:00:01.24  29
+      Aurore, bravo, pour votre oral.
+
+ 456: 10:27:31.15 10:27:33.21  Duration 00:00:02.06  34
+      Vu que vous allez re-rédiger,
+
+ 457: 10:27:34.01 10:27:37.22  Duration 00:00:03.21  58
+      essayez de vous attacher
+      un peu plus à l'analyse littéraire.
+
+ 458: 10:27:38.07 10:27:41.06  Duration 00:00:02.24  44
+      Quand on vous écoute,
+      on voit qu'il manque des choses.
+
+ 459: 10:27:41.11 10:27:43.03  Duration 00:00:01.17  25
+      Pourquoi? É pas bien?
+
+ 460: 10:27:43.16 10:27:45.01  Duration 00:00:01.10  21
+      Mais si, é bien.
+
+ 461: 10:27:45.05 10:27:46.03  Duration 00:00:00.23  14
+      Enfin, bien...
+
+ 462: 10:27:46.08 10:27:50.08  Duration 00:00:04.00  60
+      É juste que je peux penser que
+      vous avez lu le livre en diagonale.
+
+ 463: 10:27:50.12 10:27:51.23  Duration 00:00:01.11  22
+      Et ce serait idiot.
+
+ 464: 10:27:52.20 10:27:55.19  Duration 00:00:02.24  44
+      Parce que tu l'as lu,
+      pas en diagonale.
+
+ 465: 10:27:55.24 10:27:57.06  Duration 00:00:01.07  19
+      On se regarde.
+
+ 466: 10:27:58.16 10:27:59.16  Duration 00:00:01.00  15
+      OK?
+
+ 467: 10:28:01.04 10:28:02.02  Duration 00:00:00.23  14
+      Un sourire?
+
+ 468: 10:28:02.06 10:28:03.09  Duration 00:00:01.03  17
+      - Allez, go.
+      - Au revoir.
+
+ 469: 10:28:03.13 10:28:04.08  Duration 00:00:00.20  12
+      Au revoir.
+
+ 470: 10:28:13.13 10:28:16.01  Duration 00:00:02.13  38
+      #J'étais brouillée avec Lola
+      pour l'éternité.#
+
+ 471: 10:28:16.05 10:28:17.07  Duration 00:00:01.02  16
+      #Elle avait raison,#
+
+ 472: 10:28:17.17 10:28:19.12  Duration 00:00:01.20  27
+      #je lui avais manqué de respect.#
+
+ 473: 10:29:01.12 10:29:02.22  Duration 00:00:01.10  21
+      É à faire pour lundi?
+
+ 474: 10:29:04.22 10:29:08.02  Duration 00:00:03.05  48
+      - Tu veux de l'aide?
+      - Non. Après, mes notes, é pire.
+
+ 475: 10:29:11.20 10:29:13.20  Duration 00:00:02.00  30
+      É du français. En français...
+
+ 476: 10:29:13.24 10:29:16.02  Duration 00:00:02.03  32
+      É pas le même français qu'avant.
+
+ 477: 10:29:16.07 10:29:17.17  Duration 00:00:01.10  21
+      Vous savez pas le faire.
+
+ 478: 10:29:23.06 10:29:24.22  Duration 00:00:01.16  25
+      Ça va, à la maison?
+
+ 479: 10:29:28.16 10:29:30.21  Duration 00:00:02.05  33
+      - Tu sais bien.
+      - Ma poulette.
+
+ 480: 10:29:31.00 10:29:32.04  Duration 00:00:01.04  17
+      Non, mais é bon.
+
+ 481: 10:29:33.07 10:29:35.20  Duration 00:00:02.13  38
+      Sophie, elle est forte
+      et maman l'aime bien.
+
+ 482: 10:29:37.01 10:29:40.06  Duration 00:00:03.05  48
+      Jessica, elle a son copain,
+      et é Jessica.
+
+ 483: 10:29:41.07 10:29:43.10  Duration 00:00:02.03  32
+      Moi, je sais pas. Il se passe rien.
+
+ 484: 10:29:43.15 10:29:44.20  Duration 00:00:01.05  18
+      Je suis nulle.
+
+ 485: 10:29:45.10 10:29:47.23  Duration 00:00:02.13  38
+      Pas pour moi.
+      Moi, je te trouve formidable.
+
+ 486: 10:29:48.19 10:29:50.17  Duration 00:00:01.23  29
+      Tu dis ça pour me faire pleurer?
+
+ 487: 10:29:50.22 10:29:52.15  Duration 00:00:01.18  26
+      Allez, arrête.
+
+ 488: 10:29:57.12 10:30:00.10  Duration 00:00:02.23  44
+      Dimanche, à midi,
+      pourquoi t'as dit ça?
+
+ 489: 10:30:00.15 10:30:02.09  Duration 00:00:01.19  26
+      Parce que je suis frigide.
+
+ 490: 10:30:02.13 10:30:04.11  Duration 00:00:01.23  29
+      Alors, là, je t'ai vu.
+
+ 491: 10:30:06.13 10:30:07.18  Duration 00:00:01.05  18
+      Je l'ai vu!
+
+ 492: 10:30:07.23 10:30:09.07  Duration 00:00:01.09  20
+      Hein? Là-bas.
+
+ 493: 10:30:10.06 10:30:11.18  Duration 00:00:01.12  22
+      Frigide?
+
+ 494: 10:30:12.07 10:30:13.02  Duration 00:00:00.20  12
+      Quoi, frigide?
+
+ 495: 10:30:13.07 10:30:16.00  Duration 00:00:02.18  41
+      Frigide... Frigide comment?
+
+ 496: 10:30:16.04 10:30:18.24  Duration 00:00:02.20  42
+      Ben ouais.
+      Quand je sortais avec Marceau,
+
+ 497: 10:30:19.03 10:30:22.12  Duration 00:00:03.09  50
+      je m'ennuyais trop. Les baisers,
+      se tenir la main, tout ça...
+
+ 498: 10:30:22.17 10:30:23.20  Duration 00:00:01.03  17
+      T'es pas frigide.
+
+ 499: 10:30:24.00 10:30:27.10  Duration 00:00:03.10  51
+      - J'aimerais savoir pourquoi.
+      - É le garçon, qui allait pas.
+
+ 500: 10:30:31.07 10:30:33.07  Duration 00:00:02.00  30
+      Ça veut dire que je suis lesbienne.
+
+ 501: 10:30:34.14 10:30:37.05  Duration 00:00:02.16  40
+      Non. Ça veut dire...
+
+ 502: 10:30:37.09 10:30:39.04  Duration 00:00:01.20  27
+      Non. Parce que... Non.
+
+ 503: 10:30:39.08 10:30:42.08  Duration 00:00:03.00  45
+      - Regarde, é comme pour ta mère.
+      - Quoi, ma mère?
+
+ 504: 10:30:42.12 10:30:44.01  Duration 00:00:01.14  23
+      Avant de choisir ton père,
+
+ 505: 10:30:44.06 10:30:47.15  Duration 00:00:03.09  50
+      le nombre de garçons
+      qui ont défilé à la maison...
+
+ 506: 10:30:47.20 10:30:49.06  Duration 00:00:01.11  22
+      - Tu plaisantes?
+      - Pas du tout.
+
+ 507: 10:30:49.10 10:30:50.05  Duration 00:00:00.20  12
+      Combien?
+
+ 508: 10:30:50.10 10:30:51.21  Duration 00:00:01.11  22
+      Attends.
+
+ 509: 10:30:52.24 10:30:54.15  Duration 00:00:01.16  25
+      Lui, le paumé.
+
+ 510: 10:30:58.03 10:30:59.13  Duration 00:00:01.10  21
+      Oui.
+
+ 511: 10:30:59.18 10:31:01.09  Duration 00:00:01.16  25
+      Alors là, la bande.
+
+ 512: 10:31:01.13 10:31:05.11  Duration 00:00:03.23  59
+      Écoute, je sais pas. Au moins 45,
+      plus ceux que j'ai pas connus.
+
+ 513: 10:31:07.02 10:31:09.03  Duration 00:00:02.01  31
+      - Mais é pas possible.
+      - Ben, si.
+
+ 514: 10:31:10.17 10:31:13.00  Duration 00:00:02.08  35
+      - T'as pas vu ses tatouages?
+      - Maman?
+
+ 515: 10:31:13.05 10:31:14.14  Duration 00:00:01.09  20
+      Oui. Partout.
+
+ 516: 10:31:14.19 10:31:15.20  Duration 00:00:01.01  16
+      Non.
+
+ 517: 10:31:16.00 10:31:16.24  Duration 00:00:00.24  14
+      Je te crois pas.
+
+ 518: 10:31:19.18 10:31:22.24  Duration 00:00:03.06  49
+      É quoi, le minimum,
+      pour trouver le bon?
+
+ 519: 10:31:23.03 10:31:24.12  Duration 00:00:01.09  20
+      Ben, ça dépend.
+
+ 520: 10:31:24.16 10:31:26.10  Duration 00:00:01.19  26
+      Il y a pas de règle.
+
+ 521: 10:31:26.15 10:31:30.18  Duration 00:00:04.03  62
+      1, 2, 3, 5, 6...
+      Tu vois. Cueillir les cerises.
+
+ 522: 10:31:30.23 10:31:34.13  Duration 00:00:03.15  54
+      7, 8, 9, dans mon panier neuf.
+      10, 11, 12, ce seront des rouges.
+
+ 523: 10:31:48.12 10:31:52.13  Duration 00:00:04.01  61
+      #Jeune fille, seule comme un rat,
+      probablement lesbienne,#
+
+ 524: 10:31:52.17 10:31:54.17  Duration 00:00:02.00  30
+      #cherche jeune homme
+      pour le numéroter.#
+
+ 525: 10:31:58.01 10:32:00.19  Duration 00:00:02.18  41
+      #Numéro 1: Marceau.
+      Numéro 2: Areski.#
+
+ 526: 10:32:01.15 10:32:05.24  Duration 00:00:04.09  65
+      Attends, é pas toi, qui avais
+      des allergies ou des mycoses?
+
+ 527: 10:32:06.03 10:32:07.13  Duration 00:00:01.10  21
+      É guéri.
+
+ 528: 10:32:08.17 10:32:10.05  Duration 00:00:01.13  23
+      É bien, t'es en avance.
+
+ 529: 10:32:10.09 10:32:14.07  Duration 00:00:03.23  59
+      Un peu, mais te fais pas d'idées,
+      je suis pas là pour te draguer.
+
+ 530: 10:32:14.11 10:32:16.15  Duration 00:00:02.04  32
+      - Il vaudrait mieux.
+      - Pourquoi?
+
+ 531: 10:32:16.19 10:32:19.15  Duration 00:00:02.21  43
+      - Je suis moche, é ça?
+      - É pas ça, le problème.
+
+ 532: 10:32:19.19 10:32:23.11  Duration 00:00:03.17  55
+      É que voilà,
+      les filles, é pas trop mon truc.
+
+ 533: 10:32:24.13 10:32:25.21  Duration 00:00:01.08  20
+      Ah, donc t'es...
+
+ 534: 10:32:26.00 10:32:28.03  Duration 00:00:02.03  32
+      - Enfin, tu veux dire que...
+      - Oui, voilà.
+
+ 535: 10:32:31.12 10:32:32.09  Duration 00:00:00.22  13
+      Je te présente.
+
+ 536: 10:32:33.10 10:32:34.19  Duration 00:00:01.09  20
+      Les gars.
+
+ 537: 10:32:34.23 10:32:37.08  Duration 00:00:02.10  36
+      Alors, David,
+      à la basse et au clavier.
+
+ 538: 10:32:37.13 10:32:39.13  Duration 00:00:02.00  30
+      - Et Tom, à la batterie.
+      - Salut.
+
+ 539: 10:32:39.17 10:32:41.06  Duration 00:00:01.14  23
+      Et Aurore, qui a changé d'avis.
+
+ 540: 10:32:41.11 10:32:42.18  Duration 00:00:01.07  19
+      J'ai pas changé d'avis.
+
+ 541: 10:32:43.13 10:32:46.04  Duration 00:00:02.16  40
+      É juste que je voulais essayer.
+
+ 542: 10:32:46.08 10:32:47.08  Duration 00:00:01.00  15
+      Ça va?
+
+ 543: 10:32:52.16 10:32:53.16  Duration 00:00:01.00  15
+      T'es prête?
+
+ 544: 10:32:54.21 10:32:56.00  Duration 00:00:01.04  17
+      #Oui.#
+
+ 545: 10:32:56.04 10:32:57.13  Duration 00:00:01.09  20
+      Tu le fais en yaourt.
+
+ 546: 10:32:58.00 10:32:59.19  Duration 00:00:01.19  26
+      - En quoi?
+      - En yaourt.
+
+ 547: 10:32:59.23 10:33:01.12  Duration 00:00:01.14  23
+      Genre t'as un yaourt en bouche.
+
+ 548: 10:33:01.17 10:33:05.14  Duration 00:00:03.22  58
+      Il faut imaginer, mais en gros,
+      tu dis pas les paroles.
+
+ 549: 10:33:05.19 10:33:07.20  Duration 00:00:02.01  31
+      Je vois pas le rapport
+      avec le yaourt.
+
+ 550: 10:33:08.00 10:33:10.03  Duration 00:00:02.03  32
+      É un concept
+      pour entendre ta voix.
+
+ 551: 10:33:10.08 10:33:11.10  Duration 00:00:01.02  16
+      On y va?
+
+ 552: 10:33:11.23 10:33:12.18  Duration 00:00:00.20  12
+      Allez, go.
+
+ 553: 10:33:12.22 10:33:13.22  Duration 00:00:01.00  15
+      Un, deux.
+
+ 554: 10:33:14.19 10:33:17.01  Duration 00:00:02.07  34
+      Et un, deux, trois.
+
+ 555: 10:33:26.06 10:33:27.06  Duration 00:00:01.00  15
+      Vas-y, vas-y.
+
+ 556: 10:33:35.05 10:33:36.11  Duration 00:00:01.06  19
+      Areski.
+
+ 557: 10:33:36.16 10:33:39.09  Duration 00:00:02.18  41
+      Je pense que é
+      un peu grave pour toi.
+
+ 558: 10:33:39.13 10:33:42.03  Duration 00:00:02.15  39
+      Essaye de la chanter
+      une octave au-dessus.
+
+ 559: 10:33:42.22 10:33:43.21  Duration 00:00:00.24  14
+      Tu le fais encore.
+
+ 560: 10:33:44.22 10:33:45.22  Duration 00:00:01.00  15
+      É bon?
+
+ 561: 10:33:46.10 10:33:48.19  Duration 00:00:02.09  35
+      Stresse pas.
+      É très bien, pour l'instant.
+
+ 562: 10:33:49.09 10:33:50.14  Duration 00:00:01.05  18
+      On y va?
+
+ 563: 10:33:58.21 10:34:00.06  Duration 00:00:01.10  21
+      Areski.
+
+ 564: 10:34:00.21 10:34:03.03  Duration 00:00:02.07  34
+      Là, je pense que é un peu aigu.
+
+ 565: 10:34:03.08 10:34:05.22  Duration 00:00:02.14  38
+      Baisse d'un demi-ton ou d'un ton.
+
+ 566: 10:34:06.02 10:34:09.15  Duration 00:00:03.13  53
+      Continue aigu. Ça va être
+      un tout petit peu plus grave. OK?
+
+ 567: 10:34:09.19 10:34:11.08  Duration 00:00:01.14  23
+      - On reprend?
+      - Vas-y.
+
+ 568: 10:34:19.07 10:34:23.13  Duration 00:00:04.06  64
+      #Trois garçons et une seule fille.
+      É pas ça, le miracle?#
+
+ 569: 10:34:31.11 10:34:34.06  Duration 00:00:02.20  42
+      #Mignon, le batteur.
+      É fou, ce qu'il est mignon.#
+
+ 570: 10:34:39.19 10:34:42.14  Duration 00:00:02.20  42
+      #Mais peut-être qu'aucun d'eux
+      sort avec les filles.#
+
+ 571: 10:34:43.09 10:34:47.15  Duration 00:00:04.06  64
+      #Peut-être qu'on est un groupe pas
+      sexuel, juste uni pour la musique.#
+
+ 572: 10:34:48.00 10:34:49.05  Duration 00:00:01.05  18
+      #É beau.#
+
+ 573: 10:34:49.09 10:34:51.00  Duration 00:00:01.16  25
+      #É bête, mais é beau.#
+
+ 574: 10:34:55.02 10:34:56.01  Duration 00:00:00.24  14
+      M. Balthasar.
+
+ 575: 10:34:56.22 10:35:00.10  Duration 00:00:03.13  53
+      Tant que vous me créerez des mots
+      tels que "un" - le chiffre -,
+
+ 576: 10:35:00.14 10:35:03.16  Duration 00:00:03.02  46
+      pus loin, "faux", et que je devrais
+      comprendre que "un faux"
+
+ 577: 10:35:03.20 10:35:05.14  Duration 00:00:01.19  26
+      est un diminutif d'information...
+
+ 578: 10:35:05.18 10:35:06.22  Duration 00:00:01.04  17
+      Silence.
+
+ 579: 10:35:07.01 10:35:11.02  Duration 00:00:04.01  61
+      ...je ne pourrai pas vous mettre
+      la moyenne. Voilà.
+
+ 580: 10:35:11.07 10:35:12.17  Duration 00:00:01.10  21
+      Faites attention.
+
+ 581: 10:35:13.07 10:35:15.12  Duration 00:00:02.05  33
+      Gina, même combat.
+      Beaucoup trop de fautes.
+
+ 582: 10:35:15.16 10:35:17.04  Duration 00:00:01.13  23
+      Surtout, pas de ponctuation.
+
+ 583: 10:35:17.08 10:35:19.11  Duration 00:00:02.03  32
+      Ni points,
+      ni majuscules, ni virgules.
+
+ 584: 10:35:19.15 10:35:24.07  Duration 00:00:04.17  70
+      La ponctuation, é le sens
+      que l'on donne à la phrase.
+
+ 585: 10:35:24.11 10:35:27.00  Duration 00:00:02.14  38
+      Je ne voudrais pas
+      le rappeler toute l'année.
+
+ 586: 10:35:28.08 10:35:30.03  Duration 00:00:01.20  27
+      Une jeune fille qui m'a surpris
+
+ 587: 10:35:30.18 10:35:32.19  Duration 00:00:02.01  31
+      sur l'effort fait sur la grammaire,
+
+ 588: 10:35:32.23 10:35:36.13  Duration 00:00:03.15  54
+      sur l'orthographe, é Mlle Aurore.
+
+ 589: 10:35:36.17 10:35:37.19  Duration 00:00:01.02  16
+      Quoi? Sérieux?
+
+ 590: 10:35:37.24 10:35:39.04  Duration 00:00:01.05  18
+      Oui, sérieux.
+
+ 591: 10:35:39.08 10:35:41.22  Duration 00:00:02.14  38
+      Avec quelques perles,
+      quelquefois: "phacochère".
+
+ 592: 10:35:42.02 10:35:43.00  Duration 00:00:00.23  14
+      É en un mot.
+
+ 593: 10:35:43.04 10:35:45.14  Duration 00:00:02.10  36
+      Un "phaco" et un "cher",
+      ça n'existe pas.
+
+ 594: 10:35:45.19 10:35:49.21  Duration 00:00:04.02  61
+      On n'est pas là sur ce qu'on peut
+      attendre d'une analyse littéraire
+
+ 595: 10:35:50.01 10:35:53.23  Duration 00:00:03.22  58
+      ou d'un embryon d'analyse...
+      - Il faut pas dire embryon, monsieur.
+
+ 596: 10:35:54.03 10:35:55.12  Duration 00:00:01.09  20
+      Ça me fait m'évanouir.
+
+ 597: 10:35:56.14 10:35:59.16  Duration 00:00:03.02  46
+      Une jeune fille sensible au lexique.
+      Ça, ça compte.
+
+ 598: 10:36:00.14 10:36:01.15  Duration 00:00:01.01  16
+      Et ça m'a fait rire.
+
+ 599: 10:36:01.20 10:36:04.02  Duration 00:00:02.07  34
+      Pour toutes ces raisons
+      et ces efforts,
+
+ 600: 10:36:04.07 10:36:06.20  Duration 00:00:02.13  38
+      je vous ai mis
+      une note encourageante.
+
+ 601: 10:36:07.19 10:36:10.00  Duration 00:00:02.06  34
+      - 15!
+      - Ben oui, 15.
+
+ 602: 10:36:10.05 10:36:13.16  Duration 00:00:03.11  52
+      Attention, 15 pour cette fois.
+      Mais la prochaine fois,
+
+ 603: 10:36:13.21 10:36:15.21  Duration 00:00:02.00  30
+      je veux que vous vous intéressiez...
+
+ 604: 10:36:16.00 10:36:17.08  Duration 00:00:01.08  20
+      Silence, s'il vous plaît.
+
+ 605: 10:36:17.12 10:36:21.12  Duration 00:00:04.00  60
+      ...un peu plus au texte lui-même.
+      Et é valable pour tout le monde.
+
+ 606: 10:36:21.16 10:36:23.11  Duration 00:00:01.20  27
+      Le sens du texte, sa portée.
+
+ 607: 10:36:24.00 10:36:26.14  Duration 00:00:02.14  38
+      Un livre,
+      ça n'est pas qu'une histoire.
+
+ 608: 10:36:26.18 10:36:27.13  Duration 00:00:00.20  12
+      É quoi?
+
+ 609: 10:36:28.22 10:36:33.06  Duration 00:00:04.09  65
+      É ce qui échappe aux mots
+      que les mots doivent dire.
+
+ 610: 10:36:35.05 10:36:37.03  Duration 00:00:01.23  29
+      Vous êtes comme deux ronds de flan.
+
+ 611: 10:36:38.05 10:36:40.23  Duration 00:00:02.18  41
+      #J'ai pas compris qui s'échappait,
+      mais pas grave,#
+
+ 612: 10:36:41.02 10:36:44.05  Duration 00:00:03.03  47
+      #j'ai pris l'air d'avoir compris,
+      pour lui faire plaisir.#
+
+ 613: 10:36:44.09 10:36:47.05  Duration 00:00:02.21  43
+      #Je ne me souvenais pas
+      d'avoir déjà eu 15,#
+
+ 614: 10:36:47.09 10:36:48.15  Duration 00:00:01.06  19
+      #pas depuis la maternelle.#
+
+ 615: 10:36:48.19 10:36:51.07  Duration 00:00:02.13  38
+      Pour après les vacances,
+      je veux que vous ayez lu
+
+ 616: 10:36:51.11 10:36:52.24  Duration 00:00:01.13  23
+      #Tristan et Iseut.#
+
+ 617: 10:36:54.20 10:36:56.24  Duration 00:00:02.04  32
+      É une histoire d'amour,
+      comme dans...
+
+ 618: 10:36:57.03 10:36:57.23  Duration 00:00:00.20  12
+      Attendez.
+
+ 619: 10:36:58.21 10:37:00.22  Duration 00:00:02.01  31
+      On a une thématique, on la poursuit.
+
+ 620: 10:37:01.02 10:37:04.18  Duration 00:00:03.16  55
+      #La Princesse de Clèves,
+      #histoire d'amour, et là, une autre.
+
+ 621: 10:37:04.23 10:37:08.10  Duration 00:00:03.12  52
+      É passionnant.
+      Sinon, notez ça sur vos fiches,
+
+ 622: 10:37:08.15 10:37:11.01  Duration 00:00:02.11  37
+      une belle idée personnelle
+      argumentée.
+
+ 623: 10:37:11.05 10:37:12.20  Duration 00:00:01.15  24
+      N'est-ce pas, Aurore?
+
+ 624: 10:37:13.00 10:37:15.11  Duration 00:00:02.11  37
+      Rangez vos copies
+      que je vous ai rendues
+
+ 625: 10:37:15.15 10:37:17.09  Duration 00:00:01.19  26
+      et on va faire de la conjugaison.
+
+ 626: 10:37:29.13 10:37:30.24  Duration 00:00:01.11  22
+      #Numéro 3.#
+
+ 627: 10:37:33.19 10:37:34.15  Duration 00:00:00.21  13
+      Salut.
+
+ 628: 10:37:36.16 10:37:37.24  Duration 00:00:01.08  20
+      É moi, à la batterie.
+
+ 629: 10:37:38.21 10:37:39.23  Duration 00:00:01.02  16
+      #Numéro 3.#
+
+ 630: 10:37:40.15 10:37:42.05  Duration 00:00:01.15  24
+      É Tom, quoi.
+
+ 631: 10:37:42.10 10:37:43.13  Duration 00:00:01.03  17
+      É bien, la batterie.
+
+ 632: 10:37:45.00 10:37:48.05  Duration 00:00:03.05  48
+      É les paroles de 3 morceaux
+      que j'ai écrits. Ce serait bien,
+
+ 633: 10:37:48.10 10:37:50.13  Duration 00:00:02.03  32
+      si tu pouvais les chanter.
+
+ 634: 10:37:51.16 10:37:53.19  Duration 00:00:02.03  32
+      #Et en plus, il écrit des chansons.#
+
+ 635: 10:37:57.05 10:37:59.24  Duration 00:00:02.19  41
+      #Si é pour écrire ça,
+      moi aussi, je peux.#
+
+ 636: 10:38:00.03 10:38:03.04  Duration 00:00:03.01  46
+      Ce serait possible, d'avoir
+      d'autres paroles? Un peu plus...
+
+ 637: 10:38:03.09 10:38:05.04  Duration 00:00:01.20  27
+      - Des vraies paroles.
+      - Ça va pas?
+
+ 638: 10:38:05.09 10:38:07.03  Duration 00:00:01.19  26
+      On te demande de chanter, é tout.
+
+ 639: 10:38:07.07 10:38:10.01  Duration 00:00:02.19  41
+      Pour les chanter,
+      il faudrait que je les sente.
+
+ 640: 10:38:10.06 10:38:12.23  Duration 00:00:02.17  40
+      Si t'es si fortiche,
+      t'as qu'à les écrire toi-même.
+
+ 641: 10:38:16.21 10:38:19.12  Duration 00:00:02.16  40
+      J'ai compris.
+      Il faut que je me casse. Salut.
+
+ 642: 10:38:22.24 10:38:25.13  Duration 00:00:02.14  38
+      #É un bon début,
+      pour une histoire d'amour.#
+
+ 643: 10:38:25.18 10:38:29.05  Duration 00:00:03.12  52
+      #Au commencement, ils se détestent,
+      et après, ils s'adorent.#
+
+ 644: 10:38:39.18 10:38:40.13  Duration 00:00:00.20  12
+      Monsieur.
+
+ 645: 10:38:42.03 10:38:42.23  Duration 00:00:00.20  12
+      Aurore.
+
+ 646: 10:38:44.03 10:38:46.00  Duration 00:00:01.22  28
+      J'ai repensé à ce que vous avez dit.
+
+ 647: 10:38:46.05 10:38:49.01  Duration 00:00:02.21  43
+      Vous auriez pas des petits livres?
+      Pas trop gros.
+
+ 648: 10:38:49.05 10:38:51.10  Duration 00:00:02.05  33
+      Avec peu de texte, écrits vite fait.
+
+ 649: 10:38:51.15 10:38:54.14  Duration 00:00:02.24  44
+      - "Écrits vite fait"?
+      - Des petits textes, quoi.
+
+ 650: 10:38:54.18 10:38:56.21  Duration 00:00:02.03  32
+      - Des nouvelles?
+      - Des vrais livres.
+
+ 651: 10:38:57.12 10:38:58.14  Duration 00:00:01.02  16
+      Je sais pas.
+
+ 652: 10:38:58.18 10:39:00.23  Duration 00:00:02.05  33
+      Tu veux pas beaucoup de texte,
+
+ 653: 10:39:01.02 10:39:03.14  Duration 00:00:02.12  37
+      pas beaucoup de personnages,
+      pas d'histoire.
+
+ 654: 10:39:03.19 10:39:07.08  Duration 00:00:03.14  53
+      - Tu veux des sensations?
+      - É mieux. Vous avez des noms?
+
+ 655: 10:39:07.13 10:39:08.18  Duration 00:00:01.05  18
+      Prenez Francis Ponge.
+
+ 656: 10:39:09.05 10:39:10.07  Duration 00:00:01.02  16
+      Comme Bob l'éponge?
+
+ 657: 10:39:11.03 10:39:12.02  Duration 00:00:00.24  14
+      Eh ben voilà.
+
+ 658: 10:39:12.06 10:39:14.00  Duration 00:00:01.19  26
+      Comme Bob l'éponge.
+      #À chat perché.#
+
+ 659: 10:39:14.15 10:39:16.21  Duration 00:00:02.06  34
+      - É une blague?
+      - Non. Ça vous plaira.
+
+ 660: 10:39:17.01 10:39:19.03  Duration 00:00:02.02  31
+      Francis Ponge,# À chat perché.#
+
+ 661: 10:39:19.07 10:39:22.22  Duration 00:00:03.15  54
+      Chat perché#, par Bob l'éponge.
+      On n'est pas sûr que é un prof.#
+
+ 662: 10:39:23.02 10:39:25.21  Duration 00:00:02.19  41
+      Vous le lisez, du coup.
+      Je vérifierai.
+
+ 663: 10:39:31.15 10:39:32.17  Duration 00:00:01.02  16
+      Excusez-moi.
+
+ 664: 10:39:33.07 10:39:35.15  Duration 00:00:02.08  35
+      Je cherche un livre
+      et je suis un peu paumée.
+
+ 665: 10:39:35.19 10:39:39.00  Duration 00:00:03.06  49
+      Tous ces bouquins, on dirait
+      que é fait pour décourager.
+
+ 666: 10:39:39.05 10:39:41.22  Duration 00:00:02.17  40
+      Personne va lire tout ça,
+      autant pas commencer.
+
+ 667: 10:39:42.09 10:39:44.11  Duration 00:00:02.02  31
+      Je comprends pas.
+      Tu cherches quoi?
+
+ 668: 10:39:48.06 10:39:49.21  Duration 00:00:01.15  24
+      #À chat perché.#
+
+ 669: 10:39:50.01 10:39:52.05  Duration 00:00:02.04  32
+      OK. Là, t'es en sciences humaines.
+
+ 670: 10:39:52.09 10:39:54.04  Duration 00:00:01.20  27
+      Ce que tu veux, é en jeunesse.
+
+ 671: 10:39:57.07 10:40:01.12  Duration 00:00:04.05  63
+      Je vais pas devoir regarder tous
+      les bouquins de toutes les étagères?
+
+ 672: 10:40:01.17 10:40:05.06  Duration 00:00:03.14  53
+      É classé.
+      É classé par ordre alphabétique.
+
+ 673: 10:40:05.11 10:40:08.09  Duration 00:00:02.23  44
+      Tant mieux. Si é pour courir
+      dans tout le magasin...
+
+ 674: 10:41:03.24 10:41:05.04  Duration 00:00:01.05  18
+      Lâche-moi!
+
+ 675: 10:41:06.05 10:41:07.08  Duration 00:00:01.03  17
+      Arrête!
+
+ 676: 10:41:07.12 10:41:08.08  Duration 00:00:00.21  13
+      Arrête!
+
+ 677: 10:41:09.16 10:41:10.13  Duration 00:00:00.22  13
+      - Aurore.
+      - Oui.
+
+ 678: 10:41:10.17 10:41:11.22  Duration 00:00:01.05  18
+      - 31-08.
+      - OK.
+
+ 679: 10:41:15.21 10:41:17.14  Duration 00:00:01.18  26
+      Non! Non! Non!
+
+ 680: 10:41:19.22 10:41:21.15  Duration 00:00:01.18  26
+      Non! Lâchez-moi!
+
+ 681: 10:41:21.20 10:41:22.24  Duration 00:00:01.04  17
+      Allô? Alexandra?
+
+ 682: 10:41:23.04 10:41:24.07  Duration 00:00:01.03  17
+      Alexandra.
+
+ 683: 10:41:24.12 10:41:26.12  Duration 00:00:02.00  30
+      Et tu connais Aurore comment?
+
+ 684: 10:41:28.06 10:41:29.08  Duration 00:00:01.02  16
+      Lâche-moi!
+
+ 685: 10:41:29.12 10:41:31.04  Duration 00:00:01.17  25
+      Lâche-moi!
+
+ 686: 10:41:31.09 10:41:33.13  Duration 00:00:02.04  32
+      Quel est le con
+      qui a fermé la porte?
+
+ 687: 10:41:34.20 10:41:36.06  Duration 00:00:01.11  22
+      Tu m'as cassé le dos.
+
+ 688: 10:41:40.17 10:41:42.19  Duration 00:00:02.02  31
+      Un, deux, trois, quatre.
+
+ 689: 10:41:48.18 10:41:49.21  Duration 00:00:01.03  17
+      Bravo, Aurore.
+
+ 690: 10:41:50.00 10:41:51.15  Duration 00:00:01.15  24
+      Mais non! Sérieusement.
+
+ 691: 10:41:51.19 10:41:54.16  Duration 00:00:02.22  43
+      - É moi, qui lui ai dit.
+      - É pas ce qu'on fait.
+
+ 692: 10:41:54.20 10:41:57.00  Duration 00:00:02.05  33
+      Tu lui as dit juste n'importe quoi.
+
+ 693: 10:41:57.05 10:41:59.01  Duration 00:00:01.21  28
+      - Mais non!
+      - On a dit 2e refrain.
+
+ 694: 10:41:59.06 10:42:00.14  Duration 00:00:01.08  20
+      Mais oui. Refrain de début.
+
+ 695: 10:42:00.19 10:42:02.12  Duration 00:00:01.18  26
+      2e refrain, pas 2e couplet.
+
+ 696: 10:42:03.02 10:42:04.22  Duration 00:00:01.20  27
+      - Je vais me suicider.
+      - On t'attend pas.
+
+ 697: 10:42:06.13 10:42:07.19  Duration 00:00:01.06  19
+      J'ai rien compris.
+
+ 698: 10:42:07.24 10:42:14.03  Duration 00:00:06.04  92
+      Francis Ponge
+      À chat perché
+
+ 699: 10:42:24.07 10:42:25.13  Duration 00:00:01.06  19
+      Ça va, Aurore?
+
+ 700: 10:42:27.13 10:42:30.18  Duration 00:00:03.05  48
+      - T'en as eu d'autres, des notes?
+      - Pas vraiment, non.
+
+ 701: 10:42:37.04 10:42:40.18  Duration 00:00:03.14  53
+      Tu sais, je te l'ai pas dit, mais...
+
+ 702: 10:42:43.03 10:42:44.06  Duration 00:00:01.03  17
+      Je vais te le dire.
+
+ 703: 10:42:44.11 10:42:47.04  Duration 00:00:02.18  41
+      Je suis fière,
+      très fière de toi, ma poule.
+
+ 704: 10:42:47.22 10:42:48.22  Duration 00:00:01.00  15
+      Quoi?
+
+ 705: 10:42:51.14 10:42:53.10  Duration 00:00:01.21  28
+      Je te dérange? Tu travailles?
+
+ 706: 10:42:55.07 10:42:58.15  Duration 00:00:03.08  50
+      - Si tu continues comme ça...
+      - Comme quoi?
+
+ 707: 10:42:59.03 10:43:02.17  Duration 00:00:03.14  53
+      - À avoir des bonnes notes.
+      - Je sais pas si j'y arriverai.
+
+ 708: 10:43:04.01 10:43:05.13  Duration 00:00:01.12  22
+      On peut pas tout refaire.
+
+ 709: 10:43:08.03 10:43:09.14  Duration 00:00:01.11  22
+      Le singe, par exemple.
+
+ 710: 10:43:09.24 10:43:13.07  Duration 00:00:03.08  50
+      Une fois qu'il est sorti de la forêt,
+      é fini.
+
+ 711: 10:43:14.04 10:43:16.14  Duration 00:00:02.10  36
+      On le remet et é le désastre.
+
+ 712: 10:43:22.02 10:43:23.02  Duration 00:00:01.00  15
+      Oui.
+
+ 713: 10:43:23.07 10:43:24.07  Duration 00:00:01.00  15
+      É sûr.
+
+ 714: 10:43:25.16 10:43:26.16  Duration 00:00:01.00  15
+      É bien.
+
+ 715: 10:43:28.01 10:43:30.09  Duration 00:00:02.08  35
+      Je suis contente qu'on se soit parlé.
+
+ 716: 10:43:30.14 10:43:31.23  Duration 00:00:01.09  20
+      É bien.
+
+ 717: 10:43:32.02 10:43:33.13  Duration 00:00:01.11  22
+      Je prends le sale.
+
+ 718: 10:43:35.01 10:43:35.24  Duration 00:00:00.23  14
+      Bonne nuit, chérie.
+
+ 719: 10:43:36.04 10:43:38.04  Duration 00:00:02.00  30
+      É important. On s'est bien parlé.
+
+ 720: 10:43:47.05 10:43:48.06  Duration 00:00:01.01  16
+      Allez, é bon.
+
+ 721: 10:43:50.19 10:43:53.09  Duration 00:00:02.15  39
+      - Mais je peux pas là.
+      - Si, on fait la fin.
+
+ 722: 10:43:53.14 10:43:55.13  Duration 00:00:01.24  29
+      - Et donc é le dernier?
+      - Oui!
+
+ 723: 10:43:55.18 10:43:58.00  Duration 00:00:02.07  34
+      - Non, on fait 4 temps d'abord.
+      - T'es relou.
+
+ 724: 10:43:59.03 10:44:02.20  Duration 00:00:03.17  55
+      Y a pas de basse sur la version
+      originale. Fais pas ton égoïste.
+
+ 725: 10:44:02.24 10:44:05.19  Duration 00:00:02.20  42
+      On est trois, pas deux.
+      En tout cas, il est l'heure.
+
+ 726: 10:44:05.24 10:44:08.20  Duration 00:00:02.21  43
+      - Je peux vous montrer mes paroles?
+      - Ouais. Mais David...
+
+ 727: 10:44:09.00 10:44:11.09  Duration 00:00:02.09  35
+      - Sting, on lui dit "arrête"?
+      - T'es Sting?
+
+ 728: 10:44:11.14 10:44:14.12  Duration 00:00:02.23  44
+      Tu dis "vas-y" puis "2 secondes".
+      Écoutez-moi vraiment.
+
+ 729: 10:44:20.10 10:44:22.00  Duration 00:00:01.15  24
+      Hé! Non! É une blague?
+
+ 730: 10:44:25.02 10:44:27.21  Duration 00:00:02.19  41
+      "Sur un seul pied,
+      sur n'importe quoi
+
+ 731: 10:44:28.00 10:44:30.02  Duration 00:00:02.02  31
+      "Il faut être perché,
+      même en équilibre
+
+ 732: 10:44:30.06 10:44:33.00  Duration 00:00:02.19  41
+      "Voilà votre sort,
+      répondre quelque chose
+
+ 733: 10:44:33.04 10:44:35.07  Duration 00:00:02.03  32
+      "Alors qu'on comprend rien à rien.
+
+ 734: 10:44:41.08 10:44:44.05  Duration 00:00:02.22  43
+      J'ai jamais entendu
+      des paroles aussi débiles.
+
+ 735: 10:44:45.18 10:44:47.20  Duration 00:00:02.02  31
+      Non, non... É pas mal.
+
+ 736: 10:44:48.00 10:44:50.14  Duration 00:00:02.14  38
+      Il manque juste quelques rimes,
+      un truc comme ça.
+
+ 737: 10:44:50.19 10:44:53.13  Duration 00:00:02.19  41
+      Faut lui parler honnêtement
+      ou elle va s'obstiner.
+
+ 738: 10:44:54.03 10:44:56.06  Duration 00:00:02.03  32
+      Tom, je vais devoir
+      te mettre une claque.
+
+ 739: 10:44:56.10 10:44:57.05  Duration 00:00:00.20  12
+      Vas-y.
+
+ 740: 10:44:57.10 10:44:58.12  Duration 00:00:01.02  16
+      Oh, é bon, Tom.
+
+ 741: 10:44:58.17 10:45:00.23  Duration 00:00:02.06  34
+      Elle dit que mes paroles
+      é de la merde.
+
+ 742: 10:45:01.02 10:45:02.05  Duration 00:00:01.03  17
+      Le dis pas comme ça.
+
+ 743: 10:45:11.06 10:45:13.12  Duration 00:00:02.06  34
+      Oh, ça va, arrête.
+      Il dit ça pour déconner.
+
+ 744: 10:45:20.21 10:45:22.07  Duration 00:00:01.11  22
+      Salut, David.
+
+ 745: 10:45:22.11 10:45:23.06  Duration 00:00:00.20  12
+      - Ça va?
+      - Et toi?
+
+ 746: 10:45:23.11 10:45:24.17  Duration 00:00:01.06  19
+      - Salut.
+      - Salut.
+
+ 747: 10:45:27.00 10:45:28.19  Duration 00:00:01.19  26
+      - Ça va?
+      - Bien, et toi?
+
+ 748: 10:45:30.04 10:45:30.24  Duration 00:00:00.20  12
+      Salut.
+
+ 749: 10:45:31.22 10:45:34.03  Duration 00:00:02.06  34
+      Vous venez à la fête de Laura,
+      ce soir?
+
+ 750: 10:45:35.01 10:45:36.11  Duration 00:00:01.10  21
+      - Oui, oui.
+      - Oui, oui.
+
+ 751: 10:45:36.15 10:45:38.06  Duration 00:00:01.16  25
+      OK. À ce soir.
+
+ 752: 10:45:55.13 10:45:59.02  Duration 00:00:03.14  53
+      Il y a également le 3e point:
+      convaincre et/ou dissuader.
+
+ 753: 10:45:59.07 10:46:01.20  Duration 00:00:02.13  38
+      Très bonnes vacances, bonnes fêtes!
+
+ 754: 10:46:01.24 10:46:05.22  Duration 00:00:03.23  59
+      On révise l'injonctif et les 5 points
+      pour développer un point de vue.
+
+ 755: 10:46:06.02 10:46:07.07  Duration 00:00:01.05  18
+      Au revoir.
+
+ 756: 10:46:07.12 10:46:09.24  Duration 00:00:02.12  37
+      Aurore! Venez voir par là,
+      s'il vous plaît.
+
+ 757: 10:46:11.19 10:46:14.06  Duration 00:00:02.12  37
+      J'ai commencé à corriger 
+      les analyses de texte.
+
+ 758: 10:46:14.10 10:46:17.06  Duration 00:00:02.21  43
+      Ce que vous m'avez rendu,
+      é même pas pensable.
+
+ 759: 10:46:17.10 10:46:20.08  Duration 00:00:02.23  44
+      Quand vous m'écrivez: 
+      "Je me demande ce qui vous pousse
+
+ 760: 10:46:20.12 10:46:22.21  Duration 00:00:02.09  35
+      "à donner des textes
+      répulsifs et décourageants
+
+ 761: 10:46:23.00 10:46:25.13  Duration 00:00:02.13  38
+      "sous le rapport de l'avenir":
+      on comprend pas.
+
+ 762: 10:46:25.18 10:46:27.22  Duration 00:00:02.04  32
+      "Nous avertissez-vous
+      de ne pas accepter
+
+ 763: 10:46:28.02 10:46:29.18  Duration 00:00:01.16  25
+      "des verres venant d'inconnus."
+
+ 764: 10:46:29.23 10:46:32.10  Duration 00:00:02.12  37
+      - É mort de chez mort, quoi.
+      - É quoi?
+
+ 765: 10:46:32.14 10:46:34.20  Duration 00:00:02.06  34
+      "Mort de chez mort",
+      é pas une phrase.
+
+ 766: 10:46:34.24 10:46:37.21  Duration 00:00:02.22  43
+      Rien n'est cohérent,
+      é... même pas des avis,
+
+ 767: 10:46:38.01 10:46:40.12  Duration 00:00:02.11  37
+      é des bouts de colère
+      balancés en série.
+
+ 768: 10:46:40.17 10:46:41.22  Duration 00:00:01.05  18
+      Je dois noter ça?
+
+ 769: 10:46:42.02 10:46:43.14  Duration 00:00:01.12  22
+      Comme vous voulez...
+
+ 770: 10:46:44.13 10:46:46.11  Duration 00:00:01.23  29
+      - Quoi?
+      - É vous le prof.
+
+ 771: 10:46:49.24 10:46:52.00  Duration 00:00:02.01  31
+      Une note va pas changer grand-chose.
+
+ 772: 10:46:52.05 10:46:53.06  Duration 00:00:01.01  16
+      Bah si.
+
+ 773: 10:46:58.23 10:47:00.13  Duration 00:00:01.15  24
+      Bon, ben alors je le note pas.
+
+ 774: 10:47:02.10 10:47:05.07  Duration 00:00:02.22  43
+      D'accord? Je ne vous note plus
+      sur ces trucs-là.
+
+ 775: 10:47:05.11 10:47:08.08  Duration 00:00:02.22  43
+      En revanche, je vais vous demander
+      un recueil de poèmes
+
+ 776: 10:47:08.12 10:47:10.18  Duration 00:00:02.06  34
+      que vous allez écrire
+      et inventer vous-même
+
+ 777: 10:47:10.22 10:47:13.17  Duration 00:00:02.20  42
+      pour la fin de l'année.
+      Et je vous évalue là-dessus.
+
+ 778: 10:47:14.21 10:47:17.05  Duration 00:00:02.09  35
+      Parce que de l'imagination,
+      ça, vous en avez.
+
+ 779: 10:47:20.00 10:47:21.09  Duration 00:00:01.09  20
+      Joyeux Noël!
+
+ 780: 10:47:22.04 10:47:23.10  Duration 00:00:01.06  19
+      Toi-même!
+
+ 781: 10:47:37.24 10:47:39.02  Duration 00:00:01.03  17
+      Tu fais une crèche?
+
+ 782: 10:47:39.07 10:47:41.04  Duration 00:00:01.22  28
+      Les gens font ça à Noël.
+      É festif.
+
+ 783: 10:47:41.20 10:47:43.16  Duration 00:00:01.21  28
+      Aurore fait une crèche!
+
+ 784: 10:47:44.20 10:47:46.17  Duration 00:00:01.22  28
+      Je m'occupe.
+      Comme toi et tes bouquins.
+
+ 785: 10:47:46.21 10:47:49.11  Duration 00:00:02.15  39
+      Rien à voir avec mes bouquins,
+      la propagande religieuse!
+
+ 786: 10:47:49.16 10:47:52.00  Duration 00:00:02.09  35
+      Laurent, sois pas dogmatique.
+      Elle s'amuse.
+
+ 787: 10:47:52.05 10:47:55.01  Duration 00:00:02.21  43
+      J'ai pas de petit Jésus.
+      Comment je fais?
+
+ 788: 10:47:57.09 10:47:58.17  Duration 00:00:01.08  20
+      Je veux un petit Jésus.
+
+ 789: 10:47:58.22 10:48:00.10  Duration 00:00:01.13  23
+      Arrête de chercher ton père.
+
+ 790: 10:48:01.04 10:48:03.07  Duration 00:00:02.03  32
+      T'as qu'à m'aider
+      à mettre les boules.
+
+ 791: 10:48:19.01 10:48:20.06  Duration 00:00:01.05  18
+      Lola, é moi.
+
+ 792: 10:48:26.24 10:48:27.24  Duration 00:00:01.00  15
+      Tu me manques.
+
+ 793: 10:48:35.07 10:48:37.13  Duration 00:00:02.06  34
+      - Alors, que s'est-il passé?
+      - Rien.
+
+ 794: 10:48:38.18 10:48:42.17  Duration 00:00:03.24  59
+      J'ai essayé de bosser. J'ai été bonne
+      en français mais ça fait longtemps.
+
+ 795: 10:48:42.21 10:48:46.05  Duration 00:00:03.09  50
+      J'ai tout donné et...
+      je peux pas refaire éternellement.
+
+ 796: 10:48:47.02 10:48:49.00  Duration 00:00:01.23  29
+      Sitôt que t'arrêtes, tu dégringoles.
+
+ 797: 10:48:49.04 10:48:52.10  Duration 00:00:03.06  49
+      Comme si t'avais rien fait.
+      Alors autant rien faire du tout.
+
+ 798: 10:48:55.19 10:48:57.23  Duration 00:00:02.04  32
+      Tu resteras ma copine
+      quand je serai SDF?
+
+ 799: 10:48:58.03 10:48:58.24  Duration 00:00:00.21  13
+      Non.
+
+ 800: 10:49:00.07 10:49:01.07  Duration 00:00:01.00  15
+      Je rigole!
+
+ 801: 10:49:02.12 10:49:04.05  Duration 00:00:01.18  26
+      É ta faute, aussi.
+
+ 802: 10:49:05.01 10:49:06.22  Duration 00:00:01.21  28
+      Je voulais t'aider, et toi tu...
+
+ 803: 10:49:07.17 10:49:09.17  Duration 00:00:02.00  30
+      tu m'as tout jeté à la gueule.
+
+ 804: 10:49:09.21 10:49:12.18  Duration 00:00:02.22  43
+      - Du genre?
+      - Et sinon, tu le vois plus, Areski?
+
+ 805: 10:49:12.23 10:49:13.23  Duration 00:00:01.00  15
+      Il est gay.
+
+ 806: 10:49:15.11 10:49:16.06  Duration 00:00:00.20  12
+      Non?
+
+ 807: 10:49:17.03 10:49:20.21  Duration 00:00:03.18  56
+      Oh... t'exagères. Je te connais,
+      tu exagères toujours tout, alors...
+
+ 808: 10:49:30.13 10:49:33.07  Duration 00:00:02.19  41
+      #L'avantage, avec Noël:
+      personne parle de la pension.#
+
+ 809: 10:49:33.21 10:49:35.04  Duration 00:00:01.08  20
+      Merci! Merci, Sophie.
+
+ 810: 10:49:35.08 10:49:37.24  Duration 00:00:02.16  40
+      #Ils ont oublié,
+      ou pas encore reçu le bulletin.#
+
+ 811: 10:49:40.07 10:49:41.24  Duration 00:00:01.17  25
+      #Ou peut-être, é Dieu.
+      #
+
+ 812: 10:49:42.04 10:49:44.10  Duration 00:00:02.06  34
+      J'en avais lu des nouvelles.
+
+ 813: 10:49:44.15 10:49:46.12  Duration 00:00:01.22  28
+      Messages
+      Areski
+
+ 814: 10:49:46.16 10:49:49.02  Duration 00:00:02.11  37
+      Tu reviens ou tu fais la gueule?
+
+ 815: 10:49:50.15 10:49:52.14  Duration 00:00:01.24  29
+      Aurore, viens ouvrir tes cadeaux.
+
+ 816: 10:49:52.19 10:49:55.07  Duration 00:00:02.13  38
+      Je fais la gueule
+
+ 817: 10:50:02.11 10:50:04.11  Duration 00:00:02.00  30
+      É un nordique. Chez lui,
+
+ 818: 10:50:04.16 10:50:08.15  Duration 00:00:03.24  59
+      il doit y avoir des guns
+      et des gens dans la neige.
+
+ 819: 10:50:08.19 10:50:10.03  Duration 00:00:01.09  20
+      - T'aimes bien?
+      - Génial.
+
+ 820: 10:50:12.04 10:50:13.19  Duration 00:00:01.15  24
+      Merci! Merci.
+
+ 821: 10:50:13.23 10:50:15.08  Duration 00:00:01.10  21
+      Comment t'as deviné?
+
+ 822: 10:50:15.12 10:50:17.12  Duration 00:00:02.00  30
+      J'ai une imagination débordante.
+
+ 823: 10:50:18.17 10:50:19.23  Duration 00:00:01.06  19
+      Mon petit bébé.
+
+ 824: 10:50:20.18 10:50:21.16  Duration 00:00:00.23  14
+      Et là...
+
+ 825: 10:50:23.02 10:50:24.17  Duration 00:00:01.15  24
+      É celui-là, hein?
+
+ 826: 10:50:24.22 10:50:27.11  Duration 00:00:02.14  38
+      "Maman, je t'aime."
+      On dirait une blague mais...
+
+ 827: 10:50:27.16 10:50:28.22  Duration 00:00:01.06  19
+      Tu les avais remarqués.
+
+ 828: 10:50:29.01 10:50:31.18  Duration 00:00:02.17  40
+      Vladimir, fais attention
+      avec les personnes âgées.
+
+ 829: 10:50:31.23 10:50:34.21  Duration 00:00:02.23  44
+      Mais j'adore babouchka.
+      Elle est très mignonne.
+
+ 830: 10:50:37.07 10:50:39.20  Duration 00:00:02.13  38
+      Tu veux que je le mette où?
+
+ 831: 10:50:40.00 10:50:41.17  Duration 00:00:01.17  25
+      Le dessert! Le dessert!
+
+ 832: 10:50:44.11 10:50:46.01  Duration 00:00:01.15  24
+      Le dessert! La bûche!
+
+ 833: 10:50:46.06 10:50:47.17  Duration 00:00:01.11  22
+      La bûche!
+
+ 834: 10:50:47.22 10:50:48.22  Duration 00:00:01.00  15
+      La bûche!
+
+ 835: 10:50:49.05 10:50:51.06  Duration 00:00:02.01  31
+      J'ai pas fait de bûche.
+
+ 836: 10:50:53.14 10:50:55.14  Duration 00:00:02.00  30
+      Oh! Ce sont des méduses au sang!
+
+ 837: 10:50:56.23 10:50:58.05  Duration 00:00:01.07  19
+      J'en rêvais!
+
+ 838: 10:51:01.16 10:51:02.11  Duration 00:00:00.20  12
+      É quoi?
+
+ 839: 10:51:03.23 10:51:05.04  Duration 00:00:01.06  19
+      É vivant?
+
+ 840: 10:51:07.20 10:51:09.02  Duration 00:00:01.07  19
+      En vrai, é quoi?
+
+ 841: 10:51:09.07 10:51:13.03  Duration 00:00:03.21  58
+      Bon, comme é un jour de fête,
+      j'en profite pour faire une annonce.
+
+ 842: 10:51:13.08 10:51:15.23  Duration 00:00:02.15  39
+      Je vous préviens,
+      é une bonne nouvelle.
+
+ 843: 10:51:16.03 10:51:19.01  Duration 00:00:02.23  44
+      Vladimir m'a demandé, en russe,
+
+ 844: 10:51:19.05 10:51:20.23  Duration 00:00:01.18  26
+      et... bah j'ai dit oui.
+
+ 845: 10:51:21.02 10:51:24.14  Duration 00:00:03.12  52
+      Voilà. J'ai pas pu résister.
+      Enfin, c'était trop fort,
+
+ 846: 10:51:24.19 10:51:25.16  Duration 00:00:00.22  13
+      et j'ai dit oui.
+
+ 847: 10:51:25.21 10:51:27.18  Duration 00:00:01.22  28
+      Tu as dit oui... à quoi?
+
+ 848: 10:51:28.07 10:51:29.15  Duration 00:00:01.08  20
+      Comment on dit, déjà?
+
+ 849: 10:51:39.15 10:51:41.10  Duration 00:00:01.20  27
+      "Veux-tu me... 'pouser'?"
+
+ 850: 10:51:42.15 10:51:44.16  Duration 00:00:02.01  31
+      Non, pas "poser". Épouser.
+
+ 851: 10:51:45.17 10:51:47.08  Duration 00:00:01.16  25
+      Avec qui tu vas te marier?
+
+ 852: 10:51:47.13 10:51:48.14  Duration 00:00:01.01  16
+      Avec Vladouche.
+
+ 853: 10:51:51.05 10:51:52.14  Duration 00:00:01.09  20
+      Pourquoi?
+
+ 854: 10:51:52.19 10:51:54.24  Duration 00:00:02.05  33
+      Pourquoi pas?
+      É pas la fin du monde.
+
+ 855: 10:51:55.04 10:51:56.19  Duration 00:00:01.15  24
+      Tu trouves ça con, é ça?
+
+ 856: 10:51:56.23 10:51:59.12  Duration 00:00:02.14  38
+      É peut-être un petit peu rapide.
+
+ 857: 10:51:59.17 10:52:02.20  Duration 00:00:03.03  47
+      Ne t'inquiète pas.
+      Imagine un beau mariage russe.
+
+ 858: 10:52:02.24 10:52:06.06  Duration 00:00:03.07  49
+      Avec leur musique, t'as déjà écouté?
+      Ça te prend, ça te porte.
+
+ 859: 10:52:06.11 10:52:09.00  Duration 00:00:02.14  38
+      Et puis je m'appellerai Jessica
+      "Askazoskov".
+
+ 860: 10:52:09.04 10:52:10.09  Duration 00:00:01.05  18
+      Aksakova.
+
+ 861: 10:52:10.14 10:52:12.08  Duration 00:00:01.19  26
+      Jessica Aksakova.
+
+ 862: 10:52:13.24 10:52:14.19  Duration 00:00:00.20  12
+      Pat?
+
+ 863: 10:52:20.11 10:52:21.11  Duration 00:00:01.00  15
+      Pat?
+
+ 864: 10:52:25.20 10:52:26.20  Duration 00:00:01.00  15
+      Tu dis rien?
+
+ 865: 10:52:27.24 10:52:28.19  Duration 00:00:00.20  12
+      Non.
+
+ 866: 10:52:42.23 10:52:44.03  Duration 00:00:01.05  18
+      Non mais é bien.
+
+ 867: 10:52:46.24 10:52:49.05  Duration 00:00:02.06  34
+      É... une opportunité, é...
+
+ 868: 10:52:49.19 10:52:50.19  Duration 00:00:01.00  15
+      É...
+
+ 869: 10:52:55.06 10:52:56.23  Duration 00:00:01.17  25
+      É une grande aventure!
+
+ 870: 10:52:58.02 10:52:59.11  Duration 00:00:01.09  20
+      É un conte de fées.
+
+ 871: 10:53:00.04 10:53:02.18  Duration 00:00:02.14  38
+      Un conte de fées russe
+      avec un vrai Russe.
+
+ 872: 10:53:02.22 10:53:04.00  Duration 00:00:01.03  17
+      É ça. É ça?
+
+ 873: 10:53:17.13 10:53:19.18  Duration 00:00:02.05  33
+      Pat... Je te reconnais pas, là.
+
+ 874: 10:53:21.20 10:53:22.15  Duration 00:00:00.20  12
+      Ça me...
+
+ 875: 10:53:22.19 10:53:25.23  Duration 00:00:03.04  47
+      - Faut poser.
+      - Moi je trouve ça bien de se marier.
+
+ 876: 10:53:26.03 10:53:29.14  Duration 00:00:03.11  52
+      La robe, la fête.
+      Tout le monde veut se marier.
+
+ 877: 10:53:29.18 10:53:33.15  Duration 00:00:03.22  58
+      Non. Les gens frigides, par exemple,
+      é pas leur projet principal.
+
+ 878: 10:53:36.06 10:53:38.04  Duration 00:00:01.23  29
+      Vous... Vous dites rien?
+
+ 879: 10:53:39.22 10:53:43.07  Duration 00:00:03.10  51
+      Écoutons d'abord
+      ce qu'a à dire Vladouche.
+
+ 880: 10:53:44.07 10:53:48.17  Duration 00:00:04.10  66
+      Bah moi, je suis très content
+      que vous êtes tous d'accord.
+
+ 881: 10:53:49.12 10:53:52.00  Duration 00:00:02.13  38
+      Pas encore tous,
+      mais d'accord quand même.
+
+ 882: 10:53:52.04 10:53:53.22  Duration 00:00:01.18  26
+      Par contre, le prêtre demande
+
+ 883: 10:53:54.02 10:53:56.10  Duration 00:00:02.08  35
+      si la mariée a fait un baptême.
+
+ 884: 10:53:56.14 10:53:57.14  Duration 00:00:01.00  15
+      Un baptême?
+
+ 885: 10:53:58.08 10:54:00.06  Duration 00:00:01.23  29
+      Ah mais on n'est pas...
+
+ 886: 10:54:00.24 10:54:02.04  Duration 00:00:01.05  18
+      catholiques, quoi.
+
+ 887: 10:54:02.08 10:54:03.09  Duration 00:00:01.01  16
+      Mais on s'en fout. 
+
+ 888: 10:54:03.13 10:54:06.12  Duration 00:00:02.24  44
+      Baptisée ou pas,
+      elle peut faire un beau mariage.
+
+ 889: 10:54:06.16 10:54:09.21  Duration 00:00:03.05  48
+      On n'est pas mariés, mais maintenant,
+      les jeunes se marient.
+
+ 890: 10:54:10.01 10:54:11.12  Duration 00:00:01.11  22
+      Tu vas pas foutre la merde.
+
+ 891: 10:54:11.17 10:54:13.15  Duration 00:00:01.23  29
+      Ou on la baptise. Hein Jessica?
+
+ 892: 10:54:13.20 10:54:14.11  Duration 00:00:00.16  10
+      Aurore!
+
+ 893: 10:54:14.16 10:54:17.12  Duration 00:00:02.21  43
+      Ça va, t'inquiète pas.
+      Demain, je lui coupe la tête.
+
+ 894: 10:54:17.16 10:54:19.01  Duration 00:00:01.10  21
+      Alors, on mange la...
+
+ 895: 10:54:19.16 10:54:22.04  Duration 00:00:02.13  38
+      Comment ça s'appelle, ça?
+
+ 896: 10:54:22.08 10:54:26.08  Duration 00:00:04.00  60
+      Des poires italiennes au coulis
+      amalfitain. J'ai trouvé sur Internet.
+
+ 897: 10:54:26.13 10:54:30.00  Duration 00:00:03.12  52
+      É... des implants mammaires,
+      un petit peu, non?
+
+ 898: 10:54:32.01 10:54:34.06  Duration 00:00:02.05  33
+      - Il est bon, le... le truc?
+      - Oui.
+
+ 899: 10:54:34.11 10:54:36.05  Duration 00:00:01.19  26
+      - É russe.
+      - À grosse poitrine.
+
+ 900: 10:54:36.10 10:54:37.17  Duration 00:00:01.07  19
+      Oui, é pour ça.
+
+ 901: 10:54:38.20 10:54:40.19  Duration 00:00:01.24  29
+      Hé, quoi donc? Mais oui.
+
+ 902: 10:54:40.23 10:54:43.09  Duration 00:00:02.11  37
+      Mais oui, mais oui, mais oui.
+
+ 903: 10:54:44.15 10:54:47.22  Duration 00:00:03.07  49
+      Tu te rappelles quand il
+      t'a demandé? Il l'a même pas fait.
+
+ 904: 10:54:48.16 10:54:51.00  Duration 00:00:02.09  35
+      Et moi, j'ai dit quoi?
+      J'ai dit comment?
+
+ 905: 10:54:51.05 10:54:54.22  Duration 00:00:03.17  55
+      Vous vous êtes jamais mariés. Pour
+      une fois que é dans les formes, 
+
+ 906: 10:54:55.01 10:54:57.10  Duration 00:00:02.09  35
+      vous pourriez sourire.
+      - Mais oui.
+
+ 907: 10:54:58.00 10:55:03.03  Duration 00:00:05.03  77
+      Si Jessica elle peut se marier,
+      je peux aller à la fête chez Samira?
+
+ 908: 10:55:07.06 10:55:08.01  Duration 00:00:00.20  12
+      #Discothèque.#
+
+ 909: 10:55:09.18 10:55:10.18  Duration 00:00:01.00  15
+      #Barbie.#
+
+ 910: 10:55:12.02 10:55:13.04  Duration 00:00:01.02  16
+      #Barbie 2.#
+
+ 911: 10:55:13.09 10:55:14.09  Duration 00:00:01.00  15
+      #Prostituée.#
+
+ 912: 10:55:14.14 10:55:16.13  Duration 00:00:01.24  29
+      #Mamie. No comment.#
+
+ 913: 10:55:28.11 10:55:29.18  Duration 00:00:01.07  19
+      Non. É mort!
+
+ 914: 10:55:50.09 10:55:51.10  Duration 00:00:01.01  16
+      Y a Samira.
+
+ 915: 10:55:54.21 10:55:55.21  Duration 00:00:01.00  15
+      Samira!
+
+ 916: 10:55:57.21 10:55:59.23  Duration 00:00:02.02  31
+      Vous ressemblez
+      à des pots de peinture!
+
+ 917: 10:56:08.21 10:56:11.07  Duration 00:00:02.11  37
+      - Sérieux! Ne mets pas celle-là!
+      - Si.
+
+ 918: 10:56:18.13 10:56:21.01  Duration 00:00:02.13  38
+      Areski m'a dit qu'il fallait
+      que je m'excuse?
+
+ 919: 10:56:21.05 10:56:23.06  Duration 00:00:02.01  31
+      - Ouais.
+      - Sincèrement, je suis désolé.
+
+ 920: 10:56:23.10 10:56:25.10  Duration 00:00:02.00  30
+      J'étais pas cool. Je m'excuse, quoi.
+
+ 921: 10:56:26.04 10:56:27.17  Duration 00:00:01.13  23
+      En plus, tu t'es fait belle.
+
+ 922: 10:56:29.07 10:56:30.20  Duration 00:00:01.13  23
+      Les mecs sont comme ça.
+
+ 923: 10:56:30.24 10:56:33.22  Duration 00:00:02.23  44
+      Ils ont l'air bêtes,
+      mais en fait ils sont complexes.
+
+ 924: 10:56:34.16 10:56:36.10  Duration 00:00:01.19  26
+      É la différence des sexes.
+
+ 925: 10:56:40.10 10:56:41.19  Duration 00:00:01.09  20
+      É les hormones!
+
+ 926: 10:56:47.04 10:56:50.07  Duration 00:00:03.03  47
+      J'aurais dû ressortir avec Marceau.
+      Il me fait de la peine.
+
+ 927: 10:56:50.12 10:56:54.08  Duration 00:00:03.21  58
+      Peut-être qu'on aurait été super
+      heureux. On se serait mariés et tout.
+
+ 928: 10:56:56.15 10:56:59.05  Duration 00:00:02.15  39
+      En fait, avec Marceau,
+      on sort ensemble.
+
+ 929: 10:57:02.24 10:57:04.07  Duration 00:00:01.08  20
+      T'es fâchée?
+
+ 930: 10:57:04.12 10:57:05.20  Duration 00:00:01.08  20
+      Qui ça, moi?
+
+ 931: 10:57:05.24 10:57:08.09  Duration 00:00:02.10  36
+      - Tu dis rien?
+      - Que veux-tu que je te dise?
+
+ 932: 10:57:08.13 10:57:10.07  Duration 00:00:01.19  26
+      Pose des questions, je sais pas.
+
+ 933: 10:57:10.12 10:57:11.14  Duration 00:00:01.02  16
+      J'en sais assez.
+
+ 934: 10:57:37.20 10:57:40.15  Duration 00:00:02.20  42
+      Kwamé, t'as pas un verre?
+
+ 935: 10:57:53.13 10:57:56.11  Duration 00:00:02.23  44
+      - Ça va?
+      - Ah, David!
+
+ 936: 10:57:56.15 10:57:57.23  Duration 00:00:01.08  20
+      Tu vas bien?
+
+ 937: 10:57:58.02 10:57:59.01  Duration 00:00:00.24  14
+      Génial!
+
+ 938: 10:58:00.10 10:58:02.17  Duration 00:00:02.07  34
+      3, 2, 1!
+
+ 939: 10:58:35.05 10:58:36.03  Duration 00:00:00.23  14
+      Excusez-moi.
+
+ 940: 10:58:37.19 10:58:40.04  Duration 00:00:02.10  36
+      - Areski, j'appelle les pompiers.
+      - Mais ça va!
+
+ 941: 10:58:43.07 10:58:45.13  Duration 00:00:02.06  34
+      - É bon, je tiens.
+      - T'es sûre de toi?
+
+ 942: 10:58:52.02 10:58:53.23  Duration 00:00:01.21  28
+      - Putain...
+      - Ça va, les garçons?
+
+ 943: 10:58:54.16 10:58:55.16  Duration 00:00:01.00  15
+      Bah, moyen.
+
+ 944: 10:59:17.07 10:59:22.07  Duration 00:00:05.00  75
+      Areski - Je peux plus venir
+      g trop honte g plus d'honneur
+
+ 945: 10:59:23.09 10:59:26.06  Duration 00:00:02.22  43
+      #J'avais réussi à ruiner ma vie
+      en même pas une soirée.#
+
+ 946: 10:59:26.10 10:59:28.03  Duration 00:00:01.18  26
+      #Le record du monde de la lose.#
+
+ 947: 10:59:33.10 10:59:35.11  Duration 00:00:02.01  31
+      #Juste,
+      je voulais plus revoir le groupe.#
+
+ 948: 10:59:35.15 10:59:38.01  Duration 00:00:02.11  37
+      #Plus jamais de ma vie. Plutôt mourir.#
+
+ 949: 10:59:47.19 10:59:51.02  Duration 00:00:03.08  50
+      #Il est fou? Pas la peine
+      de se mettre dans des états pareils.#
+
+ 950: 10:59:51.06 10:59:52.16  Duration 00:00:01.10  21
+      -Plante pas le groupe
+      -OK é bon
+
+ 951: 10:59:58.19 11:00:00.00  Duration 00:00:01.06  19
+      À jeun!
+
+ 952: 11:00:07.24 11:00:09.22  Duration 00:00:01.23  29
+      Ça va, é bon. Je m'excuse.
+
+ 953: 11:00:10.16 11:00:13.22  Duration 00:00:03.06  49
+      D'ailleurs on se disait,
+      ce serait bien que tu aies un style.
+
+ 954: 11:00:15.17 11:00:16.17  Duration 00:00:01.00  15
+      J'ai pas de style?
+
+ 955: 11:00:17.05 11:00:20.12  Duration 00:00:03.07  49
+      Non. Ça s'appelle pas un style.
+      Ça s'appelle sans style.
+
+ 956: 11:00:21.15 11:00:24.06  Duration 00:00:02.16  40
+      Je dois faire le clown?
+      Je peux pas tout faire!
+
+ 957: 11:00:24.11 11:00:26.15  Duration 00:00:02.04  32
+      Non, non, l'écoute pas.
+      É juste que...
+
+ 958: 11:00:26.20 11:00:30.04  Duration 00:00:03.09  50
+      É... C'était mon idée au départ,
+      j'avais...
+
+ 959: 11:00:31.08 11:00:33.01  Duration 00:00:01.18  26
+      J'avais réfléchi à...
+
+ 960: 11:00:33.05 11:00:34.06  Duration 00:00:01.01  16
+      Enfin voilà.
+
+ 961: 11:00:34.11 11:00:37.22  Duration 00:00:03.11  52
+      Cadeau de la part de ton groupe
+      préféré. On allait de l'offrir.
+
+ 962: 11:00:39.13 11:00:41.02  Duration 00:00:01.14  23
+      Il faut que je dise merci.
+
+ 963: 11:00:46.16 11:00:48.09  Duration 00:00:01.18  26
+      Qui peut rentrer là-dedans?
+
+ 964: 11:00:48.13 11:00:50.13  Duration 00:00:02.00  30
+      Pour le concert,
+      é mieux que rien.
+
+ 965: 11:00:50.18 11:00:51.18  Duration 00:00:01.00  15
+      Quoi?
+
+ 966: 11:00:51.22 11:00:53.03  Duration 00:00:01.06  19
+      Le concert.
+
+ 967: 11:00:53.07 11:00:55.12  Duration 00:00:02.05  33
+      Oui. On a une date arrêtée,
+      finalement.
+
+ 968: 11:00:58.00 11:00:58.23  Duration 00:00:00.23  14
+      En public?
+
+ 969: 11:00:59.18 11:01:01.12  Duration 00:00:01.19  26
+      Bah oui, en public.
+
+ 970: 11:01:02.15 11:01:05.04  Duration 00:00:02.14  38
+      - Tom, donne-lui tes paroles.
+      - Oui.
+
+ 971: 11:01:05.23 11:01:07.14  Duration 00:00:01.16  25
+      Mais où ça, on va chanter?
+
+ 972: 11:01:08.14 11:01:09.22  Duration 00:00:01.08  20
+      Au café de mes parents.
+
+ 973: 11:01:10.02 11:01:11.09  Duration 00:00:01.07  19
+      Où veux-tu qu'on aille?
+
+ 974: 11:01:13.22 11:01:14.17  Duration 00:00:00.20  12
+      On s'y met?
+
+ 975: 11:01:16.05 11:01:20.07  Duration 00:00:04.02  61
+      - Un... deux...
+      - Et si j'arrive pas à chanter?
+
+ 976: 11:01:21.03 11:01:23.06  Duration 00:00:02.03  32
+      - Je vais la tuer.
+      - Je te parle pas!
+
+ 977: 11:01:23.11 11:01:25.05  Duration 00:00:01.19  26
+      J'aimerais entendre mes paroles.
+
+ 978: 11:01:25.10 11:01:27.08  Duration 00:00:01.23  29
+      Faudrait pouvoir
+      appeler ça des paroles!
+
+ 979: 11:01:27.12 11:01:29.04  Duration 00:00:01.17  25
+      Vous me faites vraiment chier.
+
+ 980: 11:01:29.21 11:01:32.08  Duration 00:00:02.12  37
+      Là je vous dis tout de suite,
+      moi é jamais.
+
+ 981: 11:01:36.09 11:01:37.21  Duration 00:00:01.12  22
+      - T'as vu ça?
+      - Sois mature.
+
+ 982: 11:01:38.00 11:01:39.14  Duration 00:00:01.14  23
+      Elle a 13 ans, toi bientôt 17.
+
+ 983: 11:01:54.12 11:01:57.15  Duration 00:00:03.03  47
+      Avec cette robe, n'importe qui
+      aurait l'air très enceinte.
+
+ 984: 11:01:59.01 11:01:59.21  Duration 00:00:00.20  12
+      "Alise"...
+
+ 985: 11:02:01.14 11:02:03.15  Duration 00:00:02.01  31
+      Faudra voir avec ton père. Celle-là.
+
+ 986: 11:02:03.19 11:02:05.06  Duration 00:00:01.12  22
+      Papa travaille ce soir?
+
+ 987: 11:02:05.11 11:02:07.12  Duration 00:00:02.01  31
+      Non, il voit une salle
+      pour le mariage.
+
+ 988: 11:02:07.17 11:02:09.05  Duration 00:00:01.13  23
+      Et toi, tu fais quoi?
+
+ 989: 11:02:10.01 11:02:11.11  Duration 00:00:01.10  21
+      Je prépare le mariage.
+
+ 990: 11:02:11.16 11:02:13.13  Duration 00:00:01.22  28
+      - Et Jessica?
+      - À ton avis?
+
+ 991: 11:02:14.20 11:02:17.22  Duration 00:00:03.02  46
+      "Azalée", "Azalée"...
+      Elle est pas mal.
+
+ 992: 11:02:18.01 11:02:20.08  Duration 00:00:02.07  34
+      Il y a plus de pain?
+      Pas pour le mariage.
+
+ 993: 11:02:21.13 11:02:23.17  Duration 00:00:02.04  32
+      Aurore, si tu le cherches,
+      tu le trouves.
+
+ 994: 11:02:25.12 11:02:27.12  Duration 00:00:02.00  30
+      Il y aura des demoiselles d'honneur?
+
+ 995: 11:02:27.16 11:02:31.00  Duration 00:00:03.09  50
+      Je sais pas. Je vais regarder
+      si les mariages orthodoxes en ont.
+
+ 996: 11:02:31.04 11:02:34.21  Duration 00:00:03.17  55
+      - S'il y en a, je veux bien le faire.
+      - Là, comptez pas sur moi.
+
+ 997: 11:02:35.01 11:02:37.24  Duration 00:00:02.23  44
+      S'il y en a, tu le feras
+      parce que é ta sœur.
+
+ 998: 11:02:38.03 11:02:41.04  Duration 00:00:03.01  46
+      Puis quoi? É une malédiction
+      à vie, d'être une sœur?
+
+ 999: 11:02:41.09 11:02:46.08  Duration 00:00:04.24  74
+      - Elle veut mon avis sur le mariage?
+      - Ben dis-le, toi. É intéressant.
+
+1000: 11:02:47.22 11:02:49.09  Duration 00:00:01.12  22
+      Bah... rien, mais...
+
+1001: 11:02:54.22 11:02:56.03  Duration 00:00:01.06  19
+      Mais réfléchis.
+
+1002: 11:02:57.09 11:03:00.07  Duration 00:00:02.23  44
+      Il est où, le téléphone?
+      Sophie, où tu l'as mis?
+
+1003: 11:03:01.10 11:03:02.22  Duration 00:00:01.12  22
+      Je peux t'en prendre une?
+
+1004: 11:03:03.01 11:03:06.03  Duration 00:00:03.02  46
+      M'en fous, mais tu pourrais
+      être plus gentille avec maman.
+
+1005: 11:03:06.07 11:03:07.13  Duration 00:00:01.06  19
+      Ça veut dire quoi, ça?
+
+1006: 11:03:07.18 11:03:10.13  Duration 00:00:02.20  42
+      - Être plus gentille, é tout.
+      - Je suis gentille.
+
+1007: 11:03:11.16 11:03:14.06  Duration 00:00:02.15  39
+      N'importe quoi.
+      Maintenant, je suis pas gentille.
+
+1008: 11:03:14.19 11:03:16.12  Duration 00:00:01.18  26
+      Et dis surtout pas merci.
+
+1009: 11:03:17.00 11:03:19.13  Duration 00:00:02.13  38
+      Sale rate. Tarée, va.
+
+1010: 11:03:19.18 11:03:21.23  Duration 00:00:02.05  33
+      Rends-toi utile 
+      et aide-moi à choisir.
+
+1011: 11:03:23.00 11:03:24.18  Duration 00:00:01.18  26
+      É des cartons d'invitation.
+
+1012: 11:03:24.22 11:03:28.22  Duration 00:00:04.00  60
+      Faut savoir. Un coup, je sers à rien.
+      Un coup, on a besoin de mon avis.
+
+1013: 11:03:29.02 11:03:30.21  Duration 00:00:01.19  26
+      Une heure qu'elle est sur Google.
+
+1014: 11:03:31.00 11:03:33.17  Duration 00:00:02.17  40
+      Tout ça pour un carton
+      qui finira à la poubelle.
+
+1015: 11:03:33.22 11:03:35.20  Duration 00:00:01.23  29
+      Faut se calmer, avec votre mariage.
+
+1016: 11:03:36.11 11:03:39.20  Duration 00:00:03.09  50
+      Mais t'es qu'une petite égoïste!
+      Tu vois rien, tu entends rien.
+
+1017: 11:03:40.00 11:03:42.00  Duration 00:00:02.00  30
+      Tu penses qu'à tes petits problèmes.
+
+1018: 11:03:43.09 11:03:44.12  Duration 00:00:01.03  17
+      Et toi, tu t'es vue?
+
+1019: 11:03:44.17 11:03:47.03  Duration 00:00:02.11  37
+      Un simple coup de peigne
+      peut aider une femme.
+
+1020: 11:03:48.12 11:03:50.13  Duration 00:00:02.01  31
+      Tu ressemble à rien,
+      t'as plus d'amis.
+
+1021: 11:03:50.18 11:03:51.17  Duration 00:00:00.24  14
+      Je veux pas de ça.
+
+1022: 11:03:51.22 11:03:54.05  Duration 00:00:02.08  35
+      Non mais arrêtez! Arrêtez.
+
+1023: 11:03:55.13 11:03:56.23  Duration 00:00:01.10  21
+      Que me dis-tu exactement?
+
+1024: 11:03:59.03 11:04:01.04  Duration 00:00:02.01  31
+      Que je suis moche et con?
+
+1025: 11:04:01.09 11:04:02.09  Duration 00:00:01.00  15
+      Ouais.
+
+1026: 11:04:03.04 11:04:04.09  Duration 00:00:01.05  18
+      T'es toute seule.
+
+1027: 11:04:04.13 11:04:06.19  Duration 00:00:02.06  34
+      T'as pas d'amis.
+      Tu ressembles à rien.
+
+1028: 11:04:07.12 11:04:08.19  Duration 00:00:01.07  19
+      Je ressemble à rien?
+
+1029: 11:04:15.07 11:04:18.13  Duration 00:00:03.06  49
+      Tu te prends pour qui, pour penser
+      que tu as raison sur tout?
+
+1030: 11:04:18.18 11:04:22.04  Duration 00:00:03.11  52
+      Tu me regardes comme si j'étais
+      une grosse merde pathétique.
+
+1031: 11:04:22.21 11:04:24.01  Duration 00:00:01.05  18
+      Tu te crois où?
+
+1032: 11:04:24.05 11:04:25.05  Duration 00:00:01.00  15
+      T'as quel âge?
+
+1033: 11:04:27.02 11:04:28.10  Duration 00:00:01.08  20
+      Tu me regardes?
+
+1034: 11:04:33.24 11:04:35.21  Duration 00:00:01.22  28
+      Moi aussi, je peux te regarder.
+
+1035: 11:04:42.13 11:04:44.16  Duration 00:00:02.03  32
+      É ça, oui. Va-t'en, dégage.
+
+1036: 11:04:53.09 11:04:54.08  Duration 00:00:00.24  14
+      Putain!
+
+1037: 11:05:01.02 11:05:05.07  Duration 00:00:04.05  63
+      #"Tarée" me gênait pas spécialement.
+      Mais "égoïste", ça m'a flinguée.#
+
+1038: 11:05:05.11 11:05:09.06  Duration 00:00:03.20  57
+      #J'ai plus envie de parler à personne.
+      D'ailleurs, je parle à personne.#
+
+1039: 11:05:09.10 11:05:10.19  Duration 00:00:01.09  20
+      Bonjour, Aurore.
+
+1040: 11:05:12.06 11:05:13.04  Duration 00:00:00.23  14
+      Ça va?
+
+1041: 11:05:15.01 11:05:16.02  Duration 00:00:01.01  16
+      Hou là.
+
+1042: 11:05:17.10 11:05:18.11  Duration 00:00:01.01  16
+      Ça va pas?
+
+1043: 11:05:20.23 11:05:24.20  Duration 00:00:03.22  58
+      Bon. Ça tombe bien que je vous voie,
+      j'avais quelque chose pour vous.
+
+1044: 11:05:26.23 11:05:27.18  Duration 00:00:00.20  12
+      Cadeau!
+
+1045: 11:05:28.22 11:05:30.24  Duration 00:00:02.02  31
+      Un livre! Déjà, é pas une robe.
+
+1046: 11:05:31.15 11:05:32.16  Duration 00:00:01.01  16
+      Francis Ponge.
+
+1047: 11:05:33.10 11:05:36.05  Duration 00:00:02.20  42
+      J'ai essayé, mais ils ont pas aimé.
+      Ça leur a pas plu.
+
+1048: 11:05:36.24 11:05:38.20  Duration 00:00:01.21  28
+      - Qui, "ils"?
+      - Le groupe.
+
+1049: 11:05:39.13 11:05:40.19  Duration 00:00:01.06  19
+      - Le quoi?
+      - Le groupe.
+
+1050: 11:05:40.23 11:05:42.07  Duration 00:00:01.09  20
+      Laissez, é pas grave.
+
+1051: 11:05:43.20 11:05:47.12  Duration 00:00:03.17  55
+      Vous, ça vous a plu quand vous
+      en avez lu... du "Bob l'éponge"?
+
+1052: 11:05:48.05 11:05:52.00  Duration 00:00:03.20  57
+      Je donne pas mon avis. Vous allez me
+      saquer ou me faire écrire un livre.
+
+1053: 11:05:52.04 11:05:54.09  Duration 00:00:02.05  33
+      Je veux juste savoir
+      si vous avez aimé.
+
+1054: 11:05:54.23 11:05:56.05  Duration 00:00:01.07  19
+      - Oui.
+      - Bon.
+
+1055: 11:05:56.09 11:05:58.13  Duration 00:00:02.04  32
+      Alors on dit quoi?
+      "Merci pour ce livre."
+
+1056: 11:05:58.17 11:05:59.18  Duration 00:00:01.01  16
+      Merci.
+
+1057: 11:06:01.05 11:06:02.03  Duration 00:00:00.23  14
+      É pour vous.
+
+1058: 11:06:05.03 11:06:08.12  Duration 00:00:03.09  50
+      Merci. Il a l'air heureux, ce panda.
+
+1059: 11:06:08.16 11:06:10.10  Duration 00:00:01.19  26
+      - É un nounours.
+      - Ah!
+
+1060: 11:06:11.22 11:06:13.03  Duration 00:00:01.06  19
+      Tout va bien, alors?
+
+1061: 11:06:17.13 11:06:19.11  Duration 00:00:01.23  29
+      Bon. Courage.
+
+1062: 11:06:20.13 11:06:22.18  Duration 00:00:02.05  33
+      Francis Ponge - Tome premier
+      Douze petits écrits
+
+1063: 11:06:22.22 11:06:25.11  Duration 00:00:02.14  38
+      Excusez cette apparence de défaut
+      dans nos rapports.
+
+1064: 11:06:25.15 11:06:27.04  Duration 00:00:01.14  23
+      Je ne saurai jamais m'expliquer.
+
+1065: 11:06:33.18 11:06:37.18  Duration 00:00:04.00  60
+      La Seine
+
+1066: 11:06:57.23 11:06:59.04  Duration 00:00:01.06  19
+      Rends-le-moi!
+
+1067: 11:07:09.06 11:07:11.00  Duration 00:00:01.19  26
+      Les invitations: 200 E.
+
+1068: 11:07:11.04 11:07:14.07  Duration 00:00:03.03  47
+      La robe de mariée: 200 E chez Tati
+      à plus de 5 000 E.
+
+1069: 11:07:14.11 11:07:15.24  Duration 00:00:01.13  23
+      Il faut qu'on se décide.
+
+1070: 11:07:16.03 11:07:20.01  Duration 00:00:03.23  59
+      "La réception représente à elle seule
+      60 % du budget du mariage."
+
+1071: 11:07:20.05 11:07:22.12  Duration 00:00:02.07  34
+      Je l'avais dit.
+      Même si j'ai eu moitié prix.
+
+1072: 11:07:22.17 11:07:25.05  Duration 00:00:02.13  38
+      Ça va, on le sait,
+      que tu as trouvé la salle.
+
+1073: 11:07:25.09 11:07:27.07  Duration 00:00:01.23  29
+      Salut, Aurore. Ça va?
+
+1074: 11:07:28.06 11:07:29.20  Duration 00:00:01.14  23
+      Accessoires: 200 E.
+
+1075: 11:07:29.24 11:07:33.00  Duration 00:00:03.01  46
+      On s'en fout. Je vais pas passer
+      la journée à chercher ça.
+
+1076: 11:07:33.05 11:07:34.12  Duration 00:00:01.07  19
+      Et le bouquet?
+
+1077: 11:07:34.16 11:07:36.10  Duration 00:00:01.19  26
+      Le bouquet. Le bouquet,
+
+1078: 11:07:36.15 11:07:40.18  Duration 00:00:04.03  62
+      50 E. Il faut t'acheter un costume.
+      Tu vas pas en mettre un déjà porté.
+
+1079: 11:07:41.19 11:07:45.24  Duration 00:00:04.05  63
+      Et tu as vu qu'on a choisi la date
+      le jour de mon anniversaire?
+
+1080: 11:07:46.04 11:07:48.17  Duration 00:00:02.13  38
+      Il va falloir t'acheter un cadeau,
+      en plus.
+
+1081: 11:07:48.21 11:07:50.10  Duration 00:00:01.14  23
+      Je disais pas ça pour ça.
+
+1082: 11:07:50.14 11:07:52.11  Duration 00:00:01.22  28
+      Non. Non, quand même.
+
+1083: 11:07:57.13 11:07:59.21  Duration 00:00:02.08  35
+      Maman!
+      Tu peux venir, s'il te plaît?
+
+1084: 11:08:05.01 11:08:06.24  Duration 00:00:01.23  29
+      Tu peux pas faire ça comme ça.
+
+1085: 11:08:10.07 11:08:14.09  Duration 00:00:04.02  61
+      J'étais dans le couloir de la fac,
+      il m'a proposé de boire un café et...
+
+1086: 11:08:14.13 11:08:17.09  Duration 00:00:02.21  43
+      Je me suis rendu compte que j'étais
+      déjà un vieux couple avec Vladimir.
+
+1087: 11:08:18.03 11:08:19.11  Duration 00:00:01.08  20
+      Et puis ça me saoule.
+
+1088: 11:08:40.02 11:08:42.16  Duration 00:00:02.14  38
+      Elle veut pas se marier
+      juste pour faire la fête.
+
+1089: 11:08:42.21 11:08:46.12  Duration 00:00:03.16  55
+      Ah. É la merde, les mariages.
+      Je l'avais bien dit.
+
+1090: 11:08:46.17 11:08:50.20  Duration 00:00:04.03  62
+      Nous voilà avec une salle sur le dos.
+      Tu es triste. Tout ça à la poubelle?
+
+1091: 11:08:51.00 11:08:52.19  Duration 00:00:01.19  26
+      La salle, pas toi.
+
+1092: 11:08:52.23 11:08:54.24  Duration 00:00:02.01  31
+      É pas sa faute
+      si elle l'aime plus.
+
+1093: 11:08:55.04 11:08:58.03  Duration 00:00:02.24  44
+      Elle va pas se forcer,
+      et on va pas en faire un drame.
+
+1094: 11:09:02.04 11:09:03.07  Duration 00:00:01.03  17
+      Oui, je sais.
+
+1095: 11:09:04.03 11:09:05.16  Duration 00:00:01.13  23
+      É ridicule de ma part.
+
+1096: 11:09:05.21 11:09:07.17  Duration 00:00:01.21  28
+      Bon, je vais faire les courses.
+
+1097: 11:09:13.12 11:09:15.12  Duration 00:00:02.00  30
+      Vous avez besoin de quelque chose?
+
+1098: 11:09:25.21 11:09:26.16  Duration 00:00:00.20  12
+      Au revoir.
+
+1099: 11:09:41.11 11:09:43.08  Duration 00:00:01.22  28
+      Areski? É moi, Aurore.
+
+1100: 11:09:44.01 11:09:47.21  Duration 00:00:03.20  57
+      Non, é par rapport à ton foutu
+      concert. J'ai peut-être une solution.
+
+1101: 11:09:48.00 11:09:50.19  Duration 00:00:02.19  41
+      #É là que j'ai dit: 
+      "OK, je ferai le guignol."#
+
+1102: 11:09:51.13 11:09:54.00  Duration 00:00:02.12  37
+      #Et puis ça a coupé.
+      J'avais plus de batterie.#
+
+1103: 11:11:14.13 11:11:15.13  Duration 00:00:01.00  15
+      Ah mais t'es là?
+
+1104: 11:11:21.21 11:11:22.21  Duration 00:00:01.00  15
+      Ça va?
+
+1105: 11:11:30.05 11:11:32.20  Duration 00:00:02.15  39
+      - T'es sûre que ça va?
+      - Ouais. Ouais, ouais.
+
+1106: 11:11:32.24 11:11:34.18  Duration 00:00:01.19  26
+      T'inquiète, ça va être génial.
+
+1107: 11:11:37.02 11:11:39.08  Duration 00:00:02.06  34
+      Et puis t'avais oublié ça
+      la dernière fois.
+
+1108: 11:11:43.18 11:11:44.18  Duration 00:00:01.00  15
+      É la robe.
+
+1109: 11:11:46.01 11:11:46.24  Duration 00:00:00.23  14
+      Oups.
+
+1110: 11:11:47.22 11:11:50.15  Duration 00:00:02.18  41
+      Tu regardes pas, hein?
+      Je sais qu'il y a un miroir.
+
+1111: 11:11:52.06 11:11:53.20  Duration 00:00:01.14  23
+      Tu fermes les yeux.
+
+1112: 11:11:53.24 11:11:54.24  Duration 00:00:01.00  15
+      É fait.
+
+1113: 11:12:00.10 11:12:01.10  Duration 00:00:01.00  15
+      Là, é bon?
+
+1114: 11:12:01.14 11:12:02.21  Duration 00:00:01.07  19
+      Non, é pas bon.
+
+1115: 11:12:07.18 11:12:08.18  Duration 00:00:01.00  15
+      Et maintenant?
+
+1116: 11:12:16.12 11:12:17.12  Duration 00:00:01.00  15
+      É bon.
+
+1117: 11:12:20.14 11:12:22.18  Duration 00:00:02.04  32
+      - Mais ça va?
+      - Ouais.
+
+1118: 11:12:22.22 11:12:23.17  Duration 00:00:00.20  12
+      Non?
+
+1119: 11:12:26.07 11:12:28.20  Duration 00:00:02.13  38
+      - Qui l'a choisie, la robe?
+      - É moi.
+
+1120: 11:12:29.16 11:12:31.17  Duration 00:00:02.01  31
+      Mets-toi devant le micro, pour voir?
+
+1121: 11:12:35.15 11:12:36.17  Duration 00:00:01.02  16
+      Tu as fait les...
+
+1122: 11:12:37.20 11:12:39.11  Duration 00:00:01.16  25
+      Bah, non.
+
+1123: 11:13:02.08 11:13:04.13  Duration 00:00:02.05  33
+      #Lui, é comme si
+      je l'avais jamais vu.#
+
+1124: 11:13:04.17 11:13:08.16  Duration 00:00:03.24  59
+      #Mais d'un seul coup, il m'est tombé
+      dessus comme un débris de satellite.#
+
+1125: 11:13:08.20 11:13:09.17  Duration 00:00:00.22  13
+      #Numéro 4.#
+
+1126: 11:13:10.08 11:13:12.07  Duration 00:00:01.24  29
+      #Viens voir, mon numéro 4.#
+
+1127: 11:13:57.17 11:14:00.11  Duration 00:00:02.19  41
+      Je pourrais chanter pour elle.
+      On garde la salle,
+
+1128: 11:14:00.16 11:14:02.21  Duration 00:00:02.05  33
+      et ça lui fait une surprise
+      d'anniversaire.
+
+1129: 11:14:07.09 11:14:09.07  Duration 00:00:01.23  29
+      Suivant. Suivant.
+
+1130: 11:14:09.12 11:14:11.00  Duration 00:00:01.13  23
+      Suivant, putain!
+
+1131: 11:14:12.07 11:14:13.13  Duration 00:00:01.06  19
+      - Quoi?
+      - Rien.
+
+1132: 11:14:14.06 11:14:16.24  Duration 00:00:02.18  41
+      Pourquoi tu me regardes?
+      Je suis habillée comme un sac?
+
+1133: 11:14:17.04 11:14:19.13  Duration 00:00:02.09  35
+      Tu peux y aller.
+      Je te ferai pas de gratin.
+
+1134: 11:14:50.03 11:14:52.04  Duration 00:00:02.01  31
+      Tu me dis, maintenant,
+      où tu m'emmènes?
+
+1135: 11:14:52.08 11:14:53.04  Duration 00:00:00.21  13
+      Surprise!
+
+1136: 11:14:53.08 11:14:55.08  Duration 00:00:02.00  30
+      Tu en fais des cérémonies, dis!
+
+1137: 11:14:55.12 11:14:59.05  Duration 00:00:03.18  56
+      Je fais pas des cérémonies, je suis
+      protocolaire. É pas pareil.
+
+1138: 11:14:59.09 11:15:02.21  Duration 00:00:03.12  52
+      S'il te plaît, Laurent, tu ne me
+      demandes pas en mariage.
+
+1139: 11:15:03.00 11:15:03.20  Duration 00:00:00.20  12
+      T'inquiète.
+
+1140: 11:15:04.00 11:15:05.00  Duration 00:00:01.00  15
+      Elles sont là?
+
+1141: 11:15:05.24 11:15:08.13  Duration 00:00:02.14  38
+      - Tu me trouves comment?
+      - Classe. Super classe.
+
+1142: 11:15:08.18 11:15:09.24  Duration 00:00:01.06  19
+      Mais sérieusement?
+
+1143: 11:15:11.06 11:15:13.07  Duration 00:00:02.01  31
+      - Je suis moche, é ça?
+      - Non!
+
+1144: 11:15:14.00 11:15:15.22  Duration 00:00:01.22  28
+      Le physique est plutôt pas mal.
+
+1145: 11:15:16.01 11:15:19.21  Duration 00:00:03.20  57
+      É juste que je suis pas habituée.
+      Je suis habituée à ton style.
+
+1146: 11:15:22.03 11:15:24.24  Duration 00:00:02.21  43
+      Je peux mettre un T-shirt gris
+      et une chemise marron.
+
+1147: 11:15:25.03 11:15:26.24  Duration 00:00:01.21  28
+      Gris et marron, ça donne envie!
+
+1148: 11:15:27.04 11:15:28.02  Duration 00:00:00.23  14
+      Ça va?
+
+1149: 11:15:28.06 11:15:29.06  Duration 00:00:01.00  15
+      T'es prête?
+
+1150: 11:15:31.00 11:15:32.08  Duration 00:00:01.08  20
+      Où sont tes chaussures?
+
+1151: 11:15:33.05 11:15:34.11  Duration 00:00:01.06  19
+      Quelles chaussures?
+
+1152: 11:15:34.15 11:15:36.16  Duration 00:00:02.01  31
+      Tu comptes chanter pieds nus,
+      comme ça?
+
+1153: 11:15:37.10 11:15:39.04  Duration 00:00:01.19  26
+      Je sais pas, j'ai pas réfléchi.
+
+1154: 11:15:39.09 11:15:41.03  Duration 00:00:01.19  26
+      T'as les ongles de pieds dégueu.
+
+1155: 11:15:41.07 11:15:43.16  Duration 00:00:02.09  35
+      Personne les verra.
+      Et ils sont pas dégueu.
+
+1156: 11:15:53.09 11:15:55.01  Duration 00:00:01.17  25
+      Vous auriez un vernis à ongles?
+
+1157: 11:15:55.05 11:15:56.20  Duration 00:00:01.15  24
+      Elle arrive! Elle arrive!
+
+1158: 11:15:56.24 11:15:59.00  Duration 00:00:02.01  31
+      Venez, venez.
+      Venez, venez, venez...
+
+1159: 11:15:59.05 11:16:00.11  Duration 00:00:01.06  19
+      Attention! Venez.
+
+1160: 11:16:01.05 11:16:02.04  Duration 00:00:00.24  14
+      Chut!
+
+1161: 11:16:08.13 11:16:10.08  Duration 00:00:01.20  27
+      Ouais!
+
+1162: 11:16:19.23 11:16:24.12  Duration 00:00:04.14  68
+      #Joyeux anniversaire!#
+
+1163: 11:16:31.24 11:16:33.09  Duration 00:00:01.10  21
+      Tu te tournes?
+
+1164: 11:16:42.03 11:16:43.15  Duration 00:00:01.12  22
+      Bouge pas ou je vais rater.
+
+1165: 11:16:58.10 11:16:59.16  Duration 00:00:01.06  19
+      Arrête.
+
+1166: 11:16:59.20 11:17:01.23  Duration 00:00:02.03  32
+      Tu bouges,
+      et là je fais n'importe quoi.
+
+1167: 11:17:20.03 11:17:22.01  Duration 00:00:01.23  29
+      #C'était pas du tout frigide.#
+
+1168: 11:17:22.05 11:17:24.24  Duration 00:00:02.19  41
+      #Ou j'avais une forme inconnue
+      de sexualité des pieds.#
+
+1169: 11:17:26.01 11:17:28.24  Duration 00:00:02.23  44
+      #Ou c'était de l'amour.
+      Du vrai. On sait jamais.#
+
+1170: 11:17:36.16 11:17:38.04  Duration 00:00:01.13  23
+      É pas mal, en vrai.
+
+1171: 11:17:40.19 11:17:42.06  Duration 00:00:01.12  22
+      Arrête. É pas drôle.
+
+1172: 11:17:53.04 11:17:54.20  Duration 00:00:01.16  25
+      - M. Couette.
+      - Oui.
+
+1173: 11:17:55.20 11:17:56.20  Duration 00:00:01.00  15
+      Ho là!
+
+1174: 11:17:58.01 11:18:00.01  Duration 00:00:02.00  30
+      - Je suis la maman d'Aurore.
+      - Je vois.
+
+1175: 11:18:00.05 11:18:02.04  Duration 00:00:01.24  29
+      - É elle qui vous a invité?
+      - Oui.
+
+1176: 11:18:02.09 11:18:04.03  Duration 00:00:01.19  26
+      É mon anniversaire.
+
+1177: 11:18:04.07 11:18:06.15  Duration 00:00:02.08  35
+      Oui.
+      Ils vous ont fait une belle surprise.
+
+1178: 11:18:06.19 11:18:08.02  Duration 00:00:01.08  20
+      Ben oui.
+
+1179: 11:18:08.06 11:18:10.19  Duration 00:00:02.13  38
+      Vous l'avez déclenchée, en français.
+      Merci.
+
+1180: 11:18:12.07 11:18:15.21  Duration 00:00:03.14  53
+      Oui, Francis Ponge, tout ça,
+      vraiment. É un déclenchement.
+
+1181: 11:18:25.01 11:18:26.17  Duration 00:00:01.16  25
+      Faut y aller, ça va commencer.
+
+1182: 11:18:27.12 11:18:29.03  Duration 00:00:01.16  25
+      Attends. J'arrive. Attends-moi.
+
+1183: 11:18:38.15 11:18:41.06  Duration 00:00:02.16  40
+      - Viens.
+      - Mais qu'est-ce qui se passe?
+
+1184: 11:18:41.10 11:18:43.01  Duration 00:00:01.16  25
+      - Que fais-tu?
+      - Tu vas voir.
+
+1185: 11:18:43.05 11:18:45.14  Duration 00:00:02.09  35
+      Allez! Allez!
+
+1186: 11:18:51.10 11:18:54.05  Duration 00:00:02.20  42
+      Allez! Allez!
+
+1187: 11:19:11.20 11:19:13.03  Duration 00:00:01.08  20
+      Allez!
+
+1188: 11:19:13.07 11:19:14.16  Duration 00:00:01.09  20
+      Ouais!
+
+1189: 11:19:23.18 11:19:26.11  Duration 00:00:02.18  41
+      - Elle est toute petite.
+      - Eh oui.
+
+1190: 11:19:26.15 11:19:27.10  Duration 00:00:00.20  12
+      Allez!
+
+1191: 11:19:36.08 11:19:37.09  Duration 00:00:01.01  16
+      Allez!
+
+1192: 11:19:38.12 11:19:39.12  Duration 00:00:01.00  15
+      Aurore!
+
+1193: 11:19:48.13 11:19:50.06  Duration 00:00:01.18  26
+      Spéciale dédicace à ma mère.
+
+1194: 11:20:04.17 11:20:09.07  Duration 00:00:04.15  69
+      #Oh Mamy! Oh Mamy, Mamy blue#
+
+1195: 11:20:09.11 11:20:11.04  Duration 00:00:01.18  26
+      #Oh Mamy blue!#
+
+1196: 11:20:20.18 11:20:23.06  Duration 00:00:02.13  38
+      #Je suis partie un soir d'été#
+
+1197: 11:20:24.09 11:20:27.06  Duration 00:00:02.22  43
+      #Sans dire un mot, sans t'embrasser#
+
+1198: 11:20:28.11 11:20:31.06  Duration 00:00:02.20  42
+      #Sans un regard sur le passé#
+
+1199: 11:20:34.15 11:20:35.10  Duration 00:00:00.20  12
+      Allez, allez.
+
+1200: 11:20:36.15 11:20:39.10  Duration 00:00:02.20  42
+      #Dès que j'ai franchi la frontière#
+
+1201: 11:20:40.09 11:20:43.07  Duration 00:00:02.23  44
+      #Le vent soufflait plus fort qu'hier#
+
+1202: 11:20:44.12 11:20:47.08  Duration 00:00:02.21  43
+      #Quand j'étais près de toi ma mère#
+
+1203: 11:21:07.24 11:21:10.09  Duration 00:00:02.10  36
+      #La maison a fermé ses yeux#
+
+1204: 11:21:11.19 11:21:14.08  Duration 00:00:02.14  38
+      #Le chat et les chiens sont très vieux#
+
+1205: 11:21:15.15 11:21:18.06  Duration 00:00:02.16  40
+      #Et ils viennent me dire adieu#
+
+1206: 11:21:18.10 11:21:20.08  Duration 00:00:01.23  29
+      Elle a rien trouvé de plus positif?
+
+1207: 11:21:23.13 11:21:26.00  Duration 00:00:02.12  37
+      #Je ne reviendrai plus jamais#
+
+1208: 11:21:27.05 11:21:29.23  Duration 00:00:02.18  41
+      #Dans ce village que j'aimais#
+
+1209: 11:21:31.02 11:21:33.10  Duration 00:00:02.08  35
+      #Où tu reposes à tout jamais#
+
+1210: 11:21:37.15 11:21:39.22  Duration 00:00:02.07  34
+      Mais...
+      la maman de la chanson est morte?
+
+1211: 11:21:47.15 11:21:49.05  Duration 00:00:01.15  24
+      On va voir si elle est morte!
+
+1212: 11:22:12.23 11:22:14.17  Duration 00:00:01.19  26
+      Danser, elle a jamais su. Jamais.
+
+1213: 11:22:15.06 11:22:16.20  Duration 00:00:01.14  23
+      - La danse?
+      - Jamais.
+
+1214: 11:22:17.00 11:22:21.12  Duration 00:00:04.12  67
+      Je l'ai mise au judo. Elle a aucun
+      sens du rythme. Complètement à côté.
+
+1215: 11:22:21.16 11:22:22.18  Duration 00:00:01.02  16
+      Lui aussi est nul.
+
+1216: 11:22:33.19 11:22:35.07  Duration 00:00:01.13  23
+      Bravo! Bravo!
+
+1217: 11:22:36.07 11:22:38.16  Duration 00:00:02.09  35
+      Bravo! Bravo!
+
+1218: 11:22:39.18 11:22:44.17  Duration 00:00:04.24  74
+      Aurore! Aurore!
+
+1219: 11:22:47.23 11:22:50.24  Duration 00:00:03.01  46
+      #Si je me mets à les aimer,
+      ma vie sera invivable.#
+
+1220: 11:22:54.01 11:22:56.18  Duration 00:00:02.17  40
+      #J'ai pas l'habitude.
+      Et ça fera trop d'un coup.#
+
+1221: 11:22:56.23 11:22:59.16  Duration 00:00:02.18  41
+      Oh mais elle est toute émue!
+      Elle est toute émue.
+
+1222: 11:23:00.17 11:23:02.23  Duration 00:00:02.06  34
+      #Obligée de les détester
+      pour l'éternité.#
+
+1223: 11:23:03.03 11:23:04.21  Duration 00:00:01.18  26
+      Allez, encore une petite!
+
+1224: 11:23:05.07 11:23:08.24  Duration 00:00:03.17  55
+      Jamais contente
+
+1225: 11:23:19.02 11:23:21.20  Duration 00:00:02.18  41
+      Sous-titrage: ECLAIR
+
