@@ -1,0 +1,3845 @@
+
+   1: 10:00:22.10 10:00:24.20  Duration 00:00:02.10  36
+Tempo presente
+Programa de reportagens
+
+   2: 10:00:25.15 10:00:26.22  Duration 00:00:01.07  19
+Boa noite a todos.
+
+   3: 10:00:27.01 10:00:28.11  Duration 00:00:01.10  21
+Se você é de Nyon, sabe
+
+   4: 10:00:28.15 10:00:31.21  Duration 00:00:03.06  49
+onde foi parar o peixe
+da bandeira do município?
+
+   5: 10:00:32.00 10:00:33.18  Duration 00:00:01.18  26
+Sabe por que há fogueiras
+
+   6: 10:00:33.22 10:00:35.15  Duration 00:00:01.18  26
+no dia da festa nacional?
+
+   7: 10:00:35.19 10:00:37.11  Duration 00:00:01.17  25
+Quem aspira
+a cidadão de Fribourg
+
+   8: 10:00:37.15 10:00:39.12  Duration 00:00:01.22  28
+sabe com certeza
+o que é uma# cuchaule#
+
+   9: 10:00:39.16 10:00:41.01  Duration 00:00:01.10  21
+ou quem é
+o Père Fouettard.
+
+  10: 10:00:41.20 10:00:44.18  Duration 00:00:02.23  44
+Esse tipo de interrogatório
+é um exemplo real
+
+  11: 10:00:44.22 10:00:46.23  Duration 00:00:02.01  31
+do que passam
+os candidatos estrangeiros
+
+  12: 10:00:47.02 10:00:50.02  Duration 00:00:03.00  45
+à naturalização nos cantões
+de Vaud ou Fribourg,
+
+  13: 10:00:50.06 10:00:51.17  Duration 00:00:01.11  22
+e também
+em toda a Suíça.
+
+  14: 10:00:51.21 10:00:54.07  Duration 00:00:02.11  37
+Em geral enfrenta-se
+um colégio comunal,
+
+  15: 10:00:54.11 10:00:57.08  Duration 00:00:02.22  43
+às vezes uma piada,
+ou cheio de preconceitos.
+
+  16: 10:00:57.12 10:00:59.02  Duration 00:00:01.15  24
+Em Genebra,
+há pouco tempo,
+
+  17: 10:00:59.06 10:01:01.13  Duration 00:00:02.07  34
+o uso do véu podia reprovar.
+
+  18: 10:01:01.17 10:01:03.13  Duration 00:00:01.21  28
+Nos vilarejos alemânicos,
+
+  19: 10:01:03.17 10:01:05.13  Duration 00:00:01.21  28
+convicções religiosas
+ou políticas
+
+  20: 10:01:05.17 10:01:08.00  Duration 00:00:02.08  35
+lhe proíbem a passagem à cidadania.
+
+  21: 10:01:08.04 10:01:10.00  Duration 00:00:01.21  28
+Obter o passaporte
+da cruz branca
+
+  22: 10:01:10.04 10:01:12.06  Duration 00:00:02.02  31
+é um percurso longo e difícil,
+
+  23: 10:01:12.10 10:01:13.15  Duration 00:00:01.05  18
+o mais duro da Europa,
+
+  24: 10:01:13.19 10:01:16.22  Duration 00:00:03.03  47
+e dá espaço à arbitrariedade
+e ao abuso de poder.
+
+  25: 10:01:17.13 10:01:19.11  Duration 00:00:01.23  29
+Porém,
+como ouvirão na reportagem
+
+  26: 10:01:19.15 10:01:21.11  Duration 00:00:01.21  28
+de Marlène Brot
+e Laurent Nègre,
+
+  27: 10:01:21.15 10:01:23.00  Duration 00:00:01.10  21
+as comunas têm o poder
+
+  28: 10:01:23.04 10:01:26.05  Duration 00:00:03.01  46
+de verificar a integração
+dos aspirantes a suíço.
+
+  29: 10:01:26.09 10:01:28.04  Duration 00:00:01.20  27
+Elas querem
+manter esse direito.
+
+  30: 10:01:28.08 10:01:32.12  Duration 00:00:04.04  62
+Daí a ter o poder de dar
+um certificado de “suíçoz”,
+
+  31: 10:01:32.16 10:01:34.02  Duration 00:00:01.11  22
+há um grande mal-estar,
+
+  32: 10:01:34.06 10:01:36.08  Duration 00:00:02.02  31
+ainda mais que as exigências
+
+  33: 10:01:36.12 10:01:38.21  Duration 00:00:02.09  35
+endureceram desde janeiro de 2018.
+
+  34: 10:01:39.00 10:01:39.24  Duration 00:00:00.24  14
+Vejam.
+
+  35: 10:01:43.03 10:01:46.08  Duration 00:00:03.05  48
+Payerne, Vaud
+
+  36: 10:01:50.15 10:01:52.10  Duration 00:00:01.20  27
+Conhecimento do país
+Cidadania na Suíça
+
+  37: 10:01:52.15 10:01:55.08  Duration 00:00:02.18  41
+- Boa noite a todos.
+- Boa noite.
+
+  38: 10:01:55.12 10:01:58.00  Duration 00:00:02.13  38
+- Como estão?
+- Bem. E você?
+
+  39: 10:01:58.05 10:02:01.08  Duration 00:00:03.03  47
+Tentem, se possível,
+sem consulta.
+
+  40: 10:02:01.21 10:02:03.23  Duration 00:00:02.02  31
+Primeira questão:
+
+  41: 10:02:04.03 10:02:06.21  Duration 00:00:02.18  41
+nome dos países que cercam a Suíça.
+
+  42: 10:02:08.06 10:02:10.02  Duration 00:00:01.21  28
+Alemanha, França, Itália,
+
+  43: 10:02:11.05 10:02:15.00  Duration 00:00:03.20  57
+Lichtenstein e Áustria.
+
+  44: 10:02:15.08 10:02:19.22  Duration 00:00:04.14  68
+Quais são as três regiões
+naturais da Suíça?
+
+  45: 10:02:20.14 10:02:24.12  Duration 00:00:03.23  59
+- Alpes...
+- Jura, o Plateau.
+
+  46: 10:02:24.16 10:02:26.01  Duration 00:00:01.10  21
+Muito bem.
+
+  47: 10:02:26.06 10:02:29.08  Duration 00:00:03.02  46
+Quantos são os cantões inteiros?
+
+  48: 10:02:29.12 10:02:30.10  Duration 00:00:00.23  14
+São 23.
+
+  49: 10:02:30.14 10:02:33.01  Duration 00:00:02.12  37
+#Tornar-se suíço exige mérito.#
+
+  50: 10:02:33.05 10:02:34.09  Duration 00:00:01.04  17
+#Para o passaporte,#
+
+  51: 10:02:34.13 10:02:37.19  Duration 00:00:03.06  49
+#deve-se não só encarar
+o processo mais duro da Europa,#
+
+  52: 10:02:37.24 10:02:40.16  Duration 00:00:02.17  40
+#mas também conhecer o país de cor.#
+
+  53: 10:02:40.20 10:02:43.24  Duration 00:00:03.04  47
+Meu Deus, eu sei isso!
+Meu, Deus, pare. Espere.
+
+  54: 10:02:44.13 10:02:47.21  Duration 00:00:03.08  50
+Tem o Lago Léman, inteiramente,
+fronteira com a França.
+
+  55: 10:02:48.00 10:02:51.04  Duration 00:00:03.04  47
+Sim. E o segundo, eu não sei.
+
+  56: 10:02:51.24 10:02:53.18  Duration 00:00:01.19  26
+Zurique...
+
+  57: 10:02:54.13 10:02:56.10  Duration 00:00:01.22  28
+#Tudo deve ser decorado.#
+
+  58: 10:02:56.14 10:02:57.24  Duration 00:00:01.10  21
+#Na Suíça toda,#
+
+  59: 10:02:58.03 10:03:00.20  Duration 00:00:02.17  40
+#um quinto dos candidatos
+não passa,#
+
+  60: 10:03:00.24 10:03:03.12  Duration 00:00:02.13  38
+#reprovado na primeira audiência.#
+
+  61: 10:03:03.16 10:03:05.21  Duration 00:00:02.05  33
+#Bem-vindo à escola das Suíças.#
+
+  62: 10:03:06.00 10:03:07.22  Duration 00:00:01.22  28
+Vocês são alunos maravilhosos.
+
+  63: 10:03:08.01 10:03:11.04  Duration 00:00:03.03  47
+Fizeram bem os seus deveres.
+Fantástico.
+
+  64: 10:03:12.10 10:03:14.10  Duration 00:00:02.00  30
+Tornar-se suíço
+
+  65: 10:03:14.14 10:03:17.06  Duration 00:00:02.17  40
+O calvário da naturalização
+
+  66: 10:03:23.07 10:03:27.03  Duration 00:00:03.21  58
+Serviço Cantonal Naturalizações,
+Fribourg
+
+  67: 10:03:27.13 10:03:29.03  Duration 00:00:01.15  24
+- Sr. Allego?
+- Bom dia.
+
+  68: 10:03:29.07 10:03:31.07  Duration 00:00:02.00  30
+- Bom dia. Nadia Humbel.
+- Prazer.
+
+  69: 10:03:31.11 10:03:33.08  Duration 00:00:01.22  28
+Pode me acompanhar, por favor?
+
+  70: 10:03:33.12 10:03:34.10  Duration 00:00:00.23  14
+Claro.
+
+  71: 10:03:34.14 10:03:36.08  Duration 00:00:01.19  26
+Pegue seus pertences.
+
+  72: 10:03:39.13 10:03:43.01  Duration 00:00:03.13  53
+#Em Fribourg, quarta-feira
+é dia dos menores.#
+
+  73: 10:03:43.05 10:03:45.09  Duration 00:00:02.04  32
+#3 rapazes serão questionados,#
+
+  74: 10:03:45.13 10:03:46.23  Duration 00:00:01.10  21
+#2 deles irmãos gêmeos.#
+
+  75: 10:03:47.03 10:03:49.06  Duration 00:00:02.03  32
+#de pai kosovar
+e mãe portuguesa.#
+
+  76: 10:03:49.19 10:03:53.05  Duration 00:00:03.11  52
+#O serviço cantonal
+nos abriu as portas.#
+
+  77: 10:03:55.11 10:03:59.07  Duration 00:00:03.21  58
+O objetivo da entrevista de hoje
+é fazer seu percurso de vida,
+
+  78: 10:03:59.12 10:04:02.09  Duration 00:00:02.22  43
+para apresentá-lo
+à sua comuna de residência,
+
+  79: 10:04:02.13 10:04:04.01  Duration 00:00:01.13  23
+e depois
+às outras comissões
+
+  80: 10:04:04.05 10:04:06.05  Duration 00:00:02.00  30
+que cuidarão da sua naturalização.
+
+  81: 10:04:06.09 10:04:08.07  Duration 00:00:01.23  29
+Esse trabalho
+que faremos juntos
+
+  82: 10:04:08.12 10:04:11.02  Duration 00:00:02.15  39
+vai para a sua
+Comissão de Naturalização,
+
+  83: 10:04:11.07 10:04:14.11  Duration 00:00:03.04  47
+Eles vão examinar isso
+e chamá-lo para uma entrevista.
+
+  84: 10:04:15.02 10:04:16.22  Duration 00:00:01.20  27
+Depois pedirão
+ao Conselho Comunal
+
+  85: 10:04:17.01 10:04:19.12  Duration 00:00:02.11  37
+a decisão
+sobre a concessão da cidadania.
+
+  86: 10:04:19.16 10:04:22.19  Duration 00:00:03.03  47
+É o que lhe dará
+uma primeira origem na Suíça.
+
+  87: 10:04:22.23 10:04:24.15  Duration 00:00:01.17  25
+Depois o caso irá
+para Berna,
+
+  88: 10:04:24.19 10:04:26.11  Duration 00:00:01.17  25
+para pedir
+autorização federal,
+
+  89: 10:04:26.16 10:04:27.17  Duration 00:00:01.01  16
+e, por último,
+
+  90: 10:04:27.21 10:04:31.15  Duration 00:00:03.19  56
+a decisão final será pronunciada
+pelo Grande Conselho.
+
+  91: 10:04:31.20 10:04:33.16  Duration 00:00:01.21  28
+Entendeu? Muito bem.
+
+  92: 10:04:33.20 10:04:36.09  Duration 00:00:02.14  38
+Vamos verificar seu registro.
+
+  93: 10:04:36.23 10:04:38.03  Duration 00:00:01.05  18
+#Você acompanhou?#
+
+  94: 10:04:38.07 10:04:40.21  Duration 00:00:02.14  38
+#O percurso é kafkiano.#
+
+  95: 10:04:41.00 10:04:42.21  Duration 00:00:01.21  28
+#Só que os 3 nasceram na Suíça.#
+
+  96: 10:04:43.00 10:04:44.22  Duration 00:00:01.22  28
+#Eles nunca moraram
+fora daqui.#
+
+  97: 10:04:45.01 10:04:47.07  Duration 00:00:02.06  34
+#Antes de poder se apresentar
+nesse dia,#
+
+  98: 10:04:47.11 10:04:50.02  Duration 00:00:02.16  40
+#eles já tiveram de montar
+um dossiê enorme.#
+
+  99: 10:04:50.06 10:04:52.17  Duration 00:00:02.11  37
+#Dos antecedentes
+à situação financeira,#
+
+ 100: 10:04:52.21 10:04:55.11  Duration 00:00:02.15  39
+#tudo foi examinado
+nos mínimos detalhes.#
+
+ 101: 10:04:55.15 10:04:56.20  Duration 00:00:01.05  18
+Você é estudante?
+
+ 102: 10:04:56.24 10:04:59.18  Duration 00:00:02.19  41
+#Essa audiência
+é uma etapa determinante.#
+
+ 103: 10:04:59.23 10:05:00.24  Duration 00:00:01.01  16
+#Mesmo menores,#
+
+ 104: 10:05:01.03 10:05:03.24  Duration 00:00:02.21  43
+#a inspetora cantonal
+vai esmiuçá-los.#
+
+ 105: 10:05:04.21 10:05:07.08  Duration 00:00:02.12  37
+O que seu pai faz como trabalho?
+
+ 106: 10:05:07.12 10:05:08.13  Duration 00:00:01.01  16
+É gesseiro.
+
+ 107: 10:05:09.08 10:05:12.07  Duration 00:00:02.24  44
+E sua mãe,
+qual é sua atividade profissional?
+
+ 108: 10:05:12.19 10:05:14.04  Duration 00:00:01.10  21
+Faxineira.
+
+ 109: 10:05:15.24 10:05:20.17  Duration 00:00:04.18  71
+Você já enfrentou a polícia
+ou a Justiça, na Suíça?
+
+ 110: 10:05:20.21 10:05:22.03  Duration 00:00:01.07  19
+Não.
+
+ 111: 10:05:22.08 10:05:23.13  Duration 00:00:01.05  18
+Não que eu saiba.
+
+ 112: 10:05:25.07 10:05:27.17  Duration 00:00:02.10  36
+Que relação tem
+com a comunidade albanesa,
+
+ 113: 10:05:27.21 10:05:29.02  Duration 00:00:01.06  19
+kosovar, na Suíça?
+
+ 114: 10:05:29.06 10:05:30.21  Duration 00:00:01.15  24
+Que relações de família.
+
+ 115: 10:05:31.00 10:05:34.05  Duration 00:00:03.05  48
+- Com a comunidade portuguesa?
+- Também.
+
+ 116: 10:05:34.09 10:05:39.04  Duration 00:00:04.20  72
+Você vai a festas
+organizadas por kosovars?
+
+ 117: 10:05:39.08 10:05:40.16  Duration 00:00:01.08  20
+Não.
+
+ 118: 10:05:40.21 10:05:45.12  Duration 00:00:04.16  70
+Quais são suas motivações
+para esse pedido de naturalização?
+
+ 119: 10:05:46.09 10:05:48.03  Duration 00:00:01.19  26
+Por que você quer ser suíço?
+
+ 120: 10:05:48.07 10:05:52.00  Duration 00:00:03.18  56
+Porque é um país extraordinário,
+para mim.
+
+ 121: 10:05:52.10 10:05:55.07  Duration 00:00:02.22  43
+Por princípio,
+e também por identidade,
+
+ 122: 10:05:55.11 10:05:58.24  Duration 00:00:03.13  53
+já que somos mais suíços,
+#fribourgeois,# que portugueses.
+
+ 123: 10:05:59.15 10:06:02.18  Duration 00:00:03.03  47
+Quais serão seus direitos
+e seus deveres,
+
+ 124: 10:06:02.22 10:06:04.07  Duration 00:00:01.10  21
+quando você for suíço?
+
+ 125: 10:06:04.12 10:06:07.01  Duration 00:00:02.14  38
+Os direitos de voto, de eleição,
+
+ 126: 10:06:07.05 10:06:10.21  Duration 00:00:03.16  55
+de elegibilidade,
+de iniciativa e de referendo.
+
+ 127: 10:06:11.09 10:06:14.16  Duration 00:00:03.07  49
+#Até aqui, as perguntas
+foram bem factuais.#
+
+ 128: 10:06:14.20 10:06:17.20  Duration 00:00:03.00  45
+#Mas depois, a inspetora
+mistura os gêneros.#
+
+ 129: 10:06:17.24 10:06:20.24  Duration 00:00:03.00  45
+#Os candidatos não serão poupados
+de quase nada.#
+
+ 130: 10:06:21.03 10:06:22.23  Duration 00:00:01.20  27
+É membro de uma associação,
+
+ 131: 10:06:23.14 10:06:25.12  Duration 00:00:01.23  29
+comunidade cultural
+ou religiosa,
+
+ 132: 10:06:25.17 10:06:28.02  Duration 00:00:02.10  36
+de um clube ou de uma sociedade
+na Suíça?
+
+ 133: 10:06:29.10 10:06:30.05  Duration 00:00:00.20  12
+Não.
+
+ 134: 10:06:30.18 10:06:34.06  Duration 00:00:03.13  53
+Quais são seus lazeres,
+suas atividades fora do colégio?
+
+ 135: 10:06:34.11 10:06:36.03  Duration 00:00:01.17  25
+Gosto muito de ler.
+
+ 136: 10:06:36.20 10:06:39.18  Duration 00:00:02.23  44
+- O que está lendo atualmente?
+- #Into the wild.#
+
+ 137: 10:06:40.17 10:06:42.20  Duration 00:00:02.03  32
+Recomendo o filme.
+
+ 138: 10:06:44.07 10:06:46.17  Duration 00:00:02.10  36
+Certo.
+Seguro saúde?
+
+ 139: 10:06:48.18 10:06:51.03  Duration 00:00:02.10  36
+Eu... Qual é a pergunta?
+
+ 140: 10:06:51.07 10:06:53.17  Duration 00:00:02.10  36
+A que seguro saúde você é afiliado?
+
+ 141: 10:06:54.23 10:06:56.03  Duration 00:00:01.05  18
+Não sei dizer.
+
+ 142: 10:06:56.24 10:06:58.19  Duration 00:00:01.20  27
+O que é um# armailli#?
+
+ 143: 10:07:02.01 10:07:03.18  Duration 00:00:01.17  25
+"Armailli"?
+
+ 144: 10:07:03.23 10:07:06.03  Duration 00:00:02.05  33
+Saberia citar fatos recentes?
+
+ 145: 10:07:06.07 10:07:08.20  Duration 00:00:02.13  38
+- Em política ou geral?
+- Geral.
+
+ 146: 10:07:08.24 10:07:12.18  Duration 00:00:03.19  56
+Você acompanha um pouco
+o que acontece na Suíça e no mundo?
+
+ 147: 10:07:12.22 10:07:14.04  Duration 00:00:01.07  19
+Sim, um pouco.
+
+ 148: 10:07:14.09 10:07:17.05  Duration 00:00:02.21  43
+- A que horas é o jornal da TV?
+- 19h30.
+
+ 149: 10:07:17.10 10:07:20.24  Duration 00:00:03.14  53
+Sabe quantos distritos
+tem em Fribourg?
+
+ 150: 10:07:21.03 10:07:21.23  Duration 00:00:00.20  12
+7.
+
+ 151: 10:07:22.03 10:07:24.18  Duration 00:00:02.15  39
+Que festival acontece todo ano
+em Montreux?
+
+ 152: 10:07:24.22 10:07:26.04  Duration 00:00:01.07  19
+Montreux Jazz Festival.
+
+ 153: 10:07:26.08 10:07:28.13  Duration 00:00:02.05  33
+O que é Les Georges,
+em Fribourg?
+
+ 154: 10:07:28.17 10:07:31.03  Duration 00:00:02.11  37
+Um festival de música
+na Praça Python.
+
+ 155: 10:07:31.08 10:07:33.23  Duration 00:00:02.15  39
+Quem mora em Gruyère é um...?
+
+ 156: 10:07:34.02 10:07:35.22  Duration 00:00:01.20  27
+- Um Gruyérien.
+- Está certo.
+
+ 157: 10:07:39.15 10:07:40.14  Duration 00:00:00.24  14
+Certo.
+
+ 158: 10:07:40.18 10:07:43.18  Duration 00:00:03.00  45
+Em que circunstâncias
+você se sente# fribourgeois#?
+
+ 159: 10:07:43.22 10:07:45.04  Duration 00:00:01.07  19
+Como assim?
+
+ 160: 10:07:45.24 10:07:47.11  Duration 00:00:01.12  22
+Em que circunstâncias,
+
+ 161: 10:07:47.15 10:07:49.13  Duration 00:00:01.23  29
+que eventos,
+você tem consciência
+
+ 162: 10:07:49.17 10:07:52.05  Duration 00:00:02.13  38
+de ser de algum modo
+meio# fribourgeois#?
+
+ 163: 10:07:52.10 10:07:55.03  Duration 00:00:02.18  41
+Eu nunca me sinto
+particularmente# fribourgeois,#
+
+ 164: 10:07:55.07 10:07:58.14  Duration 00:00:03.07  49
+em relação a outra coisa.
+- OK.
+
+ 165: 10:07:59.18 10:08:01.08  Duration 00:00:01.15  24
+Na verdade, é natural.
+
+ 166: 10:08:01.13 10:08:04.03  Duration 00:00:02.15  39
+A Suíça faz parte da ONU?
+
+ 167: 10:08:07.18 10:08:09.03  Duration 00:00:01.10  21
+Sim.
+
+ 168: 10:08:10.09 10:08:12.02  Duration 00:00:01.18  26
+O que é uma# cuchaule#?
+
+ 169: 10:08:12.07 10:08:14.22  Duration 00:00:02.15  39
+Quem é o Père Fouettard?
+
+ 170: 10:08:15.01 10:08:18.22  Duration 00:00:03.21  58
+O companheiro, por assim dizer,
+de São Nicolau.
+
+ 171: 10:08:19.02 10:08:20.10  Duration 00:00:01.08  20
+A# cuchaule#...
+
+ 172: 10:08:25.03 10:08:26.23  Duration 00:00:01.20  27
+Como ela é?
+
+ 173: 10:08:29.19 10:08:33.00  Duration 00:00:03.06  49
+Acho que tem principalmente carne.
+
+ 174: 10:08:33.13 10:08:35.07  Duration 00:00:01.19  26
+- O que é um Bolze?
+- Como?
+
+ 175: 10:08:35.11 10:08:37.03  Duration 00:00:01.17  25
+O que é um Bolze?
+
+ 176: 10:08:37.07 10:08:39.17  Duration 00:00:02.10  36
+Uma pessoa que fala# bolze,#
+eu acho.
+
+ 177: 10:08:40.23 10:08:43.20  Duration 00:00:02.22  43
+Que projetos privados
+e profissionais você tem?
+
+ 178: 10:08:43.24 10:08:46.13  Duration 00:00:02.14  38
+Quero continuar meus estudos
+na EPFL.
+
+ 179: 10:08:46.18 10:08:49.12  Duration 00:00:02.19  41
+Muito bem.
+Vamos à última parte da entrevista.
+
+ 180: 10:08:51.05 10:08:54.05  Duration 00:00:03.00  45
+Quais são os sinais
+de uma boa integração?
+
+ 181: 10:08:55.09 10:08:57.24  Duration 00:00:02.15  39
+Tudo depende da definição
+de "integração".
+
+ 182: 10:08:58.03 10:09:00.16  Duration 00:00:02.13  38
+Sua definição,
+sua visão da integração.
+
+ 183: 10:09:00.21 10:09:03.03  Duration 00:00:02.07  34
+#A lei federal estabelece uma base,#
+
+ 184: 10:09:03.07 10:09:06.09  Duration 00:00:03.02  46
+#mas as perguntas,
+entre folclore e seguro saúde,#
+
+ 185: 10:09:06.14 10:09:08.24  Duration 00:00:02.10  36
+#são da alçada dos cantões
+e dos inspetores.#
+
+ 186: 10:09:09.03 10:09:11.19  Duration 00:00:02.16  40
+#A nova lei permitirá
+que entrevistem até crianças#
+
+ 187: 10:09:11.23 10:09:13.01  Duration 00:00:01.03  17
+#a partir de 12 anos.#
+
+ 188: 10:09:13.05 10:09:16.16  Duration 00:00:03.11  52
+O que você tenta verificar
+com essas perguntas?
+
+ 189: 10:09:16.20 10:09:18.22  Duration 00:00:02.02  31
+Não tenho objetivo preciso.
+
+ 190: 10:09:19.02 10:09:20.21  Duration 00:00:01.19  26
+É só ressaltar
+
+ 191: 10:09:21.00 10:09:23.16  Duration 00:00:02.16  40
+os conhecimentos da pessoa.
+
+ 192: 10:09:23.20 10:09:26.07  Duration 00:00:02.12  37
+Ou seja, no fim das contas,
+é a pessoa
+
+ 193: 10:09:26.11 10:09:28.22  Duration 00:00:02.11  37
+que inspira
+a evolução da entrevista.
+
+ 194: 10:09:29.01 10:09:31.13  Duration 00:00:02.12  37
+São seus conhecimentos,
+seu percurso.
+
+ 195: 10:09:32.08 10:09:37.00  Duration 00:00:04.17  70
+Você procura determinar
+se a pessoa é integrada ou não?
+
+ 196: 10:09:37.04 10:09:41.18  Duration 00:00:04.14  68
+As respostas que ela dará
+às perguntas são a prova.
+
+ 197: 10:09:41.22 10:09:44.24  Duration 00:00:03.02  46
+Prova se está integrado ou não.
+
+ 198: 10:09:45.03 10:09:45.23  Duration 00:00:00.20  12
+Tipo o quê?
+
+ 199: 10:09:46.02 10:09:50.08  Duration 00:00:04.06  64
+Pode dar um exemplo
+que lhe permite determinar isso?
+
+ 200: 10:09:52.07 10:09:55.13  Duration 00:00:03.06  49
+Alguém que mora em Gruyère
+que nunca comeu uma# cuchaule,#
+
+ 201: 10:09:55.17 10:09:57.21  Duration 00:00:02.04  32
+que não sabe o que é...
+
+ 202: 10:09:59.05 10:10:00.20  Duration 00:00:01.15  24
+Isso me chama atenção.
+
+ 203: 10:10:00.24 10:10:04.09  Duration 00:00:03.10  51
+Não é uma# cuchaule#
+que determina a integração,
+
+ 204: 10:10:04.13 10:10:05.21  Duration 00:00:01.08  20
+mas é um feixe de indícios.
+
+ 205: 10:10:06.00 10:10:08.09  Duration 00:00:02.09  35
+São várias questões
+nesse sentido,
+
+ 206: 10:10:08.14 10:10:11.14  Duration 00:00:03.00  45
+que farão a comissão
+poder determinar a integração.
+
+ 207: 10:10:11.19 10:10:12.23  Duration 00:00:01.04  17
+Sainte Rita
+Calendário 2013
+
+ 208: 10:10:13.02 10:10:14.10  Duration 00:00:01.08  20
+As perguntas são
+
+ 209: 10:10:14.15 10:10:16.23  Duration 00:00:02.08  35
+uma preparação
+para o que acontecerá na comuna.
+
+ 210: 10:10:17.02 10:10:19.18  Duration 00:00:02.16  40
+A comuna vai retomar com perguntas,
+
+ 211: 10:10:19.22 10:10:22.15  Duration 00:00:02.18  41
+e como é o mesmo tema,
+
+ 212: 10:10:22.19 10:10:25.13  Duration 00:00:02.19  41
+serão perguntas similares.
+
+ 213: 10:10:29.15 10:10:32.20  Duration 00:00:03.05  48
+#A etapa seguinte
+é a Comissão Comunal.#
+
+ 214: 10:10:32.24 10:10:35.01  Duration 00:00:02.02  31
+#Mas lá, câmera não entra.#
+
+ 215: 10:10:35.05 10:10:39.01  Duration 00:00:03.21  58
+#Razão oficial: nenhum candidato
+aceita nossa presença.#
+
+ 216: 10:10:39.05 10:10:40.15  Duration 00:00:01.10  21
+#Talvez porque em Fribourg#
+
+ 217: 10:10:40.20 10:10:43.19  Duration 00:00:02.24  44
+#os candidatos encarem sozinhos
+11 pessoas.#
+
+ 218: 10:10:43.23 10:10:46.04  Duration 00:00:02.06  34
+#Um time de futebol.#
+
+ 219: 10:10:48.18 10:10:52.06  Duration 00:00:03.13  53
+#Então, tentamos nossa chance
+no cantão de Vaud, em Payerne.#
+
+ 220: 10:10:52.11 10:10:54.16  Duration 00:00:02.05  33
+Prefeitura
+
+ 221: 10:10:54.21 10:10:56.21  Duration 00:00:02.00  30
+- Está estressado?
+- De fato.
+
+ 222: 10:10:57.06 10:11:01.10  Duration 00:00:04.04  62
+Não sei como funciona.
+Eu me preparei, mas...
+
+ 223: 10:11:01.14 10:11:03.07  Duration 00:00:01.18  26
+Mesmo assim tem stress.
+
+ 224: 10:11:04.01 10:11:06.00  Duration 00:00:01.24  29
+Espero que dê tudo certo.
+
+ 225: 10:11:09.21 10:11:11.23  Duration 00:00:02.02  31
+#Aqui, a comissão nos aceita,#
+
+ 226: 10:11:12.02 10:11:14.15  Duration 00:00:02.13  38
+#mas só até a sala de espera.#
+
+ 227: 10:11:14.19 10:11:18.19  Duration 00:00:04.00  60
+#Aqui também, nem pensar
+em nos deixar assistir às audiências.#
+
+ 228: 10:11:21.09 10:11:22.12  Duration 00:00:01.03  17
+#Atrás dessa porta,#
+
+ 229: 10:11:22.16 10:11:25.05  Duration 00:00:02.14  38
+#o candidato encara vereadores#
+
+ 230: 10:11:25.09 10:11:27.07  Duration 00:00:01.23  29
+#que se voluntariaram.#
+
+ 231: 10:11:27.11 10:11:29.14  Duration 00:00:02.03  32
+#Alguns aceitam falar conosco.#
+
+ 232: 10:11:33.04 10:11:35.15  Duration 00:00:02.11  37
+Vocês são
+como fazedores de suíços?
+
+ 233: 10:11:35.19 10:11:39.07  Duration 00:00:03.13  53
+Vocês levam seu papel a sério,
+aqui na comissão?
+
+ 234: 10:11:40.02 10:11:43.23  Duration 00:00:03.21  58
+Não somos "fazedores de suíços"
+ou salvadores de suíços.
+
+ 235: 10:11:44.17 10:11:47.10  Duration 00:00:02.18  41
+Acho que é importante
+conhecer o meio
+
+ 236: 10:11:47.14 10:11:49.04  Duration 00:00:01.15  24
+onde moramos.
+
+ 237: 10:11:49.08 10:11:50.24  Duration 00:00:01.16  25
+É importante saber
+
+ 238: 10:11:51.04 10:11:53.09  Duration 00:00:02.05  33
+que o Lago de Neuchâtel
+está perto.
+
+ 239: 10:11:53.14 10:11:56.04  Duration 00:00:02.15  39
+Mas se alguém não sabe citar
+o Lago de Bienne,
+
+ 240: 10:11:56.08 10:11:59.07  Duration 00:00:02.24  44
+não vamos mandá-lo voltar
+para uma 2ª audiência
+
+ 241: 10:11:59.11 10:12:00.18  Duration 00:00:01.07  19
+por causa disso.
+
+ 242: 10:12:00.22 10:12:02.10  Duration 00:00:01.13  23
+Os critérios
+são ponderados.
+
+ 243: 10:12:02.15 10:12:03.19  Duration 00:00:01.04  17
+O papel da comissão
+
+ 244: 10:12:03.23 10:12:05.11  Duration 00:00:01.13  23
+não é,
+
+ 245: 10:12:05.15 10:12:08.24  Duration 00:00:03.09  50
+enfim, a meu ver,
+perguntar como se faz fondue.
+
+ 246: 10:12:09.04 10:12:10.07  Duration 00:00:01.03  17
+É difícil...
+
+ 247: 10:12:10.11 10:12:13.14  Duration 00:00:03.03  47
+Vocês perguntam
+as especialidades culinárias?
+
+ 248: 10:12:13.19 10:12:15.07  Duration 00:00:01.13  23
+Sim, da região.
+
+ 249: 10:12:15.11 10:12:16.11  Duration 00:00:01.00  15
+Se a pessoa...
+
+ 250: 10:12:16.15 10:12:19.16  Duration 00:00:03.01  46
+Em Payerne, todos provaram
+o# gâteau payernois.#
+
+ 251: 10:12:19.20 10:12:22.05  Duration 00:00:02.10  36
+Mais uma vez,
+não é eliminatório
+
+ 252: 10:12:22.09 10:12:24.14  Duration 00:00:02.05  33
+se a pessoa nunca comeu isso.
+
+ 253: 10:12:24.18 10:12:26.18  Duration 00:00:02.00  30
+É mais para ver
+se tem interesse
+
+ 254: 10:12:26.22 10:12:28.23  Duration 00:00:02.01  31
+na culinária de uma região.
+
+ 255: 10:12:29.03 10:12:32.04  Duration 00:00:03.01  46
+As reprovações
+são no nível de conhecimentos?
+
+ 256: 10:12:32.08 10:12:34.00  Duration 00:00:01.17  25
+Se a pessoa diz que mora
+
+ 257: 10:12:34.04 10:12:35.17  Duration 00:00:01.13  23
+em Payerne há 8 anos,
+
+ 258: 10:12:35.21 10:12:37.09  Duration 00:00:01.13  23
+perguntamos
+o nome dos lugarejos
+
+ 259: 10:12:37.13 10:12:39.13  Duration 00:00:02.00  30
+e ela não sabe.
+
+ 260: 10:12:39.17 10:12:41.13  Duration 00:00:01.21  28
+É isso.
+Depois damos uma chance
+
+ 261: 10:12:41.17 10:12:44.08  Duration 00:00:02.16  40
+com nome de vilarejo
+e se também não sabe...
+
+ 262: 10:12:44.12 10:12:47.11  Duration 00:00:02.24  44
+Se ela não sabe que o rio em Payerne
+é o Broye...
+
+ 263: 10:12:47.15 10:12:50.11  Duration 00:00:02.21  43
+Se são um pouco integrados,
+deveriam saber isso.
+
+ 264: 10:12:50.15 10:12:52.20  Duration 00:00:02.05  33
+Infelizmente é motivo de recusa.
+
+ 265: 10:12:53.00 10:12:54.22  Duration 00:00:01.22  28
+A comuna deve decidir,
+
+ 266: 10:12:55.01 10:12:58.21  Duration 00:00:03.20  57
+já que é ela que está
+mais próxima dos cidadãos.
+
+ 267: 10:12:59.00 10:13:01.21  Duration 00:00:02.21  43
+No nível cantonal,
+e até da Confederação depois,
+
+ 268: 10:13:02.00 10:13:04.03  Duration 00:00:02.03  32
+já que eles decidem por último,
+
+ 269: 10:13:04.07 10:13:06.00  Duration 00:00:01.18  26
+não há laços com o cidadão.
+
+ 270: 10:13:06.04 10:13:08.13  Duration 00:00:02.09  35
+Só a comuna tem uma ligação
+
+ 271: 10:13:08.17 10:13:10.24  Duration 00:00:02.07  34
+para julgar
+o critério de integração.
+
+ 272: 10:13:11.03 10:13:14.01  Duration 00:00:02.23  44
+Entre vocês,
+alguns são mais severos?
+
+ 273: 10:13:15.08 10:13:18.12  Duration 00:00:03.04  47
+Como em toda comissão,
+somos vários membros,
+
+ 274: 10:13:18.16 10:13:20.14  Duration 00:00:01.23  29
+cada um com sua opinião.
+
+ 275: 10:13:20.18 10:13:24.02  Duration 00:00:03.09  50
+Depois discutimos
+e sempre conseguimos chegar
+
+ 276: 10:13:24.06 10:13:27.10  Duration 00:00:03.04  47
+a um consenso suíço, finalmente.
+
+ 277: 10:13:28.23 10:13:31.16  Duration 00:00:02.18  41
+#Os candidatos
+não são oficialmente reprovados.#
+
+ 278: 10:13:31.20 10:13:34.21  Duration 00:00:03.01  46
+#Seu pedido é suspenso,
+e são convidados a voltar.#
+
+ 279: 10:13:35.01 10:13:37.05  Duration 00:00:02.04  32
+Isso. Há 3 regiões naturais.
+
+ 280: 10:13:37.09 10:13:38.07  Duration 00:00:00.23  14
+#Todo ano,#
+
+ 281: 10:13:38.11 10:13:41.05  Duration 00:00:02.19  41
+#uma média de 1 em cada 5
+sai na 1ª audiência.#
+
+ 282: 10:13:42.00 10:13:43.15  Duration 00:00:01.15  24
+Caros participantes,
+
+ 283: 10:13:43.20 10:13:45.10  Duration 00:00:01.15  24
+vamos ficar por aqui.
+
+ 284: 10:13:45.14 10:13:48.20  Duration 00:00:03.06  49
+Esse é o trabalho com a avaliação.
+
+ 285: 10:13:50.06 10:13:52.00  Duration 00:00:01.19  26
+#Essa taxa de recusa é alta.#
+
+ 286: 10:13:52.04 10:13:54.09  Duration 00:00:02.05  33
+#O município
+apoia-se em voluntários#
+
+ 287: 10:13:54.13 10:13:56.16  Duration 00:00:02.03  32
+#para dar um curso de 16 horas#
+
+ 288: 10:13:56.20 10:13:58.09  Duration 00:00:01.14  23
+#que virou indispensável.#
+
+ 289: 10:13:58.22 10:14:00.07  Duration 00:00:01.10  21
+É verdade que devemos
+
+ 290: 10:14:00.11 10:14:04.15  Duration 00:00:04.04  62
+ser mais atentos à integração,
+
+ 291: 10:14:04.19 10:14:07.03  Duration 00:00:02.09  35
+ao modo de vida das pessoas.
+
+ 292: 10:14:08.24 10:14:12.22  Duration 00:00:03.23  59
+Você pôde assistir a uma audiência.
+O que achou dela?
+
+ 293: 10:14:13.01 10:14:15.23  Duration 00:00:02.22  43
+Sinceramente, achei que foi...
+
+ 294: 10:14:16.02 10:14:16.23  Duration 00:00:00.21  13
+É terrível...
+
+ 295: 10:14:18.04 10:14:22.01  Duration 00:00:03.22  58
+para o candidato, essa pressão,
+
+ 296: 10:14:22.15 10:14:26.18  Duration 00:00:04.03  62
+esse stress,
+diante dessas pessoas todas...
+
+ 297: 10:14:26.23 10:14:28.24  Duration 00:00:02.01  31
+Se não estiver bem preparado,
+
+ 298: 10:14:29.03 10:14:33.18  Duration 00:00:04.15  69
+acho que as respostas
+serão bem difíceis.
+
+ 299: 10:14:33.23 10:14:36.04  Duration 00:00:02.06  34
+É preciso perguntas interessantes,
+
+ 300: 10:14:36.08 10:14:39.01  Duration 00:00:02.18  41
+nem sempre as mesmas.
+
+ 301: 10:14:39.05 10:14:41.19  Duration 00:00:02.14  38
+Dizem:
+"Esse aí não sabe muita coisa.
+
+ 302: 10:14:41.23 10:14:44.09  Duration 00:00:02.11  37
+"Tac! É recusado."
+
+ 303: 10:14:44.13 10:14:47.14  Duration 00:00:03.01  46
+É um método meio bárbaro
+
+ 304: 10:14:47.18 10:14:49.04  Duration 00:00:01.11  22
+para recusar pessoas.
+
+ 305: 10:14:51.05 10:14:55.08  Duration 00:00:04.03  62
+#É em Lausanne que encontramos
+uma recém-reprovada: Célia.#
+
+ 306: 10:14:55.20 10:14:58.10  Duration 00:00:02.15  39
+#e no entanto,
+ela tinha tudo para passar.#
+
+ 307: 10:14:58.14 10:15:00.01  Duration 00:00:01.12  22
+#De origem francesa,#
+
+ 308: 10:15:00.06 10:15:03.12  Duration 00:00:03.06  49
+#essa jovem de 28 anos
+chegou a Nyon com 17 anos.#
+
+ 309: 10:15:03.16 10:15:05.19  Duration 00:00:02.03  32
+#A audiência
+deveria ser uma formalidade,#
+
+ 310: 10:15:05.23 10:15:09.04  Duration 00:00:03.06  49
+#a conclusão de um processo
+até então sem problemas.#
+
+ 311: 10:15:09.08 10:15:12.13  Duration 00:00:03.05  48
+#Mas em Nyon, diante da comissão,
+tudo deu errado.#
+
+ 312: 10:15:13.09 10:15:15.05  Duration 00:00:01.21  28
+#Por medo de represálias,#
+
+ 313: 10:15:15.09 10:15:17.21  Duration 00:00:02.12  37
+#ela prefere testemunhar
+anonimamente.#
+
+ 314: 10:15:20.24 10:15:22.23  Duration 00:00:01.24  29
+Entramos numa sala onde estão
+
+ 315: 10:15:23.02 10:15:26.23  Duration 00:00:03.21  58
+6 ou 7 pessoas.
+Ninguém nos previne sobre isso,
+
+ 316: 10:15:27.02 10:15:29.02  Duration 00:00:02.00  30
+então a pressão já aumenta.
+
+ 317: 10:15:29.06 10:15:32.10  Duration 00:00:03.04  47
+E acima de tudo,
+eu não esperava ser examinada.
+
+ 318: 10:15:32.15 10:15:35.07  Duration 00:00:02.17  40
+Como mencionei,
+eu esperava uma entrevista
+
+ 319: 10:15:35.12 10:15:38.03  Duration 00:00:02.16  40
+para medir minha integração.
+
+ 320: 10:15:38.07 10:15:40.17  Duration 00:00:02.10  36
+Só que eu me vi num prova oral.
+
+ 321: 10:15:41.23 10:15:45.13  Duration 00:00:03.15  54
+#Após algumas verificações
+factuais sobre sua trajetória#
+
+ 322: 10:15:45.18 10:15:47.02  Duration 00:00:01.09  20
+#e raras questões cívicas,#
+
+ 323: 10:15:47.06 10:15:50.00  Duration 00:00:02.19  41
+#as perguntas
+são cada vez mais sobre Nyon.#
+
+ 324: 10:15:50.04 10:15:52.10  Duration 00:00:02.06  34
+Quais são os 3 rios
+que correm em Nyon?
+
+ 325: 10:15:52.14 10:15:55.09  Duration 00:00:02.20  42
+Consegui citar um.
+
+ 326: 10:15:55.13 10:15:59.01  Duration 00:00:03.13  53
+E aí veio a pergunta
+que mais me surpreendeu:
+
+ 327: 10:15:59.05 10:16:02.06  Duration 00:00:03.01  46
+a descrição da bandeira de Nyon.
+
+ 328: 10:16:02.10 10:16:05.11  Duration 00:00:03.01  46
+Respondi que era vermelha e azul
+com uma perca no meio.
+
+ 329: 10:16:05.15 10:16:08.08  Duration 00:00:02.18  41
+E aí, me dizem
+que era insuficiente,
+
+ 330: 10:16:08.13 10:16:09.17  Duration 00:00:01.04  17
+como resposta,
+
+ 331: 10:16:09.21 10:16:12.02  Duration 00:00:02.06  34
+e queriam saber
+para que lado ela nada.
+
+ 332: 10:16:12.18 10:16:14.05  Duration 00:00:01.12  22
+E muito antipaticamente,
+
+ 333: 10:16:14.09 10:16:16.16  Duration 00:00:02.07  34
+como se eu fosse a maior idiota
+
+ 334: 10:16:16.20 10:16:18.19  Duration 00:00:01.24  29
+por não saber responder,
+
+ 335: 10:16:18.23 10:16:22.20  Duration 00:00:03.22  58
+que a perca nada
+da esquerda para a direita,
+
+ 336: 10:16:22.24 10:16:26.03  Duration 00:00:03.04  47
+que a cauda está no azul
+e a cabeça no vermelho,
+
+ 337: 10:16:26.07 10:16:28.19  Duration 00:00:02.12  37
+porque ela pula do lago
+para a frigideira.
+
+ 338: 10:16:30.01 10:16:32.16  Duration 00:00:02.15  39
+Somos estudantes
+diante de um professor.
+
+ 339: 10:16:32.20 10:16:35.17  Duration 00:00:02.22  43
+Não somos um futuro suíço
+perante suíços
+
+ 340: 10:16:35.21 10:16:36.21  Duration 00:00:01.00  15
+interessados em nós.
+
+ 341: 10:16:37.14 10:16:40.13  Duration 00:00:02.24  44
+#Algumas semanas depois,
+ela recebe a recusa.#
+
+ 342: 10:16:40.17 10:16:42.12  Duration 00:00:01.20  27
+#"Nós nos demos conta#
+
+ 343: 10:16:42.16 10:16:45.03  Duration 00:00:02.12  37
+#"que seus conhecimentos históricos,
+geográficos,#
+
+ 344: 10:16:45.07 10:16:47.22  Duration 00:00:02.15  39
+#"e sobre as instituições
+políticas do país#
+
+ 345: 10:16:48.01 10:16:50.01  Duration 00:00:02.00  30
+#"são infelizmente
+insuficientes."#
+
+ 346: 10:16:50.10 10:16:52.01  Duration 00:00:01.16  25
+Em nome do Município de Nyon
+
+ 347: 10:16:52.05 10:16:53.06  Duration 00:00:01.01  16
+Eu chorei,
+
+ 348: 10:16:53.11 10:16:55.13  Duration 00:00:02.02  31
+porque me senti rejeitada.
+
+ 349: 10:16:55.17 10:16:58.02  Duration 00:00:02.10  36
+Também nos habituamos
+a ouvir dos amigos:
+
+ 350: 10:16:58.06 10:17:00.03  Duration 00:00:01.22  28
+"Mas é claro.
+
+ 351: 10:17:00.07 10:17:04.24  Duration 00:00:04.17  70
+"Vai dar certo. Você está aqui.
+Sua vida está estabelecida aqui,
+
+ 352: 10:17:05.03 10:17:07.18  Duration 00:00:02.15  39
+"você sempre trabalhou
+em empresas suíças.
+
+ 353: 10:17:07.23 10:17:11.06  Duration 00:00:03.08  50
+"Você se envolve na cultura,
+não há razão para que..."
+
+ 354: 10:17:11.11 10:17:13.24  Duration 00:00:02.13  38
+Mas há.
+Fico sabendo que não sou digna
+
+ 355: 10:17:14.04 10:17:15.01  Duration 00:00:00.22  13
+de estar aqui.
+
+ 356: 10:17:15.05 10:17:17.02  Duration 00:00:01.22  28
+Que aceitam minha habilitação,
+
+ 357: 10:17:17.07 10:17:20.02  Duration 00:00:02.20  42
+mas daí a virar suíça,
+é outra história,
+
+ 358: 10:17:20.06 10:17:21.20  Duration 00:00:01.14  23
+e ainda não é para mim.
+
+ 359: 10:17:23.01 10:17:26.11  Duration 00:00:03.10  51
+#Em Nyon, outra recusa
+causou polêmica.#
+
+ 360: 10:17:26.16 10:17:27.23  Duration 00:00:01.07  19
+#Um casal viveu#
+
+ 361: 10:17:28.02 10:17:29.14  Duration 00:00:01.12  22
+#um calvário na comissão.#
+
+ 362: 10:17:30.06 10:17:31.17  Duration 00:00:01.11  22
+#mesmo se, com 3 filhos,#
+
+ 363: 10:17:31.21 10:17:34.14  Duration 00:00:02.18  41
+#os Scanio estão bem integrados
+na vida local.#
+
+ 364: 10:17:34.18 10:17:36.01  Duration 00:00:01.08  20
+#Salvatore
+nasceu em Genebra,#
+
+ 365: 10:17:36.06 10:17:38.22  Duration 00:00:02.16  40
+#sua mulher Antonia
+está aqui há 18 anos.#
+
+ 366: 10:17:39.01 10:17:41.08  Duration 00:00:02.07  34
+#O caso deles
+foi manchete de jornal.#
+
+ 367: 10:17:41.12 10:17:44.01  Duration 00:00:02.14  38
+#Comoveu até
+o presidente da Confederação.#
+
+ 368: 10:17:46.01 10:17:48.19  Duration 00:00:02.18  41
+"Quis escrever-lhes para dizer
+
+ 369: 10:17:48.23 10:17:51.14  Duration 00:00:02.16  40
+"que me comovi com a situação
+que estão vivendo
+
+ 370: 10:17:51.18 10:17:53.16  Duration 00:00:01.23  29
+"no processo
+de naturalização.
+
+ 371: 10:17:53.21 10:17:56.19  Duration 00:00:02.23  44
+"Certamente não me pronunciarei
+sobre o processo
+
+ 372: 10:17:56.23 10:17:59.12  Duration 00:00:02.14  38
+"nem sobre a maneira
+com que é aplicado,
+
+ 373: 10:17:59.16 10:18:02.15  Duration 00:00:02.24  44
+"pois não estou a par
+de todos os fatos.
+
+ 374: 10:18:02.20 10:18:05.04  Duration 00:00:02.09  35
+"Meu recado é simplesmente
+que espero
+
+ 375: 10:18:05.08 10:18:08.03  Duration 00:00:02.20  42
+"que vocês terão o ânimo e a força,
+em família,
+
+ 376: 10:18:08.07 10:18:09.18  Duration 00:00:01.11  22
+"e com seus filhos,
+
+ 377: 10:18:09.22 10:18:13.12  Duration 00:00:03.15  54
+"de superar essa provação
+e persistir.
+
+ 378: 10:18:14.02 10:18:15.01  Duration 00:00:00.24  14
+"Alain Berset."
+
+ 379: 10:18:16.14 10:18:19.01  Duration 00:00:02.12  37
+#Mesmo com a expressão
+de simpatia e apoio#
+
+ 380: 10:18:19.06 10:18:20.08  Duration 00:00:01.02  16
+#do presidente,#
+
+ 381: 10:18:20.12 10:18:22.19  Duration 00:00:02.07  34
+#isso não mudou em nada a situação.#
+
+ 382: 10:18:22.23 10:18:24.11  Duration 00:00:01.13  23
+#Nessa etapa do processo,#
+
+ 383: 10:18:24.15 10:18:27.14  Duration 00:00:02.24  44
+#o poder está nas mãos da comuna.#
+
+ 384: 10:18:28.04 10:18:31.19  Duration 00:00:03.15  54
+#Um encontro de conciliação
+com o prefeito não dá em nada.#
+
+ 385: 10:18:32.08 10:18:34.14  Duration 00:00:02.06  34
+#Daniel Rossellat poderia 
+desautorizar a comissão,#
+
+ 386: 10:18:35.01 10:18:36.11  Duration 00:00:01.10  21
+#mas não o fez.#
+
+ 387: 10:18:38.06 10:18:41.14  Duration 00:00:03.08  50
+#Sempre tão midiático,
+o presidente do Paléo Festival#
+
+ 388: 10:18:41.18 10:18:44.18  Duration 00:00:03.00  45
+#dessa vez recusou
+nossos pedidos de entrevista.#
+
+ 389: 10:18:48.04 10:18:52.00  Duration 00:00:03.21  58
+#Mas o que aconteceu em Nyon
+naquele dia na comissão?#
+
+ 390: 10:18:52.04 10:18:53.03  Duration 00:00:00.24  14
+#Para entender,#
+
+ 391: 10:18:53.08 10:18:55.20  Duration 00:00:02.12  37
+#voltamos a procurar os Scanio.#
+
+ 392: 10:18:57.01 10:18:58.13  Duration 00:00:01.12  22
+Começamos
+
+ 393: 10:18:59.17 10:19:03.12  Duration 00:00:03.20  57
+a audiência pelo municipal que diz:
+
+ 394: 10:19:03.16 10:19:06.00  Duration 00:00:02.09  35
+"É. Genebrense?
+Isso não é bom."
+
+ 395: 10:19:06.24 10:19:08.07  Duration 00:00:01.08  20
+Não encarei mal,
+
+ 396: 10:19:08.12 10:19:11.10  Duration 00:00:02.23  44
+mas você começa a audiência assim.
+
+ 397: 10:19:13.00 10:19:15.07  Duration 00:00:02.07  34
+Eu queria provar meu espírito suíço
+
+ 398: 10:19:15.11 10:19:16.09  Duration 00:00:00.23  14
+pela nossa integração,
+
+ 399: 10:19:16.14 10:19:18.19  Duration 00:00:02.05  33
+pelo nosso estilo de vida,
+
+ 400: 10:19:18.23 10:19:23.00  Duration 00:00:04.02  61
+mas o que eles queriam era
+que respondêssemos como está no guia.
+
+ 401: 10:19:23.04 10:19:26.00  Duration 00:00:02.21  43
+Para eles, esse guia é o graal.
+
+ 402: 10:19:26.04 10:19:28.04  Duration 00:00:02.00  30
+Não somos contra
+
+ 403: 10:19:28.08 10:19:32.08  Duration 00:00:04.00  60
+o fato de haver perguntas
+a que devemos responder,
+
+ 404: 10:19:32.12 10:19:33.13  Duration 00:00:01.01  16
+que sejamos integrados.
+
+ 405: 10:19:33.17 10:19:36.10  Duration 00:00:02.18  41
+Não é isso que questionamos.
+
+ 406: 10:19:36.14 10:19:41.01  Duration 00:00:04.12  67
+O problema foi o comportamento.
+
+ 407: 10:19:41.06 10:19:44.09  Duration 00:00:03.03  47
+A certa altura,
+um membro tacou um guia
+
+ 408: 10:19:44.13 10:19:47.14  Duration 00:00:03.01  46
+me dizendo:
+"A senhora não estudou?"
+
+ 409: 10:19:47.18 10:19:49.17  Duration 00:00:01.24  29
+E as cabeças assentindo,
+
+ 410: 10:19:49.21 10:19:52.16  Duration 00:00:02.20  42
+os olhares
+trocados entre eles...
+
+ 411: 10:19:52.20 10:19:54.04  Duration 00:00:01.09  20
+É humilhante.
+
+ 412: 10:19:54.09 10:19:56.04  Duration 00:00:01.20  27
+É sempre
+o mesmo conselheiro comunal
+
+ 413: 10:19:56.08 10:19:58.03  Duration 00:00:01.20  27
+perseguindo minha esposa,
+e diz:
+
+ 414: 10:19:58.07 10:20:00.03  Duration 00:00:01.21  28
+"Para não ficar por aqui,
+
+ 415: 10:20:00.07 10:20:02.03  Duration 00:00:01.21  28
+"vou fazer
+uma última pergunta.
+
+ 416: 10:20:02.07 10:20:06.13  Duration 00:00:04.06  64
+"Cite algumas pessoas famosas
+suíças, mas atenção
+
+ 417: 10:20:06.17 10:20:08.03  Duration 00:00:01.11  22
+- com o dedo em riste -
+
+ 418: 10:20:08.07 10:20:12.24  Duration 00:00:04.17  70
+"acima de tudo não Roger Federer,
+pois todo mundo o cita."
+
+ 419: 10:20:14.13 10:20:16.23  Duration 00:00:02.10  36
+Eles mostram a você
+que têm o poder.
+
+ 420: 10:20:17.03 10:20:20.13  Duration 00:00:03.10  51
+Eles têm o poder de dizer:
+"Você passa" ou "Não passa."
+
+ 421: 10:20:21.23 10:20:23.08  Duration 00:00:01.10  21
+E brincam com isso.
+
+ 422: 10:20:24.19 10:20:27.19  Duration 00:00:03.00  45
+#Finalmente, o município
+concede a nacionalidade#
+
+ 423: 10:20:27.23 10:20:30.07  Duration 00:00:02.09  35
+#a toda a família, ou quase.#
+
+ 424: 10:20:30.11 10:20:33.19  Duration 00:00:03.08  50
+#Ela não, por conhecimentos
+insuficientes sobre a Suíça.#
+
+ 425: 10:20:33.23 10:20:36.04  Duration 00:00:02.06  34
+#Ela é convidada a tentar de novo.#
+
+ 426: 10:20:36.08 10:20:40.03  Duration 00:00:03.20  57
+#Mas para os Scanio,
+nem pensar em reviver esse pesadelo.#
+
+ 427: 10:20:40.07 10:20:44.14  Duration 00:00:04.07  64
+#Com seu advogado, eles recorreram
+no Tribunal Cantonal.#
+
+ 428: 10:20:46.01 10:20:47.19  Duration 00:00:01.18  26
+Essa foi a única audiência
+
+ 429: 10:20:47.23 10:20:50.20  Duration 00:00:02.22  43
+que correu mal para minha cliente,
+
+ 430: 10:20:50.24 10:20:53.03  Duration 00:00:02.04  32
+e ainda por cima,
+nessa audiência,
+
+ 431: 10:20:53.07 10:20:55.16  Duration 00:00:02.09  35
+a ata foi muito mal feita.
+
+ 432: 10:20:55.20 10:20:58.22  Duration 00:00:03.02  46
+As questões transcritas,
+sobretudo as respostas,
+
+ 433: 10:20:59.01 10:21:00.18  Duration 00:00:01.17  25
+estão incorretas.
+
+ 434: 10:21:00.22 10:21:03.16  Duration 00:00:02.19  41
+Quando perguntam à Sra. Scanio
+
+ 435: 10:21:03.20 10:21:05.20  Duration 00:00:02.00  30
+que idiomas
+são falados na Suíça,
+
+ 436: 10:21:05.24 10:21:07.18  Duration 00:00:01.19  26
+Ela responde: "Italiano,
+
+ 437: 10:21:07.22 10:21:09.16  Duration 00:00:01.19  26
+"francês, alemão
+e romanche."
+
+ 438: 10:21:09.20 10:21:11.05  Duration 00:00:01.10  21
+O que está correto.
+
+ 439: 10:21:11.17 10:21:15.10  Duration 00:00:03.18  56
+E vemos que nessa ata
+adicionam o Plateau e o Jura.
+
+ 440: 10:21:16.00 10:21:18.23  Duration 00:00:02.23  44
+Duvido que a Sra. Scanio
+tenha dado essa resposta.
+
+ 441: 10:21:20.18 10:21:23.17  Duration 00:00:02.24  44
+#O advogado denuncia um documento
+pós-redigido#
+
+ 442: 10:21:23.21 10:21:26.01  Duration 00:00:02.05  33
+#e falta de profissionalismo.#
+
+ 443: 10:21:26.06 10:21:29.03  Duration 00:00:02.22  43
+#Já o município defende
+o relatório da comissão#
+
+ 444: 10:21:29.07 10:21:32.00  Duration 00:00:02.18  41
+#e recusa-se a se pronunciar
+no caso Scanio.#
+
+ 445: 10:21:33.03 10:21:37.01  Duration 00:00:03.23  59
+#Para o advogado, todo esse caso
+revela um mal-estar mais geral.#
+
+ 446: 10:21:37.21 10:21:40.05  Duration 00:00:02.09  35
+Tem esse aspecto muito humilhante,
+
+ 447: 10:21:40.09 10:21:42.14  Duration 00:00:02.05  33
+também na maneira
+de se comportar,
+
+ 448: 10:21:42.18 10:21:45.12  Duration 00:00:02.19  41
+com algumas brincadeiras
+
+ 449: 10:21:45.16 10:21:47.22  Duration 00:00:02.06  34
+que são mais típicas do Vaud,
+
+ 450: 10:21:48.01 10:21:50.24  Duration 00:00:02.23  44
+mas não são compreendidas,
+na audiência,
+
+ 451: 10:21:51.03 10:21:52.24  Duration 00:00:01.21  28
+com todo o stress
+que se pode ter.
+
+ 452: 10:21:53.03 10:21:56.16  Duration 00:00:03.13  53
+E seria bom revermos isso tudo
+
+ 453: 10:21:56.20 10:22:01.20  Duration 00:00:05.00  75
+e que nos comportemos respeitando
+as pessoas que entrevistamos.
+
+ 454: 10:22:03.09 10:22:05.23  Duration 00:00:02.14  38
+#Tratamento desigual,
+pela cara do cliente,#
+
+ 455: 10:22:06.03 10:22:07.08  Duration 00:00:01.05  18
+#injustiça,#
+
+ 456: 10:22:07.12 10:22:11.18  Duration 00:00:04.06  64
+#o sistema das comissões não oferece,
+manifestamente, nenhuma garantia.#
+
+ 457: 10:22:11.22 10:22:13.19  Duration 00:00:01.22  28
+#Em Genebra,
+como na Suíça toda,#
+
+ 458: 10:22:13.23 10:22:17.00  Duration 00:00:03.02  46
+#os comissários comunais
+vão à casa dos candidatos#
+
+ 459: 10:22:17.04 10:22:18.04  Duration 00:00:01.00  15
+#para avaliá-los,#
+
+ 460: 10:22:18.08 10:22:20.21  Duration 00:00:02.13  38
+#sujeitos a grandes deslizes.#
+
+ 461: 10:22:21.00 10:22:22.09  Duration 00:00:01.09  20
+#Uma mãe de família conta#
+
+ 462: 10:22:22.13 10:22:24.23  Duration 00:00:02.10  36
+#sobre a visita de um deles
+anonimamente#
+
+ 463: 10:22:25.02 10:22:26.23  Duration 00:00:01.21  28
+#por medo de represálias.#
+
+ 464: 10:22:27.02 10:22:29.16  Duration 00:00:02.14  38
+Assim que ele bateu
+e abri a porta,
+
+ 465: 10:22:29.20 10:22:31.21  Duration 00:00:02.01  31
+eu tive de cara
+uma má impressão,
+
+ 466: 10:22:32.00 10:22:34.15  Duration 00:00:02.15  39
+já que ele não me chamou
+de “senhora”,
+
+ 467: 10:22:34.20 10:22:37.07  Duration 00:00:02.12  37
+o que não acho muito normal.
+
+ 468: 10:22:37.11 10:22:41.03  Duration 00:00:03.17  55
+- Você estava sozinha em casa?
+- Estava com meu filho.
+
+ 469: 10:22:41.18 10:22:42.13  Duration 00:00:00.20  12
+Bom dia.
+
+ 470: 10:22:42.18 10:22:45.23  Duration 00:00:03.05  48
+Ele começou a tocar em temas
+
+ 471: 10:22:46.03 10:22:47.21  Duration 00:00:01.18  26
+que não me agradaram muito.
+
+ 472: 10:22:48.00 10:22:49.21  Duration 00:00:01.21  28
+Ele era muito racista,
+
+ 473: 10:22:50.01 10:22:51.20  Duration 00:00:01.19  26
+mas eu não ousei falar nada,
+
+ 474: 10:22:51.24 10:22:56.24  Duration 00:00:05.00  75
+porque pensei primeiro
+que era para me testar.
+
+ 475: 10:22:59.22 10:23:03.09  Duration 00:00:03.12  52
+Ele me fez entender
+que minha nacionalidade
+
+ 476: 10:23:03.14 10:23:07.17  Duration 00:00:04.03  62
+dependeria do que eu responderia
+
+ 477: 10:23:07.22 10:23:11.00  Duration 00:00:03.03  47
+ou como reagiria
+ao que ele me dissesse.
+
+ 478: 10:23:11.04 10:23:13.12  Duration 00:00:02.08  35
+Comecei a ficar com medo,
+
+ 479: 10:23:13.16 10:23:17.09  Duration 00:00:03.18  56
+porque eu já tinha pagado
+
+ 480: 10:23:17.14 10:23:18.10  Duration 00:00:00.21  13
+muito dinheiro,
+
+ 481: 10:23:18.14 10:23:21.24  Duration 00:00:03.10  51
+cumpri quase 2 anos de processo,
+
+ 482: 10:23:22.04 10:23:25.14  Duration 00:00:03.10  51
+então era bom
+eu ser gentil e agradável.
+
+ 483: 10:23:25.18 10:23:27.22  Duration 00:00:02.04  32
+Ele disse
+que seu parecer era decisivo?
+
+ 484: 10:23:28.01 10:23:29.19  Duration 00:00:01.18  26
+Sim. Desde o começo.
+
+ 485: 10:23:30.08 10:23:32.08  Duration 00:00:02.00  30
+Ele também disse ao meu filho:
+
+ 486: 10:23:32.12 10:23:34.15  Duration 00:00:02.03  32
+"Para você, tudo bem.
+Você, veremos."
+
+ 487: 10:23:36.00 10:23:39.10  Duration 00:00:03.10  51
+#Na verdade, o comissário
+se atribui um poder que não tem,#
+
+ 488: 10:23:39.14 10:23:42.09  Duration 00:00:02.20  42
+#pois sua visita ocorre
+no final do processo.#
+
+ 489: 10:23:42.13 10:23:45.19  Duration 00:00:03.06  49
+#Seu parecer
+deve ser puramente consultivo.#
+
+ 490: 10:23:45.23 10:23:47.06  Duration 00:00:01.08  20
+Não foi nada agradável.
+
+ 491: 10:23:47.10 10:23:50.20  Duration 00:00:03.10  51
+Eu disse à minha filha
+que fosse para o quarto.
+
+ 492: 10:23:52.14 10:23:55.07  Duration 00:00:02.18  41
+Disse a ele:
+"Deseja beber algo?"
+
+ 493: 10:23:55.20 10:23:57.08  Duration 00:00:01.13  23
+Ele me pediu uma bebida.
+
+ 494: 10:23:57.12 10:23:58.09  Duration 00:00:00.22  13
+Imagens ilustrativas
+
+ 495: 10:23:58.13 10:24:00.16  Duration 00:00:02.03  32
+#Ele propôs brindarmos.#
+
+ 496: 10:24:00.20 10:24:02.13  Duration 00:00:01.18  26
+#O desconforto aumenta.#
+
+ 497: 10:24:04.08 10:24:07.22  Duration 00:00:03.14  53
+Não tenho o hábito de beber
+no meio da tarde.
+
+ 498: 10:24:08.17 10:24:10.19  Duration 00:00:02.02  31
+Eu não me senti nada bem.
+
+ 499: 10:24:13.00 10:24:15.02  Duration 00:00:02.02  31
+Isso continuou durante horas.
+
+ 500: 10:24:15.06 10:24:17.06  Duration 00:00:02.00  30
+- Quantas horas?
+- Umas 3 horas.
+
+ 501: 10:24:19.00 10:24:21.21  Duration 00:00:02.21  43
+Ele deu em cima de você
+em algum momento?
+
+ 502: 10:24:22.00 10:24:24.18  Duration 00:00:02.18  41
+Sim. Fiquei muito,
+mas muito desconfortável.
+
+ 503: 10:24:25.17 10:24:27.20  Duration 00:00:02.03  32
+Então eu fingia não entender.
+
+ 504: 10:24:28.11 10:24:30.14  Duration 00:00:02.03  32
+Acha que ele sabia
+que mora sozinha?
+
+ 505: 10:24:30.18 10:24:33.12  Duration 00:00:02.19  41
+Sim, porque está escrito
+no meu dossiê.
+
+ 506: 10:24:35.07 10:24:37.18  Duration 00:00:02.11  37
+Depois de 3 horas,
+acho que ele entendeu
+
+ 507: 10:24:37.22 10:24:41.22  Duration 00:00:04.00  60
+que não havia jeito.
+
+ 508: 10:24:42.12 10:24:43.10  Duration 00:00:00.23  14
+Ele levantou.
+
+ 509: 10:24:43.14 10:24:45.24  Duration 00:00:02.10  36
+Chamei minha filha
+para se despedir.
+
+ 510: 10:24:47.14 10:24:48.21  Duration 00:00:01.07  19
+- Até logo.
+- Até logo.
+
+ 511: 10:24:49.00 10:24:49.24  Duration 00:00:00.24  14
+Por que
+
+ 512: 10:24:50.03 10:24:53.03  Duration 00:00:03.00  45
+isso deixou
+essa impressão tão forte em você?
+
+ 513: 10:24:53.16 10:24:56.01  Duration 00:00:02.10  36
+Porque eu não me defendi.
+
+ 514: 10:24:57.21 10:25:01.21  Duration 00:00:04.00  60
+Na verdade,
+eu gostaria de ter dito a ele
+
+ 515: 10:25:02.00 10:25:03.04  Duration 00:00:01.04  17
+o que ele merecia.
+
+ 516: 10:25:03.08 10:25:06.12  Duration 00:00:03.04  47
+Eu não pude dizer,
+e isso me perturba.
+
+ 517: 10:25:07.10 10:25:09.17  Duration 00:00:02.07  34
+Você pensou em denunciar?
+
+ 518: 10:25:09.21 10:25:12.13  Duration 00:00:02.17  40
+Ele nunca passou o limite.
+Entende?
+
+ 519: 10:25:12.17 10:25:13.21  Duration 00:00:01.04  17
+Pelo que ele disse,
+
+ 520: 10:25:14.00 10:25:17.11  Duration 00:00:03.11  52
+ele era uma pessoa supostamente
+bem conhecida em Genebra,
+
+ 521: 10:25:17.15 10:25:19.04  Duration 00:00:01.14  23
+com muita autoridade,
+
+ 522: 10:25:19.08 10:25:21.23  Duration 00:00:02.15  39
+então, eu pensei: "Denúncia...
+
+ 523: 10:25:22.02 10:25:24.13  Duration 00:00:02.11  37
+"É minha palavra contra a dele."
+
+ 524: 10:25:25.03 10:25:27.13  Duration 00:00:02.10  36
+#Nós sabemos
+a identidade do comissário,#
+
+ 525: 10:25:28.02 10:25:30.19  Duration 00:00:02.17  40
+#mas ela pediu
+que não o confrontássemos,#
+
+ 526: 10:25:30.23 10:25:33.00  Duration 00:00:02.02  31
+#apavorada que ele se vingasse.#
+
+ 527: 10:25:34.16 10:25:37.00  Duration 00:00:02.09  35
+#Após uma espera
+excessivamente longa,#
+
+ 528: 10:25:37.04 10:25:39.18  Duration 00:00:02.14  38
+#ela e a filha
+receberam seus passaportes.#
+
+ 529: 10:25:41.08 10:25:42.23  Duration 00:00:01.15  24
+#Esse caso
+não é o primeiro.#
+
+ 530: 10:25:43.02 10:25:45.19  Duration 00:00:02.17  40
+#Em 2013, um vereador da UDC
+abusa de seu poder#
+
+ 531: 10:25:45.23 10:25:47.19  Duration 00:00:01.21  28
+#numa visita à domicílio.#
+
+ 532: 10:25:47.23 10:25:50.09  Duration 00:00:02.11  37
+#Ele assedia uma candidata
+à naturalização#
+
+ 533: 10:25:50.13 10:25:53.11  Duration 00:00:02.23  44
+#e a bombardeia de SMS tendenciosos.#
+
+ 534: 10:25:53.15 10:25:55.04  Duration 00:00:01.14  23
+#O caso acaba na imprensa.#
+
+ 535: 10:25:55.14 10:25:59.11  Duration 00:00:03.22  58
+#Sei partido o expulsa,
+oficialmente por motivos de saúde.#
+
+ 536: 10:25:59.15 10:26:03.18  Duration 00:00:04.03  62
+O tom de seus SMS me chocou.
+Ele me tratava com intimidade.
+
+ 537: 10:26:03.23 10:26:07.05  Duration 00:00:03.07  49
+#À Genebra, em breve isso tudo
+serão águas passadas.#
+
+ 538: 10:26:07.09 10:26:09.15  Duration 00:00:02.06  34
+#Em janeiro,
+o Conselho Municipal decidiu#
+
+ 539: 10:26:09.19 10:26:13.06  Duration 00:00:03.12  52
+#acabar com a comissão
+de naturalização da cidade.#
+
+ 540: 10:26:13.10 10:26:15.12  Duration 00:00:02.02  31
+#Para o autor
+desse voto histórico,#
+
+ 541: 10:26:15.16 10:26:17.10  Duration 00:00:01.19  26
+#as coisas são bem claras.#
+
+ 542: 10:26:18.12 10:26:20.22  Duration 00:00:02.10  36
+É um problema
+enviar um vereador
+
+ 543: 10:26:21.13 10:26:24.19  Duration 00:00:03.06  49
+à casa de uma candidata
+ou candidato à naturalização,
+
+ 544: 10:26:24.23 10:26:26.10  Duration 00:00:01.12  22
+porque não é
+nosso papel.
+
+ 545: 10:26:26.14 10:26:29.08  Duration 00:00:02.19  41
+Não somos policiais,
+não somos inspetores.
+
+ 546: 10:26:29.12 10:26:32.15  Duration 00:00:03.03  47
+Se ainda por cima,
+cair para você um vereador
+
+ 547: 10:26:32.19 10:26:35.18  Duration 00:00:02.24  44
+com pulsões descontroladas
+ou incontroláveis,
+
+ 548: 10:26:35.22 10:26:38.11  Duration 00:00:02.14  38
+e você o enviar a uma candidata,
+
+ 549: 10:26:38.15 10:26:40.10  Duration 00:00:01.20  27
+é lógico que corre um risco.
+
+ 550: 10:26:41.24 10:26:44.03  Duration 00:00:02.04  32
+#O deputado
+tem uma péssima lembrança#
+
+ 551: 10:26:44.08 10:26:47.07  Duration 00:00:02.24  44
+#das sessões de comissões
+que ocorriam nessa sala.#
+
+ 552: 10:26:47.12 10:26:49.12  Duration 00:00:02.00  30
+Tinha comissários
+à naturalização
+
+ 553: 10:26:49.16 10:26:52.04  Duration 00:00:02.13  38
+que não davam por princípio
+parecer favorável
+
+ 554: 10:26:52.09 10:26:53.15  Duration 00:00:01.06  19
+a muçulmanos.
+
+ 555: 10:26:53.19 10:26:57.07  Duration 00:00:03.13  53
+Outros não davam por princípio
+parecer favorável
+
+ 556: 10:26:57.11 10:26:58.08  Duration 00:00:00.22  13
+a homossexuais.
+
+ 557: 10:26:58.12 10:26:59.21  Duration 00:00:01.09  20
+outros não davam
+
+ 558: 10:27:00.00 10:27:02.15  Duration 00:00:02.15  39
+parecer favorável
+a deficientes físicos.
+
+ 559: 10:27:02.19 10:27:03.14  Duration 00:00:00.20  12
+Todas as fantasias,
+
+ 560: 10:27:03.19 10:27:07.16  Duration 00:00:03.22  58
+todos os preconceitos,
+todas as discriminações
+
+ 561: 10:27:07.20 10:27:10.22  Duration 00:00:03.02  46
+circulavam
+numa espécie de cenáculo,
+
+ 562: 10:27:11.01 10:27:15.02  Duration 00:00:04.01  61
+onde, finalmente,
+só servimos para uma coisa,
+
+ 563: 10:27:15.07 10:27:18.20  Duration 00:00:03.13  53
+é para mostrar quem nós somos,
+nós, detentores da “suicitude”
+
+ 564: 10:27:18.24 10:27:22.06  Duration 00:00:03.07  49
+e que concedemos desconfiados
+aos outros.
+
+ 565: 10:27:23.16 10:27:26.14  Duration 00:00:02.23  44
+#Já em 2015,
+um vazamento à mídia revela#
+
+ 566: 10:27:26.18 10:27:29.11  Duration 00:00:02.18  41
+#que um membro da comissão
+opõe-se à naturalização#
+
+ 567: 10:27:29.15 10:27:32.21  Duration 00:00:03.06  49
+#de uma candidata muçulmana
+porque ela usa o véu.#
+
+ 568: 10:27:33.00 10:27:34.09  Duration 00:00:01.09  20
+uma candidata de véu
+
+ 569: 10:27:35.05 10:27:37.21  Duration 00:00:02.16  40
+#Debate entre 4 paredes,
+ausência de atas,#
+
+ 570: 10:27:38.00 10:27:40.03  Duration 00:00:02.03  32
+#candidatos sem acesso ao dossiê,#
+
+ 571: 10:27:40.08 10:27:41.07  Duration 00:00:00.24  14
+#voto por aclamação,#
+
+ 572: 10:27:41.11 10:27:44.19  Duration 00:00:03.08  50
+#tudo isso cheira a amadorismo
+e não tem transparência.#
+
+ 573: 10:27:44.23 10:27:48.01  Duration 00:00:03.03  47
+#Mas, segundo o atual presidente
+do Conselho Municipal,#
+
+ 574: 10:27:48.05 10:27:49.10  Duration 00:00:01.05  18
+#também comissário,#
+
+ 575: 10:27:49.14 10:27:51.09  Duration 00:00:01.20  27
+#tudo estava
+dentro das regras.#
+
+ 576: 10:27:51.13 10:27:54.03  Duration 00:00:02.15  39
+Nunca assisti a tomadas de posição
+
+ 577: 10:27:55.02 10:27:56.13  Duration 00:00:01.11  22
+que fossem radicais,
+
+ 578: 10:27:56.17 10:27:59.13  Duration 00:00:02.21  43
+já que a comissão discute,
+e a partir daí,
+
+ 579: 10:27:59.17 10:28:01.02  Duration 00:00:01.10  21
+há uma troca,
+
+ 580: 10:28:01.06 10:28:03.08  Duration 00:00:02.02  31
+e restabelecemos os fatos
+se preciso.
+
+ 581: 10:28:03.12 10:28:04.16  Duration 00:00:01.04  17
+É nossa função.
+
+ 582: 10:28:04.21 10:28:06.11  Duration 00:00:01.15  24
+A falta
+de processos estritos
+
+ 583: 10:28:06.15 10:28:10.14  Duration 00:00:03.24  59
+não abre as portas
+à desigualdade de tratamento?
+
+ 584: 10:28:10.18 10:28:12.14  Duration 00:00:01.21  28
+Acho que sim.
+A natureza é humana.
+
+ 585: 10:28:12.18 10:28:16.20  Duration 00:00:04.02  61
+Você pode muito bem reagir
+diante de situações
+
+ 586: 10:28:16.24 10:28:18.22  Duration 00:00:01.23  29
+em função da sua educação,
+
+ 587: 10:28:19.02 10:28:21.14  Duration 00:00:02.12  37
+em função do seu partido político,
+
+ 588: 10:28:21.18 10:28:24.00  Duration 00:00:02.07  34
+do que esse partido defende.
+
+ 589: 10:28:24.04 10:28:28.02  Duration 00:00:03.23  59
+Sempre procuramos ser objetivos,
+
+ 590: 10:28:28.06 10:28:31.04  Duration 00:00:02.23  44
+mas você não pode impedir
+certas pessoas
+
+ 591: 10:28:31.08 10:28:34.12  Duration 00:00:03.04  47
+de exagerar
+em função da sua educação,
+
+ 592: 10:28:34.16 10:28:35.17  Duration 00:00:01.01  16
+das ideias
+
+ 593: 10:28:35.22 10:28:37.16  Duration 00:00:01.19  26
+que elas dividem com outros.
+
+ 594: 10:28:39.06 10:28:41.14  Duration 00:00:02.08  35
+#Um relatório do Tribunal de Contas
+aponta#
+
+ 595: 10:28:41.19 10:28:43.10  Duration 00:00:01.16  25
+#os problemas da comissão.#
+
+ 596: 10:28:43.14 10:28:45.14  Duration 00:00:02.00  30
+#Muito cara e inútil.#
+
+ 597: 10:28:45.24 10:28:47.04  Duration 00:00:01.05  18
+#Em Genebra, acabou,#
+
+ 598: 10:28:47.08 10:28:49.16  Duration 00:00:02.08  35
+#e não assistiremos
+às últimas sessões.#
+
+ 599: 10:28:49.20 10:28:52.12  Duration 00:00:02.17  40
+#Nosso pedido de filmagem
+foi recusado.#
+
+ 600: 10:28:57.22 10:29:00.13  Duration 00:00:02.16  40
+#Em Nyon,
+a comissão ainda faz estragos.#
+
+ 601: 10:29:00.17 10:29:03.21  Duration 00:00:03.04  47
+#Lá também, nossas câmeras
+foram indesejadas.#
+
+ 602: 10:29:04.01 10:29:06.13  Duration 00:00:02.12  37
+#Não nos deixam assistir
+a uma audiência,#
+
+ 603: 10:29:06.17 10:29:08.15  Duration 00:00:01.23  29
+#alegando
+que nenhum candidato aceita#
+
+ 604: 10:29:08.19 10:29:10.17  Duration 00:00:01.23  29
+#que os acompanhemos.#
+
+ 605: 10:29:10.21 10:29:14.02  Duration 00:00:03.06  49
+#Pois nós decidimos
+procurar um candidato,#
+
+ 606: 10:29:14.15 10:29:17.17  Duration 00:00:03.02  46
+#e, reviravolta,
+Célia, a jovem reprovada,#
+
+ 607: 10:29:17.21 10:29:19.19  Duration 00:00:01.23  29
+#aceita que a acompanhemos.#
+
+ 608: 10:29:20.10 10:29:22.00  Duration 00:00:01.15  24
+#No seu 2º round em Nyon,#
+
+ 609: 10:29:22.04 10:29:24.08  Duration 00:00:02.04  32
+#entramos na sala.#
+
+ 610: 10:29:28.20 10:29:32.12  Duration 00:00:03.17  55
+Bem-vinda à comissão
+de naturalização.
+
+ 611: 10:29:32.16 10:29:33.17  Duration 00:00:01.01  16
+Obrigada.
+
+ 612: 10:29:33.22 10:29:37.01  Duration 00:00:03.04  47
+Vamos ficar aqui por meia hora,
+
+ 613: 10:29:37.05 10:29:40.14  Duration 00:00:03.09  50
+para lhe fazer perguntas
+de história, geografia, civismo
+
+ 614: 10:29:40.19 10:29:42.03  Duration 00:00:01.09  20
+e integração.
+
+ 615: 10:29:42.07 10:29:45.01  Duration 00:00:02.19  41
+Vou começar
+pela 1ª pergunta ritual:
+
+ 616: 10:29:45.05 10:29:48.13  Duration 00:00:03.08  50
+pode nos explicar
+em poucas palavras sua trajetória?
+
+ 617: 10:29:48.17 10:29:51.23  Duration 00:00:03.06  49
+Por que veio apresentar-se
+à comissão hoje?
+
+ 618: 10:29:52.03 10:29:55.16  Duration 00:00:03.13  53
+Cheguei à Suíça
+quando eu tinha 17 anos...
+
+ 619: 10:29:55.20 10:29:58.07  Duration 00:00:02.12  37
+Não eram exatamente
+as mesmas pessoas.
+
+ 620: 10:29:58.11 10:30:00.20  Duration 00:00:02.09  35
+Senti que fui mais bem recebida.
+
+ 621: 10:30:01.05 10:30:04.21  Duration 00:00:03.16  55
+As pessoas eram mais sorridentes,
+fiquei mais à vontade.
+
+ 622: 10:30:05.00 10:30:07.20  Duration 00:00:02.20  42
+Mais estressada,
+mas mais à vontade,
+
+ 623: 10:30:07.24 10:30:10.14  Duration 00:00:02.15  39
+em relação às pessoas
+à minha volta.
+
+ 624: 10:30:10.18 10:30:12.09  Duration 00:00:01.16  25
+De novo,
+em termos de integração,
+
+ 625: 10:30:12.14 10:30:13.18  Duration 00:00:01.04  17
+poucas questões.
+
+ 626: 10:30:13.22 10:30:17.22  Duration 00:00:04.00  60
+Passamos logo à fase de exame
+entrevista formal,
+
+ 627: 10:30:18.01 10:30:20.08  Duration 00:00:02.07  34
+com questões oficiais.
+
+ 628: 10:30:21.05 10:30:24.14  Duration 00:00:03.09  50
+Conhece os rios
+que correm em Nyon, por favor?
+
+ 629: 10:30:24.18 10:30:26.16  Duration 00:00:01.23  29
+Tem o Boiron, o Asse
+
+ 630: 10:30:26.21 10:30:28.15  Duration 00:00:01.19  26
+e o Cossy.
+
+ 631: 10:30:28.19 10:30:33.08  Duration 00:00:04.14  68
+Sim. E tem um pequeno riacho
+chamado Goujon.
+
+ 632: 10:30:34.02 10:30:37.07  Duration 00:00:03.05  48
+Uma data que marcou a Suíça:
+1291.
+
+ 633: 10:30:37.11 10:30:39.04  Duration 00:00:01.18  26
+- Sabe o que foi?
+- Sim.
+
+ 634: 10:30:40.02 10:30:42.12  Duration 00:00:02.10  36
+Sabe a data da festa nacional?
+
+ 635: 10:30:42.16 10:30:43.11  Duration 00:00:00.20  12
+1º de agosto.
+
+ 636: 10:30:43.15 10:30:45.01  Duration 00:00:01.11  22
+Sabe porque acendemos fogo?
+
+ 637: 10:30:45.06 10:30:46.18  Duration 00:00:01.12  22
+Isso eu não sei.
+
+ 638: 10:30:46.22 10:30:49.04  Duration 00:00:02.07  34
+Era o meio de comunicação
+antigamente...
+
+ 639: 10:30:49.08 10:30:51.18  Duration 00:00:02.10  36
+- Entendi.
+- ...entre as comunas.
+
+ 640: 10:30:51.22 10:30:54.06  Duration 00:00:02.09  35
+Eles procuravam insistir menos
+
+ 641: 10:30:54.10 10:30:56.22  Duration 00:00:02.12  37
+onde viam que,
+potencialmente, travava.
+
+ 642: 10:30:57.01 10:30:57.24  Duration 00:00:00.23  14
+Foi o que senti.
+
+ 643: 10:30:58.04 10:31:00.08  Duration 00:00:02.04  32
+Vamos ao civismo
+com o Sr. Frey.
+
+ 644: 10:31:00.12 10:31:02.24  Duration 00:00:02.12  37
+Isso. O calhamaço, não é?
+
+ 645: 10:31:03.20 10:31:05.02  Duration 00:00:01.07  19
+Decorei o livro
+
+ 646: 10:31:05.07 10:31:08.16  Duration 00:00:03.09  50
+que me deram ao máximo.
+
+ 647: 10:31:08.20 10:31:09.17  Duration 00:00:00.22  13
+Veremos
+
+ 648: 10:31:09.22 10:31:12.03  Duration 00:00:02.06  34
+se valeu a pena decorar isso tudo.
+
+ 649: 10:31:12.07 10:31:13.21  Duration 00:00:01.14  23
+Assim espero.
+
+ 650: 10:31:15.20 10:31:19.07  Duration 00:00:03.12  52
+Você acha que hoje refletiu
+as condições de uma audiência?
+
+ 651: 10:31:19.11 10:31:21.15  Duration 00:00:02.04  32
+Exatamente. Sim.
+
+ 652: 10:31:21.19 10:31:24.16  Duration 00:00:02.22  43
+Às vezes um pouco mais relaxada
+que hoje,
+
+ 653: 10:31:24.20 10:31:27.11  Duration 00:00:02.16  40
+porque também fomos ouvidos
+por vocês, não?
+
+ 654: 10:31:27.15 10:31:29.20  Duration 00:00:02.05  33
+Não tivemos, infelizmente,
+a chance
+
+ 655: 10:31:29.24 10:31:32.16  Duration 00:00:02.17  40
+de perguntar mais
+sobre sistema político,
+
+ 656: 10:31:32.20 10:31:34.03  Duration 00:00:01.08  20
+pois ela sabia tudo.
+
+ 657: 10:31:34.07 10:31:37.15  Duration 00:00:03.08  50
+Quando sentimos que trava,
+damos uma segunda chance
+
+ 658: 10:31:37.19 10:31:39.04  Duration 00:00:01.10  21
+reformulando a questão.
+
+ 659: 10:31:39.08 10:31:43.09  Duration 00:00:04.01  61
+Às vezes tem mais perguntas,
+é mais animado,
+
+ 660: 10:31:43.13 10:31:46.02  Duration 00:00:02.14  38
+pois tentamos obter a resposta
+da pessoa.
+
+ 661: 10:31:46.07 10:31:47.13  Duration 00:00:01.06  19
+Mas ela sabia tudo.
+
+ 662: 10:31:47.17 10:31:50.07  Duration 00:00:02.15  39
+Sabe que Célia quase desistiu
+
+ 663: 10:31:50.11 10:31:51.16  Duration 00:00:01.05  18
+de se recandidatar?
+
+ 664: 10:31:51.20 10:31:55.22  Duration 00:00:04.02  61
+Entendem que seja difícil
+lidar com a reprovação?
+
+ 665: 10:31:56.21 10:31:59.04  Duration 00:00:02.08  35
+É claro, sim. Mas enfim...
+
+ 666: 10:32:00.01 10:32:02.20  Duration 00:00:02.19  41
+Isso não é uma prova,
+
+ 667: 10:32:02.24 10:32:06.08  Duration 00:00:03.09  50
+mas é a mesma coisa
+se fazemos uma prova
+
+ 668: 10:32:06.13 10:32:09.04  Duration 00:00:02.16  40
+e não passamos.
+Também não podemos dar,
+
+ 669: 10:32:09.09 10:32:11.17  Duration 00:00:02.08  35
+ou então a comissão
+seria inútil.
+
+ 670: 10:32:12.09 10:32:15.17  Duration 00:00:03.08  50
+Viram as perguntas que fazemos.
+Não são tão puxadas.
+
+ 671: 10:32:15.21 10:32:17.00  Duration 00:00:01.04  17
+Procuramos
+
+ 672: 10:32:17.04 10:32:21.04  Duration 00:00:04.00  60
+sentir se o candidato
+tem um mínimo de conhecimento.
+
+ 673: 10:32:21.08 10:32:22.23  Duration 00:00:01.15  24
+Em geral, corre tudo bem.
+
+ 674: 10:32:23.02 10:32:26.14  Duration 00:00:03.12  52
+Mas se a pessoa não souber responder
+a nenhuma pergunta,
+
+ 675: 10:32:26.18 10:32:27.18  Duration 00:00:01.00  15
+terá de repetir.
+
+ 676: 10:32:28.12 10:32:30.05  Duration 00:00:01.18  26
+Nos contaram
+que é importante
+
+ 677: 10:32:30.09 10:32:33.08  Duration 00:00:02.24  44
+saber em que direção o peixe nada
+
+ 678: 10:32:33.12 10:32:37.18  Duration 00:00:04.06  64
+no brasão de Nyon
+para ser suíço.
+
+ 679: 10:32:37.22 10:32:40.13  Duration 00:00:02.16  40
+Não.
+É uma pergunta para relaxar.
+
+ 680: 10:32:40.17 10:32:44.05  Duration 00:00:03.13  53
+São truques mnemônicos
+para lembrar
+
+ 681: 10:32:44.09 10:32:46.19  Duration 00:00:02.10  36
+do peixe, do verde e do branco.
+
+ 682: 10:32:46.23 10:32:49.16  Duration 00:00:02.18  41
+Também disseram,
+quando alguém tem stress,
+
+ 683: 10:32:49.20 10:32:52.23  Duration 00:00:03.03  47
+que falam do cantão de Vaud,
+e que dizem:
+
+ 684: 10:32:53.02 10:32:55.06  Duration 00:00:02.04  32
+"O cantão de Vaud
+é verde e azul."
+
+ 685: 10:32:55.10 10:32:57.17  Duration 00:00:02.07  34
+"Ele não é verde e azul.
+É verde e branco."
+
+ 686: 10:32:57.21 10:33:00.03  Duration 00:00:02.07  34
+"- OK.
+- Verde e branco em que ordem?
+
+ 687: 10:33:00.07 10:33:01.03  Duration 00:00:00.21  13
+"Esqueci."
+
+ 688: 10:33:01.07 10:33:02.16  Duration 00:00:01.09  20
+Truques mnemônicos:
+
+ 689: 10:33:02.20 10:33:05.03  Duration 00:00:02.08  35
+O verde fica embaixo
+para pôr o branco em cima.
+
+ 690: 10:33:05.07 10:33:08.11  Duration 00:00:03.04  47
+Se agora nos criticam
+por tentar descontrair o clima
+
+ 691: 10:33:08.15 10:33:11.17  Duration 00:00:03.02  46
+para candidatos estressados,
+não sei o querem.
+
+ 692: 10:33:13.14 10:33:17.23  Duration 00:00:04.09  65
+#Pedimos ao município
+a lista das perguntas de audiência.#
+
+ 693: 10:33:18.02 10:33:18.23  Duration 00:00:00.21  13
+#Recusaram.#
+
+ 694: 10:33:19.02 10:33:22.06  Duration 00:00:03.04  47
+#Eles defendem as prerrogativas
+com unhas e dentes.#
+
+ 695: 10:33:22.10 10:33:24.03  Duration 00:00:01.18  26
+#Em Nyon, como em Payerne,#
+
+ 696: 10:33:24.07 10:33:28.11  Duration 00:00:04.04  62
+#1 candidato em cada 5
+cai na 1ª audiência.#
+
+ 697: 10:33:28.16 10:33:31.19  Duration 00:00:03.03  47
+Muitos suíços da gema
+não conseguiriam responder?
+
+ 698: 10:33:31.23 10:33:34.20  Duration 00:00:02.22  43
+Não tenho certeza.
+Sempre comentam isso conosco:
+
+ 699: 10:33:34.24 10:33:37.14  Duration 00:00:02.15  39
+"Pedem mais dos estrangeiros
+que dos suíços."
+
+ 700: 10:33:37.19 10:33:41.04  Duration 00:00:03.10  51
+Primeiro, nós temos o passaporte.
+Não fizemos um pedido.
+
+ 701: 10:33:41.09 10:33:44.07  Duration 00:00:02.23  44
+Se dermos esse guia a um suíço
+para a audiência,
+
+ 702: 10:33:44.11 10:33:45.20  Duration 00:00:01.09  20
+acho que ele passa.
+
+ 703: 10:33:47.11 10:33:49.08  Duration 00:00:01.22  28
+#Mesmo?
+É tão simples assim#
+
+ 704: 10:33:49.13 10:33:51.14  Duration 00:00:02.01  31
+#conhecer o país de cor?#
+
+ 705: 10:33:51.19 10:33:53.15  Duration 00:00:01.21  28
+#Vamos a Berna, levando#
+
+ 706: 10:33:53.20 10:33:57.17  Duration 00:00:03.22  58
+#uma antologia de questionários
+cantonais e do jogo helvético,#
+
+ 707: 10:33:57.21 10:33:59.21  Duration 00:00:02.00  30
+#uma espécie
+de Trivial Pursuit da Suíça#
+
+ 708: 10:34:00.00 10:34:02.05  Duration 00:00:02.05  33
+#criado por um candidato
+à naturalização.#
+
+ 709: 10:34:03.10 10:34:05.22  Duration 00:00:02.12  37
+#Vejamos como
+os parlamentares se saem.#
+
+ 710: 10:34:06.02 10:34:08.05  Duration 00:00:02.03  32
+#Lá vai o# Swiss Quiz#.#
+
+ 711: 10:34:12.10 10:34:15.13  Duration 00:00:03.03  47
+Qual é a montanha mais alta
+totalmente na Suíça?
+
+ 712: 10:34:15.18 10:34:17.05  Duration 00:00:01.12  22
+Não, isso não...
+
+ 713: 10:34:18.00 10:34:19.20  Duration 00:00:01.20  27
+É o Pico Dufour.
+
+ 714: 10:34:20.19 10:34:23.15  Duration 00:00:02.21  43
+Esse é o mais alto da Suíça.
+Mas todo na Suíça?
+
+ 715: 10:34:25.05 10:34:26.17  Duration 00:00:01.12  22
+Isso não sei mais.
+
+ 716: 10:34:26.22 10:34:30.14  Duration 00:00:03.17  55
+Que cidade de Fribourg foi
+quase toda arrasada pelo fogo
+
+ 717: 10:34:30.18 10:34:32.05  Duration 00:00:01.12  22
+em 1805?
+
+ 718: 10:34:32.09 10:34:34.04  Duration 00:00:01.20  27
+"Em 1805..."
+
+ 719: 10:34:35.03 10:34:37.24  Duration 00:00:02.21  43
+havia muitas cidades no cantão.
+Foi Vallorbe,
+
+ 720: 10:34:38.03 10:34:39.07  Duration 00:00:01.04  17
+que foi arrasada.
+
+ 721: 10:34:39.12 10:34:40.12  Duration 00:00:01.00  15
+Esporte.
+
+ 722: 10:34:42.17 10:34:43.17  Duration 00:00:01.00  15
+Podemos recomeçar?
+
+ 723: 10:34:43.22 10:34:46.01  Duration 00:00:02.04  32
+"Arrasada" significa
+que não restou nada.
+
+ 724: 10:34:46.05 10:34:49.06  Duration 00:00:03.01  46
+Não pode ser Morat,
+porque ainda existe.
+
+ 725: 10:34:49.11 10:34:51.09  Duration 00:00:01.23  29
+Qual é a data
+da adesão da Suíça
+
+ 726: 10:34:51.13 10:34:53.08  Duration 00:00:01.20  27
+às Nações Unidas? O ano.
+
+ 727: 10:34:55.13 10:34:59.24  Duration 00:00:04.11  67
+Que esporte só é oficialmente
+praticado na Suíça?
+
+ 728: 10:35:00.03 10:35:04.13  Duration 00:00:04.10  66
+- Provavelmente o# hornuss.#
+- Não. É a luta livre suíça.
+
+ 729: 10:35:04.17 10:35:06.14  Duration 00:00:01.22  28
+- O Schwingen.
+- Ah! OK.
+
+ 730: 10:35:06.19 10:35:10.00  Duration 00:00:03.06  49
+Roman, o alto está bem conservado,
+o baixo, menos.
+
+ 731: 10:35:10.05 10:35:11.05  Duration 00:00:01.00  15
+Ahn...
+
+ 732: 10:35:14.15 10:35:18.16  Duration 00:00:04.01  61
+Que rio tem a nascente perto
+do passo do Grande São Bernardo?
+
+ 733: 10:35:25.10 10:35:28.07  Duration 00:00:02.22  43
+Por que Winkelried é famoso?
+
+ 734: 10:35:28.11 10:35:31.10  Duration 00:00:02.24  44
+Porque ele se jogou
+nas lanças do inimigo.
+
+ 735: 10:35:31.15 10:35:34.11  Duration 00:00:02.21  43
+Eu diria tipologicamente
+que seria o Roman,
+
+ 736: 10:35:34.15 10:35:35.15  Duration 00:00:01.00  15
+mas posso estar errado.
+
+ 737: 10:35:35.20 10:35:38.14  Duration 00:00:02.19  41
+- Em que batalha?
+- Morgarten.
+
+ 738: 10:35:38.18 10:35:40.16  Duration 00:00:01.23  29
+Não! Sempach.
+Que idiota.
+
+ 739: 10:35:40.21 10:35:44.15  Duration 00:00:03.19  56
+Que cantão tem mais
+de 50 cepas vitícolas reconhecidas?
+
+ 740: 10:35:44.19 10:35:45.15  Duration 00:00:00.21  13
+O Vaud.
+
+ 741: 10:35:45.20 10:35:48.03  Duration 00:00:02.08  35
+- Quem é Peter Sauber?
+- Não faço ideia.
+
+ 742: 10:35:48.08 10:35:49.08  Duration 00:00:01.00  15
+O Valais.
+
+ 743: 10:35:50.11 10:35:52.21  Duration 00:00:02.10  36
+Eu sabia,
+mas era pelos meus cidadãos.
+
+ 744: 10:35:53.01 10:35:55.17  Duration 00:00:02.16  40
+É Bulle? Mas o castelo
+está bem conservado.
+
+ 745: 10:35:56.19 10:35:59.13  Duration 00:00:02.19  41
+A quantos erros se tem direito
+paraser suíço?
+
+ 746: 10:36:00.15 10:36:03.18  Duration 00:00:03.03  47
+#É claro
+que eles não erraram todas,#
+
+ 747: 10:36:03.23 10:36:05.01  Duration 00:00:01.03  17
+#mas quisemos mostrar,#
+
+ 748: 10:36:05.05 10:36:07.14  Duration 00:00:02.09  35
+#pois elas prejudicam
+os candidatos.#
+
+ 749: 10:36:07.18 10:36:10.16  Duration 00:00:02.23  44
+#É a cidadania que está em jogo.#
+
+ 750: 10:36:10.20 10:36:13.18  Duration 00:00:02.23  44
+Quando fiz a prova
+de naturalização,
+
+ 751: 10:36:14.13 10:36:17.23  Duration 00:00:03.10  51
+disseram: "Dê o nome
+de um lago só do Vaud."
+
+ 752: 10:36:18.02 10:36:19.24  Duration 00:00:01.22  28
+Respondi: "Lago de Neuchâtel."
+
+ 753: 10:36:21.17 10:36:25.05  Duration 00:00:03.13  53
+#A naturalização é o combate
+eterno de Ada Marra.#
+
+ 754: 10:36:25.09 10:36:27.14  Duration 00:00:02.05  33
+#Ela conseguiu entrar
+no processo facilitado#
+
+ 755: 10:36:27.18 10:36:30.11  Duration 00:00:02.18  41
+#para a 3ª geração na lei federal.#
+
+ 756: 10:36:30.15 10:36:35.05  Duration 00:00:04.15  69
+#Para ela, a naturalização ainda é
+um processo profundamente político.#
+
+ 757: 10:36:36.14 10:36:38.03  Duration 00:00:01.14  23
+Acho que essa
+é a questão.
+
+ 758: 10:36:38.08 10:36:42.01  Duration 00:00:03.18  56
+Em todo o país, é o que define
+quem tem direito de ser suíço
+
+ 759: 10:36:42.05 10:36:43.08  Duration 00:00:01.03  17
+e por quê.
+
+ 760: 10:36:43.12 10:36:45.24  Duration 00:00:02.12  37
+E vemos muito bem que é uma luta.
+
+ 761: 10:36:46.03 10:36:48.16  Duration 00:00:02.13  38
+A definição do que é ser suíço
+
+ 762: 10:36:48.21 10:36:49.16  Duration 00:00:00.20  12
+é uma luta.
+
+ 763: 10:36:49.20 10:36:51.15  Duration 00:00:01.20  27
+Temos uma espécie de mito
+
+ 764: 10:36:51.20 10:36:55.03  Duration 00:00:03.08  50
+que diz: "O suíço
+são os suíços de sangue."
+
+ 765: 10:36:55.07 10:36:59.04  Duration 00:00:03.22  58
+Essa expressão "suíço de sangue",
+significa o quê?
+
+ 766: 10:36:59.08 10:37:02.00  Duration 00:00:02.17  40
+Somos suíços de sangue
+a partir de que etapa?
+
+ 767: 10:37:02.04 10:37:04.21  Duration 00:00:02.17  40
+Precisa de 1, 2, 3, 4, 5 gerações?
+
+ 768: 10:37:05.00 10:37:06.24  Duration 00:00:01.24  29
+Hoje, essa é a grande questão,
+
+ 769: 10:37:07.03 10:37:11.04  Duration 00:00:04.01  61
+é: quem define
+a legitimidade de ser suíço.
+
+ 770: 10:37:12.04 10:37:15.10  Duration 00:00:03.06  49
+#Em 2016, 40 mil pessoas
+tornaram-se suíças.#
+
+ 771: 10:37:15.14 10:37:18.09  Duration 00:00:02.20  42
+#Proporcionalmente
+às 900 mil naturalizáveis,#
+
+ 772: 10:37:18.13 10:37:19.10  Duration 00:00:00.22  13
+#é pouco.#
+
+ 773: 10:37:19.14 10:37:21.17  Duration 00:00:02.03  32
+#E desde 1º de janeiro de 2018,#
+
+ 774: 10:37:21.21 10:37:25.12  Duration 00:00:03.16  55
+#é ainda mais difícil
+conseguir a nacionalidade.#
+
+ 775: 10:37:25.17 10:37:27.16  Duration 00:00:01.24  29
+#Ela agora é reservada 
+aos vistos C.#
+
+ 776: 10:37:27.20 10:37:30.14  Duration 00:00:02.19  41
+#Ainda tem um teste
+de língua escrita,#
+
+ 777: 10:37:30.19 10:37:33.13  Duration 00:00:02.19  41
+#e não pode ter auxílio social
+há 3 anos.#
+
+ 778: 10:37:34.18 10:37:36.17  Duration 00:00:01.24  29
+Há um grande paradoxo
+na Suíça.
+
+ 779: 10:37:36.21 10:37:39.18  Duration 00:00:02.22  43
+De um lado, endurecem as condições
+para a naturalização,
+
+ 780: 10:37:39.22 10:37:41.10  Duration 00:00:01.13  23
+que já tem
+uma taxa baixa.
+
+ 781: 10:37:41.14 10:37:43.03  Duration 00:00:01.14  23
+pois está em torno de 2%.
+
+ 782: 10:37:43.07 10:37:45.12  Duration 00:00:02.05  33
+Por outro lado, sempre recusaram,
+
+ 783: 10:37:45.16 10:37:47.14  Duration 00:00:01.23  29
+menos nos cantões romandos,
+
+ 784: 10:37:47.18 10:37:49.14  Duration 00:00:01.21  28
+direito de voto
+aos estrangeiros.
+
+ 785: 10:37:49.18 10:37:53.05  Duration 00:00:03.12  52
+Então é um deficit democrático,
+claramente, hoje,
+
+ 786: 10:37:53.09 10:37:57.01  Duration 00:00:03.17  55
+porque não se vota onde se mora.
+Claramente.
+
+ 787: 10:37:57.06 10:37:58.20  Duration 00:00:01.14  23
+Ouvimos:
+"Naturalize-se."
+
+ 788: 10:37:58.24 10:38:02.00  Duration 00:00:03.01  46
+Sim. Mas se impendem
+o acesso à naturalização,
+
+ 789: 10:38:02.04 10:38:04.17  Duration 00:00:02.13  38
+o discurso começa
+a ficar problemático.
+
+ 790: 10:38:05.22 10:38:09.09  Duration 00:00:03.12  52
+- Há um# Röstigraben#?
+- Nas práticas, sim.
+
+ 791: 10:38:09.14 10:38:12.05  Duration 00:00:02.16  40
+Em função de onde você está,
+
+ 792: 10:38:12.09 10:38:14.09  Duration 00:00:02.00  30
+se está em Genebra
+ou outro lugar,
+
+ 793: 10:38:14.13 10:38:17.10  Duration 00:00:02.22  43
+as probabilidades de naturalização
+são diferentes,
+
+ 794: 10:38:17.14 10:38:21.14  Duration 00:00:04.00  60
+para um mesmo
+perfil socioeconômico.
+
+ 795: 10:38:22.13 10:38:25.05  Duration 00:00:02.17  40
+Sim, na Suíça romanda,
+são mais abertos.
+
+ 796: 10:38:25.20 10:38:27.24  Duration 00:00:02.04  32
+Vocês têm mais prazer que nós
+em dar
+
+ 797: 10:38:28.03 10:38:31.12  Duration 00:00:03.09  50
+esse passaporte suíço,
+isso é certo.
+
+ 798: 10:38:33.07 10:38:36.06  Duration 00:00:02.24  44
+#Andreas Glarner
+é o oposto de Ada Marra:#
+
+ 799: 10:38:36.10 10:38:37.23  Duration 00:00:01.13  23
+#linha dura.#
+
+ 800: 10:38:41.08 10:38:44.06  Duration 00:00:02.23  44
+É nosso país.
+Temos direito de ser exigentes.
+
+ 801: 10:38:44.10 10:38:46.06  Duration 00:00:01.21  28
+Temos direito de definir
+nossos critérios.
+
+ 802: 10:38:46.10 10:38:48.15  Duration 00:00:02.05  33
+O que tem de errado?
+Nada, é bom.
+
+ 803: 10:38:48.19 10:38:49.24  Duration 00:00:01.05  18
+A Europa não decide,
+
+ 804: 10:38:50.03 10:38:52.00  Duration 00:00:01.22  28
+somos nós que decidimos aqui.
+
+ 805: 10:38:52.05 10:38:54.22  Duration 00:00:02.17  40
+É um tema central,
+para seu partido?
+
+ 806: 10:38:55.01 10:38:57.07  Duration 00:00:02.06  34
+Sim. É importante
+saber quem vira suíço
+
+ 807: 10:38:57.11 10:39:00.02  Duration 00:00:02.16  40
+e quem poderá depois participar
+das decisões.
+
+ 808: 10:39:00.06 10:39:02.06  Duration 00:00:02.00  30
+Os filhos dos naturalizados hoje
+
+ 809: 10:39:02.10 10:39:03.23  Duration 00:00:01.13  23
+serão automaticamente suíços.
+
+ 810: 10:39:04.02 10:39:05.03  Duration 00:00:01.01  16
+Devemos ter cuidado
+
+ 811: 10:39:05.07 10:39:07.10  Duration 00:00:02.03  32
+com quem tomará decisões
+pelo país
+
+ 812: 10:39:07.14 10:39:09.09  Duration 00:00:01.20  27
+e em função de que valores.
+
+ 813: 10:39:09.13 10:39:11.13  Duration 00:00:02.00  30
+Qual seria o perigo?
+
+ 814: 10:39:13.06 10:39:16.16  Duration 00:00:03.10  51
+Que pessoas de uma certa religião,
+como o islã,
+
+ 815: 10:39:16.20 10:39:18.19  Duration 00:00:01.24  29
+virem maioria entre nós.
+
+ 816: 10:39:18.23 10:39:21.21  Duration 00:00:02.23  44
+Eles poderiam em 50, 80 anos
+instaurar a# sharia.#
+
+ 817: 10:39:22.00 10:39:23.18  Duration 00:00:01.18  26
+Seria bem possível.
+
+ 818: 10:39:24.24 10:39:27.03  Duration 00:00:02.04  32
+É possível também
+que os novos suíços
+
+ 819: 10:39:27.07 10:39:29.13  Duration 00:00:02.06  34
+queiram dar uma guinada à esquerda
+
+ 820: 10:39:29.17 10:39:32.02  Duration 00:00:02.10  36
+e que a Suíça não seja mais
+forte, livre e independente,
+
+ 821: 10:39:32.07 10:39:34.12  Duration 00:00:02.05  33
+tudo isso pode ser perdido.
+
+ 822: 10:39:40.10 10:39:42.00  Duration 00:00:01.15  24
+#Cruzamos o Sarine,#
+
+ 823: 10:39:42.04 10:39:44.22  Duration 00:00:02.18  41
+#rumo a esse vilarejo
+perto da Áustria,#
+
+ 824: 10:39:45.01 10:39:47.01  Duration 00:00:02.00  30
+#no cantão de Saint-Gall.#
+
+ 825: 10:39:48.21 10:39:51.08  Duration 00:00:02.12  37
+#A família Ahmeti,
+de origem kosovar,#
+
+ 826: 10:39:51.12 10:39:53.14  Duration 00:00:02.02  31
+#mora aqui há 30 anos.#
+
+ 827: 10:39:53.18 10:39:57.07  Duration 00:00:03.14  53
+#Os filhos nasceram na Suíça.
+Toso mundo trabalha.#
+
+ 828: 10:39:57.12 10:39:58.12  Duration 00:00:01.00  15
+#Porém, em 2012,#
+
+ 829: 10:39:58.16 10:40:01.17  Duration 00:00:03.01  46
+#a naturalização de toda a família
+foi recusada.#
+
+ 830: 10:40:01.21 10:40:03.05  Duration 00:00:01.09  20
+#Motivo oficial:#
+
+ 831: 10:40:03.09 10:40:06.22  Duration 00:00:03.13  53
+#o nível de alemão da Sra. Ahmeti
+é julgado insuficiente.#
+
+ 832: 10:40:07.12 10:40:10.24  Duration 00:00:03.12  52
+#O filho, empregado no comércio,
+agora é maior de idade.#
+
+ 833: 10:40:11.03 10:40:13.17  Duration 00:00:02.14  38
+#Em dezembro,
+ele fez um pedido individual.#
+
+ 834: 10:40:13.21 10:40:15.04  Duration 00:00:01.08  20
+#Nova recusa.#
+
+ 835: 10:40:15.08 10:40:18.12  Duration 00:00:03.04  47
+#E a comissão do vilarejo
+lhe faz perguntas bizarras.#
+
+ 836: 10:40:20.04 10:40:20.24  Duration 00:00:00.20  12
+Por exemplo,
+
+ 837: 10:40:21.04 10:40:24.02  Duration 00:00:02.23  44
+perguntaram até que ponto
+minha ligação com a fé,
+
+ 838: 10:40:24.06 10:40:25.14  Duration 00:00:01.08  20
+com o Islã, era forte.
+
+ 839: 10:40:27.20 10:40:31.05  Duration 00:00:03.10  51
+Respondi que vou
+toda sexta-feira à mesquita.
+
+ 840: 10:40:32.04 10:40:36.06  Duration 00:00:04.02  61
+E aí, alguém da comissão
+de naturalização da comuna
+
+ 841: 10:40:36.10 10:40:37.16  Duration 00:00:01.06  19
+disse:
+
+ 842: 10:40:37.20 10:40:40.02  Duration 00:00:02.07  34
+"Você também não vai
+abrir seu tapete
+
+ 843: 10:40:40.06 10:40:41.16  Duration 00:00:01.10  21
+"e começar a orar."
+
+ 844: 10:40:42.09 10:40:44.12  Duration 00:00:02.03  32
+#Não deveria haver
+perguntas de religião#
+
+ 845: 10:40:44.16 10:40:46.19  Duration 00:00:02.03  32
+#numa audiência de naturalização.#
+
+ 846: 10:40:46.23 10:40:49.22  Duration 00:00:02.24  44
+#Elas contrariam claramente
+a constituição federal#
+
+ 847: 10:40:50.01 10:40:51.10  Duration 00:00:01.09  20
+#e violam
+a esfera privada.#
+
+ 848: 10:40:51.23 10:40:53.03  Duration 00:00:01.05  18
+#Mas não é só.#
+
+ 849: 10:40:53.07 10:40:54.10  Duration 00:00:01.03  17
+#Na ata,#
+
+ 850: 10:40:54.14 10:40:57.01  Duration 00:00:02.12  37
+#atribuem ao candidato
+declarações chocantes,#
+
+ 851: 10:40:57.05 10:40:58.01  Duration 00:00:00.21  13
+#que ele contesta.#
+
+ 852: 10:40:59.15 10:41:01.05  Duration 00:00:01.15  24
+Aqui está escrito:
+
+ 853: 10:41:01.10 10:41:02.24  Duration 00:00:01.14  23
+"A fé islâmica é importante
+para ele.
+
+ 854: 10:41:03.03 10:41:05.13  Duration 00:00:02.10  36
+"É uma base,
+mas não é um crente estrito.
+
+ 855: 10:41:05.17 10:41:08.01  Duration 00:00:02.09  35
+"Ele não se opõe
+às outras religiões."
+
+ 856: 10:41:08.05 10:41:10.00  Duration 00:00:01.20  27
+Mais além,
+que na sua opinião,
+
+ 857: 10:41:10.04 10:41:12.07  Duration 00:00:02.03  32
+"o comportamento de um muçulmano
+
+ 858: 10:41:12.11 10:41:14.15  Duration 00:00:02.04  32
+"difere de um cristão
+em relação à mulher."
+
+ 859: 10:41:14.19 10:41:16.12  Duration 00:00:01.18  26
+Eu nunca disse isso. Nunca.
+
+ 860: 10:41:19.18 10:41:22.15  Duration 00:00:02.22  43
+Você sentiu
+que sua origem era um problema,
+
+ 861: 10:41:22.19 10:41:25.00  Duration 00:00:02.06  34
+e também sua religião?
+
+ 862: 10:41:25.04 10:41:28.01  Duration 00:00:02.22  43
+Isso. Os dois.
+Origem e religião.
+
+ 863: 10:41:30.11 10:41:32.09  Duration 00:00:01.23  29
+#Explicação oficial da recusa:#
+
+ 864: 10:41:32.13 10:41:33.18  Duration 00:00:01.05  18
+#falta de integração.#
+
+ 865: 10:41:34.04 10:41:35.10  Duration 00:00:01.06  19
+#Ele é reprovado#
+
+ 866: 10:41:35.14 10:41:38.02  Duration 00:00:02.13  38
+#por não saber citar
+os 3 cafés da cidade.#
+
+ 867: 10:41:38.20 10:41:41.12  Duration 00:00:02.17  40
+#Questão de geração, talvez.#
+
+ 868: 10:41:41.16 10:41:45.15  Duration 00:00:03.24  59
+#Mergim decide então recorrer
+ao Tribunal Cantonal.#
+
+ 869: 10:41:46.23 10:41:49.05  Duration 00:00:02.07  34
+#Nós procuramos
+o Conselho Municipal.#
+
+ 870: 10:41:49.10 10:41:51.05  Duration 00:00:01.20  27
+#Ele não quis comentar,#
+
+ 871: 10:41:51.09 10:41:54.03  Duration 00:00:02.19  41
+#invocando o processo jurídico
+em curso.#
+
+ 872: 10:41:55.10 10:41:57.15  Duration 00:00:02.05  33
+#Para os Ahmeti,
+o choque é duro.#
+
+ 873: 10:41:57.19 10:41:59.21  Duration 00:00:02.02  31
+#Eles nem desconfiaram.#
+
+ 874: 10:42:00.22 10:42:02.16  Duration 00:00:01.19  26
+Não notamos nada.
+
+ 875: 10:42:02.21 10:42:06.10  Duration 00:00:03.14  53
+Pensávamos que éramos aceitos,
+nos damos bem com os vizinhos.
+
+ 876: 10:42:06.14 10:42:09.09  Duration 00:00:02.20  42
+Minha colega mais próxima
+também é de Mentlingen.
+
+ 877: 10:42:09.13 10:42:13.18  Duration 00:00:04.05  63
+Sempre frequentei a escola aqui
+e tudo, e nunca percebi nada.
+
+ 878: 10:42:14.12 10:42:17.08  Duration 00:00:02.21  43
+Quando a naturalização
+foi recusada, pensei:
+
+ 879: 10:42:17.12 10:42:20.22  Duration 00:00:03.10  51
+"Entendi. Não somos tão bem-vindos
+quanto pensávamos."
+
+ 880: 10:42:23.23 10:42:26.19  Duration 00:00:02.21  43
+#Eles não entraram com recurso
+só por eles.#
+
+ 881: 10:42:26.23 10:42:29.19  Duration 00:00:02.21  43
+#Tornou-se também
+um combate de princípio.#
+
+ 882: 10:42:32.23 10:42:35.08  Duration 00:00:02.10  36
+Muita gente integrada foi recusada,
+
+ 883: 10:42:35.12 10:42:37.01  Duration 00:00:01.14  23
+e depois ficam com medo.
+
+ 884: 10:42:37.05 10:42:39.14  Duration 00:00:02.09  35
+Eles não insistem,
+e acho isso injusto.
+
+ 885: 10:42:39.18 10:42:43.13  Duration 00:00:03.20  57
+Acho que devemos nos engajar também
+para defender a justiça.
+
+ 886: 10:42:49.03 10:42:51.08  Duration 00:00:02.05  33
+#Algumas centenas de quilômetros
+dali,#
+
+ 887: 10:42:51.13 10:42:53.11  Duration 00:00:01.23  29
+#nessa cidadezinha da Argovie,#
+
+ 888: 10:42:53.16 10:42:56.08  Duration 00:00:02.17  40
+#os muçulmanos não dão medo,
+e sim o veganos#
+
+ 889: 10:42:56.23 10:42:59.02  Duration 00:00:02.04  32
+#e os defensores dos animais.#
+
+ 890: 10:43:11.21 10:43:15.05  Duration 00:00:03.09  50
+À noite, deixamos ele passear
+na metade do apartamento
+
+ 891: 10:43:15.10 10:43:18.07  Duration 00:00:02.22  43
+e o acariciamos.
+Fazemos trilhas para ele...
+
+ 892: 10:43:18.11 10:43:21.21  Duration 00:00:03.10  51
+Quando temos animais,
+precisamos dedicar tempo a eles.
+
+ 893: 10:43:23.18 10:43:25.22  Duration 00:00:02.04  32
+#Estamos na casa de Nancy Holten.#
+
+ 894: 10:43:26.01 10:43:28.14  Duration 00:00:02.13  38
+#De origem holandesa,
+mãe de três filhas,#
+
+ 895: 10:43:28.18 10:43:31.12  Duration 00:00:02.19  41
+#ela está na Suíça
+desde a idade de 8 anos.#
+
+ 896: 10:43:31.16 10:43:34.19  Duration 00:00:03.03  47
+#Ela tinha todos os ingredientes
+para ter o passaporte,#
+
+ 897: 10:43:35.07 10:43:37.08  Duration 00:00:02.01  31
+#mas o molho desandou.#
+
+ 898: 10:43:37.12 10:43:40.12  Duration 00:00:03.00  45
+#Seu pedido
+foi brutalmente rejeitado.#
+
+ 899: 10:43:43.01 10:43:46.06  Duration 00:00:03.05  48
+#O vilarejo votou contra ela
+na assembleia comunal.#
+
+ 900: 10:43:46.10 10:43:49.10  Duration 00:00:03.00  45
+#Ela lembra
+da floresta de braços hostis.#
+
+ 901: 10:43:51.23 10:43:53.15  Duration 00:00:01.17  25
+Foi um calvário.
+
+ 902: 10:43:54.10 10:43:57.22  Duration 00:00:03.12  52
+Eu me senti como se tivessem
+me pregado no pelourinho.
+
+ 903: 10:43:59.08 10:44:02.20  Duration 00:00:03.12  52
+Todos me olhavam
+com um ar muito negativo.
+
+ 904: 10:44:02.24 10:44:06.09  Duration 00:00:03.10  51
+Não entendi.
+Eu me senti muito mal.
+
+ 905: 10:44:06.13 10:44:07.10  Duration 00:00:00.22  13
+Na 1ª vez,
+
+ 906: 10:44:07.15 10:44:10.06  Duration 00:00:02.16  40
+minhas gêmeas estavam comigo,
+as mais novas.
+
+ 907: 10:44:10.10 10:44:14.03  Duration 00:00:03.18  56
+Elas foram para me apoiar,
+e foi feio. Realmente horrível.
+
+ 908: 10:44:15.23 10:44:17.10  Duration 00:00:01.12  22
+O pior,
+eu achei que foi
+
+ 909: 10:44:17.14 10:44:20.11  Duration 00:00:02.22  43
+quando eu tive que sair
+para eles poderem votar.
+
+ 910: 10:44:22.20 10:44:26.21  Duration 00:00:04.01  61
+Eu os ouvi aplaudir
+porque o voto foi negativo.
+
+ 911: 10:44:28.21 10:44:31.03  Duration 00:00:02.07  34
+Cada ser humano quer ser amado,
+
+ 912: 10:44:31.07 10:44:32.13  Duration 00:00:01.06  19
+ser apreciado.
+
+ 913: 10:44:33.19 10:44:35.05  Duration 00:00:01.11  22
+Pois naquele instante,
+
+ 914: 10:44:35.09 10:44:38.10  Duration 00:00:03.01  46
+eu me senti realmente excluída
+dessa comunidade.
+
+ 915: 10:44:41.19 10:44:45.13  Duration 00:00:03.19  56
+#Mas do que os moradores
+não gostam nela exatamente?#
+
+ 916: 10:44:46.17 10:44:50.21  Duration 00:00:04.04  62
+Os motivos eram porque sou contra
+as tradições suíças,
+
+ 917: 10:44:51.00 10:44:52.06  Duration 00:00:01.06  19
+que quero eliminá-las,
+
+ 918: 10:44:52.10 10:44:54.23  Duration 00:00:02.13  38
+porque eu militava
+contra sinos de igrejas
+
+ 919: 10:44:55.02 10:44:57.02  Duration 00:00:02.00  30
+e sinos de vacas.
+
+ 920: 10:44:57.06 10:44:58.19  Duration 00:00:01.13  23
+Esses foram os motivos.
+
+ 921: 10:44:59.21 10:45:02.01  Duration 00:00:02.05  33
+Também porque apareço muito
+na mídia,
+
+ 922: 10:45:02.05 10:45:03.23  Duration 00:00:01.18  26
+e eles não gostam disso.
+
+ 923: 10:45:04.02 10:45:05.23  Duration 00:00:01.21  28
+Disseram:
+"Podemos ter opiniões,
+
+ 924: 10:45:06.02 10:45:09.15  Duration 00:00:03.13  53
+"mas não precisa exibi-las
+em praça pública."
+
+ 925: 10:45:12.07 10:45:13.09  Duration 00:00:01.02  16
+#Militante e modelo,#
+
+ 926: 10:45:13.19 10:45:17.03  Duration 00:00:03.09  50
+#Nancy é defensora ferrenha
+da causa animal.#
+
+ 927: 10:45:17.07 10:45:18.13  Duration 00:00:01.06  19
+#É uma ativista.#
+
+ 928: 10:45:18.17 10:45:21.12  Duration 00:00:02.20  42
+#Expor-se na imprensa
+faz parte do seu DNA.#
+
+ 929: 10:45:22.03 10:45:24.12  Duration 00:00:02.09  35
+#Suas ações arrepiam a população.#
+
+ 930: 10:45:24.16 10:45:27.23  Duration 00:00:03.07  49
+#Após a primeira recusa,
+ela hesitou em ir embora.#
+
+ 931: 10:45:33.07 10:45:34.05  Duration 00:00:00.23  14
+Eu pensei:
+
+ 932: 10:45:34.10 10:45:37.17  Duration 00:00:03.07  49
+"Vamos nos mudar.
+Vamos para a cidade vizinha."
+
+ 933: 10:45:37.21 10:45:39.12  Duration 00:00:01.16  25
+Porque lá a naturalização
+
+ 934: 10:45:39.16 10:45:42.00  Duration 00:00:02.09  35
+não passa
+por uma assembleia comunal.
+
+ 935: 10:45:43.12 10:45:47.03  Duration 00:00:03.16  55
+Minhas filhas disseram
+que queriam ficar na escola delas,
+
+ 936: 10:45:47.08 10:45:49.07  Duration 00:00:01.24  29
+que se sentiam bem aqui.
+
+ 937: 10:45:49.11 10:45:53.12  Duration 00:00:04.01  61
+Elas têm todos os amigos,
+e eu também tenho amigos.
+
+ 938: 10:45:53.16 10:45:56.02  Duration 00:00:02.11  37
+Pensei:
+"Não deixarei que me expulsem.
+
+ 939: 10:45:56.06 10:45:58.09  Duration 00:00:02.03  32
+"Ficarei aqui e irei até o fim."
+
+ 940: 10:46:00.08 10:46:02.05  Duration 00:00:01.22  28
+#Nessa cidadezinha campestre,#
+
+ 941: 10:46:02.09 10:46:06.16  Duration 00:00:04.07  64
+#a família Hurzeler
+mantém essa pousada há séculos.#
+
+ 942: 10:46:06.21 10:46:08.16  Duration 00:00:01.20  27
+#Esta noite, é# Metzgete#,#
+
+ 943: 10:46:08.20 10:46:10.00  Duration 00:00:01.05  18
+#fizeram o abate,#
+
+ 944: 10:46:10.04 10:46:12.21  Duration 00:00:02.17  40
+#e um menu de porco é servido
+por vários dias.#
+
+ 945: 10:46:13.15 10:46:15.23  Duration 00:00:02.08  35
+#O dono é apegado às tradições,#
+
+ 946: 10:46:16.02 10:46:17.22  Duration 00:00:01.20  27
+#mesmo se os tempos mudaram.#
+
+ 947: 10:46:21.23 10:46:24.21  Duration 00:00:02.23  44
+Agora tem muita gente diferente
+no vilarejo,
+
+ 948: 10:46:25.00 10:46:27.17  Duration 00:00:02.17  40
+porque ele ficou um pouco maior.
+
+ 949: 10:46:28.13 10:46:31.09  Duration 00:00:02.21  43
+Se alguém de Zurique
+ou da Basileia vem para cá
+
+ 950: 10:46:31.13 10:46:33.02  Duration 00:00:01.14  23
+e diz que é de Gipf...
+
+ 951: 10:46:35.24 10:46:38.11  Duration 00:00:02.12  37
+não me importo nem um pouco.
+
+ 952: 10:46:39.13 10:46:40.08  Duration 00:00:00.20  12
+#No Rözli,#
+
+ 953: 10:46:40.12 10:46:43.11  Duration 00:00:02.24  44
+#toda a família Hurzeler
+trabalha na cozinha.#
+
+ 954: 10:46:43.15 10:46:45.10  Duration 00:00:01.20  27
+#O dono é tranquilão,#
+
+ 955: 10:46:45.14 10:46:48.21  Duration 00:00:03.07  49
+#mas no salão,
+o caso Nancy Holten causa polêmica.#
+
+ 956: 10:46:49.23 10:46:53.14  Duration 00:00:03.16  55
+#Aqui, os animais,
+eles preferem no prato.#
+
+ 957: 10:46:56.12 10:46:59.02  Duration 00:00:02.15  39
+Ela chegou há pouco tempo
+e quer mudar tudo.
+
+ 958: 10:46:59.06 10:47:00.17  Duration 00:00:01.11  22
+Assim não dá.
+
+ 959: 10:47:00.21 10:47:02.23  Duration 00:00:02.02  31
+Sino de igreja é uma tradição,
+
+ 960: 10:47:03.02 10:47:04.21  Duration 00:00:01.19  26
+e ela quer que eles parem.
+
+ 961: 10:47:07.24 10:47:10.20  Duration 00:00:02.21  43
+Por que ela quer morar
+perto da igreja com sinos
+
+ 962: 10:47:10.24 10:47:12.06  Duration 00:00:01.07  19
+e onde tem vacas?
+
+ 963: 10:47:12.10 10:47:14.15  Duration 00:00:02.05  33
+Quem vem para o campo
+sabe como é.
+
+ 964: 10:47:14.19 10:47:16.12  Duration 00:00:01.18  26
+Ou então, não venha.
+
+ 965: 10:47:17.14 10:47:19.13  Duration 00:00:01.24  29
+Ela parece extremista.
+
+ 966: 10:47:19.17 10:47:22.11  Duration 00:00:02.19  41
+Ela chega e diz
+como devemos fazer as coisas.
+
+ 967: 10:47:23.10 10:47:26.11  Duration 00:00:03.01  46
+A meu ver,
+vir com estrangeira e dizer:
+
+ 968: 10:47:26.15 10:47:30.03  Duration 00:00:03.13  53
+"Isso me incomoda.
+Isso e isso me incomodam..."
+
+ 969: 10:47:30.07 10:47:31.22  Duration 00:00:01.15  24
+Vai ser difícil.
+
+ 970: 10:47:32.01 10:47:34.10  Duration 00:00:02.09  35
+As pessoas não concordam.
+
+ 971: 10:47:36.13 10:47:38.24  Duration 00:00:02.11  37
+Nós, os suíços, costumamos dizer:
+
+ 972: 10:47:39.03 10:47:42.05  Duration 00:00:03.02  46
+"É assim. É assim e acabou."
+
+ 973: 10:47:43.19 10:47:46.19  Duration 00:00:03.00  45
+Quanto à naturalização,
+não há discussão.
+
+ 974: 10:47:46.23 10:47:49.15  Duration 00:00:02.17  40
+Se ela preenche os critérios,
+deve obtê-la.
+
+ 975: 10:47:49.19 10:47:51.15  Duration 00:00:01.21  28
+Para mim está bem claro.
+
+ 976: 10:47:53.22 10:47:56.04  Duration 00:00:02.07  34
+O povo do vilarejo é todo contra.
+
+ 977: 10:47:56.08 10:47:59.06  Duration 00:00:02.23  44
+Eles dizem: "Ou ela se adapta
+ou vai embora."
+
+ 978: 10:48:02.01 10:48:03.10  Duration 00:00:01.09  20
+#Com tanta hostilidade,#
+
+ 979: 10:48:03.15 10:48:07.15  Duration 00:00:04.00  60
+#fomos consultar
+as autoridades comunais.#
+
+ 980: 10:48:09.01 10:48:12.00  Duration 00:00:02.24  44
+O que vocês queriam,
+após a primeira recusa?
+
+ 981: 10:48:12.20 10:48:15.04  Duration 00:00:02.09  35
+Procuramos dialogar com ela,
+e dissemos
+
+ 982: 10:48:15.08 10:48:16.13  Duration 00:00:01.05  18
+que agora ela devia
+
+ 983: 10:48:16.18 10:48:19.07  Duration 00:00:02.14  38
+esperar alguns anos
+e ficar na dela.
+
+ 984: 10:48:19.23 10:48:21.22  Duration 00:00:01.24  29
+Mas ela preferiu ir fundo.
+
+ 985: 10:48:23.23 10:48:26.13  Duration 00:00:02.15  39
+#Nancy Holten
+não se deixa desanimar.#
+
+ 986: 10:48:26.17 10:48:28.14  Duration 00:00:01.22  28
+#Ela tenta uma segunda vez.#
+
+ 987: 10:48:31.17 10:48:34.11  Duration 00:00:02.19  41
+Depois nós a presentamos
+mais uma vez,
+
+ 988: 10:48:34.15 10:48:37.01  Duration 00:00:02.11  37
+e aí eu disse
+à assembleia comunal:
+
+ 989: 10:48:37.05 10:48:40.18  Duration 00:00:03.13  53
+"Não vamos fazer um espetáculo.
+Precisamos ser justos.
+
+ 990: 10:48:40.22 10:48:44.01  Duration 00:00:03.04  47
+"E também não quero ouvir insultos.
+
+ 991: 10:48:44.15 10:48:46.13  Duration 00:00:01.23  29
+"Temos de ser corretos."
+
+ 992: 10:48:51.12 10:48:53.18  Duration 00:00:02.06  34
+Em tempos normais,
+numa assembleia,
+
+ 993: 10:48:53.22 10:48:56.19  Duration 00:00:02.22  43
+aparecem no máximo 50 pessoas.
+
+ 994: 10:48:56.23 10:48:59.13  Duration 00:00:02.15  39
+Daquela vez, eram quase 300.
+
+ 995: 10:49:00.01 10:49:03.02  Duration 00:00:03.01  46
+Eles realmente
+foram votar contra mim.
+
+ 996: 10:49:04.08 10:49:05.08  Duration 00:00:01.00  15
+E isso foi duro.
+
+ 997: 10:49:06.09 10:49:07.23  Duration 00:00:01.14  23
+#Nesse período conturbado,#
+
+ 998: 10:49:08.02 10:49:11.03  Duration 00:00:03.01  46
+#Nancy Holten recebeu ameaças.#
+
+ 999: 10:49:12.06 10:49:14.06  Duration 00:00:02.00  30
+Sim, e ainda continua.
+
+1000: 10:49:14.10 10:49:15.13  Duration 00:00:01.03  17
+Não para.
+
+1001: 10:49:15.17 10:49:17.21  Duration 00:00:02.04  32
+Também há páginas hostis
+no Facebook:
+
+1002: 10:49:18.00 10:49:21.02  Duration 00:00:03.02  46
+"Nancy, volte para a Holanda."
+Etc.
+
+1003: 10:49:21.06 10:49:24.02  Duration 00:00:02.21  43
+Houve até mensagens
+contra minhas filhas.
+
+1004: 10:49:24.06 10:49:25.10  Duration 00:00:01.04  17
+É o preço.
+
+1005: 10:49:26.13 10:49:28.23  Duration 00:00:02.10  36
+#E até a cidade
+se viu bombardeada#
+
+1006: 10:49:29.02 10:49:30.22  Duration 00:00:01.20  27
+#de mensagens odiosas.#
+
+1007: 10:49:33.16 10:49:34.11  Duration 00:00:00.20  12
+Às vezes,
+
+1008: 10:49:34.15 10:49:36.02  Duration 00:00:01.12  22
+foi abaixo da cintura,
+
+1009: 10:49:36.06 10:49:39.04  Duration 00:00:02.23  44
+esses e-mails que recebemos
+de toda a Suíça.
+
+1010: 10:49:40.17 10:49:42.10  Duration 00:00:01.18  26
+Não foi nada bonito.
+
+1011: 10:49:42.14 10:49:45.08  Duration 00:00:02.19  41
+E também não gostamos disso.
+
+1012: 10:49:47.19 10:49:48.22  Duration 00:00:01.03  17
+Mas não podíamos
+
+1013: 10:49:49.02 10:49:52.08  Duration 00:00:03.06  49
+nos defender contra isso.
+Não podíamos fazer nada.
+
+1014: 10:49:52.13 10:49:56.06  Duration 00:00:03.18  56
+E aí, você pensou:
+"Está chegando longe demais"?
+
+1015: 10:49:56.10 10:49:57.11  Duration 00:00:01.01  16
+Sim.
+
+1016: 10:50:00.02 10:50:04.13  Duration 00:00:04.11  67
+Ela estava sempre na imprensa, e isso
+excitava as pessoas contra ela.
+
+1017: 10:50:08.05 10:50:09.24  Duration 00:00:01.19  26
+Ideias
+não deveriam ser razão
+
+1018: 10:50:10.03 10:50:11.22  Duration 00:00:01.19  26
+para recusar passaporte,
+não?
+
+1019: 10:50:14.11 10:50:17.01  Duration 00:00:02.15  39
+Não. Todos são livres para pensar.
+
+1020: 10:50:17.05 10:50:19.02  Duration 00:00:01.22  28
+Somos suíços livres.
+
+1021: 10:50:23.17 10:50:25.23  Duration 00:00:02.06  34
+Mas nesse caso, não foi assim.
+
+1022: 10:50:26.02 10:50:29.15  Duration 00:00:03.13  53
+Foi por causa das ideias dela
+que a rejeitaram?
+
+1023: 10:50:29.19 10:50:32.05  Duration 00:00:02.11  37
+Foi. Em todo caso,
+no vilarejo, sim.
+
+1024: 10:50:34.02 10:50:37.13  Duration 00:00:03.11  52
+#O recurso de Nancy Holten
+finalmente deu certo.#
+
+1025: 10:50:37.17 10:50:40.01  Duration 00:00:02.09  35
+#O cantão estimou
+que podia ser naturalizada,#
+
+1026: 10:50:40.05 10:50:42.06  Duration 00:00:02.01  31
+#pois ela preenche
+todos os critérios.#
+
+1027: 10:50:42.10 10:50:44.22  Duration 00:00:02.12  37
+#Ele quebrou, então,
+a decisão da comuna.#
+
+1028: 10:50:45.01 10:50:48.14  Duration 00:00:03.13  53
+#Em Gipf-Oberfrick,
+ainda não digeriram isso.#
+
+1029: 10:50:49.12 10:50:52.10  Duration 00:00:02.23  44
+É uma farsa.
+Muita gente disse:
+
+1030: 10:50:52.14 10:50:54.15  Duration 00:00:02.01  31
+"Nunca mais irei
+à assembleia comunal,
+
+1031: 10:50:54.19 10:50:57.24  Duration 00:00:03.05  48
+"porque se é assim,
+não serve para nada."
+
+1032: 10:51:01.11 10:51:05.01  Duration 00:00:03.15  54
+#Deixamos Gipf-Oberfrick
+e seus 3.500 habitantes.#
+
+1033: 10:51:05.05 10:51:07.23  Duration 00:00:02.18  41
+#3.500 é cerca da metade
+das pessoas#
+
+1034: 10:51:08.02 10:51:11.01  Duration 00:00:02.24  44
+#que se tornam suíços por ano
+em Genebra.#
+
+1035: 10:51:11.23 10:51:14.19  Duration 00:00:02.21  43
+#Aqui, os candidatos
+se preparam on-line.#
+
+1036: 10:51:14.24 10:51:17.04  Duration 00:00:02.05  33
+#Os conhecimentos
+são testados em iPad.#
+
+1037: 10:51:17.08 10:51:19.09  Duration 00:00:02.01  31
+#O processo é padronizado.#
+
+1038: 10:51:19.13 10:51:21.17  Duration 00:00:02.04  32
+#Naturaliza-se em massa,#
+
+1039: 10:51:21.22 10:51:24.14  Duration 00:00:02.17  40
+#muito logne
+das assembleias do campo.#
+
+1040: 10:51:24.19 10:51:26.12  Duration 00:00:01.18  26
+Pode ver meu colega.
+
+1041: 10:51:30.03 10:51:33.06  Duration 00:00:03.03  47
+#A cerimônia de naturalização
+parece missa solene.#
+
+1042: 10:51:34.00 10:51:37.12  Duration 00:00:03.12  52
+#Sra. Maroua al-Ambaki al-Clewé.#
+
+1043: 10:51:37.17 10:51:38.12  Duration 00:00:00.20  12
+Eu prometo.
+
+1044: 10:51:38.16 10:51:41.23  Duration 00:00:03.07  49
+- #Sra. Suzanne Hoper.
+- #Eu prometo.
+
+1045: 10:51:42.03 10:51:45.06  Duration 00:00:03.03  47
+#Sr. Kessi Tsungou Luntadi.#
+
+1046: 10:51:45.10 10:51:46.21  Duration 00:00:01.11  22
+Eu prometo.
+
+1047: 10:51:50.10 10:51:52.04  Duration 00:00:01.19  26
+#Para a harmonia do show,#
+
+1048: 10:51:52.08 10:51:54.13  Duration 00:00:02.05  33
+#recorrem ao karaokê.#
+
+1049: 10:51:56.18 10:52:00.01  Duration 00:00:03.08  50
+#Só nesse dia,
+600 pessoas prestam juramento.#
+
+1050: 10:52:00.06 10:52:01.10  Duration 00:00:01.04  17
+Muito obrigado.
+
+1051: 10:52:01.14 10:52:02.14  Duration 00:00:01.00  15
+Gosto disso.
+
+1052: 10:52:02.18 10:52:04.18  Duration 00:00:02.00  30
+Professor universitário,
+zelador,
+
+1053: 10:52:04.22 10:52:07.09  Duration 00:00:02.12  37
+enfermeira, professora...
+
+1054: 10:52:07.13 10:52:09.17  Duration 00:00:02.04  32
+Tem de tudo, aqui.
+
+1055: 10:52:09.21 10:52:12.21  Duration 00:00:03.00  45
+Jovens, gente já aposentada,
+
+1056: 10:52:13.01 10:52:17.03  Duration 00:00:04.02  61
+e essa noção que gosto de destacar
+reunindo as pessoas.
+
+1057: 10:52:17.08 10:52:18.07  Duration 00:00:00.24  14
+Eu sou suíço!
+
+1058: 10:52:18.12 10:52:20.02  Duration 00:00:01.15  24
+Genebra sempre considerou
+
+1059: 10:52:20.07 10:52:22.19  Duration 00:00:02.12  37
+a naturalização
+um elemento acelerador
+
+1060: 10:52:22.24 10:52:25.17  Duration 00:00:02.18  41
+de integração.
+Fazíamos exigências, ajudávamos
+
+1061: 10:52:25.22 10:52:26.24  Duration 00:00:01.02  16
+a as atingirem,
+
+1062: 10:52:27.03 10:52:29.00  Duration 00:00:01.22  28
+não somos permissivos,
+
+1063: 10:52:29.04 10:52:30.04  Duration 00:00:01.00  15
+pomos as pessoas
+
+1064: 10:52:30.09 10:52:32.09  Duration 00:00:02.00  30
+numa dinâmica de inclusão.
+
+1065: 10:52:42.24 10:52:45.16  Duration 00:00:02.17  40
+#Dependendo de aonde a vida o levou,
+onde mora,#
+
+1066: 10:52:46.07 10:52:49.12  Duration 00:00:03.05  48
+#nada garante
+que você se torne suíço um dia.#
+
+1067: 10:52:50.13 10:52:52.07  Duration 00:00:01.19  26
+#Com o endurecimento da lei,#
+
+1068: 10:52:52.12 10:52:55.14  Duration 00:00:03.02  46
+#a Suíça vai ter uma queda
+nas naturalizações,#
+
+1069: 10:52:55.18 10:52:57.13  Duration 00:00:01.20  27
+#e em virtude
+do sistema federal,#
+
+1070: 10:52:57.17 10:53:00.06  Duration 00:00:02.14  38
+#cada comuna continuará
+fazendo o que quer.#
+
+1071: 10:53:00.11 10:53:01.14  Duration 00:00:01.03  17
+Viva a Suíça
+
+1072: 10:53:01.18 10:53:05.01  Duration 00:00:03.08  50
+#O arbitrário ainda tem
+belos dias pela frente.#
+
+1073: 10:53:05.06 10:53:07.10  Duration 00:00:02.04  32
+E agora, quero agradecer à Suíça
+
+1074: 10:53:07.14 10:53:08.16  Duration 00:00:01.02  16
+pelo asilo
+
+1075: 10:53:08.20 10:53:11.15  Duration 00:00:02.20  42
+quando minha pátria mãe ardia.
+Mil obrigados!
+
+1076: 10:53:17.12 10:53:19.24  Duration 00:00:02.12  37
+Uma precisão estatística
+para fechar.
+
+1077: 10:53:20.03 10:53:22.17  Duration 00:00:02.14  38
+O número de naturalizações
+caiu 30%
+
+1078: 10:53:22.21 10:53:26.08  Duration 00:00:03.12  52
+no primeiro trimestre de 2018
+em relação ao mesmo período
+
+1079: 10:53:26.12 10:53:27.12  Duration 00:00:01.00  15
+do ano de 2017.
+
+1080: 10:53:27.16 10:53:30.10  Duration 00:00:02.19  41
+São os alemães na frente,
+depois os italianos,
+
+1081: 10:53:30.14 10:53:31.23  Duration 00:00:01.09  20
+depois os kosovares.
+
+1082: 10:53:32.22 10:53:36.04  Duration 00:00:03.07  49
+Excelente noite a todos,
+ótima semana e até breve.
+
+1083: 10:53:53.08 10:53:57.00  Duration 00:00:03.17  55
+Adaptação: Adriana Gasparoni
+Legendagem: ECLAIR
+
