@@ -1,0 +1,472 @@
+
+   1: 00:00:31.08 00:00:35.03  Duration 00:00:03.20  57
+Le Chant des cigales
+
+   2: 00:00:35.08 00:00:36.22  Duration 00:00:01.14  23
+- Oui, Dams.##
+#- C'était comment?#
+
+   3: 00:00:37.01 00:00:38.05  Duration 00:00:01.04  17
+C'était "chanmé"!
+
+   4: 00:00:38.09 00:00:40.19  Duration 00:00:02.10  36
+Grosse teuf
+dans une villa à la campagne,
+
+   5: 00:00:40.23 00:00:43.05  Duration 00:00:02.07  34
+plein de meufs...
+C'était #Gatsby le Magnifique.#
+
+   6: 00:00:43.09 00:00:46.08  Duration 00:00:02.24  44
+#- Et t'as "pécho"?#
+- Non, mec. Et je m'en fous.
+
+   7: 00:00:46.12 00:00:49.24  Duration 00:00:03.12  52
+Hé, poulet, je te rappelle.
+Il y a plus de route. Je suis paumé.
+
+   8: 00:01:19.08 00:01:21.05  Duration 00:00:01.22  28
+Et merde. Allez!
+
+   9: 00:01:22.09 00:01:24.03  Duration 00:00:01.19  26
+Putain. Fait chier!
+
+  10: 00:01:36.17 00:01:38.15  Duration 00:00:01.23  29
+Avec tes conneries,
+on va arriver en retard
+
+  11: 00:01:38.19 00:01:40.02  Duration 00:00:01.08  20
+et on va avoir une place pourrie.
+
+  12: 00:01:40.06 00:01:43.12  Duration 00:00:03.06  49
+Je faisais mes katas.
+Quand je les fais, je m'arrête pas.
+
+  13: 00:01:43.16 00:01:46.06  Duration 00:00:02.15  39
+Tu te rappelles mon maître,
+Yamamoto Tsunetomo?
+
+  14: 00:01:46.10 00:01:48.00  Duration 00:00:01.15  24
+Il précise dans l'#Hagakure #que...
+
+  15: 00:01:48.04 00:01:50.06  Duration 00:00:02.02  31
+- Arrête avec ton #Kagu#...
+- #Hagakure#.
+
+  16: 00:01:50.10 00:01:52.23  Duration 00:00:02.13  38
+- C'est pas Tsumetato qui va...
+- Tsunetomo.
+
+  17: 00:01:53.02 00:01:56.18  Duration 00:00:03.16  55
+C'est pas lui qui vendra nos pommes.
+Alors, tu te tais et tu charges.
+
+  18: 00:01:57.24 00:02:01.02  Duration 00:00:03.03  47
+Le sage sait que vivre sans commettre
+d'erreur est impossible,
+
+  19: 00:02:01.06 00:02:04.03  Duration 00:00:02.22  43
+mais l'imbécile ne l'entend pas.
+- C'est moi, l'imbécile?
+
+  20: 00:02:04.07 00:02:06.03  Duration 00:00:01.21  28
+- Non, mais...
+- Tu me gonfles, là.
+
+  21: 00:02:06.07 00:02:09.17  Duration 00:00:03.10  51
+Tu prends le dernier cageot.
+Ferme la porte. Il faut y aller.
+
+  22: 00:02:14.24 00:02:15.24  Duration 00:00:01.00  15
+Allez, magne-toi!
+
+  23: 00:02:30.03 00:02:31.13  Duration 00:00:01.10  21
+Hé! Hé!
+
+  24: 00:02:32.20 00:02:34.00  Duration 00:00:01.05  18
+Putain!
+
+  25: 00:02:57.12 00:03:00.00  Duration 00:00:02.13  38
+Je sens que je vais adorer
+cette journée.
+
+  26: 00:03:07.22 00:03:08.22  Duration 00:00:01.00  15
+Il y a quelqu'un?
+
+  27: 00:03:42.20 00:03:44.05  Duration 00:00:01.10  21
+#- Allô?#
+- Paul, c'est moi.
+
+  28: 00:03:44.09 00:03:46.10  Duration 00:00:02.01  31
+#T'as vu l'heure?#
+#Encore une connerie?#
+
+  29: 00:03:47.22 00:03:50.17  Duration 00:00:02.20  42
+#Allô? Allô! Max?#
+
+  30: 00:03:50.21 00:03:51.23  Duration 00:00:01.02  16
+#Allô? #
+
+  31: 00:03:58.23 00:04:01.04  Duration 00:00:02.06  34
+Vous êtes flippant, à rien dire.
+
+  32: 00:04:05.04 00:04:06.08  Duration 00:00:01.04  17
+Je suis pas un voleur.
+
+  33: 00:04:08.10 00:04:09.22  Duration 00:00:01.12  22
+Je suis quelqu'un de connu.
+
+  34: 00:04:11.18 00:04:13.06  Duration 00:00:01.13  23
+Je voulais juste téléphoner.
+
+  35: 00:04:15.16 00:04:17.02  Duration 00:00:01.11  22
+Vous me reconnaissez pas?
+
+  36: 00:04:18.20 00:04:19.22  Duration 00:00:01.02  16
+Je suis Max.
+
+  37: 00:04:20.09 00:04:22.23  Duration 00:00:02.14  38
+Max! Le chanteur.
+
+  38: 00:04:49.15 00:04:52.20  Duration 00:00:03.05  48
+#- Gus n'est pas avec toi?#
+- Il m'a gonflée. Je l'ai déposé.
+
+  39: 00:04:53.11 00:04:56.01  Duration 00:00:02.15  39
+C'est quoi, cette bagnole,
+dans la mare des Martin?
+
+  40: 00:04:57.19 00:04:59.22  Duration 00:00:02.03  32
+#J'ai trouvé un canard#
+#dans la cuisine.#
+
+  41: 00:05:00.01 00:05:01.06  Duration 00:00:01.05  18
+Un canard?
+
+  42: 00:05:02.03 00:05:03.09  Duration 00:00:01.06  19
+Quel canard?
+
+  43: 00:05:09.20 00:05:11.10  Duration 00:00:01.15  24
+#Autocorrecteur de merde.#
+
+  44: 00:05:13.22 00:05:16.23  Duration 00:00:03.01  46
+- Qu'est-ce que vous foutez là?
+- C'est quoi, ce délire?
+
+  45: 00:05:17.03 00:05:18.16  Duration 00:00:01.13  23
+Je suis pas un cambrioleur!
+
+  46: 00:05:27.06 00:05:28.18  Duration 00:00:01.12  22
+Mon frère vous a trouvé là?
+
+  47: 00:05:29.12 00:05:31.15  Duration 00:00:02.03  32
+Dans la mare, là-bas,
+c'est ma voiture.
+
+  48: 00:05:31.19 00:05:35.06  Duration 00:00:03.12  52
+Vous connaissez des cambrioleurs
+avec une caisse à 100 000 balles?
+
+  49: 00:05:36.22 00:05:39.14  Duration 00:00:02.17  40
+Vous êtes entré par effraction
+dans la maison.
+
+  50: 00:05:39.18 00:05:42.03  Duration 00:00:02.10  36
+- Vous me reconnaissez pas?
+- Non. Je devrais?
+
+  51: 00:05:43.14 00:05:46.05  Duration 00:00:02.16  40
+OK. On laisse tomber.
+
+  52: 00:05:48.13 00:05:50.06  Duration 00:00:01.18  26
+C'est envisageable de me détacher?
+
+  53: 00:05:50.10 00:05:52.22  Duration 00:00:02.12  37
+Depuis 6 h du matin,
+cet abruti m'a planté là.
+
+  54: 00:05:53.12 00:05:54.22  Duration 00:00:01.10  21
+Ça commence à faire long.
+
+  55: 00:05:55.02 00:05:56.16  Duration 00:00:01.14  23
+Juste un tout petit peu.
+
+  56: 00:06:15.16 00:06:17.20  Duration 00:00:02.04  32
+Et maintenant? Je peux téléphoner?
+
+  57: 00:06:20.05 00:06:21.08  Duration 00:00:01.03  17
+Faites.
+
+  58: 00:06:41.02 00:06:43.19  Duration 00:00:02.17  40
+#Bonjour. Vous êtes sur la messagerie#
+#de Paul Bizmut,#
+
+  59: 00:06:43.23 00:06:45.09  Duration 00:00:01.11  22
+#agent artistique à Paris.#
+
+  60: 00:06:45.13 00:06:48.11  Duration 00:00:02.23  44
+#Vous pouvez me laisser un message#
+#après le bip sonore...#
+
+  61: 00:06:55.05 00:06:56.08  Duration 00:00:01.03  17
+Déshabillez-vous.
+
+  62: 00:06:56.24 00:06:57.22  Duration 00:00:00.23  14
+Comment?
+
+  63: 00:06:59.08 00:07:00.12  Duration 00:00:01.04  17
+Vous puez la vase.
+
+  64: 00:07:00.16 00:07:03.05  Duration 00:00:02.14  38
+Vous allez vous doucher,
+ou la maison va empester.
+
+  65: 00:07:24.17 00:07:26.05  Duration 00:00:01.13  23
+La salle de bains est par là.
+
+  66: 00:07:49.15 00:07:51.15  Duration 00:00:02.00  30
+C'est un autre look.
+
+  67: 00:07:53.06 00:07:55.09  Duration 00:00:02.03  32
+C'est les vêtements de mon père.
+J'ai que ça.
+
+  68: 00:07:56.21 00:07:57.22  Duration 00:00:01.01  16
+Il m'a l'air bien...
+
+  69: 00:07:58.22 00:08:01.01  Duration 00:00:02.04  32
+bien plus baraqué que moi.
+
+  70: 00:08:07.00 00:08:08.03  Duration 00:00:01.03  17
+Il est où, ce cher papa?
+
+  71: 00:08:09.09 00:08:10.09  Duration 00:00:01.00  15
+Il est mort.
+
+  72: 00:08:11.05 00:08:13.01  Duration 00:00:01.21  28
+Mes parents sont morts
+il y a 10 ans.
+
+  73: 00:08:13.15 00:08:15.20  Duration 00:00:02.05  33
+C'est pour ça
+que mon frère ne parle plus.
+
+  74: 00:08:19.08 00:08:21.02  Duration 00:00:01.19  26
+#Café pour tout le monde.#
+
+  75: 00:08:23.00 00:08:25.22  Duration 00:00:02.22  43
+- Vous ne téléphonez pas?
+- Je dois appeler mon agent.
+
+  76: 00:08:26.01 00:08:29.06  Duration 00:00:03.05  48
+- Mon agent d'assurances pour...
+- Ah, votre linge est sec!
+
+  77: 00:08:39.05 00:08:41.12  Duration 00:00:02.07  34
+Vous allez pouvoir retrouver
+votre look.
+
+  78: 00:08:43.01 00:08:46.04  Duration 00:00:03.03  47
+Voilà. Si voulez vous changer,
+prenez ma chambre.
+
+  79: 00:08:46.08 00:08:47.06  Duration 00:00:00.23  14
+1re porte à gauche.
+
+  80: 00:08:49.12 00:08:52.07  Duration 00:00:02.20  42
+#- Faut tancer la truite des lâches.#
+- Hein?
+
+  81: 00:08:52.11 00:08:54.24  Duration 00:00:02.13  38
+Il faut lancer la traite des vaches.
+On y va?
+
+  82: 00:08:57.02 00:08:58.02  Duration 00:00:01.00  15
+On revient.
+
+  83: 00:09:13.22 00:09:14.20  Duration 00:00:00.23  14
+T'es qui, toi?
+
+  84: 00:09:16.12 00:09:18.21  Duration 00:00:02.09  35
+Qu'est-ce que tu fous à poil
+chez ma copine?
+
+  85: 00:09:19.00 00:09:21.15  Duration 00:00:02.15  39
+- Réponds quand je te parle.
+- Gus! Lâche!
+
+  86: 00:09:21.19 00:09:24.06  Duration 00:00:02.12  37
+- C'est qui, ce type?
+- Lâche, Gus!
+
+  87: 00:09:26.04 00:09:28.07  Duration 00:00:02.03  32
+Ça ne se fait pas
+d'agresser mes invités.
+
+  88: 00:09:28.11 00:09:31.09  Duration 00:00:02.23  44
+- C'est un invité?
+- Oui, juste un invité. Compris?
+
+  89: 00:09:33.23 00:09:36.23  Duration 00:00:03.00  45
+Habillez-vous et venez.
+On va s'occuper de votre voiture.
+
+  90: 00:09:40.13 00:09:41.16  Duration 00:00:01.03  17
+Gus!
+
+  91: 00:10:01.02 00:10:02.16  Duration 00:00:01.14  23
+J'ai dû remettre ces fringues.
+
+  92: 00:10:03.15 00:10:04.22  Duration 00:00:01.07  19
+Les miennes ont rétréci.
+
+  93: 00:10:06.03 00:10:08.00  Duration 00:00:01.22  28
+Rassurez-vous,
+Gus est avec les vaches.
+
+  94: 00:10:08.04 00:10:11.12  Duration 00:00:03.08  50
+Et mon frère est allé sortir
+votre voiture à 100 000 euros.
+
+  95: 00:10:12.07 00:10:15.00  Duration 00:00:02.18  41
+- Désolé pour votre petit ami.
+- C'est pas mon petit ami.
+
+  96: 00:10:15.14 00:10:18.00  Duration 00:00:02.11  37
+- Je croyais que...
+- Non, c'est...
+
+  97: 00:10:18.04 00:10:21.06  Duration 00:00:03.02  46
+On est sortis ensemble à 13 ans,
+ça a duré une semaine.
+
+  98: 00:10:21.22 00:10:22.24  Duration 00:00:01.02  16
+Quand même!
+
+  99: 00:10:24.14 00:10:26.09  Duration 00:00:01.20  27
+Il fait partie de la famille.
+
+ 100: 00:10:27.09 00:10:30.09  Duration 00:00:03.00  45
+Même s'il n'a pas déconnecté
+de moi depuis, c'est...
+
+ 101: 00:10:30.19 00:10:31.23  Duration 00:00:01.04  17
+Je peux comprendre.
+
+ 102: 00:10:34.09 00:10:35.18  Duration 00:00:01.09  20
+C'est-à-dire...?
+
+ 103: 00:10:40.00 00:10:42.12  Duration 00:00:02.12  37
+Je peux comprendre la...
+
+ 104: 00:10:44.18 00:10:46.20  Duration 00:00:02.02  31
+Toi, lui...
+
+ 105: 00:10:46.24 00:10:48.11  Duration 00:00:01.12  22
+La notion d'ami.
+
+ 106: 00:10:50.10 00:10:51.19  Duration 00:00:01.09  20
+Je peux comprendre, quoi.
+
+ 107: 00:10:53.15 00:10:55.08  Duration 00:00:01.18  26
+Vous deviez pas y aller?
+
+ 108: 00:10:55.24 00:10:56.24  Duration 00:00:01.00  15
+Ouais.
+
+ 109: 00:11:00.06 00:11:02.02  Duration 00:00:01.21  28
+Vous vouliez téléphoner, non?
+
+ 110: 00:11:02.19 00:11:04.11  Duration 00:00:01.17  25
+Ouais, je vais téléphoner.
+
+ 111: 00:11:05.10 00:11:08.09  Duration 00:00:02.24  44
+- Il faut que je téléphone.
+- Ah oui, le téléphone.
+
+ 112: 00:11:09.07 00:11:10.18  Duration 00:00:01.11  22
+Il est dans ma poche.
+
+ 113: 00:11:15.13 00:11:18.22  Duration 00:00:03.09  50
+Ne téléphonez pas 3 heures,
+j'ai pas un forfait illimité.
+
+ 114: 00:11:23.20 00:11:24.22  Duration 00:00:01.02  16
+Oui, Paul. C'est moi.
+
+ 115: 00:11:25.01 00:11:27.23  Duration 00:00:02.22  43
+#C'est quoi, ces conneries
+sur Twitter? Tu m'expliques?#
+
+ 116: 00:11:28.02 00:11:29.05  Duration 00:00:01.03  17
+De quoi tu parles?
+
+ 117: 00:11:29.09 00:11:33.10  Duration 00:00:04.01  61
+#Des photos publiées à une semaine#
+#du Stade de France. T'es suicidaire?#
+
+ 118: 00:11:33.14 00:11:35.14  Duration 00:00:02.00  30
+Je comprends rien à ce que tu dis.
+
+ 119: 00:11:35.18 00:11:39.05  Duration 00:00:03.12  52
+#M. le roi des nouvelles technologies,
+tu vas sur Twitter,#
+
+ 120: 00:11:39.09 00:11:41.24  Duration 00:00:02.15  39
+##MaxALaFerme, et on en reparle.#
+
+ 121: 00:11:47.03 00:11:48.16  Duration 00:00:01.13  23
+Je le crois pas!
+
+ 122: 00:11:50.05 00:11:51.08  Duration 00:00:01.03  17
+La salope!
+
+ 123: 00:11:51.24 00:11:53.07  Duration 00:00:01.08  20
+Ça va, pas trop gêné?
+
+ 124: 00:11:53.23 00:11:56.18  Duration 00:00:02.20  42
+- J'ai pas un forfait illimité.
+- T'as pas déjà appelé #Voici #?
+
+ 125: 00:11:56.22 00:11:59.02  Duration 00:00:02.05  33
+- Pardon? De quoi vous parlez?
+- De ça!
+
+ 126: 00:12:03.14 00:12:05.21  Duration 00:00:02.07  34
+- C'est pas moi.
+- C'est pas ton téléphone?
+
+ 127: 00:12:07.22 00:12:11.11  Duration 00:00:03.14  53
+On s'intéresse pas à moi
+que pour ma notoriété et ma thune.
+
+ 128: 00:12:13.03 00:12:14.13  Duration 00:00:01.10  21
+- Ça me dégoûte...
+- Hé!
+
+ 129: 00:12:15.07 00:12:17.10  Duration 00:00:02.03  32
+- Même pas en rêve.
+- Calme-toi, Bruce Lee.
+
+ 130: 00:12:17.14 00:12:18.15  Duration 00:00:01.01  16
+Sinon quoi?
+
+ 131: 00:12:28.11 00:12:32.11  Duration 00:00:04.00  60
+#- La voiture de Monsieur est amenée.#
+- Toujours aussi bien, ton truc.
+
+ 132: 00:13:02.08 00:13:03.06  Duration 00:00:00.23  14
+Putain, Angèle...
+
+ 133: 00:13:04.00 00:13:05.05  Duration 00:00:01.05  18
+Angèle!
+
+ 134: 00:13:12.22 00:13:16.03  Duration 00:00:03.06  49
+#maxalaferme fin de l'histoire
+
+ 135: 00:13:16.23 00:13:19.06  Duration 00:00:02.08  35
+fin
+
+ 136: 00:13:32.13 00:13:35.13  Duration 00:00:03.00  45
+Sous-titrage: ECLAIR
+
