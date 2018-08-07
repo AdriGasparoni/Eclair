@@ -1,0 +1,1656 @@
+
+   1: 10:00:06.23 10:00:08.18  Duration 00:00:01.20  27
+Monte Carlo Riviera Chik
+
+   2: 10:00:24.21 10:00:27.04  Duration 00:00:02.08  35
+Olá. Bem-vindo
+a# Monte Carlo Riviera Chik,#
+
+   3: 10:00:27.08 10:00:29.05  Duration 00:00:01.22  28
+o programa mensal
+chique e tendência
+
+   4: 10:00:29.09 10:00:32.03  Duration 00:00:02.19  41
+dedicado à# art de vivre#
+no Principado de Mônaco,
+
+   5: 10:00:32.08 10:00:33.09  Duration 00:00:01.01  16
+na Provença e Côte d'Azur.
+
+   6: 10:00:36.19 10:00:38.16  Duration 00:00:01.22  28
+#Em pauta, hoje,#
+
+   7: 10:00:38.20 10:00:41.15  Duration 00:00:02.20  42
+#vamos visitar
+uma exposição magistral#
+
+   8: 10:00:41.19 10:00:43.23  Duration 00:00:02.04  32
+#no Grimaldi Forum de Mônaco:#
+
+   9: 10:00:44.02 10:00:45.22  Duration 00:00:01.20  27
+O Ouro dos Faraós.
+
+  10: 10:00:46.01 10:00:48.04  Duration 00:00:02.03  32
+#Depois iremos para Antibes#
+
+  11: 10:00:48.08 10:00:50.16  Duration 00:00:02.08  35
+#para conhecer
+uma morada histórica,#
+
+  12: 10:00:50.20 10:00:54.09  Duration 00:00:03.14  53
+#a Bastide du Roy,
+que pertenceu, entre outros,#
+
+  13: 10:00:54.13 10:00:55.16  Duration 00:00:01.03  17
+#à família Lanvin.#
+
+  14: 10:00:56.19 10:00:59.07  Duration 00:00:02.13  38
+#Depois iremos a Mônaco
+aos bastidores#
+
+  15: 10:00:59.17 10:01:02.17  Duration 00:00:03.00  45
+#do famoso Festival de Televisão
+de Monte Carlo,#
+
+  16: 10:01:02.21 10:01:05.16  Duration 00:00:02.20  42
+#onde a equipe do cabeleireiro
+Cool Bay So B.#
+
+  17: 10:01:05.20 10:01:08.13  Duration 00:00:02.18  41
+#teve a tarefa de pentear
+todos os atores#
+
+  18: 10:01:08.17 10:01:09.22  Duration 00:00:01.05  18
+#durante o festival.#
+
+  19: 10:01:10.13 10:01:13.05  Duration 00:00:02.17  40
+#Nossa viagem
+nos levará depois a Grasse,#
+
+  20: 10:01:13.09 10:01:16.13  Duration 00:00:03.04  47
+#onde iremos encontrar
+Virginie e Gérard Ferry,#
+
+  21: 10:01:16.17 10:01:19.17  Duration 00:00:03.00  45
+#os criadores do famoso restaurante
+L'Orangerie,#
+
+  22: 10:01:19.22 10:01:20.24  Duration 00:00:01.02  16
+#em Los Angeles.#
+
+  23: 10:01:21.03 10:01:22.13  Duration 00:00:01.10  21
+#E para variar,#
+
+  24: 10:01:22.17 10:01:24.15  Duration 00:00:01.23  29
+#daremos um pulinho em Paris#
+
+  25: 10:01:24.19 10:01:29.00  Duration 00:00:04.06  64
+#onde Anthony Delon nos apresentará
+sua coleção de paletós de couro#
+
+  26: 10:01:29.05 10:01:30.18  Duration 00:00:01.13  23
+#na loja Printemps.#
+
+  27: 10:01:30.23 10:01:32.11  Duration 00:00:01.13  23
+#Em Beaulieu-sur-Mer#
+
+  28: 10:01:32.23 10:01:36.02  Duration 00:00:03.04  47
+#iremos ao encontro
+de Jean-Philippe Costa,#
+
+  29: 10:01:36.07 10:01:39.08  Duration 00:00:03.01  46
+#que nos apresentará
+sua especialidade de venda#
+
+  30: 10:01:39.12 10:01:41.17  Duration 00:00:02.05  33
+#das mais belas propriedades
+da Côte d'Azur.#
+
+  31: 10:01:42.06 10:01:43.17  Duration 00:00:01.11  22
+#Nosso programa terminará#
+
+  32: 10:01:43.21 10:01:46.03  Duration 00:00:02.07  34
+#com a agenda
+dos eventos imperdíveis#
+
+  33: 10:01:46.07 10:01:49.00  Duration 00:00:02.18  41
+#em Mônaco e na Côte d'Azur.#
+
+  34: 10:01:49.21 10:01:53.06  Duration 00:00:03.10  51
+#Para sua grande exposição estival
+de 2018,#
+
+  35: 10:01:53.10 10:01:57.24  Duration 00:00:04.14  68
+#o Grimaldi Forum Mônaco
+propõe uma temática egípcia.#
+
+  36: 10:01:58.17 10:02:00.22  Duration 00:00:02.05  33
+#A exposição# O Ouro dos Faraós
+
+  37: 10:02:01.01 10:02:04.21  Duration 00:00:03.20  57
+#reúne mais de 150 obras-primas
+do Museu do Cairo#
+
+  38: 10:02:05.00 10:02:07.19  Duration 00:00:02.19  41
+#e apresenta uma série
+de conjuntos prestigiosos#
+
+  39: 10:02:07.23 10:02:10.18  Duration 00:00:02.20  42
+#descobertos nas tumbas reais
+e principescas#
+
+  40: 10:02:10.22 10:02:12.21  Duration 00:00:01.24  29
+#do Egito faraônico.#
+
+  41: 10:02:15.06 10:02:19.12  Duration 00:00:04.06  64
+O título,# O Ouro dos Faraós,
+#é realmente verídico.
+
+  42: 10:02:19.16 10:02:22.23  Duration 00:00:03.07  49
+Em cada sala
+tem objetos magníficos,
+
+  43: 10:02:23.02 10:02:24.06  Duration 00:00:01.04  17
+objetos preciosos
+
+  44: 10:02:24.18 10:02:26.16  Duration 00:00:01.23  29
+de metal e pedras finas,
+
+  45: 10:02:26.20 10:02:29.17  Duration 00:00:02.22  43
+com dois percursos sucessivos:
+
+  46: 10:02:29.21 10:02:33.21  Duration 00:00:04.00  60
+um percurso temático
+que nos introduz
+
+  47: 10:02:34.01 10:02:39.01  Duration 00:00:05.00  75
+nos desertos egípcios,
+em busca das minas de ouro e prata,
+
+  48: 10:02:40.19 10:02:43.08  Duration 00:00:02.14  38
+em busca de pedras finas.
+
+  49: 10:02:43.12 10:02:45.21  Duration 00:00:02.09  35
+Depois iremos aos ateliês
+
+  50: 10:02:46.00 10:02:49.00  Duration 00:00:03.00  45
+de ourives e joalheiros
+
+  51: 10:02:49.05 10:02:52.02  Duration 00:00:02.22  43
+para ver com que ferramentas
+tão simples
+
+  52: 10:02:52.15 10:02:56.09  Duration 00:00:03.19  56
+realizaram objetos tão delicados.
+
+  53: 10:02:57.05 10:03:02.02  Duration 00:00:04.22  73
+E também tem um tema
+que nunca foi tratado,
+
+  54: 10:03:02.06 10:03:03.09  Duration 00:00:01.03  17
+o das pilhagens
+
+  55: 10:03:03.14 10:03:05.01  Duration 00:00:01.12  22
+das tumbas reais,
+
+  56: 10:03:05.05 10:03:07.06  Duration 00:00:02.01  31
+que vai nos explicar
+
+  57: 10:03:07.10 10:03:09.23  Duration 00:00:02.13  38
+como somos realmente felizardos
+
+  58: 10:03:10.08 10:03:14.07  Duration 00:00:03.24  59
+por ter podido preservar
+alguns desses tesouros.
+
+  59: 10:03:14.11 10:03:16.14  Duration 00:00:02.03  32
+a partir do ano mil
+antes de Cristo,
+
+  60: 10:03:16.18 10:03:18.09  Duration 00:00:01.16  25
+e até no tempo das pirâmides...
+
+  61: 10:03:18.13 10:03:20.15  Duration 00:00:02.02  31
+No ano mil antes de Cristo
+
+  62: 10:03:21.09 10:03:23.10  Duration 00:00:02.01  31
+todo o Vale dos Reis
+foi saqueado
+
+  63: 10:03:23.14 10:03:24.20  Duration 00:00:01.06  19
+por bandos de ladrões.
+
+  64: 10:03:24.24 10:03:26.18  Duration 00:00:01.19  26
+Vamos evocar esse aspecto
+
+  65: 10:03:26.22 10:03:28.24  Duration 00:00:02.02  31
+com depoimentos
+altamente vívidos,
+
+  66: 10:03:29.03 10:03:31.04  Duration 00:00:02.01  31
+já que temos
+os autos dos processos
+
+  67: 10:03:31.08 10:03:33.05  Duration 00:00:01.22  28
+dos ladrões capturados.
+
+  68: 10:03:33.10 10:03:34.22  Duration 00:00:01.12  22
+A maioria dos objetos,
+
+  69: 10:03:35.02 10:03:38.12  Duration 00:00:03.10  51
+150 de menos de 200,
+
+  70: 10:03:38.16 10:03:40.22  Duration 00:00:02.06  34
+vem do Museu do Caire.
+
+  71: 10:03:41.02 10:03:43.09  Duration 00:00:02.07  34
+Alguns nunca saíram de lá.
+
+  72: 10:03:43.13 10:03:45.13  Duration 00:00:02.00  30
+Temos aqui em Mônaco
+
+  73: 10:03:45.17 10:03:48.04  Duration 00:00:02.12  37
+a maior reunião
+
+  74: 10:03:48.09 10:03:51.08  Duration 00:00:02.24  44
+de bijuteria e ourivesaria egípcia
+
+  75: 10:03:51.13 10:03:53.08  Duration 00:00:01.20  27
+jamais exibida.
+
+  76: 10:03:53.12 10:03:56.20  Duration 00:00:03.08  50
+Outros grandes museus
+juntaram-se a nós,
+
+  77: 10:03:56.24 10:03:59.01  Duration 00:00:02.02  31
+como o Louvre,
+que conheço bem,
+
+  78: 10:03:59.05 10:04:02.21  Duration 00:00:03.16  55
+já que dirigi o departamento
+egípcio por 15 anos.
+
+  79: 10:04:03.01 10:04:05.22  Duration 00:00:02.21  43
+Quanto aos materiais preciosos,
+
+  80: 10:04:06.01 10:04:08.20  Duration 00:00:02.19  41
+eu conhecia muitos objetos
+da reserva
+
+  81: 10:04:08.24 10:04:11.21  Duration 00:00:02.22  43
+que podiam vir ilustrar
+nossa proposta.
+
+  82: 10:04:12.00 10:04:14.21  Duration 00:00:02.21  43
+Nessa mesma ideia,
+
+  83: 10:04:15.00 10:04:17.21  Duration 00:00:02.21  43
+também tem o museu
+da École des Mines
+
+  84: 10:04:18.01 10:04:22.05  Duration 00:00:04.04  62
+que nos emprestou amostras
+de pedras brutas e de minerais,
+
+  85: 10:04:22.10 10:04:24.07  Duration 00:00:01.22  28
+de pepitas de ouro, etc.
+
+  86: 10:04:24.11 10:04:28.24  Duration 00:00:04.13  68
+E o Museu de Bruxelas
+consentiu em emprestar esse papiro,
+
+  87: 10:04:29.04 10:04:30.23  Duration 00:00:01.19  26
+que é inestimável.
+
+  88: 10:04:31.02 10:04:33.03  Duration 00:00:02.01  31
+o Museu de Turim, também,
+
+  89: 10:04:33.07 10:04:36.01  Duration 00:00:02.19  41
+nos emprestou dois objetos.
+
+  90: 10:04:36.06 10:04:38.16  Duration 00:00:02.10  36
+O Museu de Marselha também,
+
+  91: 10:04:38.20 10:04:41.05  Duration 00:00:02.10  36
+e o de Viena, na Áustria,
+igualmente.
+
+  92: 10:04:41.10 10:04:45.10  Duration 00:00:04.00  60
+Graças às circunstâncias
+meio especiais do momento...
+
+  93: 10:04:45.15 10:04:49.21  Duration 00:00:04.06  64
+Há um novo museu sendo construído
+
+  94: 10:04:50.08 10:04:51.21  Duration 00:00:01.13  23
+ao pé das pirâmides.
+
+  95: 10:04:52.00 10:04:55.09  Duration 00:00:03.09  50
+Há uma quantidade de objetos
+sendo transferida
+
+  96: 10:04:55.13 10:04:58.06  Duration 00:00:02.18  41
+do antigo museu,
+o da Praça Tahrir,
+
+  97: 10:04:58.11 10:05:01.08  Duration 00:00:02.22  43
+que ficou famosa,
+para esse grande museu.
+
+  98: 10:05:01.12 10:05:03.13  Duration 00:00:02.01  31
+Há salas vazias.
+
+  99: 10:05:04.24 10:05:08.03  Duration 00:00:03.04  47
+A exposição vai ser
+completamente renovada.
+
+ 100: 10:05:08.07 10:05:09.24  Duration 00:00:01.17  25
+É um período fasto
+
+ 101: 10:05:10.15 10:05:13.00  Duration 00:00:02.10  36
+para tirar de certas vitrines
+
+ 102: 10:05:13.04 10:05:17.00  Duration 00:00:03.21  58
+objetos que jamais seriam exibidos
+em outras circunstâncias.
+
+ 103: 10:05:17.04 10:05:20.02  Duration 00:00:02.23  44
+É uma oportunidade.
+
+ 104: 10:05:20.07 10:05:22.16  Duration 00:00:02.09  35
+A generosidade dos egípcios,
+também,
+
+ 105: 10:05:22.20 10:05:27.05  Duration 00:00:04.10  66
+que querem divulgar
+os tesouros do seu país,
+
+ 106: 10:05:27.23 10:05:32.10  Duration 00:00:04.12  67
+incitar os ocidentais
+e os visitantes a ir mais além
+
+ 107: 10:05:32.14 10:05:35.16  Duration 00:00:03.02  46
+e ir visitar
+
+ 108: 10:05:35.20 10:05:37.24  Duration 00:00:02.04  32
+o local de origem
+desses objetos.
+
+ 109: 10:05:38.09 10:05:41.18  Duration 00:00:03.09  50
+Pessoalmente,
+acontece que eu trabalhei
+
+ 110: 10:05:41.22 10:05:46.01  Duration 00:00:04.04  62
+com um grupo de colegas do Louvre
+e dos laboratórios sobre técnicas
+
+ 111: 10:05:46.05 10:05:47.24  Duration 00:00:01.19  26
+de ourivesaria antiga.
+
+ 112: 10:05:48.03 10:05:50.08  Duration 00:00:02.05  33
+Era um meio de comunicar,
+
+ 113: 10:05:50.12 10:05:53.04  Duration 00:00:02.17  40
+de divulgar o que encontramos.
+
+ 114: 10:05:53.09 10:05:55.20  Duration 00:00:02.11  37
+A exposição
+no Principado de Mônaco
+
+ 115: 10:05:55.24 10:05:57.16  Duration 00:00:01.17  25
+7 julho - 9 setembro 2018
+
+ 116: 10:05:58.05 10:06:00.23  Duration 00:00:02.18  41
+#Lugar único na Côte d'Azur,#
+
+ 117: 10:06:01.02 10:06:04.16  Duration 00:00:03.14  53
+#a Bastide du Roy
+viu passar reis, condes,#
+
+ 118: 10:06:04.21 10:06:08.13  Duration 00:00:03.17  55
+#príncipes, artistas,
+escritores, estilistas,#
+
+ 119: 10:06:08.17 10:06:10.06  Duration 00:00:01.14  23
+#e ainda roqueiros.#
+
+ 120: 10:06:10.11 10:06:14.24  Duration 00:00:04.13  68
+#Convidamos você a descobrir
+esse lugar mágico e sua história.#
+
+ 121: 10:06:15.04 10:06:17.15  Duration 00:00:02.11  37
+A Bastide du Roy fica em Antibes,
+
+ 122: 10:06:17.19 10:06:19.11  Duration 00:00:01.17  25
+à beira do Golfo de Biot.
+
+ 123: 10:06:19.15 10:06:22.05  Duration 00:00:02.15  39
+O edifício data
+do início do século XVI.
+
+ 124: 10:06:22.09 10:06:24.20  Duration 00:00:02.11  37
+O prédio tem cerca de 700 m²
+
+ 125: 10:06:24.24 10:06:27.13  Duration 00:00:02.14  38
+e a propriedade tem 7 hectares.
+
+ 126: 10:06:27.17 10:06:28.18  Duration 00:00:01.01  16
+O rei Henrique IV
+
+ 127: 10:06:28.23 10:06:33.06  Duration 00:00:04.08  65
+compra a cidade de Antibes
+dos Grimaldi em 1604.
+
+ 128: 10:06:33.11 10:06:36.16  Duration 00:00:03.05  48
+Em 1608, a Bastide du Roy,
+que era uma sede de fazenda,
+
+ 129: 10:06:36.20 10:06:38.22  Duration 00:00:02.02  31
+é dada de presente
+a Henrique IV.
+
+ 130: 10:06:39.01 10:06:42.23  Duration 00:00:03.22  58
+Ele aproveitou pouco, pois
+Ravaillac, passando por lá em 1610,
+
+ 131: 10:06:43.02 10:06:44.07  Duration 00:00:01.05  18
+assassinou o rei.
+
+ 132: 10:06:44.12 10:06:47.03  Duration 00:00:02.16  40
+É em 1779 que Luís XV
+
+ 133: 10:06:47.08 10:06:49.17  Duration 00:00:02.09  35
+decide vender
+uma grande parte de Antibes
+
+ 134: 10:06:49.21 10:06:52.00  Duration 00:00:02.04  32
+e essa propriedade.
+
+ 135: 10:06:52.04 10:06:53.18  Duration 00:00:01.14  23
+É a partir daí
+
+ 136: 10:06:53.22 10:06:57.15  Duration 00:00:03.18  56
+que a propriedade ganhará
+o brasão de Bastide du Roy.
+
+ 137: 10:06:57.20 10:07:01.01  Duration 00:00:03.06  49
+ao longo dos séculos XVII,
+XVIII e XIX,
+
+ 138: 10:07:01.05 10:07:04.07  Duration 00:00:03.02  46
+a propriedade passará pelas mãos
+de vários condes.
+
+ 139: 10:07:04.12 10:07:08.09  Duration 00:00:03.22  58
+É em 1924 que realmente
+
+ 140: 10:07:08.13 10:07:11.14  Duration 00:00:03.01  46
+a Bastide será tombada
+como patrimônio,
+
+ 141: 10:07:11.18 10:07:13.08  Duration 00:00:01.15  24
+sítio de grande importância,
+
+ 142: 10:07:13.13 10:07:16.22  Duration 00:00:03.09  50
+já que é Jeanne Lanvin,
+designer e estilista parisiense,
+
+ 143: 10:07:17.01 10:07:18.22  Duration 00:00:01.21  28
+que decidirá comprá-la.
+
+ 144: 10:07:19.02 10:07:22.17  Duration 00:00:03.15  54
+Madame Lanvin
+é apaixonada por arte.
+
+ 145: 10:07:22.21 10:07:24.16  Duration 00:00:01.20  27
+O objetivo desa compra
+
+ 146: 10:07:24.21 10:07:28.16  Duration 00:00:03.20  57
+é simples: ela vai dar
+à sua filha, Marie-Blanche,
+
+ 147: 10:07:29.12 10:07:31.07  Duration 00:00:01.20  27
+com presente de casamento.
+
+ 148: 10:07:31.17 10:07:34.04  Duration 00:00:02.12  37
+Ela se casa
+com o conde de Polignac,
+
+ 149: 10:07:34.08 10:07:36.14  Duration 00:00:02.06  34
+que é primo em primeiro grau
+
+ 150: 10:07:36.18 10:07:39.02  Duration 00:00:02.09  35
+da família principesca de Mônaco,
+os Grimaldi.
+
+ 151: 10:07:39.12 10:07:40.24  Duration 00:00:01.12  22
+Vários concertos
+acontecem aqui.
+
+ 152: 10:07:41.03 10:07:43.03  Duration 00:00:02.00  30
+Vão receber belas celebridades:
+
+ 153: 10:07:43.07 10:07:46.16  Duration 00:00:03.09  50
+a condessa de Noailles,
+Mauriac, Cocteau...
+
+ 154: 10:07:47.11 10:07:51.20  Duration 00:00:04.09  65
+Tivemos a sorte, na minha família,
+de pder frequentar este lugar
+
+ 155: 10:07:51.24 10:07:54.05  Duration 00:00:02.06  34
+a partir de 1989.
+
+ 156: 10:07:54.09 10:07:56.24  Duration 00:00:02.15  39
+Meu pai é antiquário.
+
+ 157: 10:07:57.03 10:07:59.10  Duration 00:00:02.07  34
+Ele via essa casa desde menino.
+
+ 158: 10:07:59.14 10:08:01.13  Duration 00:00:01.24  29
+Era um sonho de infância.
+
+ 159: 10:08:01.17 10:08:04.19  Duration 00:00:03.02  46
+Ele virá morar aqui
+durante vários anos,
+
+ 160: 10:08:04.23 10:08:08.20  Duration 00:00:03.22  58
+criar exposições efêmeras,
+receber muitos artistas.
+
+ 161: 10:08:09.00 10:08:13.08  Duration 00:00:04.08  65
+A propriedade
+também servirá de vitrine
+
+ 162: 10:08:13.13 10:08:16.20  Duration 00:00:03.07  49
+para antiquários especializados
+nos séc. XVII e XVIII.
+
+ 163: 10:08:17.00 10:08:19.24  Duration 00:00:02.24  44
+Em 2004 tivemos
+a chance de comprá-la.
+
+ 164: 10:08:20.03 10:08:21.06  Duration 00:00:01.03  17
+Chance e complicação.
+
+ 165: 10:08:21.10 10:08:23.07  Duration 00:00:01.22  28
+É um lugar excepcional
+
+ 166: 10:08:24.05 10:08:25.20  Duration 00:00:01.15  24
+que devemos
+continuar preservando.
+
+ 167: 10:08:25.24 10:08:29.03  Duration 00:00:03.04  47
+O mundo dos eventos
+é um mundo bem aberto
+
+ 168: 10:08:29.07 10:08:31.18  Duration 00:00:02.11  37
+e com possibilidades
+de múltiplas coisas.
+
+ 169: 10:08:32.13 10:08:34.06  Duration 00:00:01.18  26
+É uma das possibilidades
+
+ 170: 10:08:34.10 10:08:36.19  Duration 00:00:02.09  35
+para manter um sítio
+dessa envergadura,
+
+ 171: 10:08:36.24 10:08:39.11  Duration 00:00:02.12  37
+seja para casamentos,
+
+ 172: 10:08:40.09 10:08:42.00  Duration 00:00:01.16  25
+seja para filmagens,
+
+ 173: 10:08:42.17 10:08:44.07  Duration 00:00:01.15  24
+publicidades,
+
+ 174: 10:08:44.12 10:08:46.09  Duration 00:00:01.22  28
+#team building#,
+
+ 175: 10:08:46.13 10:08:48.07  Duration 00:00:01.19  26
+eventos empresariais.
+
+ 176: 10:08:48.11 10:08:52.16  Duration 00:00:04.05  63
+Podemos fazer aqui muitas coisas.
+Há múltiplas configurações.
+
+ 177: 10:08:52.20 10:08:55.20  Duration 00:00:03.00  45
+É o meio de conservar este lugar
+
+ 178: 10:08:56.00 10:08:58.02  Duration 00:00:02.02  31
+num belo estado,
+
+ 179: 10:08:58.06 10:09:00.02  Duration 00:00:01.21  28
+já que também somos
+
+ 180: 10:09:00.07 10:09:02.12  Duration 00:00:02.05  33
+tombados como monumento histórico.
+
+ 181: 10:09:02.16 10:09:03.16  Duration 00:00:01.00  15
+É preciso
+
+ 182: 10:09:04.22 10:09:08.14  Duration 00:00:03.17  55
+preservar uma certa pureza,
+uma certa ética.
+
+ 183: 10:09:08.19 10:09:12.10  Duration 00:00:03.16  55
+A coisa mais importante é
+amar este lugar, animá-lo.
+
+ 184: 10:09:12.20 10:09:15.19  Duration 00:00:02.24  44
+Somos uma família de antiquários
+há mais de 50 anos.
+
+ 185: 10:09:15.23 10:09:17.12  Duration 00:00:01.14  23
+Tenho pais entusiastas.
+
+ 186: 10:09:17.16 10:09:20.16  Duration 00:00:03.00  45
+Hoje, tenho a sorte
+de ter uma irmã
+
+ 187: 10:09:21.03 10:09:23.15  Duration 00:00:02.12  37
+que faz perdurar
+o ofício de antiquário,
+
+ 188: 10:09:23.19 10:09:25.24  Duration 00:00:02.05  33
+que está na Galerie de Paris.
+
+ 189: 10:09:26.03 10:09:27.20  Duration 00:00:01.17  25
+Assim podemos nos dividir:
+
+ 190: 10:09:27.24 10:09:30.08  Duration 00:00:02.09  35
+eu cuido das entidades de Antibes,
+
+ 191: 10:09:30.20 10:09:33.15  Duration 00:00:02.20  42
+e ela cuida da propriedade de Paris.
+
+ 192: 10:09:33.20 10:09:37.03  Duration 00:00:03.08  50
+A Bastide
+continua servindo de vitrine.
+
+ 193: 10:09:37.07 10:09:39.11  Duration 00:00:02.04  32
+Recebemos muitos clientes aqui.
+
+ 194: 10:09:40.06 10:09:44.20  Duration 00:00:04.14  68
+É por isso que decidimos
+continuar mobiliando a propriedade
+
+ 195: 10:09:45.00 10:09:48.06  Duration 00:00:03.06  49
+misturando arte contemporânea
+e arte antiga.
+
+ 196: 10:09:48.10 10:09:51.06  Duration 00:00:02.21  43
+Alguns cômodos são mais como museus,
+talvez,
+
+ 197: 10:09:51.10 10:09:53.22  Duration 00:00:02.12  37
+outros mais artísticos.
+
+ 198: 10:09:54.01 10:09:56.14  Duration 00:00:02.13  38
+É uma mistura criada
+por Georges Gismondi
+
+ 199: 10:09:56.18 10:10:00.03  Duration 00:00:03.10  51
+e que gostamos de continuar
+mantendo no nosso espaço.
+
+ 200: 10:10:04.19 10:10:08.13  Duration 00:00:03.19  56
+#Criado em 1961
+pelo príncipe Rainier III,#
+
+ 201: 10:10:08.23 10:10:11.21  Duration 00:00:02.23  44
+#o Festival de Televisão
+de Monte Carlo#
+
+ 202: 10:10:12.01 10:10:14.07  Duration 00:00:02.06  34
+#apresenta há mais de meio século#
+
+ 203: 10:10:14.12 10:10:17.11  Duration 00:00:02.24  44
+#as tendências do mundo televisivo
+internacional.#
+
+ 204: 10:10:17.15 10:10:19.10  Duration 00:00:01.20  27
+#Vamos aos bastidores
+do festival#
+
+ 205: 10:10:19.22 10:10:23.10  Duration 00:00:03.13  53
+#com Frédérique Marsan,
+dono da Cool Bay So B.,#
+
+ 206: 10:10:23.20 10:10:25.22  Duration 00:00:02.02  31
+#cabeleireiro oficial do evento.#
+
+ 207: 10:10:28.11 10:10:32.07  Duration 00:00:03.21  58
+Nosso papel foi pentear
+todas as estrelas,
+
+ 208: 10:10:32.11 10:10:33.06  Duration 00:00:00.20  12
+todos os atores,
+
+ 209: 10:10:33.11 10:10:36.08  Duration 00:00:02.22  43
+todos os jornalistas do festival.
+
+ 210: 10:10:36.12 10:10:37.23  Duration 00:00:01.11  22
+Eram 14 cabeleireiros
+
+ 211: 10:10:38.11 10:10:40.11  Duration 00:00:02.00  30
+das 7h, 7h30,
+
+ 212: 10:10:40.16 10:10:41.12  Duration 00:00:00.21  13
+até a noite.
+
+ 213: 10:10:41.16 10:10:44.16  Duration 00:00:03.00  45
+Tínhamos um timing bem apertado
+de 30 minutos,
+
+ 214: 10:10:44.21 10:10:46.23  Duration 00:00:02.02  31
+45 minutos no máximo.
+
+ 215: 10:10:47.03 10:10:50.14  Duration 00:00:03.11  52
+O dia todo eles circularam
+entre Monte Carlo Bay,
+
+ 216: 10:10:50.18 10:10:52.24  Duration 00:00:02.06  34
+Grimaldi Forum,
+Hôtel de Paris, também.
+
+ 217: 10:10:54.05 10:10:56.04  Duration 00:00:01.24  29
+Ficamos no front o dia todo.
+
+ 218: 10:10:56.09 10:10:59.07  Duration 00:00:02.23  44
+A logística foi organizada
+de antemão,
+
+ 219: 10:10:59.11 10:11:01.06  Duration 00:00:01.20  27
+por cerca de um mês.
+
+ 220: 10:11:01.11 10:11:03.07  Duration 00:00:01.21  28
+As marcações chegavam.
+
+ 221: 10:11:03.11 10:11:05.16  Duration 00:00:02.05  33
+Candy foi administrando
+as marcações.
+
+ 222: 10:11:05.20 10:11:07.16  Duration 00:00:01.21  28
+Uma agenda enorme
+a controlar.
+
+ 223: 10:11:07.20 10:11:11.03  Duration 00:00:03.08  50
+14 cabeleireiros rodando
+em todo o Grimaldi
+
+ 224: 10:11:11.15 10:11:13.20  Duration 00:00:02.05  33
+e em toda a Monte Carlo Bay.
+
+ 225: 10:11:14.00 10:11:15.18  Duration 00:00:01.18  26
+Penteamos nos quartos.
+
+ 226: 10:11:15.22 10:11:17.22  Duration 00:00:02.00  30
+Também tínhamos um espaço nosso
+
+ 227: 10:11:18.09 10:11:19.09  Duration 00:00:01.00  15
+no Grimaldi Forum.
+
+ 228: 10:11:20.00 10:11:22.05  Duration 00:00:02.05  33
+Lá havia 3 postos de trabalho
+
+ 229: 10:11:22.09 10:11:24.24  Duration 00:00:02.15  39
+aonde vinham os atores sem tempo,
+
+ 230: 10:11:25.03 10:11:27.06  Duration 00:00:02.03  32
+os jornalistas
+que marcavam hora.
+
+ 231: 10:11:27.17 10:11:32.01  Duration 00:00:04.09  65
+Tudo tinha um timing
+contado com precisão.
+
+ 232: 10:11:32.06 10:11:33.05  Duration 00:00:00.24  14
+Era importante,
+
+ 233: 10:11:33.09 10:11:35.13  Duration 00:00:02.04  32
+porque somos daqui.
+O salão
+
+ 234: 10:11:35.18 10:11:37.09  Duration 00:00:01.16  25
+fica no Monte Carlo Bay.
+
+ 235: 10:11:38.09 10:11:40.02  Duration 00:00:01.18  26
+Dá uma visibilidade enorme,
+
+ 236: 10:11:40.07 10:11:41.10  Duration 00:00:01.03  17
+um retorno enorme,
+
+ 237: 10:11:41.20 10:11:45.02  Duration 00:00:03.07  49
+uma experiência meio atípica
+para meus cabeleireiros.
+
+ 238: 10:11:45.07 10:11:48.14  Duration 00:00:03.07  49
+Um grupo de italianos
+colou-se à minha equipe.
+
+ 239: 10:11:48.18 10:11:50.14  Duration 00:00:01.21  28
+Eu não podia tirá-los do salão
+
+ 240: 10:11:50.19 10:11:51.20  Duration 00:00:01.01  16
+por estarmos abertos.
+
+ 241: 10:11:52.09 10:11:53.10  Duration 00:00:01.01  16
+E é isso.
+
+ 242: 10:11:53.15 10:11:55.09  Duration 00:00:01.19  26
+Em nível de experiência...
+
+ 243: 10:11:56.20 10:11:57.19  Duration 00:00:00.24  14
+Atualmente
+
+ 244: 10:11:57.24 10:12:00.11  Duration 00:00:02.12  37
+tentamos evoluir em eventos.
+
+ 245: 10:12:00.22 10:12:03.04  Duration 00:00:02.07  34
+Temos projetos.
+Fizemos o Amber Lounge.
+
+ 246: 10:12:03.15 10:12:06.12  Duration 00:00:02.22  43
+Projetos para ter
+uma visibilidade diferente,
+
+ 247: 10:12:06.17 10:12:09.18  Duration 00:00:03.01  46
+um pouco mais internacional,
+também.
+
+ 248: 10:12:09.23 10:12:11.00  Duration 00:00:01.02  16
+Temos belos projetos.
+
+ 249: 10:12:11.13 10:12:12.14  Duration 00:00:01.01  16
+Correu tudo bem.
+
+ 250: 10:12:12.18 10:12:16.20  Duration 00:00:04.02  61
+Temos uma relação extraordinária
+com o pessoal do festival.
+
+ 251: 10:12:16.24 10:12:18.09  Duration 00:00:01.10  21
+A equipe deles é ótima.
+
+ 252: 10:12:18.13 10:12:21.22  Duration 00:00:03.09  50
+Para um 1º ano,
+foi importante tê-los do nosso lado.
+
+ 253: 10:12:22.01 10:12:22.24  Duration 00:00:00.23  14
+Foram perfeitos.
+
+ 254: 10:12:23.04 10:12:25.24  Duration 00:00:02.20  42
+Para as mulheres,
+como expliquei,
+
+ 255: 10:12:26.04 10:12:27.18  Duration 00:00:01.14  23
+é bem natural.
+
+ 256: 10:12:27.23 10:12:30.12  Duration 00:00:02.14  38
+Estamos muito no# wave,
+#nos cachos.
+
+ 257: 10:12:30.16 10:12:32.05  Duration 00:00:01.14  23
+É um espírito
+bem natural.
+
+ 258: 10:12:32.09 10:12:34.13  Duration 00:00:02.04  32
+Na maquiagem, é a mesma coisa.
+
+ 259: 10:12:35.10 10:12:38.00  Duration 00:00:02.15  39
+Os homens...
+O homem é mais fácil.
+
+ 260: 10:12:38.05 10:12:41.17  Duration 00:00:03.12  52
+Não lavamos o cabelo deles
+nem pintamos
+
+ 261: 10:12:41.22 10:12:43.05  Duration 00:00:01.08  20
+nem cortamos.
+
+ 262: 10:12:43.10 10:12:45.09  Duration 00:00:01.24  29
+Elas tinham de estar prontas
+
+ 263: 10:12:45.14 10:12:47.13  Duration 00:00:01.24  29
+para ir à recepção à noite,
+
+ 264: 10:12:48.05 10:12:49.18  Duration 00:00:01.13  23
+ou às entrevistas,
+
+ 265: 10:12:50.10 10:12:52.01  Duration 00:00:01.16  25
+ou assinar autógrafos.
+
+ 266: 10:12:52.11 10:12:55.07  Duration 00:00:02.21  43
+Havia recepções no Grimaldi Forum.
+
+ 267: 10:12:55.11 10:12:57.18  Duration 00:00:02.07  34
+Havia festas no Monte Carlo Bay.
+
+ 268: 10:12:57.22 10:13:01.23  Duration 00:00:04.01  61
+Participamos de todas as festas.
+Estávamos no front dia e noite.
+
+ 269: 10:13:09.05 10:13:11.13  Duration 00:00:02.08  35
+#Virginie e Gérard Ferry#
+
+ 270: 10:13:11.18 10:13:14.01  Duration 00:00:02.08  35
+#são muito conhecidos
+em Los Angeles.#
+
+ 271: 10:13:14.06 10:13:15.15  Duration 00:00:01.09  20
+#Seu restaurante,
+L'Orangerie,#
+
+ 272: 10:13:15.19 10:13:20.03  Duration 00:00:04.09  65
+#foi apreciado pelas maiores estrelas
+do cinema americano.#
+
+ 273: 10:13:20.07 10:13:22.05  Duration 00:00:01.23  29
+#Hoje morando em Grasse,#
+
+ 274: 10:13:22.09 10:13:25.10  Duration 00:00:03.01  46
+#os Ferry se lançaram
+numa nova aventura:#
+
+ 275: 10:13:25.14 10:13:27.16  Duration 00:00:02.02  31
+#a produção de azeite de oliva.#
+
+ 276: 10:13:28.19 10:13:32.20  Duration 00:00:04.01  61
+A história começa em Cannes.
+Eu tinha pouco mais de 22 anos.
+
+ 277: 10:13:32.24 10:13:35.20  Duration 00:00:02.21  43
+Eu procurava um lugar
+para começar
+
+ 278: 10:13:35.24 10:13:37.16  Duration 00:00:01.17  25
+minha vida profissional.
+
+ 279: 10:13:37.20 10:13:41.16  Duration 00:00:03.21  58
+Aprendi a cozinhar mais jovem,
+quando meu pai morreu.
+
+ 280: 10:13:41.21 10:13:44.13  Duration 00:00:02.17  40
+E depois, procurando,
+
+ 281: 10:13:44.17 10:13:49.10  Duration 00:00:04.18  71
+encontrei, por acaso,
+uma espécie de cave de pescador
+
+ 282: 10:13:49.14 10:13:52.05  Duration 00:00:02.16  40
+na subida do Suquet, em Cannes.
+
+ 283: 10:13:52.09 10:13:55.03  Duration 00:00:02.19  41
+Conheci gente
+do mundo do espetáculo.
+
+ 284: 10:13:55.08 10:13:59.02  Duration 00:00:03.19  56
+Jean-Claude Brialy me disse: "Se
+quiser um restaurante em Paris, diga,
+
+ 285: 10:13:59.06 10:14:00.20  Duration 00:00:01.14  23
+"e abrimos juntos."
+
+ 286: 10:14:01.00 10:14:04.07  Duration 00:00:03.07  49
+No fim de 1965,
+eu passeava na Ilha Saint-Louis.
+
+ 287: 10:14:04.11 10:14:06.19  Duration 00:00:02.08  35
+Tinha um café à venda.
+
+ 288: 10:14:06.23 10:14:09.06  Duration 00:00:02.08  35
+Liguei para o Jean-Claude.
+
+ 289: 10:14:09.10 10:14:12.17  Duration 00:00:03.07  49
+Ele disse: "Venha almoçar amanhã.
+Veremos o local."
+
+ 290: 10:14:12.21 10:14:15.13  Duration 00:00:02.17  40
+À tarde, o negócio estava fechado.
+
+ 291: 10:14:15.17 10:14:16.17  Duration 00:00:01.00  15
+O restaurante
+
+ 292: 10:14:16.22 10:14:18.16  Duration 00:00:01.19  26
+é um sucesso incrível
+
+ 293: 10:14:18.20 10:14:21.08  Duration 00:00:02.13  38
+aonde ia realmente todo mundo.
+
+ 294: 10:14:21.12 10:14:24.08  Duration 00:00:02.21  43
+Os Rothschild iam,
+Marie-Hélène de Rothschild ia,
+
+ 295: 10:14:24.12 10:14:26.00  Duration 00:00:01.13  23
+artistas iam,
+
+ 296: 10:14:26.04 10:14:30.09  Duration 00:00:04.05  63
+Givenchy, Visconti, etc.
+
+ 297: 10:14:30.14 10:14:33.04  Duration 00:00:02.15  39
+Ele tinha um restaurante
+de sucesso em Paris.
+
+ 298: 10:14:33.08 10:14:34.20  Duration 00:00:01.12  22
+Ia divinamente bem.
+
+ 299: 10:14:34.24 10:14:36.00  Duration 00:00:01.01  16
+Por que partir?
+
+ 300: 10:14:36.12 10:14:38.05  Duration 00:00:01.18  26
+Tinha todo o resto,
+
+ 301: 10:14:38.09 10:14:42.10  Duration 00:00:04.01  61
+Sentíamos que o restaurante
+precisava de mais espaço.
+
+ 302: 10:14:42.14 10:14:43.09  Duration 00:00:00.20  12
+Quero dizer...
+
+ 303: 10:14:43.19 10:14:46.08  Duration 00:00:02.14  38
+Eu lhe disse:
+"Não continue vivendo assim.
+
+ 304: 10:14:46.12 10:14:47.15  Duration 00:00:01.03  17
+"Mude sua vida.
+
+ 305: 10:14:47.20 10:14:50.03  Duration 00:00:02.08  35
+"Expanda.
+Vamos fazer outra coisa."
+
+ 306: 10:14:50.07 10:14:53.16  Duration 00:00:03.09  50
+Os Estados Unidos
+eram um sonho meu de menina.
+
+ 307: 10:14:53.21 10:14:56.01  Duration 00:00:02.05  33
+Sempre disse
+que um dia iria para lá.
+
+ 308: 10:14:56.05 10:14:59.05  Duration 00:00:03.00  45
+Eu realmente acreditava.
+E aí aconteceu.
+
+ 309: 10:14:59.20 10:15:01.12  Duration 00:00:01.17  25
+Encontramos um terreno
+
+ 310: 10:15:01.16 10:15:05.10  Duration 00:00:03.19  56
+e embarcamos em um ano de obras
+
+ 311: 10:15:05.14 10:15:07.17  Duration 00:00:02.03  32
+para construir
+num local alugado.
+
+ 312: 10:15:07.22 10:15:09.23  Duration 00:00:02.01  31
+Foi assim
+o começo na Califórnia.
+
+ 313: 10:15:10.02 10:15:13.00  Duration 00:00:02.23  44
+Depois começamos a montar a equipe
+
+ 314: 10:15:13.04 10:15:14.22  Duration 00:00:01.18  26
+para abrir o L'Orangerie.
+
+ 315: 10:15:15.01 10:15:17.01  Duration 00:00:02.00  30
+Fomos muito exigentes.
+
+ 316: 10:15:17.15 10:15:21.09  Duration 00:00:03.19  56
+Queríamos um restaurante francês
+de verdade nos EUA.
+
+ 317: 10:15:21.13 10:15:23.11  Duration 00:00:01.23  29
+Aí veio a inauguração.
+
+ 318: 10:15:23.16 10:15:26.18  Duration 00:00:03.02  46
+A aventura começou
+e durou pouco mais de 30 anos.
+
+ 319: 10:15:26.23 10:15:31.01  Duration 00:00:04.03  62
+Foi para nós uma experiência
+profissional fantástica,
+
+ 320: 10:15:31.05 10:15:32.19  Duration 00:00:01.14  23
+humana,
+interessantíssima.
+
+ 321: 10:15:32.23 10:15:36.13  Duration 00:00:03.15  54
+Descobrimos um povo
+que conhecíamos pouco ou mal.
+
+ 322: 10:15:36.18 10:15:39.23  Duration 00:00:03.05  48
+Compramos uma propriedade
+no campo perto de Cannes,
+
+ 323: 10:15:40.02 10:15:41.23  Duration 00:00:01.21  28
+perto de Grasse,
+
+ 324: 10:15:42.10 10:15:44.21  Duration 00:00:02.11  37
+que era uma propriedade bem simples,
+
+ 325: 10:15:45.00 10:15:48.18  Duration 00:00:03.18  56
+mas com umas mil oliveiras.
+
+ 326: 10:15:48.22 10:15:50.16  Duration 00:00:01.19  26
+Compramos essa propriedade.
+
+ 327: 10:15:50.20 10:15:53.12  Duration 00:00:02.17  40
+Enquanto isso,
+construímos nossa casa.
+
+ 328: 10:15:53.17 10:15:57.14  Duration 00:00:03.22  58
+Tinha uma velha estância
+que reformamos por 1 ano e meio,
+
+ 329: 10:15:59.09 10:16:01.09  Duration 00:00:02.00  30
+onde construímos uma piscina
+
+ 330: 10:16:01.13 10:16:06.01  Duration 00:00:04.13  68
+e que destinamos
+à locação temporária.
+
+ 331: 10:16:06.05 10:16:07.17  Duration 00:00:01.12  22
+Fazemos nessa estância
+
+ 332: 10:16:08.02 10:16:09.17  Duration 00:00:01.15  24
+azeite orgânico.
+
+ 333: 10:16:10.02 10:16:12.22  Duration 00:00:02.20  42
+Cuidamos de uma colônia de abelhas
+
+ 334: 10:16:13.02 10:16:13.22  Duration 00:00:00.20  12
+para ajudá-las.
+
+ 335: 10:16:14.01 10:16:16.12  Duration 00:00:02.11  37
+Tivemos aqui, em 10 anos, talvez,
+
+ 336: 10:16:16.16 10:16:18.15  Duration 00:00:01.24  29
+15 anos ou 20 anos,
+
+ 337: 10:16:18.19 10:16:20.19  Duration 00:00:02.00  30
+umas 7 ou 8 medalhas.
+
+ 338: 10:16:21.07 10:16:25.06  Duration 00:00:03.24  59
+Ganhamos ano passado a de ouro
+no Concours Général de Paris.
+
+ 339: 10:16:25.11 10:16:28.19  Duration 00:00:03.08  50
+Este ano ganhamos
+a medalha de prata em Paris.
+
+ 340: 10:16:28.24 10:16:32.09  Duration 00:00:03.10  51
+É uma grande satisfação.
+
+ 341: 10:16:32.13 10:16:34.06  Duration 00:00:01.18  26
+Com o passar do tempo,
+
+ 342: 10:16:34.11 10:16:38.07  Duration 00:00:03.21  58
+a título pessoal,
+isso me dá muito prazer
+
+ 343: 10:16:38.11 10:16:39.17  Duration 00:00:01.06  19
+no dia a dia.
+
+ 344: 10:16:39.22 10:16:43.20  Duration 00:00:03.23  59
+A ponto de viajar me incomodar.
+
+ 345: 10:16:44.00 10:16:45.06  Duration 00:00:01.06  19
+Não quero sair daqui.
+
+ 346: 10:16:45.10 10:16:48.14  Duration 00:00:03.04  47
+Achei um equilíbrio pessoal aqui
+
+ 347: 10:16:48.18 10:16:50.12  Duration 00:00:01.19  26
+que me satisfaz plenamente.
+
+ 348: 10:16:53.08 10:16:57.01  Duration 00:00:03.18  56
+#Agora vamos para Paris
+encontrar Anthony Delon,#
+
+ 349: 10:16:57.05 10:17:00.20  Duration 00:00:03.15  54
+#que lançou sua coleção
+de paletós de couro na Printemps.#
+
+ 350: 10:17:01.00 10:17:02.23  Duration 00:00:01.23  29
+#Para essa coleção cápsula,#
+
+ 351: 10:17:03.03 10:17:06.21  Duration 00:00:03.18  56
+#o criador da marca,
+a Anthony Delon 1985,#
+
+ 352: 10:17:07.00 10:17:09.22  Duration 00:00:02.22  43
+#inspirou-se
+no mundo do cinema americano.#
+
+ 353: 10:17:10.02 10:17:11.13  Duration 00:00:01.11  22
+O espírito da coleção
+
+ 354: 10:17:11.17 10:17:14.19  Duration 00:00:03.02  46
+é o que encontramos
+em todas as etiquetas,
+
+ 355: 10:17:14.23 10:17:17.02  Duration 00:00:02.04  32
+neste boné aqui,
+
+ 356: 10:17:18.00 10:17:22.09  Duration 00:00:04.09  65
+que é um provérbio japonês
+do século XVII da cultura samurai,
+
+ 357: 10:17:22.13 10:17:23.24  Duration 00:00:01.11  22
+atribuído aos ronins,
+
+ 358: 10:17:25.02 10:17:27.19  Duration 00:00:02.17  40
+e que significa:
+"Cair 7 vezes, levantar 8."
+
+ 359: 10:17:28.23 10:17:33.05  Duration 00:00:04.07  64
+Leather Anthony Delon 1985
+
+ 360: 10:17:37.20 10:17:39.21  Duration 00:00:02.01  31
+O provérbio
+é atribuído aos ronins.
+
+ 361: 10:17:41.11 10:17:42.19  Duration 00:00:01.08  20
+É meio que minha vida.
+
+ 362: 10:17:42.23 10:17:46.05  Duration 00:00:03.07  49
+Eu caí, levantei, caí, levantei...
+
+ 363: 10:17:46.09 10:17:47.22  Duration 00:00:01.13  23
+É a vida de todo mundo.
+
+ 364: 10:17:48.01 10:17:49.19  Duration 00:00:01.18  26
+Tem gente que cai e levanta.
+
+ 365: 10:17:49.23 10:17:53.18  Duration 00:00:03.20  57
+A maioria de nós
+não tem uma vida linear.
+
+ 366: 10:17:53.22 10:17:58.06  Duration 00:00:04.09  65
+Então esse é o espírito da marca,
+porque isso me corresponde.
+
+ 367: 10:18:53.17 10:18:55.08  Duration 00:00:01.16  25
+Blue Immobilier
+
+ 368: 10:18:55.12 10:18:58.13  Duration 00:00:03.01  46
+#Jean-Philippe Costa,
+da agência Blue Immobilier,#
+
+ 369: 10:18:58.17 10:19:01.19  Duration 00:00:03.02  46
+#especializada na venda
+de propriedades excepcionais#
+
+ 370: 10:19:01.24 10:19:03.01  Duration 00:00:01.02  16
+#na Côte d'Azur,#
+
+ 371: 10:19:03.05 10:19:04.16  Duration 00:00:01.11  22
+#vai falar das demandas#
+
+ 372: 10:19:04.20 10:19:07.21  Duration 00:00:03.01  46
+#e das particularidades
+desse mercado de luxo.#
+
+ 373: 10:19:12.01 10:19:15.04  Duration 00:00:03.03  47
+Comecei no setor imobiliário
+há 20 anos, em Menton,
+
+ 374: 10:19:15.08 10:19:18.14  Duration 00:00:03.06  49
+que era uma linda cidade costeira,
+
+ 375: 10:19:18.19 10:19:21.15  Duration 00:00:02.21  43
+numa agência imobiliária
+onde me formei
+
+ 376: 10:19:21.19 10:19:26.06  Duration 00:00:04.12  67
+e onde tive a sorte
+de encontrar um profissional
+
+ 377: 10:19:26.10 10:19:27.23  Duration 00:00:01.13  23
+que me ensinou o ofício.
+
+ 378: 10:19:28.03 10:19:31.16  Duration 00:00:03.13  53
+Nossa filosofia
+é trabalhar em torno do cliente,
+
+ 379: 10:19:31.21 10:19:35.21  Duration 00:00:04.00  60
+é escutar o cliente, compreender
+realmente suas necessidades,
+
+ 380: 10:19:36.00 10:19:38.15  Duration 00:00:02.15  39
+saber também o que pode
+
+ 381: 10:19:38.20 10:19:39.22  Duration 00:00:01.02  16
+apaixoná-lo,
+
+ 382: 10:19:40.01 10:19:43.20  Duration 00:00:03.19  56
+já que há muita emoção
+
+ 383: 10:19:43.24 10:19:45.19  Duration 00:00:01.20  27
+na compra de uma propriedade.
+
+ 384: 10:19:45.24 10:19:49.17  Duration 00:00:03.18  56
+Em geral eles vêm buscar aqui
+algo diferente,
+
+ 385: 10:19:49.21 10:19:54.01  Duration 00:00:04.05  63
+já que há uma conotação de férias,
+de diversão na Riviera,
+
+ 386: 10:19:54.06 10:19:57.02  Duration 00:00:02.21  43
+e também a noção de glamour.
+
+ 387: 10:19:57.07 10:19:58.20  Duration 00:00:01.13  23
+O interessante na região
+
+ 388: 10:19:58.24 10:20:02.07  Duration 00:00:03.08  50
+é que naturalmente
+esta região atrai o mundo todo.
+
+ 389: 10:20:02.12 10:20:05.17  Duration 00:00:03.05  48
+A filosofia que devemos conservar
+nessa profissão
+
+ 390: 10:20:05.21 10:20:08.08  Duration 00:00:02.12  37
+é um pouco a do artesanato.
+
+ 391: 10:20:08.13 10:20:12.18  Duration 00:00:04.05  63
+Temos de escolher
+entre trabalhar com quantidade
+
+ 392: 10:20:12.22 10:20:14.20  Duration 00:00:01.23  29
+e com qualidade,
+
+ 393: 10:20:14.24 10:20:18.13  Duration 00:00:03.14  53
+isto é, ter menos clientes
+mas atendê-los melhor,
+
+ 394: 10:20:18.17 10:20:22.10  Duration 00:00:03.18  56
+segui-los na evolução da vida deles
+
+ 395: 10:20:22.15 10:20:24.02  Duration 00:00:01.12  22
+criando laços com eles
+
+ 396: 10:20:24.06 10:20:27.10  Duration 00:00:03.04  47
+e acompanhando-os
+após a venda da sua propriedade
+
+ 397: 10:20:27.14 10:20:30.19  Duration 00:00:03.05  48
+primeiramente administrando
+sua propriedade.
+
+ 398: 10:20:30.23 10:20:34.01  Duration 00:00:03.03  47
+Isso envolve a manutenção
+dos jardins, da casa,
+
+ 399: 10:20:34.05 10:20:35.12  Duration 00:00:01.07  19
+a preparação da casa
+
+ 400: 10:20:35.16 10:20:38.21  Duration 00:00:03.05  48
+a cada momento
+que eles desejarem ir ocupá-la.
+
+ 401: 10:20:39.00 10:20:41.12  Duration 00:00:02.12  37
+Isso nos levou a desenvolver,
+por exemplo,
+
+ 402: 10:20:41.17 10:20:46.11  Duration 00:00:04.19  71
+a matrícula das crianças
+para quem vem morar aqui,
+
+ 403: 10:20:46.15 10:20:50.22  Duration 00:00:04.07  64
+os serviços financeiros,
+os financiamentos da propriedade.
+
+ 404: 10:20:51.02 10:20:53.14  Duration 00:00:02.12  37
+Houve um forte aumento dos preços.
+
+ 405: 10:20:53.18 10:20:55.14  Duration 00:00:01.21  28
+É o que também provoca
+
+ 406: 10:20:55.18 10:21:00.16  Duration 00:00:04.23  74
+a atração e a cobiça
+de muitos investidores
+
+ 407: 10:21:00.21 10:21:04.01  Duration 00:00:03.05  48
+e de clientes que desejam
+adquirir uma propriedade.
+
+ 408: 10:21:04.05 10:21:07.08  Duration 00:00:03.03  47
+O que é bom na nossa região
+
+ 409: 10:21:07.12 10:21:11.08  Duration 00:00:03.21  58
+é que podemos
+nos apaixonar por uma casa
+
+ 410: 10:21:11.12 10:21:13.06  Duration 00:00:01.19  26
+num ponto excepcional
+
+ 411: 10:21:13.10 10:21:14.09  Duration 00:00:00.24  14
+e ao mesmo tempo
+
+ 412: 10:21:14.14 10:21:18.01  Duration 00:00:03.12  52
+garantir um investimento seguro
+
+ 413: 10:21:18.06 10:21:22.22  Duration 00:00:04.16  70
+e com uma evolução benéfica
+ao longo do tempo.
+
+ 414: 10:21:23.01 10:21:25.05  Duration 00:00:02.04  32
+A construção de tudo isso
+
+ 415: 10:21:25.09 10:21:27.20  Duration 00:00:02.11  37
+é ter, inicialmente,
+um bem de qualidade
+
+ 416: 10:21:27.24 10:21:30.23  Duration 00:00:02.24  44
+que apresente
+especificidades interessantes
+
+ 417: 10:21:31.02 10:21:34.24  Duration 00:00:03.22  58
+de vista, de posição,
+de exposição ao sol e de localidade.
+
+ 418: 10:21:35.03 10:21:35.24  Duration 00:00:00.21  13
+A localidade
+
+ 419: 10:21:36.04 10:21:38.12  Duration 00:00:02.08  35
+tem um papel importante nos preços.
+
+ 420: 10:21:38.16 10:21:42.16  Duration 00:00:04.00  60
+No Cap Ferrat, no Cap Martin
+ou em Saint-Tropez,
+
+ 421: 10:21:42.20 10:21:47.03  Duration 00:00:04.08  65
+temos lindas belas propriedades,
+propriedades simplesmente únicas.
+
+ 422: 10:21:47.07 10:21:50.23  Duration 00:00:03.16  55
+Acho que a intenção inicial
+é muito importante.
+
+ 423: 10:21:51.02 10:21:53.00  Duration 00:00:01.23  29
+Quando trabalhamos com casas
+
+ 424: 10:21:53.04 10:21:55.24  Duration 00:00:02.20  42
+e propriedades da Côte d'Azur,
+
+ 425: 10:21:56.03 10:21:59.03  Duration 00:00:03.00  45
+a intenção deve sempre vir
+de um amor à 1ª vista.
+
+ 426: 10:21:59.07 10:22:01.02  Duration 00:00:01.20  27
+Deve sempre ter amor
+
+ 427: 10:22:01.06 10:22:05.04  Duration 00:00:03.23  59
+no que o cliente vai realizar
+
+ 428: 10:22:05.08 10:22:07.14  Duration 00:00:02.06  34
+para transmitir...
+
+ 429: 10:22:08.11 10:22:11.16  Duration 00:00:03.05  48
+para a propriedade poder passar
+ao futuro comprador
+
+ 430: 10:22:11.20 10:22:13.16  Duration 00:00:01.21  28
+algo além da sua localização.
+
+ 431: 10:22:13.21 10:22:18.02  Duration 00:00:04.06  64
+A propriedade espera
+encontrar um apaixonado
+
+ 432: 10:22:18.07 10:22:21.22  Duration 00:00:03.15  54
+para escrever uma nova página
+da sua história.
+
+ 433: 10:22:22.02 10:22:25.12  Duration 00:00:03.10  51
+O prazer permanece na nossa região,
+e isso é fascinante.
+
+ 434: 10:22:25.16 10:22:27.10  Duration 00:00:01.19  26
+É que o prazer,
+
+ 435: 10:22:27.14 10:22:30.13  Duration 00:00:02.24  44
+a beleza dos lugares,
+a beleza dos materiais
+
+ 436: 10:22:30.17 10:22:34.22  Duration 00:00:04.05  63
+são o motor
+de toda a nossa atividade.
+
+ 437: 10:22:35.02 10:22:37.23  Duration 00:00:02.21  43
+O que me esforço
+para passar aos nossos colegas
+
+ 438: 10:22:38.02 10:22:41.02  Duration 00:00:03.00  45
+é manter o amor pelo que fazemos.
+
+ 439: 10:22:41.06 10:22:45.18  Duration 00:00:04.12  67
+O princípio que me anima até agora
+
+ 440: 10:22:45.22 10:22:49.12  Duration 00:00:03.15  54
+é antes de tudo pensar
+
+ 441: 10:22:49.16 10:22:53.23  Duration 00:00:04.07  64
+em dar e em transmitir esse prazer,
+o amor pela propriedade ao cliente.
+
+ 442: 10:22:54.03 10:22:56.01  Duration 00:00:01.23  29
+A consequência disso tudo
+
+ 443: 10:22:56.05 10:22:59.08  Duration 00:00:03.03  47
+é que conseguimos ter
+uma atividade próspera.
+
+ 444: 10:22:59.12 10:23:03.02  Duration 00:00:03.15  54
+Nossa única ambição
+é manter nosso posicionamento local,
+
+ 445: 10:23:03.12 10:23:04.15  Duration 00:00:01.03  17
+em pequena escala,
+
+ 446: 10:23:04.19 10:23:09.15  Duration 00:00:04.21  73
+com as relações privilegiadas
+que temos com nossos clientes.
+
+ 447: 10:23:09.20 10:23:13.06  Duration 00:00:03.11  52
+O verdadeiro objetivo
+é perenizar nossa posição.
+
+ 448: 10:23:14.16 10:23:15.24  Duration 00:00:01.08  20
+A agenda
+
+ 449: 10:23:16.03 10:23:20.20  Duration 00:00:04.17  70
+#Concurso Internacional
+de Fogos de Artifício de Mônaco.#
+
+ 450: 10:23:22.01 10:23:24.21  Duration 00:00:02.20  42
+#Criado pela prefeitura de Mônaco
+em 1966#
+
+ 451: 10:23:25.00 10:23:26.05  Duration 00:00:01.05  18
+#para as celebrações#
+
+ 452: 10:23:26.09 10:23:28.19  Duration 00:00:02.10  36
+#do centenário
+do bairro de Monte Carlo,#
+
+ 453: 10:23:28.23 10:23:30.22  Duration 00:00:01.24  29
+#o imperdível concurso#
+
+ 454: 10:23:31.01 10:23:33.14  Duration 00:00:02.13  38
+#de fogos de artifício#
+
+ 455: 10:23:33.18 10:23:36.00  Duration 00:00:02.07  34
+#ocorre na época estival#
+
+ 456: 10:23:36.04 10:23:38.17  Duration 00:00:02.13  38
+#com 4 noites que pontuam o verão#
+
+ 457: 10:23:38.21 10:23:40.23  Duration 00:00:02.02  31
+#e abrasam o céu monegasco.#
+
+ 458: 10:23:44.16 10:23:48.20  Duration 00:00:04.04  62
+#Com mais de 400 espetáculos
+gratuitos em 158 cidades,#
+
+ 459: 10:23:48.24 10:23:52.00  Duration 00:00:03.01  46
+#os Alpes-Maritimes viram
+de junho a setembro#
+
+ 460: 10:23:52.04 10:23:55.07  Duration 00:00:03.03  47
+#uma sala de espetáculos imensa
+a céu aberto.#
+
+ 461: 10:23:55.11 10:23:58.00  Duration 00:00:02.14  38
+#O festival Les Soirées Estivales#
+
+ 462: 10:23:58.04 10:24:02.02  Duration 00:00:03.23  59
+#tornou-se o encontro indispensável
+do verão da Côte d’Azur.#
+
+ 463: 10:24:02.06 10:24:04.02  Duration 00:00:01.21  28
+Mais de 400 shows
+em 158 cidades
+
+ 464: 10:24:18.17 10:24:21.03  Duration 00:00:02.11  37
+Folies des Lacs
+
+ 465: 10:24:22.05 10:24:25.19  Duration 00:00:03.14  53
+Lac de La Colmiane
+
+ 466: 10:24:36.06 10:24:39.04  Duration 00:00:02.23  44
+Le Festival des Mots
+
+ 467: 10:24:39.08 10:24:41.16  Duration 00:00:02.08  35
+8 soirées com atores de renome
+
+ 468: 10:24:49.16 10:24:54.20  Duration 00:00:05.04  77
+Descubra todo o programa em
+soires-estivales.departement06.fr
+
+ 469: 10:24:55.19 10:24:57.10  Duration 00:00:01.16  25
+#Nessa 41ª edição,#
+
+ 470: 10:24:57.15 10:25:01.08  Duration 00:00:03.18  56
+#o Yachting Festival acontecerá,
+com todo ano, em setembro,#
+
+ 471: 10:25:01.13 10:25:03.11  Duration 00:00:01.23  29
+#na cintilante Baía de Cannes,#
+
+ 472: 10:25:03.16 10:25:05.14  Duration 00:00:01.23  29
+#num universo
+luxuoso e elegante.#
+
+ 473: 10:25:05.18 10:25:06.17  Duration 00:00:00.24  14
+#É a chance de ver#
+
+ 474: 10:25:06.22 10:25:08.07  Duration 00:00:01.10  21
+#os últimos barcos#
+
+ 475: 10:25:08.12 10:25:09.22  Duration 00:00:01.10  21
+#e os maiores estaleiros.#
+
+ 476: 10:25:30.19 10:25:33.19  Duration 00:00:03.00  45
+Adaptação: Adriana Gasparoni
+Legendagem: ECLAIR
+
