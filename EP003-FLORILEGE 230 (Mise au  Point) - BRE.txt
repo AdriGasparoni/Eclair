@@ -1,0 +1,3786 @@
+
+   1: 10:00:00.03 10:00:01.23  Durée 00:00:01.20  Lisibilité 27
+Boa noite.
+Bem-vindo a# Em Foco,#
+
+   2: 10:00:02.02 10:00:04.20  Durée 00:00:02.18  Lisibilité 41
+o programa de atualidades da RTS.
+
+   3: 10:00:04.24 10:00:07.16  Durée 00:00:02.17  Lisibilité 40
+A cada 15 dias,
+oferecemos o melhor
+
+   4: 10:00:07.20 10:00:10.03  Durée 00:00:02.08  Lisibilité 35
+da atualidade suíça
+e internacional.
+
+   5: 10:00:10.07 10:00:12.04  Durée 00:00:01.22  Lisibilité 28
+#Em Foco,# é agora.
+
+   6: 10:00:18.07 10:00:20.22  Durée 00:00:02.15  Lisibilité 39
+Em Foco
+
+   7: 10:00:21.11 10:00:22.10  Durée 00:00:00.24  Lisibilité 14
+É um arranhão
+
+   8: 10:00:22.14 10:00:24.00  Durée 00:00:01.11  Lisibilité 22
+em nossa tradição humanitária?
+
+   9: 10:00:24.04 10:00:25.18  Durée 00:00:01.14  Lisibilité 23
+É a crítica
+ao Conselho Federal
+
+  10: 10:00:25.22 10:00:28.12  Durée 00:00:02.15  Lisibilité 39
+após decidir
+flexibilizar as condições
+
+  11: 10:00:28.16 10:00:30.14  Durée 00:00:01.23  Lisibilité 29
+para exportar armas suíças,
+
+  12: 10:00:30.19 10:00:33.08  Durée 00:00:02.14  Lisibilité 38
+mesmo para países
+que têm conflitos.
+
+  13: 10:00:33.12 10:00:37.01  Durée 00:00:03.14  Lisibilité 53
+A fronda transcende
+os meios pacifistas tradicionais.
+
+  14: 10:00:37.05 10:00:39.03  Durée 00:00:01.23  Lisibilité 29
+Reportagem de Pierre Bavaud.
+
+  15: 10:00:40.22 10:00:41.18  Durée 00:00:00.21  Lisibilité 13
+#Zurique.#
+
+  16: 10:00:41.22 10:00:44.11  Durée 00:00:02.14  Lisibilité 38
+#Nos bairros chiques,
+atrás da Ópera,#
+
+  17: 10:00:44.16 10:00:47.10  Durée 00:00:02.19  Lisibilité 41
+#a redação do# Blick.
+Nas últimas 2 semanas,#
+
+  18: 10:00:47.15 10:00:48.22  Durée 00:00:01.07  Lisibilité 19
+#ela emenda furos.#
+
+  19: 10:00:49.11 10:00:51.19  Durée 00:00:02.08  Lisibilité 35
+#A aparição de granadas suíças
+na Síria#
+
+  20: 10:00:51.23 10:00:54.00  Durée 00:00:02.02  Lisibilité 31
+#e sua descoberta
+agora na Líbia,#
+
+  21: 10:00:54.05 10:00:55.05  Durée 00:00:01.00  Lisibilité 15
+#é ela.#
+
+  22: 10:00:56.04 10:00:58.17  Durée 00:00:02.13  Lisibilité 38
+#É uma verdadeira companha
+dessa redação#
+
+  23: 10:00:58.22 10:01:00.10  Durée 00:00:01.13  Lisibilité 23
+#contra a vontade
+do Conselho Federal#
+
+  24: 10:01:00.14 10:01:03.23  Durée 00:00:03.09  Lisibilité 50
+#de autorizar no futuro
+a exportação de material militar#
+
+  25: 10:01:04.02 10:01:07.17  Durée 00:00:03.15  Lisibilité 54
+#para países em conflito interno
+sob certas condições.#
+
+  26: 10:01:07.21 10:01:09.00  Durée 00:00:01.04  Lisibilité 17
+#Em seus editoriais,#
+
+  27: 10:01:09.05 10:01:12.11  Durée 00:00:03.06  Lisibilité 49
+#o# Blick# acusa o Conselho
+de perder a bússola moral.#
+
+  28: 10:01:13.05 10:01:16.04  Durée 00:00:02.24  Lisibilité 44
+#E o# Blick# não é bem
+um jornal de esquerda.#
+
+  29: 10:01:17.15 10:01:20.16  Durée 00:00:03.01  Lisibilité 46
+Somos a favor da economia.
+Temos posições liberais.
+
+  30: 10:01:20.20 10:01:23.13  Durée 00:00:02.18  Lisibilité 41
+Somos por uma economia
+com a possibilidade
+
+  31: 10:01:23.17 10:01:25.21  Durée 00:00:02.04  Lisibilité 32
+de fazer coisas.
+Mas há limites.
+
+  32: 10:01:26.01 10:01:28.05  Durée 00:00:02.04  Lisibilité 32
+Será que vale mesmo a pena
+
+  33: 10:01:28.10 10:01:30.00  Durée 00:00:01.15  Lisibilité 24
+o que queremos fazer
+
+  34: 10:01:30.04 10:01:32.22  Durée 00:00:02.18  Lisibilité 41
+violando nossa tradição,
+
+  35: 10:01:33.01 10:01:36.10  Durée 00:00:03.09  Lisibilité 50
+nossos valores suíços para...
+
+  36: 10:01:36.14 10:01:39.14  Durée 00:00:03.00  Lisibilité 45
+Por quê? Pelos negócios?
+Não vale a pena.
+
+  37: 10:01:39.19 10:01:43.11  Durée 00:00:03.17  Lisibilité 55
+Não compreendemos
+por que assumimos riscos. É amoral.
+
+  38: 10:01:44.18 10:01:47.22  Durée 00:00:03.04  Lisibilité 47
+#O risco de ver armas
+#made in Switzerland
+
+  39: 10:01:48.02 10:01:51.08  Durée 00:00:03.06  Lisibilité 49
+#nas zonas de conflito,
+na Síria, em 2012.#
+
+  40: 10:01:51.13 10:01:52.22  Durée 00:00:01.09  Lisibilité 20
+#A exportação de armas,#
+
+  41: 10:01:54.06 10:01:56.09  Durée 00:00:02.03  Lisibilité 32
+#um tema sensível e recorrente,#
+
+  42: 10:01:56.13 10:01:59.07  Durée 00:00:02.19  Lisibilité 41
+#mas desta vez,
+as frentes estão se movendo.#
+
+  43: 10:02:04.08 10:02:07.22  Durée 00:00:03.14  Lisibilité 53
+Desarmante
+
+  44: 10:02:09.15 10:02:12.02  Durée 00:00:02.12  Lisibilité 37
+#Não se entra
+em fábrica de armas fácil.#
+
+  45: 10:02:12.06 10:02:13.05  Durée 00:00:00.24  Lisibilité 14
+#É algo óbvio.#
+
+  46: 10:02:13.10 10:02:16.04  Durée 00:00:02.19  Lisibilité 41
+#Mas a polêmica atual
+complica a tarefa.#
+
+  47: 10:02:16.09 10:02:18.21  Durée 00:00:02.12  Lisibilité 37
+#Nós entramos em contato
+com a RUAG,#
+
+  48: 10:02:19.00 10:02:22.05  Durée 00:00:03.05  Lisibilité 48
+#fabricante de armas
+de que a Confederação é acionista.#
+
+  49: 10:02:22.09 10:02:26.01  Durée 00:00:03.17  Lisibilité 55
+#A RUAG, apontada no relatório
+do controle federal das finanças,#
+
+  50: 10:02:26.05 10:02:28.10  Durée 00:00:02.05  Lisibilité 33
+#sobretudo
+por contornar a proibição#
+
+  51: 10:02:28.14 10:02:30.16  Durée 00:00:02.02  Lisibilité 31
+#tentando exportar
+lança-minas ao Catar,#
+
+  52: 10:02:30.20 10:02:33.13  Durée 00:00:02.18  Lisibilité 41
+#envolvido
+no conflito sangrento do Iêmen.#
+
+  53: 10:02:33.17 10:02:36.09  Durée 00:00:02.17  Lisibilité 40
+#Nós tentamos
+encontrar os dirigentes.#
+
+  54: 10:02:36.13 10:02:39.06  Durée 00:00:02.18  Lisibilité 41
+#Vejam o que nos responderam
+em francês federal.#
+
+  55: 10:02:39.10 10:02:41.10  Durée 00:00:02.00  Lisibilité 30
+"Nosso CEO, Sr. Urs Breitmeier,
+
+  56: 10:02:41.14 10:02:43.11  Durée 00:00:01.22  Lisibilité 28
+"não pode lhes dar entrevista.
+
+  57: 10:02:43.16 10:02:47.05  Durée 00:00:03.14  Lisibilité 53
+"Não há possibilidade de filmar
+em nossas instalações.
+
+  58: 10:02:47.10 10:02:50.02  Durée 00:00:02.17  Lisibilité 40
+"A RUAG nunca comenta
+processos políticos."
+
+  59: 10:02:51.04 10:02:52.01  Durée 00:00:00.22  Lisibilité 13
+#Mais uma recusa.#
+
+  60: 10:02:53.08 10:02:56.00  Durée 00:00:02.17  Lisibilité 40
+#Só uma fábrica
+aceitou abrir suas portas,#
+
+  61: 10:02:56.04 10:02:59.10  Durée 00:00:03.06  Lisibilité 49
+#Rheinmetall, em Zurique Oerlikon.#
+
+  62: 10:02:59.15 10:03:00.24  Durée 00:00:01.09  Lisibilité 20
+#Não é uma qualquer.#
+
+  63: 10:03:01.04 10:03:04.08  Durée 00:00:03.04  Lisibilité 47
+#Há alguns anos
+ela se chamava Oerlikon-Bührle.#
+
+  64: 10:03:04.12 10:03:06.17  Durée 00:00:02.05  Lisibilité 33
+#Bührle,
+uma reputação escandalosa.#
+
+  65: 10:03:06.21 10:03:10.04  Durée 00:00:03.08  Lisibilité 50
+#Há exatos 50 anos,
+descobriu-se que essa empresa#
+
+  66: 10:03:10.09 10:03:12.11  Durée 00:00:02.02  Lisibilité 31
+#violara o embargo
+do Conselho Federal#
+
+  67: 10:03:12.15 10:03:15.07  Durée 00:00:02.17  Lisibilité 40
+#vendendo canhões
+em plena Guerra do Biafra.#
+
+  68: 10:03:15.11 10:03:17.06  Durée 00:00:01.20  Lisibilité 27
+#Enorme escândalo
+que provocou#
+
+  69: 10:03:17.10 10:03:19.08  Durée 00:00:01.23  Lisibilité 29
+#a primeira iniciativa popular#
+
+  70: 10:03:19.12 10:03:21.08  Durée 00:00:01.21  Lisibilité 28
+#contra a exportação de armas.#
+
+  71: 10:03:22.03 10:03:25.19  Durée 00:00:03.16  Lisibilité 55
+Pedimos a proibição das exportações
+
+  72: 10:03:25.23 10:03:29.08  Durée 00:00:03.10  Lisibilité 51
+em vez de serem submetidas
+a autorização.
+
+  73: 10:03:29.19 10:03:31.20  Durée 00:00:02.01  Lisibilité 31
+#Dieter Bührle,
+o dono da fábrica,#
+
+  74: 10:03:32.00 10:03:33.00  Durée 00:00:01.00  Lisibilité 15
+#foi condenado.#
+
+  75: 10:03:33.20 10:03:35.07  Durée 00:00:01.12  Lisibilité 22
+#Hoje em mãos alemãs,#
+
+  76: 10:03:35.11 10:03:38.09  Durée 00:00:02.23  Lisibilité 44
+#a Rheinmetall é a maior exportadora
+de armas na Suíça#
+
+  77: 10:03:38.13 10:03:40.19  Durée 00:00:02.06  Lisibilité 34
+#e prega a transparência.#
+
+  78: 10:03:40.24 10:03:43.06  Durée 00:00:02.07  Lisibilité 34
+#550 pessoas
+trabalham nessa planta,#
+
+  79: 10:03:43.10 10:03:45.21  Durée 00:00:02.11  Lisibilité 37
+#como este suíço
+que a conhece de cor.#
+
+  80: 10:03:46.00 10:03:49.16  Durée 00:00:03.16  Lisibilité 55
+#Faz 40 anos que esse ex-coronel
+da defesa antiaérea#
+
+  81: 10:03:49.20 10:03:50.24  Durée 00:00:01.04  Lisibilité 17
+#trabalha lá.#
+
+  82: 10:03:51.03 10:03:53.09  Durée 00:00:02.06  Lisibilité 34
+Nossos produtos principais
+
+  83: 10:03:53.14 10:03:55.19  Durée 00:00:02.05  Lisibilité 33
+são sistemas de defesa
+contra aviões.
+
+  84: 10:03:55.23 10:03:58.09  Durée 00:00:02.11  Lisibilité 37
+Defesa solo-ar de curto alcance
+
+  85: 10:03:58.14 10:04:00.05  Durée 00:00:01.16  Lisibilité 25
+de 1 ou 2 canhões
+
+  86: 10:04:00.09 10:04:02.16  Durée 00:00:02.07  Lisibilité 34
+para atingir os alvos.
+
+  87: 10:04:02.20 10:04:05.05  Durée 00:00:02.10  Lisibilité 36
+Podem ser aviões, helicópteros,
+
+  88: 10:04:05.09 10:04:06.22  Durée 00:00:01.13  Lisibilité 23
+ou até pequenos alvos
+
+  89: 10:04:07.01 10:04:09.20  Durée 00:00:02.19  Lisibilité 41
+como drones ou mísseis de cruzeiro.
+
+  90: 10:04:09.24 10:04:12.07  Durée 00:00:02.08  Lisibilité 35
+- É seu best-seller?
+- Sim.
+
+  91: 10:04:12.11 10:04:13.14  Durée 00:00:01.03  Lisibilité 17
+Como ele se chama?
+
+  92: 10:04:13.18 10:04:17.12  Durée 00:00:03.19  Lisibilité 56
+Ele se chama Skyguard 35 mm bitubo.
+
+  93: 10:04:17.16 10:04:19.13  Durée 00:00:01.22  Lisibilité 28
+Ou outra versão mais moderna,
+
+  94: 10:04:19.17 10:04:20.19  Durée 00:00:01.02  Lisibilité 16
+o Skyshield,
+
+  95: 10:04:20.24 10:04:22.17  Durée 00:00:01.18  Lisibilité 26
+com canhões de 35 mm.
+
+  96: 10:04:22.22 10:04:24.12  Durée 00:00:01.15  Lisibilité 24
+Imagens Rheinmetall
+
+  97: 10:04:28.21 10:04:32.04  Durée 00:00:03.08  Lisibilité 50
+Esse canhão é vendido
+na Suíça e no exterior.
+
+  98: 10:04:32.09 10:04:34.24  Durée 00:00:02.15  Lisibilité 39
+Nossa parte na exportação
+
+  99: 10:04:35.03 10:04:37.10  Durée 00:00:02.07  Lisibilité 34
+é de mais de 95%.
+
+ 100: 10:04:38.12 10:04:43.00  Durée 00:00:04.13  Lisibilité 68
+Portanto, a exportação
+é importantíssima para nós,
+
+ 101: 10:04:43.05 10:04:45.21  Durée 00:00:02.16  Lisibilité 40
+para preservar esses empregos
+
+ 102: 10:04:46.01 10:04:48.19  Durée 00:00:02.18  Lisibilité 41
+e esse savoir-faire em engenharia
+
+ 103: 10:04:48.24 10:04:51.15  Durée 00:00:02.16  Lisibilité 40
+que possibilita ajudar e apoiar
+
+ 104: 10:04:51.20 10:04:54.07  Durée 00:00:02.12  Lisibilité 37
+o exército suíço
+em seu sistema de defesa.
+
+ 105: 10:04:56.08 10:04:59.22  Durée 00:00:03.14  Lisibilité 53
+#A indústria do armamento suíça
+são 10 mil empregos.#
+
+ 106: 10:05:00.01 10:05:02.21  Durée 00:00:02.20  Lisibilité 42
+#Mas as vendas de armas
+só representam que 0,15%#
+
+ 107: 10:05:03.00 10:05:04.19  Durée 00:00:01.19  Lisibilité 26
+#do volume das exportações.#
+
+ 108: 10:05:04.23 10:05:05.23  Durée 00:00:01.00  Lisibilité 15
+#Em comparação,#
+
+ 109: 10:05:06.02 10:05:08.09  Durée 00:00:02.07  Lisibilité 34
+#a Suíça vende mais
+chocolate e queijo#
+
+ 110: 10:05:08.13 10:05:10.04  Durée 00:00:01.16  Lisibilité 25
+#que armas para o exterior.#
+
+ 111: 10:05:11.00 10:05:13.18  Durée 00:00:02.18  Lisibilité 41
+#Para justificar
+a flexibilização das leis,#
+
+ 112: 10:05:13.22 10:05:16.08  Durée 00:00:02.11  Lisibilité 37
+#o Conselho Federal
+usa a queda das vendas.#
+
+ 113: 10:05:16.12 10:05:19.04  Durée 00:00:02.17  Lisibilité 40
+#Era verdade nos anos 2015 e 2016,#
+
+ 114: 10:05:19.08 10:05:22.04  Durée 00:00:02.21  Lisibilité 43
+#mas o comércio voltou a crescer
+ano passado,#
+
+ 115: 10:05:22.08 10:05:24.05  Durée 00:00:01.22  Lisibilité 28
+#e o faturamento
+do 1º semestre#
+
+ 116: 10:05:24.10 10:05:25.16  Durée 00:00:01.06  Lisibilité 19
+#é animador.#
+
+ 117: 10:05:26.06 10:05:29.00  Durée 00:00:02.19  Lisibilité 41
+#Nossos mais fiéis clientes
+dos últimos anos#
+
+ 118: 10:05:29.04 10:05:30.23  Durée 00:00:01.19  Lisibilité 26
+#são sobretudo a Alemanha,#
+
+ 119: 10:05:31.02 10:05:33.13  Durée 00:00:02.11  Lisibilité 37
+#à frente dos EUA,
+dos Emirados Árabes Unidos#
+
+ 120: 10:05:33.17 10:05:34.24  Durée 00:00:01.07  Lisibilité 19
+#e da Grã-Bretanha.#
+
+ 121: 10:05:37.01 10:05:38.23  Durée 00:00:01.22  Lisibilité 28
+#Berna, nesta segunda-feira.#
+
+ 122: 10:05:39.02 10:05:41.12  Durée 00:00:02.10  Lisibilité 36
+#Um amplo comitê
+lança uma iniciativa#
+
+ 123: 10:05:41.17 10:05:43.13  Durée 00:00:01.21  Lisibilité 28
+#contra a flexibilização.#
+
+ 124: 10:05:43.17 10:05:45.21  Durée 00:00:02.04  Lisibilité 32
+#Ele une eleitos
+de esquerda e do centro,#
+
+ 125: 10:05:46.00 10:05:49.03  Durée 00:00:03.03  Lisibilité 47
+#associações religiosas
+e organizações humanitárias.#
+
+ 126: 10:05:50.16 10:05:51.11  Durée 00:00:00.20  Lisibilité 12
+#Ao mesmo tempo...#
+
+ 127: 10:05:51.15 10:05:53.14  Durée 00:00:01.24  Lisibilité 29
+#O presidente da Confederação.#
+
+ 128: 10:05:53.19 10:05:56.21  Durée 00:00:03.02  Lisibilité 46
+#...a sessão de outono
+começa sob a cúpula federal.#
+
+ 129: 10:05:57.01 10:05:58.01  Durée 00:00:01.00  Lisibilité 15
+#Na Salle des Pas Perdus,#
+
+ 130: 10:05:58.05 10:06:01.13  Durée 00:00:03.08  Lisibilité 50
+#um afresco lembra
+a tradição humanitária da Suíça.#
+
+ 131: 10:06:02.04 10:06:04.24  Durée 00:00:02.20  Lisibilité 42
+#Os defensores do armamento
+se unem.#
+
+ 132: 10:06:05.03 10:06:06.19  Durée 00:00:01.16  Lisibilité 25
+Não há desgaste de imagem.
+
+ 133: 10:06:06.24 10:06:09.09  Durée 00:00:02.10  Lisibilité 36
+É uma invenção de alguns.
+
+ 134: 10:06:09.13 10:06:12.11  Durée 00:00:02.23  Lisibilité 44
+Acho que a Suíça é humanitária.
+
+ 135: 10:06:12.15 10:06:14.08  Durée 00:00:01.18  Lisibilité 26
+Ela continuará sendo.
+
+ 136: 10:06:14.13 10:06:18.20  Durée 00:00:04.07  Lisibilité 64
+Temos uma indústria da defesa
+baseada neste país.
+
+ 137: 10:06:19.00 10:06:22.19  Durée 00:00:03.19  Lisibilité 56
+Que essa indústria
+possa continuar viva
+
+ 138: 10:06:22.23 10:06:25.08  Durée 00:00:02.10  Lisibilité 36
+é do interesse da nossa segurança
+
+ 139: 10:06:25.12 10:06:27.16  Durée 00:00:02.04  Lisibilité 32
+e da segurança
+da nossa população.
+
+ 140: 10:06:27.21 10:06:30.08  Durée 00:00:02.12  Lisibilité 37
+Concorremos com Estados
+que vendem armas.
+
+ 141: 10:06:30.12 10:06:33.11  Durée 00:00:02.24  Lisibilité 44
+Se nós não vendermos,
+outros o farão.
+
+ 142: 10:06:33.16 10:06:36.16  Durée 00:00:03.00  Lisibilité 45
+Por trás dos que incentivam
+essa polêmica,
+
+ 143: 10:06:36.20 10:06:40.19  Durée 00:00:03.24  Lisibilité 59
+encontramos os mesmos meios,
+as mesmas organizações,
+
+ 144: 10:06:40.23 10:06:43.21  Durée 00:00:02.23  Lisibilité 44
+as mesmas pessoas
+que sempre militaram
+
+ 145: 10:06:44.00 10:06:45.10  Durée 00:00:01.10  Lisibilité 21
+contra nosso exército.
+
+ 146: 10:06:46.13 10:06:49.21  Durée 00:00:03.08  Lisibilité 50
+#Só que a imagem pura
+dos esquerdistas e dos pacifistas#
+
+ 147: 10:06:50.00 10:06:52.17  Durée 00:00:02.17  Lisibilité 40
+#não consegue mais
+resumir a realidade.#
+
+ 148: 10:06:52.21 10:06:53.17  Durée 00:00:00.21  Lisibilité 13
+#De fato,#
+
+ 149: 10:06:53.21 10:06:56.09  Durée 00:00:02.13  Lisibilité 38
+#as críticas à flexibilização
+das exportações#
+
+ 150: 10:06:56.13 10:06:59.00  Durée 00:00:02.12  Lisibilité 37
+#também são ouvidas agora à direita#
+
+ 151: 10:06:59.04 10:07:02.11  Durée 00:00:03.07  Lisibilité 49
+#entre parlamentares
+que não são antimilitaristas.#
+
+ 152: 10:07:03.05 10:07:06.23  Durée 00:00:03.18  Lisibilité 56
+Não gostamos muito
+da decisão do Conselho Federal.
+
+ 153: 10:07:07.02 10:07:10.08  Durée 00:00:03.06  Lisibilité 49
+Quero dizer que o PDC,
+a presidência,
+
+ 154: 10:07:10.12 10:07:12.14  Durée 00:00:02.02  Lisibilité 31
+o grupo, na maioria,
+
+ 155: 10:07:12.18 10:07:14.02  Durée 00:00:01.09  Lisibilité 20
+são contra a decisão.
+
+ 156: 10:07:14.06 10:07:17.14  Durée 00:00:03.08  Lisibilité 50
+Realmente cruzamos
+uma linha vermelha.
+
+ 157: 10:07:17.19 10:07:21.05  Durée 00:00:03.11  Lisibilité 52
+Ir tão longe nessa decisão
+
+ 158: 10:07:21.09 10:07:24.19  Durée 00:00:03.10  Lisibilité 51
+é realmente pôr em perigo
+
+ 159: 10:07:24.23 10:07:27.04  Durée 00:00:02.06  Lisibilité 34
+a boa imagem da Suíça.
+
+ 160: 10:07:28.20 10:07:31.18  Durée 00:00:02.23  Lisibilité 44
+#De volta a Oerlikon,
+à fábrica Rheinmetall.#
+
+ 161: 10:07:31.22 10:07:35.23  Durée 00:00:04.01  Lisibilité 61
+#Em questão de boa imagem da Suíça,
+é perfeito, está em ordem.#
+
+ 162: 10:07:37.24 10:07:40.04  Durée 00:00:02.05  Lisibilité 33
+#Mas a conjuntura é morosa.#
+
+ 163: 10:07:41.01 10:07:42.18  Durée 00:00:01.17  Lisibilité 25
+Atualmente, a cada ano,
+
+ 164: 10:07:42.22 10:07:45.12  Durée 00:00:02.15  Lisibilité 39
+perdemos 3% do nosso faturamento
+
+ 165: 10:07:45.16 10:07:47.02  Durée 00:00:01.11  Lisibilité 22
+há alguns anos.
+
+ 166: 10:07:47.06 10:07:50.19  Durée 00:00:03.13  Lisibilité 53
+Precisamos interromper essa queda
+
+ 167: 10:07:50.23 10:07:53.23  Durée 00:00:03.00  Lisibilité 45
+para manter empregos aqui,
+
+ 168: 10:07:54.02 10:07:56.01  Durée 00:00:01.24  Lisibilité 29
+em Zurique e na Suíça.
+
+ 169: 10:07:56.05 10:07:58.11  Durée 00:00:02.06  Lisibilité 34
+As vendas voltaram a crescer
+há 1 ano.
+
+ 170: 10:07:59.07 10:08:02.16  Durée 00:00:03.09  Lisibilité 50
+As vendas talvez tenham voltado
+a crescer de modo geral,
+
+ 171: 10:08:02.20 10:08:04.11  Durée 00:00:01.16  Lisibilité 25
+mas na nossa fábrica
+
+ 172: 10:08:04.15 10:08:06.18  Durée 00:00:02.03  Lisibilité 32
+ainda não vimos mudanças.
+
+ 173: 10:08:07.03 10:08:09.22  Durée 00:00:02.19  Lisibilité 41
+Por que essa flexibilização
+da legislação
+
+ 174: 10:08:10.01 10:08:13.03  Durée 00:00:03.02  Lisibilité 46
+da exportação de armas
+é tão importante para vocês?
+
+ 175: 10:08:13.07 10:08:18.03  Durée 00:00:04.21  Lisibilité 73
+Nós consideramos
+que os países vizinhos
+
+ 176: 10:08:18.20 10:08:21.13  Durée 00:00:02.18  Lisibilité 41
+não são tratados exatamente
+como a Suíça.
+
+ 177: 10:08:21.17 10:08:24.24  Durée 00:00:03.07  Lisibilité 49
+A Suíça é muito mais severa.
+
+ 178: 10:08:25.04 10:08:27.23  Durée 00:00:02.19  Lisibilité 41
+Num país que tem um conflito civil,
+
+ 179: 10:08:28.02 10:08:30.23  Durée 00:00:02.21  Lisibilité 43
+você não pode fazer um pedido
+atualmente.
+
+ 180: 10:08:31.02 10:08:33.03  Durée 00:00:02.01  Lisibilité 31
+Gostaríamos de poder fazê-lo,
+
+ 181: 10:08:33.23 10:08:35.11  Durée 00:00:01.13  Lisibilité 23
+que ele seja examinado
+
+ 182: 10:08:35.15 10:08:38.11  Durée 00:00:02.21  Lisibilité 43
+e que se as condições
+foram cumpridas
+
+ 183: 10:08:38.16 10:08:42.00  Durée 00:00:03.09  Lisibilité 50
+para o sistema não ser engajado
+no conflito civil,
+
+ 184: 10:08:42.04 10:08:44.23  Durée 00:00:02.19  Lisibilité 41
+se respeitar o direito humanitário
+e nossos valores,
+
+ 185: 10:08:45.02 10:08:48.11  Durée 00:00:03.09  Lisibilité 50
+que a licença de exportação
+possa ser concedida.
+
+ 186: 10:08:48.24 10:08:51.22  Durée 00:00:02.23  Lisibilité 44
+Pensa em que mercado,
+em que país, por exemplo?
+
+ 187: 10:08:52.02 10:08:55.18  Durée 00:00:03.16  Lisibilité 55
+Atualmente, os mercados
+estão mais na Ásia.
+
+ 188: 10:08:55.23 10:08:59.09  Durée 00:00:03.11  Lisibilité 52
+Portanto, há certos países
+que são importantes para nós
+
+ 189: 10:09:00.04 10:09:03.16  Durée 00:00:03.12  Lisibilité 52
+que poderiam descambar
+para uma guerra interna.
+
+ 190: 10:09:03.20 10:09:05.20  Durée 00:00:02.00  Lisibilité 30
+Penso na Indonésia.
+
+ 191: 10:09:05.24 10:09:08.09  Durée 00:00:02.10  Lisibilité 36
+Penso na Tailândia, no Paquistão,
+
+ 192: 10:09:08.13 10:09:10.18  Durée 00:00:02.05  Lisibilité 33
+que são mercados
+importantes para nós.
+
+ 193: 10:09:11.10 10:09:13.15  Durée 00:00:02.05  Lisibilité 33
+#Indonésia, Tailândia, Paquistão#
+
+ 194: 10:09:13.19 10:09:15.23  Durée 00:00:02.04  Lisibilité 32
+#pouco respeitam
+os direitos humanos.#
+
+ 195: 10:09:16.03 10:09:19.02  Durée 00:00:02.24  Lisibilité 44
+#Mas para eles,
+já é possível há 4 anos.#
+
+ 196: 10:09:19.07 10:09:21.22  Durée 00:00:02.15  Lisibilité 39
+#O Parlamento deu sua bênção
+por pouco#
+
+ 197: 10:09:22.02 10:09:23.19  Durée 00:00:01.17  Lisibilité 25
+#à primeira flexibilização,#
+
+ 198: 10:09:23.24 10:09:26.20  Durée 00:00:02.21  Lisibilité 43
+#dando ao Conselho
+uma margem de manobra maior#
+
+ 199: 10:09:26.24 10:09:28.08  Durée 00:00:01.09  Lisibilité 20
+#nas autorizações.#
+
+ 200: 10:09:29.15 10:09:33.05  Durée 00:00:03.15  Lisibilité 54
+#Na pasta das Relações Exteriores,
+Didier Burkhalter opôs-se.#
+
+ 201: 10:09:33.09 10:09:36.17  Durée 00:00:03.08  Lisibilité 50
+#Esse liberal radical
+pediu exoneração há 1 ano#
+
+ 202: 10:09:36.22 10:09:39.00  Durée 00:00:02.03  Lisibilité 32
+#e fez essa confissão
+na primavera.#
+
+ 203: 10:09:39.05 10:09:41.22  Durée 00:00:02.17  Lisibilité 40
+Não vou relatar
+as sessões do Conselho,
+
+ 204: 10:09:42.01 10:09:43.01  Durée 00:00:01.00  Lisibilité 15
+mas posso dizer
+
+ 205: 10:09:43.05 10:09:46.17  Durée 00:00:03.12  Lisibilité 52
+que sobre todas as questões
+de exportações de armas
+
+ 206: 10:09:46.21 10:09:48.16  Durée 00:00:01.20  Lisibilité 27
+para zonas de conflito,
+
+ 207: 10:09:48.20 10:09:52.05  Durée 00:00:03.10  Lisibilité 51
+considero que temos de ser
+bem claros e recusá-la.
+
+ 208: 10:09:52.10 10:09:54.09  Durée 00:00:01.24  Lisibilité 29
+O problema não é a minoria,
+
+ 209: 10:09:54.14 10:09:58.06  Durée 00:00:03.17  Lisibilité 55
+mas é ter a impressão
+que a autoridade onde trabalhamos
+
+ 210: 10:09:59.08 10:10:02.00  Durée 00:00:02.17  Lisibilité 40
+saiu de sintonia
+com o que pensamos.
+
+ 211: 10:10:04.02 10:10:07.01  Durée 00:00:02.24  Lisibilité 44
+#Sua substituição
+pelo seu colega Ignazio Cassis#
+
+ 212: 10:10:07.06 10:10:09.14  Durée 00:00:02.08  Lisibilité 35
+#mudou o equilíbrio
+no Conselho Federal.#
+
+ 213: 10:10:09.18 10:10:11.16  Durée 00:00:01.23  Lisibilité 29
+#Uma virada à direita
+que explica#
+
+ 214: 10:10:11.21 10:10:13.17  Durée 00:00:01.21  Lisibilité 28
+#essa segunda flexibilização.#
+
+ 215: 10:10:13.21 10:10:17.15  Durée 00:00:03.19  Lisibilité 56
+#Procuramos o novo chefe
+das Relações Exteriores#
+
+ 216: 10:10:17.19 10:10:19.19  Durée 00:00:02.00  Lisibilité 30
+#que nos respondeu o seguinte:#
+
+ 217: 10:10:19.23 10:10:22.11  Durée 00:00:02.13  Lisibilité 38
+"O Sr. Cassis
+não poderá dar essa entrevista.
+
+ 218: 10:10:22.15 10:10:26.01  Durée 00:00:03.11  Lisibilité 52
+"O DFAE não está encarregado
+desse dossiê."
+
+ 219: 10:10:26.06 10:10:28.22  Durée 00:00:02.16  Lisibilité 40
+#É verdade. Quem cuida disso
+é seu colega,#
+
+ 220: 10:10:29.02 10:10:32.05  Durée 00:00:03.03  Lisibilité 47
+#Johann Schneider-Ammann,
+chefe da Economia.#
+
+ 221: 10:10:33.06 10:10:35.02  Durée 00:00:01.21  Lisibilité 28
+#E de novo# niet#.#
+
+ 222: 10:10:35.06 10:10:38.02  Durée 00:00:02.21  Lisibilité 43
+"O chefe do departamento
+não quer dar entrevista
+
+ 223: 10:10:38.06 10:10:39.06  Durée 00:00:01.00  Lisibilité 15
+"sobre esse tema."
+
+ 224: 10:10:40.18 10:10:43.23  Durée 00:00:03.05  Lisibilité 48
+#Na esquerda,
+a constatação é amarga.#
+
+ 225: 10:10:44.15 10:10:45.21  Durée 00:00:01.06  Lisibilité 19
+O que me choca
+
+ 226: 10:10:46.01 10:10:49.21  Durée 00:00:03.20  Lisibilité 57
+é a rapidez com que os lobbies
+do armamento deste país
+
+ 227: 10:10:50.00 10:10:53.21  Durée 00:00:03.21  Lisibilité 58
+conseguem que ouçam
+as suas reivindicações.
+
+ 228: 10:10:54.00 10:10:57.03  Durée 00:00:03.03  Lisibilité 47
+Em menos de 1 ano,
+esses lobbies mostraram uma carta
+
+ 229: 10:10:57.07 10:11:00.00  Durée 00:00:02.18  Lisibilité 41
+à Comissão de Segurança Militar
+do Conselho dos Estados.
+
+ 230: 10:11:00.04 10:11:01.22  Durée 00:00:01.18  Lisibilité 26
+Eles foram ouvidos.
+
+ 231: 10:11:02.01 10:11:04.17  Durée 00:00:02.16  Lisibilité 40
+E aí o Conselho
+flexibilizou essa lei.
+
+ 232: 10:11:04.22 10:11:06.14  Durée 00:00:01.17  Lisibilité 25
+Nenhum setor econômico
+
+ 233: 10:11:06.18 10:11:10.03  Durée 00:00:03.10  Lisibilité 51
+beneficia de um ouvido tão atento
+aqui em Berna,
+
+ 234: 10:11:10.07 10:11:14.10  Durée 00:00:04.03  Lisibilité 62
+quanto, manifestamente,
+a indústria militar.
+
+ 235: 10:11:15.01 10:11:16.05  Durée 00:00:01.04  Lisibilité 17
+#"Ouvido atento"?#
+
+ 236: 10:11:16.09 10:11:19.01  Durée 00:00:02.17  Lisibilité 40
+#O de Johann Schneider-Ammann,
+com certeza.#
+
+ 237: 10:11:19.05 10:11:21.03  Durée 00:00:01.23  Lisibilité 29
+#Ele, ex-patrão da indústria,#
+
+ 238: 10:11:21.07 10:11:23.15  Durée 00:00:02.08  Lisibilité 35
+#presidente da associação
+suíça do setor,#
+
+ 239: 10:11:23.20 10:11:26.05  Durée 00:00:02.10  Lisibilité 36
+#depois da Economiesuisse
+antes do Conselho Federal.#
+
+ 240: 10:11:27.18 10:11:30.15  Durée 00:00:02.22  Lisibilité 43
+#Aliás, seu primeiro emprego
+como engenheiro#
+
+ 241: 10:11:30.19 10:11:32.07  Durée 00:00:01.13  Lisibilité 23
+#foi obtido#
+
+ 242: 10:11:32.12 10:11:35.21  Durée 00:00:03.09  Lisibilité 50
+#na fábrica de canhões da Oerlikon
+no fim dos anos 70.#
+
+ 243: 10:11:36.21 10:11:39.09  Durée 00:00:02.13  Lisibilité 38
+Conheceu Johann Schneider-Ammann?
+
+ 244: 10:11:40.04 10:11:41.18  Durée 00:00:01.14  Lisibilité 23
+Ele trabalhou aqui. Sabia?
+
+ 245: 10:11:41.22 10:11:45.19  Durée 00:00:03.22  Lisibilité 58
+Sim, mas não cruzei com ele
+quando ele trabalhava aqui.
+
+ 246: 10:11:45.24 10:11:49.13  Durée 00:00:03.14  Lisibilité 53
+O senhor entende
+que parte da opinião pública
+
+ 247: 10:11:49.17 10:11:53.14  Durée 00:00:03.22  Lisibilité 58
+não tenha mais confiança
+nos comerciantes de armas da Suíça?
+
+ 248: 10:11:53.18 10:11:55.07  Durée 00:00:01.14  Lisibilité 23
+Acho que os...
+
+ 249: 10:11:55.11 10:11:57.10  Durée 00:00:01.24  Lisibilité 29
+Eu vi a evolução.
+
+ 250: 10:11:57.14 10:11:59.18  Durée 00:00:02.04  Lisibilité 32
+Eu ainda não estava aqui
+nos anos 60,
+
+ 251: 10:11:59.22 10:12:01.07  Durée 00:00:01.10  Lisibilité 21
+mas devo dizer
+
+ 252: 10:12:02.16 10:12:06.09  Durée 00:00:03.18  Lisibilité 56
+que o mercado, o respeito às leis,
+tudo mudou.
+
+ 253: 10:12:06.13 10:12:09.01  Durée 00:00:02.13  Lisibilité 38
+Tudo é muito mais controlado.
+
+ 254: 10:12:09.05 10:12:11.23  Durée 00:00:02.18  Lisibilité 41
+Não podemos nos permitir
+fazer qualquer coisa
+
+ 255: 10:12:12.02 10:12:15.05  Durée 00:00:03.03  Lisibilité 47
+que seja contra a lei
+ou diferente da lei.
+
+ 256: 10:12:15.09 10:12:18.11  Durée 00:00:03.02  Lisibilité 46
+Então acho que essas
+são coisas do passado
+
+ 257: 10:12:18.15 10:12:21.24  Durée 00:00:03.09  Lisibilité 50
+e que agora temos de olhar
+para o futuro.
+
+ 258: 10:12:22.03 10:12:23.10  Durée 00:00:01.07  Lisibilité 19
+#O Parlamento julgará.#
+
+ 259: 10:12:23.14 10:12:26.10  Durée 00:00:02.21  Lisibilité 43
+#Pode haver um debate urgente
+em 26 de setembro.#
+
+ 260: 10:12:33.15 10:12:35.17  Durée 00:00:02.02  Lisibilité 31
+É inédito no cantão de Vaud.
+
+ 261: 10:12:36.00 10:12:38.22  Durée 00:00:02.22  Lisibilité 43
+Há 1 semana, 4 estabelecimentos,
+2 deles açougues,
+
+ 262: 10:12:39.01 10:12:41.16  Durée 00:00:02.15  Lisibilité 39
+foram, em Nyons,
+alvo de antiespecistas,
+
+ 263: 10:12:41.20 10:12:44.15  Durée 00:00:02.20  Lisibilité 42
+o movimento que condena
+toda exploração animal.
+
+ 264: 10:12:44.19 10:12:47.15  Durée 00:00:02.21  Lisibilité 43
+Em Genebra,
+açougues foram apedrejados.
+
+ 265: 10:12:47.19 10:12:51.06  Durée 00:00:03.12  Lisibilité 52
+Preocupação, mas também revolta
+dominam os açougueiros
+
+ 266: 10:12:51.10 10:12:53.18  Durée 00:00:02.08  Lisibilité 35
+que já penam para contratar jovens.
+
+ 267: 10:12:53.22 10:12:57.04  Durée 00:00:03.07  Lisibilité 49
+Retrato de uma profissão com blues
+por Serge Mérilat.
+
+ 268: 10:12:59.07 10:13:00.09  Durée 00:00:01.02  Lisibilité 16
+#Bem-vindo a Champel,#
+
+ 269: 10:13:00.13 10:13:02.12  Durée 00:00:01.24  Lisibilité 29
+#um bairro agradável de Genebra#
+
+ 270: 10:13:02.17 10:13:04.24  Durée 00:00:02.07  Lisibilité 34
+#com moradores tranquilos#
+
+ 271: 10:13:05.04 10:13:06.14  Durée 00:00:01.10  Lisibilité 21
+#e seu açougueiro.#
+
+ 272: 10:13:06.19 10:13:09.12  Durée 00:00:02.18  Lisibilité 41
+#Christian Mansey
+paparica seus fregueses.#
+
+ 273: 10:13:10.11 10:13:13.22  Durée 00:00:03.11  Lisibilité 52
+#Em 14 de abril, ele recebeu
+uma ligação às 2 da manhã.#
+
+ 274: 10:13:14.01 10:13:15.18  Durée 00:00:01.17  Lisibilité 25
+#Era a polícia.#
+
+ 275: 10:13:15.23 10:13:17.12  Durée 00:00:01.14  Lisibilité 23
+Os vidros foram quebrados.
+
+ 276: 10:13:17.16 10:13:19.23  Durée 00:00:02.07  Lisibilité 34
+Eles atiraram pedras
+no meio da vitrine
+
+ 277: 10:13:20.02 10:13:22.01  Durée 00:00:01.24  Lisibilité 29
+e assim quebraram tudo.
+
+ 278: 10:13:22.05 10:13:25.12  Durée 00:00:03.07  Lisibilité 49
+Os projéteis aterrissaram
+na minha outra vitrine, aqui,
+
+ 279: 10:13:25.16 10:13:29.09  Durée 00:00:03.18  Lisibilité 56
+o que quebrou o segundo vidro
+no interior.
+
+ 280: 10:13:29.13 10:13:30.22  Durée 00:00:01.09  Lisibilité 20
+No outro lado também.
+
+ 281: 10:13:31.02 10:13:32.15  Durée 00:00:01.13  Lisibilité 23
+Isso abala o moral
+
+ 282: 10:13:32.19 10:13:35.10  Durée 00:00:02.16  Lisibilité 40
+porque o trabalho anda complicado.
+
+ 283: 10:13:35.22 10:13:37.08  Durée 00:00:01.11  Lisibilité 22
+Ser apedrejado assim
+
+ 284: 10:13:37.12 10:13:39.20  Durée 00:00:02.08  Lisibilité 35
+por gente covarde,
+de certo modo,
+
+ 285: 10:13:39.24 10:13:42.23  Durée 00:00:02.24  Lisibilité 44
+porque vir à noite, encapuçado,
+quebrar, é fácil.
+
+ 286: 10:13:44.12 10:13:47.02  Durée 00:00:02.15  Lisibilité 39
+#Os responsáveis
+são militantes antiespecistas#
+
+ 287: 10:13:47.06 10:13:49.00  Durée 00:00:01.19  Lisibilité 26
+#que lutam
+pelos direitos animais.#
+
+ 288: 10:13:49.04 10:13:50.08  Durée 00:00:01.04  Lisibilité 17
+#Christian Mansey#
+
+ 289: 10:13:50.12 10:13:52.16  Durée 00:00:02.04  Lisibilité 32
+#luta pela sua profissão
+há 32 anos.#
+
+ 290: 10:13:53.13 10:13:56.08  Durée 00:00:02.20  Lisibilité 42
+#Após a concorrência
+dos supermercados,#
+
+ 291: 10:13:56.13 10:13:59.08  Durée 00:00:02.20  Lisibilité 42
+#o turismo de compras na França
+e os vegans, é demais.#
+
+ 292: 10:13:59.12 10:14:02.02  Durée 00:00:02.15  Lisibilité 39
+Somos 900 no ramo.
+Não muito mais.
+
+ 293: 10:14:02.06 10:14:05.00  Durée 00:00:02.19  Lisibilité 41
+Eu chego às 5h30.
+Trabalho sozinho.
+
+ 294: 10:14:05.15 10:14:07.00  Durée 00:00:01.10  Lisibilité 21
+Fico aqui até as 18h.
+
+ 295: 10:14:07.04 10:14:09.09  Durée 00:00:02.05  Lisibilité 33
+Não folgo no almoço
+para trabalhar.
+
+ 296: 10:14:09.13 10:14:12.05  Durée 00:00:02.17  Lisibilité 40
+Não emprego mais
+por falta de trabalho,
+
+ 297: 10:14:12.09 10:14:14.02  Durée 00:00:01.18  Lisibilité 26
+mas é muito só para mim.
+
+ 298: 10:14:14.07 10:14:15.13  Durée 00:00:01.06  Lisibilité 19
+É isso. É...
+
+ 299: 10:14:16.12 10:14:17.19  Durée 00:00:01.07  Lisibilité 19
+Se voltasse atrás?
+
+ 300: 10:14:17.23 10:14:19.14  Durée 00:00:01.16  Lisibilité 25
+Se fosse recomeçar?
+
+ 301: 10:14:19.19 10:14:22.13  Durée 00:00:02.19  Lisibilité 41
+Não. Honestamente, não.
+Eu faria outra coisa.
+
+ 302: 10:14:23.23 10:14:25.08  Durée 00:00:01.10  Lisibilité 21
+#Ataques como esse#
+
+ 303: 10:14:25.12 10:14:28.14  Durée 00:00:03.02  Lisibilité 46
+#houve uma dezena em Genebra
+nos últimos meses.#
+
+ 304: 10:14:28.18 10:14:30.11  Durée 00:00:01.18  Lisibilité 26
+#Mansey perdeu a esperança#
+
+ 305: 10:14:30.15 10:14:33.16  Durée 00:00:03.01  Lisibilité 46
+#de achar um jovem motivado
+para o seu ponto.#
+
+ 306: 10:14:33.20 10:14:34.21  Durée 00:00:01.01  Lisibilité 16
+#Como muitos colegas,#
+
+ 307: 10:14:35.00 10:14:38.05  Durée 00:00:03.05  Lisibilité 48
+#ele se diz abandonado e atacado
+por todo mundo.#
+
+ 308: 10:14:38.09 10:14:39.04  Durée 00:00:00.20  Lisibilité 12
+Até logo.
+
+ 309: 10:14:39.20 10:14:42.23  Durée 00:00:03.03  Lisibilité 47
+Somos mal vistos, agora.
+Quando vemos...
+
+ 310: 10:14:43.21 10:14:47.11  Durée 00:00:03.15  Lisibilité 54
+Às vezes tenho dificuldade
+de dizer que sou açougueiro
+
+ 311: 10:14:47.15 10:14:48.15  Durée 00:00:01.00  Lisibilité 15
+porque...
+
+ 312: 10:14:50.17 10:14:52.17  Durée 00:00:02.00  Lisibilité 30
+Chair à caillou
+
+ 313: 10:14:57.09 10:14:58.14  Durée 00:00:01.05  Lisibilité 18
+#Esta é Pia Shazar,#
+
+ 314: 10:14:58.18 10:15:01.01  Durée 00:00:02.08  Lisibilité 35
+#presidente
+da Associação Antiespecista#
+
+ 315: 10:15:01.05 10:15:04.03  Durée 00:00:02.23  Lisibilité 44
+#que se reúne
+num apartamento em Lausanne.#
+
+ 316: 10:15:04.08 10:15:06.06  Durée 00:00:01.23  Lisibilité 29
+#Eles não quebraram
+as vitrines,#
+
+ 317: 10:15:06.10 10:15:07.23  Durée 00:00:01.13  Lisibilité 23
+#mas não condenam o ato.#
+
+ 318: 10:15:08.03 10:15:11.02  Durée 00:00:02.24  Lisibilité 44
+Vitrines quebradas
+não são novidade, na verdade.
+
+ 319: 10:15:11.22 10:15:13.03  Durée 00:00:01.06  Lisibilité 19
+A mídia fala,
+
+ 320: 10:15:13.07 10:15:15.03  Durée 00:00:01.21  Lisibilité 28
+mas não é extraordinário.
+
+ 321: 10:15:15.07 10:15:18.02  Durée 00:00:02.20  Lisibilité 42
+Quebram-se vitrines
+desde que elas existem.
+
+ 322: 10:15:18.07 10:15:19.08  Durée 00:00:01.01  Lisibilité 16
+Faz parte do jogo.
+
+ 323: 10:15:19.12 10:15:22.07  Durée 00:00:02.20  Lisibilité 42
+É tão clássico, 
+as vitrines quebradas,
+
+ 324: 10:15:22.11 10:15:24.04  Durée 00:00:01.18  Lisibilité 26
+que era de se esperar.
+
+ 325: 10:15:24.08 10:15:26.11  Durée 00:00:02.03  Lisibilité 32
+Acontece em todos os movimentos.
+
+ 326: 10:15:27.19 10:15:30.03  Durée 00:00:02.09  Lisibilité 35
+#Eles lutam
+contra o domínio do homem#
+
+ 327: 10:15:30.07 10:15:31.05  Durée 00:00:00.23  Lisibilité 14
+#sobre os animais.#
+
+ 328: 10:15:31.09 10:15:34.05  Durée 00:00:02.21  Lisibilité 43
+#O que eles condenam
+são os 78 milhões de animais#
+
+ 329: 10:15:34.09 10:15:37.11  Durée 00:00:03.02  Lisibilité 46
+#abatidos para alimentar os suíços
+por ano.#
+
+ 330: 10:15:37.15 10:15:38.18  Durée 00:00:01.03  Lisibilité 17
+#Eles militam#
+
+ 331: 10:15:38.22 10:15:41.11  Durée 00:00:02.14  Lisibilité 38
+#como no Concurso Bovino
+de Lausanne.#
+
+ 332: 10:15:41.15 10:15:42.13  Durée 00:00:00.23  Lisibilité 14
+#Seus alvos:#
+
+ 333: 10:15:42.17 10:15:46.12  Durée 00:00:03.20  Lisibilité 57
+#os pecuaristas, os consumidores,
+e é claro, os açougueiros.#
+
+ 334: 10:15:46.17 10:15:50.02  Durée 00:00:03.10  Lisibilité 51
+#Nós não somos homens
+de Cro-Magnon modernos.#
+
+ 335: 10:15:50.06 10:15:51.11  Durée 00:00:01.05  Lisibilité 18
+Sim.
+
+ 336: 10:15:51.16 10:15:54.09  Durée 00:00:02.18  Lisibilité 41
+É evidente
+que o ofício de açougueiro
+
+ 337: 10:15:54.13 10:15:58.02  Durée 00:00:03.14  Lisibilité 53
+faz parte das tradições suíças
+e de várias outras tradições.
+
+ 338: 10:15:58.24 10:16:01.09  Durée 00:00:02.10  Lisibilité 36
+Nosso trabalho
+de militante antiespecista
+
+ 339: 10:16:01.13 10:16:03.16  Durée 00:00:02.03  Lisibilité 32
+é questionar
+
+ 340: 10:16:03.20 10:16:06.06  Durée 00:00:02.11  Lisibilité 37
+o fato de ser considerado normal
+
+ 341: 10:16:06.21 10:16:10.03  Durée 00:00:03.07  Lisibilité 49
+explorar, matar,
+cortar animais em pedaços.
+
+ 342: 10:16:10.07 10:16:12.15  Durée 00:00:02.08  Lisibilité 35
+Acham que essa profissão
+vai acabar?
+
+ 343: 10:16:12.19 10:16:14.05  Durée 00:00:01.11  Lisibilité 22
+Espero que sim.
+
+ 344: 10:16:15.03 10:16:16.20  Durée 00:00:01.17  Lisibilité 25
+Você é um assassino?
+
+ 345: 10:16:16.24 10:16:19.23  Durée 00:00:02.24  Lisibilité 44
+Não. Eu tenho cara de assassino?
+
+ 346: 10:16:20.17 10:16:21.16  Durée 00:00:00.24  Lisibilité 14
+Pois é. Não.
+
+ 347: 10:16:21.21 10:16:26.00  Durée 00:00:04.04  Lisibilité 62
+É nobre. É uma carne nobre,
+criada ao ar livre.
+
+ 348: 10:16:26.04 10:16:27.24  Durée 00:00:01.20  Lisibilité 27
+São animais felizes.
+
+ 349: 10:16:28.04 10:16:30.05  Durée 00:00:02.01  Lisibilité 31
+Quanto a isso, não me preocupo.
+
+ 350: 10:16:30.15 10:16:32.06  Durée 00:00:01.16  Lisibilité 25
+#Ele é Phillibert.#
+
+ 351: 10:16:32.10 10:16:34.23  Durée 00:00:02.13  Lisibilité 38
+#No frigorífico
+do açougue do Molard,#
+
+ 352: 10:16:35.02 10:16:37.02  Durée 00:00:02.00  Lisibilité 30
+#entre as carcaças
+suínas e bovinas,#
+
+ 353: 10:16:37.06 10:16:39.22  Durée 00:00:02.16  Lisibilité 40
+#esse aprendiz
+realiza o sonho de infância.#
+
+ 354: 10:16:40.02 10:16:42.01  Durée 00:00:01.24  Lisibilité 29
+#Com pedras de bônus.
+No Centro,#
+
+ 355: 10:16:42.06 10:16:46.03  Durée 00:00:03.22  Lisibilité 58
+#suas vitrines foram visitadas
+por antiespecistas 2 vezes.#
+
+ 356: 10:16:46.07 10:16:47.19  Durée 00:00:01.12  Lisibilité 22
+Eles reivindicam coisas.
+
+ 357: 10:16:47.24 10:16:50.15  Durée 00:00:02.16  Lisibilité 40
+O único meio de chamar atenção
+em grande escala
+
+ 358: 10:16:50.19 10:16:54.07  Durée 00:00:03.13  Lisibilité 53
+será o que aparece nos jornais,
+na televisão.
+
+ 359: 10:16:54.11 10:16:56.16  Durée 00:00:02.05  Lisibilité 33
+Então o vandalismo
+é a porta aberta
+
+ 360: 10:16:56.20 10:16:57.22  Durée 00:00:01.02  Lisibilité 16
+e eu compreendo.
+
+ 361: 10:17:00.10 10:17:02.23  Durée 00:00:02.13  Lisibilité 38
+Digo isso enquanto retalho ossos,
+
+ 362: 10:17:03.02 10:17:04.02  Durée 00:00:01.00  Lisibilité 15
+mas...
+
+ 363: 10:17:05.03 10:17:07.00  Durée 00:00:01.22  Lisibilité 28
+#Phillibert não se preocupa.#
+
+ 364: 10:17:07.04 10:17:09.06  Durée 00:00:02.02  Lisibilité 31
+#É menos pessimista
+que os veteranos#
+
+ 365: 10:17:09.10 10:17:10.23  Durée 00:00:01.13  Lisibilité 23
+#sobre o futuro do ofício.#
+
+ 366: 10:17:11.02 10:17:13.09  Durée 00:00:02.07  Lisibilité 34
+#Na Suíça, o consumo de carne#
+
+ 367: 10:17:13.13 10:17:15.03  Durée 00:00:01.15  Lisibilité 24
+#é relativamente estável:#
+
+ 368: 10:17:15.07 10:17:17.19  Durée 00:00:02.12  Lisibilité 37
+#50 kg de carne
+por ano por habitante.#
+
+ 369: 10:17:17.24 10:17:21.01  Durée 00:00:03.02  Lisibilité 46
+Enquanto houver demanda,
+sempre haverá...
+
+ 370: 10:17:21.05 10:17:23.07  Durée 00:00:02.02  Lisibilité 31
+sempre haverá alguém no ofício.
+
+ 371: 10:17:23.22 10:17:26.00  Durée 00:00:02.03  Lisibilité 32
+Entendo que assuste
+algumas pessoas.
+
+ 372: 10:17:26.04 10:17:27.13  Durée 00:00:01.09  Lisibilité 20
+É verdade que...
+
+ 373: 10:17:27.17 10:17:30.18  Durée 00:00:03.01  Lisibilité 46
+se pensar: "Vou trabalhar num lugar
+
+ 374: 10:17:31.11 10:17:32.20  Durée 00:00:01.09  Lisibilité 20
+"onde quebram vitrines",
+
+ 375: 10:17:32.24 10:17:35.06  Durée 00:00:02.07  Lisibilité 34
+é preocupante.
+Compreendo o medo.
+
+ 376: 10:17:36.04 10:17:38.12  Durée 00:00:02.08  Lisibilité 35
+Mas não acho
+que a profissão vá acabar.
+
+ 377: 10:17:38.16 10:17:41.19  Durée 00:00:03.03  Lisibilité 47
+No verão, sempre curtiremos
+comer costela na brasa,
+
+ 378: 10:17:42.20 10:17:44.15  Durée 00:00:01.20  Lisibilité 27
+e alguém vai prepará-la.
+
+ 379: 10:17:45.14 10:17:46.23  Durée 00:00:01.09  Lisibilité 20
+#Mas, na realidade,#
+
+ 380: 10:17:47.03 10:17:49.11  Durée 00:00:02.08  Lisibilité 35
+#há cada vez menos gente
+a prepará-la.#
+
+ 381: 10:17:49.15 10:17:51.02  Durée 00:00:01.12  Lisibilité 22
+#Desde 1990,#
+
+ 382: 10:17:51.06 10:17:53.11  Durée 00:00:02.05  Lisibilité 33
+#caiu para metade,
+os açougueiros suíços#
+
+ 383: 10:17:53.15 10:17:55.15  Durée 00:00:02.00  Lisibilité 30
+#segundo a central da profissão.#
+
+ 384: 10:17:55.19 10:17:58.05  Durée 00:00:02.11  Lisibilité 37
+#Este ano, aliás,
+Phillibert é o único#
+
+ 385: 10:17:58.10 10:18:00.17  Durée 00:00:02.07  Lisibilité 34
+#aprendiz do cantão de Genebra.#
+
+ 386: 10:18:00.21 10:18:02.03  Durée 00:00:01.07  Lisibilité 19
+Os açougues não fecham.
+
+ 387: 10:18:02.08 10:18:05.04  Durée 00:00:02.21  Lisibilité 43
+O fato é que há
+um desafeto dos jovens
+
+ 388: 10:18:05.08 10:18:06.10  Durée 00:00:01.02  Lisibilité 16
+pela profissão.
+
+ 389: 10:18:06.14 10:18:08.05  Durée 00:00:01.16  Lisibilité 25
+Ela não foi valorizada.
+
+ 390: 10:18:08.09 10:18:10.21  Durée 00:00:02.12  Lisibilité 37
+É verdade
+que é uma profissão exigente.
+
+ 391: 10:18:11.00 10:18:13.21  Durée 00:00:02.21  Lisibilité 43
+Os dias são longos,
+até para os aprendizes,
+
+ 392: 10:18:14.00 10:18:17.08  Durée 00:00:03.08  Lisibilité 50
+já que um aprendiz como Phillibert,
+no primeiro ano,
+
+ 393: 10:18:17.12 10:18:21.03  Durée 00:00:03.16  Lisibilité 55
+num dia normal,
+começa às 7h e acaba às 19h.
+
+ 394: 10:18:21.07 10:18:24.12  Durée 00:00:03.05  Lisibilité 48
+E a profissão não é muito bem paga.
+
+ 395: 10:18:25.06 10:18:27.05  Durée 00:00:01.24  Lisibilité 29
+É uma profissão difícil,
+
+ 396: 10:18:27.09 10:18:29.07  Durée 00:00:01.23  Lisibilité 29
+bastante dura.
+
+ 397: 10:18:29.11 10:18:31.14  Durée 00:00:02.03  Lisibilité 32
+A profissão não foi valorizada.
+
+ 398: 10:18:32.20 10:18:35.11  Durée 00:00:02.16  Lisibilité 40
+#Para atrair jovens
+e evitar a morte do ofício,#
+
+ 399: 10:18:36.00 10:18:38.01  Durée 00:00:02.01  Lisibilité 31
+#a Associação dos Profissionais#
+
+ 400: 10:18:38.06 10:18:40.21  Durée 00:00:02.15  Lisibilité 39
+#lançou vídeos nas redes sociais.#
+
+ 401: 10:18:41.01 10:18:43.13  Durée 00:00:02.12  Lisibilité 37
+#Operação sedução.#
+
+ 402: 10:18:46.02 10:18:49.08  Durée 00:00:03.06  Lisibilité 49
+#Também criaram concursos
+para valorizar os ofícios#
+
+ 403: 10:18:50.19 10:18:52.23  Durée 00:00:02.04  Lisibilité 32
+#e tutoriais
+para nos incentivar#
+
+ 404: 10:18:53.03 10:18:54.02  Durée 00:00:00.24  Lisibilité 14
+#a comer mal passado.#
+
+ 405: 10:18:54.07 10:18:56.15  Durée 00:00:02.08  Lisibilité 35
+#Hoje vamos preparar
+ragu de vitelo#
+
+ 406: 10:18:56.20 10:18:59.14  Durée 00:00:02.19  Lisibilité 41
+#e provar que podemos
+transformar uma carne barata#
+
+ 407: 10:18:59.19 10:19:02.08  Durée 00:00:02.14  Lisibilité 38
+#num prato macio,
+suculento e saboroso.#
+
+ 408: 10:19:03.10 10:19:05.09  Durée 00:00:01.24  Lisibilité 29
+#Mas antes de comer esse ragu,#
+
+ 409: 10:19:05.14 10:19:07.04  Durée 00:00:01.15  Lisibilité 24
+#temos de abater o vitelo.#
+
+ 410: 10:19:09.24 10:19:12.09  Durée 00:00:02.10  Lisibilité 36
+#Para mostrar o que há
+por trás do ragu,#
+
+ 411: 10:19:12.13 10:19:14.16  Durée 00:00:02.03  Lisibilité 32
+#Pia Shazar e sua associação#
+
+ 412: 10:19:14.21 10:19:17.22  Durée 00:00:03.01  Lisibilité 46
+#publicaram esse vídeo
+de um abatedouro suíço.#
+
+ 413: 10:19:18.23 10:19:21.13  Durée 00:00:02.15  Lisibilité 39
+Vemos que abater animais
+
+ 414: 10:19:21.17 10:19:23.13  Durée 00:00:01.21  Lisibilité 28
+é extremamente violento.
+
+ 415: 10:19:23.17 10:19:24.20  Durée 00:00:01.03  Lisibilité 17
+Se fosse obrigatório,
+
+ 416: 10:19:24.24 10:19:27.15  Durée 00:00:02.16  Lisibilité 40
+se fosse indispensável
+comer carne,
+
+ 417: 10:19:27.19 10:19:29.09  Durée 00:00:01.15  Lisibilité 24
+eu poderia entender.
+
+ 418: 10:19:29.13 10:19:32.13  Durée 00:00:03.00  Lisibilité 45
+Mas hoje em dia,
+não é nem um pouco necessário.
+
+ 419: 10:19:32.17 10:19:35.07  Durée 00:00:02.15  Lisibilité 39
+Então,
+a profissão de matar animais,
+
+ 420: 10:19:35.11 10:19:38.02  Durée 00:00:02.16  Lisibilité 40
+para mim, é indefensável.
+
+ 421: 10:19:45.20 10:19:47.20  Durée 00:00:02.00  Lisibilité 30
+Estamos no abatedouro.
+
+ 422: 10:19:47.24 10:19:50.09  Durée 00:00:02.10  Lisibilité 36
+É aqui que abatem porcos,
+
+ 423: 10:19:50.13 10:19:52.20  Durée 00:00:02.07  Lisibilité 34
+bezerro e novilhas.
+
+ 424: 10:19:53.20 10:19:58.11  Durée 00:00:04.16  Lisibilité 70
+Eles usam essa máquina
+para tirar os pelos dos porcos.
+
+ 425: 10:19:59.06 10:20:02.20  Durée 00:00:03.14  Lisibilité 53
+Utilizam essa
+
+ 426: 10:20:02.24 10:20:05.11  Durée 00:00:02.12  Lisibilité 37
+para cortar os animais grandes
+
+ 427: 10:20:05.15 10:20:06.15  Durée 00:00:01.00  Lisibilité 15
+e os bezerros.
+
+ 428: 10:20:08.09 10:20:10.22  Durée 00:00:02.13  Lisibilité 38
+Usam ganchos
+para prender os bezerros.
+
+ 429: 10:20:12.10 10:20:15.04  Durée 00:00:02.19  Lisibilité 41
+E...
+E acho que é só.
+
+ 430: 10:20:15.09 10:20:17.22  Durée 00:00:02.13  Lisibilité 38
+Não o incomodou matar um animal?
+
+ 431: 10:20:18.01 10:20:20.06  Durée 00:00:02.05  Lisibilité 33
+Não. Nem um pouco.
+
+ 432: 10:20:21.02 10:20:23.00  Durée 00:00:01.23  Lisibilité 29
+#Essa é Cloé.#
+
+ 433: 10:20:23.05 10:20:25.22  Durée 00:00:02.17  Lisibilité 40
+#Ela tem 17 anos.#
+É especialista em abate.#
+
+ 434: 10:20:26.01 10:20:30.03  Durée 00:00:04.02  Lisibilité 61
+#Seu açougue não quis mostrar
+como ela faz, na verdade.#
+
+ 435: 10:20:30.07 10:20:32.04  Durée 00:00:01.22  Lisibilité 28
+#A jovem começou o aprendizado#
+
+ 436: 10:20:32.08 10:20:34.18  Durée 00:00:02.10  Lisibilité 36
+#em agosto em Corgémont,
+no Jura bernense.#
+
+ 437: 10:20:34.23 10:20:38.06  Durée 00:00:03.08  Lisibilité 50
+#Bem longe do tumulto
+e das vitrines genebrenses.#
+
+ 438: 10:20:40.01 10:20:42.01  Durée 00:00:02.00  Lisibilité 30
+Diga-me o que é um antiespecista.
+
+ 439: 10:20:42.05 10:20:44.19  Durée 00:00:02.14  Lisibilité 38
+- Um "antiespecismo"?
+- "...especista."
+
+ 440: 10:20:46.02 10:20:47.17  Durée 00:00:01.15  Lisibilité 24
+Nunca ouvi essa palavra.
+
+ 441: 10:20:48.20 10:20:52.01  Durée 00:00:03.06  Lisibilité 49
+#No Jura, Cloé aprende
+as facetas da profissão,#
+
+ 442: 10:20:52.05 10:20:54.23  Durée 00:00:02.18  Lisibilité 41
+#da morte do animal
+à venda do bife.#
+
+ 443: 10:20:55.18 10:20:58.15  Durée 00:00:02.22  Lisibilité 43
+#Esse aprendizado
+está em extinção em Genebra.#
+
+ 444: 10:20:58.19 10:21:01.03  Durée 00:00:02.09  Lisibilité 35
+#Ele só existe no interior.#
+
+ 445: 10:21:05.00 10:21:07.00  Durée 00:00:02.00  Lisibilité 30
+Estou desossando uma coxa bovina.
+
+ 446: 10:21:07.23 10:21:12.03  Durée 00:00:04.05  Lisibilité 63
+Devo ter o cuidado de deixar
+o mínimo possível de carne no osso.
+
+ 447: 10:21:17.13 10:21:19.20  Durée 00:00:02.07  Lisibilité 34
+Sempre gostei
+de profissões do ramo.
+
+ 448: 10:21:19.24 10:21:21.22  Durée 00:00:01.23  Lisibilité 29
+Fiz estágios em...
+
+ 449: 10:21:22.18 10:21:24.16  Durée 00:00:01.23  Lisibilité 29
+em hotelaria, em cozinha.
+
+ 450: 10:21:25.08 10:21:28.09  Durée 00:00:03.01  Lisibilité 46
+O ramos alimentar
+sempre me agradou, então é isso.
+
+ 451: 10:21:28.14 10:21:30.11  Durée 00:00:01.22  Lisibilité 28
+Fiz um ano em padaria,
+
+ 452: 10:21:30.16 10:21:32.13  Durée 00:00:01.22  Lisibilité 28
+mas sou alérgica a farinha.
+
+ 453: 10:21:33.16 10:21:36.23  Durée 00:00:03.07  Lisibilité 49
+#Cloé parece motivada,
+mas não é o caso de todos.#
+
+ 454: 10:21:37.02 10:21:39.10  Durée 00:00:02.08  Lisibilité 35
+#Muitos abandonam no meio.#
+
+ 455: 10:21:39.14 10:21:40.10  Durée 00:00:00.21  Lisibilité 13
+#Em açougues,#
+
+ 456: 10:21:40.14 10:21:43.01  Durée 00:00:02.12  Lisibilité 37
+#1/3 dos jovens
+não concluem a formação.#
+
+ 457: 10:21:46.14 10:21:49.07  Durée 00:00:02.18  Lisibilité 41
+A maioria me diz
+que é uma bela profissão,
+
+ 458: 10:21:49.12 10:21:52.05  Durée 00:00:02.18  Lisibilité 41
+com pouca gente
+e que a profissão tem futuro.
+
+ 459: 10:21:52.19 10:21:53.20  Durée 00:00:01.01  Lisibilité 16
+Muito bem.
+
+ 460: 10:21:54.00 10:21:55.13  Durée 00:00:01.13  Lisibilité 23
+Vejo como outra qualquer.
+
+ 461: 10:21:55.17 10:21:59.08  Durée 00:00:03.16  Lisibilité 55
+Acho que quem não aceita
+essa profissão
+
+ 462: 10:22:00.10 10:22:03.12  Durée 00:00:03.02  Lisibilité 46
+pode não aceitar,
+mas não destruí-la.
+
+ 463: 10:22:06.05 10:22:07.19  Durée 00:00:01.14  Lisibilité 23
+- Estão destruindo?
+- Sim.
+
+ 464: 10:22:07.23 10:22:11.13  Durée 00:00:03.15  Lisibilité 54
+Quando falamos assim,
+tenho a impressão que as pessoas...
+
+ 465: 10:22:11.17 10:22:13.23  Durée 00:00:02.06  Lisibilité 34
+Parece que os açougueiros
+são loucos.
+
+ 466: 10:22:14.03 10:22:15.16  Durée 00:00:01.13  Lisibilité 23
+Bom dia.
+
+ 467: 10:22:16.08 10:22:18.20  Durée 00:00:02.12  Lisibilité 37
+#Manhã de quarta-feira em Moutier.#
+
+ 468: 10:22:19.00 10:22:20.21  Durée 00:00:01.21  Lisibilité 28
+#Cloé vai à escola profissional#
+
+ 469: 10:22:21.00 10:22:23.01  Durée 00:00:02.01  Lisibilité 31
+#com os aprendizes açougueiros.#
+
+ 470: 10:22:23.05 10:22:24.21  Durée 00:00:01.16  Lisibilité 25
+#Eles vêm do Jura bernense,#
+
+ 471: 10:22:25.00 10:22:26.14  Durée 00:00:01.14  Lisibilité 23
+#do Jura e de Neuchâtel#
+
+ 472: 10:22:26.19 10:22:29.01  Durée 00:00:02.07  Lisibilité 34
+#e no total, eles são 4.#
+
+ 473: 10:22:29.05 10:22:31.08  Durée 00:00:02.03  Lisibilité 32
+#Eles têm aula com os do 2º ano.#
+
+ 474: 10:22:31.12 10:22:34.07  Durée 00:00:02.20  Lisibilité 42
+#No programa hoje: etiquetagem.#
+
+ 475: 10:22:36.05 10:22:39.07  Durée 00:00:03.02  Lisibilité 46
+#O professor é Yves Joliat.
+Uma avida de açougue.#
+
+ 476: 10:22:39.11 10:22:42.20  Durée 00:00:03.09  Lisibilité 50
+#Ele constata que os alunos
+são cada vez mais raros.#
+
+ 477: 10:22:42.24 10:22:44.17  Durée 00:00:01.18  Lisibilité 26
+#Uma espécie em extinção,#
+
+ 478: 10:22:44.21 10:22:47.01  Durée 00:00:02.05  Lisibilité 33
+#como as empresas formadoras
+nas cidades.#
+
+ 479: 10:22:47.05 10:22:48.24  Durée 00:00:01.19  Lisibilité 26
+#O fosso campo-cidade
+é grande.#
+
+ 480: 10:22:51.03 10:22:54.05  Durée 00:00:03.02  Lisibilité 46
+Vamos rumo a uma uniformização
+dos produtos.
+
+ 481: 10:22:54.09 10:22:57.23  Durée 00:00:03.14  Lisibilité 53
+Então teremos o mesmo cervelat
+de Genebra a Saint-Gall.
+
+ 482: 10:23:01.01 10:23:04.09  Durée 00:00:03.08  Lisibilité 50
+Temos, em nossas regiões,
+ainda muito mais sorte
+
+ 483: 10:23:04.13 10:23:07.04  Durée 00:00:02.16  Lisibilité 40
+porque temos
+uma ligação muito forte
+
+ 484: 10:23:07.08 10:23:09.08  Durée 00:00:02.00  Lisibilité 30
+entre o produtor,
+
+ 485: 10:23:09.12 10:23:12.03  Durée 00:00:02.16  Lisibilité 40
+as pessoas que processam,
+os clientes...
+
+ 486: 10:23:12.07 10:23:15.03  Durée 00:00:02.21  Lisibilité 43
+Todos nos conhecemos.
+Somos uma grande família.
+
+ 487: 10:23:15.08 10:23:18.06  Durée 00:00:02.23  Lisibilité 44
+O produtor é nosso vizinho.
+
+ 488: 10:23:18.10 10:23:20.08  Durée 00:00:01.23  Lisibilité 29
+O cliente é nosso primo.
+
+ 489: 10:23:22.00 10:23:23.08  Durée 00:00:01.08  Lisibilité 20
+O outro, amigo.
+
+ 490: 10:23:23.12 10:23:26.01  Durée 00:00:02.14  Lisibilité 38
+Então nos conhecemos,
+trabalhamos juntos.
+
+ 491: 10:23:26.05 10:23:27.24  Durée 00:00:01.19  Lisibilité 26
+Essa é uma grande sorte
+
+ 492: 10:23:28.03 10:23:31.10  Durée 00:00:03.07  Lisibilité 49
+que nos faz ter ainda
+muitas empresas artesanais.
+
+ 493: 10:23:32.05 10:23:35.04  Durée 00:00:02.24  Lisibilité 44
+Está escrito "Carne suíça",
+mas devia estar:
+
+ 494: 10:23:35.08 10:23:37.21  Durée 00:00:02.13  Lisibilité 38
+"Produzido na Suíça
+à base de carne suíça."
+
+ 495: 10:23:39.01 10:23:41.02  Durée 00:00:02.01  Lisibilité 31
+Trabalhamos em pequenos açougues.
+
+ 496: 10:23:41.06 10:23:44.14  Durée 00:00:03.08  Lisibilité 50
+Não tem nenhum na Bell
+ou numa empresa grande.
+
+ 497: 10:23:44.18 10:23:46.22  Durée 00:00:02.04  Lisibilité 32
+Então pensamos as mesmas coisas.
+
+ 498: 10:23:47.01 10:23:48.22  Durée 00:00:01.21  Lisibilité 28
+Todos fazemos de tudo.
+
+ 499: 10:23:49.02 10:23:50.23  Durée 00:00:01.21  Lisibilité 28
+Temos todos o mesmo conceito.
+
+ 500: 10:23:51.03 10:23:54.19  Durée 00:00:03.16  Lisibilité 55
+Poder falar
+de todas essas etapas juntos é...
+
+ 501: 10:23:55.11 10:23:57.00  Durée 00:00:01.14  Lisibilité 23
+é interessante.
+
+ 502: 10:23:57.21 10:24:00.20  Durée 00:00:02.24  Lisibilité 44
+#Na sua formação,
+Cloé e os colegas falarão#
+
+ 503: 10:24:01.00 10:24:03.18  Durée 00:00:02.18  Lisibilité 41
+#de higiene, proteção,
+animais e aditivos.#
+
+ 504: 10:24:03.22 10:24:06.11  Durée 00:00:02.14  Lisibilité 38
+#Mas não dos novos modos de consumo#
+
+ 505: 10:24:06.15 10:24:07.12  Durée 00:00:00.22  Lisibilité 13
+#nem falaram#
+
+ 506: 10:24:07.16 10:24:11.00  Durée 00:00:03.09  Lisibilité 50
+#dos 2,3% de suíços
+que não comem carne.#
+
+ 507: 10:24:11.04 10:24:12.22  Durée 00:00:01.18  Lisibilité 26
+#Aqui não há vegetarianos,#
+
+ 508: 10:24:13.01 10:24:15.07  Durée 00:00:02.06  Lisibilité 34
+#vegans# ou antiespecistas
+no programa.#
+
+ 509: 10:24:15.12 10:24:18.24  Durée 00:00:03.12  Lisibilité 52
+Fiz o ensino médio. Depois,
+alguns anos de faculdade.
+
+ 510: 10:24:19.03 10:24:21.18  Durée 00:00:02.15  Lisibilité 39
+E aí, decidi
+
+ 511: 10:24:21.22 10:24:23.23  Durée 00:00:02.01  Lisibilité 31
+fazer aprendizado de açougueiro.
+
+ 512: 10:24:24.03 10:24:27.04  Durée 00:00:03.01  Lisibilité 46
+É interessante
+exercer uma profissão
+
+ 513: 10:24:27.08 10:24:28.24  Durée 00:00:01.16  Lisibilité 25
+que está numa certa crise.
+
+ 514: 10:24:29.04 10:24:31.10  Durée 00:00:02.06  Lisibilité 34
+Aos que os chamam de assassinos,
+
+ 515: 10:24:31.14 10:24:32.23  Durée 00:00:01.09  Lisibilité 20
+o que você responde?
+
+ 516: 10:24:33.14 10:24:35.04  Durée 00:00:01.15  Lisibilité 24
+Que eles matam plantas,
+
+ 517: 10:24:35.08 10:24:37.05  Durée 00:00:01.22  Lisibilité 28
+porque plantas têm vida.
+
+ 518: 10:24:42.00 10:24:45.09  Durée 00:00:03.09  Lisibilité 50
+Acho que é uma tendência que...
+
+ 519: 10:24:46.20 10:24:51.15  Durée 00:00:04.20  Lisibilité 72
+talvez não deva ser lavada a sério,
+mas que temos de observar de longe,
+
+ 520: 10:24:51.19 10:24:55.05  Durée 00:00:03.11  Lisibilité 52
+como açougueiros, para compreender
+o que eles reivindicam
+
+ 521: 10:24:55.09 10:24:56.21  Durée 00:00:01.12  Lisibilité 22
+e por que o fazem.
+
+ 522: 10:24:57.00 10:24:59.19  Durée 00:00:02.19  Lisibilité 41
+Mas também é... É um pouco...
+
+ 523: 10:24:59.23 10:25:03.05  Durée 00:00:03.07  Lisibilité 49
+É conhecendo o adversário
+que podemos combatê-lo.
+
+ 524: 10:25:03.10 10:25:04.23  Durée 00:00:01.13  Lisibilité 23
+De certo modo.
+
+ 525: 10:25:06.22 10:25:08.24  Durée 00:00:02.02  Lisibilité 31
+Não sei o que responder.
+
+ 526: 10:25:09.03 10:25:11.01  Durée 00:00:01.23  Lisibilité 29
+Não entro na lógica do vegan,
+
+ 527: 10:25:11.05 10:25:13.22  Durée 00:00:02.17  Lisibilité 40
+então não posso responder
+esse tipo de coisa.
+
+ 528: 10:25:14.16 10:25:16.04  Durée 00:00:01.13  Lisibilité 23
+Isso sai do racional.
+
+ 529: 10:25:16.08 10:25:18.09  Durée 00:00:02.01  Lisibilité 31
+Temos de libertar os animais
+
+ 530: 10:25:18.13 10:25:22.00  Durée 00:00:03.12  Lisibilité 52
+e mesmo se tivermos
+de queimar açougues para isso,
+
+ 531: 10:25:22.04 10:25:24.13  Durée 00:00:02.09  Lisibilité 35
+será pela causa, ora.
+
+ 532: 10:25:24.17 10:25:28.24  Durée 00:00:04.07  Lisibilité 64
+Pode parecer um extremismo
+político ou religioso.
+
+ 533: 10:25:29.04 10:25:32.07  Durée 00:00:03.03  Lisibilité 47
+Temos o direito de matar animais
+para comer.
+
+ 534: 10:25:38.05 10:25:39.07  Durée 00:00:01.02  Lisibilité 16
+Eles se chamam Saïd,
+
+ 535: 10:25:39.11 10:25:40.19  Durée 00:00:01.08  Lisibilité 20
+Marhjabin e Zahra.
+
+ 536: 10:25:40.23 10:25:44.05  Durée 00:00:03.07  Lisibilité 49
+São refugiados, estudam na Suíça,
+e com um ponto comum:
+
+ 537: 10:25:44.09 10:25:45.04  Durée 00:00:00.20  Lisibilité 12
+não sabem
+
+ 538: 10:25:45.08 10:25:46.16  Durée 00:00:01.08  Lisibilité 20
+como será seu futuro.
+
+ 539: 10:25:46.20 10:25:49.04  Durée 00:00:02.09  Lisibilité 35
+Anières teve uma ideia original
+
+ 540: 10:25:49.08 10:25:50.22  Durée 00:00:01.14  Lisibilité 23
+para tentar motivá-los:
+
+ 541: 10:25:51.01 10:25:52.24  Durée 00:00:01.23  Lisibilité 29
+incitá-los a bolar uma empresa.
+
+ 542: 10:25:53.03 10:25:56.01  Durée 00:00:02.23  Lisibilité 44
+Yves Godel acompanhou
+o programa de esperança.
+
+ 543: 10:26:00.01 10:26:01.18  Durée 00:00:01.17  Lisibilité 25
+#Um refúgio de paz.#
+
+ 544: 10:26:01.22 10:26:03.02  Durée 00:00:01.05  Lisibilité 18
+#Provisório, apenas.#
+
+ 545: 10:26:04.03 10:26:05.06  Durée 00:00:01.03  Lisibilité 17
+#No interior,#
+
+ 546: 10:26:05.10 10:26:09.00  Durée 00:00:03.15  Lisibilité 54
+#esse abrigo acolhe 250 migrantes#
+
+ 547: 10:26:09.04 10:26:11.03  Durée 00:00:01.24  Lisibilité 29
+#de 20 nacionalidades diferentes.#
+
+ 548: 10:26:11.18 10:26:13.24  Durée 00:00:02.06  Lisibilité 34
+#É uma das 12
+estruturas de acolhimento#
+
+ 549: 10:26:14.03 10:26:15.15  Durée 00:00:01.12  Lisibilité 22
+#do Hospice Général.#
+
+ 550: 10:26:17.10 10:26:20.01  Durée 00:00:02.16  Lisibilité 40
+#Chegando à Suíça,
+em geral correndo perigo,#
+
+ 551: 10:26:20.05 10:26:22.24  Durée 00:00:02.19  Lisibilité 41
+#eles esperam obter
+um visto de permanência#
+
+ 552: 10:26:23.03 10:26:25.24  Durée 00:00:02.21  Lisibilité 43
+#para eles
+e pelo futuro dos filhos.#
+
+ 553: 10:26:26.19 10:26:29.22  Durée 00:00:03.03  Lisibilité 47
+#Hoje é a Festa do Verão.#
+
+ 554: 10:26:35.06 10:26:38.22  Durée 00:00:03.16  Lisibilité 55
+#Eles se chamam Marhjabin,
+Saïd, Charam e Amadou#
+
+ 555: 10:26:39.02 10:26:40.24  Durée 00:00:01.22  Lisibilité 28
+#e estão meio nervosos.#
+
+ 556: 10:26:41.03 10:26:44.08  Durée 00:00:03.05  Lisibilité 48
+#Hoje apresentarão
+o resultado de 6 meses de trabalho#
+
+ 557: 10:26:44.12 10:26:46.19  Durée 00:00:02.07  Lisibilité 34
+#em público e em francês.#
+
+ 558: 10:26:47.11 10:26:49.05  Durée 00:00:01.19  Lisibilité 26
+#Projetos que desenvolveram#
+
+ 559: 10:26:49.09 10:26:52.15  Durée 00:00:03.06  Lisibilité 49
+#numa oficina de iniciação
+em empreendedorismo.#
+
+ 560: 10:26:52.19 10:26:54.08  Durée 00:00:01.14  Lisibilité 23
+#Vamos aplaudir#
+
+ 561: 10:26:54.12 10:26:57.07  Durée 00:00:02.20  Lisibilité 42
+#porque eles vão apresentar
+seu trabalho.#
+
+ 562: 10:26:57.11 10:26:59.00  Durée 00:00:01.14  Lisibilité 23
+#Eles trabalharam duro.#
+
+ 563: 10:26:59.11 10:27:02.23  Durée 00:00:03.12  Lisibilité 52
+#A experiência é inédita
+num abrigo de migrantes.#
+
+ 564: 10:27:03.03 10:27:05.02  Durée 00:00:01.24  Lisibilité 29
+#Boa noite.
+Sou Marhjabin Azizi.#
+
+ 565: 10:27:05.06 10:27:07.10  Durée 00:00:02.04  Lisibilité 32
+#Sou do Afeganistão
+e moro em Genebra#
+
+ 566: 10:27:07.14 10:27:09.20  Durée 00:00:02.06  Lisibilité 34
+#há 2 anos e meio.#
+
+ 567: 10:27:10.00 10:27:13.06  Durée 00:00:03.06  Lisibilité 49
+#Vou apresentar meu projeto,
+o Stylo Papillon,#
+
+ 568: 10:27:13.10 10:27:17.02  Durée 00:00:03.17  Lisibilité 55
+#a caneta que farfalha
+de uma língua a outra.#
+
+ 569: 10:27:18.12 10:27:20.13  Durée 00:00:02.01  Lisibilité 31
+#Um júri selecionará depois#
+
+ 570: 10:27:20.17 10:27:22.18  Durée 00:00:02.01  Lisibilité 31
+#o projeto mais original.#
+
+ 571: 10:27:23.08 10:27:26.11  Durée 00:00:03.03  Lisibilité 47
+#A solução que temos
+é criar um robô submarino#
+
+ 572: 10:27:26.16 10:27:28.12  Durée 00:00:01.21  Lisibilité 28
+#antes de levar os detritos...#
+
+ 573: 10:27:28.17 10:27:30.22  Durée 00:00:02.05  Lisibilité 33
+Visto para sonhar
+
+ 574: 10:27:35.01 10:27:36.19  Durée 00:00:01.18  Lisibilité 26
+#Tudo começou há 6 meses#
+
+ 575: 10:27:36.23 10:27:39.18  Durée 00:00:02.20  Lisibilité 42
+#no abrigo do município de Anières.#
+
+ 576: 10:27:39.22 10:27:41.11  Durée 00:00:01.14  Lisibilité 23
+Não se imponham limites:
+
+ 577: 10:27:41.15 10:27:45.02  Durée 00:00:03.12  Lisibilité 52
+"Será que vai custar caro?
+Será que é realizável?
+
+ 578: 10:27:45.07 10:27:46.13  Durée 00:00:01.06  Lisibilité 19
+"Será que já existe?"
+
+ 579: 10:27:46.17 10:27:49.02  Durée 00:00:02.10  Lisibilité 36
+A esta altura, não importa.
+Está bem?
+
+ 580: 10:27:49.22 10:27:52.20  Durée 00:00:02.23  Lisibilité 44
+Então ponham realmente
+todas as suas ideias.
+
+ 581: 10:27:52.24 10:27:55.20  Durée 00:00:02.21  Lisibilité 43
+#Alexis Moeckli
+é cofundador da We Start,#
+
+ 582: 10:27:56.00 10:27:58.22  Durée 00:00:02.22  Lisibilité 43
+#uma oficina inicialmente
+concebida para escolas.#
+
+ 583: 10:27:59.12 10:28:02.16  Durée 00:00:03.04  Lisibilité 47
+#Diante dele, alunos escolarizados
+no sistema suíço.#
+
+ 584: 10:28:03.11 10:28:05.21  Durée 00:00:02.10  Lisibilité 36
+#Mas como solicitantes de asilo,#
+
+ 585: 10:28:06.01 10:28:08.09  Durée 00:00:02.08  Lisibilité 35
+#seu futuro profissional é incerto.#
+
+ 586: 10:28:09.06 10:28:12.07  Durée 00:00:03.01  Lisibilité 46
+Mostramos a eles
+que não há só uma via de sucesso.
+
+ 587: 10:28:12.11 10:28:15.04  Durée 00:00:02.18  Lisibilité 41
+Dizem que temos de ser bons
+alunos para ter êxito,
+
+ 588: 10:28:15.08 10:28:17.10  Durée 00:00:02.02  Lisibilité 31
+que temos de estudar, e tal.
+
+ 589: 10:28:17.15 10:28:20.12  Durée 00:00:02.22  Lisibilité 43
+Mostramos que o sucesso
+são eles que criam,
+
+ 590: 10:28:20.16 10:28:22.16  Durée 00:00:02.00  Lisibilité 30
+que há vários caminhos para ele
+
+ 591: 10:28:22.20 10:28:25.09  Durée 00:00:02.14  Lisibilité 38
+e que cada um deve poder
+achar sua via.
+
+ 592: 10:28:25.13 10:28:26.12  Durée 00:00:00.24  Lisibilité 14
+#Primeira etapa:#
+
+ 593: 10:28:26.17 10:28:29.11  Durée 00:00:02.19  Lisibilité 41
+#escolher as ideias
+que servirão de exercício#
+
+ 594: 10:28:29.15 10:28:31.22  Durée 00:00:02.07  Lisibilité 34
+#para desenvolver
+projetos de empresas.#
+
+ 595: 10:28:32.02 10:28:33.00  Durée 00:00:00.23  Lisibilité 14
+Robô soldado
+
+ 596: 10:28:33.04 10:28:36.23  Durée 00:00:03.19  Lisibilité 56
+Como há guerra em países
+como o Afeganistão e o Iraque,
+
+ 597: 10:28:37.02 10:28:40.15  Durée 00:00:03.13  Lisibilité 53
+bem, minha ideia
+é construir um robô soldado
+
+ 598: 10:28:40.19 10:28:42.21  Durée 00:00:02.02  Lisibilité 31
+para evitar que pais
+percam os filhos.
+
+ 599: 10:28:43.01 10:28:44.09  Durée 00:00:01.08  Lisibilité 20
+É uma máquina.
+
+ 600: 10:28:44.13 10:28:47.10  Durée 00:00:02.22  Lisibilité 43
+Você põe a massa de crepe,
+mistura tudo.
+
+ 601: 10:28:47.14 10:28:49.05  Durée 00:00:01.16  Lisibilité 25
+Você põe na máquina
+
+ 602: 10:28:49.09 10:28:51.06  Durée 00:00:01.22  Lisibilité 28
+e depois escreve,
+
+ 603: 10:28:51.10 10:28:53.16  Durée 00:00:02.06  Lisibilité 34
+desenha ou põe sua foto
+
+ 604: 10:28:53.20 10:28:56.06  Durée 00:00:02.11  Lisibilité 37
+e ela reproduz sua foto em 3D
+
+ 605: 10:28:56.21 10:28:58.14  Durée 00:00:01.18  Lisibilité 26
+na massa de crepe.
+
+ 606: 10:28:59.11 10:29:03.08  Durée 00:00:03.22  Lisibilité 58
+Minha ideia é criar um submarino
+
+ 607: 10:29:03.13 10:29:05.11  Durée 00:00:01.23  Lisibilité 29
+que passe debaixo do mar
+
+ 608: 10:29:05.15 10:29:08.21  Durée 00:00:03.06  Lisibilité 49
+e recolha os detritos.
+
+ 609: 10:29:09.00 10:29:13.18  Durée 00:00:04.18  Lisibilité 71
+Vi um vídeo que mostrava
+muito lixo no mar.
+
+ 610: 10:29:13.22 10:29:17.20  Durée 00:00:03.23  Lisibilité 59
+Muitos peixes morrem
+por causa dos detritos.
+
+ 611: 10:29:20.19 10:29:23.19  Durée 00:00:03.00  Lisibilité 45
+Trabalhamos o despertar
+para o empreendedorismo,
+
+ 612: 10:29:23.23 10:29:26.19  Durée 00:00:02.21  Lisibilité 43
+então não nos interessamos muito
+pelas questões
+
+ 613: 10:29:26.23 10:29:29.10  Durée 00:00:02.12  Lisibilité 37
+de praticabilidade técnica,
+de viabilidade
+
+ 614: 10:29:29.14 10:29:30.24  Durée 00:00:01.10  Lisibilité 21
+ou de orçamento.
+
+ 615: 10:29:31.04 10:29:34.03  Durée 00:00:02.24  Lisibilité 44
+Nosso objetivo
+é mais fazer os jovens refletirem
+
+ 616: 10:29:34.08 10:29:35.21  Durée 00:00:01.13  Lisibilité 23
+sobre seu projeto,
+
+ 617: 10:29:36.00 10:29:38.08  Durée 00:00:02.08  Lisibilité 35
+trabalhar a ideia,
+a proposta de valor,
+
+ 618: 10:29:38.12 10:29:40.05  Durée 00:00:01.18  Lisibilité 26
+ver clientes potenciais...
+
+ 619: 10:29:40.23 10:29:43.14  Durée 00:00:02.16  Lisibilité 40
+Mas é mais um despertar
+ao empreendedorismo.
+
+ 620: 10:29:44.05 10:29:45.20  Durée 00:00:01.15  Lisibilité 24
+#Marhjabin vem do Afeganistão.#
+
+ 621: 10:29:45.24 10:29:47.07  Durée 00:00:01.08  Lisibilité 20
+#Ela tem 18 anos.#
+
+ 622: 10:29:47.11 10:29:50.02  Durée 00:00:02.16  Lisibilité 40
+#Sua ideia:
+uma caneta que ajuda a superar#
+
+ 623: 10:29:50.06 10:29:52.04  Durée 00:00:01.23  Lisibilité 29
+#as barreiras da língua.#
+
+ 624: 10:29:52.09 10:29:55.08  Durée 00:00:02.24  Lisibilité 44
+É uma caneta que lê o texto
+
+ 625: 10:29:55.12 10:29:57.14  Durée 00:00:02.02  Lisibilité 31
+ou um livro.
+
+ 626: 10:29:57.19 10:30:00.20  Durée 00:00:03.01  Lisibilité 46
+Quando não entendemos uma palavra,
+
+ 627: 10:30:01.00 10:30:03.02  Durée 00:00:02.02  Lisibilité 31
+ela me explica na minha língua.
+
+ 628: 10:30:03.06 10:30:05.16  Durée 00:00:02.10  Lisibilité 36
+Assim seria melhor.
+
+ 629: 10:30:06.22 10:30:08.13  Durée 00:00:01.16  Lisibilité 25
+#O irmão e a irmã dela#
+
+ 630: 10:30:08.17 10:30:10.19  Durée 00:00:02.02  Lisibilité 31
+#fazem equipe no projeto#
+
+ 631: 10:30:10.23 10:30:12.23  Durée 00:00:02.00  Lisibilité 30
+#de submarino limpador dos mares.#
+
+ 632: 10:30:13.03 10:30:15.07  Durée 00:00:02.04  Lisibilité 32
+Aqui tem um buraco
+e embaixo também.
+
+ 633: 10:30:15.11 10:30:16.15  Durée 00:00:01.04  Lisibilité 17
+E aqui
+
+ 634: 10:30:16.19 10:30:18.24  Durée 00:00:02.05  Lisibilité 33
+tem redes saindo.
+- Certo.
+
+ 635: 10:30:19.03 10:30:21.19  Durée 00:00:02.16  Lisibilité 40
+Elas recolhem os detritos.
+E os detritos...
+
+ 636: 10:30:21.23 10:30:23.04  Durée 00:00:01.06  Lisibilité 19
+E aqui também.
+
+ 637: 10:30:23.08 10:30:24.24  Durée 00:00:01.16  Lisibilité 25
+Aqui terá 2 botões:
+
+ 638: 10:30:25.03 10:30:26.23  Durée 00:00:01.20  Lisibilité 27
+um para...
+
+ 639: 10:30:27.02 10:30:29.01  Durée 00:00:01.24  Lisibilité 29
+- Recolher?
+- Não. Para...
+
+ 640: 10:30:29.05 10:30:31.02  Durée 00:00:01.22  Lisibilité 28
+- Para abrir.
+- Abrir as redes.
+
+ 641: 10:30:32.18 10:30:35.08  Durée 00:00:02.15  Lisibilité 39
+#Toda a família
+mora aqui no abrigo.#
+
+ 642: 10:30:36.11 10:30:39.00  Durée 00:00:02.14  Lisibilité 38
+#Saïd nos mostra o local.#
+
+ 643: 10:30:44.21 10:30:48.10  Durée 00:00:03.14  Lisibilité 53
+#Ele é Ahrash, o mais novo.
+Ele tem 11 anos.#
+
+ 644: 10:30:49.15 10:30:52.20  Durée 00:00:03.05  Lisibilité 48
+#E o pai dessa grande família
+é Abdollah.#
+
+ 645: 10:30:55.09 10:30:58.11  Durée 00:00:03.02  Lisibilité 46
+#À esquerda na foto,
+as irmãs de Saïd.#
+
+ 646: 10:30:58.15 10:31:00.13  Durée 00:00:01.23  Lisibilité 29
+#No meio, a mãe deles.#
+
+ 647: 10:31:01.08 10:31:03.19  Durée 00:00:02.11  Lisibilité 37
+#Por pudor,
+elas não quiseram aparecer#
+
+ 648: 10:31:03.23 10:31:05.17  Durée 00:00:01.19  Lisibilité 26
+#quando visitamos.#
+
+ 649: 10:31:06.24 10:31:09.15  Durée 00:00:02.16  Lisibilité 40
+#A família compartilha
+este cômodo único.#
+
+ 650: 10:31:09.19 10:31:12.09  Durée 00:00:02.15  Lisibilité 39
+#O cotidiano é às vezes complicado.#
+
+ 651: 10:31:13.13 10:31:15.01  Durée 00:00:01.13  Lisibilité 23
+Estamos aqui
+há 2 anos e meio.
+
+ 652: 10:31:15.06 10:31:16.09  Durée 00:00:01.03  Lisibilité 17
+É cansativo, aqui.
+
+ 653: 10:31:16.13 10:31:19.03  Durée 00:00:02.15  Lisibilité 39
+Somos 6 pessoas num quarto
+
+ 654: 10:31:19.07 10:31:23.19  Durée 00:00:04.12  Lisibilité 67
+e temos a cozinha,
+que dividimos com outra família.
+
+ 655: 10:31:23.23 10:31:24.23  Durée 00:00:01.00  Lisibilité 15
+Nós e mais uma.
+
+ 656: 10:31:25.18 10:31:27.22  Durée 00:00:02.04  Lisibilité 32
+O banheiro também.
+
+ 657: 10:31:28.01 10:31:31.02  Durée 00:00:03.01  Lisibilité 46
+Dividimos entre as duas famílias.
+
+ 658: 10:31:31.06 10:31:33.20  Durée 00:00:02.14  Lisibilité 38
+Aqui na casa tem muito barulho.
+
+ 659: 10:31:33.24 10:31:36.01  Durée 00:00:02.02  Lisibilité 31
+Quando estamos os 6 no quarto,
+
+ 660: 10:31:36.06 10:31:38.07  Durée 00:00:02.01  Lisibilité 31
+não consigo estudar direito.
+
+ 661: 10:31:38.24 10:31:40.22  Durée 00:00:01.23  Lisibilité 29
+#Temendo por sua segurança,#
+
+ 662: 10:31:41.01 10:31:44.03  Durée 00:00:03.02  Lisibilité 46
+#a família deixou o Afeganistão
+em 2015.#
+
+ 663: 10:31:44.07 10:31:45.19  Durée 00:00:01.12  Lisibilité 22
+#Uma viagem de 3 meses.#
+
+ 664: 10:31:46.12 10:31:48.14  Durée 00:00:02.02  Lisibilité 31
+#Saïd tinha apenas 14 anos.#
+
+ 665: 10:31:48.19 10:31:51.18  Durée 00:00:02.24  Lisibilité 44
+Tive medo várias vezes.
+
+ 666: 10:31:51.22 10:31:54.09  Durée 00:00:02.12  Lisibilité 37
+Quando íamos para a Turquia,
+
+ 667: 10:31:54.13 10:31:57.03  Durée 00:00:02.15  Lisibilité 39
+ficávamos fechados num carro.
+
+ 668: 10:31:57.15 10:32:00.19  Durée 00:00:03.04  Lisibilité 47
+Da manhã, quando subíamos no carro,
+até a noite.
+
+ 669: 10:32:00.24 10:32:04.11  Durée 00:00:03.12  Lisibilité 52
+Éramos nós, 6 pessoas,
+e mais outras pessoas.
+
+ 670: 10:32:04.15 10:32:06.01  Durée 00:00:01.11  Lisibilité 22
+Era difícil respirar.
+
+ 671: 10:32:06.06 10:32:10.02  Durée 00:00:03.21  Lisibilité 58
+Tive realmente muito medo,
+e me sentia muito mal lá dentro.
+
+ 672: 10:32:10.21 10:32:13.01  Durée 00:00:02.05  Lisibilité 33
+Quando íamos para a Turquia,
+
+ 673: 10:32:13.05 10:32:17.01  Durée 00:00:03.21  Lisibilité 58
+na fronteira
+entre o Iraque e a Turquia,
+
+ 674: 10:32:17.05 10:32:19.00  Durée 00:00:01.20  Lisibilité 27
+lá fazia muito frio.
+
+ 675: 10:32:19.05 10:32:21.16  Durée 00:00:02.11  Lisibilité 37
+Durante a noite,
+andamos nas montanhas
+
+ 676: 10:32:21.20 10:32:23.14  Durée 00:00:01.19  Lisibilité 26
+para chegar à Turquia.
+
+ 677: 10:32:25.17 10:32:29.05  Durée 00:00:03.13  Lisibilité 53
+#Impossível por enquanto
+considerar voltar ao Afeganistão.#
+
+ 678: 10:32:29.09 10:32:32.18  Durée 00:00:03.09  Lisibilité 50
+#A família de Saïd
+aposta tudo na Suíça.#
+
+ 679: 10:32:38.09 10:32:39.12  Durée 00:00:01.03  Lisibilité 17
+#As semanas passam#
+
+ 680: 10:32:39.16 10:32:42.03  Durée 00:00:02.12  Lisibilité 37
+#e os projetos de empresas#
+#avançam.#
+
+ 681: 10:32:42.08 10:32:44.20  Durée 00:00:02.12  Lisibilité 37
+#É maio e a apresentação
+se aproxima.#
+
+ 682: 10:32:46.20 10:32:50.05  Durée 00:00:03.10  Lisibilité 51
+Os que pagam
+ou que utilizam o serviço,
+
+ 683: 10:32:50.09 10:32:51.15  Durée 00:00:01.06  Lisibilité 19
+colocamos aqui.
+
+ 684: 10:32:51.19 10:32:54.08  Durée 00:00:02.14  Lisibilité 38
+Os parceiros
+são os que vão ajudá-los
+
+ 685: 10:32:54.12 10:32:55.22  Durée 00:00:01.10  Lisibilité 21
+a implementar isso.
+
+ 686: 10:32:56.01 10:32:58.01  Durée 00:00:02.00  Lisibilité 30
+Por exemplo,
+vocês fazem o submarino,
+
+ 687: 10:32:58.05 10:33:00.23  Durée 00:00:02.18  Lisibilité 41
+mas não fazem
+o tratamento dos detritos.
+
+ 688: 10:33:02.00 10:33:04.14  Durée 00:00:02.14  Lisibilité 38
+#O grupo pôde visitar empresas.#
+
+ 689: 10:33:04.18 10:33:06.12  Durée 00:00:01.19  Lisibilité 26
+#Encontraram empresários#
+
+ 690: 10:33:06.17 10:33:09.09  Durée 00:00:02.17  Lisibilité 40
+#e ouviram conselhos
+para avançar no projeto.#
+
+ 691: 10:33:10.06 10:33:14.09  Durée 00:00:04.03  Lisibilité 62
+É o aspecto de integração
+profissional que nos interessa.
+
+ 692: 10:33:15.09 10:33:17.07  Durée 00:00:01.23  Lisibilité 29
+Serão que terão
+mais desenvoltura
+
+ 693: 10:33:17.11 10:33:19.20  Durée 00:00:02.09  Lisibilité 35
+para ligar para um empregador
+
+ 694: 10:33:19.24 10:33:22.22  Durée 00:00:02.23  Lisibilité 44
+ou para enviar um e-mail
+para obter um estágio?
+
+ 695: 10:33:23.02 10:33:25.23  Durée 00:00:02.21  Lisibilité 43
+Será que falarão em público
+com desenvoltura?
+
+ 696: 10:33:26.12 10:33:30.03  Durée 00:00:03.16  Lisibilité 55
+Eles não obterão
+um emprego ou um estágio
+
+ 697: 10:33:30.07 10:33:31.11  Durée 00:00:01.04  Lisibilité 17
+no fim da oficina,
+
+ 698: 10:33:31.15 10:33:34.15  Durée 00:00:03.00  Lisibilité 45
+mas esperamos
+ter lhes dado as chaves
+
+ 699: 10:33:34.19 10:33:36.13  Durée 00:00:01.19  Lisibilité 26
+para empreender seu futuro.
+
+ 700: 10:33:36.18 10:33:38.04  Durée 00:00:01.11  Lisibilité 22
+Resta meia hora.
+
+ 701: 10:33:38.08 10:33:42.07  Durée 00:00:03.24  Lisibilité 59
+O objetivo é enviar um e-mail
+à um parceiro,
+
+ 702: 10:33:42.11 10:33:44.06  Durée 00:00:01.20  Lisibilité 27
+à uma empresa
+que pode ajudá-los
+
+ 703: 10:33:44.10 10:33:46.09  Durée 00:00:01.24  Lisibilité 29
+na realização do seu projeto.
+
+ 704: 10:33:47.14 10:33:49.00  Durée 00:00:01.11  Lisibilité 22
+É só para introduzir.
+
+ 705: 10:33:49.04 10:33:50.22  Durée 00:00:01.18  Lisibilité 26
+Senão você fala
+do seu# food truck#
+
+ 706: 10:33:51.01 10:33:53.23  Durée 00:00:02.22  Lisibilité 43
+mas ele não vai entender o que é...
+
+ 707: 10:33:54.02 10:33:56.02  Durée 00:00:02.00  Lisibilité 30
+- Em que contexto.
+- "Me chamo Elie.
+
+ 708: 10:33:56.06 10:33:58.06  Durée 00:00:02.00  Lisibilité 30
+"Participo do programa We Start."
+
+ 709: 10:33:58.10 10:34:01.19  Durée 00:00:03.09  Lisibilité 50
+Pode dizer: "que promove
+oficinas de empreendedorismo."
+
+ 710: 10:34:02.24 10:34:04.15  Durée 00:00:01.16  Lisibilité 25
+#Elie é sírio.#
+
+ 711: 10:34:04.20 10:34:07.20  Durée 00:00:03.00  Lisibilité 45
+#Com 26 anos,
+é o mais velho do grupo.#
+
+ 712: 10:34:07.24 10:34:11.09  Durée 00:00:03.10  Lisibilité 51
+#Seu projeto de empresa
+não tem nada de teórico.#
+
+ 713: 10:34:11.13 10:34:12.23  Durée 00:00:01.10  Lisibilité 21
+#Ele estaciona aqui,#
+
+ 714: 10:34:13.02 10:34:16.07  Durée 00:00:03.05  Lisibilité 48
+#a poucas centenas de metros
+do abrigo.#
+
+ 715: 10:34:20.12 10:34:24.21  Durée 00:00:04.09  Lisibilité 65
+Eu desmontei todo o revestimento
+antigo que era de madeira
+
+ 716: 10:34:26.13 10:34:30.08  Durée 00:00:03.20  Lisibilité 57
+e comecei a revestir o ônibus
+de aço inoxidável
+
+ 717: 10:34:30.12 10:34:32.20  Durée 00:00:02.08  Lisibilité 35
+para o serviço de higiene.
+
+ 718: 10:34:33.03 10:34:37.24  Durée 00:00:04.21  Lisibilité 73
+E coloquei primeiro a isolação,
+o antiferrugem.
+
+ 719: 10:34:38.19 10:34:41.12  Durée 00:00:02.18  Lisibilité 41
+#Um# food truck#
+que circularia pelo interior#
+
+ 720: 10:34:41.16 10:34:44.13  Durée 00:00:02.22  Lisibilité 43
+#e ofereceria
+os melhores produtos da região.#
+
+ 721: 10:34:44.17 10:34:45.23  Durée 00:00:01.06  Lisibilité 19
+#Só que tem um porém,#
+
+ 722: 10:34:46.02 10:34:47.18  Durée 00:00:01.16  Lisibilité 25
+#como solicitante de asilo#
+
+ 723: 10:34:47.22 10:34:50.23  Durée 00:00:03.01  Lisibilité 46
+#Elie não pode montar uma empresa.#
+
+ 724: 10:34:51.02 10:34:52.16  Durée 00:00:01.14  Lisibilité 23
+#A situação se eterniza#
+
+ 725: 10:34:52.20 10:34:54.12  Durée 00:00:01.17  Lisibilité 25
+#e afeta seu moral.#
+
+ 726: 10:34:57.23 10:35:00.17  Durée 00:00:02.19  Lisibilité 41
+Acho isso lamentável.
+
+ 727: 10:35:00.23 10:35:03.04  Durée 00:00:02.06  Lisibilité 34
+É tanto trabalho.
+São horas e horas.
+
+ 728: 10:35:03.09 10:35:05.17  Durée 00:00:02.08  Lisibilité 35
+E aí, bum, por causa do visto...
+
+ 729: 10:35:06.01 10:35:08.19  Durée 00:00:02.18  Lisibilité 41
+E aí, sinceramente,
+não sei o que vou fazer.
+
+ 730: 10:35:09.00 10:35:10.13  Durée 00:00:01.13  Lisibilité 23
+É muito triste.
+
+ 731: 10:35:11.20 10:35:15.01  Durée 00:00:03.06  Lisibilité 49
+#Elie deixou a Síria
+no começo da guerra.#
+
+ 732: 10:35:15.05 10:35:16.06  Durée 00:00:01.01  Lisibilité 16
+#Aos 19 anos,#
+
+ 733: 10:35:16.10 10:35:19.17  Durée 00:00:03.07  Lisibilité 49
+#ele queria chegar à Europa
+para estudar Economia.#
+
+ 734: 10:35:20.12 10:35:22.23  Durée 00:00:02.11  Lisibilité 37
+#Mas nada correu como o planejado.#
+
+ 735: 10:35:23.03 10:35:25.23  Durée 00:00:02.20  Lisibilité 42
+#Chegando sem visto
+à fronteira búlgara,#
+
+ 736: 10:35:26.02 10:35:27.15  Durée 00:00:01.13  Lisibilité 23
+#ele foi preso.#
+
+ 737: 10:35:28.12 10:35:30.18  Durée 00:00:02.06  Lisibilité 34
+Não foi fácil. Era a prisão.
+
+ 738: 10:35:30.22 10:35:33.17  Durée 00:00:02.20  Lisibilité 42
+Você não sabe quando vai sair.
+
+ 739: 10:35:34.21 10:35:39.06  Durée 00:00:04.10  Lisibilité 66
+Você fica numa cela
+com criminosos doentes
+
+ 740: 10:35:39.10 10:35:42.17  Durée 00:00:03.07  Lisibilité 49
+cheios de transtornos psíquicos.
+
+ 741: 10:35:43.18 10:35:46.23  Durée 00:00:03.05  Lisibilité 48
+Você fica com gente
+que não sai há 20 anos.
+
+ 742: 10:35:49.07 10:35:52.16  Durée 00:00:03.09  Lisibilité 50
+#À flor da pele,
+Elie não dirá mais nada.#
+
+ 743: 10:35:52.20 10:35:54.03  Durée 00:00:01.08  Lisibilité 20
+#Diante da câmera,#
+
+ 744: 10:35:54.07 10:35:57.08  Durée 00:00:03.01  Lisibilité 46
+#ele não fala das torturas
+que sofreu por 2 anos#
+
+ 745: 10:35:57.12 10:35:59.01  Durée 00:00:01.14  Lisibilité 23
+#nas prisões búlgaras.#
+
+ 746: 10:36:00.12 10:36:03.10  Durée 00:00:02.23  Lisibilité 44
+#Chegando à Suíça
+com stress pós-traumático,#
+
+ 747: 10:36:03.14 10:36:06.16  Durée 00:00:03.02  Lisibilité 46
+#ele passa 7 meses
+no abrigo de Anières#
+
+ 748: 10:36:07.02 10:36:09.19  Durée 00:00:02.17  Lisibilité 40
+#até ser acolhido
+neste vilarejo vizinho#
+
+ 749: 10:36:09.23 10:36:11.04  Durée 00:00:01.06  Lisibilité 19
+#por uma família.#
+
+ 750: 10:36:14.12 10:36:16.06  Durée 00:00:01.19  Lisibilité 26
+- Oi, Elie.
+- Oi, Agnès.
+
+ 751: 10:36:16.10 10:36:18.09  Durée 00:00:01.24  Lisibilité 29
+- Tudo bem?
+- Tudo. E você?
+
+ 752: 10:36:18.13 10:36:19.17  Durée 00:00:01.04  Lisibilité 17
+Tudo bem.
+
+ 753: 10:36:19.22 10:36:22.02  Durée 00:00:02.05  Lisibilité 33
+Instale-se e suba
+para me contar.
+
+ 754: 10:36:22.06 10:36:25.03  Durée 00:00:02.22  Lisibilité 43
+#Agnès o acolheu
+há 2 anos e meio.#
+
+ 755: 10:36:25.07 10:36:27.24  Durée 00:00:02.17  Lisibilité 40
+#Atualmente,
+Elie faz parte da família.#
+
+ 756: 10:36:28.03 10:36:29.23  Durée 00:00:01.20  Lisibilité 27
+Vai recomeçar a horta?
+
+ 757: 10:36:30.02 10:36:32.10  Durée 00:00:02.08  Lisibilité 35
+Vou. Semana que vem.
+
+ 758: 10:36:32.14 10:36:34.17  Durée 00:00:02.03  Lisibilité 32
+Ele é amigo de todos no vilarejo.
+
+ 759: 10:36:34.21 10:36:37.14  Durée 00:00:02.18  Lisibilité 41
+Ele conhece os vizinhos.
+Está bem integrado.
+
+ 760: 10:36:37.19 10:36:40.13  Durée 00:00:02.19  Lisibilité 41
+Poderíamos pensar,
+sem conhecê-lo,
+
+ 761: 10:36:40.17 10:36:43.09  Durée 00:00:02.17  Lisibilité 40
+que ele faz parte...
+É um suíço qualquer.
+
+ 762: 10:36:43.14 10:36:44.22  Durée 00:00:01.08  Lisibilité 20
+Como os jovens daqui.
+
+ 763: 10:36:45.01 10:36:46.01  Durée 00:00:01.00  Lisibilité 15
+Pop!
+
+ 764: 10:36:48.00 10:36:51.18  Durée 00:00:03.18  Lisibilité 56
+#Encontramos Elie na casa de Anthony,
+um vizinho viticultor.#
+
+ 765: 10:36:53.17 10:36:57.12  Durée 00:00:03.20  Lisibilité 57
+#Para essa turma de amigos,
+a amizade não tem fronteiras.#
+
+ 766: 10:37:00.20 10:37:03.20  Durée 00:00:03.00  Lisibilité 45
+Eu não vejo o Elie
+como um migrante, na verdade.
+
+ 767: 10:37:03.24 10:37:05.24  Durée 00:00:02.00  Lisibilité 30
+Eu o vejo como um cara daqui.
+
+ 768: 10:37:06.03 10:37:09.02  Durée 00:00:02.24  Lisibilité 44
+Então é difícil ter opinião
+sobre a migração
+
+ 769: 10:37:10.16 10:37:11.13  Durée 00:00:00.22  Lisibilité 13
+através do Elie.
+
+ 770: 10:37:11.17 10:37:15.13  Durée 00:00:03.21  Lisibilité 58
+É realmente uma amizade
+como a de amigos d e infância.
+
+ 771: 10:37:17.14 10:37:19.11  Durée 00:00:01.22  Lisibilité 28
+#Oriundo da região de Alepo,#
+
+ 772: 10:37:19.15 10:37:22.07  Durée 00:00:02.17  Lisibilité 40
+#Elie não vê seus pais há 7 anos.#
+
+ 773: 10:37:23.10 10:37:24.07  Durée 00:00:00.22  Lisibilité 13
+#Sem documentos,#
+
+ 774: 10:37:24.11 10:37:27.21  Durée 00:00:03.10  Lisibilité 51
+#impossível sair da Suíça
+para ir vê-los na Turquia,#
+
+ 775: 10:37:28.01 10:37:29.12  Durée 00:00:01.11  Lisibilité 22
+#onde eles se refugiaram.#
+
+ 776: 10:37:35.19 10:37:37.10  Durée 00:00:01.16  Lisibilité 25
+Qual é o futuro dele?
+
+ 777: 10:37:38.14 10:37:39.14  Durée 00:00:01.00  Lisibilité 15
+Não sei.
+
+ 778: 10:37:40.10 10:37:41.10  Durée 00:00:01.00  Lisibilité 15
+Não sei.
+
+ 779: 10:37:42.06 10:37:43.22  Durée 00:00:01.16  Lisibilité 25
+Como ele vê o futuro?
+
+ 780: 10:37:47.13 10:37:48.13  Durée 00:00:01.00  Lisibilité 15
+Não sei.
+
+ 781: 10:37:50.07 10:37:51.23  Durée 00:00:01.16  Lisibilité 25
+Honestamente, não sei.
+
+ 782: 10:37:53.19 10:37:57.02  Durée 00:00:03.08  Lisibilité 50
+Acho que ele tem muitos projetos.
+Ele tem esperança
+
+ 783: 10:37:57.06 10:37:59.15  Durée 00:00:02.09  Lisibilité 35
+e grandes momentos de depressão,
+
+ 784: 10:37:59.19 10:38:02.24  Durée 00:00:03.05  Lisibilité 48
+em que temos de buscá-lo
+para animá-lo.
+
+ 785: 10:38:03.23 10:38:05.04  Durée 00:00:01.06  Lisibilité 19
+E ele tem projetos.
+
+ 786: 10:38:05.08 10:38:08.19  Durée 00:00:03.11  Lisibilité 52
+Acho que se ele tivesse
+um visto de permanência,
+
+ 787: 10:38:08.24 10:38:11.19  Durée 00:00:02.20  Lisibilité 42
+ele poderia ficar e construir.
+
+ 788: 10:38:11.24 10:38:15.11  Durée 00:00:03.12  Lisibilité 52
+O visto também lhe daria
+o direito de trabalhar,
+
+ 789: 10:38:15.16 10:38:18.04  Durée 00:00:02.13  Lisibilité 38
+já que ele quer
+trabalhar como autônomo.
+
+ 790: 10:38:18.08 10:38:20.14  Durée 00:00:02.06  Lisibilité 34
+Ele só pode fazê-lo com o visto.
+
+ 791: 10:38:21.21 10:38:23.19  Durée 00:00:01.23  Lisibilité 29
+#Após meses de trabalho,#
+
+ 792: 10:38:23.23 10:38:26.21  Durée 00:00:02.23  Lisibilité 44
+#Elie perdeu a esperança
+de terminar o# food truck#.#
+
+ 793: 10:38:28.08 10:38:29.07  Durée 00:00:00.24  Lisibilité 14
+#Desanimado,#
+
+ 794: 10:38:29.11 10:38:31.08  Durée 00:00:01.22  Lisibilité 28
+#não teve forças
+de apresentar#
+
+ 795: 10:38:31.13 10:38:34.02  Durée 00:00:02.14  Lisibilité 38
+#seu projeto de empresa ao júri.#
+
+ 796: 10:38:34.07 10:38:36.06  Durée 00:00:01.24  Lisibilité 29
+#A cerimônia começa sem ele.#
+
+ 797: 10:38:39.11 10:38:43.20  Durée 00:00:04.09  Lisibilité 65
+#O júri escolheu, de comum acordo,#
+
+ 798: 10:38:43.24 10:38:45.19  Durée 00:00:01.20  Lisibilité 27
+#dar 2# ex æquo#.#
+
+ 799: 10:38:47.10 10:38:50.09  Durée 00:00:02.24  Lisibilité 44
+#Então os dois
+vão receber o 1º prêmio.#
+
+ 800: 10:38:50.14 10:38:51.17  Durée 00:00:01.03  Lisibilité 17
+É!
+
+ 801: 10:38:51.21 10:38:54.16  Durée 00:00:02.20  Lisibilité 42
+#Os vencedores:
+a máquina de crepe de Amadou#
+
+ 802: 10:38:55.03 10:38:57.12  Durée 00:00:02.09  Lisibilité 35
+#e a caneta tradutora de Marhjabin.#
+
+ 803: 10:38:58.06 10:38:59.22  Durée 00:00:01.16  Lisibilité 25
+#Ainda estudante,#
+
+ 804: 10:39:00.02 10:39:02.05  Durée 00:00:02.03  Lisibilité 32
+#a jovem tem muitos sonhos.#
+
+ 805: 10:39:03.01 10:39:04.15  Durée 00:00:01.14  Lisibilité 23
+No verão,
+
+ 806: 10:39:04.20 10:39:07.02  Durée 00:00:02.07  Lisibilité 34
+conversei com um médico
+
+ 807: 10:39:07.06 10:39:09.11  Durée 00:00:02.05  Lisibilité 33
+e farei estágio com ele.
+
+ 808: 10:39:10.13 10:39:12.14  Durée 00:00:02.01  Lisibilité 31
+Ele é dermatologista.
+
+ 809: 10:39:13.04 10:39:15.15  Durée 00:00:02.11  Lisibilité 37
+Quero fazer um estágio com ele
+
+ 810: 10:39:15.19 10:39:20.06  Durée 00:00:04.12  Lisibilité 67
+para depois ser especialista
+em dermatologia.
+
+ 811: 10:39:21.11 10:39:22.09  Durée 00:00:00.23  Lisibilité 14
+- É!
+- Parabéns.
+
+ 812: 10:39:22.13 10:39:26.00  Durée 00:00:03.12  Lisibilité 52
+#Seu irmãos não ganharam
+com o projeto de submarino,#
+
+ 813: 10:39:26.04 10:39:28.08  Durée 00:00:02.04  Lisibilité 32
+#mas não esnobam a experiência.#
+
+ 814: 10:39:30.09 10:39:32.11  Durée 00:00:02.02  Lisibilité 31
+Foi a primeira vez
+
+ 815: 10:39:32.15 10:39:35.02  Durée 00:00:02.12  Lisibilité 37
+que eu falei
+diante de 150, 200 pessoas.
+
+ 816: 10:39:35.06 10:39:37.24  Durée 00:00:02.18  Lisibilité 41
+Acho que eu me saí bem.
+
+ 817: 10:39:38.04 10:39:39.20  Durée 00:00:01.16  Lisibilité 25
+Uma das coisas importantes
+
+ 818: 10:39:39.24 10:39:41.22  Durée 00:00:01.23  Lisibilité 29
+era eu ter autoconfiança,
+
+ 819: 10:39:42.16 10:39:44.14  Durée 00:00:01.23  Lisibilité 29
+conseguir falar em público.
+
+ 820: 10:39:44.18 10:39:46.00  Durée 00:00:01.07  Lisibilité 19
+Mesmo sem conhecê-los,
+
+ 821: 10:39:46.04 10:39:47.21  Durée 00:00:01.17  Lisibilité 25
+precisa ter autoconfiança
+
+ 822: 10:39:48.00 10:39:51.12  Durée 00:00:03.12  Lisibilité 52
+e conseguir se exprimir.
+
+ 823: 10:39:51.16 10:39:55.13  Durée 00:00:03.22  Lisibilité 58
+A segunda coisa foi poder
+compartilhar nossas ideias.
+
+ 824: 10:39:55.17 10:39:58.23  Durée 00:00:03.06  Lisibilité 49
+Talvez um dia seja útil para algo.
+
+ 825: 10:40:06.06 10:40:08.04  Durée 00:00:01.23  Lisibilité 29
+Quarta estreia
+em telas romandas
+
+ 826: 10:40:08.08 10:40:09.10  Durée 00:00:01.02  Lisibilité 16
+o filme# Les Dames.#
+
+ 827: 10:40:09.14 10:40:11.23  Durée 00:00:02.09  Lisibilité 35
+Um documentário
+que foca na solidão
+
+ 828: 10:40:12.02 10:40:13.10  Durée 00:00:01.08  Lisibilité 20
+que vivem as mulheres
+
+ 829: 10:40:13.14 10:40:14.23  Durée 00:00:01.09  Lisibilité 20
+de mais de 60 anos.
+
+ 830: 10:40:15.03 10:40:19.00  Durée 00:00:03.22  Lisibilité 58
+São solteiras, viúvas ou separadas
+e sentem-se invisíveis.
+
+ 831: 10:40:19.04 10:40:21.21  Durée 00:00:02.17  Lisibilité 40
+Elas contam sua busca
+pela alma gêmea
+
+ 832: 10:40:22.00 10:40:24.03  Durée 00:00:02.03  Lisibilité 32
+enquanto homens da sua idade
+
+ 833: 10:40:24.07 10:40:26.13  Durée 00:00:02.06  Lisibilité 34
+só olham para as mais novas.
+
+ 834: 10:40:26.23 10:40:29.04  Durée 00:00:02.06  Lisibilité 34
+Mas algumas recusam-se a desistir
+
+ 835: 10:40:29.08 10:40:32.01  Durée 00:00:02.18  Lisibilité 41
+e participaram de um# speed dating#
+
+ 836: 10:40:32.05 10:40:36.05  Durée 00:00:04.00  Lisibilité 60
+aonde Esther Mamarbachi
+e Peter Greenwood as acompanharam.
+
+ 837: 10:40:36.10 10:40:37.20  Durée 00:00:01.10  Lisibilité 21
+Vamos melhorar.
+
+ 838: 10:40:37.24 10:40:41.15  Durée 00:00:03.16  Lisibilité 55
+Para os cabelos, pouca coisa,
+pois estão bem cortados.
+
+ 839: 10:40:42.05 10:40:43.18  Durée 00:00:01.13  Lisibilité 23
+#Josette tem 74 anos#
+
+ 840: 10:40:43.22 10:40:46.13  Durée 00:00:02.16  Lisibilité 40
+#e gostaria
+de dividir sua vida de novo.#
+
+ 841: 10:40:46.18 10:40:49.22  Durée 00:00:03.04  Lisibilité 47
+#Para isso, ela decidiu
+tentar uma nova experiência.#
+
+ 842: 10:40:50.18 10:40:53.06  Durée 00:00:02.13  Lisibilité 38
+Como vamos ao# speed dating#,
+
+ 843: 10:40:53.10 10:40:56.12  Durée 00:00:03.02  Lisibilité 46
+vamos maquiar um pouco os lábios
+
+ 844: 10:40:56.16 10:40:58.04  Durée 00:00:01.13  Lisibilité 23
+para ter uma bela boca.
+
+ 845: 10:41:07.06 10:41:10.09  Durée 00:00:03.03  Lisibilité 47
+E a ternura? Cacete!
+
+ 846: 10:41:10.13 10:41:13.23  Durée 00:00:03.10  Lisibilité 51
+#Nós encontramos Josette
+em casa, onde vive aposentada#
+
+ 847: 10:41:14.02 10:41:18.02  Durée 00:00:04.00  Lisibilité 60
+#desde que parou de trabalhar
+como gerente de bar.#
+
+ 848: 10:41:18.06 10:41:21.20  Durée 00:00:03.14  Lisibilité 53
+#Sua vida foi muito intensa,
+sempre com muitos homens:#
+
+ 849: 10:41:21.24 10:41:24.16  Durée 00:00:02.17  Lisibilité 40
+#2 maridos, 2 filhos#
+e muitos namorados.#
+
+ 850: 10:41:24.20 10:41:28.13  Durée 00:00:03.18  Lisibilité 56
+#O último foi há 5 anos.
+Depois disso, nada sério.#
+
+ 851: 10:41:29.03 10:41:31.06  Durée 00:00:02.03  Lisibilité 32
+Eu queria muito,
+antes de morrer,
+
+ 852: 10:41:31.10 10:41:33.15  Durée 00:00:02.05  Lisibilité 33
+encontrar o grande amor.
+
+ 853: 10:41:33.19 10:41:36.10  Durée 00:00:02.16  Lisibilité 40
+Um grande parceiro. É isso.
+
+ 854: 10:41:36.14 10:41:39.15  Durée 00:00:03.01  Lisibilité 46
+Alguém com quem conviver,
+comer fora, ir ao teatro.
+
+ 855: 10:41:40.01 10:41:43.11  Durée 00:00:03.10  Lisibilité 51
+O difícil é encontrar
+um homem da minha idade.
+
+ 856: 10:41:44.02 10:41:48.04  Durée 00:00:04.02  Lisibilité 61
+Enfim, não quero muito velho,
+
+ 857: 10:41:48.09 10:41:49.18  Durée 00:00:01.09  Lisibilité 20
+mas... É isso.
+
+ 858: 10:41:49.22 10:41:52.19  Durée 00:00:02.22  Lisibilité 43
+Os da sua idade
+querem mulheres de que idade?
+
+ 859: 10:41:52.23 10:41:54.24  Durée 00:00:02.01  Lisibilité 31
+Eles querem mais jovens, claro.
+
+ 860: 10:41:55.18 10:41:57.00  Durée 00:00:01.07  Lisibilité 19
+Eles querem jovens.
+
+ 861: 10:41:57.04 10:41:59.19  Durée 00:00:02.15  Lisibilité 39
+Por quê?
+Porque acham que será melhor.
+
+ 862: 10:42:00.13 10:42:01.18  Durée 00:00:01.05  Lisibilité 18
+Mas se enganam.
+
+ 863: 10:42:03.08 10:42:04.11  Durée 00:00:01.03  Lisibilité 17
+Acredite,
+
+ 864: 10:42:04.15 10:42:07.14  Durée 00:00:02.24  Lisibilité 44
+os senhores idosos
+também têm problemas.
+
+ 865: 10:42:09.02 10:42:10.19  Durée 00:00:01.17  Lisibilité 25
+#Problemas de virilidade#
+
+ 866: 10:42:11.05 10:42:13.18  Durée 00:00:02.13  Lisibilité 38
+#que a carne fresca
+deveria resolver.#
+
+ 867: 10:42:13.23 10:42:17.05  Durée 00:00:03.07  Lisibilité 49
+#É difícil atrair um homem
+após uma certa idade.#
+
+ 868: 10:42:17.10 10:42:19.24  Durée 00:00:02.14  Lisibilité 38
+#E no entanto,
+Josette é cheia de energia.#
+
+ 869: 10:42:27.03 10:42:30.01  Durée 00:00:02.23  Lisibilité 44
+Então, eu danço valsa, tango,
+
+ 870: 10:42:30.05 10:42:32.04  Durée 00:00:01.24  Lisibilité 29
+chachachá, bachata,
+
+ 871: 10:42:32.08 10:42:33.22  Durée 00:00:01.14  Lisibilité 23
+merengue e, é claro,
+
+ 872: 10:42:34.02 10:42:35.16  Durée 00:00:01.14  Lisibilité 23
+dança oriental.
+
+ 873: 10:42:37.02 10:42:39.09  Durée 00:00:02.07  Lisibilité 34
+Não é fácil envelhecer,
+
+ 874: 10:42:39.13 10:42:41.14  Durée 00:00:02.01  Lisibilité 31
+mas é uma luta diária.
+
+ 875: 10:42:41.18 10:42:44.11  Durée 00:00:02.18  Lisibilité 41
+É preciso saber
+se preparar um pouco,
+
+ 876: 10:42:44.15 10:42:47.16  Durée 00:00:03.01  Lisibilité 46
+se arrumar, se embelezar,
+
+ 877: 10:42:47.20 10:42:50.10  Durée 00:00:02.15  Lisibilité 39
+e não ser vovó demais,
+
+ 878: 10:42:50.14 10:42:52.20  Durée 00:00:02.06  Lisibilité 34
+e ser meio diferente, também.
+
+ 879: 10:42:55.14 10:42:56.14  Durée 00:00:01.00  Lisibilité 15
+É isso.
+
+ 880: 10:42:57.13 10:42:59.02  Durée 00:00:01.14  Lisibilité 23
+Vamos lá?
+
+ 881: 10:42:59.06 10:43:00.04  Durée 00:00:00.23  Lisibilité 14
+Hein?
+
+ 882: 10:43:01.10 10:43:03.10  Durée 00:00:02.00  Lisibilité 30
+L'Escale
+Speed dating para idosos
+
+ 883: 10:43:11.04 10:43:12.24  Durée 00:00:01.20  Lisibilité 27
+Vamos à aventura. É legal.
+
+ 884: 10:43:14.24 10:43:16.23  Durée 00:00:01.24  Lisibilité 29
+Quero achar
+o príncipe encantado.
+
+ 885: 10:43:17.10 10:43:20.20  Durée 00:00:03.10  Lisibilité 51
+Não peço o cavalo branco, hein.
+
+ 886: 10:43:21.00 10:43:22.05  Durée 00:00:01.05  Lisibilité 18
+Tudo bem.
+
+ 887: 10:43:22.09 10:43:23.14  Durée 00:00:01.05  Lisibilité 18
+Mas afinal
+
+ 888: 10:43:23.18 10:43:26.15  Durée 00:00:02.22  Lisibilité 43
+deve ter um príncipe encantado
+em algum lugar.
+
+ 889: 10:43:26.19 10:43:29.17  Durée 00:00:02.23  Lisibilité 44
+Todas as mulheres
+querem um príncipe encantado.
+
+ 890: 10:43:29.21 10:43:31.03  Durée 00:00:01.07  Lisibilité 19
+Mas onde está ele?
+
+ 891: 10:43:34.17 10:43:38.04  Durée 00:00:03.12  Lisibilité 52
+#Talvez seja na Riviera
+que ela o encontre, no L’Escale,#
+
+ 892: 10:43:38.09 10:43:40.16  Durée 00:00:02.07  Lisibilité 34
+#um centro de lazer para idosos#
+
+ 893: 10:43:40.21 10:43:43.15  Durée 00:00:02.19  Lisibilité 41
+#onde é recebida pelo diretor,
+Damien Schmutz.#
+
+ 894: 10:43:43.20 10:43:45.11  Durée 00:00:01.16  Lisibilité 25
+Sejam todos bem-vindos.
+
+ 895: 10:43:45.15 10:43:47.00  Durée 00:00:01.10  Lisibilité 21
+Sejam todos bem-vindos
+
+ 896: 10:43:47.05 10:43:49.07  Durée 00:00:02.02  Lisibilité 31
+a este# speed dating# para idosos.
+
+ 897: 10:43:49.11 10:43:52.08  Durée 00:00:02.22  Lisibilité 43
+É um prazer recebê-los
+na Tour de la Paix.
+
+ 898: 10:43:53.01 10:43:55.16  Durée 00:00:02.15  Lisibilité 39
+Insisto numa palavra,
+
+ 899: 10:43:55.21 10:43:58.22  Durée 00:00:03.01  Lisibilité 46
+a palavra da tarde:
+é "simplicidade".
+
+ 900: 10:43:59.02 10:44:01.09  Durée 00:00:02.07  Lisibilité 34
+Tem uma 2ª palavra:
+"convivialidade".
+
+ 901: 10:44:01.13 10:44:03.21  Durée 00:00:02.08  Lisibilité 35
+Estamos aqui para nos divertir.
+
+ 902: 10:44:04.13 10:44:08.19  Durée 00:00:04.06  Lisibilité 64
+#É o segundo# speed dating#
+organizado pelo centro de lazer.#
+
+ 903: 10:44:08.24 10:44:11.13  Durée 00:00:02.14  Lisibilité 38
+#Uma maneira
+de encontrar a alma gêmea.#
+
+ 904: 10:44:11.18 10:44:14.12  Durée 00:00:02.19  Lisibilité 41
+#Em alguns instantes,
+Josette talvez descubra#
+
+ 905: 10:44:14.16 10:44:15.21  Durée 00:00:01.05  Lisibilité 18
+#pretendentes.#
+
+ 906: 10:44:16.17 10:44:19.24  Durée 00:00:03.07  Lisibilité 49
+Faz vários anos
+que tem gente que chega
+
+ 907: 10:44:20.03 10:44:22.09  Durée 00:00:02.06  Lisibilité 34
+e nos diz, às vezes rindo:
+
+ 908: 10:44:22.13 10:44:24.03  Durée 00:00:01.15  Lisibilité 24
+"Às vezes me sinto só."
+
+ 909: 10:44:24.07 10:44:25.14  Durée 00:00:01.07  Lisibilité 19
+Sentimos um tabu,
+
+ 910: 10:44:25.18 10:44:27.17  Durée 00:00:01.24  Lisibilité 29
+que não querem
+admitir seriamente.
+
+ 911: 10:44:27.21 10:44:31.10  Durée 00:00:03.14  Lisibilité 53
+Eu pensava: "O que podemos fazer
+para responder a isso?"
+
+ 912: 10:44:31.14 10:44:35.05  Durée 00:00:03.16  Lisibilité 55
+Promover um # speed dating#
+permite justamente dizer:
+
+ 913: 10:44:35.09 10:44:37.09  Durée 00:00:02.00  Lisibilité 30
+"Fazemos isso através do jogo."
+
+ 914: 10:44:37.13 10:44:38.23  Durée 00:00:01.10  Lisibilité 21
+As pessoas me diziam:
+
+ 915: 10:44:39.02 10:44:41.12  Durée 00:00:02.10  Lisibilité 36
+"Buscamos amor,
+mas não sei onde achar."
+
+ 916: 10:44:45.13 10:44:48.16  Durée 00:00:03.03  Lisibilité 47
+Impressionou-me o número
+de ligações que tivemos.
+
+ 917: 10:44:48.20 10:44:50.01  Durée 00:00:01.06  Lisibilité 19
+Nunca imaginei.
+
+ 918: 10:44:50.05 10:44:52.07  Durée 00:00:02.02  Lisibilité 31
+Isso prova a necessidade...
+
+ 919: 10:44:52.11 10:44:55.15  Durée 00:00:03.04  Lisibilité 47
+a solidão que têm
+as pessoas de mais de 70 anos.
+
+ 920: 10:44:55.19 10:44:57.14  Durée 00:00:01.20  Lisibilité 27
+Tivemos 15 ligações de homens
+
+ 921: 10:44:57.18 10:45:00.14  Durée 00:00:02.21  Lisibilité 43
+e 122 ligações de mulheres.
+
+ 922: 10:45:04.23 10:45:07.17  Durée 00:00:02.19  Lisibilité 41
+#Foi isso que constataram
+as diretoras do Vaud#
+
+ 923: 10:45:07.22 10:45:10.04  Durée 00:00:02.07  Lisibilité 34
+#Stéphanie Chuat
+e Véronique Reymond.#
+
+ 924: 10:45:10.08 10:45:12.06  Durée 00:00:01.23  Lisibilité 29
+#Elas fizeram um documentário#
+
+ 925: 10:45:12.10 10:45:14.14  Durée 00:00:02.04  Lisibilité 32
+#que estreia esta semana.#
+
+ 926: 10:45:15.23 10:45:16.20  Durée 00:00:00.22  Lisibilité 13
+Entendemos
+
+ 927: 10:45:17.00 10:45:19.07  Durée 00:00:02.07  Lisibilité 34
+que era uma geração meio tabu,
+
+ 928: 10:45:19.11 10:45:20.10  Durée 00:00:00.24  Lisibilité 14
+de que se fala pouco.
+
+ 929: 10:45:20.14 10:45:23.24  Durée 00:00:03.10  Lisibilité 51
+Essas mulheres invisíveis
+entre 65 e 75 anos
+
+ 930: 10:45:24.03 10:45:25.22  Durée 00:00:01.19  Lisibilité 26
+que vivem muito entre elas
+
+ 931: 10:45:26.01 10:45:28.09  Durée 00:00:02.08  Lisibilité 35
+porque há poucos homens.
+
+ 932: 10:45:28.13 10:45:31.20  Durée 00:00:03.07  Lisibilité 49
+Ou porque eles morreram
+às vésperas de se aposentar
+
+ 933: 10:45:31.24 10:45:34.03  Durée 00:00:02.04  Lisibilité 32
+ou por causa de divórcio.
+
+ 934: 10:45:34.07 10:45:37.17  Durée 00:00:03.10  Lisibilité 51
+Isso nos intrigou. Pensamos:
+"E se fizéssemos um filme?"
+
+ 935: 10:45:37.21 10:45:40.00  Durée 00:00:02.04  Lisibilité 32
+É também porque é angustiante.
+
+ 936: 10:45:41.06 10:45:44.15  Durée 00:00:03.09  Lisibilité 50
+#Um filme onde elas contam
+a solidão de 5 mulheres.#
+
+ 937: 10:45:49.14 10:45:53.02  Durée 00:00:03.13  Lisibilité 53
+O que me faz mais falta
+é o carinho.
+
+ 938: 10:45:54.01 10:45:56.17  Durée 00:00:02.16  Lisibilité 40
+Nem é o sexo.
+
+ 939: 10:45:56.21 10:46:00.19  Durée 00:00:03.23  Lisibilité 59
+É ser olhada, abraçada,
+
+ 940: 10:46:00.23 10:46:01.18  Durée 00:00:00.20  Lisibilité 12
+ser...
+
+ 941: 10:46:01.22 10:46:05.01  Durée 00:00:03.04  Lisibilité 47
+A maioria das minhas congêneres
+de 60 anos
+
+ 942: 10:46:05.16 10:46:07.18  Durée 00:00:02.02  Lisibilité 31
+estão no mesmo caso que eu.
+
+ 943: 10:46:08.11 10:46:12.05  Durée 00:00:03.19  Lisibilité 56
+Somos invisíveis.
+Ninguém mais olha para nós.
+
+ 944: 10:46:12.09 10:46:14.11  Durée 00:00:02.02  Lisibilité 31
+Não somos a Sharon Stone,
+
+ 945: 10:46:14.15 10:46:15.19  Durée 00:00:01.04  Lisibilité 17
+então é isso aí,
+
+ 946: 10:46:15.23 10:46:18.03  Durée 00:00:02.05  Lisibilité 33
+somos meio descartadas.
+
+ 947: 10:46:23.04 10:46:25.05  Durée 00:00:02.01  Lisibilité 31
+A invisibilidade que elas sentem
+
+ 948: 10:46:25.09 10:46:27.17  Durée 00:00:02.08  Lisibilité 35
+é algo de que elas nos falaram
+
+ 949: 10:46:27.21 10:46:28.22  Durée 00:00:01.01  Lisibilité 16
+nas mensagens.
+
+ 950: 10:46:29.01 10:46:32.03  Durée 00:00:03.02  Lisibilité 46
+"Sentimo-nos invisíveis.
+"Ninguém fala de nós."
+
+ 951: 10:46:32.08 10:46:35.01  Durée 00:00:02.18  Lisibilité 41
+Algumas até disseram:
+"Começa mais jovem.
+
+ 952: 10:46:35.05 10:46:36.13  Durée 00:00:01.08  Lisibilité 20
+"Começa aos 45 anos.
+
+ 953: 10:46:36.17 10:46:39.07  Durée 00:00:02.15  Lisibilité 39
+"Vemos que os homens
+não nos olham mais
+
+ 954: 10:46:39.11 10:46:42.06  Durée 00:00:02.20  Lisibilité 42
+"e que o olhar deles
+vai às de 20, 30 anos."
+
+ 955: 10:46:42.11 10:46:46.16  Durée 00:00:04.05  Lisibilité 63
+Essa invisibilidade parece afetar
+mais as mulheres que os homens,
+
+ 956: 10:46:46.20 10:46:47.18  Durée 00:00:00.23  Lisibilité 14
+em todo caso.
+
+ 957: 10:46:47.22 10:46:50.04  Durée 00:00:02.07  Lisibilité 34
+E elas sofrem com isso.
+
+ 958: 10:46:50.08 10:46:53.20  Durée 00:00:03.12  Lisibilité 52
+Nós partimos do temor
+de ficar só com mulheres.
+
+ 959: 10:46:53.24 10:46:56.01  Durée 00:00:02.02  Lisibilité 31
+A invisibilidade,
+a transparência
+
+ 960: 10:46:56.05 10:46:59.11  Durée 00:00:03.06  Lisibilité 49
+nos foram trazidas
+pelas mulheres que nos responderam.
+
+ 961: 10:47:01.08 10:47:02.21  Durée 00:00:01.13  Lisibilité 23
+#De volta à Tour de Paix,#
+
+ 962: 10:47:03.01 10:47:06.05  Durée 00:00:03.04  Lisibilité 47
+#onde Josette conhece
+seus parceiros.#
+
+ 963: 10:47:06.09 10:47:08.08  Durée 00:00:01.24  Lisibilité 29
+#8 minutos para se apresentar.#
+
+ 964: 10:47:10.01 10:47:11.05  Durée 00:00:01.04  Lisibilité 17
+É minha 1ª vez.
+
+ 965: 10:47:11.09 10:47:14.19  Durée 00:00:03.10  Lisibilité 51
+Não sei o que dizer
+em poucos minutos.
+
+ 966: 10:47:14.23 10:47:16.11  Durée 00:00:01.13  Lisibilité 23
+E também...
+
+ 967: 10:47:17.02 10:47:19.01  Durée 00:00:01.24  Lisibilité 29
+ainda pratico dança oriental.
+
+ 968: 10:47:19.05 10:47:20.24  Durée 00:00:01.19  Lisibilité 26
+- Como?
+- Dança oriental.
+
+ 969: 10:47:21.03 10:47:22.15  Durée 00:00:01.12  Lisibilité 22
+Qual?
+
+ 970: 10:47:22.19 10:47:24.16  Durée 00:00:01.22  Lisibilité 28
+"Qual"? Só tem uma.
+
+ 971: 10:47:24.20 10:47:26.06  Durée 00:00:01.11  Lisibilité 22
+É a dança do ventre.
+
+ 972: 10:47:26.10 10:47:29.07  Durée 00:00:02.22  Lisibilité 43
+Era turca, no começo,
+e depois, egípcia.
+
+ 973: 10:47:29.11 10:47:31.17  Durée 00:00:02.06  Lisibilité 34
+Todos os países da África do Norte.
+
+ 974: 10:47:31.22 10:47:33.17  Durée 00:00:01.20  Lisibilité 27
+- É muito falado.
+- É mesmo?
+
+ 975: 10:47:34.17 10:47:36.05  Durée 00:00:01.13  Lisibilité 23
+Não faço ideia.
+
+ 976: 10:47:36.09 10:47:39.10  Durée 00:00:03.01  Lisibilité 46
+Eu teria de ler os jornais
+para isso.
+
+ 977: 10:47:39.15 10:47:42.02  Durée 00:00:02.12  Lisibilité 37
+- Eu não leio.
+- Eu folheio.
+
+ 978: 10:47:43.00 10:47:46.05  Durée 00:00:03.05  Lisibilité 48
+#8 minutos podem parecer
+muito tempo, às vezes.#
+
+ 979: 10:47:47.24 10:47:51.14  Durée 00:00:03.15  Lisibilité 54
+#Vejamos se com Thierry
+vai ter química.#
+
+ 980: 10:47:59.09 10:48:01.14  Durée 00:00:02.05  Lisibilité 33
+- Olá, Thierry.
+- Olá.
+
+ 981: 10:48:03.00 10:48:04.14  Durée 00:00:01.14  Lisibilité 23
+Então, tenho 68 anos.
+
+ 982: 10:48:04.18 10:48:07.05  Durée 00:00:02.12  Lisibilité 37
+- Ah, sim, é uma bela idade.
+- É.
+
+ 983: 10:48:07.18 10:48:09.20  Durée 00:00:02.02  Lisibilité 31
+- É tout récent.
+- Sim.
+
+ 984: 10:48:10.13 10:48:12.07  Durée 00:00:01.19  Lisibilité 26
+Ando muito de moto.
+
+ 985: 10:48:12.20 10:48:14.22  Durée 00:00:02.02  Lisibilité 31
+Ah... Numa Harley, espero.
+
+ 986: 10:48:15.01 10:48:16.01  Durée 00:00:01.00  Lisibilité 15
+- Não.
+- Ah, não?
+
+ 987: 10:48:16.05 10:48:18.02  Durée 00:00:01.22  Lisibilité 28
+- Não.
+- Passei da idade,
+
+ 988: 10:48:18.06 10:48:20.09  Durée 00:00:02.03  Lisibilité 32
+mas nunca tive idade para isso
+
+ 989: 10:48:20.13 10:48:23.00  Durée 00:00:02.12  Lisibilité 37
+porque tenho medo. Muito medo.
+
+ 990: 10:48:23.04 10:48:25.19  Durée 00:00:02.15  Lisibilité 39
+Isso não é a minha praia.
+
+ 991: 10:48:26.05 10:48:28.11  Durée 00:00:02.06  Lisibilité 34
+- Você gosta de dançar?
+- Sim, muito.
+
+ 992: 10:48:28.15 10:48:30.03  Durée 00:00:01.13  Lisibilité 23
+Ah, já é um bom ponto.
+
+ 993: 10:48:30.07 10:48:33.02  Durée 00:00:02.20  Lisibilité 42
+Sim, porque eu organizo
+cafés-concertos
+
+ 994: 10:48:33.06 10:48:36.06  Durée 00:00:03.00  Lisibilité 45
+para gente como nós em Morges.
+
+ 995: 10:48:37.04 10:48:40.08  Durée 00:00:03.04  Lisibilité 47
+#Atividades que Thierry
+dividia com a mulher,#
+
+ 996: 10:48:40.12 10:48:42.18  Durée 00:00:02.06  Lisibilité 34
+#falecida há quase 2 anos.#
+
+ 997: 10:48:42.23 10:48:46.20  Durée 00:00:03.22  Lisibilité 58
+As pessoas não se tocam
+que é duro, a solidão.
+
+ 998: 10:48:46.24 10:48:48.04  Durée 00:00:01.05  Lisibilité 18
+É muito duro.
+
+ 999: 10:48:49.01 10:48:51.05  Durée 00:00:02.04  Lisibilité 32
+Então, o que fazemos? Saímos.
+
+1000: 10:48:51.09 10:48:53.20  Durée 00:00:02.11  Lisibilité 37
+Ficamos na rua, perambulando.
+
+1001: 10:48:55.00 10:48:56.11  Durée 00:00:01.11  Lisibilité 22
+E é isso.
+
+1002: 10:48:57.03 10:48:59.24  Durée 00:00:02.21  Lisibilité 43
+- Buscam a alma gêmea.
+- Exatamente.
+
+1003: 10:49:00.19 10:49:02.19  Durée 00:00:02.00  Lisibilité 30
+O que posso dizer de mim?
+
+1004: 10:49:03.13 10:49:05.18  Durée 00:00:02.05  Lisibilité 33
+Estou sempre de bom humor.
+
+1005: 10:49:06.12 10:49:09.05  Durée 00:00:02.18  Lisibilité 41
+- Isso é bom.
+- Gosto de violeta. Nota-se.
+
+1006: 10:49:09.10 10:49:10.12  Durée 00:00:01.02  Lisibilité 16
+É, dá para ver.
+
+1007: 10:49:10.16 10:49:13.19  Durée 00:00:03.03  Lisibilité 47
+Seria melhor diante de um prato
+e uma taça de vinho?
+
+1008: 10:49:13.23 10:49:15.09  Durée 00:00:01.11  Lisibilité 22
+- Exatamente.
+- Hein?
+
+1009: 10:49:15.13 10:49:16.22  Durée 00:00:01.09  Lisibilité 20
+Sou o primeiro.
+
+1010: 10:49:18.01 10:49:19.19  Durée 00:00:01.18  Lisibilité 26
+#"Um prato", por que não?#
+
+1011: 10:49:19.23 10:49:22.09  Durée 00:00:02.11  Lisibilité 37
+#E talvez mais,
+se houver afinidades.#
+
+1012: 10:49:22.13 10:49:24.20  Durée 00:00:02.07  Lisibilité 34
+#Em todo caso,
+para alguns, deu certo.#
+
+1013: 10:49:25.15 10:49:26.20  Durée 00:00:01.05  Lisibilité 18
+Teve gente
+
+1014: 10:49:27.00 10:49:30.11  Durée 00:00:03.11  Lisibilité 52
+que nos enviou
+cartões-postais da Itália.
+
+1015: 10:49:30.16 10:49:33.12  Durée 00:00:02.21  Lisibilité 43
+Um casal que se formou aqui,
+no 1º# speed dating#.
+
+1016: 10:49:33.17 10:49:36.13  Durée 00:00:02.21  Lisibilité 43
+Ou um senhor
+que veio com lágrimas no olhos.
+
+1017: 10:49:36.18 10:49:38.11  Durée 00:00:01.18  Lisibilité 26
+Um dia ele chegou e disse
+
+1018: 10:49:38.15 10:49:41.14  Durée 00:00:02.24  Lisibilité 44
+que não tinha aquela sensação
+
+1019: 10:49:41.18 10:49:42.22  Durée 00:00:01.04  Lisibilité 17
+há mais de 50 anos.
+
+1020: 10:49:43.01 10:49:45.03  Durée 00:00:02.02  Lisibilité 31
+Tinha perdido a mulher
+há 2, 3 anos.
+
+1021: 10:49:45.07 10:49:46.10  Durée 00:00:01.03  Lisibilité 17
+Ela foi a única.
+
+1022: 10:49:46.14 10:49:50.02  Durée 00:00:03.13  Lisibilité 53
+Ele esperava alguém na varanda
+conhecida no# speed dating#.
+
+1023: 10:49:50.06 10:49:53.11  Durée 00:00:03.05  Lisibilité 48
+Eles se reviram.
+Ele estava muito emocionado.
+
+1024: 10:49:57.19 10:50:01.09  Durée 00:00:03.15  Lisibilité 54
+#Os frissons do amor, Cécile
+também queria voltar a sentir.#
+
+1025: 10:50:01.13 10:50:02.18  Durée 00:00:01.05  Lisibilité 18
+Então...
+
+1026: 10:50:03.12 10:50:06.07  Durée 00:00:02.20  Lisibilité 42
+Vous avez eu l'occasion
+de les travailler un peu?
+
+1027: 10:50:10.23 10:50:13.16  Durée 00:00:02.18  Lisibilité 41
+#Enquanto isso, aos 77 anos,
+ela ainda é ativa,#
+
+1028: 10:50:13.20 10:50:16.08  Durée 00:00:02.13  Lisibilité 38
+#sobretudo dirigindo
+um grupo de cítaras.#
+
+1029: 10:50:19.01 10:50:21.14  Durée 00:00:02.13  Lisibilité 38
+Recomeçando.
+Não estava muito... bom.
+
+1030: 10:50:22.10 10:50:23.05  Durée 00:00:00.20  Lisibilité 12
+No começo.
+
+1031: 10:50:23.09 10:50:25.23  Durée 00:00:02.14  Lisibilité 38
+#E lá também
+os homens são desejados.#
+
+1032: 10:50:26.03 10:50:30.01  Durée 00:00:03.23  Lisibilité 59
+Infelizmente faltam homens.
+Não sabemos onde eles estão.
+
+1033: 10:50:30.05 10:50:32.11  Durée 00:00:02.06  Lisibilité 34
+Houve uma vez um senhor, hein,
+
+1034: 10:50:32.15 10:50:34.05  Durée 00:00:01.15  Lisibilité 24
+no grupo.
+- Sim.
+
+1035: 10:50:34.09 10:50:35.12  Durée 00:00:01.03  Lisibilité 17
+Mas foi só.
+
+1036: 10:50:36.02 10:50:37.08  Durée 00:00:01.06  Lisibilité 19
+Ficou por isso mesmo.
+
+1037: 10:50:38.06 10:50:41.04  Durée 00:00:02.23  Lisibilité 44
+- Eles são aceitos aqui?
+- Mas claro.
+
+1038: 10:50:41.08 10:50:42.05  Durée 00:00:00.22  Lisibilité 13
+Claro.
+
+1039: 10:50:42.09 10:50:44.15  Durée 00:00:02.06  Lisibilité 34
+A porta está escancarada.
+
+1040: 10:50:46.18 10:50:50.12  Durée 00:00:03.19  Lisibilité 56
+#Ela voltou à Tour de Paix
+para incentivar a amiga Josette.#
+
+1041: 10:50:50.16 10:50:54.20  Durée 00:00:04.04  Lisibilité 62
+#Cécile já participou
+do primeiro# speed dating# do verão,#
+
+1042: 10:50:54.24 10:50:57.14  Durée 00:00:02.15  Lisibilité 39
+#mas a experiência não foi exitosa.#
+
+1043: 10:50:57.18 10:51:01.09  Durée 00:00:03.16  Lisibilité 55
+Conheci um,
+que está aqui hoje, aliás...
+
+1044: 10:51:02.22 10:51:04.02  Durée 00:00:01.05  Lisibilité 18
+Mas...
+
+1045: 10:51:04.06 10:51:05.18  Durée 00:00:01.12  Lisibilité 22
+Legal, sim. Legal.
+
+1046: 10:51:05.22 10:51:07.19  Durée 00:00:01.22  Lisibilité 28
+Próximo da minha idade, mas...
+
+1047: 10:51:08.13 10:51:10.13  Durée 00:00:02.00  Lisibilité 30
+Não sabemos o que ele quer.
+
+1048: 10:51:10.18 10:51:13.10  Durée 00:00:02.17  Lisibilité 40
+O outro não precisei ver porque...
+
+1049: 10:51:16.00 10:51:19.04  Durée 00:00:03.04  Lisibilité 47
+No telefone, foi bem engraçado,
+
+1050: 10:51:19.08 10:51:21.02  Durée 00:00:01.19  Lisibilité 26
+mas eu rapidamente...
+
+1051: 10:51:21.06 10:51:23.22  Durée 00:00:02.16  Lisibilité 40
+- O que ele perguntou?
+- Não era para mim.
+
+1052: 10:51:24.01 10:51:26.09  Durée 00:00:02.08  Lisibilité 35
+Primeiro,
+ele me pergunta se eu beijo.
+
+1053: 10:51:26.13 10:51:29.12  Durée 00:00:02.24  Lisibilité 44
+E depois ele me pergunta se...
+
+1054: 10:51:29.16 10:51:32.01  Durée 00:00:02.10  Lisibilité 36
+Ele fala de um campo de nudistas.
+
+1055: 10:51:32.05 10:51:35.18  Durée 00:00:03.13  Lisibilité 53
+Eu respondi: "Meu senhor,
+isso não é para mim."
+
+1056: 10:51:35.22 10:51:37.11  Durée 00:00:01.14  Lisibilité 23
+E acabou aí.
+
+1057: 10:51:37.15 10:51:38.24  Durée 00:00:01.09  Lisibilité 20
+E foi isso.
+
+1058: 10:51:39.03 10:51:41.06  Durée 00:00:02.03  Lisibilité 32
+Foi divertido,
+mas decepcionante.
+
+1059: 10:51:42.03 10:51:44.12  Durée 00:00:02.09  Lisibilité 35
+#Após 3 filhos
+e um divórcio há 40 anos,#
+
+1060: 10:51:44.16 10:51:47.16  Durée 00:00:03.00  Lisibilité 45
+#Cécile teve 2 outras experiências
+com homens#
+
+1061: 10:51:47.20 10:51:49.13  Durée 00:00:01.18  Lisibilité 26
+#que não deram em nada.#
+
+1062: 10:51:49.17 10:51:52.14  Durée 00:00:02.22  Lisibilité 43
+#Atualmente,
+o que mais lhe faz falta...#
+
+1063: 10:51:52.18 10:51:54.16  Durée 00:00:01.23  Lisibilité 29
+O carinho, a gentileza
+
+1064: 10:51:55.07 10:51:57.20  Durée 00:00:02.13  Lisibilité 38
+e o diálogo.
+
+1065: 10:51:57.24 10:51:59.18  Durée 00:00:01.19  Lisibilité 26
+Poder dialogar com alguém.
+
+1066: 10:52:01.12 10:52:03.00  Durée 00:00:01.13  Lisibilité 23
+Mas não o sexo.
+
+1067: 10:52:03.18 10:52:05.19  Durée 00:00:02.01  Lisibilité 31
+O sexo, a meu ver...
+
+1068: 10:52:05.23 10:52:09.04  Durée 00:00:03.06  Lisibilité 49
+Se for alguém ainda em forma,
+por que não?
+
+1069: 10:52:09.08 10:52:10.17  Durée 00:00:01.09  Lisibilité 20
+Não vou recusar.
+
+1070: 10:52:14.05 10:52:15.11  Durée 00:00:01.06  Lisibilité 19
+Não, mas é verdade.
+
+1071: 10:52:20.22 10:52:23.24  Durée 00:00:03.02  Lisibilité 46
+#No L’Escale,
+o# speed dating# se encerrou.#
+
+1072: 10:52:24.03 10:52:27.03  Durée 00:00:03.00  Lisibilité 45
+#É o momento de Josette
+fazer o 1º balanço.#
+
+1073: 10:52:27.15 10:52:29.20  Durée 00:00:02.05  Lisibilité 33
+Tinha senhores bem simpáticos.
+
+1074: 10:52:30.00 10:52:31.00  Durée 00:00:01.00  Lisibilité 15
+Só que,
+
+1075: 10:52:32.05 10:52:35.16  Durée 00:00:03.11  Lisibilité 52
+encontrar alguém,
+isso eu não sei.
+
+1076: 10:52:37.06 10:52:40.01  Durée 00:00:02.20  Lisibilité 42
+Mas pode ser.
+Por que não? Veremos.
+
+1077: 10:52:40.05 10:52:41.10  Durée 00:00:01.05  Lisibilité 18
+Veremos depois.
+
+1078: 10:52:42.01 10:52:43.09  Durée 00:00:01.08  Lisibilité 20
+Quem viver verá.
+
+1079: 10:52:44.07 10:52:45.21  Durée 00:00:01.14  Lisibilité 23
+- Saúde, Cécile.
+- Saúde, Josette.
+
+1080: 10:52:46.00 10:52:47.09  Durée 00:00:01.09  Lisibilité 20
+E boa sorte.
+
+1081: 10:52:47.13 10:52:48.23  Durée 00:00:01.10  Lisibilité 21
+- Sim.
+- Ou merda.
+
+1082: 10:52:49.02 10:52:50.07  Durée 00:00:01.05  Lisibilité 18
+Ao nosso amor.
+
+1083: 10:52:51.12 10:52:53.02  Durée 00:00:01.15  Lisibilité 24
+#Uma semana depois,#
+
+1084: 10:52:53.07 10:52:56.01  Durée 00:00:02.19  Lisibilité 41
+#Thierry ligou para Josette
+e marcaram encontro.#
+
+1085: 10:52:57.01 10:52:58.01  Durée 00:00:01.00  Lisibilité 15
+Saúde!
+
+1086: 10:53:00.11 10:53:02.15  Durée 00:00:02.04  Lisibilité 32
+A nós. A nossos amores.
+
+1087: 10:53:17.03 10:53:20.03  Durée 00:00:03.00  Lisibilité 45
+Adaptação: Adriana Gasparoni
+Legendagem: ECLAIR
+
