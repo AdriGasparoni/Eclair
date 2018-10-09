@@ -1,0 +1,1720 @@
+
+   1: 10:00:24.17 10:00:28.03  Duration 00:00:03.11  52
+Épicerie fine
+
+   2: 10:00:30.19 10:00:31.14  Duration 00:00:00.20  12
+Bom dia a todos.
+
+   3: 10:00:31.19 10:00:34.18  Duration 00:00:02.24  44
+Hoje vamos para os Altos Pireneus,
+
+   4: 10:00:34.22 10:00:35.24  Duration 00:00:01.02  16
+ao Lavedan.
+
+   5: 10:00:36.04 10:00:38.18  Duration 00:00:02.14  38
+Denis mostrará
+o carneiro Barèges-Gavarnie,
+
+   6: 10:00:38.22 10:00:42.14  Duration 00:00:03.17  55
+cobiçado pelos locais,
+mas pouco conhecido no resto do país.
+
+   7: 10:00:42.19 10:00:46.11  Duration 00:00:03.17  55
+Éric nos revelará os segredos
+do# berlingot# de Cauterets,
+
+   8: 10:00:46.16 10:00:50.17  Duration 00:00:04.01  61
+enquanto Bernard nos fará salivar
+diante do seu gâteau à la broche.
+
+   9: 10:00:50.22 10:00:54.17  Duration 00:00:03.20  57
+Vou deixá-los na companhia
+dos que fazem perdurar esse# terroir#
+
+  10: 10:00:54.22 10:00:57.13  Duration 00:00:02.16  40
+e encontro vocês depois
+par uma nova receita.
+
+  11: 10:00:57.18 10:00:59.03  Duration 00:00:01.10  21
+Até daqui a pouco.
+
+  12: 10:01:05.22 10:01:08.14  Duration 00:00:02.17  40
+Terras gourmandes
+
+  13: 10:01:16.02 10:01:18.02  Duration 00:00:02.00  30
+#No departamento
+dos Altos Pireneus,#
+
+  14: 10:01:18.20 10:01:21.00  Duration 00:00:02.05  33
+#o Lavedan é uma região montanhesa#
+
+  15: 10:01:21.04 10:01:24.14  Duration 00:00:03.10  51
+#que vai do Pays d’Argelès
+à montanha# bigourdane.
+
+  16: 10:01:24.18 10:01:27.08  Duration 00:00:02.15  39
+#Sua diversidade de paisagens,
+de vales,#
+
+  17: 10:01:27.12 10:01:29.16  Duration 00:00:02.04  32
+#de rochas, de circos e de cascatas#
+
+  18: 10:01:29.20 10:01:32.23  Duration 00:00:03.03  47
+#a tornam um lugar propício
+a atividades ao ar livre.#
+
+  19: 10:01:38.07 10:01:40.24  Duration 00:00:02.17  40
+Tarbes
+Le Lavedan
+
+  20: 10:01:41.04 10:01:42.23  Duration 00:00:01.19  26
+#No topo do Lavedan,#
+
+  21: 10:01:43.02 10:01:46.09  Duration 00:00:03.07  49
+#o Circo de Gavarnie marca
+a fronteira com a Espanha.#
+
+  22: 10:01:46.20 10:01:49.09  Duration 00:00:02.14  38
+#Sob a vista de águias e abutres,#
+
+  23: 10:01:49.13 10:01:52.21  Duration 00:00:03.08  50
+#o escoamento da neve derretida
+produz os# gaves,
+
+  24: 10:01:53.00 10:01:55.11  Duration 00:00:02.11  37
+#que escoam
+pelos flancos da montanha.#
+
+  25: 10:01:55.15 10:01:58.08  Duration 00:00:02.18  41
+#Alguns vilarejos pitorescos
+e burgos elevados#
+
+  26: 10:01:58.13 10:02:00.19  Duration 00:00:02.06  34
+#dispersam-se
+no meio dessa natureza.#
+
+  27: 10:02:01.11 10:02:04.08  Duration 00:00:02.22  43
+#Na parte baixa do vale,
+Lourdes recebe#
+
+  28: 10:02:04.12 10:02:06.21  Duration 00:00:02.09  35
+#milhões de turistas e devotos#
+
+  29: 10:02:07.01 10:02:09.11  Duration 00:00:02.10  36
+#que vêm celebrar a Virgem Maria.#
+
+  30: 10:02:09.16 10:02:11.23  Duration 00:00:02.07  34
+#Seu castelo domina
+as ruelas da cidade#
+
+  31: 10:02:12.03 10:02:14.13  Duration 00:00:02.10  36
+#e atesta um rico passado histórico#
+
+  32: 10:02:14.18 10:02:19.01  Duration 00:00:04.08  65
+#protegido pela muralha natural
+que é a cordilheira dos Pireneus.#
+
+  33: 10:02:20.20 10:02:22.24  Duration 00:00:02.04  32
+Viella
+
+  34: 10:02:28.06 10:02:31.05  Duration 00:00:02.24  44
+#As montanhas,
+Denis conhece desde a infância.#
+
+  35: 10:02:31.20 10:02:34.07  Duration 00:00:02.12  37
+#Menininho,
+foi com seu pai que descobriu#
+
+  36: 10:02:34.11 10:02:36.02  Duration 00:00:01.16  25
+#o ofício de criar ovelhas.#
+
+  37: 10:02:36.06 10:02:38.21  Duration 00:00:02.15  39
+#Um savoir-faire
+passado entre gerações#
+
+  38: 10:02:39.01 10:02:41.15  Duration 00:00:02.14  38
+#e que Denis não trocaria por nada.#
+
+  39: 10:02:44.16 10:02:46.00  Duration 00:00:01.09  20
+Eu assumi em 2008.
+
+  40: 10:02:46.21 10:02:51.13  Duration 00:00:04.17  70
+Meu pai chegou à aposentadoria,
+então assumi a parte das ovelhas.
+
+  41: 10:02:51.17 10:02:56.08  Duration 00:00:04.16  70
+Minha mão manteve a pousada.
+E aumentei um pouco o rebanho
+
+  42: 10:02:56.12 10:03:00.05  Duration 00:00:03.18  56
+porque tinha 130 ovelhas,
+e agora temos 220.
+
+  43: 10:03:02.18 10:03:04.23  Duration 00:00:02.05  33
+#Essas ovelhas são Barégeoises,#
+
+  44: 10:03:05.02 10:03:07.06  Duration 00:00:02.04  32
+#raça famosa
+pela qualidade da carne#
+
+  45: 10:03:07.10 10:03:11.03  Duration 00:00:03.18  56
+#e que obteve a denominação
+de origem controlada desde 2005,#
+
+  46: 10:03:11.07 10:03:13.15  Duration 00:00:02.08  35
+#e é protegida desde 2008.#
+
+  47: 10:03:15.22 10:03:18.19  Duration 00:00:02.22  43
+É uma ovelha rústica
+bem adaptada à montanha,
+
+  48: 10:03:18.23 10:03:20.13  Duration 00:00:01.15  24
+que valoriza nosso pasto.
+
+  49: 10:03:20.17 10:03:23.13  Duration 00:00:02.21  43
+E assim, ela se autoengorda
+
+  50: 10:03:23.17 10:03:27.20  Duration 00:00:04.03  62
+e isso nos permite produzir
+essa carne para a DOP.
+
+  51: 10:03:28.15 10:03:30.23  Duration 00:00:02.08  35
+É uma ovelha bem conforme
+
+  52: 10:03:31.02 10:03:33.12  Duration 00:00:02.10  36
+em nível do pernil, da paleta,
+
+  53: 10:03:33.16 10:03:36.13  Duration 00:00:02.22  43
+e dos mais belos
+cortes de costela.
+
+  54: 10:03:36.17 10:03:39.17  Duration 00:00:03.00  45
+E também é uma boa mãe
+
+  55: 10:03:39.22 10:03:42.01  Duration 00:00:02.04  32
+e uma boa leiteira.
+
+  56: 10:03:45.12 10:03:48.18  Duration 00:00:03.06  49
+#Na primavera, Denis leva
+para a montanha as ovelhas,#
+
+  57: 10:03:48.22 10:03:51.11  Duration 00:00:02.14  38
+#que passaram o inverno na fazenda.#
+
+  58: 10:03:51.15 10:03:55.12  Duration 00:00:03.22  58
+#Assim elas têm uma alimentação
+natural até o fim do outono,#
+
+  59: 10:03:55.16 10:03:57.24  Duration 00:00:02.08  35
+#apesar dos caprichos
+do clima instável.#
+
+  60: 10:03:59.07 10:04:01.07  Duration 00:00:02.00  30
+A alimentação básica é o capim.
+
+  61: 10:04:01.22 10:04:04.07  Duration 00:00:02.10  36
+No verão elas têm capim à vontade.
+
+  62: 10:04:04.11 10:04:06.05  Duration 00:00:01.19  26
+Outono e primavera também,
+
+  63: 10:04:06.09 10:04:09.13  Duration 00:00:03.04  47
+tem capim à vontade
+dos prados que cortamos
+
+  64: 10:04:09.17 10:04:11.11  Duration 00:00:01.19  26
+e complementado com feno.
+
+  65: 10:04:11.15 10:04:15.15  Duration 00:00:04.00  60
+E no inverno elas são alimentadas
+com feno e o segundo corte
+
+  66: 10:04:15.19 10:04:17.14  Duration 00:00:01.20  27
+que fizemos no verão.
+
+  67: 10:04:17.18 10:04:20.24  Duration 00:00:03.06  49
+E são complementadas
+com sal no verão.
+
+  68: 10:04:21.03 10:04:23.19  Duration 00:00:02.16  40
+Damos sal em grãos.
+
+  69: 10:04:23.23 10:04:27.24  Duration 00:00:04.01  61
+Esse é misturado com farelo
+para estimular o apetite
+
+  70: 10:04:28.03 10:04:30.04  Duration 00:00:02.01  31
+e sanar a carência de minerais.
+
+  71: 10:04:32.16 10:04:33.18  Duration 00:00:01.02  16
+Mexa-se!
+
+  72: 10:04:34.12 10:04:37.00  Duration 00:00:02.13  38
+#Após chegar à idade
+de 18 a 20 meses,#
+
+  73: 10:04:37.04 10:04:40.10  Duration 00:00:03.06  49
+#as ovelhas são abatidas
+e vendidas em açougues.#
+
+  74: 10:04:46.22 10:04:48.04  Duration 00:00:01.07  19
+- Oi, Denis.
+- Oi.
+
+  75: 10:04:48.08 10:04:50.02  Duration 00:00:01.19  26
+- Tudo bem?
+- Tudo, e você?
+
+  76: 10:04:50.07 10:04:52.15  Duration 00:00:02.08  35
+#Denis visita
+seu colega Franck Sajous#
+
+  77: 10:04:52.19 10:04:55.03  Duration 00:00:02.09  35
+#para certificar-se
+da qualidade da carne.#
+
+  78: 10:04:56.15 10:04:59.03  Duration 00:00:02.13  38
+Elas saem vermelhas
+com gordura branca.
+
+  79: 10:04:59.18 10:05:01.08  Duration 00:00:01.15  24
+Tudo que a DOC exige.
+
+  80: 10:05:01.12 10:05:04.19  Duration 00:00:03.07  49
+Elas têm um corte,
+é como mármore.
+
+  81: 10:05:04.23 10:05:07.01  Duration 00:00:02.03  32
+Não há intermediário entre nós.
+
+  82: 10:05:07.05 10:05:10.03  Duration 00:00:02.23  44
+Privilegiamos isso.
+Vejo se a carne lhe convém
+
+  83: 10:05:10.07 10:05:13.09  Duration 00:00:03.02  46
+e se há como pôr ovelhas menores,
+
+  84: 10:05:13.13 10:05:15.15  Duration 00:00:02.02  31
+mais magras ou algo assim.
+
+  85: 10:05:15.20 10:05:17.19  Duration 00:00:01.24  29
+Eu faço a escolha das ovelhas
+
+  86: 10:05:17.23 10:05:22.01  Duration 00:00:04.03  62
+e ele precisa ter o produto ideal.
+
+  87: 10:05:22.05 10:05:24.10  Duration 00:00:02.05  33
+Isto é carneiro
+da DOP Barèges-Gavarnie.
+
+  88: 10:05:24.14 10:05:27.02  Duration 00:00:02.13  38
+É o carneiro que produzimos
+nas montanhas.
+
+  89: 10:05:28.07 10:05:30.18  Duration 00:00:02.11  37
+#Para Denis,
+a carne deve ser bonita#
+
+  90: 10:05:30.22 10:05:32.14  Duration 00:00:01.17  25
+#para favorecer a venda.#
+
+  91: 10:05:32.18 10:05:35.15  Duration 00:00:02.22  43
+#Ele quer que os clientes
+degustem um sabor#
+
+  92: 10:05:35.20 10:05:38.18  Duration 00:00:02.23  44
+#diferente de carneiros
+de outras regiões.#
+
+  93: 10:05:40.00 10:05:42.24  Duration 00:00:02.24  44
+A engorda com capim é lenta,
+no entanto.
+
+  94: 10:05:43.03 10:05:45.06  Duration 00:00:02.03  32
+Ela faz esta carne
+ser marmorizada,
+
+  95: 10:05:45.10 10:05:47.17  Duration 00:00:02.07  34
+ter um pouco de gordura
+em cobertura.
+
+  96: 10:05:47.21 10:05:48.21  Duration 00:00:01.00  15
+É gordura boa.
+
+  97: 10:05:49.00 10:05:51.03  Duration 00:00:02.03  32
+Quando você come, ela é boa.
+
+  98: 10:05:51.07 10:05:54.21  Duration 00:00:03.14  53
+E o fato de vender essas ovelhas
+quando comem capim
+
+  99: 10:05:55.00 10:05:57.01  Duration 00:00:02.01  31
+modifica o gosto do carneiro
+
+ 100: 10:05:57.05 10:05:58.20  Duration 00:00:01.15  24
+e faz sentir gosto de...
+
+ 101: 10:05:59.21 10:06:02.08  Duration 00:00:02.12  37
+das plantas da montanha: serpão,
+
+ 102: 10:06:02.12 10:06:05.01  Duration 00:00:02.14  38
+tomilho e companhia.
+
+ 103: 10:06:05.05 10:06:08.16  Duration 00:00:03.11  52
+A riqueza de nossas montanhas
+nos faz ter produtos assim.
+
+ 104: 10:06:09.05 10:06:12.08  Duration 00:00:03.03  47
+#O carneiro costuma ser preterido
+pelo cordeiro,#
+
+ 105: 10:06:12.12 10:06:13.23  Duration 00:00:01.11  22
+#considerado mais suave.#
+
+ 106: 10:06:14.02 10:06:17.07  Duration 00:00:03.05  48
+#Mas quando é para defender
+produtos do seu# terroir,
+
+ 107: 10:06:17.11 10:06:19.17  Duration 00:00:02.06  34
+#Franck sabe ser persuasivo.#
+
+ 108: 10:06:19.22 10:06:22.16  Duration 00:00:02.19  41
+Explicamos que o carneiro
+
+ 109: 10:06:22.20 10:06:25.11  Duration 00:00:02.16  40
+tem um caderno de encargos,
+é acompanhado.
+
+ 110: 10:06:25.15 10:06:28.11  Duration 00:00:02.21  43
+E temos, agora,
+a paleta de carneiro,
+
+ 111: 10:06:28.16 10:06:29.18  Duration 00:00:01.02  16
+que é grelhada,
+
+ 112: 10:06:29.22 10:06:32.22  Duration 00:00:03.00  45
+as costeletas de carneiro
+também para grelhar,
+
+ 113: 10:06:33.01 10:06:35.02  Duration 00:00:02.01  31
+e o pernil, que faremos no forno
+
+ 114: 10:06:35.06 10:06:38.11  Duration 00:00:03.05  48
+ou grelhado em fatias.
+E é isso.
+
+ 115: 10:06:38.15 10:06:41.14  Duration 00:00:02.24  44
+E depois tem simplesmente isto
+para fazer ragu.
+
+ 116: 10:06:41.18 10:06:44.22  Duration 00:00:03.04  47
+Ragu, linguiça... Também fazemos
+linguiça de carneiro.
+
+ 117: 10:06:45.02 10:06:46.22  Duration 00:00:01.20  27
+Tudo isso
+desenvolvemos diferente.
+
+ 118: 10:06:47.01 10:06:49.08  Duration 00:00:02.07  34
+- De quanto precisa?
+- Preciso de 2.
+
+ 119: 10:06:49.12 10:06:51.15  Duration 00:00:02.03  32
+Duas fatias de pernil.
+Vamos lá.
+
+ 120: 10:06:51.20 10:06:54.13  Duration 00:00:02.18  41
+Sabemos que eles vêm
+de produtores locais,
+
+ 121: 10:06:54.17 10:06:59.02  Duration 00:00:04.10  66
+que ficam soltos,
+que comem capim da montanha
+
+ 122: 10:06:59.06 10:07:04.05  Duration 00:00:04.24  74
+e que ficaram abrigados no inverno
+com feno da montanha.
+
+ 123: 10:07:04.09 10:07:05.21  Duration 00:00:01.12  22
+Então é um produto local
+
+ 124: 10:07:06.00 10:07:09.12  Duration 00:00:03.12  52
+e portanto, fácil de rastrear.
+
+ 125: 10:07:09.16 10:07:12.07  Duration 00:00:02.16  40
+É direto.
+É venda de proximidade.
+
+ 126: 10:07:12.12 10:07:14.09  Duration 00:00:01.22  28
+É tudo que me convém.
+
+ 127: 10:07:14.13 10:07:17.06  Duration 00:00:02.18  41
+#A criação de carneiros
+se faz a alguns quilômetros#
+
+ 128: 10:07:17.10 10:07:19.08  Duration 00:00:01.23  29
+#do sítio Pyrénées-Mont Perdu,#
+
+ 129: 10:07:19.12 10:07:23.23  Duration 00:00:04.11  67
+#patrimônio mundial
+da Unesco desde 1997.#
+
+ 130: 10:07:24.02 10:07:26.08  Duration 00:00:02.06  34
+#O sítio é formado por três circos:#
+
+ 131: 10:07:26.12 10:07:29.06  Duration 00:00:02.19  41
+#Gavarnie, Troumouse e Estaubé.#
+
+ 132: 10:07:29.11 10:07:33.13  Duration 00:00:04.02  61
+#Circos naturais do tipo glaciar,
+eles atraem muitos curiosos,#
+
+ 133: 10:07:33.17 10:07:37.06  Duration 00:00:03.14  53
+#mas também são zonas
+de flore e fauna incríveis.#
+
+ 134: 10:07:37.10 10:07:40.00  Duration 00:00:02.15  39
+Gèdre
+
+ 135: 10:07:46.12 10:07:49.05  Duration 00:00:02.18  41
+Pode ir buscar a estaca.
+
+ 136: 10:07:49.09 10:07:50.22  Duration 00:00:01.13  23
+#Philippe é ornitólogo.#
+
+ 137: 10:07:51.01 10:07:54.11  Duration 00:00:03.10  51
+#Há 10 anos ele estuda
+o comportamento dos passeriformes#
+
+ 138: 10:07:54.16 10:07:56.17  Duration 00:00:02.01  31
+#a uma altitude
+próxima dos 1.300 m,#
+
+ 139: 10:07:56.21 10:07:58.19  Duration 00:00:01.23  29
+#perto do Circo de Troumouse.#
+
+ 140: 10:07:59.07 10:08:00.09  Duration 00:00:01.02  16
+Estendo a rede.
+
+ 141: 10:08:01.11 10:08:04.17  Duration 00:00:03.06  49
+A rede, está vendo,
+é muito fina,
+
+ 142: 10:08:05.07 10:08:07.09  Duration 00:00:02.02  31
+com malhas de 16 milímetros.
+
+ 143: 10:08:07.13 10:08:08.08  Duration 00:00:00.20  12
+E aqui,
+
+ 144: 10:08:08.13 10:08:10.05  Duration 00:00:01.17  25
+é uma rede ainda fina...
+
+ 145: 10:08:13.03 10:08:14.11  Duration 00:00:01.08  20
+de 70 deniers.
+
+ 146: 10:08:14.19 10:08:16.13  Duration 00:00:01.19  26
+O objetivo é capturar aves
+
+ 147: 10:08:16.17 10:08:19.06  Duration 00:00:02.14  38
+que, teoricamente, não veem a rede
+
+ 148: 10:08:19.10 10:08:21.20  Duration 00:00:02.10  36
+e se deslocam na vegetação.
+
+ 149: 10:08:22.00 10:08:24.21  Duration 00:00:02.21  43
+#Os passeriformes
+são de uma grande família de aves#
+
+ 150: 10:08:25.00 10:08:26.07  Duration 00:00:01.07  19
+#das mais comuns,#
+
+ 151: 10:08:26.11 10:08:29.11  Duration 00:00:03.00  45
+#como os tordos,#
+as alvéolas e os pardais.#
+
+ 152: 10:08:29.15 10:08:31.00  Duration 00:00:01.10  21
+#Eles são estudados no âmbito#
+
+ 153: 10:08:31.04 10:08:33.16  Duration 00:00:02.12  37
+#do programa Suivi Temporel
+des Oiseaux Communs#
+
+ 154: 10:08:33.20 10:08:36.18  Duration 00:00:02.23  44
+#dirigido pelo Museu
+de História Natural de Paris.#
+
+ 155: 10:08:36.23 10:08:41.15  Duration 00:00:04.17  70
+Os passeriformes são um grupo
+muito diversificado
+
+ 156: 10:08:41.19 10:08:46.12  Duration 00:00:04.18  71
+e que possibilita muito
+estudar a evolução
+
+ 157: 10:08:47.02 10:08:48.19  Duration 00:00:01.17  25
+da biodiversidade.
+
+ 158: 10:08:48.23 10:08:52.09  Duration 00:00:03.11  52
+Ele chega a uma escala alimentar
+um pouco acima,
+
+ 159: 10:08:52.13 10:08:57.13  Duration 00:00:05.00  75
+que depende muito da microfauna,
+dos insetos
+
+ 160: 10:08:58.11 10:09:02.15  Duration 00:00:04.04  62
+e da presença desses insetos
+nas pradarias, nos gramados,
+
+ 161: 10:09:02.19 10:09:05.03  Duration 00:00:02.09  35
+nos campos cultivados,
+
+ 162: 10:09:05.08 10:09:07.01  Duration 00:00:01.18  26
+e nos bosques.
+
+ 163: 10:09:07.05 10:09:10.12  Duration 00:00:03.07  49
+E se houver
+uma má gestão de tudo isso,
+
+ 164: 10:09:10.16 10:09:14.11  Duration 00:00:03.20  57
+haverá necessariamente
+um efeito direto nos passeriformes,
+
+ 165: 10:09:14.16 10:09:18.05  Duration 00:00:03.14  53
+na diversidade de passeriformes,
+em espécies específicas.
+
+ 166: 10:09:26.17 10:09:28.09  Duration 00:00:01.17  25
+Ele acabou de cair na rede.
+
+ 167: 10:09:28.13 10:09:32.20  Duration 00:00:04.07  64
+Vou soltá-lo para depois
+colher os dados sobre esse pássaro.
+
+ 168: 10:09:33.18 10:09:37.05  Duration 00:00:03.12  52
+Ele caiu na rede.
+Vemos que não está muito preso.
+
+ 169: 10:09:37.16 10:09:41.21  Duration 00:00:04.05  63
+#Depois de capturados, os pássaros
+são anilhados, pesados e medidos#
+
+ 170: 10:09:42.00 10:09:43.14  Duration 00:00:01.14  23
+#e depois serão soltos.#
+
+ 171: 10:09:45.06 10:09:48.22  Duration 00:00:03.16  55
+Vou pôr nele a anilha 76,
+
+ 172: 10:09:49.18 10:09:51.13  Duration 00:00:01.20  27
+69,
+
+ 173: 10:09:52.04 10:09:53.12  Duration 00:00:01.08  20
+682.
+
+ 174: 10:09:54.16 10:09:57.14  Duration 00:00:02.23  44
+#Esse inventário paciente permitirá,
+em 5 ou 10 anos,#
+
+ 175: 10:09:57.18 10:09:59.11  Duration 00:00:01.18  26
+#tirar as primeiras conclusões.#
+
+ 176: 10:09:59.15 10:10:02.24  Duration 00:00:03.09  50
+#E se Philippe é prudente
+com os resultados definitivos,#
+
+ 177: 10:10:03.03 10:10:06.06  Duration 00:00:03.03  47
+#ele já constata
+que o aquecimento global é perigoso,#
+
+ 178: 10:10:06.10 10:10:09.13  Duration 00:00:03.03  47
+#mais para as aves de altitude
+que para passeriformes.#
+
+ 179: 10:10:11.04 10:10:15.04  Duration 00:00:04.00  60
+Nossas hipóteses de evolução
+seriam bem boas.
+
+ 180: 10:10:15.19 10:10:18.23  Duration 00:00:03.04  47
+E essas espécies,
+que também são generalistas,
+
+ 181: 10:10:19.02 10:10:21.22  Duration 00:00:02.20  42
+vão evoluir bem, adaptar-se bem,
+
+ 182: 10:10:22.01 10:10:25.18  Duration 00:00:03.17  55
+aqui, nessa vegetação ripária,
+em borda de rio,
+
+ 183: 10:10:25.22 10:10:28.21  Duration 00:00:02.24  44
+que é um meio bem comum
+e bastante estável.
+
+ 184: 10:10:29.00 10:10:31.13  Duration 00:00:02.13  38
+Simulações foram feitas
+em longo prazo.
+
+ 185: 10:10:31.17 10:10:34.23  Duration 00:00:03.06  49
+Tem espécies que vão desaparecer,
+como as# Lagopus#...
+
+ 186: 10:10:39.04 10:10:42.11  Duration 00:00:03.07  49
+Há simulações
+feitas em 2050 e 2100,
+
+ 187: 10:10:42.15 10:10:46.00  Duration 00:00:03.10  51
+com a perda de geleiras
+e tudo mais.
+
+ 188: 10:10:46.12 10:10:49.08  Duration 00:00:02.21  43
+Procuramos sensibilizar
+o público ao fenômeno,
+
+ 189: 10:10:49.12 10:10:51.23  Duration 00:00:02.11  37
+e depois, mudar os comportamentos.
+
+ 190: 10:10:52.02 10:10:53.06  Duration 00:00:01.04  17
+É importante.
+
+ 191: 10:10:54.00 10:10:57.04  Duration 00:00:03.04  47
+#Sensibilizar
+ao bom comportamento na montanha#
+
+ 192: 10:10:57.08 10:10:59.02  Duration 00:00:01.19  26
+#é importante para Philippe.#
+
+ 193: 10:10:59.06 10:11:02.16  Duration 00:00:03.10  51
+#Mas também é primordial para ele
+transmitir seu saber#
+
+ 194: 10:11:02.20 10:11:04.08  Duration 00:00:01.13  23
+#às futuras gerações.#
+
+ 195: 10:11:04.12 10:11:06.15  Duration 00:00:02.03  32
+Ter contato com as espécies
+todo dia,
+
+ 196: 10:11:06.19 10:11:08.00  Duration 00:00:01.06  19
+ver os pássaros
+
+ 197: 10:11:08.05 10:11:10.11  Duration 00:00:02.06  34
+ou outras espécies das montanhas,
+
+ 198: 10:11:10.15 10:11:13.19  Duration 00:00:03.04  47
+isso nos faz ser mais sensíveis
+ao meio ambiente
+
+ 199: 10:11:13.23 10:11:18.11  Duration 00:00:04.13  68
+e tentar preservá-lo
+o melhor possível.
+
+ 200: 10:11:26.15 10:11:28.19  Duration 00:00:02.04  32
+#Subindo o Circo de Troumouse,#
+
+ 201: 10:11:28.23 10:11:31.07  Duration 00:00:02.09  35
+#é impossível não ver Cauterets.#
+
+ 202: 10:11:31.11 10:11:34.20  Duration 00:00:03.09  50
+#Estação termal reputada
+desde o fim do século 19,#
+
+ 203: 10:11:34.24 10:11:37.14  Duration 00:00:02.15  39
+#ela viu nascer um confeito famoso:
+o# berlingot#.#
+
+ 204: 10:11:39.07 10:11:42.14  Duration 00:00:03.07  49
+Cauterets
+
+ 205: 10:11:43.09 10:11:47.09  Duration 00:00:04.00  60
+#É nos fundos da loja que Éric
+Lestable confecciona esse doce,#
+
+ 206: 10:11:47.13 10:11:49.06  Duration 00:00:01.18  26
+#que é a especialidade local.#
+
+ 207: 10:11:51.23 10:11:56.16  Duration 00:00:04.18  71
+Eu preparo a panela.
+Verto o açúcar de glucose.
+
+ 208: 10:11:56.20 10:11:59.17  Duration 00:00:02.22  43
+Ele vai servir de base
+para o# berlingot#.
+
+ 209: 10:11:59.21 10:12:04.16  Duration 00:00:04.20  72
+Adiciono o corante natural
+para dar um tom vermelho à massa.
+
+ 210: 10:12:05.06 10:12:06.24  Duration 00:00:01.18  26
+Faço isso desde pequeno.
+
+ 211: 10:12:07.03 10:12:10.01  Duration 00:00:02.23  44
+Minha mãe e minha avó
+faziam# berlingots#.
+
+ 212: 10:12:10.05 10:12:13.06  Duration 00:00:03.01  46
+Assumi há 25 anos
+a loja da minha mãe
+
+ 213: 10:12:13.10 10:12:16.03  Duration 00:00:02.18  41
+e perpetuo a tradição
+do# berlingot# de Cauterets.
+
+ 214: 10:12:17.02 10:12:19.17  Duration 00:00:02.15  39
+#Esse confeito apareceu
+na estação termal#
+
+ 215: 10:12:19.21 10:12:21.11  Duration 00:00:01.15  24
+#há pouco mais de um século#
+
+ 216: 10:12:21.15 10:12:24.13  Duration 00:00:02.23  44
+#e era recomendada
+por suas virtudes suavizantes.#
+
+ 217: 10:12:24.18 10:12:27.23  Duration 00:00:03.05  48
+Nessa época, aconselhavam
+aos curistas chupar açúcar
+
+ 218: 10:12:28.03 10:12:29.21  Duration 00:00:01.18  26
+após beber as águas termais
+
+ 219: 10:12:30.00 10:12:33.05  Duration 00:00:03.05  48
+para acalmar a garganta
+e o gosto de enxofre da água.
+
+ 220: 10:12:33.09 10:12:36.22  Duration 00:00:03.13  53
+Assim virou uma especialidade.
+Era um complemento da cura.
+
+ 221: 10:12:43.20 10:12:45.21  Duration 00:00:02.01  31
+Vamos derramar no mármore.
+
+ 222: 10:12:46.00 10:12:47.12  Duration 00:00:01.12  22
+#Ao atingir a temperatura,#
+
+ 223: 10:12:47.16 10:12:51.14  Duration 00:00:03.23  59
+#a massa de# berlingot#, feita
+de água, açúcar e corante natural,#
+
+ 224: 10:12:51.18 10:12:52.15  Duration 00:00:00.22  13
+#é trabalhada.#
+
+ 225: 10:12:53.04 10:12:56.15  Duration 00:00:03.11  52
+Espalho no mármore a massa
+que acabo de tirar do fogo.
+
+ 226: 10:12:56.19 10:12:58.10  Duration 00:00:01.16  25
+O açúcar está bem quente.
+
+ 227: 10:12:58.14 10:13:02.03  Duration 00:00:03.14  53
+Derramo diretamente
+na mesa de mármore.
+
+ 228: 10:13:03.10 10:13:07.17  Duration 00:00:04.07  64
+Vou adicionar o extrato de cereja
+para os# berlingots# de cereja.
+
+ 229: 10:13:08.16 10:13:12.05  Duration 00:00:03.14  53
+Essa massa, que é líquida,
+é derramada no mármore frio.
+
+ 230: 10:13:12.09 10:13:16.05  Duration 00:00:03.21  58
+Ao contato com o mármore,
+ela esfria e se solidifica.
+
+ 231: 10:13:21.12 10:13:24.23  Duration 00:00:03.11  52
+Essa massa vai ser esticada,
+agora.
+
+ 232: 10:13:27.03 10:13:29.09  Duration 00:00:02.06  34
+E o fato de esticá-la,
+aos poucos,
+
+ 233: 10:13:29.13 10:13:31.06  Duration 00:00:01.18  26
+com o ar que vai entrando,
+
+ 234: 10:13:31.24 10:13:33.18  Duration 00:00:01.19  26
+ela vai mudar de cor.
+
+ 235: 10:13:39.01 10:13:41.17  Duration 00:00:02.16  40
+Pronto. A massa
+mudou completamente de cor.
+
+ 236: 10:13:41.22 10:13:44.24  Duration 00:00:03.02  46
+Adicionamos
+a outra parte de massa.
+
+ 237: 10:13:47.07 10:13:49.07  Duration 00:00:02.00  30
+Agora corto em pequenos bastões.
+
+ 238: 10:13:50.07 10:13:52.23  Duration 00:00:02.16  40
+Esses pequenos bastões,
+vou passar na máquina,
+
+ 239: 10:13:53.02 10:13:55.05  Duration 00:00:02.03  32
+que vai dar a forma do# berlingot#.
+
+ 240: 10:13:56.21 10:13:59.15  Duration 00:00:02.19  41
+#Á medida que o doce toma forma,#
+
+ 241: 10:13:59.19 10:14:02.08  Duration 00:00:02.14  38
+#os curiosos
+começam a cruzar a porta#
+
+ 242: 10:14:02.12 10:14:06.03  Duration 00:00:03.16  55
+#para ver como é feita
+a bala tradicional de Cauterets.#
+
+ 243: 10:14:09.04 10:14:11.13  Duration 00:00:02.09  35
+A massa esfria na hora
+na sua boca.
+
+ 244: 10:14:11.18 10:14:15.13  Duration 00:00:03.20  57
+Estamos passando por Cauterets.
+Aproveitamos a especialidade.
+
+ 245: 10:14:15.18 10:14:18.11  Duration 00:00:02.18  41
+É um grande prazer
+fazer esse# berlingot#,
+
+ 246: 10:14:18.15 10:14:20.06  Duration 00:00:01.16  25
+preservar esse savoir-faire,
+
+ 247: 10:14:20.10 10:14:22.09  Duration 00:00:01.24  29
+trabalhar a massa,
+
+ 248: 10:14:22.13 10:14:25.16  Duration 00:00:03.03  47
+obter essa bala 
+a partir de uma base de açúcar.
+
+ 249: 10:14:25.21 10:14:28.24  Duration 00:00:03.03  47
+O fato de fabricar em público
+é interessante,
+
+ 250: 10:14:29.03 10:14:31.24  Duration 00:00:02.21  43
+conversar e encantar
+adultos e crianças,
+
+ 251: 10:14:32.03 10:14:34.17  Duration 00:00:02.14  38
+enquanto divulgamos
+nossa fabricação.
+
+ 252: 10:14:35.10 10:14:37.08  Duration 00:00:01.23  29
+- Obrigada.
+- Boa tarde.
+
+ 253: 10:14:37.13 10:14:40.01  Duration 00:00:02.13  38
+- Obrigada pela visita.
+- Tchau.
+
+ 254: 10:14:44.03 10:14:47.16  Duration 00:00:03.13  53
+#A água dos# gaves# dos Pireneus#
+têm virtudes terapêuticas,#
+
+ 255: 10:14:47.20 10:14:50.09  Duration 00:00:02.14  38
+#mas também é propícia
+à criação de trutas.#
+
+ 256: 10:14:50.13 10:14:52.08  Duration 00:00:01.20  27
+Lau-Balagnas
+
+ 257: 10:14:54.03 10:14:56.17  Duration 00:00:02.14  38
+#Após a carreira de jogador de rúgbi,#
+
+ 258: 10:14:56.22 10:15:00.14  Duration 00:00:03.17  55
+#Franck Pomarez assumiu
+a criação de trutas do pai.#
+
+ 259: 10:15:00.18 10:15:03.13  Duration 00:00:02.20  42
+#Se 90% da sua criação é composta#
+
+ 260: 10:15:03.18 10:15:05.17  Duration 00:00:01.24  29
+#de truta arco-íris,#
+
+ 261: 10:15:05.22 10:15:09.09  Duration 00:00:03.12  52
+#Franck dá atenção especial
+à criação da truta dos Pireneus,#
+
+ 262: 10:15:09.13 10:15:11.09  Duration 00:00:01.21  28
+#também chamada "truta-marrom".#
+
+ 263: 10:15:11.14 10:15:12.16  Duration 00:00:01.02  16
+Essas são...
+
+ 264: 10:15:13.24 10:15:14.21  Duration 00:00:00.22  13
+Isso.
+
+ 265: 10:15:15.21 10:15:17.11  Duration 00:00:01.15  24
+Dois genitores de marrons.
+
+ 266: 10:15:18.01 10:15:21.07  Duration 00:00:03.06  49
+Peixes que devem ter 5, 6 anos.
+
+ 267: 10:15:22.05 10:15:23.00  Duration 00:00:00.20  12
+Isso.
+
+ 268: 10:15:25.01 10:15:27.04  Duration 00:00:02.03  32
+Então essa é a truta-marrom,
+
+ 269: 10:15:27.08 10:15:29.01  Duration 00:00:01.18  26
+truta endêmica dos Pireneus.
+
+ 270: 10:15:29.17 10:15:33.20  Duration 00:00:04.03  62
+É uma truta de raça selvagem
+e carne branca.
+
+ 271: 10:15:34.10 10:15:37.00  Duration 00:00:02.15  39
+É meio que a rainha
+dos nossos rios.
+
+ 272: 10:15:37.04 10:15:39.08  Duration 00:00:02.04  32
+Os pescadores a apreciam muito.
+
+ 273: 10:15:39.12 10:15:41.02  Duration 00:00:01.15  24
+Ela é viva,
+
+ 274: 10:15:41.07 10:15:43.09  Duration 00:00:02.02  31
+ela é rápida, difícil de pegar
+
+ 275: 10:15:43.13 10:15:45.17  Duration 00:00:02.04  32
+e de criação bem mais exigente.
+
+ 276: 10:15:46.08 10:15:48.22  Duration 00:00:02.14  38
+#Após a inundação de 100 anos
+de 2013,#
+
+ 277: 10:15:49.01 10:15:51.08  Duration 00:00:02.07  34
+#ele quase perdeu
+todo o seu cardume.#
+
+ 278: 10:15:51.12 10:15:54.12  Duration 00:00:03.00  45
+#A neve derreteu rápido
+e fez o rio transbordar,#
+
+ 279: 10:15:54.16 10:15:56.11  Duration 00:00:01.20  27
+#levando tudo na passagem.#
+
+ 280: 10:15:56.15 10:15:58.23  Duration 00:00:02.08  35
+#Desde então
+ele se esforça com a marrom,#
+
+ 281: 10:15:59.02 10:16:02.15  Duration 00:00:03.13  53
+#que leva o dobro de tempo
+da truta-arco-íris para crescer.#
+
+ 282: 10:16:02.19 10:16:05.09  Duration 00:00:02.15  39
+#Ela vive em corredeiras
+límpidas e fortes,#
+
+ 283: 10:16:05.13 10:16:08.14  Duration 00:00:03.01  46
+#não muito quentes nem frias,
+por 3 ou 4 anos.#
+
+ 284: 10:16:09.04 10:16:12.23  Duration 00:00:03.19  56
+Estamos na entrada da fazenda,
+
+ 285: 10:16:13.02 10:16:15.21  Duration 00:00:02.19  41
+e aqui limpamos a água.
+
+ 286: 10:16:16.00 10:16:19.01  Duration 00:00:03.01  46
+Removemos os galhos e as folhas
+que vêm do rio,
+
+ 287: 10:16:19.05 10:16:23.16  Duration 00:00:04.11  67
+além das garrafas plásticas.
+Somos sensíveis e atentos a isso,
+
+ 288: 10:16:23.20 10:16:26.12  Duration 00:00:02.17  40
+para que na nossa fazenda
+não haja obstáculos
+
+ 289: 10:16:26.16 10:16:30.09  Duration 00:00:03.18  56
+e que a água possa circular
+rapidamente em nossos tanques.
+
+ 290: 10:16:30.13 10:16:31.15  Duration 00:00:01.02  16
+Desviamos o Gave
+
+ 291: 10:16:31.20 10:16:33.23  Duration 00:00:02.03  32
+de Gavarnie que passa por aqui.
+
+ 292: 10:16:34.02 10:16:36.10  Duration 00:00:02.08  35
+É portanto uma água
+pura e abundante.
+
+ 293: 10:16:36.14 10:16:38.17  Duration 00:00:02.03  32
+É um rio livre de doenças,
+
+ 294: 10:16:38.21 10:16:41.15  Duration 00:00:02.19  41
+portanto, nada de antibióticos
+para as trutas.
+
+ 295: 10:16:41.19 10:16:44.04  Duration 00:00:02.10  36
+Isso é uma força.
+Diria que é crucial.
+
+ 296: 10:16:44.08 10:16:46.09  Duration 00:00:02.01  31
+Afinal, a água é nossa base.
+
+ 297: 10:16:46.13 10:16:49.06  Duration 00:00:02.18  41
+No nosso ramo,
+isso faz toda a diferença.
+
+ 298: 10:16:50.03 10:16:52.00  Duration 00:00:01.22  28
+#Além de zelar pela água limpa#
+
+ 299: 10:16:52.04 10:16:55.11  Duration 00:00:03.07  49
+#e de vazão de 2.500
+a 3.000 litros por segundo,#
+
+ 300: 10:16:55.15 10:16:58.13  Duration 00:00:02.23  44
+#é preciso ser atento
+ao comportamento dos peixes,#
+
+ 301: 10:16:58.17 10:17:00.15  Duration 00:00:01.23  29
+#sensíveis
+à variação de temperatura.#
+
+ 302: 10:17:02.02 10:17:04.04  Duration 00:00:02.02  31
+#Franck automatizou as instalações#
+
+ 303: 10:17:04.08 10:17:07.04  Duration 00:00:02.21  43
+#para atender melhor
+a demanda nutritiva das marrons.#
+
+ 304: 10:17:08.21 10:17:12.12  Duration 00:00:03.16  55
+O alimento é composto
+de 30% de peixes marinhos
+
+ 305: 10:17:12.16 10:17:13.17  Duration 00:00:01.01  16
+e 70% de vegetais.
+
+ 306: 10:17:14.16 10:17:19.06  Duration 00:00:04.15  69
+O automatismo nos permite ficar
+bem mais próximos de nossos peixes.
+
+ 307: 10:17:19.10 10:17:22.10  Duration 00:00:03.00  45
+Antes, dávamos uma grande refeição
+por dia.
+
+ 308: 10:17:23.09 10:17:27.03  Duration 00:00:03.19  56
+Globalmente, era: "Comam.
+Só voltaremos amanhã."
+
+ 309: 10:17:27.07 10:17:29.09  Duration 00:00:02.02  31
+Agora damos
+4 pequenas refeições.
+
+ 310: 10:17:29.13 10:17:33.05  Duration 00:00:03.17  55
+Assim podemos ajustar mais
+às necessidades deles.
+
+ 311: 10:17:34.20 10:17:36.18  Duration 00:00:01.23  29
+- Tudo bem, senhor?
+- Tudo.
+
+ 312: 10:17:36.22 10:17:39.02  Duration 00:00:02.05  33
+- Fisgou?
+- Ainda não, mas ainda vai.
+
+ 313: 10:17:39.06 10:17:41.02  Duration 00:00:01.21  28
+- É preciso paciência.
+- Sim.
+
+ 314: 10:17:42.16 10:17:44.12  Duration 00:00:01.21  28
+#Franck achou um modo original#
+
+ 315: 10:17:44.16 10:17:46.21  Duration 00:00:02.05  33
+#de oferecer peixe fresco
+a clientes.#
+
+ 316: 10:17:47.00 10:17:48.24  Duration 00:00:01.24  29
+#Perto da sua fazenda,#
+
+ 317: 10:17:49.03 10:17:52.04  Duration 00:00:03.01  46
+#ele tem dois tanques
+onde coloca trutas-marrons,#
+
+ 318: 10:17:52.09 10:17:55.05  Duration 00:00:02.21  43
+#para o grande prazer
+dos amantes de pesca.#
+
+ 319: 10:17:56.06 10:17:57.23  Duration 00:00:01.17  25
+É uma truta que é firme.
+
+ 320: 10:17:58.02 10:17:59.22  Duration 00:00:01.20  27
+Como só ficamos aqui 8 dias,
+
+ 321: 10:18:00.02 10:18:03.02  Duration 00:00:03.00  45
+não vou tirar licença
+para pescar nos# gaves.#
+
+ 322: 10:18:03.07 10:18:06.19  Duration 00:00:03.12  52
+Estamos entre amigos.
+Viemos para passar tempo com eles.
+
+ 323: 10:18:06.23 10:18:11.13  Duration 00:00:04.15  69
+Nós pescamos trutas juntos,
+mas também caçamos cogumelos...
+
+ 324: 10:18:11.18 10:18:15.18  Duration 00:00:04.00  60
+#Franck quer ver sua proporção
+de farios aumentar com os anos#
+
+ 325: 10:18:15.22 10:18:19.13  Duration 00:00:03.16  55
+#para perpetuar o savoir-faire
+de seu pai e de seu avô.#
+
+ 326: 10:18:19.17 10:18:22.02  Duration 00:00:02.10  36
+É um grande orgulho, hoje,
+
+ 327: 10:18:22.07 10:18:26.04  Duration 00:00:03.22  58
+conseguir manter essa...
+
+ 328: 10:18:26.22 10:18:30.02  Duration 00:00:03.05  48
+essa espécie endêmica
+dos nossos vales.
+
+ 329: 10:18:30.06 10:18:34.16  Duration 00:00:04.10  66
+De fato, é um tempo de criação
+muito mais longo,
+
+ 330: 10:18:35.08 10:18:39.05  Duration 00:00:03.22  58
+mas é importante para nós
+manter isso.
+
+ 331: 10:18:41.04 10:18:44.19  Duration 00:00:03.15  54
+#Quando as trutas não são soltas
+para ser pescadas,#
+
+ 332: 10:18:44.23 10:18:48.07  Duration 00:00:03.09  50
+#são limpas e embaladas a vácuo
+na oficina de Franck.#
+
+ 333: 10:18:49.22 10:18:52.22  Duration 00:00:03.00  45
+#Depois elas são vendidas
+direto ao consumidor#
+
+ 334: 10:18:53.02 10:18:54.11  Duration 00:00:01.09  20
+#em função da demanda.#
+
+ 335: 10:18:54.15 10:18:58.20  Duration 00:00:04.05  63
+#As trutas-marrons só representam
+10% da produção de Franck,#
+
+ 336: 10:18:59.00 10:19:01.11  Duration 00:00:02.11  37
+#mas os clientes
+demandam esse peixe.#
+
+ 337: 10:19:01.16 10:19:03.02  Duration 00:00:01.11  22
+- Ele é fresco?
+- É.
+
+ 338: 10:19:03.07 10:19:05.16  Duration 00:00:02.09  35
+Conhecemos isso no ano passado.
+
+ 339: 10:19:05.20 10:19:08.16  Duration 00:00:02.21  43
+Gostamos de produtos frescos
+e locais.
+
+ 340: 10:19:08.20 10:19:12.02  Duration 00:00:03.07  49
+É por isso que levamos
+um suvenir alimentar para casa.
+
+ 341: 10:19:23.03 10:19:23.23  Duration 00:00:00.20  12
+#Mais ao norte,#
+
+ 342: 10:19:24.02 10:19:26.13  Duration 00:00:02.11  37
+#à beira
+do Parque Nacional dos Pireneus,#
+
+ 343: 10:19:26.17 10:19:30.03  Duration 00:00:03.11  52
+#a feira de Argelès-Gazost
+é a mais frequentada do Lavedan.#
+
+ 344: 10:19:30.07 10:19:33.00  Duration 00:00:02.18  41
+#Lá se encontra
+a especialidade do# terroir:
+
+ 345: 10:19:33.04 10:19:34.17  Duration 00:00:01.13  23
+#o# gâteau à la broche.
+
+ 346: 10:19:37.03 10:19:38.20  Duration 00:00:01.17  25
+São 9h30. Está na hora.
+
+ 347: 10:19:38.24 10:19:39.19  Duration 00:00:00.20  12
+Vamos lá.
+
+ 348: 10:19:41.00 10:19:42.09  Duration 00:00:01.09  20
+#Como toda terça de manhã,#
+
+ 349: 10:19:42.13 10:19:45.11  Duration 00:00:02.23  44
+#Bernard instala seu material
+para fazer seu bolo.#
+
+ 350: 10:19:45.15 10:19:48.14  Duration 00:00:02.24  44
+#Mas antes de ser
+a especialidade de Argelès-Gazost#
+
+ 351: 10:19:48.18 10:19:53.03  Duration 00:00:04.10  66
+#esse bolo já era consumido
+no leste da Europa no séc. 19.#
+
+ 352: 10:19:54.14 10:19:58.03  Duration 00:00:03.14  53
+Ela vem da Prússia,
+da antiga Prússia.
+
+ 353: 10:19:58.07 10:19:59.23  Duration 00:00:01.16  25
+São os soldados de Napoleão
+
+ 354: 10:20:00.02 10:20:03.14  Duration 00:00:03.12  52
+que, na campanha até a Rússia,
+
+ 355: 10:20:03.18 10:20:05.02  Duration 00:00:01.09  20
+viram ele ser feito.
+
+ 356: 10:20:05.06 10:20:09.01  Duration 00:00:03.20  57
+Dizem que foi o rei da Prússia
+que pediu a seu# pâtissier#
+
+ 357: 10:20:09.05 10:20:13.15  Duration 00:00:04.10  66
+que fizesse algo original
+para seu casamento.
+
+ 358: 10:20:13.19 10:20:18.06  Duration 00:00:04.12  67
+Aliás, é por isso que esse doce
+é usado principalmente
+
+ 359: 10:20:18.10 10:20:20.07  Duration 00:00:01.22  28
+como bolo em casamentos,
+
+ 360: 10:20:20.12 10:20:22.08  Duration 00:00:01.21  28
+equivalente ao bolo de andares.
+
+ 361: 10:20:22.12 10:20:25.01  Duration 00:00:02.14  38
+#Com os cones de madeira
+enrolados em papel#
+
+ 362: 10:20:25.05 10:20:26.02  Duration 00:00:00.22  13
+#ante o fogo,#
+
+ 363: 10:20:26.20 10:20:30.24  Duration 00:00:04.04  62
+#a massa preparada na véspera
+é vertida aos poucos para ser cozida.#
+
+ 364: 10:20:31.20 10:20:36.03  Duration 00:00:04.08  65
+Para fazer a massa, tem 1 quilo
+de farinha, 1 quilo de manteiga,
+
+ 365: 10:20:36.08 10:20:38.11  Duration 00:00:02.03  32
+1 quilo de açúcar e 30 ovos.
+
+ 366: 10:20:38.15 10:20:40.17  Duration 00:00:02.02  31
+Os ovos são separados.
+
+ 367: 10:20:41.08 10:20:45.02  Duration 00:00:03.19  56
+Misturamos o açúcar com as gemas,
+
+ 368: 10:20:45.06 10:20:48.19  Duration 00:00:03.13  53
+e depois batemos as claras em neve
+antes de incorporá-las.
+
+ 369: 10:20:49.07 10:20:52.12  Duration 00:00:03.05  48
+O princípio é cobrir o papel
+
+ 370: 10:20:52.16 10:20:54.04  Duration 00:00:01.13  23
+com uma camada fina.
+
+ 371: 10:20:54.21 10:20:58.05  Duration 00:00:03.09  50
+Na verdade, fina...
+Ela segura o que quiser segurar.
+
+ 372: 10:20:58.09 10:21:00.03  Duration 00:00:01.19  26
+O excesso cai no tabuleiro.
+
+ 373: 10:21:01.03 10:21:02.05  Duration 00:00:01.02  16
+É à base de quê?
+
+ 374: 10:21:02.09 10:21:04.19  Duration 00:00:02.10  36
+Então, farinha,
+manteiga, ovo e açúcar.
+
+ 375: 10:21:04.23 10:21:08.01  Duration 00:00:03.03  47
+É aromatizado com rum,
+baunilha e limão.
+
+ 376: 10:21:08.06 10:21:09.14  Duration 00:00:01.08  20
+#Há 25 anos#
+
+ 377: 10:21:09.18 10:21:12.06  Duration 00:00:02.13  38
+#Bernard expõe seu savoir-faire
+na feira,#
+
+ 378: 10:21:12.24 10:21:15.23  Duration 00:00:02.24  44
+#um bom meio de iniciar conversa
+com os clientes.#
+
+ 379: 10:21:16.03 10:21:17.15  Duration 00:00:01.12  22
+É sua 1ª vez aqui?
+
+ 380: 10:21:17.19 10:21:20.19  Duration 00:00:03.00  45
+É a primeira vez
+que venho aos Pireneus.
+
+ 381: 10:21:20.24 10:21:23.19  Duration 00:00:02.20  42
+Tudo que é tradicional,
+tudo que vemos,
+
+ 382: 10:21:23.23 10:21:26.21  Duration 00:00:02.23  44
+os doces, os embutidos...
+
+ 383: 10:21:27.00 10:21:31.19  Duration 00:00:04.19  71
+Efetivamente, quando temos o cheiro,
+a visão das coisas,
+
+ 384: 10:21:31.23 10:21:36.11  Duration 00:00:04.13  68
+sempre dá mais vontade
+de comprar esses produtos,
+
+ 385: 10:21:36.15 10:21:39.11  Duration 00:00:02.21  43
+todos esses produtos do# terroir#,
+locais...
+
+ 386: 10:21:39.16 10:21:41.08  Duration 00:00:01.17  25
+É muito mais atraente.
+
+ 387: 10:21:41.12 10:21:45.01  Duration 00:00:03.14  53
+Consideramos
+que é 50% de nossas vendas,
+
+ 388: 10:21:45.05 10:21:48.06  Duration 00:00:03.01  46
+o fato de ter
+a fabricação no local.
+
+ 389: 10:21:48.10 10:21:52.07  Duration 00:00:03.22  58
+Isso faz parte
+da nossa especificidade.
+
+ 390: 10:21:53.02 10:21:54.20  Duration 00:00:01.18  26
+Não somos os únicos
+a fazer,
+
+ 391: 10:21:54.24 10:21:58.19  Duration 00:00:03.20  57
+mas somos os únicos
+a ter condições de fazê-los
+
+ 392: 10:21:58.23 10:22:01.13  Duration 00:00:02.15  39
+em mercados e feiras.
+
+ 393: 10:22:04.20 10:22:06.21  Duration 00:00:02.01  31
+#A cada 10 minutos,
+por 2 horas,#
+
+ 394: 10:22:07.00 10:22:10.12  Duration 00:00:03.12  52
+#Bernard apõe uma camada de massa
+até ter o famoso doce.#
+
+ 395: 10:22:10.16 10:22:12.17  Duration 00:00:02.01  31
+Com que é degustado?
+Escute...
+
+ 396: 10:22:12.21 10:22:15.12  Duration 00:00:02.16  40
+Costuma ser acompanhado
+de creme inglês.
+
+ 397: 10:22:16.09 10:22:19.09  Duration 00:00:03.00  45
+Mas com uma salada de frutas,
+um sorvete,
+
+ 398: 10:22:20.07 10:22:21.08  Duration 00:00:01.01  16
+combina bem.
+
+ 399: 10:22:21.12 10:22:25.19  Duration 00:00:04.07  64
+Com café também,
+ou uma taça de vinho doce,
+
+ 400: 10:22:25.23 10:22:28.05  Duration 00:00:02.07  34
+de vinho branco doce
+ou de champagne.
+
+ 401: 10:22:32.09 10:22:34.02  Duration 00:00:01.18  26
+E eis um belo doce pronto!
+
+ 402: 10:22:35.19 10:22:37.24  Duration 00:00:02.05  33
+#Nas feiras, na beira do# gave
+
+ 403: 10:22:38.03 10:22:39.12  Duration 00:00:01.09  20
+#ou em plena montanha,#
+
+ 404: 10:22:39.16 10:22:44.01  Duration 00:00:04.10  66
+#os atores da terra gourmande
+fazem questão de abrir suas portas,#
+
+ 405: 10:22:44.05 10:22:45.19  Duration 00:00:01.14  23
+#dividir seu savoir-faire.#
+
+ 406: 10:22:46.10 10:22:49.11  Duration 00:00:03.01  46
+#E se esse# terroir#
+convida a descobrir sabores,#
+
+ 407: 10:22:49.16 10:22:52.16  Duration 00:00:03.00  45
+#ele também sabe resguardar
+os seus mistérios.#
+
+ 408: 10:23:03.19 10:23:07.08  Duration 00:00:03.14  53
+Agora,
+a receita de Guy Martin
+
+ 409: 10:23:15.24 10:23:18.11  Duration 00:00:02.12  37
+A receita de Guy Martin
+
+ 410: 10:23:18.19 10:23:20.18  Duration 00:00:01.24  29
+Sugiro um carrê de porco caipira,
+
+ 411: 10:23:20.22 10:23:23.11  Duration 00:00:02.14  38
+beterrabas novas
+e purê de batata-doce.
+
+ 412: 10:23:23.16 10:23:26.07  Duration 00:00:02.16  40
+Para fazer essa receita
+para quatro pessoas,
+
+ 413: 10:23:26.11 10:23:27.06  Duration 00:00:00.20  12
+precisam de:
+
+ 414: 10:23:27.11 10:23:29.12  Duration 00:00:02.01  31
+1 carrê de porco de 4 costelas,
+
+ 415: 10:23:29.16 10:23:32.15  Duration 00:00:02.24  44
+100 g de óleo de amendoim,
+12 ramos de# cordifole.#
+
+ 416: 10:23:32.19 10:23:34.03  Duration 00:00:01.09  20
+Para a marinada:
+
+ 417: 10:23:34.08 10:23:38.05  Duration 00:00:03.22  58
+25 g de mel, 25 de molho de soja,
+50 g de vinho Madeira,
+
+ 418: 10:23:38.10 10:23:42.22  Duration 00:00:04.12  67
+15 g de gengibre, 8 g de alho,
+1,5 g de# quatre épices.#
+
+ 419: 10:23:43.01 10:23:44.01  Duration 00:00:01.00  15
+Para o caldo:
+
+ 420: 10:23:44.06 10:23:46.12  Duration 00:00:02.06  34
+100 g de fundo de ave,
+15 g de manteiga,
+
+ 421: 10:23:46.16 10:23:48.00  Duration 00:00:01.09  20
+15 g de suco de beterraba.
+
+ 422: 10:23:48.04 10:23:49.13  Duration 00:00:01.09  20
+Para o purê:
+
+ 423: 10:23:49.18 10:23:52.07  Duration 00:00:02.14  38
+500 g de batata-doce,
+3 g de gengibre,
+
+ 424: 10:23:52.11 10:23:55.13  Duration 00:00:03.02  46
+35 g de manteiga, 1 folha de louro,
+1 ramo de tomilho.
+
+ 425: 10:23:55.17 10:23:57.02  Duration 00:00:01.10  21
+Para a beterraba acidulada:
+
+ 426: 10:23:57.07 10:24:00.14  Duration 00:00:03.07  49
+6 beterrabas novas,
+100 g de vinagre de Banyuls.
+
+ 427: 10:24:00.19 10:24:05.02  Duration 00:00:04.08  65
+Peça ao seu açougueiro que prepare
+o carrê de porco amarrando-o.
+
+ 428: 10:24:05.15 10:24:07.11  Duration 00:00:01.21  28
+Para a marinada do carrê:
+
+ 429: 10:24:07.16 10:24:09.06  Duration 00:00:01.15  24
+misturar mel,
+molho de soja,
+
+ 430: 10:24:09.11 10:24:11.03  Duration 00:00:01.17  25
+Madeira, gengibre,
+
+ 431: 10:24:11.08 10:24:13.01  Duration 00:00:01.18  26
+alho e# 4 épices#,
+
+ 432: 10:24:13.05 10:24:14.11  Duration 00:00:01.06  19
+e regar o carrê.
+
+ 433: 10:24:14.15 10:24:17.09  Duration 00:00:02.19  41
+Cobrir e deixar marinar
+se possível 6 horas.
+
+ 434: 10:24:17.13 10:24:19.03  Duration 00:00:01.15  24
+Escorra o carrê.
+
+ 435: 10:24:19.08 10:24:21.08  Duration 00:00:02.00  30
+Aqueça a frigideira com o óleo
+
+ 436: 10:24:21.13 10:24:23.15  Duration 00:00:02.02  31
+e doure o carrê. Escorra.
+
+ 437: 10:24:23.20 10:24:25.11  Duration 00:00:01.16  25
+Para as costelas
+não dourarem
+
+ 438: 10:24:25.16 10:24:27.24  Duration 00:00:02.08  35
+cubra com papel alumínio.
+
+ 439: 10:24:28.04 10:24:32.05  Duration 00:00:04.01  61
+asse o carrê de porco em forno
+a 180 graus por 50 minutos.
+
+ 440: 10:24:32.09 10:24:35.07  Duration 00:00:02.23  44
+Deixe repousar por 20 minutos
+antes de fatiar
+
+ 441: 10:24:35.12 10:24:37.11  Duration 00:00:01.24  29
+e reserve o suco do assado.
+
+ 442: 10:24:37.16 10:24:38.20  Duration 00:00:01.04  17
+Para o caldo:
+
+ 443: 10:24:39.00 10:24:40.22  Duration 00:00:01.22  28
+bote na panela
+o fundo de ave
+
+ 444: 10:24:41.02 10:24:42.15  Duration 00:00:01.13  23
+e o suco do assado.
+
+ 445: 10:24:43.05 10:24:45.16  Duration 00:00:02.11  37
+Reduzir, bater com manteiga,
+temperar
+
+ 446: 10:24:45.21 10:24:46.16  Duration 00:00:00.20  12
+e coar.
+
+ 447: 10:24:46.20 10:24:49.04  Duration 00:00:02.09  35
+Por último,
+pôr o caldo de beterraba.
+
+ 448: 10:24:49.08 10:24:50.03  Duration 00:00:00.20  12
+Reserve no calor.
+
+ 449: 10:24:50.07 10:24:52.24  Duration 00:00:02.17  40
+Quando botamos suco de legume
+em caldo de carne,
+
+ 450: 10:24:53.03 10:24:56.13  Duration 00:00:03.10  51
+os sabores ficam melhores
+se for adicionado no fim.
+
+ 451: 10:24:56.18 10:24:58.09  Duration 00:00:01.16  25
+Para a beterraba acidulada:
+
+ 452: 10:24:58.13 10:25:02.19  Duration 00:00:04.06  64
+descasque as beterrabas novas
+mantendo 2 cm de folhas.
+
+ 453: 10:25:02.24 10:25:06.09  Duration 00:00:03.10  51
+Numa panela,
+ferver 250 g de água
+
+ 454: 10:25:06.13 10:25:07.22  Duration 00:00:01.09  20
+e vinagre de Banyuls.
+
+ 455: 10:25:08.01 10:25:09.05  Duration 00:00:01.04  17
+Mergulhe a beterraba.
+
+ 456: 10:25:09.10 10:25:12.04  Duration 00:00:02.19  41
+Salgue e cozinhe em fogo baixo
+por 25 minutos.
+
+ 457: 10:25:12.09 10:25:14.18  Duration 00:00:02.09  35
+Corte as beterrabas ao meio
+na altura.
+
+ 458: 10:25:14.23 10:25:16.01  Duration 00:00:01.03  17
+A batata-doce:
+
+ 459: 10:25:16.05 10:25:19.09  Duration 00:00:03.04  47
+reserve uma batata-doce
+e corte o resto em cubos.
+
+ 460: 10:25:19.14 10:25:22.13  Duration 00:00:02.24  44
+Ponha os cubos, o gengibre picado
+
+ 461: 10:25:22.18 10:25:24.00  Duration 00:00:01.07  19
+e água numa panela.
+
+ 462: 10:25:24.05 10:25:26.09  Duration 00:00:02.04  32
+Salgue e ferva por 20 minutos.
+
+ 463: 10:25:26.24 10:25:28.24  Duration 00:00:02.00  30
+Escorra e batata em purê fino.
+
+ 464: 10:25:29.13 10:25:32.09  Duration 00:00:02.21  43
+Adicione 20 g de manteiga
+e retifique o sal.
+
+ 465: 10:25:32.14 10:25:34.04  Duration 00:00:01.15  24
+Faça tiras na batata-doce.
+
+ 466: 10:25:34.09 10:25:36.09  Duration 00:00:02.00  30
+Derreta manteiga numa panela
+
+ 467: 10:25:36.14 10:25:39.10  Duration 00:00:02.21  43
+e doure de leve as tiras
+nos dois lados.
+
+ 468: 10:25:39.14 10:25:41.10  Duration 00:00:01.21  28
+Adicione água,
+louro e tomilho.
+
+ 469: 10:25:41.15 10:25:43.07  Duration 00:00:01.17  25
+Salgue e cozinhe 5 minutos.
+
+ 470: 10:25:43.12 10:25:45.09  Duration 00:00:01.22  28
+Ponha o caldo numa panela
+
+ 471: 10:25:45.14 10:25:48.21  Duration 00:00:03.07  49
+e lambuze a costeleta de porco,
+depois escorra.
+
+ 472: 10:25:49.00 10:25:49.22  Duration 00:00:00.22  13
+Para montar:
+
+ 473: 10:25:50.02 10:25:52.05  Duration 00:00:02.03  32
+monte o purê numa forma,
+
+ 474: 10:25:52.10 10:25:53.24  Duration 00:00:01.14  23
+e ponha o carrê em cima.
+
+ 475: 10:25:54.04 10:25:56.10  Duration 00:00:02.06  34
+Ao lado,
+ponha uma tira de batata-doce.
+
+ 476: 10:25:56.15 10:25:58.22  Duration 00:00:02.07  34
+Por cima
+vão 3 meias beterrabas novas
+
+ 477: 10:25:59.02 10:26:00.13  Duration 00:00:01.11  22
+e 3 ramos de# cordifole.#
+
+ 478: 10:26:00.18 10:26:02.14  Duration 00:00:01.21  28
+Termine com 2 traços de caldo.
+
+ 479: 10:26:02.19 10:26:04.22  Duration 00:00:02.03  32
+Tenham uma excelente de gustação
+
+ 480: 10:26:05.01 10:26:06.12  Duration 00:00:01.11  22
+e até breve.
+
+ 481: 10:26:09.04 10:26:14.04  Duration 00:00:05.00  75
+Encontre a receita
+em www.tv5monde.fr
+
+ 482: 10:26:18.01 10:26:21.01  Duration 00:00:03.00  45
+Adaptação: Adriana Gasparoni
+Legendagem: ECLAIR
+
