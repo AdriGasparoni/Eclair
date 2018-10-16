@@ -1,0 +1,1819 @@
+
+   1: 01:00:00.15 01:00:01.22  Duration 00:00:01.07  22
+#O Pays d'Auge,#
+
+   2: 01:00:02.02 01:00:03.19  Duration 00:00:01.17  29
+#terra natal do# camembert,
+
+   3: 01:00:03.24 01:00:05.11  Duration 00:00:01.12  25
+#condensa o que a Normandia#
+
+   4: 01:00:05.16 01:00:07.16  Duration 00:00:02.00  34
+#pode oferecer de mais bonito:#
+
+   5: 01:00:07.21 01:00:09.23  Duration 00:00:02.02  35
+#campos ondulantes,
+pequenos riachos,#
+
+   6: 01:00:10.02 01:00:12.13  Duration 00:00:02.11  41
+#pomares e prados cercados de sebes.#
+
+   7: 01:00:13.07 01:00:15.03  Duration 00:00:01.21  31
+#Mas no coração desse refúgio,#
+
+   8: 01:00:15.08 01:00:19.11  Duration 00:00:04.03  70
+#trava-se uma batalha pelo destino
+du patrimônio gastronômico francês#
+
+   9: 01:00:19.16 01:00:23.03  Duration 00:00:03.12  59
+#e acima de tudo normando:
+a preservação do# camembert.
+
+  10: 01:00:23.08 01:00:25.07  Duration 00:00:01.24  33
+- Vai me contratar?
+- Veremos,
+
+  11: 01:00:25.11 01:00:27.21  Duration 00:00:02.10  41
+pois não podemos perder o ritmo.
+- É verdade.
+
+  12: 01:00:28.00 01:00:29.04  Duration 00:00:01.04  20
+#Pois na opinião geral,#
+
+  13: 01:00:29.08 01:00:33.01  Duration 00:00:03.18  63
+#o verdadeiro camembert da Normandia,
+feito de leite normando,#
+
+  14: 01:00:33.06 01:00:34.09  Duration 00:00:01.03  19
+#está em extinção.#
+
+  15: 01:00:34.14 01:00:37.10  Duration 00:00:02.21  48
+Temos este que vem
+do outro lado do planeta.
+
+  16: 01:00:37.14 01:00:38.10  Duration 00:00:00.21  14
+Camembert.
+
+  17: 01:00:38.15 01:00:40.11  Duration 00:00:01.21  31
+#Entre Vimoutiers e Champsecret,#
+
+  18: 01:00:40.15 01:00:43.00  Duration 00:00:02.10  41
+#passando pela cidade de Camembert,#
+
+  19: 01:00:43.04 01:00:45.24  Duration 00:00:02.20  48
+#Vincent Chatelain
+encontrará todos os atores#
+
+  20: 01:00:46.04 01:00:48.08  Duration 00:00:02.04  37
+#que lutam dia a dia
+para preservar#
+
+  21: 01:00:48.13 01:00:50.10  Duration 00:00:01.22  32
+#esse queijo de leite cru#
+
+  22: 01:00:50.15 01:00:52.08  Duration 00:00:01.18  29
+#e que defendem
+uma produção local.#
+
+  23: 01:00:53.21 01:00:56.01  Duration 00:00:02.05  37
+#Do capim do# bocage# ao prato,#
+
+  24: 01:00:56.05 01:00:59.09  Duration 00:00:03.04  54
+#vocês saberão tudo
+sobre nosso camembert da Normandia.#
+
+  25: 01:00:59.14 01:01:02.09  Duration 00:00:02.20  48
+O melhor camembert do mundo.
+Pode acreditar.
+
+  26: 01:01:04.08 01:01:05.17  Duration 00:00:01.09  23
+Histoire de se balader
+
+  27: 01:01:21.02 01:01:24.01  Duration 00:00:02.24  50
+Chego ao campo de Champsecret
+
+  28: 01:01:24.06 01:01:25.09  Duration 00:00:01.03  19
+onde me espera Patrick,
+
+  29: 01:01:25.13 01:01:29.15  Duration 00:00:04.02  69
+que é o produtor do melhor camembert
+do mundo, ao que parece.
+
+  30: 01:01:30.07 01:01:32.12  Duration 00:00:02.05  37
+É o que veremos.
+E sobretudo, por quê.
+
+  31: 01:01:36.08 01:01:37.08  Duration 00:00:01.00  17
+Orne
+
+  32: 01:01:38.16 01:01:39.16  Duration 00:00:01.00  17
+Argentan
+
+  33: 01:01:40.13 01:01:41.13  Duration 00:00:01.00  17
+Champsecret
+
+  34: 01:01:47.05 01:01:49.13  Duration 00:00:02.08  39
+Estou feliz
+de encontrar o produtor
+
+  35: 01:01:49.17 01:01:52.07  Duration 00:00:02.15  44
+do melhor camembert do mundo.
+
+  36: 01:01:52.11 01:01:53.23  Duration 00:00:01.12  25
+É o...Não, não.
+
+  37: 01:01:54.03 01:01:55.10  Duration 00:00:01.07  22
+Seria pretensioso.
+
+  38: 01:01:55.14 01:01:57.12  Duration 00:00:01.23  33
+Nós fazemos o melhor que podemos
+
+  39: 01:01:57.16 01:02:00.04  Duration 00:00:02.13  43
+e esperamos que o consumidor
+
+  40: 01:02:00.09 01:02:02.14  Duration 00:00:02.05  37
+se dê conta
+dessa prova da verdade.
+
+  41: 01:02:02.18 01:02:04.10  Duration 00:00:01.17  29
+Há diferentes# camemberts#.
+
+  42: 01:02:04.14 01:02:08.01  Duration 00:00:03.12  59
+Pode me explicar
+por que o seu é diferente?
+
+  43: 01:02:08.06 01:02:11.13  Duration 00:00:03.07  56
+Sou presidente
+do Camembert d'Origine Protégée,
+
+  44: 01:02:11.17 01:02:14.20  Duration 00:00:03.03  53
+o camembert da Normandia.
+É o que faço na minha fazenda.
+
+  45: 01:02:14.24 01:02:17.01  Duration 00:00:02.02  35
+Sou um operador nesse âmbito.
+
+  46: 01:02:17.05 01:02:20.17  Duration 00:00:03.12  59
+Mas também luto
+para preservar essa verdade
+
+  47: 01:02:20.22 01:02:23.11  Duration 00:00:02.14  44
+no camembert
+de denominação de origem.
+
+  48: 01:02:23.15 01:02:25.09  Duration 00:00:01.19  30
+Por outro lado, há industriais
+
+  49: 01:02:25.14 01:02:27.20  Duration 00:00:02.06  38
+que reivindicam
+a imagem da Normandia.
+
+  50: 01:02:28.00 01:02:31.02  Duration 00:00:03.02  52
+- Dizem: "Fabricado na Normandia".
+- Não é igual.
+
+  51: 01:02:31.07 01:02:32.20  Duration 00:00:01.13  26
+Não é "da Normandia".
+
+  52: 01:02:32.24 01:02:35.07  Duration 00:00:02.08  39
+"Da Normandia",
+são letras de nobreza.
+
+  53: 01:02:35.11 01:02:36.23  Duration 00:00:01.12  25
+Com "Fabricado na Normandia",
+
+  54: 01:02:37.02 01:02:38.08  Duration 00:00:01.06  21
+eles usam a imagem
+
+  55: 01:02:38.12 01:02:40.20  Duration 00:00:02.08  39
+mas com uma receita
+totalmente industrial.
+
+  56: 01:02:41.00 01:02:44.06  Duration 00:00:03.06  55
+Essas vacas
+são vacas de raça Normanda
+
+  57: 01:02:44.10 01:02:47.16  Duration 00:00:03.06  55
+e é com o leite delas
+que fazem seu camembert.
+
+  58: 01:02:47.21 01:02:49.15  Duration 00:00:01.19  30
+São condições especiais,
+
+  59: 01:02:49.19 01:02:52.03  Duration 00:00:02.09  40
+pois trabalhamos
+com agricultura orgânica.
+
+  60: 01:02:52.08 01:02:54.01  Duration 00:00:01.18  29
+Não temos nenhuma ensilagem.
+
+  61: 01:02:54.06 01:02:58.13  Duration 00:00:04.07  73
+Todas essas adições fazem com que
+nossa receita date dos anos 50.
+
+  62: 01:02:58.18 01:03:00.05  Duration 00:00:01.12  25
+São vacas Normandas,
+
+  63: 01:03:00.09 01:03:03.01  Duration 00:00:02.17  46
+nas pradarias por no mínimo
+9 meses por ano,
+
+  64: 01:03:03.06 01:03:06.02  Duration 00:00:02.21  48
+que só comem capim e feno.
+
+  65: 01:03:06.06 01:03:09.13  Duration 00:00:03.07  56
+Com um complemento de cereais
+que nós mesmos produzimos.
+
+  66: 01:03:09.17 01:03:11.04  Duration 00:00:01.12  25
+Nós somos autônomos.
+
+  67: 01:03:11.08 01:03:14.04  Duration 00:00:02.21  48
+Nós até deitamos as vacas
+na nossa palha.
+
+  68: 01:03:14.08 01:03:16.01  Duration 00:00:01.18  29
+Nossa palha não foi tratada.
+
+  69: 01:03:16.06 01:03:18.19  Duration 00:00:02.13  43
+Essa palha tratada,
+em contato com a treliça,
+
+  70: 01:03:18.23 01:03:22.18  Duration 00:00:03.20  65
+pode deixar vestígios
+no leite e no queijo.
+
+  71: 01:03:28.13 01:03:31.09  Duration 00:00:02.21  48
+Esse capim aqui é bom?
+
+  72: 01:03:31.13 01:03:34.20  Duration 00:00:03.07  56
+O que ele tem de especial?
+Que gosto ele vai dar?
+
+  73: 01:03:34.24 01:03:38.10  Duration 00:00:03.11  58
+Sobre a fazenda, dizia-se:
+"O segredo vem dia campina."
+
+  74: 01:03:38.15 01:03:41.08  Duration 00:00:02.18  46
+É prático, nosso camembert
+chama-se "Le Champsecret".
+
+  75: 01:03:41.13 01:03:43.16  Duration 00:00:02.03  36
+- E estamos em Champsecret.
+- Isso.
+
+  76: 01:03:43.20 01:03:45.05  Duration 00:00:01.10  24
+Agora temos a prova.
+
+  77: 01:03:45.09 01:03:47.14  Duration 00:00:02.05  37
+Sob cada folha de capim,
+
+  78: 01:03:47.19 01:03:50.12  Duration 00:00:02.18  46
+sob cada espécie de capim,
+na verdade,
+
+  79: 01:03:50.17 01:03:54.00  Duration 00:00:03.08  56
+foi cientificamente provado
+que as bactérias sob as folhas
+
+  80: 01:03:54.05 01:03:56.15  Duration 00:00:02.10  41
+são diferentes
+entre as espécies de capim.
+
+  81: 01:03:56.19 01:03:59.01  Duration 00:00:02.07  39
+Quando se diz
+que o segredo vem da campina,
+
+  82: 01:03:59.05 01:04:02.16  Duration 00:00:03.11  58
+é verdade,
+já que são essas bactérias que,
+
+  83: 01:04:02.21 01:04:05.24  Duration 00:00:03.03  53
+em contato com o úbere das vacas,
+depois do leite,
+
+  84: 01:04:06.03 01:04:07.20  Duration 00:00:01.17  29
+vão para o queijo.
+
+  85: 01:04:08.00 01:04:09.08  Duration 00:00:01.08  22
+- Entendi.
+- Na verdade,
+
+  86: 01:04:09.12 01:04:11.22  Duration 00:00:02.10  41
+com processos simples,
+
+  87: 01:04:12.01 01:04:15.09  Duration 00:00:03.08  56
+que vêm do passado
+e são a expressão do# terroir,#
+
+  88: 01:04:15.14 01:04:17.12  Duration 00:00:01.23  33
+podemos respeitar
+as normas atuais.
+
+  89: 01:04:17.16 01:04:20.08  Duration 00:00:02.17  46
+Nós tínhamos esse desafio,
+nós o vencemos.
+
+  90: 01:04:20.12 01:04:23.03  Duration 00:00:02.16  45
+É um orgulho
+produzir esse camembert?
+
+  91: 01:04:23.07 01:04:26.08  Duration 00:00:03.01  52
+Sim. É uma prova da verdade
+que nós tentamos.
+
+  92: 01:04:26.13 01:04:29.12  Duration 00:00:02.24  50
+Nós queremos estar à altura
+da fama do camembert
+
+  93: 01:04:29.16 01:04:30.22  Duration 00:00:01.06  21
+e da Normandia.
+
+  94: 01:04:31.02 01:04:35.11  Duration 00:00:04.09  74
+As duas palavras juntas
+têm renome internacional.
+
+  95: 01:04:35.15 01:04:37.08  Duration 00:00:01.18  29
+É um renome planetário.
+
+  96: 01:04:37.12 01:04:39.18  Duration 00:00:02.06  38
+Nós queremos estar à altura dele.
+
+  97: 01:04:40.18 01:04:43.03  Duration 00:00:02.10  41
+Se tenho uma pretensão,
+é essa.
+
+  98: 01:04:43.07 01:04:44.08  Duration 00:00:01.01  18
+Quero fazer isso.
+
+  99: 01:05:15.02 01:05:16.16  Duration 00:00:01.14  27
+Aqui está. É a ordenha.
+
+ 100: 01:05:17.12 01:05:19.24  Duration 00:00:02.12  42
+Então, é o momento importante,
+na verdade.
+
+ 101: 01:05:21.15 01:05:23.20  Duration 00:00:02.05  37
+Limpar o úbere da vaca.
+
+ 102: 01:05:23.24 01:05:26.02  Duration 00:00:02.03  36
+Isso dá a ela o sinal
+para dar o leite.
+
+ 103: 01:05:26.06 01:05:27.01  Duration 00:00:00.20  14
+Entendi.
+
+ 104: 01:05:27.23 01:05:31.11  Duration 00:00:03.13  60
+A origem do camembert
+que você produz está aí na vaca.
+
+ 105: 01:05:31.15 01:05:34.18  Duration 00:00:03.03  53
+Ela produz que quantidade de leite,
+no dia a dia?
+
+ 106: 01:05:34.22 01:05:35.24  Duration 00:00:01.02  18
+É uma Normanda:
+
+ 107: 01:05:36.03 01:05:38.19  Duration 00:00:02.16  45
+ela produz um pouco,
+mas não vai produzir muito.
+
+ 108: 01:05:38.23 01:05:40.21  Duration 00:00:01.23  33
+Ela vai produzir o que pode.
+
+ 109: 01:05:41.00 01:05:43.13  Duration 00:00:02.13  43
+- Quanto?
+- Entre 15 e 20 litros por dia.
+
+ 110: 01:05:43.18 01:05:45.13  Duration 00:00:01.20  31
+Em cada ordenha, 7, 8 litros.
+
+ 111: 01:05:45.17 01:05:48.09  Duration 00:00:02.17  46
+Com 7, 8 litros,
+quantos# camemberts# fazem?
+
+ 112: 01:05:48.13 01:05:50.04  Duration 00:00:01.16  28
+Um camembert exige 2 litros.
+
+ 113: 01:05:50.08 01:05:53.10  Duration 00:00:03.02  52
+Então é isso, a vaca vai dar
+7 ou 8# camemberts# por dia.
+
+ 114: 01:05:53.14 01:05:55.14  Duration 00:00:02.00  34
+- Não é muita coisa.
+- Não é muito.
+
+ 115: 01:05:55.18 01:05:58.15  Duration 00:00:02.22  49
+Não é muito,
+mas não buscamos quantidade.
+
+ 116: 01:05:58.20 01:06:00.15  Duration 00:00:01.20  31
+Fazemos isso para dar prazer.
+
+ 117: 01:06:00.19 01:06:03.21  Duration 00:00:03.02  52
+Nós vimos, nas campinas,
+esse ambiente de rebanhos.
+
+ 118: 01:06:04.11 01:06:08.13  Duration 00:00:04.02  69
+Todo esse# terroir#
+que há em volta das campinas
+
+ 119: 01:06:08.17 01:06:11.18  Duration 00:00:03.01  52
+vai parar no queijo.
+- Podemos provar esse ouro branco?
+
+ 120: 01:06:11.23 01:06:14.09  Duration 00:00:02.11  41
+Claro que sim.
+Vamos pegar e provar.
+
+ 121: 01:06:14.13 01:06:16.02  Duration 00:00:01.14  27
+Esse leite...
+
+ 122: 01:06:16.18 01:06:18.10  Duration 00:00:01.17  29
+Esse leite que sai do úbere.
+
+ 123: 01:06:18.14 01:06:20.21  Duration 00:00:02.07  39
+- Não fazemos mais isso.
+- Tim tim.
+
+ 124: 01:06:21.01 01:06:22.05  Duration 00:00:01.04  20
+- Pronto.
+- Saúde.
+
+ 125: 01:06:22.09 01:06:24.15  Duration 00:00:02.06  38
+Temos primeiro o gosto doce.
+
+ 126: 01:06:25.22 01:06:27.10  Duration 00:00:01.13  26
+É suave. Supersuave.
+
+ 127: 01:06:27.15 01:06:29.06  Duration 00:00:01.16  28
+- Primeiro o doce...
+- É verdade.
+
+ 128: 01:06:29.10 01:06:32.19  Duration 00:00:03.09  57
+...e depois, na verdade,
+ainda temos, podemos dizer...
+
+ 129: 01:06:32.23 01:06:36.12  Duration 00:00:03.14  61
+Não sei vamos encontrar
+o gosto no camembert,
+
+ 130: 01:06:36.17 01:06:38.09  Duration 00:00:01.17  29
+mas há quem diga que sim.
+
+ 131: 01:06:38.14 01:06:40.04  Duration 00:00:01.15  27
+- Vamos ver como você faz?
+- Sim.
+
+ 132: 01:06:40.08 01:06:43.01  Duration 00:00:02.18  46
+Se o queijo for tão bom
+quanto o leite, vai ser bom.
+
+ 133: 01:06:43.05 01:06:44.19  Duration 00:00:01.14  27
+Vamos dar liberdade a ela.
+
+ 134: 01:06:55.19 01:06:57.22  Duration 00:00:02.03  36
+Camembert de Normandie
+Fazenda do Champsecret
+
+ 135: 01:06:59.23 01:07:01.23  Duration 00:00:02.00  34
+O santuário.
+É aqui que acontece.
+
+ 136: 01:07:02.03 01:07:03.22  Duration 00:00:01.19  30
+Primeira coisa de manhã:
+
+ 137: 01:07:04.01 01:07:08.05  Duration 00:00:04.04  71
+é o leite de ontem
+que nós processamos hoje.
+
+ 138: 01:07:08.09 01:07:11.03  Duration 00:00:02.19  47
+Ele chegou ontem à tarde
+sem refrigeração.
+
+ 139: 01:07:11.07 01:07:12.11  Duration 00:00:01.04  20
+Deixamos a 14 graus.
+
+ 140: 01:07:12.16 01:07:15.05  Duration 00:00:02.14  44
+- É um leite de um terço desnatado.
+- Certo.
+
+ 141: 01:07:15.09 01:07:16.19  Duration 00:00:01.10  24
+Não podemos deixar o creme,
+
+ 142: 01:07:16.24 01:07:19.05  Duration 00:00:02.06  38
+senão o camembert
+estragaria após aberto.
+
+ 143: 01:07:19.10 01:07:21.09  Duration 00:00:01.24  33
+Quando os tanques são coalhados,
+
+ 144: 01:07:21.14 01:07:23.22  Duration 00:00:02.08  39
+temos essa fase estática
+obrigatória.
+
+ 145: 01:07:24.01 01:07:26.04  Duration 00:00:02.03  36
+Não podemos tocar nos tanques.
+
+ 146: 01:07:26.09 01:07:28.24  Duration 00:00:02.15  44
+O leite passa
+do estado líquido ao sólido
+
+ 147: 01:07:29.04 01:07:30.07  Duration 00:00:01.03  19
+em poucos minutos.
+
+ 148: 01:07:30.11 01:07:32.17  Duration 00:00:02.06  38
+- "Em poucos minutos"?
+- Entre 10 e 15.
+
+ 149: 01:07:32.22 01:07:34.24  Duration 00:00:02.02  35
+Esses tanques
+acabam de ser coalhados.
+
+ 150: 01:07:35.04 01:07:37.00  Duration 00:00:01.21  31
+Estes estão solidificados.
+
+ 151: 01:07:37.04 01:07:40.16  Duration 00:00:03.12  59
+Vemos levemente, na superfície,
+um pequeno líquido saindo.
+
+ 152: 01:07:40.20 01:07:43.13  Duration 00:00:02.18  46
+É soro do leite que está saindo.
+
+ 153: 01:07:43.17 01:07:46.19  Duration 00:00:03.02  52
+Será o momento
+de enformar o queijo.
+
+ 154: 01:07:46.24 01:07:49.05  Duration 00:00:02.06  38
+É bem rápido, na verdade.
+
+ 155: 01:07:49.09 01:07:51.23  Duration 00:00:02.14  44
+Levamos a manhã toda
+para encher as 700 formas.
+
+ 156: 01:07:52.02 01:07:52.24  Duration 00:00:00.22  15
+Com certeza.
+
+ 157: 01:08:02.15 01:08:04.06  Duration 00:00:01.16  28
+A matéria vai se concentrar,
+
+ 158: 01:08:04.10 01:08:06.23  Duration 00:00:02.13  43
+vai acabar a evacuação
+da água que resta
+
+ 159: 01:08:07.03 01:08:08.12  Duration 00:00:01.09  23
+no leite.
+
+ 160: 01:08:08.16 01:08:11.16  Duration 00:00:03.00  51
+É o que possibilitará
+ao camembert existir.
+
+ 161: 01:08:11.21 01:08:14.09  Duration 00:00:02.13  43
+Ainda é o melhor modo
+de fazer camembert,
+
+ 162: 01:08:14.14 01:08:16.06  Duration 00:00:01.17  29
+a concha?
+- É o mais autêntico.
+
+ 163: 01:08:16.11 01:08:18.03  Duration 00:00:01.17  29
+- É o mais autêntico.
+- Isso.
+
+ 164: 01:08:18.08 01:08:19.13  Duration 00:00:01.05  20
+E depois?
+
+ 165: 01:08:19.17 01:08:22.01  Duration 00:00:02.09  40
+Amanhã de manhã
+terá o tamanho definitivo.
+
+ 166: 01:08:22.05 01:08:23.24  Duration 00:00:01.19  30
+Ele só será virado uma vez.
+
+ 167: 01:08:24.03 01:08:28.05  Duration 00:00:04.02  69
+Poderemos desenformar, salgar
+e levar para a câmara de maturação.
+
+ 168: 01:08:28.09 01:08:29.15  Duration 00:00:01.06  21
+Podemos ir lá
+
+ 169: 01:08:29.19 01:08:31.20  Duration 00:00:02.01  35
+para ver como é?
+- É claro.
+
+ 170: 01:08:48.03 01:08:49.10  Duration 00:00:01.07  22
+Está cheirando bem.
+
+ 171: 01:08:49.24 01:08:51.24  Duration 00:00:02.00  34
+São odores acidulados.
+
+ 172: 01:08:52.15 01:08:55.06  Duration 00:00:02.16  45
+Os queijos mais jovens
+ficam descobertos.
+
+ 173: 01:08:55.11 01:08:58.20  Duration 00:00:03.09  57
+Lá pelo quarto, quinto dia,
+
+ 174: 01:08:58.24 01:09:00.17  Duration 00:00:01.18  29
+nasce uma leve penugem.
+
+ 175: 01:09:00.21 01:09:02.01  Duration 00:00:01.05  20
+É o penicillium.
+
+ 176: 01:09:02.05 01:09:04.02  Duration 00:00:01.22  32
+Aqui, têm 4 dias.
+
+ 177: 01:09:04.06 01:09:08.04  Duration 00:00:03.23  67
+No quinto dia, a penugem
+já invade o queijo todo.
+
+ 178: 01:09:08.09 01:09:09.15  Duration 00:00:01.06  21
+Temos defeitos,
+
+ 179: 01:09:09.19 01:09:11.12  Duration 00:00:01.18  29
+mas gostamos desses defeitos,
+
+ 180: 01:09:11.16 01:09:13.16  Duration 00:00:02.00  34
+onde o penicillium não é invasivo.
+
+ 181: 01:09:13.20 01:09:17.23  Duration 00:00:04.03  70
+Não é uma produção industrial,
+onde é um veludo permanete.
+
+ 182: 01:09:18.02 01:09:20.10  Duration 00:00:02.08  39
+Procuramos fazer
+o penicillium crescer,
+
+ 183: 01:09:20.15 01:09:22.11  Duration 00:00:01.21  31
+indispensável para o produto,
+
+ 184: 01:09:22.15 01:09:25.22  Duration 00:00:03.07  56
+mas procuramos outros organismos
+que darão gostos diferentes.
+
+ 185: 01:09:26.02 01:09:30.08  Duration 00:00:04.06  72
+Agora você me deu vontade
+de comprar metade deles
+
+ 186: 01:09:30.13 01:09:31.20  Duration 00:00:01.07  22
+e de sair para provar.
+
+ 187: 01:09:31.24 01:09:35.14  Duration 00:00:03.15  61
+Esta é a primeira semana.
+Temos a segunda semana
+
+ 188: 01:09:35.19 01:09:37.21  Duration 00:00:02.02  35
+que é realmente
+um pouco mais fresca.
+
+ 189: 01:09:38.00 01:09:41.03  Duration 00:00:03.03  53
+Aqui, vemos que o penicillium
+está realmente bem grande.
+
+ 190: 01:09:41.07 01:09:43.16  Duration 00:00:02.09  40
+Depois botamos na caixa
+e esperamos maturar.
+
+ 191: 01:09:43.20 01:09:44.21  Duration 00:00:01.01  18
+3 semanas no mínimo.
+
+ 192: 01:10:06.00 01:10:07.00  Duration 00:00:01.00  17
+Camembert
+
+ 193: 01:10:13.05 01:10:15.14  Duration 00:00:02.09  40
+Ah, a Normandia. Veja a recepção.
+
+ 194: 01:10:15.18 01:10:18.03  Duration 00:00:02.10  41
+Não é chuva,
+é água vindo do céu.
+
+ 195: 01:10:18.07 01:10:19.13  Duration 00:00:01.06  21
+Bem-vindo a Camembert.
+
+ 196: 01:10:19.17 01:10:21.23  Duration 00:00:02.06  38
+Ah, é isso. Enfim chegamos.
+
+ 197: 01:10:22.02 01:10:23.09  Duration 00:00:01.07  22
+- Prazer.
+- Bem-vindo.
+
+ 198: 01:10:23.13 01:10:26.02  Duration 00:00:02.14  44
+É um vilarejo
+de quantos habitantes?
+
+ 199: 01:10:26.07 01:10:27.15  Duration 00:00:01.08  22
+Menos de 200 habitantes.
+
+ 200: 01:10:27.19 01:10:29.19  Duration 00:00:02.00  34
+- Quantos turistas por ano?
+- 50 mil.
+
+ 201: 01:10:29.23 01:10:32.05  Duration 00:00:02.07  39
+- É levemente desproporcional.
+- Bem pouco.
+
+ 202: 01:10:32.09 01:10:34.18  Duration 00:00:02.09  40
+Por que é tão visitado?
+É graças
+
+ 203: 01:10:34.23 01:10:37.15  Duration 00:00:02.17  46
+ao queijo?
+- É graças ao nome: "Camembert".
+
+ 204: 01:10:37.19 01:10:41.07  Duration 00:00:03.13  60
+Turistas desviam do caminho
+para ver o vilarejo. Às vezes
+
+ 205: 01:10:41.12 01:10:45.00  Duration 00:00:03.13  60
+ficam decepcionados, porque pensam
+que tudo é fabricado aqui.
+
+ 206: 01:10:45.04 01:10:47.01  Duration 00:00:01.22  32
+É um pequeno vilarejo
+com um museu.
+
+ 207: 01:10:47.05 01:10:50.04  Duration 00:00:02.24  50
+- Mas esse nome cristaliza a paixão.
+- Exatamente.
+
+ 208: 01:10:50.09 01:10:51.16  Duration 00:00:01.07  22
+O queijo mais conhecido.
+
+ 209: 01:10:56.05 01:10:57.02  Duration 00:00:00.22  15
+Então...
+
+ 210: 01:10:58.11 01:10:59.19  Duration 00:00:01.08  22
+Bela cabaninha.
+
+ 211: 01:11:00.13 01:11:01.17  Duration 00:00:01.04  20
+Então, na verdade,
+
+ 212: 01:11:01.22 01:11:04.17  Duration 00:00:02.20  48
+você me trouxe aqui
+pela origem do camembert?
+
+ 213: 01:11:04.22 01:11:07.21  Duration 00:00:02.24  50
+Então quem é essa senhora
+toda vestida de branco?
+
+ 214: 01:11:08.00 01:11:09.09  Duration 00:00:01.09  23
+É Marie Harel.
+
+ 215: 01:11:09.13 01:11:12.00  Duration 00:00:02.12  42
+Foi ela que,
+na sua mansão de Beaumoncel,
+
+ 216: 01:11:12.05 01:11:14.01  Duration 00:00:01.21  31
+inventou o camembert em 1791.
+
+ 217: 01:11:14.05 01:11:17.07  Duration 00:00:03.02  52
+- Como isso aconteceu?
+- Foi fruto do acaso.
+
+ 218: 01:11:17.12 01:11:18.20  Duration 00:00:01.08  22
+Foi um encontro.
+
+ 219: 01:11:18.24 01:11:22.00  Duration 00:00:03.01  52
+Um encontro com o abade Bonvoust,
+um padre de Brie.
+
+ 220: 01:11:22.05 01:11:23.12  Duration 00:00:01.07  22
+Era um padre de lá
+
+ 221: 01:11:23.16 01:11:26.01  Duration 00:00:02.10  41
+que, durante a Revolução,
+fugiu da República
+
+ 222: 01:11:26.06 01:11:28.13  Duration 00:00:02.07  39
+e queria emigrar
+para a Inglaterra.
+
+ 223: 01:11:28.17 01:11:31.00  Duration 00:00:02.08  39
+Ele parou na casa de Marie Arel
+uma semana
+
+ 224: 01:11:31.04 01:11:33.03  Duration 00:00:01.24  33
+para pedir hospedagem e comida.
+
+ 225: 01:11:34.03 01:11:37.01  Duration 00:00:02.23  50
+Ele a viu fazer
+queijos frescos pastosos.
+
+ 226: 01:11:37.06 01:11:38.11  Duration 00:00:01.05  20
+Ele a aconselhou:
+
+ 227: 01:11:38.15 01:11:41.06  Duration 00:00:02.16  45
+"Deixe seus queijos
+secarem nas caves,
+
+ 228: 01:11:41.10 01:11:43.00  Duration 00:00:01.15  27
+"como fazemos em Brie."
+
+ 229: 01:11:43.05 01:11:45.03  Duration 00:00:01.23  33
+Foi aí que, por acaso,
+
+ 230: 01:11:45.07 01:11:48.11  Duration 00:00:03.04  54
+nasceu a famosa casca cinza,
+preta, nada bonita.
+
+ 231: 01:11:48.16 01:11:50.06  Duration 00:00:01.15  27
+- Ele não tinha essa cor?
+- Não.
+
+ 232: 01:11:50.10 01:11:53.17  Duration 00:00:03.07  56
+O queijo secou.
+Ele ficou mais maturado, seco,
+
+ 233: 01:11:53.21 01:11:54.24  Duration 00:00:01.03  19
+e tinha mais gosto.
+
+ 234: 01:11:55.04 01:11:56.14  Duration 00:00:01.10  24
+Eles o acharam excelente.
+
+ 235: 01:11:56.18 01:11:58.23  Duration 00:00:02.05  37
+Ela o vendia
+nas feiras de Vimoutiers,
+
+ 236: 01:11:59.03 01:12:00.17  Duration 00:00:01.14  27
+de Crouttes, de Argentan.
+
+ 237: 01:12:00.21 01:12:03.15  Duration 00:00:02.19  47
+Todo mundo foi conquistado
+e a aventura começou.
+
+ 238: 01:12:03.19 01:12:07.01  Duration 00:00:03.07  56
+Na época, o queijo
+tinha uma casca cinza,
+
+ 239: 01:12:07.05 01:12:08.15  Duration 00:00:01.10  24
+como o Saint-Nectaire?
+
+ 240: 01:12:08.19 01:12:11.14  Duration 00:00:02.20  48
+Sim. Era um mofo preto inestético.
+
+ 241: 01:12:11.18 01:12:13.24  Duration 00:00:02.06  38
+Foi Pasteur que, nos anos 1900,
+
+ 242: 01:12:14.04 01:12:16.08  Duration 00:00:02.04  37
+conseguiu isolar
+o# penicillium candidum#
+
+ 243: 01:12:16.12 01:12:18.14  Duration 00:00:02.02  35
+para fazer algo mais limpo
+
+ 244: 01:12:18.19 01:12:20.16  Duration 00:00:01.22  32
+e mais bonito para vender.
+
+ 245: 01:12:20.20 01:12:23.12  Duration 00:00:02.17  46
+Sabe-se o que, na cave dela,
+
+ 246: 01:12:23.16 01:12:25.19  Duration 00:00:02.03  36
+provocou o crescimento
+dessas bactérias
+
+ 247: 01:12:25.23 01:12:28.08  Duration 00:00:02.10  41
+e dessa casca preta no começo?
+
+ 248: 01:12:28.12 01:12:29.20  Duration 00:00:01.08  22
+É um mofo natural.
+
+ 249: 01:12:29.24 01:12:32.18  Duration 00:00:02.19  47
+É o fato de ter sidra,
+
+ 250: 01:12:32.23 01:12:34.21  Duration 00:00:01.23  33
+Pommeau e Calvados nas caves.
+
+ 251: 01:12:35.00 01:12:36.23  Duration 00:00:01.23  33
+Portanto, mofo de maçã.
+
+ 252: 01:12:37.02 01:12:40.04  Duration 00:00:03.02  52
+Esse mofo se depositou
+na flor do queijo
+
+ 253: 01:12:40.08 01:12:41.16  Duration 00:00:01.08  22
+e esse mofo nasceu.
+
+ 254: 01:12:41.21 01:12:44.21  Duration 00:00:03.00  51
+É por causa desse território
+que o camembert nasceu.
+
+ 255: 01:12:45.01 01:12:48.05  Duration 00:00:03.04  54
+Desde essa descoberta de Marie Arel,
+que foi ajudada,
+
+ 256: 01:12:48.10 01:12:51.07  Duration 00:00:02.22  49
+o camembert mudou muito ou não?
+
+ 257: 01:12:51.11 01:12:52.15  Duration 00:00:01.04  20
+Não, ele não mudou.
+
+ 258: 01:12:52.20 01:12:54.11  Duration 00:00:01.16  28
+A técnica ainda é a mesma.
+
+ 259: 01:12:54.15 01:12:56.00  Duration 00:00:01.10  24
+Ainda é com leite de vaca.
+
+ 260: 01:12:56.05 01:12:58.18  Duration 00:00:02.13  43
+Ainda se enforma com concha.
+É importante.
+
+ 261: 01:12:58.23 01:13:03.12  Duration 00:00:04.14  78
+O que pode ser diferente
+é a maneira de consumir.
+
+ 262: 01:13:03.16 01:13:06.23  Duration 00:00:03.07  56
+Antigamente, o queijo era apreciado
+mais forte, mais intenso.
+
+ 263: 01:13:07.02 01:13:08.16  Duration 00:00:01.14  27
+Hoje é apreciado mais fresco.
+
+ 264: 01:13:08.21 01:13:10.07  Duration 00:00:01.11  24
+A história interessante
+
+ 265: 01:13:10.11 01:13:13.17  Duration 00:00:03.06  55
+é que o consumo
+entre os normandos e os parisienses
+
+ 266: 01:13:13.22 01:13:15.04  Duration 00:00:01.07  22
+é diferente.
+
+ 267: 01:13:15.08 01:13:18.10  Duration 00:00:03.02  52
+Os parisienses
+adoram o camembert bem mole
+
+ 268: 01:13:18.15 01:13:21.10  Duration 00:00:02.20  48
+e os normandos
+gostam mais seco, mais branco.
+
+ 269: 01:13:21.14 01:13:23.14  Duration 00:00:02.00  34
+Então, mais original,
+podemos dizer.
+
+ 270: 01:13:23.19 01:13:25.03  Duration 00:00:01.09  23
+- Sabe por quê?
+- Não.
+
+ 271: 01:13:25.07 01:13:28.05  Duration 00:00:02.23  50
+Porque o queijo
+era transportado de diligência.
+
+ 272: 01:13:28.09 01:13:31.24  Duration 00:00:03.15  61
+Ele levava 3, 4 dias para chegar
+a Paris ou aos Halles de Paris
+
+ 273: 01:13:32.04 01:13:33.06  Duration 00:00:01.02  18
+e chegava maturado.
+
+ 274: 01:13:33.10 01:13:35.15  Duration 00:00:02.05  37
+Os parisienses habituaram-se
+ao maturado,
+
+ 275: 01:13:35.19 01:13:37.19  Duration 00:00:02.00  34
+e isso ficou.
+
+ 276: 01:13:37.23 01:13:39.18  Duration 00:00:01.20  31
+Eles só querem queijo maturado.
+
+ 277: 01:13:39.22 01:13:43.21  Duration 00:00:03.24  67
+Continuamos a visita?
+Acho que vi etiquetas que mostram
+
+ 278: 01:13:44.01 01:13:46.09  Duration 00:00:02.08  39
+que o camembert
+é apreciado no mundo todo.
+
+ 279: 01:13:46.13 01:13:49.06  Duration 00:00:02.18  46
+Como se chamam
+os colecionadores de etiquetas?
+
+ 280: 01:13:49.10 01:13:51.19  Duration 00:00:02.09  40
+Os "etique-camenberófilos"?
+
+ 281: 01:13:51.23 01:13:53.06  Duration 00:00:01.08  22
+#Tyrosemiophiles.#
+
+ 282: 01:13:53.10 01:13:56.01  Duration 00:00:02.16  45
+Precisa me explicar
+a origem dessa palavra.
+
+ 283: 01:13:56.05 01:13:58.09  Duration 00:00:02.04  37
+Os# tyrosemiophiles#.
+
+ 284: 01:14:02.14 01:14:04.11  Duration 00:00:01.22  32
+Vamos as etiquetas.
+Há muitas
+
+ 285: 01:14:04.16 01:14:06.02  Duration 00:00:01.11  24
+desde a origem
+do camembert.
+
+ 286: 01:14:06.06 01:14:09.20  Duration 00:00:03.14  61
+Quais são as datas principais?
+Qual é
+
+ 287: 01:14:10.00 01:14:11.04  Duration 00:00:01.04  20
+a primeira etapa?
+
+ 288: 01:14:11.08 01:14:14.13  Duration 00:00:03.05  54
+A primeira etapa
+é a chegada da ferrovia
+
+ 289: 01:14:14.17 01:14:16.14  Duration 00:00:01.22  32
+à Normandia, em 1855
+
+ 290: 01:14:16.18 01:14:19.11  Duration 00:00:02.18  46
+e a descoberta por Napoleão III
+desse queijo.
+
+ 291: 01:14:19.16 01:14:21.21  Duration 00:00:02.05  37
+No dia em que chegou,
+na gare de Sourdon,
+
+ 292: 01:14:22.00 01:14:24.15  Duration 00:00:02.15  44
+o bisneto de Marie Harel,
+Thomas Paynel,
+
+ 293: 01:14:24.19 01:14:27.12  Duration 00:00:02.18  46
+ofereceu ao imperador
+um queijo de sua ancestral.
+
+ 294: 01:14:27.16 01:14:28.11  Duration 00:00:00.20  14
+Ele adorou.
+
+ 295: 01:14:28.16 01:14:31.22  Duration 00:00:03.06  55
+Ele disse: "Quero nas Tulherias
+já na semana que vem."
+
+ 296: 01:14:32.01 01:14:34.13  Duration 00:00:02.12  42
+Perguntou de onde vinha.
+Disseram: "De Camembert.
+
+ 297: 01:14:34.17 01:14:37.21  Duration 00:00:03.04  54
+Napoleão III disse: "Esse queijo
+se chamará 'Camembert'".
+
+ 298: 01:14:38.01 01:14:42.00  Duration 00:00:03.24  67
+Uma outra etapa importante assim.
+Várias etapas o são.
+
+ 299: 01:14:42.05 01:14:44.06  Duration 00:00:02.01  35
+Uma etapa-chave:
+a 1ª Guerra Mundial.
+
+ 300: 01:14:44.10 01:14:46.13  Duration 00:00:02.03  36
+Os queijeiros
+deram ao exército francês
+
+ 301: 01:14:46.17 01:14:48.06  Duration 00:00:01.14  27
+um dia de produção
+por semana.
+
+ 302: 01:14:48.10 01:14:49.18  Duration 00:00:01.08  22
+Todo mês,
+
+ 303: 01:14:49.22 01:14:52.09  Duration 00:00:02.12  42
+1 milhão de camemberts
+eram distribuídos no front.
+
+ 304: 01:14:52.13 01:14:55.08  Duration 00:00:02.20  48
+Queijos foram distribuídos
+além das rações.
+
+ 305: 01:14:55.12 01:14:58.19  Duration 00:00:03.07  56
+Adorado pelos soldados
+que querem mais após a guerra.
+
+ 306: 01:14:59.05 01:15:02.04  Duration 00:00:02.24  50
+Então esse queijo foi distribuído
+na França e na Europa.
+
+ 307: 01:15:02.08 01:15:04.07  Duration 00:00:01.24  33
+O nome "camembert" é protegido?
+
+ 308: 01:15:04.12 01:15:06.04  Duration 00:00:01.17  29
+Ele não é protegido.
+
+ 309: 01:15:06.08 01:15:08.21  Duration 00:00:02.13  43
+O camembert da Normandia
+é protegido por denominação.
+
+ 310: 01:15:09.00 01:15:11.13  Duration 00:00:02.13  43
+Tem um caderno de encargos
+estrito e específico.
+
+ 311: 01:15:11.17 01:15:14.02  Duration 00:00:02.10  41
+Mas o termo "camembert"
+é genérico.
+
+ 312: 01:15:14.06 01:15:16.15  Duration 00:00:02.09  40
+Todo mundo se apropriou dele.
+
+ 313: 01:15:16.19 01:15:20.08  Duration 00:00:03.14  61
+Temos camembert fabricado
+na China, no Japão, na Austrália
+
+ 314: 01:15:20.12 01:15:21.16  Duration 00:00:01.04  20
+e em toda parte.
+
+ 315: 01:15:21.20 01:15:23.14  Duration 00:00:01.19  30
+Por isso as caixas na entrada.
+
+ 316: 01:15:23.18 01:15:24.23  Duration 00:00:01.05  20
+Vamos ver isso.
+
+ 317: 01:15:37.08 01:15:40.00  Duration 00:00:02.17  46
+Aqui é as Nações Unidas
+do camembert.
+
+ 318: 01:15:40.05 01:15:41.22  Duration 00:00:01.17  29
+Vários países
+estão representados.
+
+ 319: 01:15:42.01 01:15:45.02  Duration 00:00:03.01  52
+Este aqui, por exemplo,
+deve ser japonês,
+
+ 320: 01:15:45.07 01:15:47.23  Duration 00:00:02.16  45
+Há muitos asiáticos.
+Temos este...
+
+ 321: 01:15:48.02 01:15:49.17  Duration 00:00:01.15  27
+Aqui tem um hebreu.
+
+ 322: 01:15:49.21 01:15:52.02  Duration 00:00:02.06  38
+Temos muitos da Europa do Leste.
+
+ 323: 01:15:52.06 01:15:54.12  Duration 00:00:02.06  38
+Os alemães, a Ucrânia.
+
+ 324: 01:15:54.16 01:15:56.22  Duration 00:00:02.06  38
+Também temos a América do Sul.
+
+ 325: 01:15:57.02 01:15:58.10  Duration 00:00:01.08  22
+Camembert brasileiro.
+
+ 326: 01:16:02.18 01:16:05.12  Duration 00:00:02.19  47
+- No Brasil, dizem "camembertch".
+- Com o "ch".
+
+ 327: 01:16:05.16 01:16:07.06  Duration 00:00:01.15  27
+Temos todas as versões.
+
+ 328: 01:16:07.10 01:16:08.14  Duration 00:00:01.04  20
+Temos o "camembertch".
+
+ 329: 01:16:08.18 01:16:12.04  Duration 00:00:03.11  58
+Temos sobretudo este aqui
+que vem do outro lado do planeta.
+
+ 330: 01:16:12.09 01:16:13.19  Duration 00:00:01.10  24
+"Camembert".
+
+ 331: 01:16:22.00 01:16:23.00  Duration 00:00:01.00  17
+Orbec
+
+ 332: 01:16:29.21 01:16:31.18  Duration 00:00:01.22  32
+Estou chegando a Orbec.
+
+ 333: 01:16:31.22 01:16:34.21  Duration 00:00:02.24  50
+Embaixo desta estrada,
+vou encontrar Aurélia,
+
+ 334: 01:16:35.00 01:16:37.00  Duration 00:00:02.00  34
+dona de restaurante da região,
+
+ 335: 01:16:37.04 01:16:38.08  Duration 00:00:01.04  20
+e Olivier.
+
+ 336: 01:16:38.12 01:16:40.16  Duration 00:00:02.04  37
+Eles se conhecem
+e trabalham juntos,
+
+ 337: 01:16:40.20 01:16:43.19  Duration 00:00:02.24  50
+já que Aurélia faz receitas
+à base de camembert,
+
+ 338: 01:16:43.23 01:16:45.23  Duration 00:00:02.00  34
+mas também de champignons d'Orbec.
+
+ 339: 01:16:46.02 01:16:49.11  Duration 00:00:03.09  57
+Eles devem estar me esperando.
+Vejo a entrada da caverna.
+
+ 340: 01:16:49.15 01:16:51.12  Duration 00:00:01.22  32
+Eles me esperam
+na cave de cogumelos.
+
+ 341: 01:17:00.04 01:17:03.01  Duration 00:00:02.22  49
+É incrível, este lugar.
+É bacana.
+
+ 342: 01:17:04.23 01:17:05.23  Duration 00:00:01.00  17
+Minha nossa.
+
+ 343: 01:17:06.02 01:17:07.15  Duration 00:00:01.13  26
+Eles estão me esperando.
+
+ 344: 01:17:07.20 01:17:09.11  Duration 00:00:01.16  28
+Em plena colheita.
+
+ 345: 01:17:09.15 01:17:11.16  Duration 00:00:02.01  35
+- Bom dia.
+- Bom dia, Vincent.
+
+ 346: 01:17:11.21 01:17:13.11  Duration 00:00:01.15  27
+Poderia ser
+bom-dia ou boa-noite
+
+ 347: 01:17:13.15 01:17:15.12  Duration 00:00:01.22  32
+já que não sabemos
+se é dia ou noite.
+
+ 348: 01:17:15.16 01:17:17.09  Duration 00:00:01.18  29
+Totalmente. Totalmente.
+
+ 349: 01:17:17.14 01:17:20.19  Duration 00:00:03.05  54
+Aurélia, você tem restaurante.
+Você trabalha com Olivier.
+
+ 350: 01:17:20.23 01:17:24.14  Duration 00:00:03.16  62
+Sei que você trabalha
+com o camembert de Champsecret.
+
+ 351: 01:17:24.18 01:17:28.02  Duration 00:00:03.09  57
+- Tenho um comigo.
+Você trabalha com Olivier
+
+ 352: 01:17:28.06 01:17:29.11  Duration 00:00:01.05  20
+que é...
+- Criador de cogumelo.
+
+ 353: 01:17:29.16 01:17:31.10  Duration 00:00:01.19  30
+- É assim que se diz?
+- Exato.
+
+ 354: 01:17:31.14 01:17:34.09  Duration 00:00:02.20  48
+Você cultiva cogumelos.
+
+ 355: 01:17:34.14 01:17:36.17  Duration 00:00:02.03  36
+Não entendo nada de cogumelos.
+
+ 356: 01:17:37.09 01:17:38.12  Duration 00:00:01.03  19
+O que é isso?
+
+ 357: 01:17:38.16 01:17:40.21  Duration 00:00:02.05  37
+Estamos diante
+de champignons de Paris.
+
+ 358: 01:17:41.00 01:17:44.20  Duration 00:00:03.20  65
+- Pensei que eram brancos.
+- Há dois tipos:
+
+ 359: 01:17:44.24 01:17:46.00  Duration 00:00:01.01  18
+o marrom e o branco.
+
+ 360: 01:17:46.15 01:17:49.01  Duration 00:00:02.11  41
+- Eu posso provar?
+- Por favor, prove.
+
+ 361: 01:17:49.05 01:17:52.16  Duration 00:00:03.11  58
+Como você descobriu este lugar,
+Aurélia?
+
+ 362: 01:17:53.05 01:17:54.24  Duration 00:00:01.19  30
+Os cogumelos de Orbec,
+
+ 363: 01:17:55.04 01:17:57.24  Duration 00:00:02.20  48
+eu conheci na feira de Lisieux.
+
+ 364: 01:17:58.17 01:18:01.11  Duration 00:00:02.19  47
+Entendi
+por que você trabalha com ele.
+
+ 365: 01:18:01.15 01:18:04.24  Duration 00:00:03.09  57
+Eles são bem corcantes,
+são bem cheirosos.
+
+ 366: 01:18:05.03 01:18:07.07  Duration 00:00:02.04  37
+É uma textura bastante densa.
+
+ 367: 01:18:08.07 01:18:10.01  Duration 00:00:01.19  30
+Não se desmancha na boca.
+
+ 368: 01:18:10.13 01:18:13.04  Duration 00:00:02.16  45
+É por causa do modo de produção.
+
+ 369: 01:18:13.09 01:18:16.00  Duration 00:00:02.16  45
+É uma produção natural,
+em pedreira.
+
+ 370: 01:18:16.04 01:18:17.19  Duration 00:00:01.15  27
+Assim fazemos um cogumelo
+
+ 371: 01:18:17.23 01:18:20.10  Duration 00:00:02.12  42
+que pode ser irregular, 
+mas com qualidade
+
+ 372: 01:18:20.15 01:18:22.15  Duration 00:00:02.00  34
+e densidade maiores.
+
+ 373: 01:18:22.20 01:18:26.03  Duration 00:00:03.08  56
+Ainda há criações de cogumelos
+em Paris?
+
+ 374: 01:18:26.07 01:18:28.01  Duration 00:00:01.19  30
+Algumas. Bem poucas.
+
+ 375: 01:18:28.05 01:18:30.08  Duration 00:00:02.03  36
+- Em Paris, intramuros?
+- Não.
+
+ 376: 01:18:30.13 01:18:32.03  Duration 00:00:01.15  27
+- Então não há mais?
+- Não.
+
+ 377: 01:18:32.08 01:18:33.12  Duration 00:00:01.04  20
+Não há mais
+champignon de Paris.
+
+ 378: 01:18:33.16 01:18:37.06  Duration 00:00:03.15  61
+Não. Ele foi enxotado quando
+construíram o metrô, por exemplo.
+
+ 379: 01:18:37.10 01:18:38.06  Duration 00:00:00.21  14
+Ah, certo.
+
+ 380: 01:18:38.10 01:18:41.17  Duration 00:00:03.07  56
+O metrô usou uma parte
+das pedreiras e dos subterrâneos
+
+ 381: 01:18:41.21 01:18:44.05  Duration 00:00:02.09  40
+e ele foi empurrado
+para o Vale do Loire.
+
+ 382: 01:18:44.09 01:18:47.23  Duration 00:00:03.14  61
+A primeira vez que você viu
+esta criação de cogumelos,
+
+ 383: 01:18:48.03 01:18:49.24  Duration 00:00:01.21  31
+que ideia de receita você teve?
+
+ 384: 01:18:50.03 01:18:52.09  Duration 00:00:02.06  38
+Isso tocou em você,
+como cozinheira?
+
+ 385: 01:18:52.13 01:18:56.20  Duration 00:00:04.07  73
+Era facilmente usável
+nos# crousti-flamme# que fazemos.
+
+ 386: 01:18:56.24 01:18:57.24  Duration 00:00:01.00  17
+Nossa especialidade.
+
+ 387: 01:18:58.04 01:19:02.01  Duration 00:00:03.22  66
+Eles aguentam bem o cozimento.
+Não reduzem.
+
+ 388: 01:19:02.06 01:19:04.18  Duration 00:00:02.12  42
+O cogumelo cresce
+em quanto tempo?
+
+ 389: 01:19:04.22 01:19:07.22  Duration 00:00:03.00  51
+Entre a frutificação,
+quando o cogumelo nasce,
+
+ 390: 01:19:08.02 01:19:10.19  Duration 00:00:02.17  46
+- temos a cabeça de alfinete -
+e a colheita,
+
+ 391: 01:19:10.23 01:19:11.21  Duration 00:00:00.23  16
+é uma semana.
+
+ 392: 01:19:12.01 01:19:14.00  Duration 00:00:01.24  33
+- É rápido.
+- O cogumelo dobra de volume
+
+ 393: 01:19:14.04 01:19:15.22  Duration 00:00:01.18  29
+todo dia.
+- Certo.
+
+ 394: 01:19:16.15 01:19:19.09  Duration 00:00:02.19  47
+Se fôssemos cogumelos,
+teríamos casas enormes.
+
+ 395: 01:19:20.03 01:19:21.21  Duration 00:00:01.18  29
+- Estaríamos mal.
+- Realmente.
+
+ 396: 01:19:22.01 01:19:26.00  Duration 00:00:03.24  67
+Imagino que você dê a ele
+um retorno sobre o produto
+
+ 397: 01:19:26.04 01:19:29.21  Duration 00:00:03.17  63
+Pois sim. Ele vem de vez em quando
+comer no restaurante.
+
+ 398: 01:19:31.06 01:19:33.23  Duration 00:00:02.17  46
+Você pode dizer:
+"São bons,
+
+ 399: 01:19:34.03 01:19:35.06  Duration 00:00:01.03  19
+"esses cogumelos."
+
+ 400: 01:19:35.10 01:19:37.15  Duration 00:00:02.05  37
+Mas também é importante conhecer...
+
+ 401: 01:19:37.19 01:19:40.20  Duration 00:00:03.01  52
+Falamos sempre do chef
+em relação ao produtor,
+
+ 402: 01:19:40.24 01:19:43.22  Duration 00:00:02.23  50
+mas para nós é importante
+saber a finalidade,
+
+ 403: 01:19:44.01 01:19:45.18  Duration 00:00:01.17  29
+porque dedicamos tempo,
+
+ 404: 01:19:45.23 01:19:48.01  Duration 00:00:02.03  36
+cuidados,
+protegemos nosso produto.
+
+ 405: 01:19:48.05 01:19:50.13  Duration 00:00:02.08  39
+Saber a maneira
+com que será trabalhado
+
+ 406: 01:19:50.17 01:19:53.05  Duration 00:00:02.13  43
+também é importante.
+É uma troca.
+
+ 407: 01:19:53.10 01:19:56.19  Duration 00:00:03.09  57
+Enchemos a caixa
+e vamos cozinhar isso tudo?
+
+ 408: 01:19:56.23 01:19:57.18  Duration 00:00:00.20  14
+Sim. Vamos.
+
+ 409: 01:20:04.18 01:20:07.09  Duration 00:00:02.16  45
+Que cogumelo bonito.
+Dá vontade de...
+
+ 410: 01:20:07.13 01:20:10.10  Duration 00:00:02.22  49
+- Dá vontade de provar.
+- Vamos prová-lo
+
+ 411: 01:20:10.14 01:20:12.03  Duration 00:00:01.14  27
+no restaurante.
+No Le Hérisson.
+
+ 412: 01:20:15.05 01:20:17.15  Duration 00:00:02.10  41
+Vimoutiers
+
+ 413: 01:20:36.05 01:20:37.15  Duration 00:00:01.10  24
+Le Hérisson
+
+ 414: 01:20:37.20 01:20:41.01  Duration 00:00:03.06  55
+Você vai me mostrar o que você faz
+com esses belos cogumelos
+
+ 415: 01:20:41.05 01:20:43.23  Duration 00:00:02.18  46
+e o camembert de Champsecret.
+- Sim.
+
+ 416: 01:20:46.02 01:20:49.21  Duration 00:00:03.19  64
+Olá. Trouxe cogumelos.
+
+ 417: 01:20:50.00 01:20:51.17  Duration 00:00:01.17  29
+Aqui estão.
+
+ 418: 01:20:52.19 01:20:55.01  Duration 00:00:02.07  39
+Pequenos champignons d'Orbec.
+Eles são bons.
+
+ 419: 01:20:55.06 01:20:57.14  Duration 00:00:02.08  39
+O que podemos fazer com tudo isso?
+
+ 420: 01:20:57.19 01:20:59.22  Duration 00:00:02.03  36
+Vamos fazer uma receita
+de# crousti-flamme#
+
+ 421: 01:21:00.01 01:21:03.08  Duration 00:00:03.07  56
+com o camembert de Champsecret,
+os champignons,
+
+ 422: 01:21:04.00 01:21:06.15  Duration 00:00:02.15  44
+e um creme de# pommée#
+com pimenta Kampot
+
+ 423: 01:21:06.19 01:21:08.10  Duration 00:00:01.16  28
+que vem do Camboja.
+
+ 424: 01:21:08.15 01:21:12.12  Duration 00:00:03.22  66
+Eu reduzi a# pommée#
+aquecendo devagar
+
+ 425: 01:21:12.17 01:21:14.07  Duration 00:00:01.15  27
+para fazer como um caramelo.
+
+ 426: 01:21:14.11 01:21:17.21  Duration 00:00:03.10  58
+Com a pimenta vermelha Kampot
+que vem do Camboja.
+
+ 427: 01:21:18.01 01:21:20.17  Duration 00:00:02.16  45
+É uma pimenta de alto nível.
+
+ 428: 01:21:23.07 01:21:25.14  Duration 00:00:02.07  39
+Chef, faço o que você quiser,
+chef!
+
+ 429: 01:21:25.19 01:21:27.00  Duration 00:00:01.06  21
+Coquetel normando
+Calvados, sidra
+
+ 430: 01:21:27.17 01:21:30.03  Duration 00:00:02.11  41
+Tenho a impressão
+
+ 431: 01:21:30.08 01:21:33.11  Duration 00:00:03.03  53
+que o ponto em comum que você tem
+
+ 432: 01:21:34.15 01:21:36.20  Duration 00:00:02.05  37
+com Nathalie
+é a paixão por produtos
+
+ 433: 01:21:37.24 01:21:39.01  Duration 00:00:01.02  18
+...originais,
+
+ 434: 01:21:39.06 01:21:42.06  Duration 00:00:03.00  51
+verdadeiros produtos de região,
+especialmente.
+
+ 435: 01:21:42.10 01:21:44.14  Duration 00:00:02.04  37
+Sim. Que selecionamos.
+
+ 436: 01:21:44.19 01:21:47.24  Duration 00:00:03.05  54
+Procuramos produtos meio...
+
+ 437: 01:21:49.15 01:21:51.02  Duration 00:00:01.12  25
+que consideramos
+alto nível.
+
+ 438: 01:21:51.06 01:21:54.01  Duration 00:00:02.20  48
+São artesãos
+que trabalham à moda antiga,
+
+ 439: 01:21:54.06 01:21:57.03  Duration 00:00:02.22  49
+que são meticulosos
+sobre a qualidade dos produtos,
+
+ 440: 01:21:57.07 01:21:59.11  Duration 00:00:02.04  37
+como o# camembert# ou a# pommée.#
+
+ 441: 01:22:00.21 01:22:01.21  Duration 00:00:01.00  17
+Tac.
+
+ 442: 01:22:02.11 01:22:03.11  Duration 00:00:01.00  17
+Obrigado.
+
+ 443: 01:22:04.09 01:22:06.04  Duration 00:00:01.20  31
+Você quer no comprimento...?
+
+ 444: 01:22:06.09 01:22:08.21  Duration 00:00:02.12  42
+- Sim, assim e bem finos.
+- Bem finos.
+
+ 445: 01:22:09.01 01:22:10.11  Duration 00:00:01.10  24
+- Mais finos.
+- Mais finos?
+
+ 446: 01:22:10.15 01:22:12.10  Duration 00:00:01.20  31
+- Sim...
+- Assim está bom.
+
+ 447: 01:22:12.14 01:22:14.10  Duration 00:00:01.21  31
+- Ah, sim, é bem fino.
+- Sim.
+
+ 448: 01:22:15.04 01:22:16.02  Duration 00:00:00.23  16
+A# crousti-flamme#
+
+ 449: 01:22:16.07 01:22:18.21  Duration 00:00:02.14  44
+pode parecer com uma...
+
+ 450: 01:22:20.06 01:22:22.05  Duration 00:00:01.24  33
+uma# pissaladière#, uma pizza?
+
+ 451: 01:22:22.09 01:22:25.02  Duration 00:00:02.18  46
+É isso.
+Na verdade, é o mesmo princípio.
+
+ 452: 01:22:25.06 01:22:27.04  Duration 00:00:01.23  33
+A# flammekueche#,
+a# pissaladière#, a pizza.
+
+ 453: 01:22:27.08 01:22:31.01  Duration 00:00:03.18  63
+Aliás, encontramos esse princípio
+em todos os países do mundo.
+
+ 454: 01:22:32.23 01:22:36.13  Duration 00:00:03.15  61
+O# chapati# na Índia,
+a# tortilla# na América Latina.
+
+ 455: 01:22:36.17 01:22:38.04  Duration 00:00:01.12  25
+- É...
+- O pão,
+
+ 456: 01:22:38.09 01:22:40.02  Duration 00:00:01.18  29
+como base alimentar.
+- É isso.
+
+ 457: 01:22:40.07 01:22:43.09  Duration 00:00:03.02  52
+Com ingredientes simples,
+o que temos à mão.
+
+ 458: 01:22:44.15 01:22:45.24  Duration 00:00:01.09  23
+Esse está bem feito.
+
+ 459: 01:23:01.07 01:23:03.17  Duration 00:00:02.10  41
+Ah, sim,
+ela "enche" como dizemos.
+
+ 460: 01:23:03.22 01:23:06.03  Duration 00:00:02.06  38
+- Sim, é mesmo.
+- Tem substância.
+
+ 461: 01:23:06.07 01:23:09.12  Duration 00:00:03.05  54
+Parando aqui,
+na saída não teremos mais fome.
+
+ 462: 01:23:09.16 01:23:11.21  Duration 00:00:02.05  37
+- Normalmente.
+- Assim espero.
+
+ 463: 01:23:12.01 01:23:15.02  Duration 00:00:03.01  52
+Você usou esse camembert.
+Não é qualquer um.
+
+ 464: 01:23:15.07 01:23:19.01  Duration 00:00:03.19  64
+Já ouviu falar?
+Vimos com Patrick Mercier.
+
+ 465: 01:23:19.06 01:23:21.06  Duration 00:00:02.00  34
+Por que o acha interessante?
+
+ 466: 01:23:21.10 01:23:24.00  Duration 00:00:02.15  44
+Volto a dizer que é um camembert
+
+ 467: 01:23:24.04 01:23:26.12  Duration 00:00:02.08  39
+orgânico, artesanal
+e que tem a DOP.
+
+ 468: 01:23:26.17 01:23:28.17  Duration 00:00:02.00  34
+- É isso.
+- É muita coisa.
+
+ 469: 01:23:28.21 01:23:30.19  Duration 00:00:01.23  33
+É o único que tem os três.
+
+ 470: 01:23:30.24 01:23:33.23  Duration 00:00:02.24  50
+- Eu vou provar.
+- Prove, por favor.
+
+ 471: 01:23:34.02 01:23:37.14  Duration 00:00:03.12  59
+Vou provar isso.
+O coração do camembert.
+
+ 472: 01:23:37.18 01:23:38.13  Duration 00:00:00.20  14
+Opa.
+
+ 473: 01:23:44.16 01:23:46.11  Duration 00:00:01.20  31
+Ah, é mesmo. Entendi.
+
+ 474: 01:23:46.16 01:23:48.06  Duration 00:00:01.15  27
+Minha nossa!
+
+ 475: 01:23:48.10 01:23:51.17  Duration 00:00:03.07  56
+Mesmo maturado, na verdade,
+ele não fica ardido.
+
+ 476: 01:23:51.22 01:23:54.18  Duration 00:00:02.21  48
+Fresco, branco ou maturado,
+
+ 477: 01:23:54.22 01:23:56.01  Duration 00:00:01.04  20
+é sempre excelente.
+
+ 478: 01:23:56.06 01:23:57.03  Duration 00:00:00.22  15
+E sobretudo...
+
+ 479: 01:23:57.07 01:24:00.05  Duration 00:00:02.23  50
+Acabei de comê-lo há 30 segundos,
+
+ 480: 01:24:00.10 01:24:02.04  Duration 00:00:01.19  30
+e permanece. É longo de boca.
+
+ 481: 01:24:11.10 01:24:13.07  Duration 00:00:01.22  32
+Atenção, rufar de tambores.
+
+ 482: 01:24:14.05 01:24:16.04  Duration 00:00:01.24  33
+Espere, Nathalie.
+Estamos prontos.
+
+ 483: 01:24:20.08 01:24:21.18  Duration 00:00:01.10  24
+- Lá vai.
+- A honra é sua.
+
+ 484: 01:24:22.13 01:24:24.16  Duration 00:00:02.03  36
+- Então...
+- Enquanto isso...
+
+ 485: 01:24:24.21 01:24:25.17  Duration 00:00:00.21  14
+Atenção.
+
+ 486: 01:24:25.21 01:24:26.23  Duration 00:00:01.02  18
+OK, OK. Espere.
+
+ 487: 01:24:27.02 01:24:29.17  Duration 00:00:02.15  44
+Tac, tac, tac,
+vou ficar num cantinho.
+
+ 488: 01:24:30.12 01:24:31.07  Duration 00:00:00.20  14
+Pronto?
+
+ 489: 01:24:31.12 01:24:32.15  Duration 00:00:01.03  19
+Sim.
+
+ 490: 01:24:32.20 01:24:34.00  Duration 00:00:01.05  20
+Lá vai. Opa.
+
+ 491: 01:24:35.09 01:24:37.23  Duration 00:00:02.14  44
+Pronto. Vamos deixar
+uns 2 minutos e meio.
+
+ 492: 01:24:38.19 01:24:41.04  Duration 00:00:02.10  41
+- Viramos regularmente...
+- Certo.
+
+ 493: 01:24:41.08 01:24:43.08  Duration 00:00:02.00  34
+...para evitar que queime.
+- É rápido.
+
+ 494: 01:24:43.13 01:24:44.21  Duration 00:00:01.08  22
+E pronto.
+
+ 495: 01:24:45.00 01:24:46.21  Duration 00:00:01.21  31
+Nossa! Que lindo!
+
+ 496: 01:24:49.20 01:24:51.00  Duration 00:00:01.05  20
+Como é lindo.
+
+ 497: 01:24:55.24 01:24:58.19  Duration 00:00:02.20  48
+Como se diria "pizza"
+em normando?
+
+ 498: 01:24:58.23 01:25:00.20  Duration 00:00:01.22  32
+Uma "pizzeu".
+
+ 499: 01:25:01.00 01:25:02.14  Duration 00:00:01.14  27
+Não era muito chique,
+
+ 500: 01:25:02.19 01:25:04.14  Duration 00:00:01.20  31
+então preferimos "crousti-flamme".
+
+ 501: 01:25:07.23 01:25:10.07  Duration 00:00:02.09  40
+Bom. Obrigado pela bela descoberta.
+
+ 502: 01:25:10.11 01:25:11.19  Duration 00:00:01.08  22
+Mas vou provar, afinal.
+
+ 503: 01:25:14.04 01:25:15.05  Duration 00:00:01.01  18
+Está muito quente.
+
+ 504: 01:25:15.10 01:25:16.19  Duration 00:00:01.09  23
+- Sim...
+- Sim.
+
+ 505: 01:25:17.24 01:25:20.09  Duration 00:00:02.10  41
+É delicioso.
+As nozes, com tudo isso...
+
+ 506: 01:25:20.14 01:25:21.13  Duration 00:00:00.24  16
+É uma delícia.
+
+ 507: 01:25:24.12 01:25:26.03  Duration 00:00:01.16  28
+Quer provar?
+
+ 508: 01:25:26.07 01:25:28.08  Duration 00:00:02.01  35
+Vamos, veja. Prove isso.
+
+ 509: 01:25:28.12 01:25:30.02  Duration 00:00:01.15  27
+Aqui. Bom apetite,
+
+ 510: 01:25:30.06 01:25:31.23  Duration 00:00:01.17  29
+e até breve
+em# Histoire de se balader.#
+
+ 511: 01:25:32.02 01:25:33.23  Duration 00:00:01.21  31
+Não, brincadeira. É para mim.
+
+ 512: 01:26:01.00 01:26:03.24  Duration 00:00:02.24  50
+Adaptação: Adriana Gasparoni
+Legendagem: ECLAIR
+
