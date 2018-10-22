@@ -1,0 +1,3220 @@
+
+   1: 10:00:22.13 10:00:24.20  Durée 00:00:02.07  Lisibilité 34
+Tempo presente
+Programa de reportagens
+
+   2: 10:00:25.14 10:00:26.19  Durée 00:00:01.05  Lisibilité 18
+Boa noite a todos.
+
+   3: 10:00:26.23 10:00:29.01  Durée 00:00:02.03  Lisibilité 32
+A reportagem de hoje é a crônica
+
+   4: 10:00:29.05 10:00:31.21  Durée 00:00:02.16  Lisibilité 40
+de um escândalo doloroso
+que fez várias vítimas
+
+   5: 10:00:32.11 10:00:34.14  Durée 00:00:02.03  Lisibilité 32
+dilaceradas,
+em busca da verdade
+
+   6: 10:00:34.18 10:00:36.17  Durée 00:00:01.24  Lisibilité 29
+sobre um tema altamente cruel:
+
+   7: 10:00:36.21 10:00:38.22  Durée 00:00:02.01  Lisibilité 31
+quem são meus pais?
+Onde estão?
+
+   8: 10:00:39.01 10:00:41.10  Durée 00:00:02.09  Lisibilité 35
+São as crianças adotadas
+do Sri Lanka.
+
+   9: 10:00:41.15 10:00:43.03  Durée 00:00:01.13  Lisibilité 23
+Esse caso
+envolve a Suíça.
+
+  10: 10:00:43.07 10:00:47.07  Durée 00:00:04.00  Lisibilité 60
+Entre 1977 e 1988,
+ou seja, por mais de 10 anos,
+
+  11: 10:00:47.11 10:00:50.23  Durée 00:00:03.12  Lisibilité 52
+750 crianças provenientes
+do Sri Lanka foram adotadas
+
+  12: 10:00:51.02 10:00:53.19  Durée 00:00:02.17  Lisibilité 40
+por suíços em condições
+no mínimo nebulosas.
+
+  13: 10:00:53.23 10:00:56.09  Durée 00:00:02.11  Lisibilité 37
+No melhor dos casos,
+os pais suíços não sabiam
+
+  14: 10:00:56.13 10:00:59.05  Durée 00:00:02.17  Lisibilité 40
+da origem dos bebês
+nem dos pais biológicos
+
+  15: 10:00:59.09 10:01:00.04  Durée 00:00:00.20  Lisibilité 12
+nem das condições
+
+  16: 10:01:00.08 10:01:02.11  Durée 00:00:02.03  Lisibilité 32
+em que eram dados
+a intermediários.
+
+  17: 10:01:02.15 10:01:05.12  Durée 00:00:02.22  Lisibilité 43
+Hoje sabemos
+que traficantes sem escrúpulos
+
+  18: 10:01:05.16 10:01:07.20  Durée 00:00:02.04  Lisibilité 32
+tinham montado fazendas de bebês
+
+  19: 10:01:07.24 10:01:11.04  Durée 00:00:03.05  Lisibilité 48
+onde se tirava de mães impotentes
+seu filho
+
+  20: 10:01:11.08 10:01:12.10  Durée 00:00:01.02  Lisibilité 16
+por poucas rúpias.
+
+  21: 10:01:12.14 10:01:15.22  Durée 00:00:03.08  Lisibilité 50
+Elas pensavam que os reveriam.
+A maioria perdeu a pista.
+
+  22: 10:01:16.01 10:01:19.19  Durée 00:00:03.18  Lisibilité 56
+Certos pais suíços, não todos,
+preferiram ignorar,
+
+  23: 10:01:19.23 10:01:23.10  Durée 00:00:03.12  Lisibilité 52
+apressados em voltar para a Suíça
+com seu bebê adotado.
+
+  24: 10:01:23.21 10:01:26.07  Durée 00:00:02.11  Lisibilité 37
+Hoje, Sarah,
+Olivia, Nathalie e outros,
+
+  25: 10:01:26.11 10:01:29.04  Durée 00:00:02.18  Lisibilité 41
+todos crianças do Sri Lanka
+já adultos,
+
+  26: 10:01:29.08 10:01:30.06  Durée 00:00:00.23  Lisibilité 14
+pedem satisfações.
+
+  27: 10:01:30.10 10:01:32.20  Durée 00:00:02.10  Lisibilité 36
+Tirados do seu país,
+dos pais biológicos,
+
+  28: 10:01:32.24 10:01:34.15  Durée 00:00:01.16  Lisibilité 25
+querem reencontrar
+sua origem,
+
+  29: 10:01:34.19 10:01:36.14  Durée 00:00:01.20  Lisibilité 27
+entender como foi possível.
+
+  30: 10:01:36.18 10:01:38.23  Durée 00:00:02.05  Lisibilité 33
+Sobretudo
+como as autoridades suíças
+
+  31: 10:01:39.02 10:01:41.12  Durée 00:00:02.10  Lisibilité 36
+puderam ignorar esse tráfico
+
+  32: 10:01:41.16 10:01:42.17  Durée 00:00:01.01  Lisibilité 16
+ou reagir devagar.
+
+  33: 10:01:42.21 10:01:46.13  Durée 00:00:03.17  Lisibilité 55
+Vejam, é uma reportagem
+de Madeleine Brot e Xavier Nicol.
+
+  34: 10:01:52.18 10:01:55.20  Durée 00:00:03.02  Lisibilité 46
+#Sarah nasceu no Sri Lanka
+há 37 anos.#
+
+  35: 10:01:55.24 10:01:59.13  Durée 00:00:03.14  Lisibilité 53
+#Quando um casal suíço alemão
+a adotou, ela tinha 1 mês.#
+
+  36: 10:01:59.17 10:02:02.14  Durée 00:00:02.22  Lisibilité 43
+#Por muito tempo,
+ela não pensou em sua origem,#
+
+  37: 10:02:02.18 10:02:06.02  Durée 00:00:03.09  Lisibilité 50
+#mas, aos poucos,
+a necessidade de buscar suas raízes#
+
+  38: 10:02:06.07 10:02:07.24  Durée 00:00:01.17  Lisibilité 25
+#tornou-se vital.#
+
+  39: 10:02:09.02 10:02:13.12  Durée 00:00:04.10  Lisibilité 66
+É um processo que se deflora
+ao longo dos anos.
+
+  40: 10:02:13.16 10:02:16.06  Durée 00:00:02.15  Lisibilité 39
+É como pequenas agulhas
+
+  41: 10:02:16.20 10:02:20.04  Durée 00:00:03.09  Lisibilité 50
+que espetam você em alguns momentos
+
+  42: 10:02:20.08 10:02:21.19  Durée 00:00:01.11  Lisibilité 22
+e...
+
+  43: 10:02:21.24 10:02:25.12  Durée 00:00:03.13  Lisibilité 53
+você não pensa muito
+por que elas lhe fazem mal.
+
+  44: 10:02:25.16 10:02:27.01  Durée 00:00:01.10  Lisibilité 21
+Com o tempo,
+
+  45: 10:02:27.06 10:02:30.24  Durée 00:00:03.18  Lisibilité 56
+eu notei, e também
+com minha profissão de parteira,
+
+  46: 10:02:31.03 10:02:33.09  Durée 00:00:02.06  Lisibilité 34
+vi tantos partos,
+
+  47: 10:02:33.13 10:02:37.18  Durée 00:00:04.05  Lisibilité 63
+acompanhei tantos momentos mágicos,
+
+  48: 10:02:37.22 10:02:40.22  Durée 00:00:03.00  Lisibilité 45
+em que uma mãe pega seu bebê
+nos braços,
+
+  49: 10:02:41.01 10:02:42.16  Durée 00:00:01.15  Lisibilité 24
+e isso,
+eu nunca vivenciei.
+
+  50: 10:02:42.20 10:02:45.18  Durée 00:00:02.23  Lisibilité 44
+Ninguém me contou todas essas emoções.
+
+  51: 10:02:45.23 10:02:49.07  Durée 00:00:03.09  Lisibilité 50
+Esse é seu álbum
+com as fotos de turma.
+
+  52: 10:02:50.24 10:02:52.23  Durée 00:00:01.24  Lisibilité 29
+#Essa falta só fez aumentar.#
+
+  53: 10:02:53.02 10:02:55.00  Durée 00:00:01.23  Lisibilité 29
+#Ainda por com seus pais adotivos#
+
+  54: 10:02:55.04 10:02:57.03  Durée 00:00:01.24  Lisibilité 29
+#as relações não serem boas.#
+
+  55: 10:02:57.07 10:02:58.19  Durée 00:00:01.12  Lisibilité 22
+#É ao fundar sua família#
+
+  56: 10:02:58.23 10:03:01.11  Durée 00:00:02.13  Lisibilité 38
+#que ela acha forças
+para encarar o passado.#
+
+  57: 10:03:05.14 10:03:09.16  Durée 00:00:04.02  Lisibilité 61
+A estabilidade que meu marido
+e meus filhos me deram
+
+  58: 10:03:10.15 10:03:12.20  Durée 00:00:02.05  Lisibilité 33
+me possibilitou me soltar
+
+  59: 10:03:12.24 10:03:14.15  Durée 00:00:01.16  Lisibilité 25
+e me aprofundar.
+
+  60: 10:03:14.19 10:03:18.04  Durée 00:00:03.10  Lisibilité 51
+Foi aí que surgiu a necessidade
+
+  61: 10:03:18.08 10:03:22.01  Durée 00:00:03.18  Lisibilité 56
+de procurar de onde vim.
+
+  62: 10:03:22.05 10:03:25.15  Durée 00:00:03.10  Lisibilité 51
+As crianças começaram a perguntar:
+
+  63: 10:03:25.19 10:03:29.17  Durée 00:00:03.23  Lisibilité 59
+"Mas mão, e a sua mãe?
+Onde está minha avó?
+
+  64: 10:03:29.22 10:03:32.00  Durée 00:00:02.03  Lisibilité 32
+"Você tem irmãos, irmãs?"
+
+  65: 10:03:32.20 10:03:34.19  Durée 00:00:01.24  Lisibilité 29
+E você não tem resposta.
+
+  66: 10:03:37.16 10:03:40.06  Durée 00:00:02.15  Lisibilité 39
+#Sarah não sabe nada
+dessa mãe cingalesa#
+
+  67: 10:03:40.10 10:03:42.14  Durée 00:00:02.04  Lisibilité 32
+#nem por que ela a abandonou.#
+
+  68: 10:03:42.18 10:03:44.09  Durée 00:00:01.16  Lisibilité 25
+#Das primeiras
+semanas de vida#
+
+  69: 10:03:44.13 10:03:47.03  Durée 00:00:02.15  Lisibilité 39
+#ela só tem uma foto
+em preto e branco.#
+
+  70: 10:03:47.22 10:03:51.12  Durée 00:00:03.15  Lisibilité 54
+#E ela nem está segura
+de que esse bebê é mesmo ela.#
+
+  71: 10:03:56.08 10:04:00.10  Durée 00:00:04.02  Lisibilité 61
+#Em março de 2017, Sarah
+sai em busca das duas origens.#
+
+  72: 10:04:00.14 10:04:02.05  Durée 00:00:01.16  Lisibilité 25
+#Mas a viagem vira pesadelo.#
+
+  73: 10:04:02.20 10:04:05.23  Durée 00:00:03.03  Lisibilité 47
+#Ela descobre que seus documentos
+foram falsificados.#
+
+  74: 10:04:06.02 10:04:08.19  Durée 00:00:02.17  Lisibilité 40
+#No Sri Lanka,
+ela não existe em lugar nenhum.#
+
+  75: 10:04:09.16 10:04:14.12  Durée 00:00:04.21  Lisibilité 73
+Os bebês roubados do Sri Lanka
+um escândalo suíço
+
+  76: 10:04:25.15 10:04:27.21  Durée 00:00:02.06  Lisibilité 34
+#É nesse bairro pobre
+de Colombo#
+
+  77: 10:04:28.00 10:04:30.06  Durée 00:00:02.06  Lisibilité 34
+#que ela acha enfim
+o endereço da mulher#
+
+  78: 10:04:30.10 10:04:32.16  Durée 00:00:02.06  Lisibilité 34
+#que está
+na sua certidão de nascimento.#
+
+  79: 10:04:33.05 10:04:34.22  Durée 00:00:01.17  Lisibilité 25
+#Em dezembro de 2017,#
+
+  80: 10:04:35.01 10:04:36.23  Durée 00:00:01.22  Lisibilité 28
+#ela bate à porta dela.#
+
+  81: 10:04:38.06 10:04:40.00  Durée 00:00:01.19  Lisibilité 26
+Nós chegamos
+
+  82: 10:04:40.04 10:04:41.09  Durée 00:00:01.05  Lisibilité 18
+a essa casa,
+
+  83: 10:04:41.13 10:04:45.13  Durée 00:00:04.00  Lisibilité 60
+toda a família dentro, e...
+
+  84: 10:04:45.17 10:04:47.17  Durée 00:00:02.00  Lisibilité 30
+explicamos a situação:
+
+  85: 10:04:47.21 10:04:50.07  Durée 00:00:02.11  Lisibilité 37
+"Procuramos esta pessoa."
+
+  86: 10:04:50.11 10:04:52.19  Durée 00:00:02.08  Lisibilité 35
+Aí ela veio com seu passaporte
+e disse:
+
+  87: 10:04:52.23 10:04:53.24  Durée 00:00:01.01  Lisibilité 16
+"Sou eu mesma."
+
+  88: 10:04:54.04 10:04:57.11  Durée 00:00:03.07  Lisibilité 49
+Ela logo disse:
+"Não sou sua mãe."
+
+  89: 10:04:59.23 10:05:03.03  Durée 00:00:03.05  Lisibilité 48
+#Mas Sarah se sente bem
+com essa mulher calorosa.#
+
+  90: 10:05:03.07 10:05:05.05  Durée 00:00:01.23  Lisibilité 29
+#Ela tem certeza
+que é sua mãe,#
+
+  91: 10:05:05.09 10:05:07.23  Durée 00:00:02.14  Lisibilité 38
+#mas que não ousa dizer
+diante da família.#
+
+  92: 10:05:10.22 10:05:13.05  Durée 00:00:02.08  Lisibilité 35
+Eu não quis acreditar
+e disse a ela:
+
+  93: 10:05:13.09 10:05:15.12  Durée 00:00:02.03  Lisibilité 32
+"Mas preciso de um teste de DNA."
+
+  94: 10:05:15.17 10:05:19.13  Durée 00:00:03.21  Lisibilité 58
+Ela concordou em ir comigo
+a um laboratório,
+
+  95: 10:05:19.17 10:05:24.14  Durée 00:00:04.22  Lisibilité 73
+e fizemos o teste de DNA
+com exame de sangue.
+
+  96: 10:05:25.06 10:05:27.18  Durée 00:00:02.12  Lisibilité 37
+Eu quis acreditar
+que era minha mãe.
+
+  97: 10:05:27.22 10:05:29.08  Durée 00:00:01.11  Lisibilité 22
+E também nas fotos
+
+  98: 10:05:30.17 10:05:33.08  Durée 00:00:02.16  Lisibilité 40
+procuramos todos os detalhes:
+
+  99: 10:05:33.12 10:05:37.00  Durée 00:00:03.13  Lisibilité 53
+os olhos, o nariz,
+a testa, a boca...
+
+ 100: 10:05:37.04 10:05:40.16  Durée 00:00:03.12  Lisibilité 52
+Eu quis acreditar
+que era a minha família,
+
+ 101: 10:05:40.20 10:05:45.20  Durée 00:00:05.00  Lisibilité 75
+também para me dizer: "Agora
+você pode parar de procurar."
+
+ 102: 10:05:47.08 10:05:50.02  Durée 00:00:02.19  Lisibilité 41
+E quando eu voltei para a Suíça,
+
+ 103: 10:05:50.06 10:05:52.00  Durée 00:00:01.19  Lisibilité 26
+o resultado saiu
+
+ 104: 10:05:52.04 10:05:55.13  Durée 00:00:03.09  Lisibilité 50
+e deu 100% que ela não é
+minha mãe biológica.
+
+ 105: 10:05:58.14 10:06:01.06  Durée 00:00:02.17  Lisibilité 40
+#A mulher admite então
+o impensável a Sarah.#
+
+ 106: 10:06:01.10 10:06:04.02  Durée 00:00:02.17  Lisibilité 40
+#Ela fingiu ser sua mãe
+no tribunal.#
+
+ 107: 10:06:04.06 10:06:07.02  Durée 00:00:02.21  Lisibilité 43
+#Uma desconhecida
+lhe deu uns cem dólares#
+
+ 108: 10:06:07.06 10:06:08.17  Durée 00:00:01.11  Lisibilité 22
+#para assinar os papéis.#
+
+ 109: 10:06:08.21 10:06:11.12  Durée 00:00:02.16  Lisibilité 40
+#Ela nem chegou a encontrar
+a verdadeira mãe.#
+
+ 110: 10:06:14.21 10:06:17.08  Durée 00:00:02.12  Lisibilité 37
+Minha primeira reação foi:
+
+ 111: 10:06:17.12 10:06:19.18  Durée 00:00:02.06  Lisibilité 34
+"Agora preciso aceitar
+
+ 112: 10:06:19.22 10:06:22.11  Durée 00:00:02.14  Lisibilité 38
+"que jamais encontrarei
+minha família."
+
+ 113: 10:06:23.18 10:06:24.18  Durée 00:00:01.00  Lisibilité 15
+E desabei,
+
+ 114: 10:06:24.22 10:06:27.09  Durée 00:00:02.12  Lisibilité 37
+fiquei realmente doente
+por uma semana,
+
+ 115: 10:06:27.13 10:06:28.18  Durée 00:00:01.05  Lisibilité 18
+e sofri muito.
+
+ 116: 10:06:28.22 10:06:33.22  Durée 00:00:05.00  Lisibilité 75
+Era uma dor interior no corpo.
+
+ 117: 10:06:35.08 10:06:37.00  Durée 00:00:01.17  Lisibilité 25
+E aí eu me toquei
+
+ 118: 10:06:37.05 10:06:40.07  Durée 00:00:03.02  Lisibilité 46
+que essa grande ferida
+era muito profunda.
+
+ 119: 10:06:43.16 10:06:44.12  Durée 00:00:00.21  Lisibilité 13
+#Como Sarah,#
+
+ 120: 10:06:44.16 10:06:48.11  Durée 00:00:03.20  Lisibilité 57
+#Olivia também busca desesperadamente
+sua família cingalesa.#
+
+ 121: 10:06:52.05 10:06:54.23  Durée 00:00:02.18  Lisibilité 41
+#Elas se encontraram
+graças a um teste DNA.#
+
+ 122: 10:06:55.02 10:06:58.00  Durée 00:00:02.23  Lisibilité 44
+#Ele revelou
+que elas são primas distantes.#
+
+ 123: 10:07:05.11 10:07:08.19  Durée 00:00:03.08  Lisibilité 50
+Foi uma coincidência muito feliz.
+
+ 124: 10:07:08.24 10:07:11.11  Durée 00:00:02.12  Lisibilité 37
+Crescemos na mesma cultura,
+
+ 125: 10:07:11.16 10:07:12.19  Durée 00:00:01.03  Lisibilité 17
+falamos
+a mesma língua.
+
+ 126: 10:07:12.23 10:07:15.00  Durée 00:00:02.02  Lisibilité 31
+Assim,
+somos muito mais próximas.
+
+ 127: 10:07:17.02 10:07:18.02  Durée 00:00:01.00  Lisibilité 15
+Quando você não conhece
+
+ 128: 10:07:18.06 10:07:21.08  Durée 00:00:03.02  Lisibilité 46
+ninguém do mesmo sangue,
+pode parecer vago,
+
+ 129: 10:07:21.12 10:07:23.13  Durée 00:00:02.01  Lisibilité 31
+mas você pensa que caiu do céu.
+
+ 130: 10:07:25.08 10:07:26.09  Durée 00:00:01.01  Lisibilité 16
+Não é racional,
+
+ 131: 10:07:26.13 10:07:29.17  Durée 00:00:03.04  Lisibilité 47
+mas ter a prova
+de que tem um parentesco qualquer
+
+ 132: 10:07:29.21 10:07:32.02  Durée 00:00:02.06  Lisibilité 34
+dá a certeza
+de que você tem família
+
+ 133: 10:07:32.06 10:07:34.09  Durée 00:00:02.03  Lisibilité 32
+e de que ela talvez ainda exista.
+
+ 134: 10:07:39.19 10:07:42.16  Durée 00:00:02.22  Lisibilité 43
+#O sentimento de vir de lugar nenhum
+pesou em Olivia#
+
+ 135: 10:07:42.21 10:07:44.11  Durée 00:00:01.15  Lisibilité 24
+#por toda a sua juventude.#
+
+ 136: 10:07:44.15 10:07:46.23  Durée 00:00:02.08  Lisibilité 35
+#Mas ela cresceu
+na região de Zurique#
+
+ 137: 10:07:47.03 10:07:49.03  Durée 00:00:02.00  Lisibilité 30
+#com pais adotivos amorosos.#
+
+ 138: 10:07:52.23 10:07:53.22  Durée 00:00:00.24  Lisibilité 14
+#É aos 30 anos,#
+
+ 139: 10:07:54.01 10:07:57.02  Durée 00:00:03.01  Lisibilité 46
+#lendo um artigo
+sobre o trauma da adoção,#
+
+ 140: 10:07:57.06 10:08:00.09  Durée 00:00:03.03  Lisibilité 47
+#que pôde enfim reconhecer
+seu profundo desconforto.#
+
+ 141: 10:08:06.21 10:08:08.21  Durée 00:00:02.00  Lisibilité 30
+Eu realmente me identifiquei.
+
+ 142: 10:08:09.10 10:08:11.00  Durée 00:00:01.15  Lisibilité 24
+Fiquei muito chocada.
+
+ 143: 10:08:11.04 10:08:13.18  Durée 00:00:02.14  Lisibilité 38
+Isso me ensinou tanto
+sobre mim mesma.
+
+ 144: 10:08:15.02 10:08:17.04  Durée 00:00:02.02  Lisibilité 31
+Pude me livrar de muita vergonha
+
+ 145: 10:08:17.08 10:08:19.06  Durée 00:00:01.23  Lisibilité 29
+que tinha acumulado até então.
+
+ 146: 10:08:20.11 10:08:21.22  Durée 00:00:01.11  Lisibilité 22
+Por que vergonha?
+
+ 147: 10:08:23.02 10:08:26.13  Durée 00:00:03.11  Lisibilité 52
+Porque sempre pensei
+que eu tinha um problema...
+
+ 148: 10:08:30.04 10:08:32.22  Durée 00:00:02.18  Lisibilité 41
+que tinha algo errado
+ou que era má pessoa
+
+ 149: 10:08:33.01 10:08:35.07  Durée 00:00:02.06  Lisibilité 34
+por ter os sentimentos
+que eu tinha.
+
+ 150: 10:08:38.13 10:08:40.06  Durée 00:00:01.18  Lisibilité 26
+De repente,
+havia explicação.
+
+ 151: 10:08:40.10 10:08:42.18  Durée 00:00:02.08  Lisibilité 35
+Eu soube que era natural.
+
+ 152: 10:08:43.11 10:08:44.12  Durée 00:00:01.01  Lisibilité 16
+Desculpe.
+
+ 153: 10:08:45.14 10:08:47.02  Durée 00:00:01.13  Lisibilité 23
+Soube que o que eu sinto
+
+ 154: 10:08:47.06 10:08:49.13  Durée 00:00:02.07  Lisibilité 34
+é consequência natural
+da separação,
+
+ 155: 10:08:49.17 10:08:52.01  Durée 00:00:02.09  Lisibilité 35
+do que me aconteceu ao nascer.
+
+ 156: 10:08:54.23 10:08:58.02  Durée 00:00:03.04  Lisibilité 47
+#Há 2 anos, essa conscientização
+lhe dá coragem#
+
+ 157: 10:08:58.07 10:09:01.15  Durée 00:00:03.08  Lisibilité 50
+#para ir sozinha ao Sri Lanka
+em busca de suas origens.#
+
+ 158: 10:09:02.14 10:09:03.15  Durée 00:00:01.01  Lisibilité 16
+#Mas ela logo vê#
+
+ 159: 10:09:03.19 10:09:06.04  Durée 00:00:02.10  Lisibilité 36
+#que não há vestígios
+do seu nascimento.#
+
+ 160: 10:09:10.18 10:09:14.01  Durée 00:00:03.08  Lisibilité 50
+Segui tudo que havia
+na minha certidão de nascimento:
+
+ 161: 10:09:14.05 10:09:16.07  Durée 00:00:02.02  Lisibilité 31
+o nome da mãe,
+a data de nascimento,
+
+ 162: 10:09:16.11 10:09:18.06  Durée 00:00:01.20  Lisibilité 27
+o registro da maternidade
+
+ 163: 10:09:18.11 10:09:20.02  Durée 00:00:01.16  Lisibilité 25
+onde supostamente nasci.
+
+ 164: 10:09:20.06 10:09:22.12  Durée 00:00:02.06  Lisibilité 34
+Fui até à aldeia natal
+da minha mãe.
+
+ 165: 10:09:22.16 10:09:25.14  Durée 00:00:02.23  Lisibilité 44
+Fui verificar, mas eram impasses.
+
+ 166: 10:09:26.20 10:09:29.16  Durée 00:00:02.21  Lisibilité 43
+Ninguém sabia nada
+das informações que eu tinha.
+
+ 167: 10:09:34.08 10:09:35.20  Durée 00:00:01.12  Lisibilité 22
+#Sarah e Olivia
+fazem parte#
+
+ 168: 10:09:35.24 10:09:39.22  Durée 00:00:03.23  Lisibilité 59
+#dos 750 bebês adotadas por suíços
+nos anos 80.#
+
+ 169: 10:09:42.07 10:09:43.05  Durée 00:00:00.23  Lisibilité 14
+#Em plena guerra civil,#
+
+ 170: 10:09:43.09 10:09:46.20  Durée 00:00:03.11  Lisibilité 52
+#o Sri Lanka virou
+um eldorado para adoção.#
+
+ 171: 10:09:46.24 10:09:47.23  Durée 00:00:00.24  Lisibilité 14
+#No total,#
+
+ 172: 10:09:48.02 10:09:50.01  Durée 00:00:01.24  Lisibilité 29
+#11 mil bebês
+foram para a Europa.#
+
+ 173: 10:09:52.20 10:09:56.03  Durée 00:00:03.08  Lisibilité 50
+#A maioria dos casais
+apelavam para agências privadas#
+
+ 174: 10:09:56.08 10:09:58.22  Durée 00:00:02.14  Lisibilité 38
+#que ofereciam adoção rápida
+à la carte,#
+
+ 175: 10:09:59.02 10:10:01.24  Durée 00:00:02.22  Lisibilité 43
+#podendo escolher o sexo,
+a idade e até um bebê#
+
+ 176: 10:10:02.08 10:10:04.07  Durée 00:00:01.24  Lisibilité 29
+#com a pele mais clara.#
+
+ 177: 10:10:05.10 10:10:08.02  Durée 00:00:02.17  Lisibilité 40
+Arquivos Zembla
+
+ 178: 10:10:09.03 10:10:10.02  Durée 00:00:00.24  Lisibilité 14
+Adoções Sri Lanka:
+
+ 179: 10:10:10.06 10:10:13.17  Durée 00:00:03.11  Lisibilité 52
+#Para os casais suíços,
+havia vários canais possíveis.#
+
+ 180: 10:10:13.21 10:10:15.08  Durée 00:00:01.12  Lisibilité 22
+Canal "estatal"
+Canal "Honegger"
+
+ 181: 10:10:15.12 10:10:18.04  Durée 00:00:02.17  Lisibilité 40
+Canal "de Silva"
+
+ 182: 10:10:18.18 10:10:21.15  Durée 00:00:02.22  Lisibilité 43
+#Os orfanatos estatais
+ou mantidos por religiosas#
+
+ 183: 10:10:21.19 10:10:24.16  Durée 00:00:02.22  Lisibilité 43
+#mas com poucos bebês
+e muita espera.#
+
+ 184: 10:10:25.24 10:10:28.17  Durée 00:00:02.18  Lisibilité 41
+#Assim, 2 canais privados
+se impuseram.#
+
+ 185: 10:10:28.21 10:10:30.08  Durée 00:00:01.12  Lisibilité 22
+#Na Suíça, Alice Honegger,#
+
+ 186: 10:10:30.12 10:10:33.00  Durée 00:00:02.13  Lisibilité 38
+#intermediária oficial
+baseada em Saint-Gall.#
+
+ 187: 10:10:33.18 10:10:35.18  Durée 00:00:02.00  Lisibilité 30
+#No Sri Lanka, Dawn de Silva,#
+
+ 188: 10:10:35.22 10:10:38.16  Durée 00:00:02.19  Lisibilité 41
+#um canal paralelo
+diretamente em Colombo.#
+
+ 189: 10:10:40.19 10:10:43.08  Durée 00:00:02.14  Lisibilité 38
+#Cada uma trabalhava
+com seus advogados#
+
+ 190: 10:10:43.12 10:10:46.17  Durée 00:00:03.05  Lisibilité 48
+#para legalizar as adoções
+com falsas mães.#
+
+ 191: 10:10:48.09 10:10:49.23  Durée 00:00:01.14  Lisibilité 23
+#Redes de fornecedores#
+
+ 192: 10:10:50.03 10:10:51.20  Durée 00:00:01.17  Lisibilité 25
+#procuravam bebês
+por qualquer meio.#
+
+ 193: 10:10:51.24 10:10:53.20  Durée 00:00:01.21  Lisibilité 28
+#Vasculhavam
+aldeias e maternidades#
+
+ 194: 10:10:53.24 10:10:57.00  Durée 00:00:03.01  Lisibilité 46
+#por uma centena de quilômetros
+em torno de Colombo.#
+
+ 195: 10:10:57.04 10:10:58.21  Durée 00:00:01.17  Lisibilité 25
+Redes de fornecedores
+
+ 196: 10:11:00.02 10:11:03.20  Durée 00:00:03.18  Lisibilité 56
+#Seu alvo: mães solteiras.
+Às vezes, os bebês eram comprados#
+
+ 197: 10:11:04.00 10:11:05.23  Durée 00:00:01.23  Lisibilité 29
+#por algumas dezenas de dólares.#
+
+ 198: 10:11:06.03 10:11:08.04  Durée 00:00:02.01  Lisibilité 31
+#Alguns eram roubados da mãe#
+
+ 199: 10:11:08.08 10:11:09.22  Durée 00:00:01.14  Lisibilité 23
+#ou abandonados
+por coação.#
+
+ 200: 10:11:12.14 10:11:15.08  Durée 00:00:02.19  Lisibilité 41
+#Alice Honegger montou
+no mínimo 200 adoções,#
+
+ 201: 10:11:15.12 10:11:17.20  Durée 00:00:02.08  Lisibilité 35
+#principalmente na Suíça alemânica.#
+
+ 202: 10:11:20.22 10:11:21.19  Durée 00:00:00.22  Lisibilité 13
+#Na Suíça romanda,#
+
+ 203: 10:11:21.23 10:11:24.19  Durée 00:00:02.21  Lisibilité 43
+#os casais trocavam o contato
+de Dawn de Silva.#
+
+ 204: 10:11:24.23 10:11:29.01  Durée 00:00:04.03  Lisibilité 62
+#Mais de 350 crianças teriam chegado
+à Suíça por intermédio dela.#
+
+ 205: 10:11:35.11 10:11:37.02  Durée 00:00:01.16  Lisibilité 25
+#Denis e Monika Weissbrodt,#
+
+ 206: 10:11:37.06 10:11:39.23  Durée 00:00:02.17  Lisibilité 40
+#hoje aposentados
+no interior bernense,#
+
+ 207: 10:11:40.02 10:11:43.05  Durée 00:00:03.03  Lisibilité 47
+#foram os únicos que aceitaram
+falar dessa época.#
+
+ 208: 10:11:47.11 10:11:48.22  Durée 00:00:01.11  Lisibilité 22
+#Em 1985,#
+
+ 209: 10:11:49.02 10:11:51.03  Durée 00:00:02.01  Lisibilité 31
+#os Weissbrodt
+viviam em Colombier.#
+
+ 210: 10:11:52.00 10:11:55.16  Durée 00:00:03.16  Lisibilité 55
+#Já pais de dois meninos,
+eles querem adotar uma menina,#
+
+ 211: 10:11:55.20 10:11:57.23  Durée 00:00:02.03  Lisibilité 32
+#e ouvem falar do Sri Lanka.#
+
+ 212: 10:11:59.02 10:12:01.17  Durée 00:00:02.15  Lisibilité 39
+Tínhamos um casal de amigos,
+
+ 213: 10:12:02.15 10:12:07.06  Durée 00:00:04.16  Lisibilité 70
+e um dia eles apareceram
+com um bebê cingalês.
+
+ 214: 10:12:07.10 10:12:08.17  Durée 00:00:01.07  Lisibilité 19
+Ele era fofo.
+
+ 215: 10:12:08.21 10:12:12.17  Durée 00:00:03.21  Lisibilité 58
+Isso nos deu vontade
+de ter uma filhinha assim.
+
+ 216: 10:12:13.02 10:12:17.13  Durée 00:00:04.11  Lisibilité 67
+E depois, foi graças a esse casal
+que vocês entraram em contato
+
+ 217: 10:12:17.19 10:12:18.18  Durée 00:00:00.24  Lisibilité 14
+com a Sra. de Silva?
+
+ 218: 10:12:18.22 10:12:19.19  Durée 00:00:00.22  Lisibilité 13
+Exatamente.
+
+ 219: 10:12:19.23 10:12:22.21  Durée 00:00:02.23  Lisibilité 44
+Escrevemos
+a essa senhora Dawn de Silva,
+
+ 220: 10:12:23.01 10:12:27.01  Durée 00:00:04.00  Lisibilité 60
+e ela nos respondeu
+que era perfeitamente viável,
+
+ 221: 10:12:27.20 10:12:30.20  Durée 00:00:03.00  Lisibilité 45
+e que se quiséssemos uma menina,
+
+ 222: 10:12:30.24 10:12:34.21  Durée 00:00:03.22  Lisibilité 58
+podíamos ter um bebezinho,
+e foi assim que começou.
+
+ 223: 10:12:35.14 10:12:36.24  Durée 00:00:01.10  Lisibilité 21
+#Eles esperam 10 meses.#
+
+ 224: 10:12:37.03 10:12:38.06  Durée 00:00:01.03  Lisibilité 17
+#Nesse intervalo,#
+
+ 225: 10:12:38.11 10:12:41.02  Durée 00:00:02.16  Lisibilité 40
+#o bebê prometido a eles
+muda 3 vezes.#
+
+ 226: 10:12:42.04 10:12:44.08  Durée 00:00:02.04  Lisibilité 32
+Não lhes pareceu estranho?
+
+ 227: 10:12:44.12 10:12:47.01  Durée 00:00:02.14  Lisibilité 38
+Nós não nos tocamos.
+
+ 228: 10:12:47.05 10:12:50.00  Durée 00:00:02.20  Lisibilité 42
+Pensamos:
+"São crianças pobres."
+
+ 229: 10:12:50.04 10:12:54.24  Durée 00:00:04.20  Lisibilité 72
+E acho que em momento algum
+nós nos questionamos.
+
+ 230: 10:12:55.03 10:12:56.08  Durée 00:00:01.05  Lisibilité 18
+Não sei.
+
+ 231: 10:12:56.12 10:12:59.02  Durée 00:00:02.15  Lisibilité 39
+Como miss Dawn de Silva
+era advogada,
+
+ 232: 10:12:59.06 10:13:04.01  Durée 00:00:04.20  Lisibilité 72
+em relação a nossos critérios suíços,
+nós confiamos.
+
+ 233: 10:13:04.05 10:13:07.21  Durée 00:00:03.16  Lisibilité 55
+Em momento algum imaginamos
+que haveria coisas bizarras.
+
+ 234: 10:13:08.23 10:13:10.22  Durée 00:00:01.24  Lisibilité 29
+#Dawn de Silva não é advogada,#
+
+ 235: 10:13:11.01 10:13:12.13  Durée 00:00:01.12  Lisibilité 22
+#é agente de viagens.#
+
+ 236: 10:13:13.13 10:13:16.06  Durée 00:00:02.18  Lisibilité 41
+#Ela oferece um programa completo
+aos clientes,#
+
+ 237: 10:13:16.10 10:13:18.10  Durée 00:00:02.00  Lisibilité 30
+#hospedagem,
+transporte, tradução,#
+
+ 238: 10:13:18.14 10:13:20.23  Durée 00:00:02.09  Lisibilité 35
+#e, é claro, a criança para levar.#
+
+ 239: 10:13:24.06 10:13:26.19  Durée 00:00:02.13  Lisibilité 38
+#Sua família é influente
+e bem conectada.#
+
+ 240: 10:13:26.23 10:13:29.15  Durée 00:00:02.17  Lisibilité 40
+#Ela exige presentes
+para o processo avançar.#
+
+ 241: 10:13:30.23 10:13:35.20  Durée 00:00:04.22  Lisibilité 73
+Tínhamos de levar uísque,
+canetas...
+
+ 242: 10:13:37.15 10:13:39.20  Durée 00:00:02.05  Lisibilité 33
+Ah, sim, tinha chocolate.
+
+ 243: 10:13:39.24 10:13:42.03  Durée 00:00:02.04  Lisibilité 32
+E estava escrito: "18 tabletes."
+
+ 244: 10:13:43.01 10:13:44.13  Durée 00:00:01.12  Lisibilité 22
+E relógios.
+
+ 245: 10:13:47.04 10:13:48.10  Durée 00:00:01.06  Lisibilité 19
+Achamos estranho,
+
+ 246: 10:13:48.14 10:13:51.04  Durée 00:00:02.15  Lisibilité 39
+mas pensamos:
+"Eles funcionam diferente."
+
+ 247: 10:13:51.08 10:13:55.01  Durée 00:00:03.18  Lisibilité 56
+Era para os trâmites
+correrem mais facilmente,
+
+ 248: 10:13:55.05 10:13:58.15  Durée 00:00:03.10  Lisibilité 51
+então ela os presenteava.
+
+ 249: 10:13:58.19 10:14:00.15  Durée 00:00:01.21  Lisibilité 28
+Era assim que acontecia.
+
+ 250: 10:14:00.19 10:14:04.00  Durée 00:00:03.06  Lisibilité 49
+Mais uma vez, pensamos:
+"São os costumes deles.
+
+ 251: 10:14:04.04 10:14:05.10  Durée 00:00:01.06  Lisibilité 19
+"São seus hábitos."
+
+ 252: 10:14:05.15 10:14:07.09  Durée 00:00:01.19  Lisibilité 26
+Dawn de Silva
+Colombo
+
+ 253: 10:14:07.13 10:14:10.11  Durée 00:00:02.23  Lisibilité 44
+#Eles gastam uns 500 dólares
+em presentes.#
+
+ 254: 10:14:10.24 10:14:12.09  Durée 00:00:01.10  Lisibilité 21
+#E antes de voltar,#
+
+ 255: 10:14:12.13 10:14:15.06  Durée 00:00:02.18  Lisibilité 41
+#ainda precisam pagar
+1.500 dólares.#
+
+ 256: 10:14:15.10 10:14:16.22  Durée 00:00:01.12  Lisibilité 22
+#Contando as passagens,#
+
+ 257: 10:14:17.01 10:14:21.05  Durée 00:00:04.04  Lisibilité 62
+#o custo total de uma adoção
+chega a cerca de 5 mil dólares.#
+
+ 258: 10:14:26.01 10:14:27.17  Durée 00:00:01.16  Lisibilité 25
+#Ao chegar a Colombo,#
+
+ 259: 10:14:27.21 10:14:29.15  Durée 00:00:01.19  Lisibilité 26
+#os Weissbrodt são levados#
+
+ 260: 10:14:29.19 10:14:31.13  Durée 00:00:01.19  Lisibilité 26
+#para receber
+o bebê prometido.#
+
+ 261: 10:14:33.21 10:14:37.00  Durée 00:00:03.04  Lisibilité 47
+Paramos diante
+de um grande portão de ferro.
+
+ 262: 10:14:37.05 10:14:39.14  Durée 00:00:02.09  Lisibilité 35
+Não podíamos ver por cima dele.
+
+ 263: 10:14:39.18 10:14:42.14  Durée 00:00:02.21  Lisibilité 43
+Ele se abriu, e aí, vimos moças
+
+ 264: 10:14:42.18 10:14:44.06  Durée 00:00:01.13  Lisibilité 23
+chegando uma após a outra
+
+ 265: 10:14:44.10 10:14:47.17  Durée 00:00:03.07  Lisibilité 49
+com bebês nos braços.
+
+ 266: 10:14:47.21 10:14:50.23  Durée 00:00:03.02  Lisibilité 46
+Crianças pequenas,
+tinha até um irmão e uma irmã,
+
+ 267: 10:14:51.02 10:14:53.04  Durée 00:00:02.02  Lisibilité 31
+a irmã um pouco maior.
+
+ 268: 10:14:53.14 10:14:55.20  Durée 00:00:02.06  Lisibilité 34
+E no final,
+
+ 269: 10:14:55.24 10:14:59.11  Durée 00:00:03.12  Lisibilité 52
+miss Dawn chegou com outra menina,
+
+ 270: 10:14:59.15 10:15:01.19  Durée 00:00:02.04  Lisibilité 32
+veio até nós
+- sentados na frente -
+
+ 271: 10:15:01.23 10:15:04.02  Durée 00:00:02.04  Lisibilité 32
+e ela nos deu
+nossa filha nas mãos
+
+ 272: 10:15:04.06 10:15:07.08  Durée 00:00:03.02  Lisibilité 46
+e disse: "Para vocês,
+é o bebê mais bonito."
+
+ 273: 10:15:07.12 10:15:10.15  Durée 00:00:03.03  Lisibilité 47
+É verdade
+que Sandy era quase branca,
+
+ 274: 10:15:10.19 10:15:13.01  Durée 00:00:02.07  Lisibilité 34
+comparada com as outras crianças.
+
+ 275: 10:15:13.05 10:15:16.12  Durée 00:00:03.07  Lisibilité 49
+E ela era realmente bem fofinha.
+
+ 276: 10:15:16.16 10:15:18.09  Durée 00:00:01.18  Lisibilité 26
+Foi assim que aconteceu.
+
+ 277: 10:15:18.13 10:15:21.22  Durée 00:00:03.09  Lisibilité 50
+Era o nosso primeiro encontro
+com nossa filha.
+
+ 278: 10:15:22.02 10:15:25.16  Durée 00:00:03.14  Lisibilité 53
+Eram as mães dos bebês
+que tinham saído?
+
+ 279: 10:15:25.20 10:15:29.04  Durée 00:00:03.09  Lisibilité 50
+Não, não acho que eram as mães.
+
+ 280: 10:15:29.08 10:15:31.14  Durée 00:00:02.06  Lisibilité 34
+Em momento algum
+pensamos que eram.
+
+ 281: 10:15:31.18 10:15:34.12  Durée 00:00:02.19  Lisibilité 41
+Acho que ram empregadas
+da miss Dawn.
+
+ 282: 10:15:36.06 10:15:37.11  Durée 00:00:01.05  Lisibilité 18
+Foi o que pensamos,
+
+ 283: 10:15:37.15 10:15:41.19  Durée 00:00:04.04  Lisibilité 62
+porque não deveríamos ver as mães.
+
+ 284: 10:15:44.16 10:15:47.07  Durée 00:00:02.16  Lisibilité 40
+#Os Weissbrodt
+hospedam-se no hotel com o bebê.#
+
+ 285: 10:15:48.05 10:15:51.22  Durée 00:00:03.17  Lisibilité 55
+#Precisam esperar 2 semanas
+pelos documentos prontos.#
+
+ 286: 10:15:52.21 10:15:53.20  Durée 00:00:00.24  Lisibilité 14
+#No tribunal,#
+
+ 287: 10:15:54.10 10:15:57.00  Durée 00:00:02.15  Lisibilité 39
+#uma mulher vem assinar
+o ato de adoção.#
+
+ 288: 10:15:57.04 10:15:58.07  Durée 00:00:01.03  Lisibilité 17
+Arquivos Zembla
+
+ 289: 10:15:58.24 10:16:02.02  Durée 00:00:03.03  Lisibilité 47
+Ela lhes pareceu
+ser mesmo a mãe de Sandy?
+
+ 290: 10:16:02.06 10:16:03.15  Durée 00:00:01.09  Lisibilité 20
+Não tínhamos dúvidas.
+
+ 291: 10:16:03.20 10:16:06.08  Durée 00:00:02.13  Lisibilité 38
+Nem nos passou pela cabeça
+
+ 292: 10:16:06.12 10:16:08.16  Durée 00:00:02.04  Lisibilité 32
+que poderia ser outra pessoa.
+
+ 293: 10:16:09.19 10:16:10.23  Durée 00:00:01.04  Lisibilité 17
+Sim...
+
+ 294: 10:16:12.09 10:16:15.17  Durée 00:00:03.08  Lisibilité 50
+#Hoje, sua filha Sandy
+vive na região parisiense.#
+
+ 295: 10:16:15.21 10:16:17.23  Durée 00:00:02.02  Lisibilité 31
+#Ela está para ser mãe.#
+
+ 296: 10:16:19.00 10:16:22.17  Durée 00:00:03.17  Lisibilité 55
+#Há 5 anos, ela saiu em busca
+da sua mãe biológica,#
+
+ 297: 10:16:22.21 10:16:25.09  Durée 00:00:02.13  Lisibilité 38
+#sozinha, para não magoar
+os pais adotivos,#
+
+ 298: 10:16:25.13 10:16:27.03  Durée 00:00:01.15  Lisibilité 24
+#de quem é muito próxima.#
+
+ 299: 10:16:28.15 10:16:30.10  Durée 00:00:01.20  Lisibilité 27
+#No Sri Lanka,
+Sandy descobriu#
+
+ 300: 10:16:30.14 10:16:32.15  Durée 00:00:02.01  Lisibilité 31
+#que nasceu de mãe solteira.#
+
+ 301: 10:16:33.12 10:16:34.21  Durée 00:00:01.09  Lisibilité 20
+#Sua tia a vendeu#
+
+ 302: 10:16:35.00 10:16:37.05  Durée 00:00:02.05  Lisibilité 33
+#nos fundos da sua mercearia.#
+
+ 303: 10:16:39.13 10:16:41.18  Durée 00:00:02.05  Lisibilité 33
+O que eu soube, na verdade,
+
+ 304: 10:16:41.22 10:16:45.15  Durée 00:00:03.18  Lisibilité 56
+é que minha família biológica
+pensava que eu estava no país,
+
+ 305: 10:16:45.19 10:16:47.06  Durée 00:00:01.12  Lisibilité 22
+porque no dia
+
+ 306: 10:16:47.10 10:16:48.10  Durée 00:00:01.00  Lisibilité 15
+da minha adoção,
+
+ 307: 10:16:48.14 10:16:51.06  Durée 00:00:02.17  Lisibilité 40
+que foi feita
+nos fundos dessa loja,
+
+ 308: 10:16:51.10 10:16:53.14  Durée 00:00:02.04  Lisibilité 32
+foi um homem que me buscou,
+
+ 309: 10:16:53.18 10:16:56.14  Durée 00:00:02.21  Lisibilité 43
+com quem fizeram a transação,
+
+ 310: 10:16:56.19 10:16:57.23  Durée 00:00:01.04  Lisibilité 17
+por assim dizer.
+
+ 311: 10:16:58.02 10:16:59.15  Durée 00:00:01.13  Lisibilité 23
+Pensaram
+que eu estava com ele.
+
+ 312: 10:16:59.19 10:17:02.14  Durée 00:00:02.20  Lisibilité 42
+Era um homem de negócios
+que tinha dinheiro,
+
+ 313: 10:17:02.19 10:17:04.23  Durée 00:00:02.04  Lisibilité 32
+então pensaram
+que eu ficaria bem.
+
+ 314: 10:17:06.16 10:17:08.13  Durée 00:00:01.22  Lisibilité 28
+#O homem era um fornecedor#
+
+ 315: 10:17:08.17 10:17:10.14  Durée 00:00:01.22  Lisibilité 28
+#da rede de Dawn de Silva,#
+
+ 316: 10:17:10.18 10:17:13.19  Durée 00:00:03.01  Lisibilité 46
+#e foi mesmo uma mãe falsa
+que assinou a adoção.#
+
+ 317: 10:17:13.23 10:17:17.10  Durée 00:00:03.12  Lisibilité 52
+Sim, é tráfico de crianças,
+portanto não é normal.
+
+ 318: 10:17:17.14 10:17:18.15  Durée 00:00:01.01  Lisibilité 16
+É...
+
+ 319: 10:17:20.20 10:17:22.19  Durée 00:00:01.24  Lisibilité 29
+Não se brinca
+com a vida alheia.
+
+ 320: 10:17:24.06 10:17:27.06  Durée 00:00:03.00  Lisibilité 45
+#Na época, os Weissbrodt
+não suspeitaram de nada.#
+
+ 321: 10:17:27.10 10:17:29.02  Durée 00:00:01.17  Lisibilité 25
+#Além disso,
+na embaixada suíça#
+
+ 322: 10:17:29.07 10:17:32.05  Durée 00:00:02.23  Lisibilité 44
+#eles recebem sem problemas
+o visto para o bebê.#
+
+ 323: 10:17:32.09 10:17:34.14  Durée 00:00:02.05  Lisibilité 33
+#Contudo, em 1985,#
+
+ 324: 10:17:34.18 10:17:36.18  Durée 00:00:02.00  Lisibilité 30
+#as autoridades suíças
+já sabiam#
+
+ 325: 10:17:36.23 10:17:40.02  Durée 00:00:03.04  Lisibilité 47
+#que muitos adotados
+tinham documentos suspeitos.#
+
+ 326: 10:17:40.06 10:17:43.17  Durée 00:00:03.11  Lisibilité 52
+Colombo, 14 de maio de 1985
+Encarregado de Assuntos da Suíça
+
+ 327: 10:17:45.01 10:17:46.00  Durée 00:00:00.24  Lisibilité 14
+Eles simplesmente
+
+ 328: 10:17:46.04 10:17:47.22  Durée 00:00:01.18  Lisibilité 26
+fecharam os olhos para isso.
+
+ 329: 10:17:48.01 10:17:49.24  Durée 00:00:01.23  Lisibilité 29
+Se nenhum adotante se queixou,
+
+ 330: 10:17:50.03 10:17:51.09  Durée 00:00:01.06  Lisibilité 19
+por que eles iriam
+
+ 331: 10:17:51.13 10:17:52.17  Durée 00:00:01.04  Lisibilité 17
+dar atenção?
+
+ 332: 10:17:54.23 10:17:58.05  Durée 00:00:03.07  Lisibilité 49
+No meu caso, a criança
+na foto do passaporte cingalês
+
+ 333: 10:17:58.09 10:18:01.06  Durée 00:00:02.22  Lisibilité 43
+que me permitiu sair do país
+
+ 334: 10:18:01.11 10:18:03.21  Durée 00:00:02.10  Lisibilité 36
+não se parece nem um pouco
+com a da foto
+
+ 335: 10:18:04.00 10:18:07.07  Durée 00:00:03.07  Lisibilité 49
+em que minha mãe me segura
+pela primeira vez.
+
+ 336: 10:18:13.15 10:18:15.20  Durée 00:00:02.05  Lisibilité 33
+E agora, olhando bem,
+é tão evidente.
+
+ 337: 10:18:16.12 10:18:17.19  Durée 00:00:01.07  Lisibilité 19
+Então me pergunto:
+
+ 338: 10:18:17.23 10:18:21.12  Durée 00:00:03.14  Lisibilité 53
+"Será que ninguém conferiu
+ou será que eles não ligavam?"
+
+ 339: 10:18:27.15 10:18:30.19  Durée 00:00:03.04  Lisibilité 47
+#Na época, no entanto,
+houve um denunciante.#
+
+ 340: 10:18:30.23 10:18:34.11  Durée 00:00:03.13  Lisibilité 53
+#Em 1984, Peter Sutter,
+jovem assistente social,#
+
+ 341: 10:18:34.15 10:18:36.14  Durée 00:00:01.24  Lisibilité 29
+#foi contratado
+por Alice Honegger.#
+
+ 342: 10:18:38.01 10:18:39.13  Durée 00:00:01.12  Lisibilité 22
+#Enviado para Colombo,#
+
+ 343: 10:18:39.17 10:18:41.22  Durée 00:00:02.05  Lisibilité 33
+#ele foi 2 vezes
+à embaixada suíça#
+
+ 344: 10:18:42.01 10:18:44.07  Durée 00:00:02.06  Lisibilité 34
+#para alertar
+a responsável por vistos.#
+
+ 345: 10:18:45.10 10:18:47.11  Durée 00:00:02.01  Lisibilité 31
+#Ele vê
+que mesmo em caso de dúvida#
+
+ 346: 10:18:47.15 10:18:48.17  Durée 00:00:01.02  Lisibilité 16
+#ela deixa passar.#
+
+ 347: 10:18:54.12 10:18:55.16  Durée 00:00:01.04  Lisibilité 17
+Ela disse ser só
+
+ 348: 10:18:55.20 10:18:58.12  Durée 00:00:02.17  Lisibilité 40
+uma executante
+para o Ofício Federal de Justiça,
+
+ 349: 10:18:58.16 10:18:59.20  Durée 00:00:01.04  Lisibilité 17
+e que ao apresentarem
+
+ 350: 10:18:59.24 10:19:00.24  Durée 00:00:01.00  Lisibilité 15
+um ato de adoção,
+
+ 351: 10:19:01.04 10:19:02.12  Durée 00:00:01.08  Lisibilité 20
+ela dava o visto.
+
+ 352: 10:19:03.16 10:19:06.10  Durée 00:00:02.19  Lisibilité 41
+Mas ela também teve casos
+em que a data
+
+ 353: 10:19:06.23 10:19:09.16  Durée 00:00:02.18  Lisibilité 41
+não correspondia
+à da certidão de nascimento
+
+ 354: 10:19:09.20 10:19:11.12  Durée 00:00:01.17  Lisibilité 25
+e ao ato de adoção.
+
+ 355: 10:19:12.07 10:19:13.24  Durée 00:00:01.17  Lisibilité 25
+Mas ela dava o visto
+
+ 356: 10:19:14.03 10:19:17.05  Durée 00:00:03.02  Lisibilité 46
+porque os pais adotivos
+não podiam fazer nada.
+
+ 357: 10:19:20.12 10:19:23.21  Durée 00:00:03.09  Lisibilité 50
+#Indignado com as práticas
+da embaixada do seu país,#
+
+ 358: 10:19:24.00 10:19:26.19  Durée 00:00:02.19  Lisibilité 41
+#Peter Sutter
+faz um relatório bem crítico.#
+
+ 359: 10:19:27.18 10:19:31.02  Durée 00:00:03.09  Lisibilité 50
+#No Sri Lanka, ele assistiu
+a adoções em cadeia,#
+
+ 360: 10:19:31.07 10:19:32.24  Durée 00:00:01.17  Lisibilité 25
+#a farsas de processos.#
+
+ 361: 10:19:33.19 10:19:36.14  Durée 00:00:02.20  Lisibilité 42
+#Ele acusa intermediários locais
+de enriquecer#
+
+ 362: 10:19:36.18 10:19:39.11  Durée 00:00:02.18  Lisibilité 41
+#e os pais adotivos
+de falta de escrúpulos.#
+
+ 363: 10:19:45.05 10:19:48.19  Durée 00:00:03.14  Lisibilité 53
+As leis eram bem abertas,
+bem amplas.
+
+ 364: 10:19:48.23 10:19:51.06  Durée 00:00:02.08  Lisibilité 35
+Não havia lei
+fixando tarifa mínima.
+
+ 365: 10:19:51.17 10:19:53.22  Durée 00:00:02.05  Lisibilité 33
+O intermediário
+pedia o que queria.
+
+ 366: 10:19:54.01 10:19:55.13  Durée 00:00:01.12  Lisibilité 22
+Não havia limite.
+
+ 367: 10:19:57.03 10:19:58.22  Durée 00:00:01.19  Lisibilité 26
+Era um mercado livre.
+
+ 368: 10:20:02.05 10:20:04.24  Durée 00:00:02.19  Lisibilité 41
+Desse ponto de vista,
+era imoral e antiético.
+
+ 369: 10:20:05.14 10:20:07.09  Durée 00:00:01.20  Lisibilité 27
+Era simplesmente um serviço
+
+ 370: 10:20:07.13 10:20:10.04  Durée 00:00:02.16  Lisibilité 40
+para pais adotivos
+que pagavam muito dinheiro
+
+ 371: 10:20:10.08 10:20:12.14  Durée 00:00:02.06  Lisibilité 34
+em troca de um bom serviço.
+
+ 372: 10:20:12.18 10:20:14.16  Durée 00:00:01.23  Lisibilité 29
+Nesse sentido, era um negócio.
+
+ 373: 10:20:14.20 10:20:15.21  Durée 00:00:01.01  Lisibilité 16
+Dos dois lados.
+
+ 374: 10:20:16.23 10:20:18.15  Durée 00:00:01.17  Lisibilité 25
+Não era
+pelo bem da criança,
+
+ 375: 10:20:18.19 10:20:20.23  Durée 00:00:02.04  Lisibilité 32
+era pelo bem dos pais adotivos.
+
+ 376: 10:20:22.09 10:20:25.21  Durée 00:00:03.12  Lisibilité 52
+#Peter Sutter recusa-se
+a ser cúmplice desse tráfico.#
+
+ 377: 10:20:26.00 10:20:27.06  Durée 00:00:01.06  Lisibilité 19
+#Na volta, demite-se.#
+
+ 378: 10:20:34.14 10:20:37.15  Durée 00:00:03.01  Lisibilité 46
+#Procuramos o filho
+de Alice Honegger.#
+
+ 379: 10:20:37.19 10:20:41.05  Durée 00:00:03.11  Lisibilité 52
+#Também adotado, ele ainda gere
+sua fundação nessa casa,#
+
+ 380: 10:20:41.10 10:20:42.22  Durée 00:00:01.12  Lisibilité 22
+#à beira do Lago de Zurique.#
+
+ 381: 10:20:43.18 10:20:46.13  Durée 00:00:02.20  Lisibilité 42
+#Rudy Honegger
+nos respondeu por e-mail.#
+
+ 382: 10:20:46.17 10:20:49.10  Durée 00:00:02.18  Lisibilité 41
+#Ele defende a legalidade
+do trabalho da mãe,#
+
+ 383: 10:20:49.14 10:20:52.13  Durée 00:00:02.24  Lisibilité 44
+#mas recusa entrevista
+ou acesso a arquivos.#
+
+ 384: 10:20:58.11 10:21:02.02  Durée 00:00:03.16  Lisibilité 55
+#E as autoridades suíças
+fecharam mesmo os olhos?#
+
+ 385: 10:21:02.06 10:21:04.15  Durée 00:00:02.09  Lisibilité 35
+#Por que elas não intervieram?#
+
+ 386: 10:21:04.19 10:21:06.01  Durée 00:00:01.07  Lisibilité 19
+#Para compreender,#
+
+ 387: 10:21:06.05 10:21:09.12  Durée 00:00:03.07  Lisibilité 49
+#pedimos acesso
+ao correio diplomático dos anos 80#
+
+ 388: 10:21:09.17 10:21:12.16  Durée 00:00:02.24  Lisibilité 44
+#entre a embaixada suíça no Sri Lanka
+e Berna.#
+
+ 389: 10:21:15.00 10:21:16.06  Durée 00:00:01.06  Lisibilité 19
+Arquivos federais suíços AFS
+
+ 390: 10:21:16.10 10:21:18.05  Durée 00:00:01.20  Lisibilité 27
+#O assunto é sensível.#
+
+ 391: 10:21:18.10 10:21:21.07  Durée 00:00:02.22  Lisibilité 43
+#Inicialmente,
+a Confederação nos nega acesso.#
+
+ 392: 10:21:21.12 10:21:23.15  Durée 00:00:02.03  Lisibilité 32
+#Ela invoca um prazo de 120 anos#
+
+ 393: 10:21:23.19 10:21:25.16  Durée 00:00:01.22  Lisibilité 28
+#no que concerne adoções.#
+
+ 394: 10:21:28.00 10:21:29.23  Durée 00:00:01.23  Lisibilité 29
+#É preciso semanas negociando#
+
+ 395: 10:21:30.02 10:21:32.19  Durée 00:00:02.17  Lisibilité 40
+#para Thierry Hartmann,
+pesquisador do# Tempo presente#,#
+
+ 396: 10:21:32.23 10:21:36.15  Durée 00:00:03.17  Lisibilité 55
+#obter acesso excepcional
+a esses documentos confidenciais.#
+
+ 397: 10:21:38.13 10:21:40.06  Durée 00:00:01.18  Lisibilité 26
+#Mas há condições estritas:#
+
+ 398: 10:21:40.10 10:21:43.06  Durée 00:00:02.21  Lisibilité 43
+#proibição de copiá-los
+ou de fotografá-los.#
+
+ 399: 10:21:43.10 10:21:46.03  Durée 00:00:02.18  Lisibilité 41
+#Só podemos tomar notas no local.#
+
+ 400: 10:21:49.14 10:21:52.02  Durée 00:00:02.13  Lisibilité 38
+#Essas caixas revelam
+um segredo bem guardado.#
+
+ 401: 10:21:52.06 10:21:54.20  Durée 00:00:02.14  Lisibilité 38
+#A Suíça sabia
+desde o início dos anos 80#
+
+ 402: 10:21:54.24 10:21:58.16  Durée 00:00:03.17  Lisibilité 55
+#que havia um tráfico de crianças
+para adoção internacional.#
+
+ 403: 10:22:01.11 10:22:04.04  Durée 00:00:02.18  Lisibilité 41
+#Assim, já em 1981,#
+
+ 404: 10:22:04.08 10:22:08.09  Durée 00:00:04.01  Lisibilité 61
+#um diplomata em Colombo,
+Claude Ochsenbein, preocupa-se.#
+
+ 405: 10:22:08.13 10:22:11.17  Durée 00:00:03.04  Lisibilité 47
+#Ele escreve em seus relatórios
+sobre Dawn de Silva#
+
+ 406: 10:22:11.22 10:22:14.00  Durée 00:00:02.03  Lisibilité 32
+#em 12 de outubro de 1981...#
+
+ 407: 10:22:14.04 10:22:17.04  Durée 00:00:03.00  Lisibilité 45
+#"Um dia o caso estourará
+e podemos ser envolvidos#
+
+ 408: 10:22:17.08 10:22:20.17  Durée 00:00:03.09  Lisibilité 50
+#"no que pode ser um escândalo."#
+
+ 409: 10:22:23.01 10:22:26.15  Durée 00:00:03.14  Lisibilité 53
+#2 meses depois,
+Claude Ochsenbein alerta Berna.#
+
+ 410: 10:22:26.19 10:22:29.24  Durée 00:00:03.05  Lisibilité 48
+#Um certo Wetstein,
+da Agência Federal dos Estrangeiros,#
+
+ 411: 10:22:30.03 10:22:32.13  Durée 00:00:02.10  Lisibilité 36
+#responde em 22 de dezembro de 1981.#
+
+ 412: 10:22:34.12 10:22:36.20  Durée 00:00:02.08  Lisibilité 35
+#"Só estão autorizados
+a dar o visto#
+
+ 413: 10:22:36.24 10:22:38.13  Durée 00:00:01.14  Lisibilité 23
+#"se tiverem certeza#
+
+ 414: 10:22:38.17 10:22:41.01  Durée 00:00:02.09  Lisibilité 35
+#"que as operações prévias à adoção#
+
+ 415: 10:22:41.05 10:22:46.05  Durée 00:00:05.00  Lisibilité 75
+#"ocorreram conforme
+as disposições legais locais."#
+
+ 416: 10:22:48.24 10:22:51.21  Durée 00:00:02.22  Lisibilité 43
+#Essa diretiva
+põe o diplomata suíço em Colombo#
+
+ 417: 10:22:52.00 10:22:53.15  Durée 00:00:01.15  Lisibilité 24
+#numa situação impossível.#
+
+ 418: 10:22:54.12 10:22:56.21  Durée 00:00:02.09  Lisibilité 35
+#Recusar os documentos
+seria como dizer#
+
+ 419: 10:22:57.00 10:22:59.18  Durée 00:00:02.18  Lisibilité 41
+#que os tribunais cingaleses
+são corruptos.#
+
+ 420: 10:23:03.15 10:23:06.22  Durée 00:00:03.07  Lisibilité 49
+#E a embaixada é confrontada
+ao fato consumado.#
+
+ 421: 10:23:07.01 10:23:09.08  Durée 00:00:02.07  Lisibilité 34
+#Os pais suíços
+chegam com o bebê#
+
+ 422: 10:23:09.13 10:23:11.16  Durée 00:00:02.03  Lisibilité 32
+#e o ato de adoção cingalês
+regular.#
+
+ 423: 10:23:11.20 10:23:13.03  Durée 00:00:01.08  Lisibilité 20
+#Então, o que fazer?#
+
+ 424: 10:23:16.12 10:23:19.18  Durée 00:00:03.06  Lisibilité 49
+#Ochsenbein replica
+com um relatório bem detalhado#
+
+ 425: 10:23:19.22 10:23:22.18  Durée 00:00:02.21  Lisibilité 43
+#que envia
+à Agência Federal de Estrangeiros.#
+
+ 426: 10:23:23.22 10:23:25.21  Durée 00:00:01.24  Lisibilité 29
+#Ele denuncia a pressão#
+
+ 427: 10:23:26.00 10:23:29.16  Durée 00:00:03.16  Lisibilité 55
+#dos pais adotivos suíços
+e as classifica em 2 categorias.#
+
+ 428: 10:23:31.06 10:23:35.03  Durée 00:00:03.22  Lisibilité 58
+#Em 3 de maio de 1985, ele escreve
+que há de um lado pais...#
+
+ 429: 10:23:36.04 10:23:37.17  Durée 00:00:01.13  Lisibilité 23
+#"Para quem
+o dinheiro conta#
+
+ 430: 10:23:37.21 10:23:40.20  Durée 00:00:02.24  Lisibilité 44
+#"ou cujo senso moral
+pode ser mais aguçado (...)#
+
+ 431: 10:23:40.24 10:23:45.19  Durée 00:00:04.20  Lisibilité 72
+#"eles reagem (...) contra
+as exigências dos intermediários..."#
+
+ 432: 10:23:46.12 10:23:49.19  Durée 00:00:03.07  Lisibilité 49
+#E há uma segunda categoria
+de pais adotivos...#
+
+ 433: 10:23:50.24 10:23:54.22  Durée 00:00:03.23  Lisibilité 59
+#"Composta de gente para quem
+o dinheiro não tem importância,#
+
+ 434: 10:23:55.01 10:23:58.13  Durée 00:00:03.12  Lisibilité 52
+#"contanto que cheguem rapidamente
+a seus fins."#
+
+ 435: 10:24:00.14 10:24:02.21  Durée 00:00:02.07  Lisibilité 34
+#Exemplo: um médico
+declara à embaixada#
+
+ 436: 10:24:03.00 10:24:06.15  Durée 00:00:03.15  Lisibilité 54
+#ganhar mil francos por dia
+e não ter tempo a perder.#
+
+ 437: 10:24:06.19 10:24:09.09  Durée 00:00:02.15  Lisibilité 39
+#Alguns dias depois,
+foi embora confiante#
+
+ 438: 10:24:09.13 10:24:10.16  Durée 00:00:01.03  Lisibilité 17
+#com seu bebê.#
+
+ 439: 10:24:11.21 10:24:14.05  Durée 00:00:02.09  Lisibilité 35
+#Revoltado, o diplomata escreve...#
+
+ 440: 10:24:15.13 10:24:18.07  Durée 00:00:02.19  Lisibilité 41
+#"Isso mostra
+como certos compatriotas nossos#
+
+ 441: 10:24:18.11 10:24:23.06  Durée 00:00:04.20  Lisibilité 72
+#"endossam uma responsabilidade
+pesada nesse contexto."#
+
+ 442: 10:24:25.10 10:24:28.07  Durée 00:00:02.22  Lisibilité 43
+#Diante do relatório inequívoco
+do diplomata,#
+
+ 443: 10:24:28.11 10:24:30.20  Durée 00:00:02.09  Lisibilité 35
+#Berna não tem tempo de reagir.#
+
+ 444: 10:24:33.03 10:24:36.06  Durée 00:00:03.03  Lisibilité 47
+#Uma semana depois,
+em 19 de maio de 1982,#
+
+ 445: 10:24:36.10 10:24:39.06  Durée 00:00:02.21  Lisibilité 43
+#o escândalo das adoções ilegais
+vem a público.#
+
+ 446: 10:24:40.10 10:24:43.00  Durée 00:00:02.15  Lisibilité 39
+L'Illustré# publica
+uma reportagem chocante.#
+
+ 447: 10:24:43.04 10:24:44.09  Durée 00:00:01.05  Lisibilité 18
+Bebês à venda
+
+ 448: 10:24:44.14 10:24:47.06  Durée 00:00:02.17  Lisibilité 40
+O tráfico de bebês
+entre o Sri Lanka e a Suíça
+
+ 449: 10:24:47.10 10:24:48.23  Durée 00:00:01.13  Lisibilité 23
+não é um mito.
+
+ 450: 10:24:49.03 10:24:49.23  Durée 00:00:00.20  Lisibilité 12
+Profissão:
+intermediário
+
+ 451: 10:24:50.02 10:24:54.16  Durée 00:00:04.14  Lisibilité 68
+#O artigo analisa as redes
+que organizam adoções privadas.#
+
+ 452: 10:24:54.21 10:24:56.20  Durée 00:00:01.24  Lisibilité 29
+#Ele até apresenta Dawn de Silva#
+
+ 453: 10:24:56.24 10:25:00.20  Durée 00:00:03.21  Lisibilité 58
+#como uma das mais importantes
+vendedoras de bebês da capital.#
+
+ 454: 10:25:03.22 10:25:06.14  Durée 00:00:02.17  Lisibilité 40
+#Mais adiante, a revista escreve:#
+
+ 455: 10:25:06.18 10:25:08.17  Durée 00:00:01.24  Lisibilité 29
+#"Como produtos de exportação,#
+
+ 456: 10:25:08.21 10:25:11.18  Durée 00:00:02.22  Lisibilité 43
+#"as crianças à venda
+são quase criados em bateria.#
+
+ 457: 10:25:11.22 10:25:13.18  Durée 00:00:01.21  Lisibilité 28
+#"Em grupos de 5 a 10 em casas#
+
+ 458: 10:25:13.22 10:25:17.12  Durée 00:00:03.15  Lisibilité 54
+#"que os locais chamam
+de baby farms, 'fazendas de bebê'."
+
+ 459: 10:25:18.08 10:25:22.00  Durée 00:00:03.17  Lisibilité 55
+#Diz a# L'Illustré#:
+As autoridades suíças fingem não ver.#
+
+ 460: 10:25:22.04 10:25:23.18  Durée 00:00:01.14  Lisibilité 23
+Bancando o cego em Berna
+
+ 461: 10:25:24.08 10:25:27.01  Durée 00:00:02.18  Lisibilité 41
+#"Para a alfândega suíça,
+pouco importa o meio#
+
+ 462: 10:25:27.05 10:25:30.07  Durée 00:00:03.02  Lisibilité 46
+#"se os documentos do bebê
+estiverem regulares."#
+
+ 463: 10:25:32.04 10:25:34.21  Durée 00:00:02.17  Lisibilité 40
+#É também a linha
+do Conselho Federal.#
+
+ 464: 10:25:35.00 10:25:37.03  Durée 00:00:02.03  Lisibilité 32
+#Em junho de 1982, Kurt Furgler#
+
+ 465: 10:25:37.07 10:25:39.23  Durée 00:00:02.16  Lisibilité 40
+#declara que pode haver
+um problema no Sri Lanka#
+
+ 466: 10:25:40.02 10:25:43.06  Durée 00:00:03.04  Lisibilité 47
+#com certos intermediários locais,
+mas não na Suíça.#
+
+ 467: 10:25:44.04 10:25:46.11  Durée 00:00:02.07  Lisibilité 34
+#Durante o ano de 1982,#
+
+ 468: 10:25:46.15 10:25:49.15  Durée 00:00:03.00  Lisibilité 45
+#apesar das acusações
+do diplomata em Colombo#
+
+ 469: 10:25:49.20 10:25:51.03  Durée 00:00:01.08  Lisibilité 20
+#e dos artigos na mídia,#
+
+ 470: 10:25:51.07 10:25:54.08  Durée 00:00:03.01  Lisibilité 46
+#as autoridades não fazem nada
+para deter o escândalo#
+
+ 471: 10:25:54.12 10:25:56.12  Durée 00:00:02.00  Lisibilité 30
+#e proibir adoções privadas.#
+
+ 472: 10:25:56.16 10:25:59.12  Durée 00:00:02.21  Lisibilité 43
+Arquivos RTS
+
+ 473: 10:26:01.00 10:26:04.22  Durée 00:00:03.22  Lisibilité 58
+#Os pais adotivos também
+não renunciam ao desejo de um filho.#
+
+ 474: 10:26:05.01 10:26:07.08  Durée 00:00:02.07  Lisibilité 34
+#Com a ajuda de Honegger e de Silva,#
+
+ 475: 10:26:07.13 10:26:10.17  Durée 00:00:03.04  Lisibilité 47
+#centenas de bebês cingaleses
+ainda chegam à Suíça#
+
+ 476: 10:26:10.21 10:26:12.13  Durée 00:00:01.17  Lisibilité 25
+#nos 4 anos seguintes.#
+
+ 477: 10:26:18.05 10:26:20.11  Durée 00:00:02.06  Lisibilité 34
+#Mas em janeiro de 1987,#
+
+ 478: 10:26:20.15 10:26:22.08  Durée 00:00:01.18  Lisibilité 26
+#Dawn de Silva é presa.#
+
+ 479: 10:26:22.12 10:26:26.14  Durée 00:00:04.02  Lisibilité 61
+#Ela é acusada de ter transformado
+seu hotel em fazenda de bebês.#
+
+ 480: 10:26:26.18 10:26:28.11  Durée 00:00:01.18  Lisibilité 26
+#Alguns meses depois,#
+
+ 481: 10:26:28.15 10:26:31.24  Durée 00:00:03.09  Lisibilité 50
+#o Sri Lanka suspende
+as adoções internacionais.#
+
+ 482: 10:26:32.12 10:26:34.08  Durée 00:00:01.21  Lisibilité 28
+#Só 30 anos depois,#
+
+ 483: 10:26:34.12 10:26:36.12  Durée 00:00:02.00  Lisibilité 30
+#no outono de 2017,#
+
+ 484: 10:26:36.16 10:26:39.23  Durée 00:00:03.07  Lisibilité 49
+#para que as autoridades admitam
+a dimensão do tráfico.#
+
+ 485: 10:26:41.02 10:26:43.01  Durée 00:00:01.24  Lisibilité 29
+Arquivos Zembla
+
+ 486: 10:26:46.11 10:26:48.18  Durée 00:00:02.07  Lisibilité 34
+Havia muitos casos
+de fazendas de bebês.
+
+ 487: 10:26:49.17 10:26:51.21  Durée 00:00:02.04  Lisibilité 32
+Uma foi descoberta
+no meu distrito,
+
+ 488: 10:26:52.00 10:26:54.05  Durée 00:00:02.05  Lisibilité 33
+perto da praia.
+
+ 489: 10:26:55.10 10:26:59.01  Durée 00:00:03.16  Lisibilité 55
+Fizeram uma batida policial
+e prenderam muita gente.
+
+ 490: 10:26:59.15 10:27:02.02  Durée 00:00:02.12  Lisibilité 37
+Nessas fazendas,
+os bebês eram reunidos
+
+ 491: 10:27:02.06 10:27:03.20  Durée 00:00:01.14  Lisibilité 23
+e vendidos a estrangeiros.
+
+ 492: 10:27:03.24 10:27:05.21  Durée 00:00:01.22  Lisibilité 28
+Eram entregues para adoção.
+
+ 493: 10:27:10.04 10:27:12.02  Durée 00:00:01.23  Lisibilité 29
+Agência Federal de Justiça OFJ
+
+ 494: 10:27:12.06 10:27:14.11  Durée 00:00:02.05  Lisibilité 33
+#Na Suíça,
+Olivia e Sarah veem então#
+
+ 495: 10:27:14.15 10:27:16.05  Durée 00:00:01.15  Lisibilité 24
+#que não estão sozinhas.#
+
+ 496: 10:27:16.09 10:27:18.19  Durée 00:00:02.10  Lisibilité 36
+#Como elas, a maioria
+das crianças cingalesas#
+
+ 497: 10:27:18.23 10:27:20.05  Durée 00:00:01.07  Lisibilité 19
+#adotadas nos anos 80#
+
+ 498: 10:27:20.18 10:27:22.07  Durée 00:00:01.14  Lisibilité 23
+#teriam documentos falsos.#
+
+ 499: 10:27:23.10 10:27:25.15  Durée 00:00:02.05  Lisibilité 33
+#Elas decidem
+fundar uma associação#
+
+ 500: 10:27:25.19 10:27:29.03  Durée 00:00:03.09  Lisibilité 50
+#e imediatamente,
+70 pessoas adotadas se revelaram.#
+
+ 501: 10:27:30.05 10:27:32.19  Durée 00:00:02.14  Lisibilité 38
+#Agora são mais de 120.#
+
+ 502: 10:27:37.18 10:27:39.04  Durée 00:00:01.11  Lisibilité 22
+Nós queríamos levar
+
+ 503: 10:27:39.08 10:27:41.02  Durée 00:00:01.19  Lisibilité 26
+a situação
+ao nível político
+
+ 504: 10:27:42.17 10:27:44.15  Durée 00:00:01.23  Lisibilité 29
+para que isso não se repita
+
+ 505: 10:27:47.23 10:27:50.07  Durée 00:00:02.09  Lisibilité 35
+e que eles admitam
+o que aconteceu.
+
+ 506: 10:27:53.02 10:27:56.00  Durée 00:00:02.23  Lisibilité 44
+Só um reconhecimento
+já é muito importante.
+
+ 507: 10:27:56.05 10:27:58.18  Durée 00:00:02.13  Lisibilité 38
+Afinal,
+as autoridades suíças sabiam
+
+ 508: 10:27:58.22 10:28:02.03  Durée 00:00:03.06  Lisibilité 49
+do que estava acontecendo
+35 anos atrás.
+
+ 509: 10:28:02.07 10:28:04.06  Durée 00:00:01.24  Lisibilité 29
+Não é nem um pouco
+
+ 510: 10:28:04.10 10:28:07.20  Durée 00:00:03.10  Lisibilité 51
+que eles não soubessem
+ou não pudessem saber.
+
+ 511: 10:28:08.17 10:28:10.14  Durée 00:00:01.22  Lisibilité 28
+Eles disseram:
+
+ 512: 10:28:10.18 10:28:13.21  Durée 00:00:03.03  Lisibilité 47
+"os pais adotivos
+agora têm seu bebê,
+
+ 513: 10:28:14.00 10:28:15.13  Durée 00:00:01.13  Lisibilité 23
+"todo mundo satisfeito."
+
+ 514: 10:28:16.11 10:28:18.11  Durée 00:00:02.00  Lisibilité 30
+Eles não consideraram
+além disso.
+
+ 515: 10:28:19.07 10:28:23.22  Durée 00:00:04.15  Lisibilité 69
+É uma responsabilidade
+que a Suíça deve assumir,
+
+ 516: 10:28:24.12 10:28:28.14  Durée 00:00:04.02  Lisibilité 61
+e ela não pode dizer
+que é culpa do país
+
+ 517: 10:28:28.18 10:28:30.17  Durée 00:00:01.24  Lisibilité 29
+onde os bebês nasceram.
+
+ 518: 10:28:33.04 10:28:36.08  Durée 00:00:03.04  Lisibilité 47
+#O apelo foi ouvido
+até o Conselho Federal,#
+
+ 519: 10:28:36.12 10:28:37.22  Durée 00:00:01.10  Lisibilité 21
+#que aceitou um postulado#
+
+ 520: 10:28:38.02 10:28:41.00  Durée 00:00:02.23  Lisibilité 44
+#para revelar tudo
+sobre essas adoções.#
+
+ 521: 10:28:41.04 10:28:45.03  Durée 00:00:03.24  Lisibilité 59
+#A Agência Federal de Justiça
+tem 2 anos para fazer um relatório.#
+
+ 522: 10:28:45.07 10:28:47.14  Durée 00:00:02.07  Lisibilité 34
+Temos o dever de apoiá-los
+
+ 523: 10:28:47.18 10:28:49.12  Durée 00:00:01.19  Lisibilité 26
+
+na busca pelas suas origens.
+
+ 524: 10:28:49.16 10:28:51.19  Durée 00:00:02.03  Lisibilité 32
+É um dever baseado na lei,
+
+ 525: 10:28:51.23 10:28:53.06  Durée 00:00:01.08  Lisibilité 20
+derivado da Constituição,
+
+ 526: 10:28:54.01 10:28:57.18  Durée 00:00:03.17  Lisibilité 55
+e nesse âmbito
+
+ 527: 10:28:57.22 10:29:00.01  Durée 00:00:02.04  Lisibilité 32
+vai surgir a questão de saber
+
+ 528: 10:29:00.05 10:29:02.17  Durée 00:00:02.12  Lisibilité 37
+se houve ilicitudes,
+
+ 529: 10:29:02.21 10:29:06.10  Durée 00:00:03.14  Lisibilité 53
+irregularidades no caso em questão.
+
+ 530: 10:29:06.14 10:29:08.19  Durée 00:00:02.05  Lisibilité 33
+E a partir daí,
+o que faremos?
+
+ 531: 10:29:08.23 10:29:09.20  Durée 00:00:00.22  Lisibilité 13
+O que mais?
+
+ 532: 10:29:11.06 10:29:14.18  Durée 00:00:03.12  Lisibilité 52
+#Os adotados da associação
+têm expectativas específicas.#
+
+ 533: 10:29:15.11 10:29:18.13  Durée 00:00:03.02  Lisibilité 46
+#Concretamente, pedem
+apoio psicológico e financeiro#
+
+ 534: 10:29:18.17 10:29:19.21  Durée 00:00:01.04  Lisibilité 17
+#à Confederação#
+
+ 535: 10:29:20.00 10:29:21.19  Durée 00:00:01.19  Lisibilité 26
+#para a busca pelas raízes.#
+
+ 536: 10:29:23.00 10:29:25.10  Durée 00:00:02.10  Lisibilité 36
+#Mas as coisas avançam
+em ritmo federal.#
+
+ 537: 10:29:25.14 10:29:27.12  Durée 00:00:01.23  Lisibilité 29
+#O assunto não é prioritário.#
+
+ 538: 10:29:28.01 10:29:29.14  Durée 00:00:01.13  Lisibilité 23
+Não temos recursos extras
+
+ 539: 10:29:29.19 10:29:31.01  Durée 00:00:01.07  Lisibilité 19
+em matéria de pessoal
+
+ 540: 10:29:31.05 10:29:33.10  Durée 00:00:02.05  Lisibilité 33
+para a redação do relatório.
+
+ 541: 10:29:33.14 10:29:36.17  Durée 00:00:03.03  Lisibilité 47
+A equipe de adoção
+é bastante reduzida.
+
+ 542: 10:29:36.21 10:29:39.04  Durée 00:00:02.08  Lisibilité 35
+Somos 3 pessoas,
+
+ 543: 10:29:39.08 10:29:41.24  Durée 00:00:02.16  Lisibilité 40
+nenhuma das 3
+em tempo integral nesse caso
+
+ 544: 10:29:42.04 10:29:43.10  Durée 00:00:01.06  Lisibilité 19
+em particular.
+
+ 545: 10:29:46.20 10:29:49.13  Durée 00:00:02.18  Lisibilité 41
+#De imediato,
+nada ainda foi implementado#
+
+ 546: 10:29:49.17 10:29:51.15  Durée 00:00:01.23  Lisibilité 29
+#para ajudar os adotados.#
+
+ 547: 10:29:52.05 10:29:53.18  Durée 00:00:01.13  Lisibilité 23
+#Em Colombo,
+o governo quer#
+
+ 548: 10:29:53.22 10:29:56.23  Durée 00:00:03.01  Lisibilité 46
+#que os futuros pedidos
+passem pela Confederação#
+
+ 549: 10:29:57.03 10:29:59.15  Durée 00:00:02.12  Lisibilité 37
+#para evitar buscas individuais.#
+
+ 550: 10:30:04.10 10:30:05.21  Durée 00:00:01.11  Lisibilité 22
+Todo mundo pode vir
+
+ 551: 10:30:06.00 10:30:07.00  Durée 00:00:01.00  Lisibilité 15
+ao nosso país.
+
+ 552: 10:30:07.04 10:30:09.23  Durée 00:00:02.19  Lisibilité 41
+O turismo é um
+dos nossos principais recursos.
+
+ 553: 10:30:12.07 10:30:14.21  Durée 00:00:02.14  Lisibilité 38
+Mas os adotados que buscam
+pais biológicos
+
+ 554: 10:30:15.00 10:30:17.22  Durée 00:00:02.22  Lisibilité 43
+devem passar
+por suas autoridades centrais,
+
+ 555: 10:30:18.01 10:30:20.05  Durée 00:00:02.04  Lisibilité 32
+que passarão
+a nossas autoridades,
+
+ 556: 10:30:20.09 10:30:22.19  Durée 00:00:02.10  Lisibilité 36
+portanto,
+nosso serviço de adoções.
+
+ 557: 10:30:25.08 10:30:29.18  Durée 00:00:04.10  Lisibilité 66
+E se a certidão de nascimento
+for falsa, poderão ajudá-los?
+
+ 558: 10:30:31.08 10:30:33.04  Durée 00:00:01.21  Lisibilité 28
+Não. Esse é o problema.
+
+ 559: 10:30:33.08 10:30:35.08  Durée 00:00:02.00  Lisibilité 30
+Se os documentos
+foram falsificados
+
+ 560: 10:30:35.12 10:30:37.21  Durée 00:00:02.09  Lisibilité 35
+ou se algo não corresponde
+
+ 561: 10:30:38.00 10:30:41.23  Durée 00:00:03.23  Lisibilité 59
+na certidão de nascimento,
+sem essa prova escrita
+
+ 562: 10:30:42.02 10:30:45.11  Durée 00:00:03.09  Lisibilité 50
+não temos nenhum meio
+de encontrar as mães.
+
+ 563: 10:30:45.15 10:30:48.17  Durée 00:00:03.02  Lisibilité 46
+Precisamos
+do documento exato e fiável
+
+ 564: 10:30:48.21 10:30:50.18  Durée 00:00:01.22  Lisibilité 28
+para achar uma mãe biológica.
+
+ 565: 10:30:55.06 10:30:58.11  Durée 00:00:03.05  Lisibilité 48
+#Para as pessoas adotadas
+nos anos 80,#
+
+ 566: 10:30:58.16 10:31:01.01  Durée 00:00:02.10  Lisibilité 36
+#a maioria
+com documentos falsificados,#
+
+ 567: 10:31:01.05 10:31:04.17  Durée 00:00:03.12  Lisibilité 52
+#não há portanto muito a esperar
+da via oficial.#
+
+ 568: 10:31:04.21 10:31:06.19  Durée 00:00:01.23  Lisibilité 29
+#Elas devem procurar sozinhas.#
+
+ 569: 10:31:06.24 10:31:09.21  Durée 00:00:02.22  Lisibilité 43
+- Como vai?
+- É um prazer ver você.
+
+ 570: 10:31:10.00 10:31:11.23  Durée 00:00:01.23  Lisibilité 29
+Eu estava tão impaciente.
+Tudo bem?
+
+ 571: 10:31:12.02 10:31:12.22  Durée 00:00:00.20  Lisibilité 12
+Tudo. E você?
+
+ 572: 10:31:13.21 10:31:17.04  Durée 00:00:03.08  Lisibilité 50
+#É o caso de Nathalie,
+adotada com o irmão mais velho,#
+
+ 573: 10:31:17.08 10:31:20.19  Durée 00:00:03.11  Lisibilité 52
+#que achou sua suposta mãe
+por sua própria conta em 2001,#
+
+ 574: 10:31:20.23 10:31:23.05  Durée 00:00:02.07  Lisibilité 34
+#com o apoio
+de seus pais adotivos.#
+
+ 575: 10:31:24.16 10:31:28.15  Durée 00:00:03.24  Lisibilité 59
+#Ela precisa confirmar
+que é mesmo sua mãe biológica.#
+
+ 576: 10:31:28.19 10:31:32.16  Durée 00:00:03.22  Lisibilité 58
+#Sarah vai fazer então um teste
+de DNA para ela no Sri Lanka.#
+
+ 577: 10:31:34.19 10:31:37.19  Durée 00:00:03.00  Lisibilité 45
+Eu tive a sensação
+de que a pessoa que encontrei
+
+ 578: 10:31:38.14 10:31:41.00  Durée 00:00:02.11  Lisibilité 37
+era minha mãe,
+porque houve muita emoção,
+
+ 579: 10:31:41.04 10:31:43.06  Durée 00:00:02.02  Lisibilité 31
+porque ela chorou e ficou feliz
+
+ 580: 10:31:44.03 10:31:45.14  Durée 00:00:01.11  Lisibilité 22
+de nos rever.
+
+ 581: 10:31:45.18 10:31:48.15  Durée 00:00:02.22  Lisibilité 43
+Mas agora,
+penso que ela talvez tenha...
+
+ 582: 10:31:48.19 10:31:52.09  Durée 00:00:03.15  Lisibilité 54
+Essa pessoa de fato deu
+duas crianças para adoção,
+
+ 583: 10:31:52.13 10:31:53.24  Durée 00:00:01.11  Lisibilité 22
+um menino e uma menina,
+
+ 584: 10:31:54.03 10:31:57.06  Durée 00:00:03.03  Lisibilité 47
+mas ainda há uma pequena dúvida
+
+ 585: 10:31:58.13 10:32:03.02  Durée 00:00:04.14  Lisibilité 68
+sobre ela ser
+biologicamente minha mãe.
+
+ 586: 10:32:10.21 10:32:13.11  Durée 00:00:02.15  Lisibilité 39
+#Sarah vai portanto
+a essa aldeia pobre#
+
+ 587: 10:32:13.15 10:32:16.14  Durée 00:00:02.24  Lisibilité 44
+#ao norte de Colombo
+com um tradutor.#
+
+ 588: 10:32:16.18 10:32:19.24  Durée 00:00:03.06  Lisibilité 49
+#Aqui ela vai encontrar
+a suposta mãe de Nathalie.#
+
+ 589: 10:32:30.18 10:32:33.06  Durée 00:00:02.13  Lisibilité 38
+Na carta ela pergunta
+se a senhora aceita
+
+ 590: 10:32:33.10 10:32:35.04  Durée 00:00:01.19  Lisibilité 26
+fazer um teste de DNA.
+
+ 591: 10:32:36.10 10:32:38.18  Durée 00:00:02.08  Lisibilité 35
+Ela diz que gostaria de fazer.
+
+ 592: 10:32:41.24 10:32:44.15  Durée 00:00:02.16  Lisibilité 40
+Ela diz porque são seus filhos.
+
+ 593: 10:32:46.08 10:32:47.23  Durée 00:00:01.15  Lisibilité 24
+Então ela quer fazer.
+
+ 594: 10:32:51.03 10:32:55.03  Durée 00:00:04.00  Lisibilité 60
+#Levará 5 semanas
+para sair o resultado do teste.#
+
+ 595: 10:32:59.20 10:33:02.11  Durée 00:00:02.16  Lisibilité 40
+Realmente espero
+
+ 596: 10:33:02.15 10:33:05.22  Durée 00:00:03.07  Lisibilité 49
+que isso só confirmará a história,
+afinal.
+
+ 597: 10:33:06.01 10:33:08.07  Durée 00:00:02.06  Lisibilité 34
+Todos esses anos, na verdade,
+
+ 598: 10:33:08.11 10:33:11.00  Durée 00:00:02.14  Lisibilité 38
+porque senão volto à estaca zero.
+
+ 599: 10:33:11.04 10:33:14.10  Durée 00:00:03.06  Lisibilité 49
+Vai significar que meus documentos
+são todos falsos,
+
+ 600: 10:33:14.14 10:33:17.05  Durée 00:00:02.16  Lisibilité 40
+vai significar que as fotos
+
+ 601: 10:33:17.09 10:33:21.00  Durée 00:00:03.16  Lisibilité 55
+que mostrei a meus filhos,
+porque eles me perguntam,
+
+ 602: 10:33:21.05 10:33:23.08  Durée 00:00:02.03  Lisibilité 32
+não são nada.
+
+ 603: 10:33:24.13 10:33:27.17  Durée 00:00:03.04  Lisibilité 47
+#Nessa aldeia isolada,
+conseguimos milagrosamente#
+
+ 604: 10:33:27.22 10:33:29.19  Durée 00:00:01.22  Lisibilité 28
+#nos comunicar com a Suíça.#
+
+ 605: 10:33:33.23 10:33:34.22  Durée 00:00:00.24  Lisibilité 14
+Minha filha!
+
+ 606: 10:33:38.08 10:33:39.19  Durée 00:00:01.11  Lisibilité 22
+Bom dia, minha filha.
+
+ 607: 10:33:47.24 10:33:50.05  Durée 00:00:02.06  Lisibilité 34
+Ela quer vê-la,
+sobretudo seus filhos.
+
+ 608: 10:33:56.19 10:33:59.07  Durée 00:00:02.13  Lisibilité 38
+Ela diz que gosta
+de ouvir sua voz.
+
+ 609: 10:34:03.12 10:34:05.10  Durée 00:00:01.23  Lisibilité 29
+Ela só quer vê-los.
+
+ 610: 10:34:21.21 10:34:25.02  Durée 00:00:03.06  Lisibilité 49
+Ela repetiu várias vezes
+que quer que eu lhe diga
+
+ 611: 10:34:25.06 10:34:28.05  Durée 00:00:02.24  Lisibilité 44
+que ela não recebeu dinheiro
+quando deu vocês.
+
+ 612: 10:34:29.14 10:34:32.12  Durée 00:00:02.23  Lisibilité 44
+Ela diz simplesmente
+que não os vendeu.
+
+ 613: 10:34:36.19 10:34:41.07  Durée 00:00:04.13  Lisibilité 68
+Ela acaba de repetir
+que não vendeu seus filhos.
+
+ 614: 10:34:54.24 10:34:56.06  Durée 00:00:01.07  Lisibilité 19
+#Durante a conversa,#
+
+ 615: 10:34:56.15 10:34:59.21  Durée 00:00:03.06  Lisibilité 49
+#a mulher explica que na época,
+sozinha e sem recursos,#
+
+ 616: 10:35:00.00 10:35:01.09  Durée 00:00:01.09  Lisibilité 20
+#ela ficou doente.#
+
+ 617: 10:35:02.00 10:35:02.24  Durée 00:00:00.24  Lisibilité 14
+#No hospital,#
+
+ 618: 10:35:03.03 10:35:06.06  Durée 00:00:03.03  Lisibilité 47
+#uma enfermeira em contato
+com a rede de Dawn de Silva#
+
+ 619: 10:35:06.10 10:35:08.10  Durée 00:00:02.00  Lisibilité 30
+#a convenceu a dar seus filhos.#
+
+ 620: 10:35:09.10 10:35:11.12  Durée 00:00:02.02  Lisibilité 31
+Soube que ela nos deu
+voluntariamente,
+
+ 621: 10:35:11.16 10:35:14.03  Durée 00:00:02.12  Lisibilité 37
+mas foi, ainda assim,
+uma opção dirigida.
+
+ 622: 10:35:14.16 10:35:18.13  Durée 00:00:03.22  Lisibilité 58
+Então, isso também faz
+uma enorme diferença,
+
+ 623: 10:35:18.17 10:35:21.04  Durée 00:00:02.12  Lisibilité 37
+saber que ela não sabia exatamente
+
+ 624: 10:35:21.08 10:35:24.00  Durée 00:00:02.17  Lisibilité 40
+o que fazia,
+e que ela esperava nos rever.
+
+ 625: 10:35:24.04 10:35:26.22  Durée 00:00:02.18  Lisibilité 41
+E isso, hoje em dia, como mãe...
+
+ 626: 10:35:27.15 10:35:31.07  Durée 00:00:03.17  Lisibilité 55
+Nem me atrevo a imaginar
+como pode ter sido.
+
+ 627: 10:35:32.23 10:35:36.01  Durée 00:00:03.03  Lisibilité 47
+Você acha que não explicaram bem
+a ela, no fundo,
+
+ 628: 10:35:36.05 10:35:37.13  Durée 00:00:01.08  Lisibilité 20
+o que isso significava?
+
+ 629: 10:35:37.17 10:35:39.00  Durée 00:00:01.08  Lisibilité 20
+Aparentemente, não.
+
+ 630: 10:35:39.04 10:35:40.12  Durée 00:00:01.08  Lisibilité 20
+Não explicaram a ela
+
+ 631: 10:35:40.17 10:35:42.04  Durée 00:00:01.12  Lisibilité 22
+o que era "adoção".
+
+ 632: 10:35:42.08 10:35:45.16  Durée 00:00:03.08  Lisibilité 50
+E ainda por cima,
+ela esperava nos rever.
+
+ 633: 10:35:46.12 10:35:47.08  Durée 00:00:00.21  Lisibilité 13
+Então...
+
+ 634: 10:35:48.14 10:35:53.06  Durée 00:00:04.17  Lisibilité 70
+Ela ficou durante um ano
+internada num hospital psiquiátrico
+
+ 635: 10:35:53.10 10:35:54.14  Durée 00:00:01.04  Lisibilité 17
+por causa disso.
+
+ 636: 10:35:54.18 10:35:58.09  Durée 00:00:03.16  Lisibilité 55
+Foi aí que ela se tocou
+do que tinha feito.
+
+ 637: 10:36:07.24 10:36:09.23  Durée 00:00:01.24  Lisibilité 29
+#Os adotados
+não são os únicos#
+
+ 638: 10:36:10.02 10:36:11.20  Durée 00:00:01.18  Lisibilité 26
+#a querer achar a família.#
+
+ 639: 10:36:11.24 10:36:12.24  Durée 00:00:01.00  Lisibilité 15
+#Também há mães.#
+
+ 640: 10:36:13.21 10:36:16.01  Durée 00:00:02.05  Lisibilité 33
+#Todas essas aqui
+procuram seu bebê#
+
+ 641: 10:36:16.05 10:36:18.08  Durée 00:00:02.03  Lisibilité 32
+#adotado nos anos 80.#
+
+ 642: 10:36:19.23 10:36:22.11  Durée 00:00:02.13  Lisibilité 38
+#Mas o assunto ainda é tabu
+no Sri Lanka.#
+
+ 643: 10:36:22.15 10:36:24.07  Durée 00:00:01.17  Lisibilité 25
+#As autoridades não ajudam,#
+
+ 644: 10:36:24.11 10:36:27.02  Durée 00:00:02.16  Lisibilité 40
+#e os testes de DNA
+são absurdamente caros.#
+
+ 645: 10:36:27.06 10:36:30.10  Durée 00:00:03.04  Lisibilité 47
+#A associação de Sarah e Olivia
+tem lista de espera#
+
+ 646: 10:36:30.14 10:36:31.23  Durée 00:00:01.09  Lisibilité 20
+#de umas cem mulheres.#
+
+ 647: 10:36:36.19 10:36:39.03  Durée 00:00:02.09  Lisibilité 35
+Acho que os cingaleses
+não tem recursos
+
+ 648: 10:36:39.07 10:36:40.15  Durée 00:00:01.08  Lisibilité 20
+para fazer teste de DNA.
+
+ 649: 10:36:41.24 10:36:44.00  Durée 00:00:02.01  Lisibilité 31
+Nossos esforços
+e de outros adotados
+
+ 650: 10:36:44.04 10:36:47.07  Durée 00:00:03.03  Lisibilité 47
+que fazem um trabalho
+similar são cruciais.
+
+ 651: 10:36:48.22 10:36:50.08  Durée 00:00:01.11  Lisibilité 22
+É só um começo.
+
+ 652: 10:36:50.13 10:36:52.13  Durée 00:00:02.00  Lisibilité 30
+Nós começamos com 11 kits.
+
+ 653: 10:36:52.17 10:36:54.24  Durée 00:00:02.07  Lisibilité 34
+Há 11 mil adotados no mundo todo.
+
+ 654: 10:36:57.13 10:36:58.14  Durée 00:00:01.01  Lisibilité 16
+Há muito a fazer,
+
+ 655: 10:36:58.18 10:37:00.23  Durée 00:00:02.05  Lisibilité 33
+mas temos de começar
+em algum ponto.
+
+ 656: 10:37:03.24 10:37:06.18  Durée 00:00:02.19  Lisibilité 41
+#Com esses bastões,
+coletam-se células de pele#
+
+ 657: 10:37:06.23 10:37:08.15  Durée 00:00:01.17  Lisibilité 25
+#para extrair o DNA.#
+
+ 658: 10:37:08.19 10:37:10.08  Durée 00:00:01.14  Lisibilité 23
+#Depois os resultados vão#
+
+ 659: 10:37:10.12 10:37:12.14  Durée 00:00:02.02  Lisibilité 31
+#para uma base de dados
+internacional.#
+
+ 660: 10:37:14.06 10:37:17.03  Durée 00:00:02.22  Lisibilité 43
+#A esperança é que seus filhos
+as procuram#
+
+ 661: 10:37:17.07 10:37:20.09  Durée 00:00:03.02  Lisibilité 46
+#e que haja uma correspondência
+entre seus DNA.#
+
+ 662: 10:37:22.22 10:37:24.01  Durée 00:00:01.04  Lisibilité 17
+A impressão geral
+
+ 663: 10:37:24.06 10:37:27.17  Durée 00:00:03.11  Lisibilité 52
+é que essas mães deram
+seus filhos voluntariamente.
+
+ 664: 10:37:29.14 10:37:30.21  Durée 00:00:01.07  Lisibilité 19
+Muitas não percebem
+
+ 665: 10:37:31.00 10:37:33.16  Durée 00:00:02.16  Lisibilité 40
+a que ponto foram pressionadas.
+
+ 666: 10:37:35.10 10:37:37.18  Durée 00:00:02.08  Lisibilité 35
+Ou lhes tomaram legalmente
+os filhos,
+
+ 667: 10:37:37.22 10:37:40.03  Durée 00:00:02.06  Lisibilité 34
+ou elas foram forçadas a dá-los,
+
+ 668: 10:37:42.02 10:37:45.13  Durée 00:00:03.11  Lisibilité 52
+ou a própria família
+as obrigaram a dar o bebê.
+
+ 669: 10:37:47.07 10:37:48.23  Durée 00:00:01.16  Lisibilité 25
+Elas não podiam
+opinar muito,
+
+ 670: 10:37:49.02 10:37:50.05  Durée 00:00:01.03  Lisibilité 17
+ou nada.
+
+ 671: 10:37:53.10 10:37:55.22  Durée 00:00:02.12  Lisibilité 37
+#Essa mulher conta
+que se casou muito nova#
+
+ 672: 10:37:56.01 10:37:57.17  Durée 00:00:01.16  Lisibilité 25
+#contra a vontade dos pais.#
+
+ 673: 10:37:58.13 10:37:59.19  Durée 00:00:01.06  Lisibilité 19
+#Quando o marido
+a deixou,#
+
+ 674: 10:37:59.24 10:38:01.11  Durée 00:00:01.12  Lisibilité 22
+#ela estava grávida.#
+
+ 675: 10:38:02.01 10:38:04.23  Durée 00:00:02.22  Lisibilité 43
+#Sua família a forçou
+a abandonar seu bebê.#
+
+ 676: 10:38:10.05 10:38:12.08  Durée 00:00:02.03  Lisibilité 32
+Eu a procuro há uns 18 anos,
+
+ 677: 10:38:12.12 10:38:14.08  Durée 00:00:01.21  Lisibilité 28
+não sei mais exatamente.
+
+ 678: 10:38:14.12 10:38:16.24  Durée 00:00:02.12  Lisibilité 37
+Ela nasceu em 15 de junho de 1977.
+
+ 679: 10:38:17.03 10:38:18.08  Durée 00:00:01.05  Lisibilité 18
+Ela se chama
+
+ 680: 10:38:18.12 10:38:19.23  Durée 00:00:01.11  Lisibilité 22
+Anusha Kumari.
+
+ 681: 10:38:20.02 10:38:23.11  Durée 00:00:03.09  Lisibilité 50
+Ela ansceu na Castle Maternity,
+em Colombo.
+
+ 682: 10:38:23.15 10:38:27.12  Durée 00:00:03.22  Lisibilité 58
+Pensei que mesmo se a desse,
+naquela época,
+
+ 683: 10:38:27.17 10:38:30.18  Durée 00:00:03.01  Lisibilité 46
+eu tinha a impressão
+que a reveria mais tarde.
+
+ 684: 10:38:32.01 10:38:34.18  Durée 00:00:02.17  Lisibilité 40
+Eu estava impotente,
+naquele momento.
+
+ 685: 10:38:43.00 10:38:45.10  Durée 00:00:02.10  Lisibilité 36
+Quero ver minha filha
+antes de morrer.
+
+ 686: 10:38:51.14 10:38:54.10  Durée 00:00:02.21  Lisibilité 43
+#Às vezes, o tráfico chegava
+a roubar crianças#
+
+ 687: 10:38:54.14 10:38:56.14  Durée 00:00:02.00  Lisibilité 30
+#diretamente na maternidade.#
+
+ 688: 10:38:57.10 10:39:01.14  Durée 00:00:04.04  Lisibilité 62
+#Essa mulher procura seu 1º bebê,
+um menino nascido por cesariana.#
+
+ 689: 10:39:01.18 10:39:03.09  Durée 00:00:01.16  Lisibilité 25
+#Disseram que estava morto.#
+
+ 690: 10:39:09.12 10:39:14.02  Durée 00:00:04.15  Lisibilité 69
+Quando eu ainda estava na sala,
+logo após a operação,
+
+ 691: 10:39:14.07 10:39:16.02  Durée 00:00:01.20  Lisibilité 27
+meu tio os viu levar o bebê.
+
+ 692: 10:39:17.09 10:39:19.12  Durée 00:00:02.03  Lisibilité 32
+Ele nasceu saudável.
+
+ 693: 10:39:21.01 10:39:23.09  Durée 00:00:02.08  Lisibilité 35
+Não havia motivo para ele morrer.
+
+ 694: 10:39:23.13 10:39:26.20  Durée 00:00:03.07  Lisibilité 49
+Pensamos que alguém
+tinha roubado o bebê.
+
+ 695: 10:39:28.22 10:39:30.16  Durée 00:00:01.19  Lisibilité 26
+Mais tarde soubemos
+
+ 696: 10:39:30.21 10:39:34.21  Durée 00:00:04.00  Lisibilité 60
+que havia tráficos
+no hospital de Ratnapura,
+
+ 697: 10:39:35.00 10:39:38.19  Durée 00:00:03.19  Lisibilité 56
+que os bebês eram roubados
+e dados a países estrangeiros.
+
+ 698: 10:39:46.16 10:39:49.04  Durée 00:00:02.13  Lisibilité 38
+Você também nasceu
+no hospital de Ratnapura.
+
+ 699: 10:39:49.08 10:39:52.19  Durée 00:00:03.11  Lisibilité 52
+Acha que há uma chance
+de ter sido roubada?
+
+ 700: 10:39:52.23 10:39:54.09  Durée 00:00:01.11  Lisibilité 22
+Há chances, sim.
+
+ 701: 10:39:54.13 10:39:57.14  Durée 00:00:03.01  Lisibilité 46
+Há muitas possibilidades
+para o que aconteceu,
+
+ 702: 10:39:57.18 10:39:58.19  Durée 00:00:01.01  Lisibilité 16
+mas como o Ratnapura
+
+ 703: 10:39:58.23 10:40:01.23  Durée 00:00:03.00  Lisibilité 45
+é muito citado nas histórias
+de crianças roubadas,
+
+ 704: 10:40:02.02 10:40:03.05  Durée 00:00:01.03  Lisibilité 17
+é provável.
+
+ 705: 10:40:03.19 10:40:06.04  Durée 00:00:02.10  Lisibilité 36
+Mas não é a única possibilidade.
+
+ 706: 10:40:13.23 10:40:15.07  Durée 00:00:01.09  Lisibilité 20
+É muito injusto.
+
+ 707: 10:40:17.23 10:40:19.07  Durée 00:00:01.09  Lisibilité 20
+É como uma loteria.
+
+ 708: 10:40:23.04 10:40:26.10  Durée 00:00:03.06  Lisibilité 49
+Ou você tem sorte e acha,
+ou não.
+
+ 709: 10:40:32.09 10:40:35.08  Durée 00:00:02.24  Lisibilité 44
+#Para saber quem falsificou
+os documentos e como,#
+
+ 710: 10:40:35.12 10:40:37.12  Durée 00:00:02.00  Lisibilité 30
+#Olivia tenta mais uma pista:#
+
+ 711: 10:40:37.16 10:40:39.08  Durée 00:00:01.17  Lisibilité 25
+#achar Dawn de Silva,#
+
+ 712: 10:40:39.12 10:40:42.05  Durée 00:00:02.18  Lisibilité 41
+#a intermediária
+que organizou sua adoção.#
+
+ 713: 10:40:43.21 10:40:45.23  Durée 00:00:02.02  Lisibilité 31
+#A mulher sumiu há décadas.#
+
+ 714: 10:40:47.13 10:40:50.07  Durée 00:00:02.19  Lisibilité 41
+#Boatos a dizem na Califórnia
+ou na Austrália.#
+
+ 715: 10:40:55.09 10:40:59.01  Durée 00:00:03.17  Lisibilité 55
+#Na lista telefônica,
+achamos uma Dawn de Silva.#
+
+ 716: 10:40:59.05 10:41:02.13  Durée 00:00:03.08  Lisibilité 50
+#O endereço nos leva
+a um bairro burguês de Colombo.#
+
+ 717: 10:41:02.17 10:41:04.22  Durée 00:00:02.05  Lisibilité 33
+#Uma vizinha nos indica uma casa.#
+
+ 718: 10:41:09.00 10:41:11.14  Durée 00:00:02.14  Lisibilité 38
+#Finalmente, incrivelmente,#
+
+ 719: 10:41:11.18 10:41:14.01  Durée 00:00:02.08  Lisibilité 35
+#esbarramos nela
+no fundo do jardim.#
+
+ 720: 10:41:15.12 10:41:18.02  Durée 00:00:02.15  Lisibilité 39
+#Nós a reconhecemos
+à primeira vista.#
+
+ 721: 10:41:20.10 10:41:23.07  Durée 00:00:02.22  Lisibilité 43
+#Inicialmente,
+ela nega ser Dawn de Silva,#
+
+ 722: 10:41:23.11 10:41:27.02  Durée 00:00:03.16  Lisibilité 55
+#depois, diante da evidência,
+ela acaba admitindo.#
+
+ 723: 10:41:27.06 10:41:30.09  Durée 00:00:03.03  Lisibilité 47
+#Improvisamos
+e filmamos com nossos celulares.#
+
+ 724: 10:41:30.21 10:41:34.05  Durée 00:00:03.09  Lisibilité 50
+#Mas ela diz não ter mais
+nenhum arquivo da época.#
+
+ 725: 10:41:36.10 10:41:38.04  Durée 00:00:01.19  Lisibilité 26
+Não se lembra dos nomes?
+
+ 726: 10:41:38.08 10:41:40.00  Durée 00:00:01.17  Lisibilité 25
+- Não.
+- Não tem fichários?
+
+ 727: 10:41:40.14 10:41:42.19  Durée 00:00:02.05  Lisibilité 33
+- Não.
+- Não tem arquivos?
+
+ 728: 10:41:42.23 10:41:43.18  Durée 00:00:00.20  Lisibilité 12
+Não.
+
+ 729: 10:41:43.22 10:41:47.04  Durée 00:00:03.07  Lisibilité 49
+Além de arquivos,
+não tem documentos da época?
+
+ 730: 10:41:47.18 10:41:48.18  Durée 00:00:01.00  Lisibilité 15
+Não.
+
+ 731: 10:41:48.23 10:41:51.08  Durée 00:00:02.10  Lisibilité 36
+Nada do gênero?
+Nadica de nada?
+
+ 732: 10:41:51.13 10:41:52.08  Durée 00:00:00.20  Lisibilité 12
+Não.
+
+ 733: 10:41:53.03 10:41:57.09  Durée 00:00:04.06  Lisibilité 64
+#Nós a confrontamos a fotos,
+a cartas que ela enviou,#
+
+ 734: 10:41:57.13 10:41:58.10  Durée 00:00:00.22  Lisibilité 13
+#mas ela não lembra#
+
+ 735: 10:41:58.14 10:42:00.11  Durée 00:00:01.22  Lisibilité 28
+#de nenhum bebê
+que passou por ela,#
+
+ 736: 10:42:00.15 10:42:03.06  Durée 00:00:02.16  Lisibilité 40
+#nem de Olivia, Sandy
+ou Nathalie. Ninguém.#
+
+ 737: 10:42:05.03 10:42:08.02  Durée 00:00:02.24  Lisibilité 44
+Minha vida toda pensei
+que era você a advogada,
+
+ 738: 10:42:08.07 10:42:10.24  Durée 00:00:02.17  Lisibilité 40
+a que organizou minha adoção
+
+ 739: 10:42:11.03 10:42:13.09  Durée 00:00:02.06  Lisibilité 34
+e que me roubou da minha mãe.
+
+ 740: 10:42:14.13 10:42:16.12  Durée 00:00:01.24  Lisibilité 29
+Não, não é culpa minha.
+
+ 741: 10:42:18.16 10:42:22.23  Durée 00:00:04.07  Lisibilité 64
+Você compreende que para essas
+crianças, agora, é muito difícil,
+
+ 742: 10:42:23.02 10:42:26.15  Durée 00:00:03.13  Lisibilité 53
+porque elas não podem
+encontrar seus pais biológicos.
+
+ 743: 10:42:26.19 10:42:29.14  Durée 00:00:02.20  Lisibilité 42
+Entendo, mas não era eu
+que pegava as crianças
+
+ 744: 10:42:29.18 10:42:31.19  Durée 00:00:02.01  Lisibilité 31
+nem sua certidão de nascimento.
+
+ 745: 10:42:31.23 10:42:33.01  Durée 00:00:01.03  Lisibilité 17
+Eu não sei nada.
+
+ 746: 10:42:33.05 10:42:35.11  Durée 00:00:02.06  Lisibilité 34
+Só as levava
+à sala do Dr. Pereira,
+
+ 747: 10:42:35.15 10:42:39.10  Durée 00:00:03.20  Lisibilité 57
+e depois, pais vinham assinar
+diante do advogado, e pronto.
+
+ 748: 10:42:39.14 10:42:40.21  Durée 00:00:01.07  Lisibilité 19
+É isso, é só.
+
+ 749: 10:42:43.02 10:42:45.23  Durée 00:00:02.21  Lisibilité 43
+Mas as mães que davam
+seus filhos para adoção,
+
+ 750: 10:42:46.02 10:42:48.01  Durée 00:00:01.24  Lisibilité 29
+vce nunca as encontrou?
+
+ 751: 10:42:49.22 10:42:52.10  Durée 00:00:02.13  Lisibilité 38
+Não. Elas vinham
+com os fornecedores.
+
+ 752: 10:42:53.21 10:42:55.20  Durée 00:00:01.24  Lisibilité 29
+Mulheres que não eram as mães
+
+ 753: 10:42:56.00 10:42:58.01  Durée 00:00:02.01  Lisibilité 31
+vinham assinar os documentos?
+
+ 754: 10:42:58.05 10:43:00.08  Durée 00:00:02.03  Lisibilité 32
+Isso, pergunte aos fornecedores.
+
+ 755: 10:43:00.12 10:43:01.12  Durée 00:00:01.00  Lisibilité 15
+Eles faziam tudo.
+
+ 756: 10:43:02.16 10:43:05.10  Durée 00:00:02.19  Lisibilité 41
+Mas você não tinha falsas mães?
+
+ 757: 10:43:05.24 10:43:09.05  Durée 00:00:03.06  Lisibilité 49
+Não, não... Eu não fiz nada
+relativo à adoção.
+
+ 758: 10:43:12.11 10:43:15.15  Durée 00:00:03.04  Lisibilité 47
+#A discussão toma então
+um contorno surrealista.#
+
+ 759: 10:43:15.19 10:43:19.04  Durée 00:00:03.10  Lisibilité 51
+#Dawn de Silva afirma
+que sua prisão em 1987#
+
+ 760: 10:43:19.08 10:43:20.17  Durée 00:00:01.09  Lisibilité 20
+#foi uma armação.#
+
+ 761: 10:43:20.21 10:43:22.24  Durée 00:00:02.03  Lisibilité 32
+#Vingança de um ex-mari ciumento.#
+
+ 762: 10:43:25.12 10:43:28.15  Durée 00:00:03.03  Lisibilité 47
+Era tudo inventado?
+Não havia fazendas de bebês?
+
+ 763: 10:43:28.19 10:43:31.10  Durée 00:00:02.16  Lisibilité 40
+Fui inocentada
+pelo procurador-geral,
+
+ 764: 10:43:31.14 10:43:33.16  Durée 00:00:02.02  Lisibilité 31
+e graças a isso, obtive vistos.
+
+ 765: 10:43:33.20 10:43:36.03  Durée 00:00:02.08  Lisibilité 35
+Pude ir para a Austrália
+e para os EUA,
+
+ 766: 10:43:36.07 10:43:39.08  Durée 00:00:03.01  Lisibilité 46
+porque eu não estava envolvida,
+eu só traduzia.
+
+ 767: 10:43:44.18 10:43:47.10  Durée 00:00:02.17  Lisibilité 40
+Não montou uma fazenda de bebês
+em Wadduwa?
+
+ 768: 10:43:47.14 10:43:49.17  Durée 00:00:02.03  Lisibilité 32
+Não.
+Isso foi totalmente inventado.
+
+ 769: 10:43:49.21 10:43:51.02  Durée 00:00:01.06  Lisibilité 19
+- Foi inventado?
+- É.
+
+ 770: 10:43:51.06 10:43:53.02  Durée 00:00:01.21  Lisibilité 28
+Você foi presa ou não?
+
+ 771: 10:43:53.06 10:43:55.00  Durée 00:00:01.19  Lisibilité 26
+Por um tempinho.
+
+ 772: 10:43:55.04 10:43:57.09  Durée 00:00:02.05  Lisibilité 33
+- Quanto tempo?
+- Uma semana.
+
+ 773: 10:43:57.13 10:43:59.06  Durée 00:00:01.18  Lisibilité 26
+- E depois você saiu?
+- Sim.
+
+ 774: 10:44:00.16 10:44:03.18  Durée 00:00:03.02  Lisibilité 46
+#Segundo artigos da época,
+um erro de processo#
+
+ 775: 10:44:03.22 10:44:06.23  Durée 00:00:03.01  Lisibilité 46
+#teria de fato permitido a ela
+escapar da prisão.#
+
+ 776: 10:44:07.02 10:44:09.07  Durée 00:00:02.05  Lisibilité 33
+#Ela fugiu então para os EUA#
+
+ 777: 10:44:09.11 10:44:12.16  Durée 00:00:03.05  Lisibilité 48
+#e não parece ter remorso
+nem arrependimento.#
+
+ 778: 10:44:13.18 10:44:16.13  Durée 00:00:02.20  Lisibilité 42
+Gostaria de dizer algo
+a essas crianças,
+
+ 779: 10:44:16.17 10:44:17.24  Durée 00:00:01.07  Lisibilité 19
+a todos esses bebês?
+
+ 780: 10:44:18.03 10:44:22.03  Durée 00:00:04.00  Lisibilité 60
+Se tivesse uma mensagem para eles,
+o que gostaria de dizer?
+
+ 781: 10:44:23.20 10:44:26.10  Durée 00:00:02.15  Lisibilité 39
+Eles devem ter uma vida feliz lá.
+Não?
+
+ 782: 10:44:27.15 10:44:30.12  Durée 00:00:02.22  Lisibilité 43
+Acho que alguns
+teriam acabado no lixo.
+
+ 783: 10:44:30.16 10:44:32.20  Durée 00:00:02.04  Lisibilité 32
+Vi muitas coisas assim.
+
+ 784: 10:44:33.19 10:44:36.16  Durée 00:00:02.22  Lisibilité 43
+- Jogados no lixo no Sri Lanka?
+- Sim.
+
+ 785: 10:44:36.20 10:44:39.17  Durée 00:00:02.22  Lisibilité 43
+Acha que os salvou
+de uma vida ruim aqui?
+
+ 786: 10:44:39.21 10:44:41.07  Durée 00:00:01.11  Lisibilité 22
+Sim. De uma vida ruim.
+
+ 787: 10:44:42.08 10:44:44.21  Durée 00:00:02.13  Lisibilité 38
+Para Olivia,
+essas palavras são dolorosas.
+
+ 788: 10:44:46.16 10:44:50.19  Durée 00:00:04.03  Lisibilité 62
+Muitas mães são muito tristes
+por terem perdido seus filhos.
+
+ 789: 10:44:50.23 10:44:54.24  Durée 00:00:04.01  Lisibilité 61
+Tudo que elas querem
+é reencontrá-los antes de morrer.
+
+ 790: 10:44:55.03 10:44:56.21  Durée 00:00:01.18  Lisibilité 26
+Você se arrependeu?
+
+ 791: 10:44:57.20 10:44:59.15  Durée 00:00:01.20  Lisibilité 27
+Acho que sim.
+
+ 792: 10:44:59.19 10:45:02.06  Durée 00:00:02.12  Lisibilité 37
+Mas devem ter tido
+uma vida melhor lá
+
+ 793: 10:45:02.10 10:45:03.24  Durée 00:00:01.14  Lisibilité 23
+que no Sri Lanka.
+
+ 794: 10:45:05.14 10:45:08.19  Durée 00:00:03.05  Lisibilité 48
+Não sei. Não sei
+como minha vida teria sido aqui.
+
+ 795: 10:45:08.23 10:45:10.13  Durée 00:00:01.15  Lisibilité 24
+Eu estaria com minha mãe.
+
+ 796: 10:45:12.02 10:45:13.20  Durée 00:00:01.18  Lisibilité 26
+A vida toda
+senti falta dela,
+
+ 797: 10:45:13.24 10:45:15.13  Durée 00:00:01.14  Lisibilité 23
+é muito triste para mim.
+
+ 798: 10:45:16.19 10:45:17.20  Durée 00:00:01.01  Lisibilité 16
+Eu compreendo.
+
+ 799: 10:45:19.12 10:45:20.14  Durée 00:00:01.02  Lisibilité 16
+Tem certeza mesmo
+
+ 800: 10:45:20.18 10:45:22.20  Durée 00:00:02.02  Lisibilité 31
+que não lembra nada da Olivia?
+
+ 801: 10:45:25.23 10:45:28.12  Durée 00:00:02.14  Lisibilité 38
+O que gostaria de dizer a ela?
+
+ 802: 10:45:28.16 10:45:31.10  Durée 00:00:02.19  Lisibilité 41
+Espero que ela reencontre sua mãe.
+
+ 803: 10:45:33.22 10:45:35.24  Durée 00:00:02.02  Lisibilité 31
+#Afinal, nenhuma informação,#
+
+ 804: 10:45:36.04 10:45:38.00  Durée 00:00:01.21  Lisibilité 28
+#Nenhuma empatia também.#
+
+ 805: 10:45:48.12 10:45:51.09  Durée 00:00:02.22  Lisibilité 43
+#No dia seguinte, de Silva
+nos envia um e-mail#
+
+ 806: 10:45:51.13 10:45:54.00  Durée 00:00:02.12  Lisibilité 37
+#com os nomes
+dos fornecedores de bebês.#
+
+ 807: 10:45:54.04 10:45:55.14  Durée 00:00:01.10  Lisibilité 21
+#Mas a maioria morreu.#
+
+ 808: 10:45:55.19 10:45:57.19  Durée 00:00:02.00  Lisibilité 30
+#Não há mais pista a seguir.#
+
+ 809: 10:45:58.14 10:46:01.16  Durée 00:00:03.02  Lisibilité 46
+#Ela nos ameaça
+e nos proíbe de voltar.#
+
+ 810: 10:46:02.01 10:46:04.16  Durée 00:00:02.15  Lisibilité 39
+#Tentamos então
+contatá-la por telefone,#
+
+ 811: 10:46:04.20 10:46:06.18  Durée 00:00:01.23  Lisibilité 29
+#mas seu número foi desligado.#
+
+ 812: 10:46:12.12 10:46:15.08  Durée 00:00:02.21  Lisibilité 43
+#Para Olivia,
+é mais uma porta que se fecha,#
+
+ 813: 10:46:15.12 10:46:17.12  Durée 00:00:02.00  Lisibilité 30
+#após esse encontro surreal.#
+
+ 814: 10:46:19.15 10:46:22.13  Durée 00:00:02.23  Lisibilité 44
+Ela era meio como um fantasma,
+
+ 815: 10:46:22.17 10:46:25.03  Durée 00:00:02.11  Lisibilité 37
+como minha mãe biológica,
+na verdade.
+
+ 816: 10:46:25.24 10:46:27.22  Durée 00:00:01.23  Lisibilité 29
+Ouvimos coisas, boatos...
+
+ 817: 10:46:28.17 10:46:31.06  Durée 00:00:02.14  Lisibilité 38
+Pensei que ela tinha ficado rica,
+
+ 818: 10:46:33.03 10:46:35.23  Durée 00:00:02.20  Lisibilité 42
+que tinha construído
+uma ótima vida,
+
+ 819: 10:46:40.07 10:46:43.05  Durée 00:00:02.23  Lisibilité 44
+mas esperava
+que ela não pudesse desfrutar
+
+ 820: 10:46:45.03 10:46:47.14  Durée 00:00:02.11  Lisibilité 37
+por ter a consciência pesada.
+
+ 821: 10:46:50.18 10:46:52.19  Durée 00:00:02.01  Lisibilité 31
+Era o que me parecia justo.
+
+ 822: 10:46:57.16 10:46:59.01  Durée 00:00:01.10  Lisibilité 21
+No fim da conversa,
+
+ 823: 10:46:59.05 10:47:02.02  Durée 00:00:02.22  Lisibilité 43
+acho que liberei minhas emoções.
+
+ 824: 10:47:05.01 10:47:07.02  Durée 00:00:02.01  Lisibilité 31
+Eu senti muita raiva.
+
+ 825: 10:47:08.08 10:47:10.21  Durée 00:00:02.13  Lisibilité 38
+Raiva, revolta...
+
+ 826: 10:47:16.23 10:47:18.00  Durée 00:00:01.02  Lisibilité 16
+Por quê?
+
+ 827: 10:47:27.24 10:47:30.13  Durée 00:00:02.14  Lisibilité 38
+Porque ela influenciou
+tantas vidas...
+
+ 828: 10:47:31.15 10:47:33.01  Durée 00:00:01.11  Lisibilité 22
+tão profundamente.
+
+ 829: 10:47:34.24 10:47:36.09  Durée 00:00:01.10  Lisibilité 21
+Ela não se deu conta
+
+ 830: 10:47:36.13 10:47:39.06  Durée 00:00:02.18  Lisibilité 41
+ou não quis se dar conta
+do que fez.
+
+ 831: 10:47:41.08 10:47:42.23  Durée 00:00:01.15  Lisibilité 24
+Isso não a afetou.
+
+ 832: 10:48:00.20 10:48:03.23  Durée 00:00:03.03  Lisibilité 47
+#5 semanas depois,
+reencontramos Nathalie em Romand.#
+
+ 833: 10:48:04.16 10:48:07.22  Durée 00:00:03.06  Lisibilité 49
+#Ela recebeu o resultado
+do teste de DNA. É positivo.#
+
+ 834: 10:48:08.12 10:48:11.09  Durée 00:00:02.22  Lisibilité 43
+#Trata-se mesmo
+da sua mãe biológica.#
+
+ 835: 10:48:13.15 10:48:15.23  Durée 00:00:02.08  Lisibilité 35
+Pela primeira vez na vida,
+
+ 836: 10:48:16.03 10:48:18.05  Durée 00:00:02.02  Lisibilité 31
+meus ombros estão relaxados,
+
+ 837: 10:48:19.06 10:48:22.02  Durée 00:00:02.21  Lisibilité 43
+eu respiro melhor,
+minha digestão melhorou...
+
+ 838: 10:48:22.06 10:48:23.13  Durée 00:00:01.07  Lisibilité 19
+É um conjunto,
+
+ 839: 10:48:23.17 10:48:26.24  Durée 00:00:03.07  Lisibilité 49
+porque sem ter consciência
+de tudo isso,
+
+ 840: 10:48:27.03 10:48:30.08  Durée 00:00:03.05  Lisibilité 48
+para mim,
+o corpo se lembra ainda assim
+
+ 841: 10:48:30.12 10:48:32.02  Durée 00:00:01.15  Lisibilité 24
+e memoriza coisas.
+
+ 842: 10:48:32.06 10:48:36.22  Durée 00:00:04.16  Lisibilité 70
+Eu tinha muitas tensões
+que conseguiram se liberar.
+
+ 843: 10:48:37.01 10:48:40.14  Durée 00:00:03.13  Lisibilité 53
+Também me sinto
+muito agradecida e sortuda,
+
+ 844: 10:48:40.18 10:48:44.02  Durée 00:00:03.09  Lisibilité 50
+porque conheço gente que procurou,
+
+ 845: 10:48:44.06 10:48:47.06  Durée 00:00:03.00  Lisibilité 45
+que pensou ter achado
+a mãe biológica,
+
+ 846: 10:48:47.10 10:48:50.16  Durée 00:00:03.06  Lisibilité 49
+e finalmente
+deu resultado negativo.
+
+ 847: 10:48:51.12 10:48:53.10  Durée 00:00:01.23  Lisibilité 29
+E aí é duro.
+Extremamente duro.
+
+ 848: 10:48:53.14 10:48:56.01  Durée 00:00:02.12  Lisibilité 37
+Então eu sei a sorte que tenho.
+
+ 849: 10:48:58.13 10:49:03.03  Durée 00:00:04.15  Lisibilité 69
+E para meus filhos,
+que chegam a uma idade
+
+ 850: 10:49:03.07 10:49:05.07  Durée 00:00:02.00  Lisibilité 30
+de me fazer perguntas,
+
+ 851: 10:49:05.11 10:49:07.22  Durée 00:00:02.11  Lisibilité 37
+eu hesitava
+em responder certas coisas,
+
+ 852: 10:49:08.01 10:49:09.05  Durée 00:00:01.04  Lisibilité 17
+sem ter certeza.
+
+ 853: 10:49:09.23 10:49:11.02  Durée 00:00:01.04  Lisibilité 17
+Isso muda tudo.
+
+ 854: 10:49:11.06 10:49:15.17  Durée 00:00:04.11  Lisibilité 67
+Agora posso responder,
+dizer a eles.
+
+ 855: 10:49:15.21 10:49:18.19  Durée 00:00:02.23  Lisibilité 44
+Vamos poder ir lá
+quando eles estiverem prontos.
+
+ 856: 10:49:19.21 10:49:22.17  Durée 00:00:02.21  Lisibilité 43
+Acho que é importantíssimo
+eles conhecerem
+
+ 857: 10:49:22.21 10:49:26.01  Durée 00:00:03.05  Lisibilité 48
+Eles não precisarão fazer
+todo o trabalho que fiz.
+
+ 858: 10:49:26.05 10:49:27.18  Durée 00:00:01.13  Lisibilité 23
+toda essa pesquisa...
+
+ 859: 10:49:27.22 10:49:30.24  Durée 00:00:03.02  Lisibilité 46
+Todas essas perguntas sem respostas,
+eles as terão.
+
+ 860: 10:49:31.03 10:49:34.11  Durée 00:00:03.08  Lisibilité 50
+E para sua própria identidade,
+
+ 861: 10:49:35.04 10:49:36.20  Durée 00:00:01.16  Lisibilité 25
+é extremamente importante.
+
+ 862: 10:49:43.11 10:49:46.03  Durée 00:00:02.17  Lisibilité 40
+#Já Olivia continua sua busca.#
+
+ 863: 10:49:46.07 10:49:47.21  Durée 00:00:01.14  Lisibilité 23
+#Ela se sente bem
+no Sri Lanka#
+
+ 864: 10:49:48.00 10:49:50.17  Durée 00:00:02.17  Lisibilité 40
+#e quer voltar
+o mais frequentemente possível.#
+
+ 865: 10:49:51.08 10:49:52.21  Durée 00:00:01.13  Lisibilité 23
+#Ao oposto
+de Sarah e Nathalie,#
+
+ 866: 10:49:53.00 10:49:56.06  Durée 00:00:03.06  Lisibilité 49
+#ela ainda não se vê
+fundando uma família.#
+
+ 867: 10:50:01.11 10:50:04.19  Durée 00:00:03.08  Lisibilité 50
+Não acho que terei filhos um dia.
+
+ 868: 10:50:04.23 10:50:06.02  Durée 00:00:01.04  Lisibilité 17
+Sei que para alguns
+
+ 869: 10:50:06.06 10:50:08.23  Durée 00:00:02.17  Lisibilité 40
+foi muito benéfico
+criar as próprias raízes,
+
+ 870: 10:50:09.02 10:50:10.06  Durée 00:00:01.04  Lisibilité 17
+mas não estou pronta
+
+ 871: 10:50:10.10 10:50:11.13  Durée 00:00:01.03  Lisibilité 17
+para ser mãe.
+
+ 872: 10:50:13.21 10:50:16.12  Durée 00:00:02.16  Lisibilité 40
+Porque primeiro devo curar
+a criança ferida
+
+ 873: 10:50:16.16 10:50:18.00  Durée 00:00:01.09  Lisibilité 20
+que ainda está em mim.
+
+ 874: 10:50:26.12 10:50:28.16  Durée 00:00:02.04  Lisibilité 32
+- Oi!
+- Oi! Tudo bem?
+
+ 875: 10:50:28.20 10:50:29.24  Durée 00:00:01.04  Lisibilité 17
+Tudo. E você?
+
+ 876: 10:50:31.16 10:50:34.14  Durée 00:00:02.23  Lisibilité 44
+#Essa dor,
+o sentimento de desenraizamento,#
+
+ 877: 10:50:34.18 10:50:36.13  Durée 00:00:01.20  Lisibilité 27
+#Sarah também carrega,#
+
+ 878: 10:50:36.17 10:50:40.00  Durée 00:00:03.08  Lisibilité 50
+#mas ela não lamenta
+ter enfrentado seu passado.#
+
+ 879: 10:50:40.04 10:50:42.12  Durée 00:00:02.08  Lisibilité 35
+#No dia a dia,
+ela encontra reconforto#
+
+ 880: 10:50:42.16 10:50:44.08  Durée 00:00:01.17  Lisibilité 25
+#no trabalho de parteira.#
+
+ 881: 10:50:44.22 10:50:49.07  Durée 00:00:04.10  Lisibilité 66
+De repente, aos 12 anos,
+senti isso tão fortemente
+
+ 882: 10:50:49.11 10:50:51.16  Durée 00:00:02.05  Lisibilité 33
+que tornou-se minha profissão.
+
+ 883: 10:50:52.10 10:50:55.07  Durée 00:00:02.22  Lisibilité 43
+Retroativamente, hoje, sim,
+
+ 884: 10:50:55.11 10:50:58.21  Durée 00:00:03.10  Lisibilité 51
+era uma maneira de me curar,
+
+ 885: 10:50:59.00 10:51:01.06  Durée 00:00:02.06  Lisibilité 34
+acompanhar mães
+
+ 886: 10:51:01.10 10:51:02.05  Durée 00:00:00.20  Lisibilité 12
+e seus bebês.
+
+ 887: 10:51:02.09 10:51:04.12  Durée 00:00:02.03  Lisibilité 32
+Era como um segredo para mim,
+
+ 888: 10:51:04.16 10:51:06.20  Durée 00:00:02.04  Lisibilité 32
+essa relação mãe-bebê.
+
+ 889: 10:51:07.05 10:51:10.19  Durée 00:00:03.14  Lisibilité 53
+Mas você ainda tem esperança
+de achar sua mãe biológica?
+
+ 890: 10:51:13.04 10:51:14.20  Durée 00:00:01.16  Lisibilité 25
+Sim, tenho esperança,
+
+ 891: 10:51:14.24 10:51:18.01  Durée 00:00:03.02  Lisibilité 46
+mas temos de achar um equilíbrio,
+
+ 892: 10:51:18.05 10:51:21.15  Durée 00:00:03.10  Lisibilité 51
+que isso não vire uma obsessão,
+
+ 893: 10:51:21.19 10:51:26.07  Durée 00:00:04.13  Lisibilité 68
+porque, afinal, tenho minha vida,
+minha família, meus filhos aqui.
+
+ 894: 10:51:26.11 10:51:27.18  Durée 00:00:01.07  Lisibilité 19
+E por outro lado,
+
+ 895: 10:51:27.22 10:51:31.22  Durée 00:00:04.00  Lisibilité 60
+como você pode parar
+de procurar sua família?
+
+ 896: 10:51:32.01 10:51:35.22  Durée 00:00:03.21  Lisibilité 58
+Penso que a esperança
+está sempre presente.
+
+ 897: 10:51:46.21 10:51:50.15  Durée 00:00:03.19  Lisibilité 56
+O caso do tráfico de bebês adotados
+do Sri Lanka só começou,
+
+ 898: 10:51:50.19 10:51:54.09  Durée 00:00:03.15  Lisibilité 54
+e esperamos descobrir tudo
+sobre as redes de adoção
+
+ 899: 10:51:54.13 10:51:56.08  Durée 00:00:01.20  Lisibilité 27
+no Sri Lanka e fora de lá,
+
+ 900: 10:51:56.12 10:51:59.05  Durée 00:00:02.18  Lisibilité 41
+sobretudo a responsabilidade
+das nossas autoridades.
+
+ 901: 10:51:59.09 10:52:01.13  Durée 00:00:02.04  Lisibilité 32
+Saibam que o cantão de Saint-Gall,
+
+ 902: 10:52:01.17 10:52:03.24  Durée 00:00:02.07  Lisibilité 34
+eixo desse tráfico,
+fez um inquérito
+
+ 903: 10:52:04.03 10:52:05.18  Durée 00:00:01.15  Lisibilité 24
+que ainda não é público.
+
+ 904: 10:52:05.22 10:52:08.00  Durée 00:00:02.03  Lisibilité 32
+E não hesitem
+em acessar nosso site
+
+ 905: 10:52:08.04 10:52:11.17  Durée 00:00:03.13  Lisibilité 53
+dos bebês do Sri Lanka na Suíça,
+por Sarah e Olivia,
+
+ 906: 10:52:11.21 10:52:13.15  Durée 00:00:01.19  Lisibilité 26
+e a dar seu apoio.
+
+ 907: 10:52:13.19 10:52:14.19  Durée 00:00:01.00  Lisibilité 15
+Elas precisam.
+
+ 908: 10:52:15.03 10:52:18.02  Durée 00:00:02.24  Lisibilité 44
+Excelente noite a todos,
+ótima semana e até logo.
+
+ 909: 10:52:35.06 10:52:38.06  Durée 00:00:03.00  Lisibilité 45
+Adaptação: Adriana Gasparoni
+Legendagem: ECLAIR
+
