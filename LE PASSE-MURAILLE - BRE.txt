@@ -1,0 +1,3836 @@
+
+   1: 10:01:28.12 10:01:34.06  Durée 00:00:05.19  Lisibilité 86
+      LE PASSE-MURAILLE
+
+   2: 10:01:52.08 10:01:54.13  Durée 00:00:02.05  Lisibilité 33
+      Vous m'avez fait peur, M. Dutilleul.
+
+   3: 10:02:27.01 10:02:27.21  Durée 00:00:00.20  Lisibilité 12
+      S'il vous plaît.
+
+   4: 10:02:51.04 10:02:53.06  Durée 00:00:02.02  Lisibilité 31
+      - Je peux vous aider?
+      - Je vois pas comment.
+
+   5: 10:02:53.11 10:02:56.21  Durée 00:00:03.10  Lisibilité 51
+      Le badge est désactivé.
+      Je dois passer par la sécurité.
+
+   6: 10:02:57.00 10:02:58.20  Durée 00:00:01.20  Lisibilité 27
+      - Pardon.
+      - Je peux essayer?
+
+   7: 10:03:02.05 10:03:03.17  Durée 00:00:01.12  Lisibilité 22
+      Je suis forte pour ces trucs.
+
+   8: 10:03:03.22 10:03:05.16  Durée 00:00:01.19  Lisibilité 26
+      Hop. Pardon. Excusez-moi.
+
+   9: 10:03:05.20 10:03:08.04  Durée 00:00:02.09  Lisibilité 35
+      J'ai rendez-vous.
+      Je suis un peu pressée, aussi.
+
+  10: 10:03:21.13 10:03:22.17  Durée 00:00:01.04  Lisibilité 17
+      Merci.
+
+  11: 10:03:23.13 10:03:24.22  Durée 00:00:01.09  Lisibilité 20
+      - Pardon?
+      - Merci.
+
+  12: 10:03:25.17 10:03:27.00  Durée 00:00:01.08  Lisibilité 20
+      Pour le badge.
+
+  13: 10:03:27.15 10:03:30.09  Durée 00:00:02.19  Lisibilité 41
+      Je me prends toutes les portes,
+      aujourd'hui.
+
+  14: 10:03:30.13 10:03:33.20  Durée 00:00:03.07  Lisibilité 49
+      Il y a des jours comme ça.
+      Il ne faut pas insister dans ce cas.
+
+  15: 10:03:35.20 10:03:38.01  Durée 00:00:02.06  Lisibilité 34
+      - Je m'appelle Ariane.
+      - Émile Dutilleul.
+
+  16: 10:03:39.01 10:03:41.13  Durée 00:00:02.12  Lisibilité 37
+      Mais j'aime pas particulièrement
+      le tilleul.
+
+  17: 10:03:41.17 10:03:43.07  Durée 00:00:01.15  Lisibilité 24
+      Ni la tisane, d'ailleurs.
+
+  18: 10:03:46.07 10:03:47.19  Durée 00:00:01.12  Lisibilité 22
+      Moi, j'aime bien la tisane.
+
+  19: 10:03:54.06 10:03:55.20  Durée 00:00:01.14  Lisibilité 23
+      - Excusez-moi.
+      - Oui?
+
+  20: 10:03:55.24 10:03:58.07  Durée 00:00:02.08  Lisibilité 35
+      - Le chef de service s'appelle?
+      - Aux sinistres?
+
+  21: 10:03:58.11 10:04:00.06  Durée 00:00:01.20  Lisibilité 27
+      - Pardon?
+      - Au département sinistre?
+
+  22: 10:04:00.10 10:04:02.14  Durée 00:00:02.04  Lisibilité 32
+      - Sinistres. Oui.
+      - Franck Lecuyer. Pourquoi?
+
+  23: 10:04:02.18 10:04:03.20  Durée 00:00:01.02  Lisibilité 16
+      C'est là.
+
+  24: 10:04:03.24 10:04:04.23  Durée 00:00:00.24  Lisibilité 14
+      Merci.
+
+  25: 10:04:05.18 10:04:08.02  Durée 00:00:02.09  Lisibilité 35
+      Bonjour. Je voudrais parler
+      à Franck Lecuyer.
+
+  26: 10:04:13.14 10:04:14.11  Durée 00:00:00.22  Lisibilité 13
+      Bonjour.
+
+  27: 10:04:14.15 10:04:15.16  Durée 00:00:01.01  Lisibilité 16
+      Bonjour.
+
+  28: 10:04:18.24 10:04:21.16  Durée 00:00:02.17  Lisibilité 40
+      "Déclaration sinistre
+      de votre résidence principale...
+
+  29: 10:04:21.20 10:04:24.13  Durée 00:00:02.18  Lisibilité 41
+      "Par conséquent, 
+      il m'est impossible de..."
+
+  30: 10:04:44.17 10:04:46.00  Durée 00:00:01.08  Lisibilité 20
+      Pardon. Excusez-moi.
+
+  31: 10:04:46.20 10:04:49.03  Durée 00:00:02.08  Lisibilité 35
+      On m'a passé un disque dur.
+      Je le branche où?
+
+  32: 10:04:49.08 10:04:52.22  Durée 00:00:03.14  Lisibilité 53
+      Il y a dock, là. Tu le plugues
+      et tu mets ton mot de passe.
+
+  33: 10:04:53.02 10:04:55.13  Durée 00:00:02.11  Lisibilité 37
+      Sarah et Nicolas,
+      au service juridique.
+
+  34: 10:04:55.17 10:04:57.10  Durée 00:00:01.18  Lisibilité 26
+      T'as Bruno, là. Cravate rouge.
+
+  35: 10:04:57.14 10:04:58.23  Durée 00:00:01.09  Lisibilité 20
+      Très sympa.
+
+  36: 10:04:59.02 10:05:00.02  Durée 00:00:01.00  Lisibilité 15
+      Et elle, c'est?
+
+  37: 10:05:00.06 10:05:01.19  Durée 00:00:01.13  Lisibilité 23
+      Marie, la réceptionniste.
+
+  38: 10:05:03.09 10:05:06.05  Durée 00:00:02.21  Lisibilité 43
+      Ça va. Il faut juste pas
+      qu'elle t'ait dans le nez.
+
+  39: 10:05:06.09 10:05:07.04  Durée 00:00:00.20  Lisibilité 12
+      D'accord.
+
+  40: 10:05:07.24 10:05:10.03  Durée 00:00:02.04  Lisibilité 32
+      Et lui, c'est Dutilleul, c'est ça?
+
+  41: 10:05:10.22 10:05:12.07  Durée 00:00:01.10  Lisibilité 21
+      Dutilleul...
+
+  42: 10:05:12.11 10:05:14.01  Durée 00:00:01.15  Lisibilité 24
+      ben, c'est Dutilleul.
+
+  43: 10:05:14.05 10:05:16.11  Durée 00:00:02.06  Lisibilité 34
+      On a construit les murs
+      autour de lui.
+
+  44: 10:05:16.16 10:05:18.19  Durée 00:00:02.03  Lisibilité 32
+      Tretrapyrax
+
+  45: 10:05:18.23 10:05:20.15  Durée 00:00:01.17  Lisibilité 25
+      - Bonjour, Chloé.
+      - Salut, Jérôme.
+
+  46: 10:05:24.23 10:05:27.23  Durée 00:00:03.00  Lisibilité 45
+      Théoriquement, tu peux accéder
+      à n'importe quel dossier.
+
+  47: 10:05:28.03 10:05:31.09  Durée 00:00:03.06  Lisibilité 49
+      Je te trace les grandes lignes,
+      tu vois les détails avec Chloé.
+
+  48: 10:05:31.14 10:05:34.12  Durée 00:00:02.23  Lisibilité 44
+      Niveau bureautique, ça va?
+      Powerpoint, ça va?
+
+  49: 10:05:34.16 10:05:37.08  Durée 00:00:02.17  Lisibilité 40
+      "Powerpoint", ça va, oui.
+      Ça va bien, même.
+
+  50: 10:05:37.12 10:05:39.01  Durée 00:00:01.14  Lisibilité 23
+      Alors... Ah, Émile.
+
+  51: 10:05:39.05 10:05:41.09  Durée 00:00:02.04  Lisibilité 32
+      - Tu as reçu mon courriel?
+      - Oui, oui.
+
+  52: 10:05:41.14 10:05:43.21  Durée 00:00:02.07  Lisibilité 34
+      - Je dois préparer quelque chose?
+      - Non, non.
+
+  53: 10:05:44.01 10:05:46.04  Durée 00:00:02.03  Lisibilité 32
+      Je vois tout le monde,
+      comme on va restructurer.
+
+  54: 10:05:46.09 10:05:48.09  Durée 00:00:02.00  Lisibilité 30
+      Restructurer, c'est la maladie
+      à la mode.
+
+  55: 10:05:48.13 10:05:51.24  Durée 00:00:03.11  Lisibilité 52
+      C'est la méthode luxembourgeoise.
+      On va faire un "bouneschlupp".
+
+  56: 10:05:52.03 10:05:52.23  Durée 00:00:00.20  Lisibilité 12
+      Pardon?
+
+  57: 10:05:53.10 10:05:54.19  Durée 00:00:01.09  Lisibilité 20
+      Tu connais pas?
+
+  58: 10:05:54.23 10:05:57.01  Durée 00:00:02.03  Lisibilité 32
+      C'est une soupe de légumes.
+      Un mélange.
+
+  59: 10:05:57.05 10:06:00.07  Durée 00:00:03.02  Lisibilité 46
+      Il va falloir faire une soupe
+      avec toutes sortes de légumes.
+
+  60: 10:06:00.24 10:06:02.00  Durée 00:00:01.01  Lisibilité 16
+      - Ouais.
+      - Voilà.
+
+  61: 10:06:03.06 10:06:04.10  Durée 00:00:01.04  Lisibilité 17
+      Alors...
+
+  62: 10:06:04.14 10:06:06.23  Durée 00:00:02.09  Lisibilité 35
+      Donc Easy File, le logiciel maison.
+
+  63: 10:06:15.11 10:06:16.18  Durée 00:00:01.07  Lisibilité 19
+      Pardon. Excusez-moi.
+
+  64: 10:06:18.11 10:06:19.11  Durée 00:00:01.00  Lisibilité 15
+      Pardon.
+
+  65: 10:06:22.08 10:06:23.16  Durée 00:00:01.08  Lisibilité 20
+      Au fait, merci.
+
+  66: 10:06:24.09 10:06:25.12  Durée 00:00:01.03  Lisibilité 17
+      Il n'y a pas de quoi.
+
+  67: 10:06:26.07 10:06:27.18  Durée 00:00:01.11  Lisibilité 22
+      Pour quoi?
+
+  68: 10:06:27.22 10:06:29.22  Durée 00:00:02.00  Lisibilité 30
+      Je suis entrée grâce à toi,
+      ce matin.
+
+  69: 10:06:30.02 10:06:31.13  Durée 00:00:01.11  Lisibilité 22
+      J'avais pas rendez-vous.
+
+  70: 10:06:33.03 10:06:36.23  Durée 00:00:03.20  Lisibilité 57
+      Franck m'a fait signer un stage.
+      Après, on verra bien si ça embauche.
+
+  71: 10:06:37.02 10:06:38.11  Durée 00:00:01.09  Lisibilité 20
+      Ben, ça, c'est bien, ça.
+
+  72: 10:06:38.16 10:06:40.11  Durée 00:00:01.20  Lisibilité 27
+      C'est un échange de bons procédés.
+
+  73: 10:06:44.24 10:06:48.00  Durée 00:00:03.01  Lisibilité 46
+      - Et toi, t'es dans la boîte...
+      - Ah, depuis 1988.
+
+  74: 10:06:48.04 10:06:49.17  Durée 00:00:01.13  Lisibilité 23
+      Ouais. Ça file.
+
+  75: 10:06:49.21 10:06:52.03  Durée 00:00:02.07  Lisibilité 34
+      Au début, j'ai eu une formation
+      de comptable,
+
+  76: 10:06:52.07 10:06:55.07  Durée 00:00:03.00  Lisibilité 45
+      mais l'assurance...
+      c'est plus rock 'n' roll.
+
+  77: 10:06:56.16 10:06:57.19  Durée 00:00:01.03  Lisibilité 17
+      Eh oui.
+
+  78: 10:07:02.08 10:07:03.12  Durée 00:00:01.04  Lisibilité 17
+      Les fuites d'eau...
+
+  79: 10:07:03.16 10:07:06.03  Durée 00:00:02.12  Lisibilité 37
+      Tu connais tous les cas de figure,
+      non?
+
+  80: 10:07:06.15 10:07:09.09  Durée 00:00:02.19  Lisibilité 41
+      Dégâts des eaux, feux de cuisine,
+      accidents de la route,
+
+  81: 10:07:09.13 10:07:10.13  Durée 00:00:01.00  Lisibilité 15
+      c'est la base.
+
+  82: 10:07:12.08 10:07:13.24  Durée 00:00:01.16  Lisibilité 25
+      Je peux te demander un service?
+
+  83: 10:07:15.02 10:07:16.01  Durée 00:00:00.24  Lisibilité 14
+      Oui.
+
+  84: 10:07:18.22 10:07:20.05  Durée 00:00:01.08  Lisibilité 20
+      Voilà. C'est là.
+
+  85: 10:07:32.18 10:07:33.22  Durée 00:00:01.04  Lisibilité 17
+      Le bien t'appartient?
+
+  86: 10:07:34.01 10:07:35.17  Durée 00:00:01.16  Lisibilité 25
+      La maison, mais pas le terrain.
+
+  87: 10:07:35.21 10:07:39.01  Durée 00:00:03.05  Lisibilité 48
+      Ils vont faire un jardin public.
+      J'aimerais bien voir ça.
+
+  88: 10:07:39.05 10:07:40.14  Durée 00:00:01.09  Lisibilité 20
+      Tu as été au cadastre?
+
+  89: 10:07:40.18 10:07:41.19  Durée 00:00:01.01  Lisibilité 16
+      Non.
+
+  90: 10:07:42.16 10:07:45.20  Durée 00:00:03.04  Lisibilité 47
+      J'ai hérité de la maison
+      et des ennuis qui vont avec.
+
+  91: 10:07:45.24 10:07:48.03  Durée 00:00:02.04  Lisibilité 32
+      Un problème de plomberie,
+      c'est pas insoluble.
+
+  92: 10:07:48.23 10:07:51.18  Durée 00:00:02.20  Lisibilité 42
+      T'es prêt? Ça va te faire un choc,
+      je te préviens.
+
+  93: 10:07:56.17 10:07:57.20  Durée 00:00:01.03  Lisibilité 17
+      Je t'en prie.
+
+  94: 10:08:04.02 10:08:05.17  Durée 00:00:01.15  Lisibilité 24
+      Non, non. Ça a du charme.
+
+  95: 10:08:07.01 10:08:09.07  Durée 00:00:02.06  Lisibilité 34
+      L'étage est condamné,
+      pour le moment.
+
+  96: 10:08:09.11 10:08:11.17  Durée 00:00:02.06  Lisibilité 34
+      En fait, tout est pourri, là-haut.
+
+  97: 10:08:11.21 10:08:13.12  Durée 00:00:01.16  Lisibilité 25
+      Et la fuite, c'est là. Regarde.
+
+  98: 10:08:14.07 10:08:17.05  Durée 00:00:02.23  Lisibilité 44
+      J'ai fait venir 12 000 plombiers.
+      Ils ont rien trouvé.
+
+  99: 10:08:36.15 10:08:37.12  Durée 00:00:00.22  Lisibilité 13
+      Alors?
+
+ 100: 10:08:37.16 10:08:38.17  Durée 00:00:01.01  Lisibilité 16
+      Bonne nouvelle.
+
+ 101: 10:08:38.22 10:08:42.04  Durée 00:00:03.07  Lisibilité 49
+      C'est la remontée d'égouts:
+      engorgement du mur par capillarité.
+
+ 102: 10:08:42.08 10:08:44.04  Durée 00:00:01.21  Lisibilité 28
+      Rien à voir avec tes tuyaux.
+
+ 103: 10:08:44.08 10:08:46.01  Durée 00:00:01.18  Lisibilité 26
+      - Bon.
+      - Tu seras remboursée.
+
+ 104: 10:08:46.05 10:08:49.04  Durée 00:00:02.24  Lisibilité 44
+      Si le dossier est bien ficelé,
+      la ville devra te dédommager.
+
+ 105: 10:08:49.08 10:08:51.18  Durée 00:00:02.10  Lisibilité 36
+      - Tu es assurée chez qui?
+      - Normazur.
+
+ 106: 10:08:51.22 10:08:53.23  Durée 00:00:02.01  Lisibilité 31
+      Comme 4 millions de Français.
+      Très bien.
+
+ 107: 10:08:57.03 10:08:58.10  Durée 00:00:01.07  Lisibilité 19
+      Je te le monte, si tu veux.
+
+ 108: 10:08:59.06 10:09:00.09  Durée 00:00:01.03  Lisibilité 17
+      Le dossier?
+
+ 109: 10:09:01.00 10:09:02.12  Durée 00:00:01.12  Lisibilité 22
+      Vraiment? Tu ferais ça?
+
+ 110: 10:09:04.21 10:09:06.17  Durée 00:00:01.21  Lisibilité 28
+      Oh, merci, merci, merci.
+
+ 111: 10:09:06.21 10:09:09.17  Durée 00:00:02.21  Lisibilité 43
+      Eh bien, la semaine prochaine,
+      je te paie un resto.
+
+ 112: 10:09:10.14 10:09:11.15  Durée 00:00:01.01  Lisibilité 16
+      Merde. Déjà?
+
+ 113: 10:09:12.20 10:09:14.10  Durée 00:00:01.15  Lisibilité 24
+      C'est mon job du soir.
+
+ 114: 10:09:15.03 10:09:17.05  Durée 00:00:02.02  Lisibilité 31
+      J'en ai pour 2 secondes.
+      Tu m'attends?
+
+ 115: 10:10:07.20 10:10:09.14  Durée 00:00:01.19  Lisibilité 26
+      Tiens. Tu m'aides?
+
+ 116: 10:10:12.00 10:10:13.02  Durée 00:00:01.02  Lisibilité 16
+      Merci.
+
+ 117: 10:10:18.24 10:10:20.15  Durée 00:00:01.16  Lisibilité 25
+      C'est à toi, tous ces animaux?
+
+ 118: 10:10:20.19 10:10:22.15  Durée 00:00:01.21  Lisibilité 28
+      Pas vraiment.
+      Ils sont en pension.
+
+ 119: 10:10:23.12 10:10:25.00  Durée 00:00:01.13  Lisibilité 23
+      Je les garde pour des amis.
+
+ 120: 10:10:28.08 10:10:30.10  Durée 00:00:02.02  Lisibilité 31
+      Oh là là, je suis en retard. Merci.
+
+ 121: 10:10:30.14 10:10:31.23  Durée 00:00:01.09  Lisibilité 20
+      - Attends.
+      - Je peux?
+
+ 122: 10:10:32.02 10:10:33.15  Durée 00:00:01.13  Lisibilité 23
+      Attends. Tiens-moi ça.
+
+ 123: 10:10:33.19 10:10:35.02  Durée 00:00:01.08  Lisibilité 20
+      Oui. Fais-le.
+
+ 124: 10:10:35.07 10:10:37.03  Durée 00:00:01.21  Lisibilité 28
+      Je suis en retard. 
+
+ 125: 10:10:37.07 10:10:38.13  Durée 00:00:01.06  Lisibilité 19
+      Merci beaucoup.
+
+ 126: 10:10:44.00 10:10:45.17  Durée 00:00:01.17  Lisibilité 25
+      - On y va?
+      - Oui.
+
+ 127: 10:11:02.23 10:11:03.18  Durée 00:00:00.20  Lisibilité 12
+      Ça va?
+
+ 128: 10:11:05.18 10:11:07.13  Durée 00:00:01.20  Lisibilité 27
+      Ça me fait rire.
+      Je peux pas m'empêcher.
+
+ 129: 10:11:07.17 10:11:08.23  Durée 00:00:01.06  Lisibilité 19
+      Ça va. Rien de cassé.
+
+ 130: 10:11:09.02 10:11:10.04  Durée 00:00:01.02  Lisibilité 16
+      - T'es sûr?
+      - Oui.
+
+ 131: 10:11:10.08 10:11:11.15  Durée 00:00:01.07  Lisibilité 19
+      Je t'abandonne, alors.
+
+ 132: 10:11:11.19 10:11:13.20  Durée 00:00:02.01  Lisibilité 31
+      Oui, oui. Vas-y.
+      Tu vas être en retard.
+
+ 133: 10:12:05.22 10:12:07.06  Durée 00:00:01.09  Lisibilité 20
+      #Elle est pas égoïste.#
+
+ 134: 10:12:07.10 10:12:09.03  Durée 00:00:01.18  Lisibilité 26
+      Pardon, M. Lascar,
+      mais ça recommence.
+
+ 135: 10:12:09.07 10:12:10.02  Durée 00:00:00.20  Lisibilité 12
+      Quoi?
+
+ 136: 10:12:10.06 10:12:13.04  Durée 00:00:02.23  Lisibilité 44
+      Je vous ai offert un casque.
+      Vous le mettez plus.
+
+ 137: 10:12:13.08 10:12:15.04  Durée 00:00:01.21  Lisibilité 28
+      Ça m'irrite les oreilles,
+      votre machin.
+
+ 138: 10:12:15.08 10:12:18.08  Durée 00:00:03.00  Lisibilité 45
+      Moi, c'est les boules Quies
+      qui m'irritent les oreilles.
+
+ 139: 10:13:43.10 10:13:44.07  Durée 00:00:00.22  Lisibilité 13
+      Oui?
+
+ 140: 10:13:44.11 10:13:47.01  Durée 00:00:02.15  Lisibilité 39
+      #Alors, tu décroches plus#
+      #ton portable?#
+
+ 141: 10:13:47.05 10:13:48.10  Durée 00:00:01.05  Lisibilité 18
+      #Il t'est arrivé un truc?#
+
+ 142: 10:13:48.14 10:13:50.07  Durée 00:00:01.18  Lisibilité 26
+      Véronique, tu as vu l'heure?
+
+ 143: 10:13:50.12 10:13:52.13  Durée 00:00:02.01  Lisibilité 31
+      21 h 57. Pourquoi? T'es couché?
+
+ 144: 10:13:53.09 10:13:54.16  Durée 00:00:01.07  Lisibilité 19
+      Non, non.
+
+ 145: 10:13:54.20 10:13:55.15  Durée 00:00:00.20  Lisibilité 12
+      Tu veux quoi?
+
+ 146: 10:13:56.05 10:13:58.08  Durée 00:00:02.03  Lisibilité 32
+      Eh bien, raconte ton rendez-vous.
+
+ 147: 10:13:58.13 10:14:00.21  Durée 00:00:02.08  Lisibilité 35
+      J'ai complètement oublié d'y aller.
+
+ 148: 10:14:01.00 10:14:02.08  Durée 00:00:01.08  Lisibilité 20
+      #Ah bon?#
+
+ 149: 10:14:02.12 10:14:06.09  Durée 00:00:03.22  Lisibilité 58
+      #Oh, ben, t'es gonflé, quand même.#
+      #Je t'ai fait un profil de malade,#
+
+ 150: 10:14:06.14 10:14:08.11  Durée 00:00:01.22  Lisibilité 28
+      et tu oublies d'y aller.
+      Mais je rêve.
+
+ 151: 10:14:08.16 10:14:09.13  Durée 00:00:00.22  Lisibilité 13
+      Pardon.
+
+ 152: 10:14:09.17 10:14:10.23  Durée 00:00:01.06  Lisibilité 19
+      #C'est mort, maintenant.#
+
+ 153: 10:14:11.03 10:14:13.13  Durée 00:00:02.10  Lisibilité 36
+      La fille a dû mettre un commentaire
+      de merde.
+
+ 154: 10:14:13.17 10:14:16.02  Durée 00:00:02.10  Lisibilité 36
+      T'es grillé sur ce site.
+      Je dois tout refaire.
+
+ 155: 10:14:16.06 10:14:17.16  Durée 00:00:01.10  Lisibilité 21
+      Non, tu ne refais rien.
+
+ 156: 10:14:17.21 10:14:21.16  Durée 00:00:03.20  Lisibilité 57
+      Surtout, évite de mettre cette photo
+      de moi quand j'avais des cheveux.
+
+ 157: 10:14:21.20 10:14:23.17  Durée 00:00:01.22  Lisibilité 28
+      Ça fait 12 ans qu'on est divorcés.
+
+ 158: 10:14:23.22 10:14:25.08  Durée 00:00:01.11  Lisibilité 22
+      #Arrête de t'occuper ma vie.#
+
+ 159: 10:14:25.12 10:14:27.21  Durée 00:00:02.09  Lisibilité 35
+      Ben, tu vas finir tout seul
+      si tu continues.
+
+ 160: 10:14:29.01 10:14:31.17  Durée 00:00:02.16  Lisibilité 40
+      #- Tu devrais me remercier.#
+      - Eh bien, merci.
+
+ 161: 10:14:37.11 10:14:39.07  Durée 00:00:01.21  Lisibilité 28
+      - Pierrot va bien?
+      #- Ouais.#
+
+ 162: 10:14:39.12 10:14:41.12  Durée 00:00:02.00  Lisibilité 30
+      T'oublie pas,
+      tu le gardes dimanche.
+
+ 163: 10:14:41.17 10:14:43.09  Durée 00:00:01.17  Lisibilité 25
+      Son père ne peut pas le prendre?
+
+ 164: 10:14:43.14 10:14:45.19  Durée 00:00:02.05  Lisibilité 33
+      Depuis quand son père
+      peut le prendre?
+
+ 165: 10:14:45.23 10:14:47.00  Durée 00:00:01.02  Lisibilité 16
+      #Je passerai le chercher.#
+
+ 166: 10:14:48.04 10:14:48.24  Durée 00:00:00.20  Lisibilité 12
+      Bisou.
+
+ 167: 10:14:49.12 10:14:50.23  Durée 00:00:01.11  Lisibilité 22
+      C'est ça. Bisou.
+
+ 168: 10:14:55.17 10:14:56.19  Durée 00:00:01.02  Lisibilité 16
+      "Bisou..."
+
+ 169: 10:14:59.04 10:15:00.03  Durée 00:00:00.24  Lisibilité 14
+      "Bisou. Bisou."
+
+ 170: 10:17:12.19 10:17:14.01  Durée 00:00:01.07  Lisibilité 19
+      C'est pas possible, ça.
+
+ 171: 10:17:22.02 10:17:24.01  Durée 00:00:01.24  Lisibilité 29
+      M. Dutilleul, s'il vous plaît.
+
+ 172: 10:17:28.08 10:17:30.10  Durée 00:00:02.02  Lisibilité 31
+      D'habitude, je vois le Dr Henri.
+
+ 173: 10:17:30.14 10:17:32.10  Durée 00:00:01.21  Lisibilité 28
+      C'est moi qui le remplace.
+
+ 174: 10:17:32.14 10:17:34.12  Durée 00:00:01.23  Lisibilité 29
+      Le Dr Henri a pris sa retraite.
+
+ 175: 10:17:36.08 10:17:37.20  Durée 00:00:01.12  Lisibilité 22
+      - Tetrapyrax.
+      - Oui.
+
+ 176: 10:17:37.24 10:17:39.02  Durée 00:00:01.03  Lisibilité 17
+      Bien.
+
+ 177: 10:17:40.02 10:17:42.08  Durée 00:00:02.06  Lisibilité 34
+      Vous pouvez me décrire
+      vos symptômes?
+
+ 178: 10:17:43.18 10:17:44.15  Durée 00:00:00.22  Lisibilité 13
+      Je ne sais plus.
+
+ 179: 10:17:46.03 10:17:47.03  Durée 00:00:01.00  Lisibilité 15
+      Vous savez plus?
+
+ 180: 10:17:47.07 10:17:50.15  Durée 00:00:03.08  Lisibilité 50
+      Quand j'oublie d'en prendre,
+      ça ne va pas, la tête me tourne.
+
+ 181: 10:17:50.19 10:17:53.01  Durée 00:00:02.07  Lisibilité 34
+      Et depuis peu,
+      il se passe des choses bizarres.
+
+ 182: 10:17:53.16 10:17:56.14  Durée 00:00:02.23  Lisibilité 44
+      J'ai des démangeaisons et...
+
+ 183: 10:17:57.09 10:17:58.04  Durée 00:00:00.20  Lisibilité 12
+      je me sens...
+
+ 184: 10:18:02.15 10:18:04.05  Durée 00:00:01.15  Lisibilité 24
+      Comment... Comment dirais-je?
+
+ 185: 10:18:08.06 10:18:10.09  Durée 00:00:02.03  Lisibilité 32
+      J'en prends
+      depuis que je suis tout petit.
+
+ 186: 10:18:10.13 10:18:12.12  Durée 00:00:01.24  Lisibilité 29
+      Ah bon? Depuis combien de temps?
+
+ 187: 10:18:13.03 10:18:14.12  Durée 00:00:01.09  Lisibilité 20
+      Environ 35 ans.
+
+ 188: 10:18:14.17 10:18:17.11  Durée 00:00:02.19  Lisibilité 41
+      Vous prenez du Tetrapyrax
+      depuis 35 ans?
+
+ 189: 10:18:17.15 10:18:19.12  Durée 00:00:01.22  Lisibilité 28
+      Et vous ne savez plus pourquoi?
+
+ 190: 10:18:19.17 10:18:23.02  Durée 00:00:03.10  Lisibilité 51
+      Petit, j'étais infernal.
+      Je connaissais pas mes limites.
+
+ 191: 10:18:23.06 10:18:24.19  Durée 00:00:01.13  Lisibilité 23
+      Ma mère m'a élevé toute seule.
+
+ 192: 10:18:24.23 10:18:28.15  Durée 00:00:03.17  Lisibilité 55
+      Le Dr Henri lui a dit
+      que ces médicaments me cadreraient.
+
+ 193: 10:18:28.19 10:18:31.11  Durée 00:00:02.17  Lisibilité 40
+      Il fallait à tout prix
+      que j'évite les émotions fortes.
+
+ 194: 10:18:31.15 10:18:33.24  Durée 00:00:02.09  Lisibilité 35
+      Du coup, j'ai pris un métier calme.
+
+ 195: 10:18:34.03 10:18:35.14  Durée 00:00:01.11  Lisibilité 22
+      Dans l'assurance.
+
+ 196: 10:18:35.18 10:18:36.15  Durée 00:00:00.22  Lisibilité 13
+      Ma vie est calme.
+
+ 197: 10:18:37.12 10:18:39.15  Durée 00:00:02.03  Lisibilité 32
+      Et vous auriez préféré autre chose?
+
+ 198: 10:18:40.17 10:18:42.06  Durée 00:00:01.14  Lisibilité 23
+      Je ne sais pas.
+
+ 199: 10:18:42.20 10:18:44.19  Durée 00:00:01.24  Lisibilité 29
+      Mais... j'aimerais mieux ne pas...
+
+ 200: 10:18:45.14 10:18:46.23  Durée 00:00:01.09  Lisibilité 20
+      Ben, c'est-à-dire...
+
+ 201: 10:18:47.18 10:18:49.04  Durée 00:00:01.11  Lisibilité 22
+      J'aimerais mieux ne pas...
+
+ 202: 10:18:50.21 10:18:52.16  Durée 00:00:01.20  Lisibilité 27
+      Vous aimeriez "mieux ne pas" quoi?
+
+ 203: 10:18:54.02 10:18:56.11  Durée 00:00:02.09  Lisibilité 35
+      Je voudrais être comme tout le monde.
+
+ 204: 10:18:56.15 10:18:59.00  Durée 00:00:02.10  Lisibilité 36
+      Mais vous êtes comme tout le monde,
+      M. Dutilleul.
+
+ 205: 10:19:00.02 10:19:01.07  Durée 00:00:01.05  Lisibilité 18
+      Alors...
+
+ 206: 10:19:03.09 10:19:04.19  Durée 00:00:01.10  Lisibilité 21
+      Tetrapyrax.
+
+ 207: 10:19:05.09 10:19:08.00  Durée 00:00:02.16  Lisibilité 40
+      Je ne connaissais pas
+      cette molécule. Non.
+
+ 208: 10:19:08.05 10:19:11.01  Durée 00:00:02.21  Lisibilité 43
+      Mais il semblerait que le médicament
+      n'ait plus cours.
+
+ 209: 10:19:11.05 10:19:13.12  Durée 00:00:02.07  Lisibilité 34
+      - Comment ça?
+      - Il a été supprimé.
+
+ 210: 10:19:13.16 10:19:16.20  Durée 00:00:03.04  Lisibilité 47
+      Que vous en preniez ou pas,
+      ça change pas grand-chose.
+
+ 211: 10:19:17.07 10:19:18.09  Durée 00:00:01.02  Lisibilité 16
+      - Ah bon?
+      - Mais oui.
+
+ 212: 10:19:18.13 10:19:22.01  Durée 00:00:03.13  Lisibilité 53
+      C'était pour vous tenir tranquille
+      quand vous étiez petit.
+
+ 213: 10:19:22.06 10:19:24.06  Durée 00:00:02.00  Lisibilité 30
+      De là à en prendre pendant 35 ans,
+
+ 214: 10:19:24.10 10:19:27.03  Durée 00:00:02.18  Lisibilité 41
+      c'était vraiment pas nécessaire,
+      à mon avis.
+
+ 215: 10:19:29.00 10:19:31.16  Durée 00:00:02.16  Lisibilité 40
+      Tetrapyrax
+
+ 216: 10:19:35.04 10:19:36.09  Durée 00:00:01.05  Lisibilité 18
+      Tetrapyrrole
+
+ 217: 10:19:51.18 10:19:54.21  Durée 00:00:03.03  Lisibilité 47
+      Ah, Ariane, tu as pensé à mes slides
+      pour les Luxembourgeois?
+
+ 218: 10:19:55.00 10:19:57.15  Durée 00:00:02.15  Lisibilité 39
+      - Ce sera prêt en fin de matinée.
+      - Super. Merci.
+
+ 219: 10:19:59.15 10:20:01.10  Durée 00:00:01.20  Lisibilité 27
+      Je peux te laisser ça?
+
+ 220: 10:20:04.03 10:20:05.03  Durée 00:00:01.00  Lisibilité 15
+      Émile,
+
+ 221: 10:20:06.08 10:20:08.09  Durée 00:00:02.01  Lisibilité 31
+      les slides, c'est Powerpoint,
+      c'est ça?
+
+ 222: 10:20:08.14 10:20:10.04  Durée 00:00:01.15  Lisibilité 24
+      Tu veux un coup de main?
+
+ 223: 10:20:10.09 10:20:11.22  Durée 00:00:01.13  Lisibilité 23
+      Je suis pas très camemberts.
+
+ 224: 10:20:12.02 10:20:13.19  Durée 00:00:01.17  Lisibilité 25
+      Tu m'envoies les données,
+      je m'en occupe.
+
+ 225: 10:20:13.23 10:20:14.24  Durée 00:00:01.01  Lisibilité 16
+      Merci beaucoup.
+
+ 226: 10:20:15.03 10:20:15.23  Durée 00:00:00.20  Lisibilité 12
+      Émile?
+
+ 227: 10:20:23.11 10:20:26.00  Durée 00:00:02.14  Lisibilité 38
+      Tu sais qu'on est entrés
+      dans la boîte la même année?
+
+ 228: 10:20:26.04 10:20:28.05  Durée 00:00:02.01  Lisibilité 31
+      - Ça file.
+      - T'étais déjà aux sinistres?
+
+ 229: 10:20:31.06 10:20:34.04  Durée 00:00:02.23  Lisibilité 44
+      J'ai toujours fait mon travail
+      normalement.
+
+ 230: 10:20:34.08 10:20:35.05  Durée 00:00:00.22  Lisibilité 13
+      "Normalement", oui.
+
+ 231: 10:20:35.21 10:20:38.18  Durée 00:00:02.22  Lisibilité 43
+      Mais ça suffit plus,
+      malheureusement, "normalement".
+
+ 232: 10:20:38.22 10:20:41.17  Durée 00:00:02.20  Lisibilité 42
+      Je vais être totalement transparent
+      avec toi.
+
+ 233: 10:20:41.21 10:20:42.24  Durée 00:00:01.03  Lisibilité 17
+      T'es trop jeune
+
+ 234: 10:20:43.04 10:20:44.16  Durée 00:00:01.12  Lisibilité 22
+      pour la préretraite,
+
+ 235: 10:20:44.20 10:20:46.04  Durée 00:00:01.09  Lisibilité 20
+      mais avec 6 ou 7 ans de plus,
+
+ 236: 10:20:46.16 10:20:48.17  Durée 00:00:02.01  Lisibilité 31
+      c'est ce qu'on t'aurait proposé,
+      j'en ai peur.
+
+ 237: 10:20:49.06 10:20:50.01  Durée 00:00:00.20  Lisibilité 12
+      C'est-à-dire?
+
+ 238: 10:20:50.18 10:20:52.12  Durée 00:00:01.19  Lisibilité 26
+      Tu as 46 ans, Émile.
+
+ 239: 10:20:53.12 10:20:55.06  Durée 00:00:01.19  Lisibilité 26
+      Dans 10 ans, combien t'auras?
+
+ 240: 10:20:55.23 10:20:56.24  Durée 00:00:01.01  Lisibilité 16
+      56, normalement.
+
+ 241: 10:20:57.22 10:20:59.00  Durée 00:00:01.03  Lisibilité 17
+      Exactement.
+
+ 242: 10:21:00.05 10:21:01.02  Durée 00:00:00.22  Lisibilité 13
+      Il faut y penser.
+
+ 243: 10:21:09.03 10:21:10.06  Durée 00:00:01.03  Lisibilité 17
+      Mais non.
+
+ 244: 10:21:10.10 10:21:12.21  Durée 00:00:02.11  Lisibilité 37
+      T'as cru quoi?
+      Qu'on allait te virer?
+
+ 245: 10:21:13.01 10:21:15.05  Durée 00:00:02.04  Lisibilité 32
+      Oh, mais t'aurais vu ta tête.
+
+ 246: 10:21:15.18 10:21:17.20  Durée 00:00:02.02  Lisibilité 31
+      Ben, quoi, ma tête?
+      Pas du tout.
+
+ 247: 10:21:18.13 10:21:20.10  Durée 00:00:01.22  Lisibilité 28
+      Sérieusement. Il y a 2 options.
+
+ 248: 10:21:20.14 10:21:23.07  Durée 00:00:02.18  Lisibilité 41
+      Soit tu passes en télétravail
+      à partir de chez toi.
+
+ 249: 10:21:23.11 10:21:26.06  Durée 00:00:02.20  Lisibilité 42
+      Soit tu prends un bureau perso.
+      Il y en a un libre à côté.
+
+ 250: 10:21:26.10 10:21:28.13  Durée 00:00:02.03  Lisibilité 32
+      Désolé, je suis très bien
+      là où je suis.
+
+ 251: 10:21:28.17 10:21:31.03  Durée 00:00:02.11  Lisibilité 37
+      Ça, c'est comme une promotion.
+      Ça se refuse pas.
+
+ 252: 10:21:31.07 10:21:32.20  Durée 00:00:01.13  Lisibilité 23
+      - Mais...
+      - Ça se refuse pas.
+
+ 253: 10:21:34.16 10:21:36.10  Durée 00:00:01.19  Lisibilité 26
+      Ah. Merci donc.
+
+ 254: 10:21:37.10 10:21:39.08  Durée 00:00:01.23  Lisibilité 29
+      J'ai pas vraiment le choix, moi.
+
+ 255: 10:21:40.11 10:21:43.00  Durée 00:00:02.14  Lisibilité 38
+      Les jeunes, on les laisse
+      dans l'open space.
+
+ 256: 10:21:43.04 10:21:45.09  Durée 00:00:02.05  Lisibilité 33
+      Et les anciens, bon, ben, voilà.
+
+ 257: 10:21:46.14 10:21:49.03  Durée 00:00:02.14  Lisibilité 38
+      Bureau perso, ou alors télétravail.
+
+ 258: 10:21:50.20 10:21:53.16  Durée 00:00:02.21  Lisibilité 43
+      Je dois faire de la place, moi,
+      pour les employés de Protect.
+
+ 259: 10:21:53.20 10:21:55.24  Durée 00:00:02.04  Lisibilité 32
+      Les Luxembourgeois.
+      Le "bouneschlupp".
+
+ 260: 10:21:56.03 10:21:58.18  Durée 00:00:02.15  Lisibilité 39
+      Ah oui. Bien sûr.
+      Le fameux "bouneschlupp".
+
+ 261: 10:21:58.22 10:21:59.24  Durée 00:00:01.02  Lisibilité 16
+      Je comprends.
+
+ 262: 10:22:51.07 10:22:53.07  Durée 00:00:02.00  Lisibilité 30
+      Vous avez encore
+      laissé le poste allumé.
+
+ 263: 10:22:53.11 10:22:55.15  Durée 00:00:02.04  Lisibilité 32
+      Ah, vous avez l'ouïe fine, vous.
+
+ 264: 10:23:38.24 10:23:41.13  Durée 00:00:02.14  Lisibilité 38
+      #Quand tu en auras marre de lui,#
+      #moi, je serai là.#
+
+ 265: 10:23:42.13 10:23:44.09  Durée 00:00:01.21  Lisibilité 28
+      Car je vais t'attendre.
+
+ 266: 10:23:49.15 10:23:52.24  Durée 00:00:03.09  Lisibilité 50
+      Euh... Voilà. L'appareil photo,
+      et pouf, la vidéo.
+
+ 267: 10:23:53.03 10:23:55.12  Durée 00:00:02.09  Lisibilité 35
+      Et chtong, le petit bouton rouge.
+
+ 268: 10:23:55.16 10:23:58.00  Durée 00:00:02.09  Lisibilité 35
+      Et voilà, c'est parti.
+
+ 269: 10:24:00.06 10:24:02.22  Durée 00:00:02.16  Lisibilité 40
+      #Journal du passe-muraille:#
+
+ 270: 10:24:03.01 10:24:04.05  Durée 00:00:01.04  Lisibilité 17
+      #1er clip.#
+
+ 271: 10:24:04.09 10:24:08.21  Durée 00:00:04.12  Lisibilité 67
+      #Je vais me livrer à une démonstration
+      devant vous, cher public,#
+
+ 272: 10:24:09.00 10:24:11.07  Durée 00:00:02.07  Lisibilité 34
+      #en direct et sous vos yeux ébahis.#
+
+ 273: 10:24:11.11 10:24:12.14  Durée 00:00:01.03  Lisibilité 17
+      #Suivez-moi.#
+
+ 274: 10:24:20.05 10:24:21.22  Durée 00:00:01.17  Lisibilité 25
+      #Les seuls effets secondaires,#
+
+ 275: 10:24:22.01 10:24:23.12  Durée 00:00:01.11  Lisibilité 22
+      #ce sont des démangeaisons#
+
+ 276: 10:24:23.16 10:24:27.02  Durée 00:00:03.11  Lisibilité 52
+      #qui se manifestent après la traversée
+      d'un mur ou d'une paroi,#
+
+ 277: 10:24:27.06 10:24:29.06  Durée 00:00:02.00  Lisibilité 30
+      #ou parfois, de légers vertiges.#
+
+ 278: 10:24:32.17 10:24:35.07  Durée 00:00:02.15  Lisibilité 39
+      Sinon, tout passe: mon corps 
+
+ 279: 10:24:35.12 10:24:37.13  Durée 00:00:02.01  Lisibilité 31
+      #et tout ce qui entre
+      en contact avec lui.#
+
+ 280: 10:24:38.08 10:24:39.09  Durée 00:00:01.01  Lisibilité 16
+      #Suivez-moi.#
+
+ 281: 10:24:42.12 10:24:45.21  Durée 00:00:03.09  Lisibilité 50
+      Si j'en juge les bruits de tuyauterie
+      qui démarrent au-dessus,
+
+ 282: 10:24:46.01 10:24:48.13  Durée 00:00:02.12  Lisibilité 37
+      #on devrait avoir une scène
+      intéressante.#
+
+ 283: 10:25:21.17 10:25:23.12  Durée 00:00:01.20  Lisibilité 27
+      Qu'est-ce que t'as fait encore?
+
+ 284: 10:25:35.06 10:25:37.23  Durée 00:00:02.17  Lisibilité 40
+      #Évidemment, il me faudra un peu plus#
+      #d'entraînement#
+
+ 285: 10:25:38.02 10:25:40.15  Durée 00:00:02.13  Lisibilité 38
+      #pour apprendre à maîtriser#
+      #cette chose,#
+
+ 286: 10:25:40.19 10:25:43.14  Durée 00:00:02.20  Lisibilité 42
+      #qu'il faut bien que j'appelle#
+      #"mon pouvoir".#
+
+ 287: 10:26:03.06 10:26:04.09  Durée 00:00:01.03  Lisibilité 17
+      Bonjour, maman.
+
+ 288: 10:26:09.07 10:26:11.21  Durée 00:00:02.14  Lisibilité 38
+      Alors, maman,
+      quoi de neuf par ici?
+
+ 289: 10:26:12.24 10:26:14.04  Durée 00:00:01.05  Lisibilité 18
+      Tu sais,
+
+ 290: 10:26:14.08 10:26:15.23  Durée 00:00:01.15  Lisibilité 24
+      j'ai vu le match, hier.
+
+ 291: 10:26:16.02 10:26:17.00  Durée 00:00:00.23  Lisibilité 14
+      Ah oui, le match.
+
+ 292: 10:26:17.05 10:26:19.15  Durée 00:00:02.10  Lisibilité 36
+      Le grand Noir, il a marqué
+      les 2 buts.
+
+ 293: 10:26:21.01 10:26:23.08  Durée 00:00:02.07  Lisibilité 34
+      Et comment s'appelle-t-il, déjà?
+
+ 294: 10:26:23.12 10:26:25.14  Durée 00:00:02.02  Lisibilité 31
+      Thuram, maman. Lilian Thuram.
+
+ 295: 10:26:25.18 10:26:27.22  Durée 00:00:02.04  Lisibilité 32
+      Ah oui, c'est ça.
+
+ 296: 10:26:28.22 10:26:31.14  Durée 00:00:02.17  Lisibilité 40
+      Il n'en avait jamais marqué
+      un seul, figure-toi.
+
+ 297: 10:26:32.08 10:26:34.13  Durée 00:00:02.05  Lisibilité 33
+      - Et là, tout d'un coup.
+      - Écoute-moi, maman.
+
+ 298: 10:26:34.17 10:26:36.01  Durée 00:00:01.09  Lisibilité 20
+      Tu n'as pas vu ce match.
+
+ 299: 10:26:36.05 10:26:37.07  Durée 00:00:01.02  Lisibilité 16
+      D'accord?
+
+ 300: 10:26:38.23 10:26:40.02  Durée 00:00:01.04  Lisibilité 17
+      Ah bon?
+
+ 301: 10:26:40.06 10:26:42.01  Durée 00:00:01.20  Lisibilité 27
+      C'était la coupe du monde 1998.
+
+ 302: 10:26:43.01 10:26:44.22  Durée 00:00:01.21  Lisibilité 28
+      Il a plus de 15 ans, ce match.
+
+ 303: 10:26:45.01 10:26:45.21  Durée 00:00:00.20  Lisibilité 12
+      La demi-finale.
+
+ 304: 10:26:46.15 10:26:48.14  Durée 00:00:01.24  Lisibilité 29
+      J'étais encore marié avec Véronique.
+
+ 305: 10:26:48.18 10:26:50.06  Durée 00:00:01.13  Lisibilité 23
+      Véronique...
+
+ 306: 10:26:51.01 10:26:52.08  Durée 00:00:01.07  Lisibilité 19
+      Vous êtes séparés?
+
+ 307: 10:26:52.21 10:26:54.10  Durée 00:00:01.14  Lisibilité 23
+      Ça fait des années, maman.
+
+ 308: 10:26:54.14 10:26:55.21  Durée 00:00:01.07  Lisibilité 19
+      Allez. Fais un effort.
+
+ 309: 10:27:02.18 10:27:04.00  Durée 00:00:01.07  Lisibilité 19
+      Votre thé, Viviane.
+
+ 310: 10:27:04.20 10:27:05.20  Durée 00:00:01.00  Lisibilité 15
+      Merci.
+
+ 311: 10:27:11.03 10:27:12.12  Durée 00:00:01.09  Lisibilité 20
+      Et tu t'en sors?
+
+ 312: 10:27:13.14 10:27:15.12  Durée 00:00:01.23  Lisibilité 29
+      La cuisine? Les courses?
+
+ 313: 10:27:15.16 10:27:17.20  Durée 00:00:02.04  Lisibilité 32
+      Mais oui. Ça va, maman.
+      J'ai 46 ans.
+
+ 314: 10:27:19.11 10:27:20.17  Durée 00:00:01.06  Lisibilité 19
+      Tu les fais pas.
+
+ 315: 10:27:20.21 10:27:22.02  Durée 00:00:01.06  Lisibilité 19
+      Merci, maman.
+
+ 316: 10:27:24.11 10:27:27.00  Durée 00:00:02.14  Lisibilité 38
+      - Maman, dis-moi...
+      - Oui, mon chéri?
+
+ 317: 10:27:27.20 10:27:28.21  Durée 00:00:01.01  Lisibilité 16
+      Les médicaments,
+
+ 318: 10:27:29.07 10:27:31.02  Durée 00:00:01.20  Lisibilité 27
+      les gélules de Tetrapyrax,
+
+ 319: 10:27:31.06 10:27:33.04  Durée 00:00:01.23  Lisibilité 29
+      tu sais pourquoi tu m'en donnais?
+
+ 320: 10:27:33.08 10:27:36.01  Durée 00:00:02.18  Lisibilité 41
+      Pourquoi je dois en prendre
+      3 fois par jour?
+
+ 321: 10:27:36.05 10:27:38.06  Durée 00:00:02.01  Lisibilité 31
+      - Tu dois les prendre.
+      - Je sais, maman.
+
+ 322: 10:27:38.10 10:27:40.06  Durée 00:00:01.21  Lisibilité 28
+      C'est pour soigner quoi,
+      exactement?
+
+ 323: 10:27:41.08 10:27:42.20  Durée 00:00:01.12  Lisibilité 22
+      Tu dois les prendre.
+
+ 324: 10:27:44.01 10:27:46.07  Durée 00:00:02.06  Lisibilité 34
+      J'ai regardé sur Internet
+      la molécule,
+
+ 325: 10:27:46.11 10:27:47.17  Durée 00:00:01.06  Lisibilité 19
+      le Tetrapyrrole.
+
+ 326: 10:27:47.21 10:27:49.14  Durée 00:00:01.18  Lisibilité 26
+      Ça sert surtout à la photosynthèse.
+
+ 327: 10:27:49.18 10:27:52.19  Durée 00:00:03.01  Lisibilité 46
+      Il semblerait que ce soit des gélules
+      à diluer pour...
+
+ 328: 10:27:52.23 10:27:55.14  Durée 00:00:02.16  Lisibilité 40
+      pour les plantes,
+      pour la croissance des plantes.
+
+ 329: 10:27:55.18 10:27:57.24  Durée 00:00:02.06  Lisibilité 34
+      Et alors? Je suis pas médecin.
+
+ 330: 10:27:59.00 10:28:01.08  Durée 00:00:02.08  Lisibilité 35
+      Tu en prends depuis que tu es petit.
+
+ 331: 10:28:01.12 10:28:03.14  Durée 00:00:02.02  Lisibilité 31
+      Tu n'as jamais eu
+      le moindre problème.
+
+ 332: 10:28:03.18 10:28:04.22  Durée 00:00:01.04  Lisibilité 17
+      C'est ça, l'important.
+
+ 333: 10:28:06.13 10:28:08.11  Durée 00:00:01.23  Lisibilité 29
+      T'as un caractère bien tempéré.
+
+ 334: 10:28:09.23 10:28:11.11  Durée 00:00:01.13  Lisibilité 23
+      Tu fais toujours ton piano?
+
+ 335: 10:28:12.05 10:28:13.08  Durée 00:00:01.03  Lisibilité 17
+      Oui, maman.
+
+ 336: 10:28:15.00 10:28:16.10  Durée 00:00:01.10  Lisibilité 21
+      Un bon garçon, ça.
+
+ 337: 10:28:19.17 10:28:20.20  Durée 00:00:01.03  Lisibilité 17
+      Hé, mais, maman,
+
+ 338: 10:28:21.00 10:28:23.00  Durée 00:00:02.00  Lisibilité 30
+      on fume pas ici, enfin.
+
+ 339: 10:28:23.05 10:28:24.10  Durée 00:00:01.05  Lisibilité 18
+      Ah bon?
+
+ 340: 10:28:24.14 10:28:25.09  Durée 00:00:00.20  Lisibilité 12
+      Mais pourquoi?
+
+ 341: 10:28:25.14 10:28:27.16  Durée 00:00:02.02  Lisibilité 31
+      On ne fume plus
+      dans les lieux publics.
+
+ 342: 10:28:27.20 10:28:29.08  Durée 00:00:01.13  Lisibilité 23
+      Et pas dans une clinique.
+
+ 343: 10:28:32.02 10:28:33.13  Durée 00:00:01.11  Lisibilité 22
+      C'est absurde.
+
+ 344: 10:28:34.00 10:28:35.02  Durée 00:00:01.02  Lisibilité 16
+      Souriez.
+
+ 345: 10:28:35.24 10:28:38.03  Durée 00:00:02.04  Lisibilité 32
+      #Ma mère depuis qu'elle oublie tout,#
+
+ 346: 10:28:38.07 10:28:39.24  Durée 00:00:01.17  Lisibilité 25
+      #oublie aussi d'être triste.#
+
+ 347: 10:28:40.03 10:28:42.19  Durée 00:00:02.16  Lisibilité 40
+      #Mes visites mensuelles#
+      #en deviennent presque agréables.#
+
+ 348: 10:28:43.14 10:28:45.15  Durée 00:00:02.01  Lisibilité 31
+      #Je l'avais toujours connue inquiète,#
+
+ 349: 10:28:45.20 10:28:47.16  Durée 00:00:01.21  Lisibilité 28
+      #solitaire, mystérieuse, ma mère.#
+
+ 350: 10:29:42.03 10:29:43.12  Durée 00:00:01.09  Lisibilité 20
+      #Journal du passe-muraille:#
+
+ 351: 10:29:43.16 10:29:46.14  Durée 00:00:02.23  Lisibilité 44
+      #je m'efforce d'imaginer#
+      #ce qu'un passe-muraille peut faire#
+
+ 352: 10:29:46.18 10:29:48.13  Durée 00:00:01.20  Lisibilité 27
+      #dans un intérieur comme le mien.#
+
+ 353: 10:29:48.17 10:29:49.20  Durée 00:00:01.03  Lisibilité 17
+      #C'est assez amusant.#
+
+ 354: 10:29:49.24 10:29:52.01  Durée 00:00:02.02  Lisibilité 31
+      #Ça améliore l'ordinaire, en tout cas.#
+
+ 355: 10:30:22.10 10:30:25.06  Durée 00:00:02.21  Lisibilité 43
+      #Ce souterrain est prévu#
+      #pour supporter une explosion.#
+
+ 356: 10:30:25.10 10:30:27.18  Durée 00:00:02.08  Lisibilité 35
+      #Tant mieux, parce que ça finit#
+      #toujours mal.#
+
+ 357: 10:30:27.22 10:30:29.17  Durée 00:00:01.20  Lisibilité 27
+      #Ton pouvoir est pas sous contrôle?#
+
+ 358: 10:30:29.21 10:30:31.05  Durée 00:00:01.09  Lisibilité 20
+      #Allez. Essaie.#
+
+ 359: 10:30:35.13 10:30:37.01  Durée 00:00:01.13  Lisibilité 23
+      #Tu as un don fabuleux.#
+
+ 360: 10:30:37.05 10:30:41.01  Durée 00:00:03.21  Lisibilité 58
+      #L'énergie électromagnétique que tu as#
+      #peut imploser n'importe quoi.#
+
+ 361: 10:30:41.05 10:30:44.19  Durée 00:00:03.14  Lisibilité 53
+      #Et ça, dans quelque temps,
+      ça va te rendre invulnérable.#
+
+ 362: 10:30:44.23 10:30:46.05  Durée 00:00:01.07  Lisibilité 19
+      #Sérieux?#
+
+ 363: 10:30:50.24 10:30:52.07  Durée 00:00:01.08  Lisibilité 20
+      - T'as des jeux?
+      - Non.
+
+ 364: 10:30:53.03 10:30:55.00  Durée 00:00:01.22  Lisibilité 28
+      - Mon père, il en a.
+      - Pas moi.
+
+ 365: 10:30:57.14 10:30:59.17  Durée 00:00:02.03  Lisibilité 32
+      #On dit que les murs
+      ont des oreilles.#
+
+ 366: 10:30:59.21 10:31:02.04  Durée 00:00:02.08  Lisibilité 35
+      #Ils ont aussi une voix, cette voix.#
+
+ 367: 10:31:02.09 10:31:03.18  Durée 00:00:01.09  Lisibilité 20
+      #C'est la mienne.#
+
+ 368: 10:31:05.17 10:31:06.18  Durée 00:00:01.01  Lisibilité 16
+      Comment tu fais ça?
+
+ 369: 10:31:08.22 10:31:10.15  Durée 00:00:01.18  Lisibilité 26
+      C'est quoi l'appli qui fait ça?
+
+ 370: 10:31:10.19 10:31:12.10  Durée 00:00:01.16  Lisibilité 25
+      C'est rien. C'est une appli.
+
+ 371: 10:31:12.15 10:31:14.24  Durée 00:00:02.09  Lisibilité 35
+      - Mais dis-moi.
+      - C'est pas pour les enfants.
+
+ 372: 10:31:15.03 10:31:16.16  Durée 00:00:01.13  Lisibilité 23
+      Non. C'est pas pour les enfants.
+
+ 373: 10:31:17.13 10:31:19.04  Durée 00:00:01.16  Lisibilité 25
+      Désolée pour le retard.
+
+ 374: 10:31:19.08 10:31:20.23  Durée 00:00:01.15  Lisibilité 24
+      Le bus n'arrivait pas.
+
+ 375: 10:31:21.02 10:31:23.04  Durée 00:00:02.02  Lisibilité 31
+      Il a une superbe appli
+      sur son téléphone.
+
+ 376: 10:31:23.08 10:31:25.01  Durée 00:00:01.18  Lisibilité 26
+      Il veut pas me dire ce que c'est.
+
+ 377: 10:31:25.06 10:31:27.16  Durée 00:00:02.10  Lisibilité 36
+      Il a raison. Tu joues trop
+      avec ces trucs-là.
+
+ 378: 10:31:28.11 10:31:30.17  Durée 00:00:02.06  Lisibilité 34
+      On verra pour ton anniversaire.
+      Hein, Émile?
+
+ 379: 10:31:30.21 10:31:32.10  Durée 00:00:01.14  Lisibilité 23
+      Tu demanderas à ton père.
+
+ 380: 10:31:34.05 10:31:36.10  Durée 00:00:02.05  Lisibilité 33
+      On est allés à la piscine
+      et au cinéma.
+
+ 381: 10:31:37.10 10:31:38.23  Durée 00:00:01.13  Lisibilité 23
+      Arrête, Pierrot.
+
+ 382: 10:31:39.07 10:31:41.15  Durée 00:00:02.08  Lisibilité 35
+      - Tu prends quoi?
+      - Un déca.
+
+ 383: 10:31:41.19 10:31:42.16  Durée 00:00:00.22  Lisibilité 13
+      Comme d'hab.
+
+ 384: 10:31:43.16 10:31:46.00  Durée 00:00:02.09  Lisibilité 35
+      Un déca, s'il vous plaît.
+      Et une bière pour moi.
+
+ 385: 10:31:47.10 10:31:49.12  Durée 00:00:02.02  Lisibilité 31
+      - Sinon, ça a été?
+      - Très bien.
+
+ 386: 10:31:55.04 10:31:55.24  Durée 00:00:00.20  Lisibilité 12
+      Tu vérifies pas?
+
+ 387: 10:31:56.11 10:31:57.21  Durée 00:00:01.10  Lisibilité 21
+      Tu t'es jamais trompé.
+
+ 388: 10:31:58.00 10:31:58.20  Durée 00:00:00.20  Lisibilité 12
+      C'est vrai.
+
+ 389: 10:31:58.24 10:32:01.02  Durée 00:00:02.03  Lisibilité 32
+      - T'as dû recompter 10 fois.
+      - Quand même pas.
+
+ 390: 10:32:01.20 10:32:03.15  Durée 00:00:01.20  Lisibilité 27
+      - Cinq?
+      - Trois.
+
+ 391: 10:32:04.21 10:32:06.18  Durée 00:00:01.22  Lisibilité 28
+      Chaque mois,
+      nous avons cette conversation.
+
+ 392: 10:32:07.04 10:32:08.10  Durée 00:00:01.06  Lisibilité 19
+      Pardon. Désolé.
+
+ 393: 10:32:10.10 10:32:11.10  Durée 00:00:01.00  Lisibilité 15
+      Tu sais quoi?
+
+ 394: 10:32:11.14 10:32:14.14  Durée 00:00:03.00  Lisibilité 45
+      J'ai repéré un site pour célibataires
+      pas bidon du tout.
+
+ 395: 10:32:14.19 10:32:17.20  Durée 00:00:03.01  Lisibilité 46
+      Il n'y a que des gens bien.
+      Tu peux sélectionner.
+
+ 396: 10:32:18.00 10:32:20.04  Durée 00:00:02.04  Lisibilité 32
+      - Tu ne m'as pas inscrit?
+      - Non. Pas encore.
+
+ 397: 10:32:20.09 10:32:21.14  Durée 00:00:01.05  Lisibilité 18
+      Ne le fais pas.
+
+ 398: 10:32:27.12 10:32:30.11  Durée 00:00:02.24  Lisibilité 44
+      - Je suis inquiète pour toi.
+      - J'avais compris.
+
+ 399: 10:32:30.15 10:32:31.21  Durée 00:00:01.06  Lisibilité 19
+      T'es pas mieux lotie.
+
+ 400: 10:32:33.00 10:32:35.13  Durée 00:00:02.13  Lisibilité 38
+      - C'est quoi, tes perspectives?
+      - J'en ai plein.
+
+ 401: 10:32:35.17 10:32:37.07  Durée 00:00:01.15  Lisibilité 24
+      J'en ai des tas.
+
+ 402: 10:32:37.21 10:32:39.00  Durée 00:00:01.04  Lisibilité 17
+      Monsieur.
+
+ 403: 10:32:42.03 10:32:43.01  Durée 00:00:00.23  Lisibilité 14
+      Tu parles.
+
+ 404: 10:32:50.24 10:32:52.10  Durée 00:00:01.11  Lisibilité 22
+      Qu'est-ce qui t'arrive?
+
+ 405: 10:32:54.09 10:32:55.10  Durée 00:00:01.01  Lisibilité 16
+      Rien.
+
+ 406: 10:32:57.07 10:32:59.06  Durée 00:00:01.24  Lisibilité 29
+      - T'as pas la gale?
+      - Mais non.
+
+ 407: 10:33:01.05 10:33:02.17  Durée 00:00:01.12  Lisibilité 22
+      C'est le chlore.
+
+ 408: 10:33:06.14 10:33:08.07  Durée 00:00:01.18  Lisibilité 26
+      #Journal du passe-muraille:#
+
+ 409: 10:33:08.11 10:33:11.06  Durée 00:00:02.20  Lisibilité 42
+      #les démangeaisons apparaissent
+      maintenant sans raison.#
+
+ 410: 10:33:11.10 10:33:13.17  Durée 00:00:02.07  Lisibilité 34
+      #On dirait une sorte d'appel.#
+
+ 411: 10:33:14.14 10:33:16.12  Durée 00:00:01.23  Lisibilité 29
+      #Un appel de derrière le mur.#
+
+ 412: 10:33:24.15 10:33:27.01  Durée 00:00:02.11  Lisibilité 37
+      Banque de France
+
+ 413: 10:33:27.06 10:33:30.09  Durée 00:00:03.03  Lisibilité 47
+      #Une disparition de plus de 17 M
+      en devises.#
+
+ 414: 10:33:30.13 10:33:33.19  Durée 00:00:03.06  Lisibilité 49
+      #Un mystère entoure ce vol#
+      #à la Banque de France.#
+
+ 415: 10:33:33.23 10:33:36.22  Durée 00:00:02.24  Lisibilité 44
+      #En effet, aucune effraction#
+      #n'a été constatée.#
+
+ 416: 10:33:37.01 10:33:40.15  Durée 00:00:03.14  Lisibilité 53
+      #Ce qui conduit à penser#
+      #à une piste interne à la banque.#
+
+ 417: 10:33:40.19 10:33:43.11  Durée 00:00:02.17  Lisibilité 40
+      #L'unique indice en notre possession#
+      #est une inscription#
+
+ 418: 10:33:43.15 10:33:45.06  Durée 00:00:01.16  Lisibilité 25
+      #sur le mur de la chambre forte,#
+
+ 419: 10:33:45.10 10:33:47.16  Durée 00:00:02.06  Lisibilité 34
+      #tracée à l'aide d'un bâton#
+      #de rouge à lèvres.#
+
+ 420: 10:33:47.20 10:33:50.00  Durée 00:00:02.05  Lisibilité 33
+      #Il s'agit probablement#
+      #d'une signature.#
+
+ 421: 10:33:50.04 10:33:51.03  Durée 00:00:00.24  Lisibilité 14
+      #"Le passe-muraille."#
+
+ 422: 10:33:51.08 10:33:54.06  Durée 00:00:02.23  Lisibilité 44
+      Le passe-muraille
+      Banque de France, casse inédit
+
+ 423: 10:34:26.17 10:34:27.14  Durée 00:00:00.22  Lisibilité 13
+      Parce que...
+
+ 424: 10:34:27.18 10:34:31.00  Durée 00:00:03.07  Lisibilité 49
+      Souvent, elle me dit:
+      "Les petits gars,  les stagiaires."
+
+ 425: 10:34:31.04 10:34:34.04  Durée 00:00:03.00  Lisibilité 45
+      Tu sais pour la soirée
+      que tu m'as proposée,
+
+ 426: 10:34:34.09 10:34:35.21  Durée 00:00:01.12  Lisibilité 22
+      ça va pas être possible.
+
+ 427: 10:34:36.00 10:34:39.00  Durée 00:00:03.00  Lisibilité 45
+      Il y aura les gros bonnets
+      du groupe.
+
+ 428: 10:34:39.04 10:34:41.02  Durée 00:00:01.23  Lisibilité 29
+      Pour la suite, ils savent qui tu es.
+
+ 429: 10:34:41.06 10:34:42.16  Durée 00:00:01.10  Lisibilité 21
+      - La suite?
+      - La fusion.
+
+ 430: 10:34:43.16 10:34:46.21  Durée 00:00:03.05  Lisibilité 48
+      Attends... Je suis totalement
+      transparent avec toi.
+
+ 431: 10:34:49.03 10:34:51.07  Durée 00:00:02.04  Lisibilité 32
+      Je te brieferai d'ici là,
+      de toute façon.
+
+ 432: 10:34:59.00 10:35:00.00  Durée 00:00:01.00  Lisibilité 15
+      M. Dutilleul.
+
+ 433: 10:35:01.22 10:35:03.05  Durée 00:00:01.08  Lisibilité 20
+      Je vous montre votre bureau.
+
+ 434: 10:35:03.09 10:35:04.05  Durée 00:00:00.21  Lisibilité 13
+      Mon bureau?
+
+ 435: 10:35:04.09 10:35:06.12  Durée 00:00:02.03  Lisibilité 32
+      Ah oui, c'est vrai. Ma promotion.
+
+ 436: 10:35:06.16 10:35:08.15  Durée 00:00:01.24  Lisibilité 29
+      J'ai transféré vos affaires.
+
+ 437: 10:35:08.19 10:35:10.05  Durée 00:00:01.11  Lisibilité 22
+      Vous me suivez?
+
+ 438: 10:35:18.01 10:35:19.06  Durée 00:00:01.05  Lisibilité 18
+      Bon courage.
+
+ 439: 10:36:48.03 10:36:49.01  Durée 00:00:00.23  Lisibilité 14
+      Il y a quelqu'un?
+
+ 440: 10:37:04.21 10:37:07.12  Durée 00:00:02.16  Lisibilité 40
+      Alors après un examen approfondi
+      des extraits,
+
+ 441: 10:37:07.17 10:37:11.06  Durée 00:00:03.14  Lisibilité 53
+      nous sommes obligés de conclure
+      qu'il n'y a pas de trucage.
+
+ 442: 10:37:12.10 10:37:13.15  Durée 00:00:01.05  Lisibilité 18
+      "Pas de trucage"?
+
+ 443: 10:37:14.06 10:37:15.16  Durée 00:00:01.10  Lisibilité 21
+      Vous plaisantez?
+
+ 444: 10:37:15.20 10:37:17.08  Durée 00:00:01.13  Lisibilité 23
+      Pour pouvoir avancer,
+
+ 445: 10:37:17.12 10:37:20.24  Durée 00:00:03.12  Lisibilité 52
+      nous devons admettre
+      qu'il franchit réellement les murs.
+
+ 446: 10:37:21.04 10:37:23.12  Durée 00:00:02.08  Lisibilité 35
+      Nous avons passé beaucoup de temps.
+
+ 447: 10:37:23.16 10:37:25.22  Durée 00:00:02.06  Lisibilité 34
+      Les plus grands experts
+      ont été consultés.
+
+ 448: 10:37:26.01 10:37:27.15  Durée 00:00:01.14  Lisibilité 23
+      Physiciens, chimistes,
+
+ 449: 10:37:27.20 10:37:29.21  Durée 00:00:02.01  Lisibilité 31
+      concepteurs d'effets spéciaux
+      et d'images,
+
+ 450: 10:37:30.01 10:37:31.11  Durée 00:00:01.10  Lisibilité 21
+      mais aussi, prestidigitateurs...
+
+ 451: 10:37:31.16 10:37:33.20  Durée 00:00:02.04  Lisibilité 32
+      On se retrouve avec...
+
+ 452: 10:37:34.11 10:37:35.14  Durée 00:00:01.03  Lisibilité 17
+      36 hypothèses
+
+ 453: 10:37:35.18 10:37:37.24  Durée 00:00:02.06  Lisibilité 34
+      et des théories
+      plus ou moins farfelues.
+
+ 454: 10:37:38.03 10:37:41.13  Durée 00:00:03.10  Lisibilité 51
+      Mais si la question reste
+      "comment fait-il pour les vidéos?"
+
+ 455: 10:37:41.17 10:37:43.05  Durée 00:00:01.13  Lisibilité 23
+      on ne l'attrapera pas.
+
+ 456: 10:37:43.10 10:37:45.07  Durée 00:00:01.22  Lisibilité 28
+      Vous avez vu sa cote
+      dans les sondages?
+
+ 457: 10:37:45.11 10:37:46.07  Durée 00:00:00.21  Lisibilité 13
+      On fait quoi?
+
+ 458: 10:37:47.06 10:37:49.17  Durée 00:00:02.11  Lisibilité 37
+      Il faut s'en soucier. C'est certain.
+
+ 459: 10:37:50.18 10:37:52.20  Durée 00:00:02.02  Lisibilité 31
+      Suggérer les collections à la presse.
+
+ 460: 10:37:53.00 10:37:54.12  Durée 00:00:01.12  Lisibilité 22
+      Trafic de drogue.
+
+ 461: 10:37:54.17 10:37:57.06  Durée 00:00:02.14  Lisibilité 38
+      Ou financement du terrorisme,
+      ça, c'est possible.
+
+ 462: 10:37:57.11 10:38:01.01  Durée 00:00:03.15  Lisibilité 54
+      Là, vous savez, les médias,
+      c'est pas facile à retourner.
+
+ 463: 10:38:01.05 10:38:02.02  Durée 00:00:00.22  Lisibilité 13
+      Quoi qu'il en soit,
+
+ 464: 10:38:02.07 10:38:05.12  Durée 00:00:03.05  Lisibilité 48
+       ne révélons rien sur
+      ce soi-disant pouvoir à l'opinion.
+
+ 465: 10:38:06.07 10:38:08.16  Durée 00:00:02.09  Lisibilité 35
+      Il faut mettre la main
+      sur ce passe-muraille.
+
+ 466: 10:38:09.00 10:38:10.13  Durée 00:00:01.13  Lisibilité 23
+      Trouver qui il est.
+
+ 467: 10:38:11.09 10:38:13.02  Durée 00:00:01.18  Lisibilité 26
+      C'est une priorité absolue.
+
+ 468: 10:38:14.05 10:38:17.11  Durée 00:00:03.06  Lisibilité 49
+      #La popularité du passe-muraille
+      est assez explicable:#
+
+ 469: 10:38:17.15 10:38:19.04  Durée 00:00:01.14  Lisibilité 23
+      #son action est perçue#
+      #comme un jeu#
+
+ 470: 10:38:19.08 10:38:21.23  Durée 00:00:02.15  Lisibilité 39
+      #contre les institutions,#
+      #les systèmes de surveillance.#
+
+ 471: 10:38:22.02 10:38:24.21  Durée 00:00:02.19  Lisibilité 41
+      #- C'est une sorte de pirate.
+      - C'est bien ça, le problème.#
+
+ 472: 10:38:25.00 10:38:28.02  Durée 00:00:03.02  Lisibilité 46
+      #Si vous croyez que faire disparaître
+      des trésors inestimables#
+
+ 473: 10:38:28.06 10:38:31.09  Durée 00:00:03.03  Lisibilité 47
+      #qui appartiennent à l'État,
+      c'est-à-dire à la collectivité,#
+
+ 474: 10:38:31.13 10:38:33.03  Durée 00:00:01.15  Lisibilité 24
+      #c'est un jeu,#
+
+ 475: 10:38:33.07 10:38:35.10  Durée 00:00:02.03  Lisibilité 32
+      #je peux vous assurer
+      que moi, je ne joue pas.#
+
+ 476: 10:38:35.14 10:38:37.19  Durée 00:00:02.05  Lisibilité 33
+      #C'est pas moi qui le dis,
+      c'est un sondage.#
+
+ 477: 10:38:37.23 10:38:40.03  Durée 00:00:02.05  Lisibilité 33
+      #Les sondages,
+      il faut les interpréter.#
+
+ 478: 10:38:40.07 10:38:43.12  Durée 00:00:03.05  Lisibilité 48
+      #Les Françaises et les Français
+      sauront le moment venu.#
+
+ 479: 10:38:46.07 10:38:47.20  Durée 00:00:01.13  Lisibilité 23
+      Tu as vu le match de football?
+
+ 480: 10:38:47.24 10:38:49.20  Durée 00:00:01.21  Lisibilité 28
+      Ah oui, le match. Oui, je l'ai vu.
+
+ 481: 10:38:51.01 10:38:52.22  Durée 00:00:01.21  Lisibilité 28
+      Ah, le grand Noir. Celui qui a...
+
+ 482: 10:38:53.01 10:38:55.00  Durée 00:00:01.24  Lisibilité 29
+      Lilian Thuram, maman.
+
+ 483: 10:38:55.04 10:38:56.07  Durée 00:00:01.03  Lisibilité 17
+      Lilian Thuram,
+
+ 484: 10:38:56.11 10:38:58.09  Durée 00:00:01.23  Lisibilité 29
+      en 1998.
+
+ 485: 10:38:59.15 10:39:00.14  Durée 00:00:00.24  Lisibilité 14
+      Ah oui.
+
+ 486: 10:39:01.04 10:39:02.03  Durée 00:00:00.24  Lisibilité 14
+      #Banque de France,#
+
+ 487: 10:39:02.07 10:39:05.00  Durée 00:00:02.18  Lisibilité 41
+      #musée du Louvre, musée d'Orsay,#
+      #entre autres,#
+
+ 488: 10:39:05.04 10:39:07.09  Durée 00:00:02.05  Lisibilité 33
+      #les cibles choisies#
+      #par le passe-muraille#
+
+ 489: 10:39:07.13 10:39:09.03  Durée 00:00:01.15  Lisibilité 24
+      #laissent penser#
+
+ 490: 10:39:09.08 10:39:12.03  Durée 00:00:02.20  Lisibilité 42
+      #à une attaque symbolique#
+      #contre les institutions du pays.#
+
+ 491: 10:39:12.07 10:39:15.20  Durée 00:00:03.13  Lisibilité 53
+      #La cave du palais de l'Élysée#
+      #a même été visitée cette nuit,#
+
+ 492: 10:39:15.24 10:39:18.10  Durée 00:00:02.11  Lisibilité 37
+      #et de très grands crus#
+      #y auraient été prélevés.#
+
+ 493: 10:39:18.14 10:39:22.13  Durée 00:00:03.24  Lisibilité 59
+      #Le préjudice subit s'élève déjà#
+      #à 880 millions d'euros.#
+
+ 494: 10:39:22.17 10:39:24.21  Durée 00:00:02.04  Lisibilité 32
+      #Aucune trace des chefs-d'œuvre#
+      #dérobés.#
+
+ 495: 10:39:25.00 10:39:27.16  Durée 00:00:02.16  Lisibilité 40
+      #Aucune piste. Aucune revendication.#
+
+ 496: 10:39:27.21 10:39:29.04  Durée 00:00:01.08  Lisibilité 20
+      #Que veut le passe-muraille?#
+
+ 497: 10:39:29.08 10:39:32.19  Durée 00:00:03.11  Lisibilité 52
+      #On ne parle plus de casse du siècle,#
+      #mais de casse du millénaire.#
+
+ 498: 10:39:32.23 10:39:35.13  Durée 00:00:02.15  Lisibilité 39
+      #Les compagnies d'assurance
+      sont aux abois.#
+
+ 499: 10:39:35.17 10:39:37.21  Durée 00:00:02.04  Lisibilité 32
+      #Comment un homme,#
+      #apparemment seul,#
+
+ 500: 10:39:38.01 10:39:41.00  Durée 00:00:02.24  Lisibilité 44
+      #peut-il déjouer les systèmes#
+      #de surveillance?#
+
+ 501: 10:39:41.04 10:39:42.11  Durée 00:00:01.07  Lisibilité 19
+      #Les commentaires vont bon train.#
+
+ 502: 10:39:42.15 10:39:44.21  Durée 00:00:02.06  Lisibilité 34
+      #Et bien malin, celui qui peut prédire#
+
+ 503: 10:39:45.01 10:39:47.10  Durée 00:00:02.09  Lisibilité 35
+      #où le passe-muraille
+      frappera demain?#
+
+ 504: 10:39:47.14 10:39:49.17  Durée 00:00:02.03  Lisibilité 32
+      #Car il frappera de nouveau.#
+
+ 505: 10:39:49.22 10:39:52.05  Durée 00:00:02.08  Lisibilité 35
+      La cave de l'Élysée,
+      c'est nous qui l'assurons.
+
+ 506: 10:39:52.09 10:39:54.17  Durée 00:00:02.08  Lisibilité 35
+      J'espère que les Impressionnistes,
+      c'est pas nous.
+
+ 507: 10:39:54.22 10:39:57.18  Durée 00:00:02.21  Lisibilité 43
+      - Vous croyez qu'il agit seul?
+      - C'est un groupe organisé.
+
+ 508: 10:39:58.11 10:40:00.19  Durée 00:00:02.08  Lisibilité 35
+      - Comment voulez-vous...
+      - Il agit seul.
+
+ 509: 10:40:00.23 10:40:03.02  Durée 00:00:02.04  Lisibilité 32
+      Le prochain coup,
+      je verrais bien place Vendôme.
+
+ 510: 10:40:03.07 10:40:06.01  Durée 00:00:02.19  Lisibilité 41
+      Le collier Adam
+      de la maison Boucheron, par exemple.
+
+ 511: 10:40:06.05 10:40:08.12  Durée 00:00:02.07  Lisibilité 34
+      Eh bien, qu'est-ce qui se passe ici?
+
+ 512: 10:40:08.16 10:40:11.09  Durée 00:00:02.18  Lisibilité 41
+      C'est dingue, ce mec, là,
+      le passe-muraille.
+
+ 513: 10:40:11.13 10:40:13.11  Durée 00:00:01.23  Lisibilité 29
+      On prend des paris.
+      Tu veux en être?
+
+ 514: 10:40:13.15 10:40:15.20  Durée 00:00:02.05  Lisibilité 33
+      Pourquoi pas?
+      Mais après le déjeuner.
+
+ 515: 10:40:15.24 10:40:17.21  Durée 00:00:01.22  Lisibilité 28
+      Allez, allez, allez. Au boulot!
+
+ 516: 10:40:18.00 10:40:20.22  Durée 00:00:02.22  Lisibilité 43
+      Et Émile, qu'est-ce que tu fais
+      encore ici?
+
+ 517: 10:40:21.01 10:40:24.18  Durée 00:00:03.17  Lisibilité 55
+      - Il te plaît pas, ton bureau?
+      - Si, si. Beaucoup.
+
+ 518: 10:40:24.22 10:40:27.18  Durée 00:00:02.21  Lisibilité 43
+      Sans Émile, il y a moins d'ambiance
+      dans l'open space.
+
+ 519: 10:40:27.22 10:40:29.12  Durée 00:00:01.15  Lisibilité 24
+      "Émile"? "Ambiance"?
+
+ 520: 10:40:29.16 10:40:31.02  Durée 00:00:01.11  Lisibilité 22
+      On parle du même Émile, là?
+
+ 521: 10:40:31.06 10:40:32.10  Durée 00:00:01.04  Lisibilité 17
+      Ben oui.
+
+ 522: 10:40:32.14 10:40:34.18  Durée 00:00:02.04  Lisibilité 32
+      Tu sais, il y a un proverbe chinois
+
+ 523: 10:40:34.22 10:40:36.23  Durée 00:00:02.01  Lisibilité 31
+      qui dit: "Celui qui n'avance pas
+      recule."
+
+ 524: 10:40:37.02 10:40:38.21  Durée 00:00:01.19  Lisibilité 26
+      Émile, il avance, il végète.
+
+ 525: 10:40:39.00 10:40:42.06  Durée 00:00:03.06  Lisibilité 49
+      Moi, si je le bouge,
+      c'est pour pas qu'il s'enracine.
+
+ 526: 10:40:44.14 10:40:46.04  Durée 00:00:01.15  Lisibilité 24
+      Si c'est pour son bien, alors.
+
+ 527: 10:40:46.08 10:40:47.12  Durée 00:00:01.04  Lisibilité 17
+      - Hein?
+      - Rien.
+
+ 528: 10:40:48.13 10:40:51.13  Durée 00:00:03.00  Lisibilité 45
+      #"Celui qui n'avance pas recule."#
+
+ 529: 10:40:51.17 10:40:53.12  Durée 00:00:01.20  Lisibilité 27
+      #Et celui qui traverse les murs,#
+
+ 530: 10:40:53.16 10:40:54.18  Durée 00:00:01.02  Lisibilité 16
+      #il fait quoi?#
+
+ 531: 10:41:33.04 10:41:34.09  Durée 00:00:01.05  Lisibilité 18
+      Non. Rien.
+
+ 532: 10:41:48.20 10:41:50.14  Durée 00:00:01.19  Lisibilité 26
+      - Je peux?
+      - Oui. Bien sûr.
+
+ 533: 10:41:51.19 10:41:53.12  Durée 00:00:01.18  Lisibilité 26
+      J'ai une bonne nouvelle.
+
+ 534: 10:41:53.16 10:41:56.19  Durée 00:00:03.03  Lisibilité 47
+      J'ai reçu une notification
+      pour ton dossier de sinistre.
+
+ 535: 10:41:56.23 10:41:59.22  Durée 00:00:02.24  Lisibilité 44
+      C'est confirmé.
+      La ville prend en charge la fuite.
+
+ 536: 10:42:00.01 10:42:01.16  Durée 00:00:01.15  Lisibilité 24
+      Mais c'est génial.
+
+ 537: 10:42:01.20 10:42:03.03  Durée 00:00:01.08  Lisibilité 20
+      C'était mon pronostic.
+
+ 538: 10:42:03.07 10:42:04.04  Durée 00:00:00.22  Lisibilité 13
+      C'est génial.
+
+ 539: 10:42:06.06 10:42:07.23  Durée 00:00:01.17  Lisibilité 25
+      On fête ça quand?
+
+ 540: 10:42:09.06 10:42:10.19  Durée 00:00:01.13  Lisibilité 23
+      C'est vrai, je te dois un resto.
+
+ 541: 10:42:10.23 10:42:12.14  Durée 00:00:01.16  Lisibilité 25
+      C'est ce que j'avais dit, non?
+
+ 542: 10:42:12.18 10:42:15.01  Durée 00:00:02.08  Lisibilité 35
+      - Tu avais dit ça?
+      - Oui, j'avais dit ça.
+
+ 543: 10:42:15.05 10:42:16.18  Durée 00:00:01.13  Lisibilité 23
+      Bon, ben, tu veux quand?
+
+ 544: 10:42:17.12 10:42:18.07  Durée 00:00:00.20  Lisibilité 12
+      Ce soir.
+
+ 545: 10:42:19.03 10:42:20.11  Durée 00:00:01.08  Lisibilité 20
+      "Ce soir"?
+
+ 546: 10:42:21.02 10:42:22.13  Durée 00:00:01.11  Lisibilité 22
+      Ce soir.
+
+ 547: 10:42:22.17 10:42:23.13  Durée 00:00:00.21  Lisibilité 13
+      D'accord.
+
+ 548: 10:42:26.14 10:42:29.23  Durée 00:00:03.09  Lisibilité 50
+      Et puis un jour, je rentre chez moi,
+      la porte ne s'ouvre pas.
+
+ 549: 10:42:30.03 10:42:32.01  Durée 00:00:01.23  Lisibilité 29
+      J'essaie plusieurs fois avec ma clé.
+
+ 550: 10:42:32.23 10:42:34.04  Durée 00:00:01.06  Lisibilité 19
+      Ça marche pas.
+
+ 551: 10:42:34.08 10:42:36.09  Durée 00:00:02.01  Lisibilité 31
+      C'est ma femme
+      qui avait changé la serrure.
+
+ 552: 10:42:37.21 10:42:40.10  Durée 00:00:02.14  Lisibilité 38
+      Elle avait pas quitté le domicile
+      conjugal.
+
+ 553: 10:42:40.14 10:42:42.12  Durée 00:00:01.23  Lisibilité 29
+      Elle avait juste changé la serrure.
+
+ 554: 10:42:42.16 10:42:44.01  Durée 00:00:01.10  Lisibilité 21
+      J'ai compris que j'étais viré.
+
+ 555: 10:42:45.02 10:42:47.00  Durée 00:00:01.23  Lisibilité 29
+      - Et c'était quand?
+      - Il y a 12 ans.
+
+ 556: 10:42:47.14 10:42:48.23  Durée 00:00:01.09  Lisibilité 20
+      Depuis, je vis seul.
+
+ 557: 10:42:52.05 10:42:53.11  Durée 00:00:01.06  Lisibilité 19
+      Et toi?
+
+ 558: 10:42:53.15 10:42:54.16  Durée 00:00:01.01  Lisibilité 16
+      Moi?
+
+ 559: 10:42:55.17 10:42:57.04  Durée 00:00:01.12  Lisibilité 22
+      Moi,
+
+ 560: 10:42:57.08 10:43:00.20  Durée 00:00:03.12  Lisibilité 52
+      ben, j'ai épousé...
+      des problèmes de plomberie, surtout.
+
+ 561: 10:43:01.14 10:43:04.07  Durée 00:00:02.18  Lisibilité 41
+      - Mais avant ça?
+      - J'ai grandi dans un cirque.
+
+ 562: 10:43:05.02 10:43:06.00  Durée 00:00:00.23  Lisibilité 14
+      Ah bon?
+
+ 563: 10:43:06.04 10:43:08.00  Durée 00:00:01.21  Lisibilité 28
+      Ma mère cuisinait pour la troupe.
+
+ 564: 10:43:08.16 10:43:10.23  Durée 00:00:02.07  Lisibilité 34
+      Et moi, ma spécialité,
+      c'était la magie.
+
+ 565: 10:43:12.19 10:43:15.06  Durée 00:00:02.12  Lisibilité 37
+      Une très longue enfance
+      très joyeuse.
+
+ 566: 10:43:15.10 10:43:17.13  Durée 00:00:02.03  Lisibilité 32
+      Et puis, mon père est mort
+      tout d'un coup.
+
+ 567: 10:43:18.08 10:43:20.00  Durée 00:00:01.17  Lisibilité 25
+      - C'est dur, ça.
+      - Pas vraiment.
+
+ 568: 10:43:20.05 10:43:21.23  Durée 00:00:01.18  Lisibilité 26
+      Je le connaissais pas.
+
+ 569: 10:43:22.18 10:43:25.12  Durée 00:00:02.19  Lisibilité 41
+      Il avait 7 enfants
+      un peu partout dans le monde.
+
+ 570: 10:43:25.16 10:43:27.12  Durée 00:00:01.21  Lisibilité 28
+      Il a laissé quelque chose
+      à chacun.
+
+ 571: 10:43:28.07 10:43:29.21  Durée 00:00:01.14  Lisibilité 23
+      Et moi, j'ai eu cette maison.
+
+ 572: 10:43:30.16 10:43:31.12  Durée 00:00:00.21  Lisibilité 13
+      Voilà.
+
+ 573: 10:43:31.17 10:43:33.07  Durée 00:00:01.15  Lisibilité 24
+      Que des tuiles, en fait.
+
+ 574: 10:43:33.11 10:43:35.10  Durée 00:00:01.24  Lisibilité 29
+      Tu as quitté la troupe
+      à ce moment-là?
+
+ 575: 10:43:37.23 10:43:41.07  Durée 00:00:03.09  Lisibilité 50
+      En fait, pour les travaux d'urgence,
+      j'ai pris un emprunt.
+
+ 576: 10:43:41.11 10:43:43.13  Durée 00:00:02.02  Lisibilité 31
+      Puis un emprunt
+      pour rembourser l'emprunt.
+
+ 577: 10:43:43.18 10:43:46.04  Durée 00:00:02.11  Lisibilité 37
+      Des boulots: intérim, barmaid,
+      hôtesse d'accueil.
+
+ 578: 10:43:46.09 10:43:48.11  Durée 00:00:02.02  Lisibilité 31
+      Enfin, tous ces trucs. Tu vois?
+
+ 579: 10:43:48.15 10:43:52.07  Durée 00:00:03.17  Lisibilité 55
+      Alors c'est vrai que si Normazur,
+      ça pouvait marcher. Un CDI.
+
+ 580: 10:43:52.11 10:43:53.15  Durée 00:00:01.04  Lisibilité 17
+      Il faut pas rêver.
+
+ 581: 10:43:56.23 10:43:58.20  Durée 00:00:01.22  Lisibilité 28
+      Pourquoi tu ne la vends pas?
+
+ 582: 10:43:58.24 10:44:01.00  Durée 00:00:02.01  Lisibilité 31
+      C'est interdit.
+      C'est dans le testament.
+
+ 583: 10:44:03.08 10:44:05.22  Durée 00:00:02.14  Lisibilité 38
+      Je me dis que si j'avais renoncé
+      à cet héritage,
+
+ 584: 10:44:06.01 10:44:07.21  Durée 00:00:01.20  Lisibilité 27
+      je serais... je sais pas...
+
+ 585: 10:44:09.21 10:44:11.12  Durée 00:00:01.16  Lisibilité 25
+      Bon. Mais avec des "si"...
+
+ 586: 10:44:14.24 10:44:17.03  Durée 00:00:02.04  Lisibilité 32
+      Moi, jamais su qui était mon père
+
+ 587: 10:44:17.08 10:44:18.06  Durée 00:00:00.23  Lisibilité 14
+      alors pas de problème.
+
+ 588: 10:44:24.00 10:44:25.21  Durée 00:00:01.21  Lisibilité 28
+      Euh... Oui. Non... Si, si.
+
+ 589: 10:44:29.20 10:44:30.17  Durée 00:00:00.22  Lisibilité 13
+      Merci.
+
+ 590: 10:44:31.17 10:44:33.04  Durée 00:00:01.12  Lisibilité 22
+      Bon. Et toi, alors?
+
+ 591: 10:44:33.24 10:44:35.15  Durée 00:00:01.16  Lisibilité 25
+      C'est quoi, ton truc?
+
+ 592: 10:44:35.19 10:44:38.01  Durée 00:00:02.07  Lisibilité 34
+      À part le travail et le travail.
+
+ 593: 10:44:39.13 10:44:41.03  Durée 00:00:01.15  Lisibilité 24
+      J'aime bien le piano.
+
+ 594: 10:44:41.07 10:44:42.23  Durée 00:00:01.16  Lisibilité 25
+      - Tu joues?
+      - Ouais...
+
+ 595: 10:44:43.02 10:44:46.10  Durée 00:00:03.08  Lisibilité 50
+      C'est un grand mot.
+      Non. Je pianote 2, 3 morceaux.
+
+ 596: 10:44:46.14 10:44:48.01  Durée 00:00:01.12  Lisibilité 22
+      Tu sais ce que j'adorerais?
+
+ 597: 10:44:49.04 10:44:51.20  Durée 00:00:02.16  Lisibilité 40
+      Ah non, non, c'est impossible.
+      Jamais en public.
+
+ 598: 10:44:51.24 10:44:54.03  Durée 00:00:02.04  Lisibilité 32
+      Mais il n'y a personne.
+      On est seuls.
+
+ 599: 10:44:55.10 10:44:56.17  Durée 00:00:01.07  Lisibilité 19
+      Pour me faire plaisir.
+
+ 600: 10:44:56.21 10:44:58.05  Durée 00:00:01.09  Lisibilité 20
+      Monsieur, il peut jouer?
+
+ 601: 10:44:59.18 10:45:00.17  Durée 00:00:00.24  Lisibilité 14
+      Oui. Bien sûr.
+
+ 602: 10:45:00.21 10:45:02.00  Durée 00:00:01.04  Lisibilité 17
+      S'il te plaît.
+
+ 603: 10:45:03.01 10:45:05.11  Durée 00:00:02.10  Lisibilité 36
+      - Non, mais c'est un peu...
+      - Oh, hé, ho!
+
+ 604: 10:47:09.09 10:47:10.17  Durée 00:00:01.08  Lisibilité 20
+      Qu'est-ce qui se passe?
+
+ 605: 10:47:11.16 10:47:13.04  Durée 00:00:01.13  Lisibilité 23
+      - Ça va pas?
+      - Je sais pas.
+
+ 606: 10:47:14.07 10:47:16.08  Durée 00:00:02.01  Lisibilité 31
+      Non. Je suis pas dedans, en fait.
+
+ 607: 10:47:16.13 10:47:18.00  Durée 00:00:01.12  Lisibilité 22
+      J'ai comme des vertiges.
+
+ 608: 10:47:18.04 10:47:19.09  Durée 00:00:01.05  Lisibilité 18
+      Ah bon?
+
+ 609: 10:47:20.21 10:47:21.24  Durée 00:00:01.03  Lisibilité 17
+      Ça va aller?
+
+ 610: 10:47:22.03 10:47:23.14  Durée 00:00:01.11  Lisibilité 22
+      Ouais, ouais.
+
+ 611: 10:47:23.18 10:47:25.21  Durée 00:00:02.03  Lisibilité 32
+      C'est l'hypoglycémie.
+      C'est l'alcool, ça.
+
+ 612: 10:47:26.00 10:47:27.06  Durée 00:00:01.06  Lisibilité 19
+      J'ai pas l'habitude.
+
+ 613: 10:47:30.07 10:47:32.21  Durée 00:00:02.14  Lisibilité 38
+      T'es sûr? Tu veux pas
+      que je te fasse une tisane?
+
+ 614: 10:47:33.00 10:47:34.15  Durée 00:00:01.15  Lisibilité 24
+      Ou du tilleul?
+
+ 615: 10:47:35.21 10:47:39.21  Durée 00:00:04.00  Lisibilité 60
+      L'anis étoilé, c'est très bien.
+      Avec du sucre, ça dilue l'alcool.
+
+ 616: 10:47:40.00 10:47:41.11  Durée 00:00:01.11  Lisibilité 22
+      C'est pas raisonnable.
+
+ 617: 10:47:41.15 10:47:42.16  Durée 00:00:01.01  Lisibilité 16
+      Ah bon?
+
+ 618: 10:47:43.14 10:47:45.01  Durée 00:00:01.12  Lisibilité 22
+      Il faut être raisonnable?
+
+ 619: 10:47:45.05 10:47:46.19  Durée 00:00:01.14  Lisibilité 23
+      C'est que... je... Enfin...
+
+ 620: 10:47:49.24 10:47:51.00  Durée 00:00:01.01  Lisibilité 16
+      Je me sens pas bien.
+
+ 621: 10:47:51.20 10:47:52.21  Durée 00:00:01.01  Lisibilité 16
+      Ah bon?
+
+ 622: 10:47:54.14 10:47:55.11  Durée 00:00:00.22  Lisibilité 13
+      Tiens.
+
+ 623: 10:47:57.23 10:48:00.21  Durée 00:00:02.23  Lisibilité 44
+      T'es sûr que tu veux pas venir
+      t'allonger chez moi?
+
+ 624: 10:48:01.00 10:48:03.14  Durée 00:00:02.14  Lisibilité 38
+      Non, non. Je dois rentrer.
+      C'est mieux. À demain.
+
+ 625: 10:48:19.09 10:48:20.10  Durée 00:00:01.01  Lisibilité 16
+      En fait...
+
+ 626: 10:48:20.14 10:48:21.17  Durée 00:00:01.03  Lisibilité 17
+      Bravo, Émile.
+
+ 627: 10:48:21.21 10:48:22.16  Durée 00:00:00.20  Lisibilité 12
+      Pour quoi?
+
+ 628: 10:48:22.21 10:48:26.05  Durée 00:00:03.09  Lisibilité 50
+      Le collier de chez Boucheron,
+      t'avais deviné. C'est ouf.
+
+ 629: 10:48:26.19 10:48:30.13  Durée 00:00:03.19  Lisibilité 56
+      Une intuition. J'ai lu dans la presse
+      que Boucheron venait de l'acquérir.
+
+ 630: 10:48:31.04 10:48:32.09  Durée 00:00:01.05  Lisibilité 18
+      Tu déjeunes avec nous?
+
+ 631: 10:48:32.13 10:48:34.11  Durée 00:00:01.23  Lisibilité 29
+      Euh... Oui. Sûrement. Pourquoi?
+
+ 632: 10:48:34.15 10:48:37.12  Durée 00:00:02.22  Lisibilité 43
+      On peut parier sur le passe-muraille
+      sur certains sites.
+
+ 633: 10:48:38.04 10:48:40.10  Durée 00:00:02.06  Lisibilité 34
+      Et comme tu sens bien les choses...
+
+ 634: 10:48:40.14 10:48:42.15  Durée 00:00:02.01  Lisibilité 31
+      Ce soir, par exemple,
+      ça va se passer où?
+
+ 635: 10:48:42.19 10:48:43.23  Durée 00:00:01.04  Lisibilité 17
+      Nulle part.
+
+ 636: 10:48:44.02 10:48:44.24  Durée 00:00:00.22  Lisibilité 13
+      "Nulle part"?
+
+ 637: 10:48:45.04 10:48:47.09  Durée 00:00:02.05  Lisibilité 33
+      - Comment ça?
+      - Il va rien faire, ce soir.
+
+ 638: 10:48:47.13 10:48:48.19  Durée 00:00:01.06  Lisibilité 19
+      Il va rien voler.
+
+ 639: 10:48:48.23 10:48:51.21  Durée 00:00:02.23  Lisibilité 44
+      - Comment tu peux être affirmatif?
+      - C'est une supposition.
+
+ 640: 10:48:52.00 10:48:54.01  Durée 00:00:02.01  Lisibilité 31
+      Tu me demandes mon avis,
+      je te réponds.
+
+ 641: 10:49:04.09 10:49:05.11  Durée 00:00:01.02  Lisibilité 16
+      - Ça va?
+      - Oui.
+
+ 642: 10:49:19.02 10:49:20.21  Durée 00:00:01.19  Lisibilité 26
+      Super-héros définition
+
+ 643: 10:49:25.22 10:49:27.21  Durée 00:00:01.24  Lisibilité 29
+      #Super-héros, définition.#
+
+ 644: 10:49:28.00 10:49:29.22  Durée 00:00:01.22  Lisibilité 28
+      #"Héros aux pouvoirs extra..."#
+
+ 645: 10:49:30.14 10:49:31.23  Durée 00:00:01.09  Lisibilité 20
+      Salut.
+
+ 646: 10:49:35.21 10:49:36.22  Durée 00:00:01.01  Lisibilité 16
+      Ben? Tu t'en vas?
+
+ 647: 10:49:37.01 10:49:40.13  Durée 00:00:03.12  Lisibilité 52
+      Oui. J'avais oublié un rendez-vous
+      client à l'extérieur.
+
+ 648: 10:49:40.17 10:49:42.07  Durée 00:00:01.15  Lisibilité 24
+      T'as des rendez-vous, maintenant?
+
+ 649: 10:49:42.11 10:49:45.06  Durée 00:00:02.20  Lisibilité 42
+      Ça fait partie de mes attributions
+      avec le nouveau bureau.
+
+ 650: 10:49:47.23 10:49:51.07  Durée 00:00:03.09  Lisibilité 50
+      Je voulais savoir si tu t'étais remis
+      depuis hier soir.
+
+ 651: 10:49:51.11 10:49:53.02  Durée 00:00:01.16  Lisibilité 25
+      Ah oui, oui. Ça va mieux. Merci.
+
+ 652: 10:49:53.06 10:49:54.11  Durée 00:00:01.05  Lisibilité 18
+      Bon.
+
+ 653: 10:49:55.11 10:49:58.02  Durée 00:00:02.16  Lisibilité 40
+      Ce soir, je travaille au Backstage.
+
+ 654: 10:49:58.06 10:50:00.19  Durée 00:00:02.13  Lisibilité 38
+      La boîte de nuit
+      à côté du Moulin Rouge.
+
+ 655: 10:50:00.23 10:50:02.01  Durée 00:00:01.03  Lisibilité 17
+      Comme t'habites à côté,
+
+ 656: 10:50:02.05 10:50:04.14  Durée 00:00:02.09  Lisibilité 35
+      si t'as envie,
+      on pourrait boire un verre
+
+ 657: 10:50:05.09 10:50:07.07  Durée 00:00:01.23  Lisibilité 29
+      et continuer la conversation d'hier.
+
+ 658: 10:50:08.21 10:50:10.10  Durée 00:00:01.14  Lisibilité 23
+      Enfin. Je dis ça... Tu...
+
+ 659: 10:50:11.06 10:50:13.15  Durée 00:00:02.09  Lisibilité 35
+      Non, mais... oui...
+
+ 660: 10:50:13.20 10:50:14.20  Durée 00:00:01.00  Lisibilité 15
+      si je peux me libérer.
+
+ 661: 10:50:16.11 10:50:18.03  Durée 00:00:01.17  Lisibilité 25
+      Il faut vraiment que j'y aille.
+
+ 662: 10:50:31.23 10:50:33.19  Durée 00:00:01.21  Lisibilité 28
+      #Super-héros, définition.#
+
+ 663: 10:50:33.23 10:50:36.22  Durée 00:00:02.24  Lisibilité 44
+      #"Héros aux pouvoirs extraordinaires#
+      #combattant des menaces#
+
+ 664: 10:50:37.01 10:50:39.15  Durée 00:00:02.14  Lisibilité 38
+      #"contre lesquelles#
+      #les forces de l'ordre#
+
+ 665: 10:50:39.19 10:50:41.05  Durée 00:00:01.11  Lisibilité 22
+      #"restent impuissantes."#
+
+ 666: 10:50:43.05 10:50:45.02  Durée 00:00:01.22  Lisibilité 28
+      Journal du passe-muraille:
+
+ 667: 10:50:48.10 10:50:50.18  Durée 00:00:02.08  Lisibilité 35
+      Le nouvel effet secondaire
+      se confirme.
+
+ 668: 10:50:52.09 10:50:55.02  Durée 00:00:02.18  Lisibilité 41
+      Je ne contrôle plus rien
+      quand je suis près d'elle.
+
+ 669: 10:50:58.16 10:51:01.11  Durée 00:00:02.20  Lisibilité 42
+      Si je la touchais,
+      je n'ose même pas imaginer...
+
+ 670: 10:51:02.14 10:51:07.07  Durée 00:00:04.18  Lisibilité 71
+      Il faut que je prenne mes distances,
+      mais comme la mouche avec la lumière,
+
+ 671: 10:51:07.11 10:51:08.23  Durée 00:00:01.12  Lisibilité 22
+      c'est plus fort que moi.
+
+ 672: 10:52:15.18 10:52:17.07  Durée 00:00:01.14  Lisibilité 23
+      - Ça va?
+      - Salut.
+
+ 673: 10:52:45.24 10:52:46.19  Durée 00:00:00.20  Lisibilité 12
+      Ariane!
+
+ 674: 10:52:48.11 10:52:50.10  Durée 00:00:01.24  Lisibilité 29
+      Je suis en scooter.
+      Je te raccompagne?
+
+ 675: 10:52:50.14 10:52:52.02  Durée 00:00:01.13  Lisibilité 23
+      J'habite tout près. Ça ira.
+
+ 676: 10:52:52.07 10:52:55.04  Durée 00:00:02.22  Lisibilité 43
+      Non, mais c'est dangereux,
+      pour une fille toute seule.
+
+ 677: 10:52:55.08 10:52:57.11  Durée 00:00:02.03  Lisibilité 32
+      Je te raccompagne à pied.
+      Ça me dérange pas.
+
+ 678: 10:52:57.15 10:52:59.21  Durée 00:00:02.06  Lisibilité 34
+      Non. Vraiment. Merci.
+      J'habite tout près.
+
+ 679: 10:53:00.00 10:53:02.00  Durée 00:00:02.00  Lisibilité 30
+      - Un problème?
+      - Non, c'est mon patron.
+
+ 680: 10:53:02.04 10:53:03.08  Durée 00:00:01.04  Lisibilité 17
+      Enfin. C'est un ami.
+
+ 681: 10:53:03.12 10:53:05.02  Durée 00:00:01.15  Lisibilité 24
+      - À jeudi, alors.
+      - À jeudi.
+
+ 682: 10:53:05.06 10:53:06.24  Durée 00:00:01.18  Lisibilité 26
+      Bon. En tout cas, super soirée.
+
+ 683: 10:53:07.04 10:53:08.11  Durée 00:00:01.07  Lisibilité 19
+      - À demain.
+      - À demain.
+
+ 684: 10:53:08.15 10:53:09.11  Durée 00:00:00.21  Lisibilité 13
+      Sans rancune.
+
+ 685: 10:53:10.09 10:53:11.20  Durée 00:00:01.11  Lisibilité 22
+      #Buenas noches. Buonanotte.#
+
+ 686: 10:53:12.00 10:53:13.02  Durée 00:00:01.02  Lisibilité 16
+      #Gute Nacht! #
+
+ 687: 10:53:15.02 10:53:16.09  Durée 00:00:01.07  Lisibilité 19
+      Bonne nuit.
+
+ 688: 10:53:16.13 10:53:17.12  Durée 00:00:00.24  Lisibilité 14
+      Bonne nuit.
+
+ 689: 10:54:05.00 10:54:06.22  Durée 00:00:01.22  Lisibilité 28
+      Ça suffit.
+      Qu'est-ce c'est que ce truc?
+
+ 690: 10:54:07.01 10:54:08.06  Durée 00:00:01.05  Lisibilité 18
+      Je te demande pardon.
+
+ 691: 10:54:10.05 10:54:11.13  Durée 00:00:01.08  Lisibilité 20
+      Pardonnez-moi.
+
+ 692: 10:54:17.20 10:54:18.16  Durée 00:00:00.21  Lisibilité 13
+      Ah.
+
+ 693: 10:54:18.20 10:54:21.21  Durée 00:00:03.01  Lisibilité 46
+      Franck, je vais être totalement
+      transparent avec toi.
+
+ 694: 10:54:22.00 10:54:24.23  Durée 00:00:02.23  Lisibilité 44
+      On va faire un grand "bouneschlupp".
+
+ 695: 10:54:34.06 10:54:35.05  Durée 00:00:00.24  Lisibilité 14
+      Oui?
+
+ 696: 10:54:36.21 10:54:39.01  Durée 00:00:02.05  Lisibilité 33
+      Non, non, non, non...
+
+ 697: 10:54:50.02 10:54:53.14  Durée 00:00:03.12  Lisibilité 52
+      Je vais être totalement
+      transparent avec toi, Franck.
+
+ 698: 10:54:53.18 10:54:56.18  Durée 00:00:03.00  Lisibilité 45
+      On va faire un grand "bouneschlupp".
+
+ 699: 10:54:57.16 10:54:59.18  Durée 00:00:02.02  Lisibilité 31
+      Un très grand "bouneschlupp".
+
+ 700: 10:56:10.10 10:56:12.24  Durée 00:00:02.14  Lisibilité 38
+      Il rampait dans le couloir
+      avec un coupe-papier dans la cuisse.
+
+ 701: 10:56:13.03 10:56:15.17  Durée 00:00:02.14  Lisibilité 38
+      C'est moi qui l'ai trouvé.
+      J'ai failli m'évanouir.
+
+ 702: 10:56:15.21 10:56:17.16  Durée 00:00:01.20  Lisibilité 27
+      - Trop de pression.
+      - C'est ça.
+
+ 703: 10:56:17.21 10:56:19.13  Durée 00:00:01.17  Lisibilité 25
+      C'est clair, c'est un burn-out.
+
+ 704: 10:56:19.17 10:56:23.02  Durée 00:00:03.10  Lisibilité 51
+      Il cachait bien son jeu, alors.
+      Toujours l'air décontracté, et tout.
+
+ 705: 10:56:23.06 10:56:24.01  Durée 00:00:00.20  Lisibilité 12
+      Vous permettez?
+
+ 706: 10:56:25.00 10:56:26.11  Durée 00:00:01.11  Lisibilité 22
+      C'est bizarre.
+
+ 707: 10:56:26.15 10:56:28.22  Durée 00:00:02.07  Lisibilité 34
+      Je l'ai croisé, hier,
+      il avait pas l'air mal.
+
+ 708: 10:56:29.01 10:56:30.23  Durée 00:00:01.22  Lisibilité 28
+      Il faut pas se fier aux apparences.
+
+ 709: 10:56:33.02 10:56:34.23  Durée 00:00:01.21  Lisibilité 28
+      Il devait aller très mal, en fait.
+
+ 710: 10:56:37.02 10:56:38.02  Durée 00:00:01.00  Lisibilité 15
+      Non?
+
+ 711: 10:56:51.23 10:56:55.03  Durée 00:00:03.05  Lisibilité 48
+      #Monsieur Dutilleul,#
+      #c'est la maison de retraite.#
+
+ 712: 10:56:55.07 10:56:56.21  Durée 00:00:01.14  Lisibilité 23
+      #C'est votre maman.#
+
+ 713: 10:56:57.00 10:56:58.10  Durée 00:00:01.10  Lisibilité 21
+      #Il faut que vous veniez.#
+
+ 714: 10:56:58.14 10:57:02.09  Durée 00:00:03.20  Lisibilité 57
+      #J'ai le regret de vous annoncer#
+      #que Mme Dutilleul...#
+
+ 715: 10:57:13.17 10:57:15.04  Durée 00:00:01.12  Lisibilité 22
+      Comment c'est arrivé?
+
+ 716: 10:57:15.08 10:57:16.10  Durée 00:00:01.02  Lisibilité 16
+      Une crise cardiaque.
+
+ 717: 10:57:17.05 10:57:19.03  Durée 00:00:01.23  Lisibilité 29
+      Elle a pas eu le temps de souffrir.
+
+ 718: 10:57:19.07 10:57:21.04  Durée 00:00:01.22  Lisibilité 28
+      Et compte tenu de sa pathologie,
+
+ 719: 10:57:21.08 10:57:23.07  Durée 00:00:01.24  Lisibilité 29
+      c'est mieux que ce soit terminé
+      ainsi,
+
+ 720: 10:57:23.11 10:57:25.23  Durée 00:00:02.12  Lisibilité 37
+      avant la véritable déchéance.
+      Vous comprenez?
+
+ 721: 10:57:33.04 10:57:36.05  Durée 00:00:03.01  Lisibilité 46
+      Vous désirez peut-être
+      vous recueillir un instant?
+
+ 722: 10:57:37.13 10:57:38.23  Durée 00:00:01.10  Lisibilité 21
+      Dans ce cas, permettez.
+
+ 723: 10:57:58.03 10:57:59.01  Durée 00:00:00.23  Lisibilité 14
+      Qui l'a maquillée?
+
+ 724: 10:58:00.03 10:58:01.16  Durée 00:00:01.13  Lisibilité 23
+      Personne.
+
+ 725: 10:58:01.20 10:58:03.10  Durée 00:00:01.15  Lisibilité 24
+      On l'a retrouvée comme ça.
+
+ 726: 10:58:03.14 10:58:05.23  Durée 00:00:02.09  Lisibilité 35
+      Ça fait des années
+      qu'elle se maquillait plus.
+
+ 727: 10:58:18.01 10:58:20.08  Durée 00:00:02.07  Lisibilité 34
+      Je comprends pas?
+      Elle était habillée comme ça?
+
+ 728: 10:58:38.19 10:58:40.02  Durée 00:00:01.08  Lisibilité 20
+      Oh. Et puis, zut, hein.
+
+ 729: 10:58:40.18 10:58:42.24  Durée 00:00:02.06  Lisibilité 34
+      On m'avait demandé de rien vous dire.
+
+ 730: 10:58:44.19 10:58:46.20  Durée 00:00:02.01  Lisibilité 31
+      Votre maman est pas décédée
+      dans sa chambre.
+
+ 731: 10:58:48.03 10:58:50.16  Durée 00:00:02.13  Lisibilité 38
+      On comprend pas.
+      Les portes sont fermées à clé
+
+ 732: 10:58:50.20 10:58:53.13  Durée 00:00:02.18  Lisibilité 41
+      et les couloirs sont sécurisés,
+      filmés en permanence.
+
+ 733: 10:58:53.17 10:58:55.08  Durée 00:00:01.16  Lisibilité 25
+      - Et pourtant...
+      - Pourtant?
+
+ 734: 10:58:57.10 10:58:59.05  Durée 00:00:01.20  Lisibilité 27
+      On l'a retrouvée dans le jardin.
+
+ 735: 10:59:00.11 10:59:03.13  Durée 00:00:03.02  Lisibilité 46
+      Avec sa valise.
+      On sait pas par où elle est passée.
+
+ 736: 11:00:41.09 11:00:42.21  Durée 00:00:01.12  Lisibilité 22
+      #"Émile,#
+
+ 737: 11:00:43.00 11:00:44.01  Durée 00:00:01.01  Lisibilité 16
+      #"mon fils,#
+
+ 738: 11:00:44.21 11:00:46.23  Durée 00:00:02.02  Lisibilité 31
+      #"Avant de perdre tout à fait la tête,#
+
+ 739: 11:00:47.03 11:00:49.14  Durée 00:00:02.11  Lisibilité 37
+      #"je voudrais que tu saches#
+      #combien je suis...#
+
+ 740: 11:00:49.18 11:00:51.14  Durée 00:00:01.21  Lisibilité 28
+      #"fière de t'avoir mis au monde.#
+
+ 741: 11:00:52.22 11:00:55.02  Durée 00:00:02.05  Lisibilité 33
+      #"Si la vie est une énigme,#
+
+ 742: 11:00:55.06 11:00:58.05  Durée 00:00:02.24  Lisibilité 44
+      #"celle des gens comme nous#
+      #l'est encore bien davantage.#
+
+ 743: 11:00:59.10 11:01:02.11  Durée 00:00:03.01  Lisibilité 46
+      #"J'ai fait ce que j'ai pu#
+      #pour te protéger de tes sentiments,#
+
+ 744: 11:01:02.15 11:01:04.08  Durée 00:00:01.18  Lisibilité 26
+      #"de tes émotions,#
+
+ 745: 11:01:04.12 11:01:07.20  Durée 00:00:03.08  Lisibilité 50
+      #"car je savais à quel point#
+      #ils sont dangereux pour nous autres.#
+
+ 746: 11:01:07.24 11:01:09.19  Durée 00:00:01.20  Lisibilité 27
+      #"J'ai cru pouvoir te soigner,#
+
+ 747: 11:01:09.23 11:01:12.07  Durée 00:00:02.09  Lisibilité 35
+      #"construire des digues#
+      #autour de toi.#
+
+ 748: 11:01:12.11 11:01:13.21  Durée 00:00:01.10  Lisibilité 21
+      #"t'empêcher de souffrir,#
+
+ 749: 11:01:14.00 11:01:15.19  Durée 00:00:01.19  Lisibilité 26
+      #"au risque de t'éteindre.#
+
+ 750: 11:01:15.23 11:01:17.04  Durée 00:00:01.06  Lisibilité 19
+      #"J'ai eu tort.#
+
+ 751: 11:01:18.05 11:01:20.09  Durée 00:00:02.04  Lisibilité 32
+      #"Car mieux vaut la beauté#
+      #que l'indifférence,#
+
+ 752: 11:01:20.13 11:01:23.10  Durée 00:00:02.22  Lisibilité 43
+      #"même la souffrance
+      qu'une tranquillité stérile#
+
+ 753: 11:01:23.14 11:01:25.12  Durée 00:00:01.23  Lisibilité 29
+      #"et sans amour.#
+
+ 754: 11:01:25.16 11:01:27.07  Durée 00:00:01.16  Lisibilité 25
+      #"Quand je ne serai plus là,#
+
+ 755: 11:01:27.11 11:01:29.03  Durée 00:00:01.17  Lisibilité 25
+      #"il te faudra choisir,#
+
+ 756: 11:01:29.08 11:01:30.11  Durée 00:00:01.03  Lisibilité 17
+      #"car pour toi,#
+
+ 757: 11:01:30.15 11:01:31.14  Durée 00:00:00.24  Lisibilité 14
+      #"crois-moi,#
+
+ 758: 11:01:31.18 11:01:33.03  Durée 00:00:01.10  Lisibilité 21
+      #"il n'est pas trop tard.#
+
+ 759: 11:01:34.05 11:01:36.04  Durée 00:00:01.24  Lisibilité 29
+      #"Ta mère. Viviane."#
+
+ 760: 11:03:04.18 11:03:07.01  Durée 00:00:02.08  Lisibilité 35
+      J'aimais beaucoup votre maman.
+      Vous le savez?
+
+ 761: 11:03:07.05 11:03:08.17  Durée 00:00:01.12  Lisibilité 22
+      Ah oui? Merci.
+
+ 762: 11:03:08.21 11:03:10.06  Durée 00:00:01.10  Lisibilité 21
+      Ben, voilà. C'est dit.
+
+ 763: 11:03:16.22 11:03:18.17  Durée 00:00:01.20  Lisibilité 27
+      #On était à l'école communale
+      ensemble,#
+
+ 764: 11:03:18.22 11:03:19.22  Durée 00:00:01.00  Lisibilité 15
+      avec votre mère.
+
+ 765: 11:03:20.17 11:03:22.05  Durée 00:00:01.13  Lisibilité 23
+      Et au collège, ensuite.
+
+ 766: 11:03:24.21 11:03:26.11  Durée 00:00:01.15  Lisibilité 24
+      Elle était timide.
+
+ 767: 11:03:26.15 11:03:27.22  Durée 00:00:01.07  Lisibilité 19
+      Toujours dans son coin.
+
+ 768: 11:03:30.17 11:03:32.09  Durée 00:00:01.17  Lisibilité 25
+      Tout le monde était amoureux d'elle.
+
+ 769: 11:03:32.13 11:03:33.17  Durée 00:00:01.04  Lisibilité 17
+      Et elle?
+
+ 770: 11:03:34.16 11:03:37.14  Durée 00:00:02.23  Lisibilité 44
+      Il y a eu un type plus courageux
+      que les autres.
+
+ 771: 11:03:38.10 11:03:40.20  Durée 00:00:02.10  Lisibilité 36
+      Elle n'avait pas l'air insensible,
+      non plus.
+
+ 772: 11:03:40.24 11:03:42.19  Durée 00:00:01.20  Lisibilité 27
+      Il s'est jamais rien passé entre eux.
+
+ 773: 11:03:43.19 11:03:45.06  Durée 00:00:01.12  Lisibilité 22
+      Il s'approchait,
+
+ 774: 11:03:46.01 11:03:47.09  Durée 00:00:01.08  Lisibilité 20
+      elle filait.
+
+ 775: 11:03:48.10 11:03:49.17  Durée 00:00:01.07  Lisibilité 19
+      C'était comme...
+
+ 776: 11:03:49.21 11:03:51.10  Durée 00:00:01.14  Lisibilité 23
+      Comment dire?
+
+ 777: 11:03:51.14 11:03:53.09  Durée 00:00:01.20  Lisibilité 27
+      Comme si elle avait une barrière.
+
+ 778: 11:03:53.13 11:03:55.15  Durée 00:00:02.02  Lisibilité 31
+      Elle s'approchait pas
+      de ce qu'elle aimait.
+
+ 779: 11:03:55.19 11:03:57.03  Durée 00:00:01.09  Lisibilité 20
+      C'est exactement ça.
+
+ 780: 11:04:01.17 11:04:04.21  Durée 00:00:03.04  Lisibilité 47
+      On se demande comment elle a pu
+      avoir un gosse, votre maman.
+
+ 781: 11:04:06.09 11:04:07.06  Durée 00:00:00.22  Lisibilité 13
+      Pardon.
+
+ 782: 11:04:10.12 11:04:12.08  Durée 00:00:01.21  Lisibilité 28
+      Et vous deux, vous vous parliez?
+
+ 783: 11:04:13.17 11:04:15.24  Durée 00:00:02.07  Lisibilité 34
+      Des petites phrases par-ci, par-là.
+
+ 784: 11:04:16.03 11:04:19.01  Durée 00:00:02.23  Lisibilité 44
+      "Bonne année", "Joyeux Noël"
+      dans l'escalier. C'est tout.
+
+ 785: 11:04:20.06 11:04:21.22  Durée 00:00:01.16  Lisibilité 25
+      Et jamais devant vous.
+
+ 786: 11:04:22.01 11:04:25.06  Durée 00:00:03.05  Lisibilité 48
+      Avec vous, c'était juste
+      un petit signe de tête poli.
+
+ 787: 11:04:26.10 11:04:27.20  Durée 00:00:01.10  Lisibilité 21
+      Je sais pas pourquoi.
+
+ 788: 11:04:29.13 11:04:30.13  Durée 00:00:01.00  Lisibilité 15
+      Et mon père,
+
+ 789: 11:04:30.17 11:04:32.07  Durée 00:00:01.15  Lisibilité 24
+      vous savez pas qui c'était?
+
+ 790: 11:04:34.14 11:04:36.14  Durée 00:00:02.00  Lisibilité 30
+      - Elle vous a jamais dit?
+      - Non.
+
+ 791: 11:04:39.06 11:04:41.07  Durée 00:00:02.01  Lisibilité 31
+      Comment voulez-vous que je sache
+      alors?
+
+ 792: 11:04:43.18 11:04:45.07  Durée 00:00:01.14  Lisibilité 23
+      Allez, on trinque.
+
+ 793: 11:05:03.11 11:05:05.18  Durée 00:00:02.07  Lisibilité 34
+      Il est parti, votre collègue.
+      Il est parti.
+
+ 794: 11:05:05.22 11:05:07.18  Durée 00:00:01.21  Lisibilité 28
+      Mince. Je vous dois combien?
+
+ 795: 11:05:07.22 11:05:09.03  Durée 00:00:01.06  Lisibilité 19
+      Rien. C'est réglé.
+
+ 796: 11:05:09.07 11:05:11.00  Durée 00:00:01.18  Lisibilité 26
+      - C'est le règlement...
+      - Allez.
+
+ 797: 11:05:11.04 11:05:12.23  Durée 00:00:01.19  Lisibilité 26
+      Allez. Il faut ranger ça. Allez.
+
+ 798: 11:05:13.02 11:05:13.22  Durée 00:00:00.20  Lisibilité 12
+      C'est réglé.
+
+ 799: 11:05:15.19 11:05:17.07  Durée 00:00:01.13  Lisibilité 23
+      - Allez. Bonne soirée.
+      - Oui.
+
+ 800: 11:05:23.14 11:05:24.19  Durée 00:00:01.05  Lisibilité 18
+      Il m'énerve.
+
+ 801: 11:05:33.01 11:05:34.00  Durée 00:00:00.24  Lisibilité 14
+      Circulez!
+
+ 802: 11:06:28.14 11:06:29.15  Durée 00:00:01.01  Lisibilité 16
+      Ça va, jeune homme?
+
+ 803: 11:06:32.10 11:06:35.04  Durée 00:00:02.19  Lisibilité 41
+      - C'est un grand jour, aujourd'hui.
+      - Ah bon?
+
+ 804: 11:06:35.08 11:06:37.21  Durée 00:00:02.13  Lisibilité 38
+      - Qu'est-ce qu'on fête, alors?
+      - Un héritage.
+
+ 805: 11:06:38.00 11:06:39.05  Durée 00:00:01.05  Lisibilité 18
+      - Ah ouais?
+      - Hou!
+
+ 806: 11:06:39.09 11:06:40.07  Durée 00:00:00.23  Lisibilité 14
+      Cool.
+
+ 807: 11:06:42.10 11:06:43.20  Durée 00:00:01.10  Lisibilité 21
+      On se connaît pas? Si?
+
+ 808: 11:06:43.24 11:06:45.10  Durée 00:00:01.11  Lisibilité 22
+      Si. Toi, tu me connais.
+
+ 809: 11:06:45.14 11:06:46.15  Durée 00:00:01.01  Lisibilité 16
+      Ah bon?
+
+ 810: 11:06:46.19 11:06:47.21  Durée 00:00:01.02  Lisibilité 16
+      Le passe-muraille.
+
+ 811: 11:06:48.16 11:06:49.13  Durée 00:00:00.22  Lisibilité 13
+      C'est moi.
+
+ 812: 11:06:52.03 11:06:53.13  Durée 00:00:01.10  Lisibilité 21
+      Hein, tu me crois pas?
+
+ 813: 11:06:53.17 11:06:54.14  Durée 00:00:00.22  Lisibilité 13
+      Non.
+
+ 814: 11:06:55.09 11:06:57.05  Durée 00:00:01.21  Lisibilité 28
+      Tiens. Regarde. Hop-là.
+
+ 815: 11:06:57.09 11:06:58.10  Durée 00:00:01.01  Lisibilité 16
+      Émile!
+
+ 816: 11:06:58.14 11:07:00.11  Durée 00:00:01.22  Lisibilité 28
+      Qu'est-ce que tu fais, Émile?
+
+ 817: 11:07:00.16 11:07:01.16  Durée 00:00:01.00  Lisibilité 15
+      Ariane!
+
+ 818: 11:07:01.20 11:07:03.14  Durée 00:00:01.19  Lisibilité 26
+      J'ai perdu ma pauvre mère.
+
+ 819: 11:07:03.18 11:07:05.15  Durée 00:00:01.22  Lisibilité 28
+      J'ai hérité aussi. Tiens. Tiens.
+
+ 820: 11:07:05.19 11:07:07.24  Durée 00:00:02.05  Lisibilité 33
+      - Prends tout ça.
+      - T'es complètement saoul.
+
+ 821: 11:07:08.04 11:07:10.06  Durée 00:00:02.02  Lisibilité 31
+      Mon héritage, je peux pas y renoncer.
+
+ 822: 11:07:10.10 11:07:13.02  Durée 00:00:02.17  Lisibilité 40
+      - Mais c'est pas des vrais?
+      - Ben, tiens.
+
+ 823: 11:07:13.07 11:07:16.15  Durée 00:00:03.08  Lisibilité 50
+      - Range tout ça, Émile!
+      - Mais prends pour ta maison.
+
+ 824: 11:07:16.19 11:07:17.24  Durée 00:00:01.05  Lisibilité 18
+      Il y en aura d'autres.
+
+ 825: 11:07:18.03 11:07:20.18  Durée 00:00:02.15  Lisibilité 39
+      Doucement.
+      Vous voyez pas qu'il est saoul?
+
+ 826: 11:07:22.01 11:07:23.23  Durée 00:00:01.22  Lisibilité 28
+      Il y en aura pour tout le monde.
+
+ 827: 11:07:24.02 11:07:25.02  Durée 00:00:01.00  Lisibilité 15
+      Calmez-vous.
+
+ 828: 11:07:25.06 11:07:27.07  Durée 00:00:02.01  Lisibilité 31
+      Il y en aura pour tout le monde.
+
+ 829: 11:07:28.07 11:07:29.06  Durée 00:00:00.24  Lisibilité 14
+      Attendez.
+
+ 830: 11:07:31.11 11:07:33.20  Durée 00:00:02.09  Lisibilité 35
+      Les héritages, ça sert à ça.
+
+ 831: 11:07:35.07 11:07:38.00  Durée 00:00:02.18  Lisibilité 41
+      C'est comme de l'eau pour moi.
+      Ça coule, tout ça.
+
+ 832: 11:07:38.04 11:07:39.23  Durée 00:00:01.19  Lisibilité 26
+      Ça coule! Oh là là.
+
+ 833: 11:07:40.03 11:07:41.17  Durée 00:00:01.14  Lisibilité 23
+      Allez! Voilà.
+
+ 834: 11:07:43.14 11:07:45.09  Durée 00:00:01.20  Lisibilité 27
+      C'est quoi, ce bordel?
+      Écartez-vous!
+
+ 835: 11:07:45.13 11:07:46.19  Durée 00:00:01.06  Lisibilité 19
+      Dégagez!
+
+ 836: 11:07:46.23 11:07:47.24  Durée 00:00:01.01  Lisibilité 16
+      Dégagez!
+
+ 837: 11:07:49.07 11:07:50.08  Durée 00:00:01.01  Lisibilité 16
+      C'est quoi, encore?
+
+ 838: 11:08:32.21 11:08:36.14  Durée 00:00:03.18  Lisibilité 56
+      Le passe-muraille
+
+ 839: 11:08:45.17 11:08:47.04  Durée 00:00:01.12  Lisibilité 22
+      Gentil, le chien.
+
+ 840: 11:08:47.08 11:08:49.14  Durée 00:00:02.06  Lisibilité 34
+      Gentil. Gentil, le chien. Tout doux.
+
+ 841: 11:09:08.06 11:09:09.03  Durée 00:00:00.22  Lisibilité 13
+      Coucou.
+
+ 842: 11:09:43.04 11:09:44.12  Durée 00:00:01.08  Lisibilité 20
+      #Cuisine, RAS.#
+
+ 843: 11:09:45.19 11:09:47.23  Durée 00:00:02.04  Lisibilité 32
+      Allez. Il y en a encore une pièce
+      au fond.
+
+ 844: 11:09:49.18 11:09:51.02  Durée 00:00:01.09  Lisibilité 20
+      #RAS dans la chambre.#
+
+ 845: 11:09:51.06 11:09:52.12  Durée 00:00:01.06  Lisibilité 19
+      Christophe pour Stéphane.
+
+ 846: 11:09:53.21 11:09:56.07  Durée 00:00:02.11  Lisibilité 37
+      L'appartement est vide.
+      Il est sécurisé.
+
+ 847: 11:09:56.11 11:09:58.22  Durée 00:00:02.11  Lisibilité 37
+      Beaucoup de tableaux,
+      billets, lingots d'or.
+
+ 848: 11:09:59.01 11:10:01.05  Durée 00:00:02.04  Lisibilité 32
+      Demande instruction
+      pour évacuer le butin.
+
+ 849: 11:10:04.08 11:10:05.08  Durée 00:00:01.00  Lisibilité 15
+      Tends tes jambes.
+
+ 850: 11:10:08.21 11:10:10.02  Durée 00:00:01.06  Lisibilité 19
+      Qu'est-ce que c'est?
+
+ 851: 11:10:11.02 11:10:13.00  Durée 00:00:01.23  Lisibilité 29
+      Bracelet électronique
+      avec balise GPS.
+
+ 852: 11:10:14.00 11:10:15.13  Durée 00:00:01.13  Lisibilité 23
+      Procédure spéciale.
+
+ 853: 11:10:15.17 11:10:16.20  Durée 00:00:01.03  Lisibilité 17
+      Tends tes bras.
+
+ 854: 11:10:18.24 11:10:21.10  Durée 00:00:02.11  Lisibilité 37
+      C'est gênant.
+      Je dois les garder tout le temps?
+
+ 855: 11:10:22.10 11:10:24.16  Durée 00:00:02.06  Lisibilité 34
+      Pour les questions,
+      tu vois avec ton avocat.
+
+ 856: 11:10:24.21 11:10:27.10  Durée 00:00:02.14  Lisibilité 38
+      - Il va y avoir un procès?
+      - Non. Une soirée dansante.
+
+ 857: 11:10:28.20 11:10:30.04  Durée 00:00:01.09  Lisibilité 20
+      Je vais plutôt me promener.
+
+ 858: 11:10:30.09 11:10:31.22  Durée 00:00:01.13  Lisibilité 23
+      Ouais. C'est ça.
+
+ 859: 11:10:32.19 11:10:34.09  Durée 00:00:01.15  Lisibilité 24
+      Il est bon. 
+
+ 860: 11:10:35.07 11:10:38.06  Durée 00:00:02.24  Lisibilité 44
+      Oui. Non, mais détendez-vous,
+      ça va bien se passer.
+
+ 861: 11:10:39.01 11:10:40.13  Durée 00:00:01.12  Lisibilité 22
+      Je vais pas vous manger.
+
+ 862: 11:10:55.00 11:10:56.12  Durée 00:00:01.12  Lisibilité 22
+      Je m'appelle Franck Lecuyer.
+
+ 863: 11:10:56.16 11:10:58.06  Durée 00:00:01.15  Lisibilité 24
+      J'ai 45 ans.
+
+ 864: 11:10:58.10 11:11:00.14  Durée 00:00:02.04  Lisibilité 32
+      Je suis en dépression nerveuse, là.
+
+ 865: 11:11:00.18 11:11:02.15  Durée 00:00:01.22  Lisibilité 28
+      Burn-out.
+      J'ai eu des hallucinations.
+
+ 866: 11:11:02.19 11:11:05.06  Durée 00:00:02.12  Lisibilité 37
+      1 semaine de clinique,
+      je le souhaite à personne.
+
+ 867: 11:11:05.10 11:11:07.20  Durée 00:00:02.10  Lisibilité 36
+      Je suis en arrêt maladie
+      longue durée.
+
+ 868: 11:11:08.00 11:11:09.23  Durée 00:00:01.23  Lisibilité 29
+      Bruno Faucillon, 38 ans.
+
+ 869: 11:11:10.03 11:11:11.16  Durée 00:00:01.13  Lisibilité 23
+      Chloé Foucher.
+
+ 870: 11:11:11.20 11:11:12.21  Durée 00:00:01.01  Lisibilité 16
+      J'ai 30 ans.
+
+ 871: 11:11:13.01 11:11:15.03  Durée 00:00:02.02  Lisibilité 31
+      Nicolas Patureau, 28 ans.
+
+ 872: 11:11:15.08 11:11:17.14  Durée 00:00:02.06  Lisibilité 34
+      Je suis dans la boîte depuis 12 ans.
+
+ 873: 11:11:17.18 11:11:19.04  Durée 00:00:01.11  Lisibilité 22
+      Il était déjà là avant.
+
+ 874: 11:11:19.08 11:11:20.17  Durée 00:00:01.09  Lisibilité 20
+      Depuis combien de temps?
+
+ 875: 11:11:21.16 11:11:23.20  Durée 00:00:02.04  Lisibilité 32
+      Je sais pas. Longtemps.
+
+ 876: 11:11:23.24 11:11:26.04  Durée 00:00:02.05  Lisibilité 33
+      Je pensais
+      qu'il avait toujours été là.
+
+ 877: 11:11:26.24 11:11:28.16  Durée 00:00:01.17  Lisibilité 25
+      Il a fait quelque chose?
+
+ 878: 11:11:28.21 11:11:31.04  Durée 00:00:02.08  Lisibilité 35
+      Il s'était détendu
+      depuis quelque temps.
+
+ 879: 11:11:31.08 11:11:34.13  Durée 00:00:03.05  Lisibilité 48
+      Il commençait à parler un peu plus
+      avec les collègues.
+
+ 880: 11:11:34.18 11:11:37.16  Durée 00:00:02.23  Lisibilité 44
+      Ben, c'était quelqu'un
+      d'extrêmement normal.
+
+ 881: 11:11:37.20 11:11:40.03  Durée 00:00:02.08  Lisibilité 35
+      Si c'est possible
+      d'être extrêmement normal.
+
+ 882: 11:11:59.03 11:12:02.05  Durée 00:00:03.02  Lisibilité 46
+      #Une prison pour un passe-muraille,#
+      #qu'est-ce que c'est?#
+
+ 883: 11:12:02.10 11:12:05.07  Durée 00:00:02.22  Lisibilité 43
+      #C'est comme la mer pour le dauphin,#
+      #l'air pour l'oiseau.#
+
+ 884: 11:12:06.07 11:12:09.04  Durée 00:00:02.22  Lisibilité 43
+      #Une prison, avec ses murs épais
+      de plus d'un mètre,#
+
+ 885: 11:12:09.08 11:12:11.06  Durée 00:00:01.23  Lisibilité 29
+      #qui sont comme des sentiers secrets.#
+
+ 886: 11:12:34.21 11:12:36.08  Durée 00:00:01.12  Lisibilité 22
+      Ouf! Juste. Juste.
+
+ 887: 11:12:53.16 11:12:56.13  Durée 00:00:02.22  Lisibilité 43
+      #- Vous le décririez comment?#
+      #- Difficile à dire.#
+
+ 888: 11:12:56.17 11:12:58.07  Durée 00:00:01.15  Lisibilité 24
+      #Je dirais: comme tout le monde.#
+
+ 889: 11:12:58.12 11:12:59.22  Durée 00:00:01.10  Lisibilité 21
+      C'est-à-dire?
+
+ 890: 11:13:00.01 11:13:01.16  Durée 00:00:01.15  Lisibilité 24
+      Ben, c'est-à-dire...
+
+ 891: 11:13:01.20 11:13:02.19  Durée 00:00:00.24  Lisibilité 14
+      Bizarre.
+
+ 892: 11:13:02.23 11:13:04.04  Durée 00:00:01.06  Lisibilité 19
+      Si on y réfléchit bien,
+
+ 893: 11:13:04.08 11:13:07.02  Durée 00:00:02.19  Lisibilité 41
+      aujourd'hui, plus personne
+      n'est comme tout le monde.
+
+ 894: 11:13:07.07 11:13:10.09  Durée 00:00:03.02  Lisibilité 46
+      Pardon. Je vais pas pouvoir
+      vous aider. Je suis stagiaire.
+
+ 895: 11:13:11.24 11:13:13.03  Durée 00:00:01.04  Lisibilité 17
+      Je suis là depuis 2 mois,
+
+ 896: 11:13:13.07 11:13:16.02  Durée 00:00:02.20  Lisibilité 42
+      et mon contrat se finit
+      dans 3 semaines donc...
+
+ 897: 11:13:16.06 11:13:17.07  Durée 00:00:01.01  Lisibilité 16
+      Désolée.
+
+ 898: 11:13:17.12 11:13:19.22  Durée 00:00:02.10  Lisibilité 36
+      Messieurs, dames, bonjour.
+      Titre de transport.
+
+ 899: 11:13:21.10 11:13:25.02  Durée 00:00:03.17  Lisibilité 55
+      Monsieur, bonjour. Votre titre 
+      de transport, s'il vous plaît.
+
+ 900: 11:13:26.12 11:13:27.22  Durée 00:00:01.10  Lisibilité 21
+      Je l'ai pas.
+
+ 901: 11:13:28.01 11:13:30.21  Durée 00:00:02.20  Lisibilité 42
+      Je vais vous demander de sortir
+      à la prochaine station.
+
+ 902: 11:13:31.00 11:13:31.23  Durée 00:00:00.23  Lisibilité 14
+      Oui.
+
+ 903: 11:13:32.02 11:13:33.23  Durée 00:00:01.21  Lisibilité 28
+      Il est en infraction. D'accord?
+
+ 904: 11:13:48.24 11:13:51.02  Durée 00:00:02.03  Lisibilité 32
+      Mets tes mains au-dessus de la tête.
+
+ 905: 11:13:56.04 11:13:57.04  Durée 00:00:01.00  Lisibilité 15
+      T'as rien sur toi?
+
+ 906: 11:14:03.01 11:14:05.02  Durée 00:00:02.01  Lisibilité 31
+      - Aidez-moi!
+      - Qu'est-ce qui se passe?
+
+ 907: 11:14:05.17 11:14:07.18  Durée 00:00:02.01  Lisibilité 31
+      - Je... je suis planté.
+      - Ne touche pas.
+
+ 908: 11:14:09.15 11:14:13.17  Durée 00:00:04.02  Lisibilité 61
+      Depuis son évasion, il a été aperçu
+      par de nombreuses personnes,
+
+ 909: 11:14:13.22 11:14:15.18  Durée 00:00:01.21  Lisibilité 28
+      dont des fonctionnaires assermentés.
+
+ 910: 11:14:15.22 11:14:19.01  Durée 00:00:03.04  Lisibilité 47
+      D'ailleurs, il a littéralement
+      emmuré un policier.
+
+ 911: 11:14:19.05 11:14:21.06  Durée 00:00:02.01  Lisibilité 31
+      Il a fallu le sortir
+      au marteau-piqueur.
+
+ 912: 11:14:23.18 11:14:24.17  Durée 00:00:00.24  Lisibilité 14
+      Et pour le reste?
+
+ 913: 11:14:24.21 11:14:27.19  Durée 00:00:02.23  Lisibilité 44
+      Pas grand-chose.
+      Nous avons cherché dans son passé.
+
+ 914: 11:14:27.23 11:14:31.01  Durée 00:00:03.03  Lisibilité 47
+      Depuis 3 ans, il n'a jamais appelé
+      que 2 numéros.
+
+ 915: 11:14:31.05 11:14:32.20  Durée 00:00:01.15  Lisibilité 24
+      Sa mère, maintenant décédée.
+
+ 916: 11:14:32.24 11:14:36.02  Durée 00:00:03.03  Lisibilité 47
+      Et son ancienne femme
+      avec laquelle il est assez lié.
+
+ 917: 11:14:36.16 11:14:37.23  Durée 00:00:01.07  Lisibilité 19
+      Nous la surveillons.
+
+ 918: 11:14:38.02 11:14:39.05  Durée 00:00:01.03  Lisibilité 17
+      Il est très fort.
+
+ 919: 11:14:39.09 11:14:41.13  Durée 00:00:02.04  Lisibilité 32
+      Ben, il est pas sur les réseaux
+      sociaux.
+
+ 920: 11:14:42.08 11:14:45.11  Durée 00:00:03.03  Lisibilité 47
+      Une seule photo de lui
+      circule sur le Web.
+
+ 921: 11:14:46.06 11:14:47.24  Durée 00:00:01.18  Lisibilité 26
+      Elle date d'il y a 25 ans.
+
+ 922: 11:14:49.10 11:14:51.24  Durée 00:00:02.14  Lisibilité 38
+      Sinon, il travaille
+      dans les assurances.
+
+ 923: 11:14:52.03 11:14:53.23  Durée 00:00:01.20  Lisibilité 27
+      C'est certainement une couverture.
+
+ 924: 11:14:54.02 11:14:56.16  Durée 00:00:02.14  Lisibilité 38
+      Et vous allez me dire
+      qu'il agit tout seul.
+
+ 925: 11:14:56.20 11:14:59.19  Durée 00:00:02.24  Lisibilité 44
+      C'est M. Tout-le-monde
+      qui traverse les murs.
+
+ 926: 11:14:59.23 11:15:01.23  Durée 00:00:02.00  Lisibilité 30
+      Il cambriole, il collectionne,
+      il entasse.
+
+ 927: 11:15:02.02 11:15:04.08  Durée 00:00:02.06  Lisibilité 34
+      Il a pas de projets,
+      pas de revendications.
+
+ 928: 11:15:04.12 11:15:05.21  Durée 00:00:01.09  Lisibilité 20
+      Il a pas de mobile.
+
+ 929: 11:15:06.00 11:15:09.09  Durée 00:00:03.09  Lisibilité 50
+      C'est... Ou c'est si sophistiqué
+      que ça nous échappe.
+
+ 930: 11:15:09.13 11:15:12.02  Durée 00:00:02.14  Lisibilité 38
+      C'est pour ça, c'est...
+      extrêmement complexe.
+
+ 931: 11:15:12.22 11:15:15.07  Durée 00:00:02.10  Lisibilité 36
+      Et il a des points faibles,
+
+ 932: 11:15:15.11 11:15:16.16  Durée 00:00:01.05  Lisibilité 18
+      votre super-héros?
+
+ 933: 11:15:16.20 11:15:18.00  Durée 00:00:01.05  Lisibilité 18
+      On peut l'abattre?
+
+ 934: 11:15:18.04 11:15:21.01  Durée 00:00:02.22  Lisibilité 43
+      Vraisemblablement non,
+      madame la Première ministre.
+
+ 935: 11:15:21.05 11:15:24.05  Durée 00:00:03.00  Lisibilité 45
+      Tout le traverse, cet homme-là.
+      Et probablement les balles.
+
+ 936: 11:15:25.04 11:15:26.07  Durée 00:00:01.03  Lisibilité 17
+      Je sais.
+
+ 937: 11:15:26.11 11:15:27.16  Durée 00:00:01.05  Lisibilité 18
+      C'est incroyable.
+
+ 938: 11:15:27.20 11:15:30.07  Durée 00:00:02.12  Lisibilité 37
+      - Il y aurait bien quelque chose.
+      - Ah oui? Quoi?
+
+ 939: 11:15:30.11 11:15:31.15  Durée 00:00:01.04  Lisibilité 17
+      Le gaz.
+
+ 940: 11:15:31.19 11:15:33.02  Durée 00:00:01.08  Lisibilité 20
+      Il est obligé de respirer.
+
+ 941: 11:15:33.07 11:15:34.09  Durée 00:00:01.02  Lisibilité 16
+      La nourriture, aussi.
+
+ 942: 11:15:34.13 11:15:35.19  Durée 00:00:01.06  Lisibilité 19
+      Ce sont 2 entrées possibles.
+
+ 943: 11:15:36.19 11:15:40.02  Durée 00:00:03.08  Lisibilité 50
+      Il ne faut rien dire
+      de son super pouvoir à la presse.
+
+ 944: 11:15:40.06 11:15:41.22  Durée 00:00:01.16  Lisibilité 25
+      Ni révéler son identité.
+
+ 945: 11:15:42.10 11:15:43.12  Durée 00:00:01.02  Lisibilité 16
+      Bien sûr.
+
+ 946: 11:15:43.16 11:15:47.07  Durée 00:00:03.16  Lisibilité 55
+      Mais j'ai peur qu'avec les systèmes
+      de surveillance privés...
+
+ 947: 11:15:47.12 11:15:51.00  Durée 00:00:03.13  Lisibilité 53
+      Oui. Les images de particuliers
+      commencent à circuler sur la toile.
+
+ 948: 11:15:51.04 11:15:52.09  Durée 00:00:01.05  Lisibilité 18
+      On bloque, hein.
+
+ 949: 11:15:52.13 11:15:54.10  Durée 00:00:01.22  Lisibilité 28
+      Mais ça peut buzzer instantanément.
+
+ 950: 11:15:54.14 11:15:56.05  Durée 00:00:01.16  Lisibilité 25
+      Voilà. Vous savez ce que c'est.
+
+ 951: 11:15:56.09 11:15:57.13  Durée 00:00:01.04  Lisibilité 17
+      Alors il faut aller vite.
+
+ 952: 11:15:57.18 11:15:59.05  Durée 00:00:01.12  Lisibilité 22
+      1, vous me l'attrapez.
+
+ 953: 11:15:59.09 11:16:02.14  Durée 00:00:03.05  Lisibilité 48
+      2, vous le mettez dans un bocal
+      entouré d'eau.
+
+ 954: 11:16:02.18 11:16:04.11  Durée 00:00:01.18  Lisibilité 26
+      Sous la mer. Que sais-je?
+
+ 955: 11:16:04.16 11:16:07.02  Durée 00:00:02.11  Lisibilité 37
+      Et vous me le gardez. C'est clair?
+
+ 956: 11:16:07.06 11:16:09.05  Durée 00:00:01.24  Lisibilité 29
+      Mais si on ne peut pas?
+
+ 957: 11:16:11.11 11:16:14.18  Durée 00:00:03.07  Lisibilité 49
+      Eh bien, dans ce cas,
+      il faudra prendre des mesures plus...
+
+ 958: 11:16:15.13 11:16:16.20  Durée 00:00:01.07  Lisibilité 19
+      définitives.
+
+ 959: 11:16:17.15 11:16:19.03  Durée 00:00:01.13  Lisibilité 23
+      Vous voyez ce que je veux dire?
+
+ 960: 11:16:19.07 11:16:22.03  Durée 00:00:02.21  Lisibilité 43
+      Bon. Je dis ça, je n'ai rien dit.
+
+ 961: 11:16:22.07 11:16:23.14  Durée 00:00:01.07  Lisibilité 19
+      - Oh non.
+      - Ah non.
+
+ 962: 11:16:31.04 11:16:32.10  Durée 00:00:01.06  Lisibilité 19
+      Je suis pas en retard?
+
+ 963: 11:16:32.14 11:16:34.16  Durée 00:00:02.02  Lisibilité 31
+      Émile, c'est quoi ces lunettes?
+
+ 964: 11:16:34.20 11:16:36.01  Durée 00:00:01.06  Lisibilité 19
+      Elles sont neuves.
+
+ 965: 11:16:41.01 11:16:42.07  Durée 00:00:01.06  Lisibilité 19
+      Costume chic, non?
+
+ 966: 11:16:42.11 11:16:43.24  Durée 00:00:01.13  Lisibilité 23
+      Mais il y a encore l'étiquette.
+
+ 967: 11:16:44.03 11:16:45.14  Durée 00:00:01.11  Lisibilité 22
+      Ah oui. Merci. Pardon.
+
+ 968: 11:16:47.20 11:16:49.07  Durée 00:00:01.12  Lisibilité 22
+      J'ai gagné au Loto.
+
+ 969: 11:16:50.13 11:16:52.03  Durée 00:00:01.15  Lisibilité 24
+      - Pour de vrai.
+      - Tu me fais marcher.
+
+ 970: 11:16:52.07 11:16:54.15  Durée 00:00:02.08  Lisibilité 35
+      Pas du tout.
+      J'ai joué, j'ai gagné.
+
+ 971: 11:16:54.19 11:16:55.20  Durée 00:00:01.01  Lisibilité 16
+      Et Pierrot?
+
+ 972: 11:16:58.24 11:17:00.13  Durée 00:00:01.14  Lisibilité 23
+      Un déca, s'il vous plaît.
+
+ 973: 11:17:04.10 11:17:05.06  Durée 00:00:00.21  Lisibilité 13
+      Ah, tiens.
+
+ 974: 11:17:06.14 11:17:09.21  Durée 00:00:03.07  Lisibilité 49
+      - Tu vérifies pas?
+      - Pas à chaque fois. C'est pas drôle.
+
+ 975: 11:17:10.09 11:17:12.15  Durée 00:00:02.06  Lisibilité 34
+      Non, mais t'as gagné beaucoup?
+
+ 976: 11:17:12.19 11:17:14.03  Durée 00:00:01.09  Lisibilité 20
+      Pas mal.
+
+ 977: 11:17:14.08 11:17:17.01  Durée 00:00:02.18  Lisibilité 41
+      J'ai démissionné.
+      Je vais voyager quelque temps.
+
+ 978: 11:17:17.05 11:17:19.19  Durée 00:00:02.14  Lisibilité 38
+      Comme je pourrai pas venir
+      pour la pension,
+
+ 979: 11:17:19.24 11:17:21.01  Durée 00:00:01.02  Lisibilité 16
+      j'ai pensé que...
+
+ 980: 11:17:21.05 11:17:22.06  Durée 00:00:01.01  Lisibilité 16
+      C'est quoi?
+
+ 981: 11:17:22.10 11:17:24.05  Durée 00:00:01.20  Lisibilité 27
+      C'est du liquide.
+      Il y en a pour 15 ans.
+
+ 982: 11:17:24.09 11:17:25.23  Durée 00:00:01.14  Lisibilité 23
+      Je te conseille de le placer.
+
+ 983: 11:17:27.24 11:17:30.09  Durée 00:00:02.10  Lisibilité 36
+      15 ans de pension?
+      Mais t'es devenu fou?
+
+ 984: 11:17:31.02 11:17:34.04  Durée 00:00:03.02  Lisibilité 46
+      Ce qui est bien, en ce moment,
+      c'est l'assurance-vie.
+
+ 985: 11:17:34.08 11:17:35.04  Durée 00:00:00.21  Lisibilité 13
+      Monsieur.
+
+ 986: 11:17:35.08 11:17:36.04  Durée 00:00:00.21  Lisibilité 13
+      Merci.
+
+ 987: 11:17:38.21 11:17:40.06  Durée 00:00:01.10  Lisibilité 21
+      C'est chaud.
+
+ 988: 11:17:40.10 11:17:41.23  Durée 00:00:01.13  Lisibilité 23
+      C'est des obligations d'État.
+
+ 989: 11:17:42.12 11:17:44.09  Durée 00:00:01.22  Lisibilité 28
+      Si tu le laisses fructifier 8 ans,
+
+ 990: 11:17:44.14 11:17:46.20  Durée 00:00:02.06  Lisibilité 34
+      t'es pas obligée de payer des impôts
+
+ 991: 11:17:46.24 11:17:48.07  Durée 00:00:01.08  Lisibilité 20
+      sur... sur les intérêts.
+
+ 992: 11:17:49.18 11:17:50.21  Durée 00:00:01.03  Lisibilité 17
+      Ça va, Émile?
+
+ 993: 11:17:51.20 11:17:52.17  Durée 00:00:00.22  Lisibilité 13
+      C'est dans le déca?
+
+ 994: 11:17:53.06 11:17:54.09  Durée 00:00:01.03  Lisibilité 17
+      T'as presque rien bu.
+
+ 995: 11:17:54.14 11:17:55.22  Durée 00:00:01.08  Lisibilité 20
+      C'était dans le déca.
+
+ 996: 11:17:59.06 11:18:00.06  Durée 00:00:01.00  Lisibilité 15
+      Émile?
+
+ 997: 11:18:06.07 11:18:07.09  Durée 00:00:01.02  Lisibilité 16
+      Émile?
+
+ 998: 11:18:40.09 11:18:42.05  Durée 00:00:01.21  Lisibilité 28
+      Mais lâchez-moi!
+
+ 999: 11:18:43.09 11:18:44.09  Durée 00:00:01.00  Lisibilité 15
+      Pierrot!
+
+1000: 11:19:07.04 11:19:08.07  Durée 00:00:01.03  Lisibilité 17
+      Putain!
+
+1001: 11:19:08.11 11:19:09.12  Durée 00:00:01.01  Lisibilité 16
+      Il est où? Bordel!
+
+1002: 11:19:09.16 11:19:10.21  Durée 00:00:01.05  Lisibilité 18
+      - Vous l'avez vu?
+      - Non.
+
+1003: 11:19:14.13 11:19:16.03  Durée 00:00:01.15  Lisibilité 24
+      Putain!
+
+1004: 11:19:16.07 11:19:18.16  Durée 00:00:02.09  Lisibilité 35
+      - Ça sert à rien.
+      - C'est mort, là.
+
+1005: 11:19:18.20 11:19:19.22  Durée 00:00:01.02  Lisibilité 16
+      Bon. On décroche, là.
+
+1006: 11:19:43.03 11:19:44.00  Durée 00:00:00.22  Lisibilité 13
+      Émile?
+
+1007: 11:19:45.04 11:19:46.00  Durée 00:00:00.21  Lisibilité 13
+      Émile?
+
+1008: 11:19:47.03 11:19:48.01  Durée 00:00:00.23  Lisibilité 14
+      Émile.
+
+1009: 11:19:49.02 11:19:50.03  Durée 00:00:01.01  Lisibilité 16
+      C'est moi.
+
+1010: 11:19:50.07 11:19:51.16  Durée 00:00:01.09  Lisibilité 20
+      C'est Ariane. Émile?
+
+1011: 11:19:53.14 11:19:54.22  Durée 00:00:01.08  Lisibilité 20
+      - Oui.
+      - Ariane.
+
+1012: 11:19:55.01 11:19:55.24  Durée 00:00:00.23  Lisibilité 14
+      Tu m'entends?
+
+1013: 11:20:07.08 11:20:08.04  Durée 00:00:00.21  Lisibilité 13
+      Tiens.
+
+1014: 11:20:14.16 11:20:17.24  Durée 00:00:03.08  Lisibilité 50
+      Ils ont voulu t'empoisonner
+      parce que t'es le passe-muraille?
+
+1015: 11:20:19.13 11:20:20.23  Durée 00:00:01.10  Lisibilité 21
+      Tu les passes vraiment?
+
+1016: 11:20:22.09 11:20:24.03  Durée 00:00:01.19  Lisibilité 26
+      Tu veux savoir comment je fais?
+
+1017: 11:20:25.01 11:20:28.18  Durée 00:00:03.17  Lisibilité 55
+      Non. Je crois pas. Les magiciens
+      aiment pas partager leurs trucs.
+
+1018: 11:20:28.22 11:20:30.21  Durée 00:00:01.24  Lisibilité 29
+      Je pense pas qu'il y ait un truc.
+
+1019: 11:20:31.00 11:20:32.05  Durée 00:00:01.05  Lisibilité 18
+      Mais oui.
+
+1020: 11:20:32.09 11:20:34.01  Durée 00:00:01.17  Lisibilité 25
+      Sinon c'est pas de la magie.
+
+1021: 11:20:35.11 11:20:37.07  Durée 00:00:01.21  Lisibilité 28
+      De toute façon,
+      je connais ton truc.
+
+1022: 11:20:38.02 11:20:39.03  Durée 00:00:01.01  Lisibilité 16
+      Regarde.
+
+1023: 11:20:57.22 11:20:59.09  Durée 00:00:01.12  Lisibilité 22
+      Tu peux enlever les miettes?
+
+1024: 11:21:08.09 11:21:09.11  Durée 00:00:01.02  Lisibilité 16
+      À toi.
+
+1025: 11:21:36.08 11:21:37.14  Durée 00:00:01.06  Lisibilité 19
+      Et t'as appris ça où?
+
+1026: 11:21:38.09 11:21:39.22  Durée 00:00:01.13  Lisibilité 23
+      Tout seul. Sur le tas.
+
+1027: 11:21:41.04 11:21:44.16  Durée 00:00:03.12  Lisibilité 52
+      J'en ai un plus impressionnant,
+      mais je vais avoir besoin de toi.
+
+1028: 11:21:44.20 11:21:46.08  Durée 00:00:01.13  Lisibilité 23
+      Eh bien, je suis prête.
+
+1029: 11:21:46.13 11:21:48.15  Durée 00:00:02.02  Lisibilité 31
+      - Il me faut un peu de musique.
+      - Oui.
+
+1030: 11:21:55.02 11:21:56.11  Durée 00:00:01.09  Lisibilité 20
+      Et maintenant, maestro?
+
+1031: 11:21:57.09 11:21:58.19  Durée 00:00:01.10  Lisibilité 21
+      Venez. Venez. Venez.
+
+1032: 11:21:58.23 11:22:00.12  Durée 00:00:01.14  Lisibilité 23
+      Voilà. Un petit peu comme ça.
+
+1033: 11:22:02.08 11:22:04.20  Durée 00:00:02.12  Lisibilité 37
+      Fermez-les yeux,
+      s'il vous plaît, mademoiselle.
+
+1034: 11:22:27.00 11:22:28.13  Durée 00:00:01.13  Lisibilité 23
+      Quelle drôle de sensation.
+
+1035: 11:22:28.17 11:22:29.24  Durée 00:00:01.07  Lisibilité 19
+      Ouvrez les yeux.
+
+1036: 11:22:42.10 11:22:44.06  Durée 00:00:01.21  Lisibilité 28
+      - Mais ça, c'est quoi?
+      - Ça y est.
+
+1037: 11:22:45.01 11:22:46.00  Durée 00:00:00.24  Lisibilité 14
+      Quoi?
+
+1038: 11:22:46.23 11:22:48.20  Durée 00:00:01.22  Lisibilité 28
+      Ah non, mais qu'est-ce que t'as?
+
+1039: 11:22:48.24 11:22:51.11  Durée 00:00:02.12  Lisibilité 37
+      C'est l'intoxication.
+      Je crois que ça me reprend.
+
+1040: 11:22:51.15 11:22:53.03  Durée 00:00:01.13  Lisibilité 23
+      Viens. Viens.
+
+1041: 11:22:58.12 11:23:01.04  Durée 00:00:02.17  Lisibilité 40
+      J'ai des amis
+      qui veulent remonter un cirque.
+
+1042: 11:23:01.08 11:23:02.14  Durée 00:00:01.06  Lisibilité 19
+      Les animaux sont à eux.
+
+1043: 11:23:04.10 11:23:06.02  Durée 00:00:01.17  Lisibilité 25
+      Et la maison, tu la laisserais?
+
+1044: 11:23:07.11 11:23:09.04  Durée 00:00:01.18  Lisibilité 26
+      Ben, non. T'as raison.
+
+1045: 11:23:09.08 11:23:10.15  Durée 00:00:01.07  Lisibilité 19
+      Je peux pas.
+
+1046: 11:23:10.19 11:23:13.04  Durée 00:00:02.10  Lisibilité 36
+      Il faudrait trouver des sous
+      pour les travaux.
+
+1047: 11:23:13.24 11:23:17.06  Durée 00:00:03.07  Lisibilité 49
+      Pour moi, c'est pas difficile
+      d'en trouver, mais...
+
+1048: 11:23:17.10 11:23:19.05  Durée 00:00:01.20  Lisibilité 27
+      C'est pas très légal, non plus.
+
+1049: 11:23:22.01 11:23:22.24  Durée 00:00:00.23  Lisibilité 14
+      Tu t'en fiches?
+
+1050: 11:23:26.05 11:23:28.02  Durée 00:00:01.22  Lisibilité 28
+      Je suis comptable, à l'origine.
+
+1051: 11:23:28.06 11:23:30.04  Durée 00:00:01.23  Lisibilité 29
+      La gestion, ça me fait pas peur.
+
+1052: 11:23:31.17 11:23:34.23  Durée 00:00:03.06  Lisibilité 49
+      Est-ce que tu crois vraiment
+      que si on remonte un cirque,
+
+1053: 11:23:35.03 11:23:36.22  Durée 00:00:01.19  Lisibilité 26
+      c'est comptable que tu ferais?
+
+1054: 11:23:37.01 11:23:38.10  Durée 00:00:01.09  Lisibilité 20
+      Ben, pourquoi pas?
+
+1055: 11:23:39.06 11:23:41.10  Durée 00:00:02.04  Lisibilité 32
+      Tout ce que tu peux faire
+      avec ton pouvoir.
+
+1056: 11:23:41.15 11:23:43.12  Durée 00:00:01.22  Lisibilité 28
+      J'ai pas tout essayé, c'est vrai.
+
+1057: 11:23:44.07 11:23:46.04  Durée 00:00:01.22  Lisibilité 28
+      T'es un cirque à toi tout seul.
+
+1058: 11:23:46.19 11:23:48.05  Durée 00:00:01.11  Lisibilité 22
+      Les gens vont t'adorer.
+
+1059: 11:23:48.10 11:23:49.17  Durée 00:00:01.07  Lisibilité 19
+      Les enfants, surtout.
+
+1060: 11:23:49.21 11:23:51.00  Durée 00:00:01.04  Lisibilité 17
+      Ah, c'est tentant.
+
+1061: 11:23:53.03 11:23:54.00  Durée 00:00:00.22  Lisibilité 13
+      Non. Pardon.
+
+1062: 11:23:54.04 11:23:55.04  Durée 00:00:01.00  Lisibilité 15
+      Oh non, je...
+
+1063: 11:23:55.08 11:23:57.17  Durée 00:00:02.09  Lisibilité 35
+      je sais pas si avec l'empoisonnement,
+
+1064: 11:23:57.21 11:24:01.03  Durée 00:00:03.07  Lisibilité 49
+      c'est très... Je voudrais pas...
+      C'est pas raisonnable.
+
+1065: 11:24:01.07 11:24:04.00  Durée 00:00:02.18  Lisibilité 41
+      - Il vaut mieux attendre.
+      - Attendre, être raisonnable.
+
+1066: 11:24:04.04 11:24:05.20  Durée 00:00:01.16  Lisibilité 25
+      C'est pas ça. Mais... 
+
+1067: 11:24:07.10 11:24:08.24  Durée 00:00:01.14  Lisibilité 23
+      Il faut que je te dise.
+
+1068: 11:24:09.03 11:24:10.10  Durée 00:00:01.07  Lisibilité 19
+      Par exemple,
+
+1069: 11:24:10.14 11:24:12.23  Durée 00:00:02.09  Lisibilité 35
+      quand je jouais au piano.
+      Tu te souviens?
+
+1070: 11:24:13.02 11:24:14.09  Durée 00:00:01.07  Lisibilité 19
+      Oui. Je t'aurais mangé.
+
+1071: 11:24:14.13 11:24:17.14  Durée 00:00:03.01  Lisibilité 46
+      Mes mains se sont mises
+      à traverser les touches.
+
+1072: 11:24:17.18 11:24:20.00  Durée 00:00:02.07  Lisibilité 34
+      Je t'assure, je contrôlais plus rien.
+
+1073: 11:24:21.17 11:24:24.03  Durée 00:00:02.11  Lisibilité 37
+      Tu sais, si je te touchais, là,
+      maintenant,
+
+1074: 11:24:24.23 11:24:26.18  Durée 00:00:01.20  Lisibilité 27
+      je passerais sûrement
+
+1075: 11:24:27.13 11:24:28.23  Durée 00:00:01.10  Lisibilité 21
+      à travers toi.
+
+1076: 11:24:29.18 11:24:30.20  Durée 00:00:01.02  Lisibilité 16
+      Comme un fantôme.
+
+1077: 11:24:32.06 11:24:33.13  Durée 00:00:01.07  Lisibilité 19
+      "À travers"?
+
+1078: 11:24:34.08 11:24:35.23  Durée 00:00:01.15  Lisibilité 24
+      C'est intéressant.
+
+1079: 11:24:36.02 11:24:37.18  Durée 00:00:01.16  Lisibilité 25
+      J'ai jamais essayé, ça.
+
+1080: 11:24:45.15 11:24:47.17  Durée 00:00:02.02  Lisibilité 31
+      Jusqu'ici tout va bien, non?
+
+1081: 11:25:00.21 11:25:02.00  Durée 00:00:01.04  Lisibilité 17
+      Han!
+
+1082: 11:25:02.04 11:25:04.07  Durée 00:00:02.03  Lisibilité 32
+      Et voilà. Qu'est-ce que je disais?
+
+1083: 11:25:05.17 11:25:07.05  Durée 00:00:01.13  Lisibilité 23
+      On peut pas se toucher.
+
+1084: 11:25:08.22 11:25:10.12  Durée 00:00:01.15  Lisibilité 24
+      Mais c'est pas grave.
+
+1085: 11:25:11.07 11:25:13.11  Durée 00:00:02.04  Lisibilité 32
+      - Hein?
+      - C'est pas grave.
+
+1086: 11:25:38.00 11:25:40.22  Durée 00:00:02.22  Lisibilité 43
+      De retour dans deux heures
+      Emile
+
+1087: 11:26:22.17 11:26:25.15  Durée 00:00:02.23  Lisibilité 44
+      #Garder un immeuble#
+      #n'est pas si facile qu'on croit,#
+
+1088: 11:26:25.19 11:26:27.24  Durée 00:00:02.05  Lisibilité 33
+      #car les immeubles touchent#
+      #d'autres immeubles#
+
+1089: 11:26:28.03 11:26:30.20  Durée 00:00:02.17  Lisibilité 40
+      #qui eux-mêmes touchent
+      d'autres immeubles, etc.#
+
+1090: 11:26:31.15 11:26:32.23  Durée 00:00:01.08  Lisibilité 20
+      #Et de toute façon,#
+
+1091: 11:26:33.03 11:26:35.07  Durée 00:00:02.04  Lisibilité 32
+      #qui aurait pensé
+      que je reviendrais ici?#
+
+1092: 11:27:11.19 11:27:14.13  Durée 00:00:02.19  Lisibilité 41
+      "100 % d'efficacité
+      au bout de 15 minutes."
+
+1093: 11:27:53.01 11:27:54.04  Durée 00:00:01.03  Lisibilité 17
+      Et voilà.
+
+1094: 11:28:25.03 11:28:26.19  Durée 00:00:01.16  Lisibilité 25
+      - Ah. Bonjour.
+      - Bonjour.
+
+1095: 11:28:26.23 11:28:28.12  Durée 00:00:01.14  Lisibilité 23
+      - Vous me reconnaissez?
+      - Oui.
+
+1096: 11:28:28.16 11:28:30.09  Durée 00:00:01.18  Lisibilité 26
+      Tenez. J'en prends 3.
+
+1097: 11:28:30.13 11:28:32.06  Durée 00:00:01.18  Lisibilité 26
+      - Voilà. Merci.
+      - Merci beaucoup.
+
+1098: 11:28:32.10 11:28:33.11  Durée 00:00:01.01  Lisibilité 16
+      Je vous en prie.
+
+1099: 11:30:14.24 11:30:17.22  Durée 00:00:02.23  Lisibilité 44
+      #Je ne parvins jamais#
+      #de l'autre côté de ce mur-là.#
+
+1100: 11:30:20.10 11:30:22.12  Durée 00:00:02.02  Lisibilité 31
+      #J'eus le temps d'entendre ses pas,#
+
+1101: 11:30:22.16 11:30:24.03  Durée 00:00:01.12  Lisibilité 22
+      #les clés dans la porte.#
+
+1102: 11:30:24.07 11:30:27.07  Durée 00:00:03.00  Lisibilité 45
+      #Je voulais parler,#
+      #hurler de toutes mes forces,#
+
+1103: 11:30:27.11 11:30:29.00  Durée 00:00:01.14  Lisibilité 23
+      #mais aucun son ne sortait.#
+
+1104: 11:30:29.20 11:30:31.01  Durée 00:00:01.06  Lisibilité 19
+      #Pas même un murmure.#
+
+1105: 11:30:31.21 11:30:33.03  Durée 00:00:01.07  Lisibilité 19
+      Émile?
+
+1106: 11:30:43.21 11:30:46.12  Durée 00:00:02.16  Lisibilité 40
+      #Nous nous tenions#
+      #à quelques mètres l'un de l'autre.#
+
+1107: 11:30:46.16 11:30:48.16  Durée 00:00:02.00  Lisibilité 30
+      Moi, sachant. Elle, non.
+
+1108: 11:30:49.15 11:30:51.17  Durée 00:00:02.02  Lisibilité 31
+      #Comment aurait-elle pu se douter?#
+
+1109: 11:31:58.24 11:32:00.15  Durée 00:00:01.16  Lisibilité 25
+      #On dit que les murs ont des oreilles.#
+
+1110: 11:32:00.19 11:32:02.24  Durée 00:00:02.05  Lisibilité 33
+      #Maintenant, ils ont aussi une voix.#
+
+1111: 11:32:03.19 11:32:05.15  Durée 00:00:01.21  Lisibilité 28
+      #Cette voix, c'est la mienne.#
+
+1112: 11:32:05.19 11:32:07.09  Durée 00:00:01.15  Lisibilité 24
+      #Et pour l'éternité.#
+
+1113: 11:32:07.13 11:32:09.22  Durée 00:00:02.09  Lisibilité 35
+      #Car le temps ici,#
+      #semble s'être arrêté.#
+
+1114: 11:32:15.23 11:32:17.20  Durée 00:00:01.22  Lisibilité 28
+      #Ainsi se termine mon histoire.#
+
+1115: 11:32:17.24 11:32:19.20  Durée 00:00:01.21  Lisibilité 28
+      #Celle d'Émile Dutilleul#
+
+1116: 11:32:19.24 11:32:22.11  Durée 00:00:02.12  Lisibilité 37
+      #qui n'aimait pas particulièrement#
+      #le tilleul.#
+
+1117: 11:32:22.15 11:32:24.04  Durée 00:00:01.14  Lisibilité 23
+      #Et ainsi sont faites nos vies,#
+
+1118: 11:32:24.09 11:32:26.06  Durée 00:00:01.22  Lisibilité 28
+      #de cases qu'il faut savoir occuper,#
+
+1119: 11:32:26.10 11:32:28.12  Durée 00:00:02.02  Lisibilité 31
+      #de cases dont il faut aussi, parfois,#
+
+1120: 11:32:28.16 11:32:29.17  Durée 00:00:01.01  Lisibilité 16
+      #savoir sortir.#
+
+1121: 11:32:59.16 11:33:01.12  Durée 00:00:01.21  Lisibilité 28
+      Qu'est-ce que vous faites là?
+
+1122: 11:33:02.18 11:33:03.21  Durée 00:00:01.03  Lisibilité 17
+      Vous êtes blessé?
+
+1123: 11:33:10.00 11:33:12.14  Durée 00:00:02.14  Lisibilité 38
+      C'est interdit d'entrer
+      dans un chantier.
+
+1124: 11:33:12.18 11:33:14.18  Durée 00:00:02.00  Lisibilité 30
+      Partez d'ici. Allez. Vite.
+
+1125: 11:33:40.23 11:33:45.02  Durée 00:00:04.04  Lisibilité 62
+      #Par la suite, il m'arriva encore#
+      #de toucher des murs et des cloisons.#
+
+1126: 11:33:45.06 11:33:47.15  Durée 00:00:02.09  Lisibilité 35
+      #Et même de pousser un peu pour voir.#
+
+1127: 11:33:47.19 11:33:48.21  Durée 00:00:01.02  Lisibilité 16
+      #Peine perdue.#
+
+1128: 11:33:49.00 11:33:51.05  Durée 00:00:02.05  Lisibilité 33
+      #Les murs restaient impénétrables.#
+
+1129: 11:33:51.09 11:33:53.03  Durée 00:00:01.19  Lisibilité 26
+      #Mais quelle importance,#
+      #maintenant?#
+
+1130: 11:33:53.23 11:33:57.17  Durée 00:00:03.19  Lisibilité 56
+      #Il y avait un cirque en Belgique#
+      #qui avait besoin d'un comptable.#
+
+1131: 11:33:57.22 11:34:00.21  Durée 00:00:02.24  Lisibilité 44
+      Le passe-muraille
+
+1132: 11:35:03.07 11:35:05.13  Durée 00:00:02.06  Lisibilité 34
+      Sous-titrage: ECLAIR
+
