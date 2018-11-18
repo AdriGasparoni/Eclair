@@ -1,0 +1,2960 @@
+
+   1: 10:00:08.21 10:00:10.21  Durée 00:00:02.00  Lisibilité 30
+#Em 20 de agosto de 1961,#
+
+   2: 10:00:11.13 10:00:14.24  Durée 00:00:03.11  Lisibilité 52
+#o Senegal festeja o 1º aniversário
+da sua independência,#
+
+   3: 10:00:15.03 10:00:18.00  Durée 00:00:02.22  Lisibilité 43
+#diante de seu primeiro presidente
+recém-eleito,#
+
+   4: 10:00:18.05 10:00:21.04  Durée 00:00:02.24  Lisibilité 44
+#Léopold Sédar Senghor.#
+
+   5: 10:00:22.16 10:00:26.21  Durée 00:00:04.05  Lisibilité 63
+#No ano anterior, foi ele
+que negociou a emancipação do país#
+
+   6: 10:00:27.01 10:00:28.13  Durée 00:00:01.12  Lisibilité 22
+#com o general de Gaulle.#
+
+   7: 10:00:31.15 10:00:33.04  Durée 00:00:01.14  Lisibilité 23
+#Em meses, aos poucos,#
+
+   8: 10:00:33.09 10:00:35.12  Durée 00:00:02.03  Lisibilité 32
+#ao longo do ano de 1960,#
+
+   9: 10:00:35.17 10:00:38.00  Durée 00:00:02.08  Lisibilité 35
+#a maioria das colônias africanas
+da França#
+
+  10: 10:00:38.05 10:00:41.14  Durée 00:00:03.09  Lisibilité 50
+#também chegaram à independência.#
+
+  11: 10:00:46.21 10:00:47.21  Durée 00:00:01.00  Lisibilité 15
+#Oficialmente,#
+
+  12: 10:00:48.01 10:00:51.12  Durée 00:00:03.11  Lisibilité 52
+#os territórios franceses da África
+agora estão livres.#
+
+  13: 10:00:51.16 10:00:53.17  Durée 00:00:02.01  Lisibilité 31
+#Uma liberdade concedida a elas#
+
+  14: 10:00:53.22 10:00:55.22  Durée 00:00:02.00  Lisibilité 30
+#por uma potência colonial que,
+porém,#
+
+  15: 10:00:56.01 10:00:59.06  Durée 00:00:03.05  Lisibilité 48
+#quer manter o controle
+em suas antigas possessões.#
+
+  16: 10:01:08.19 10:01:10.05  Durée 00:00:01.11  Lisibilité 22
+#Para organizar
+o controle,#
+
+  17: 10:01:10.09 10:01:12.23  Durée 00:00:02.14  Lisibilité 38
+#o general de Gaulle
+confia em um homem,#
+
+  18: 10:01:13.02 10:01:14.07  Durée 00:00:01.05  Lisibilité 18
+#Jacques Foccart.#
+
+  19: 10:01:17.17 10:01:20.00  Durée 00:00:02.08  Lisibilité 35
+#Foccart, que se apoia em governos#
+
+  20: 10:01:20.05 10:01:21.21  Durée 00:00:01.16  Lisibilité 25
+#complacentes,
+alguns cúmplices,#
+
+  21: 10:01:22.01 10:01:25.05  Durée 00:00:03.04  Lisibilité 47
+#como os de Félix Houphouët-Boigny
+en Costa do Marfim#
+
+  22: 10:01:27.08 10:01:30.13  Durée 00:00:03.05  Lisibilité 48
+#ou de Léopold Sédar Senghor
+no Senegal.#
+
+  23: 10:01:32.02 10:01:35.14  Durée 00:00:03.12  Lisibilité 52
+#Nesse dia, os senegaleses festejam
+as independências africanas.#
+
+  24: 10:01:36.04 10:01:39.07  Durée 00:00:03.03  Lisibilité 47
+#Mas o que realmente valem
+essas independências?#
+
+  25: 10:02:12.17 10:02:17.17  Durée 00:00:05.00  Lisibilité 75
+O Dia em que o sul ganhou a liberdade
+
+  26: 10:02:17.21 10:02:22.21  Durée 00:00:05.00  Lisibilité 75
+A ÁFRICA FRANCESA
+
+  27: 10:02:28.15 10:02:31.16  Durée 00:00:03.01  Lisibilité 46
+#Charles de Gaulle
+e a África Subsaariana,#
+
+  28: 10:02:31.21 10:02:34.14  Durée 00:00:02.18  Lisibilité 41
+#já é, em 1960,
+uma longa história.#
+
+  29: 10:02:41.09 10:02:44.03  Durée 00:00:02.19  Lisibilité 41
+#O General conhece bem
+o continente africano.#
+
+  30: 10:02:44.08 10:02:47.06  Durée 00:00:02.23  Lisibilité 44
+#E tem até por ele
+uma afeição especial.#
+
+  31: 10:02:51.05 10:02:53.22  Durée 00:00:02.17  Lisibilité 40
+#Afeição que remonta
+a 18 de junho de 1940.#
+
+  32: 10:02:55.02 10:02:57.18  Durée 00:00:02.16  Lisibilité 40
+#Quando ele lança o apelo
+à continuação da luta,#
+
+  33: 10:02:57.22 10:03:00.15  Durée 00:00:02.18  Lisibilité 41
+#é da África
+que vem a primeira adesão,#
+
+  34: 10:03:00.20 10:03:03.15  Durée 00:00:02.20  Lisibilité 42
+#a de Félix Éboué,
+governador-geral do Chade.#
+
+  35: 10:03:03.20 10:03:06.07  Durée 00:00:02.12  Lisibilité 37
+#Um guianense, mas o único negro#
+
+  36: 10:03:06.12 10:03:09.01  Durée 00:00:02.14  Lisibilité 38
+#a dirigir
+uma colônia francesa na África.#
+
+  37: 10:03:12.01 10:03:13.02  Durée 00:00:01.01  Lisibilité 16
+#De Félix Éboué,#
+
+  38: 10:03:13.06 10:03:17.00  Durée 00:00:03.19  Lisibilité 56
+#de Gaulle diz que ele é
+um dos negros ardentemente franceses.#
+
+  39: 10:03:17.04 10:03:20.14  Durée 00:00:03.10  Lisibilité 51
+E de fato, sem a adesão
+do governador Éboué à França Livre
+
+  40: 10:03:20.18 10:03:22.20  Durée 00:00:02.02  Lisibilité 31
+#em 18 de junho de 1940,#
+
+  41: 10:03:22.24 10:03:25.10  Durée 00:00:02.11  Lisibilité 37
+#de Gaulle só seria
+um chefe sem território,#
+
+  42: 10:03:25.14 10:03:27.12  Durée 00:00:01.23  Lisibilité 29
+#um general sem exército.#
+
+  43: 10:03:27.16 10:03:29.16  Durée 00:00:02.00  Lisibilité 30
+#Ele jamais imporia aos Aliados#
+
+  44: 10:03:29.20 10:03:33.07  Durée 00:00:03.12  Lisibilité 52
+#que a França figurasse,
+após a guerra, entre os vencedores.#
+
+  45: 10:03:34.10 10:03:35.10  Durée 00:00:01.00  Lisibilité 15
+#Paradoxalmente,#
+
+  46: 10:03:35.15 10:03:38.00  Durée 00:00:02.10  Lisibilité 36
+#é portanto
+no coração da África Negra#
+
+  47: 10:03:38.05 10:03:40.01  Durée 00:00:01.21  Lisibilité 28
+#que nasceu a França Livre.#
+
+  48: 10:03:45.12 10:03:49.11  Durée 00:00:03.24  Lisibilité 59
+#Em 1946,
+de Gaulle é afastado do poder.#
+
+  49: 10:03:49.15 10:03:52.13  Durée 00:00:02.23  Lisibilité 44
+#Um deserto de 12 anos,
+longe da política#
+
+  50: 10:03:52.18 10:03:56.13  Durée 00:00:03.20  Lisibilité 57
+e dos jogos parlamentares
+rebuscados da IVª República.
+
+  51: 10:03:59.14 10:04:02.14  Durée 00:00:03.00  Lisibilité 45
+#Se ele foi chamado de volta
+em 1958,#
+
+  52: 10:04:02.18 10:04:05.08  Durée 00:00:02.15  Lisibilité 39
+#foi para encerrar
+a crise argelina.#
+
+  53: 10:04:06.04 10:04:09.24  Durée 00:00:03.20  Lisibilité 57
+#Uma guerra suja que a opinião pública
+não suporta mais.#
+
+  54: 10:04:11.02 10:04:13.15  Durée 00:00:02.13  Lisibilité 38
+De Gaulle aceita formar o governo
+
+  55: 10:04:15.07 10:04:18.18  Durée 00:00:03.11  Lisibilité 52
+#Mas quando, 2 anos depois,
+a África Negra também é tomada#
+
+  56: 10:04:18.22 10:04:22.21  Durée 00:00:03.24  Lisibilité 59
+#pela febre independentista,
+a Guerra da Argélia ainda persiste.#
+
+  57: 10:04:25.05 10:04:27.23  Durée 00:00:02.18  Lisibilité 41
+De Gaulle sabe
+que a França não tem condições
+
+  58: 10:04:28.03 10:04:30.18  Durée 00:00:02.15  Lisibilité 39
+#de se engajar
+em novos conflitos armados#
+
+  59: 10:04:30.23 10:04:33.06  Durée 00:00:02.08  Lisibilité 35
+#para manter o controle
+de suas colônias.#
+
+  60: 10:04:33.10 10:04:34.05  Durée 00:00:00.20  Lisibilité 12
+#No entanto,#
+
+  61: 10:04:34.10 10:04:37.08  Durée 00:00:02.23  Lisibilité 44
+#o general tem um trunfo:
+ele é muito popular#
+
+  62: 10:04:37.23 10:04:40.20  Durée 00:00:02.22  Lisibilité 43
+#nos territórios franceses
+da África Subsaariana.#
+
+  63: 10:04:40.24 10:04:42.19  Durée 00:00:01.20  Lisibilité 27
+Brazzaville, Congo
+Agosto de 1958
+
+  64: 10:04:42.23 10:04:45.05  Durée 00:00:02.07  Lisibilité 34
+#Em certos países,
+certas cidades,#
+
+  65: 10:04:45.09 10:04:48.11  Durée 00:00:03.02  Lisibilité 46
+#ele é até objeto
+de um verdadeiro culto,#
+
+  66: 10:04:48.16 10:04:49.15  Durée 00:00:00.24  Lisibilité 14
+#como uma espécie#
+
+  67: 10:04:49.19 10:04:52.09  Durée 00:00:02.15  Lisibilité 39
+#de divindade dotada
+de poderes mágicos.#
+
+  68: 10:04:52.14 10:04:54.05  Durée 00:00:01.16  Lisibilité 25
+Saint-Louis, Senegal
+Dezembro 1958
+
+  69: 10:05:05.08 10:05:09.24  Durée 00:00:04.16  Lisibilité 70
+A África francesa
+
+  70: 10:05:10.03 10:05:12.18  Durée 00:00:02.15  Lisibilité 39
+#Os territórios franceses
+na África Negra#
+
+  71: 10:05:12.22 10:05:15.06  Durée 00:00:02.09  Lisibilité 35
+#cobrem 7 milhões
+de quilômetros quadrados,#
+
+  72: 10:05:15.10 10:05:18.11  Durée 00:00:03.01  Lisibilité 46
+#mais de 10 vezes
+o território da metrópole.#
+
+  73: 10:05:18.15 10:05:20.16  Durée 00:00:02.01  Lisibilité 31
+#Um mosaico de territórios variados#
+
+  74: 10:05:20.20 10:05:24.04  Durée 00:00:03.09  Lisibilité 50
+#que se estende do Saara, ao norte,
+ao Rio Congo, ao sul,#
+
+  75: 10:05:24.08 10:05:26.19  Durée 00:00:02.11  Lisibilité 37
+#e da costa atlântica, a oeste,#
+
+  76: 10:05:26.23 10:05:29.07  Durée 00:00:02.09  Lisibilité 35
+#até os montes do Darfur,
+a leste.#
+
+  77: 10:05:29.23 10:05:31.10  Durée 00:00:01.12  Lisibilité 22
+#Um mosaico humano também.#
+
+  78: 10:05:31.14 10:05:33.03  Durée 00:00:01.14  Lisibilité 23
+#Tuaregues,
+Fulas, Uolofes,#
+
+  79: 10:05:33.08 10:05:34.17  Durée 00:00:01.09  Lisibilité 20
+#Malinqueses, Sossos.#
+
+  80: 10:05:34.22 10:05:37.03  Durée 00:00:02.06  Lisibilité 34
+#Dezenas de povos,
+com suas histórias,#
+
+  81: 10:05:37.08 10:05:39.07  Durée 00:00:01.24  Lisibilité 29
+#suas línguas, especificidades,#
+
+  82: 10:05:39.22 10:05:42.24  Durée 00:00:03.02  Lisibilité 46
+#indiferentemente agrupados
+sob o status de nativos.#
+
+  83: 10:05:45.15 10:05:48.24  Durée 00:00:03.09  Lisibilité 50
+#115 milhões de habitantes
+relegados assim aos fundos#
+
+  84: 10:05:49.04 10:05:52.14  Durée 00:00:03.10  Lisibilité 51
+#da humanidade desde
+que a potência colonial francesa#
+
+  85: 10:05:52.19 10:05:56.07  Durée 00:00:03.13  Lisibilité 53
+#estabeleceu-se em suas terras
+no fim do século XIX.#
+
+  86: 10:06:02.15 10:06:05.15  Durée 00:00:03.00  Lisibilité 45
+#Terras cujas riquezas colossais
+são inexoravelmente#
+
+  87: 10:06:05.19 10:06:07.09  Durée 00:00:01.15  Lisibilité 24
+#levadas para a metrópole.#
+
+  88: 10:06:08.02 10:06:10.10  Durée 00:00:02.08  Lisibilité 35
+#Ouro, diamante, platina,#
+#petróleo, urânio,#
+
+  89: 10:06:10.15 10:06:13.20  Durée 00:00:03.05  Lisibilité 48
+#mas também café, borracha, cacau.#
+
+  90: 10:06:22.17 10:06:24.14  Durée 00:00:01.22  Lisibilité 28
+#Como os argelinos,
+os marroquinos#
+
+  91: 10:06:24.18 10:06:26.05  Durée 00:00:01.12  Lisibilité 22
+#ou os anamitas da Indochina,#
+
+  92: 10:06:26.09 10:06:28.17  Durée 00:00:02.08  Lisibilité 35
+#os negros da África francesa
+lutaram#
+
+  93: 10:06:28.22 10:06:31.08  Durée 00:00:02.11  Lisibilité 37
+#na 1ª Guerra Mundial
+e pela França Livre#
+
+  94: 10:06:31.12 10:06:33.13  Durée 00:00:02.01  Lisibilité 31
+#durante o 2º conflito mundial.#
+
+  95: 10:06:43.07 10:06:46.11  Durée 00:00:03.04  Lisibilité 47
+A IVª República deu-lhes
+o direito de eleger deputados
+
+  96: 10:06:46.16 10:06:50.03  Durée 00:00:03.12  Lisibilité 52
+#na Assembleia Nacional francesa,
+deputados que só#
+
+  97: 10:06:50.07 10:06:52.08  Durée 00:00:02.01  Lisibilité 31
+#representam
+os nativos da colônias.#
+
+  98: 10:06:56.07 10:07:01.05  Durée 00:00:04.23  Lisibilité 74
+#8 deputados entre os 627 que tinha
+na época a Assembleia Nacional#
+
+  99: 10:07:01.10 10:07:03.13  Durée 00:00:02.03  Lisibilité 32
+#representando
+115 mi de africanos.#
+
+ 100: 10:07:05.20 10:07:08.18  Durée 00:00:02.23  Lisibilité 44
+#Mas entre esses deputados nativos,#
+
+ 101: 10:07:08.23 10:07:10.18  Durée 00:00:01.20  Lisibilité 27
+#alguns se destacam.#
+
+ 102: 10:07:10.22 10:07:12.19  Durée 00:00:01.22  Lisibilité 28
+#Homens, ainda jovens,#
+
+ 103: 10:07:12.23 10:07:16.02  Durée 00:00:03.04  Lisibilité 47
+#que se beneficiaram
+de uma educação ocidental.#
+
+ 104: 10:07:17.02 10:07:20.20  Durée 00:00:03.18  Lisibilité 56
+#Eles concentram as contradições
+e as ambivalências da situação.#
+
+ 105: 10:07:20.24 10:07:24.08  Durée 00:00:03.09  Lisibilité 50
+#Sonham com a independência,
+mas são fiéis à República#
+
+ 106: 10:07:24.13 10:07:27.22  Durée 00:00:03.09  Lisibilité 50
+#que os domina enquanto os instala
+no centro do poder.#
+
+ 107: 10:07:29.05 10:07:32.08  Durée 00:00:03.03  Lisibilité 47
+#Os mais notados se chamam
+Léopold Sédar Senghor#
+
+ 108: 10:07:32.12 10:07:34.10  Durée 00:00:01.23  Lisibilité 29
+#e Félix Houphouët-Boigny.#
+
+ 109: 10:07:41.13 10:07:45.15  Durée 00:00:04.02  Lisibilité 61
+#Félix Houphouët-Boigny nasceu em 1905
+na região de Yamoussoukro,#
+
+ 110: 10:07:45.19 10:07:47.17  Durée 00:00:01.23  Lisibilité 29
+#na Costa do Marfim.#
+
+ 111: 10:07:47.21 10:07:50.01  Durée 00:00:02.05  Lisibilité 33
+#Sua família
+é de chefes baulê,#
+
+ 112: 10:07:50.05 10:07:52.05  Durée 00:00:02.00  Lisibilité 30
+#a etnia
+mais importante do país.#
+
+ 113: 10:07:53.14 10:07:54.21  Durée 00:00:01.07  Lisibilité 19
+#Como filho de chefe,#
+
+ 114: 10:07:55.00 10:07:58.20  Durée 00:00:03.20  Lisibilité 57
+#as autoridades coloniais
+permitem-lhe o acesso à universidade.#
+
+ 115: 10:07:59.11 10:08:01.18  Durée 00:00:02.07  Lisibilité 34
+#Ele obtém
+o diploma de professor,#
+
+ 116: 10:08:01.22 10:08:03.06  Durée 00:00:01.09  Lisibilité 20
+#depois o de medicina.#
+
+ 117: 10:08:04.22 10:08:08.05  Durée 00:00:03.08  Lisibilité 50
+#Em 1944, Houphouët
+funda o 1º sindicato agrícola#
+
+ 118: 10:08:08.10 10:08:11.08  Durée 00:00:02.23  Lisibilité 44
+#da Costa do Marfim, que defende
+os lavradores nativos#
+
+ 119: 10:08:11.13 10:08:14.04  Durée 00:00:02.16  Lisibilité 40
+#contra as injustiças
+do sistema colonial.#
+
+ 120: 10:08:19.12 10:08:20.19  Durée 00:00:01.07  Lisibilité 19
+#Após a guerra,#
+
+ 121: 10:08:20.23 10:08:25.07  Durée 00:00:04.09  Lisibilité 65
+#ele é um dos 2 deputados marfinenses
+eleitos na Assembleia Nacional.#
+
+ 122: 10:08:33.02 10:08:34.21  Durée 00:00:01.19  Lisibilité 26
+#Já Léopold Sédar Senghor#
+
+ 123: 10:08:35.01 10:08:38.12  Durée 00:00:03.11  Lisibilité 52
+#nasceu em 1906
+na região de Dacar, no Senegal.#
+
+ 124: 10:08:43.13 10:08:46.09  Durée 00:00:02.21  Lisibilité 43
+#É um urbano,
+de família abastada,#
+
+ 125: 10:08:46.13 10:08:48.16  Durée 00:00:02.03  Lisibilité 32
+#apaixonado
+por literatura francesa.#
+
+ 126: 10:08:49.19 10:08:52.10  Durée 00:00:02.16  Lisibilité 40
+#Ele estuda na metrópole.
+É o 1º africano#
+
+ 127: 10:08:52.14 10:08:56.12  Durée 00:00:03.23  Lisibilité 59
+#a obter o título
+de professor de gramática, em 1935.#
+
+ 128: 10:08:56.23 10:08:59.21  Durée 00:00:02.23  Lisibilité 44
+#Entre seus colegas de turma,
+Georges Pompidou,#
+
+ 129: 10:09:00.00 10:09:02.14  Durée 00:00:02.14  Lisibilité 38
+#com quem constrói
+uma amizade sólida.#
+
+ 130: 10:09:09.09 10:09:13.06  Durée 00:00:03.22  Lisibilité 58
+#Em 1939, ele é mobilizado
+num regimento de infantaria colonial.#
+
+ 131: 10:09:14.17 10:09:16.04  Durée 00:00:01.12  Lisibilité 22
+#Capturado pelos alemães,#
+
+ 132: 10:09:16.08 10:09:19.07  Durée 00:00:02.24  Lisibilité 44
+#ele passa 2 anos
+nos# stalags# do ocupante.#
+
+ 133: 10:09:26.03 10:09:27.19  Durée 00:00:01.16  Lisibilité 25
+#Liberado em 1942,#
+
+ 134: 10:09:27.23 10:09:30.03  Durée 00:00:02.05  Lisibilité 33
+#ele se engaja na Resistência.#
+
+ 135: 10:09:31.09 10:09:35.11  Durée 00:00:04.02  Lisibilité 61
+#Na Liberação,
+é eleito deputado do Mali-Senegal.#
+
+ 136: 10:09:42.05 10:09:44.12  Durée 00:00:02.07  Lisibilité 34
+#Na Assembleia Nacional,
+Félix Houphouët-Boigny#
+
+ 137: 10:09:44.17 10:09:46.16  Durée 00:00:01.24  Lisibilité 29
+#é o mais ativo.#
+
+ 138: 10:09:47.04 10:09:50.13  Durée 00:00:03.09  Lisibilité 50
+#Ele propõe uma reforma
+do sistema de saúde das colônias.#
+
+ 139: 10:09:50.17 10:09:54.12  Durée 00:00:03.20  Lisibilité 57
+#Ele exige que o direito do trabalho
+seja aplicado igualmente#
+
+ 140: 10:09:54.17 10:09:58.10  Durée 00:00:03.18  Lisibilité 56
+#na metrópole e nos territórios
+franceses da África.#
+
+ 141: 10:09:58.15 10:10:02.15  Durée 00:00:04.00  Lisibilité 60
+#Ele dá seu nome à lei que,
+em 1946, abole o trabalho forçado,#
+
+ 142: 10:10:02.19 10:10:06.03  Durée 00:00:03.09  Lisibilité 50
+#que impunha a administração colonial
+aos nativos.#
+
+ 143: 10:10:09.07 10:10:11.20  Durée 00:00:02.13  Lisibilité 38
+#Funda
+a Assembleia Democrática Africana,#
+
+ 144: 10:10:11.24 10:10:15.17  Durée 00:00:03.18  Lisibilité 56
+#um partido cujo objetivo
+é unir os deputados africanos#
+
+ 145: 10:10:15.21 10:10:17.22  Durée 00:00:02.01  Lisibilité 31
+#e trabalhar pelas independências.#
+
+ 146: 10:10:20.02 10:10:23.06  Durée 00:00:03.04  Lisibilité 47
+#Porém, esse incansável ativista
+da causa africana#
+
+ 147: 10:10:23.10 10:10:27.05  Durée 00:00:03.20  Lisibilité 57
+#defende com unhas e dentes
+o princípio da União Francesa.#
+
+ 148: 10:10:28.17 10:10:31.24  Durée 00:00:03.07  Lisibilité 49
+União Francesa, é sob
+esse termo que a IVª República
+
+ 149: 10:10:32.03 10:10:35.09  Durée 00:00:03.06  Lisibilité 49
+#designa o que no pré-guerra
+teriam chamado de Império.#
+
+ 150: 10:10:35.18 10:10:36.18  Durée 00:00:01.00  Lisibilité 15
+#Ela reúne#
+
+ 151: 10:10:36.22 10:10:40.19  Durée 00:00:03.22  Lisibilité 58
+#os territórios coloniais
+na África, na Ásia e no Pacífico.#
+
+ 152: 10:10:45.24 10:10:48.08  Durée 00:00:02.09  Lisibilité 35
+#Territórios
+onde não há, em princípio,#
+
+ 153: 10:10:48.12 10:10:51.01  Durée 00:00:02.14  Lisibilité 38
+#nativos ou colonos,
+apenas cidadãos.#
+
+ 154: 10:10:56.02 10:10:59.00  Durée 00:00:02.23  Lisibilité 44
+#Mas, na realidade,
+a administração e a economia#
+
+ 155: 10:10:59.05 10:11:00.15  Durée 00:00:01.10  Lisibilité 21
+#são geridas de Paris.#
+
+ 156: 10:11:00.20 10:11:04.11  Durée 00:00:03.16  Lisibilité 55
+#E sobretudo, a União Francesa
+recusa a ideia de independência.#
+
+ 157: 10:11:16.04 10:11:19.06  Durée 00:00:03.02  Lisibilité 46
+#Estranhamente, Senghor,
+em aparência menos engajado#
+
+ 158: 10:11:19.11 10:11:22.11  Durée 00:00:03.00  Lisibilité 45
+#que o marfinense
+na luta pela independência,#
+
+ 159: 10:11:22.15 10:11:25.22  Durée 00:00:03.07  Lisibilité 49
+#não é tão favorável
+à União Francesa.#
+
+ 160: 10:11:26.01 10:11:28.07  Durée 00:00:02.06  Lisibilité 34
+#Ele sonha com um Estado federal#
+
+ 161: 10:11:28.12 10:11:31.10  Durée 00:00:02.23  Lisibilité 44
+#reunindo as ex-possessões
+africanas francesas#
+
+ 162: 10:11:31.14 10:11:32.21  Durée 00:00:01.07  Lisibilité 19
+#e capaz de manter#
+
+ 163: 10:11:33.01 10:11:35.24  Durée 00:00:02.23  Lisibilité 44
+#com a França uma relação de paz
+de igual para igual.#
+
+ 164: 10:11:37.14 10:11:39.23  Durée 00:00:02.09  Lisibilité 35
+A União Francesa
+seria uma bela ideia
+
+ 165: 10:11:40.02 10:11:42.00  Durée 00:00:01.23  Lisibilité 29
+se fosse livremente consentida.
+
+ 166: 10:11:42.05 10:11:44.22  Durée 00:00:02.17  Lisibilité 40
+Mas só é, dessa forma,
+um estatuto outorgado.
+
+ 167: 10:11:45.12 10:11:46.21  Durée 00:00:01.09  Lisibilité 20
+Sabe o ditado:
+
+ 168: 10:11:47.00 10:11:51.19  Durée 00:00:04.19  Lisibilité 71
+"É preferível ser o primeiro
+numa aldeia a ser o segundo em Roma."
+
+ 169: 10:11:52.09 10:11:56.06  Durée 00:00:03.22  Lisibilité 58
+Eu digo:
+É preferível ser um milionésimo
+
+ 170: 10:11:56.10 10:12:00.14  Durée 00:00:04.04  Lisibilité 62
+num conjunto poderoso e respeitado
+
+ 171: 10:12:01.21 10:12:03.21  Durée 00:00:02.00  Lisibilité 30
+a ser o 1º
+num Estado miserável.
+
+ 172: 10:12:04.01 10:12:05.10  Durée 00:00:01.09  Lisibilité 20
+Mas, justamente,
+
+ 173: 10:12:05.14 10:12:09.13  Durée 00:00:03.24  Lisibilité 59
+uma confederação de Estados soberanos
+de direitos realmente iguais
+
+ 174: 10:12:09.17 10:12:12.19  Durée 00:00:03.02  Lisibilité 46
+associados à França,
+seria assim poderoso
+
+ 175: 10:12:12.23 10:12:13.21  Durée 00:00:00.23  Lisibilité 14
+e respeitado.
+
+ 176: 10:12:14.06 10:12:16.06  Durée 00:00:02.00  Lisibilité 30
+Meu irmão senegalês,
+
+ 177: 10:12:18.06 10:12:21.08  Durée 00:00:03.02  Lisibilité 46
+precisou de 30 anos
+para conhecer bem
+
+ 178: 10:12:21.13 10:12:23.05  Durée 00:00:01.17  Lisibilité 25
+a África.
+
+ 179: 10:12:23.10 10:12:27.14  Durée 00:00:04.04  Lisibilité 62
+Eu sou um chefe baulê.
+Levei esses 30 anos
+
+ 180: 10:12:27.18 10:12:29.09  Durée 00:00:01.16  Lisibilité 25
+conhecendo a metrópole.
+
+ 181: 10:12:30.01 10:12:31.11  Durée 00:00:01.10  Lisibilité 21
+E posso dizer,
+
+ 182: 10:12:31.15 10:12:35.13  Durée 00:00:03.23  Lisibilité 59
+só a metrópole pode nos dar
+
+ 183: 10:12:35.17 10:12:37.20  Durée 00:00:02.03  Lisibilité 32
+uma estrutura econômica sadia.
+
+ 184: 10:12:38.00 10:12:41.10  Durée 00:00:03.10  Lisibilité 51
+Só a metrópole pode nos ajudar
+a atravessar a selva.
+
+ 185: 10:12:43.03 10:12:44.05  Durée 00:00:01.02  Lisibilité 16
+Não.
+
+ 186: 10:12:50.15 10:12:54.01  Durée 00:00:03.11  Lisibilité 52
+#Em 1946,
+a guerra estoura na Indochina.#
+
+ 187: 10:12:58.07 10:13:00.01  Durée 00:00:01.19  Lisibilité 26
+#Ela acaba em 1954,#
+
+ 188: 10:13:00.06 10:13:02.05  Durée 00:00:01.24  Lisibilité 29
+#na planície de Diên Biên Phu.#
+
+ 189: 10:13:05.03 10:13:08.00  Durée 00:00:02.22  Lisibilité 43
+#A União Francesa
+perde os territórios asiáticos.#
+
+ 190: 10:13:11.01 10:13:12.23  Durée 00:00:01.22  Lisibilité 28
+#6 meses depois,
+a Argélia arde.#
+
+ 191: 10:13:13.17 10:13:15.02  Durée 00:00:01.10  Lisibilité 21
+#A antiga ordem colonial#
+
+ 192: 10:13:15.07 10:13:16.23  Durée 00:00:01.16  Lisibilité 25
+#acabou.#
+
+ 193: 10:13:22.04 10:13:26.07  Durée 00:00:04.03  Lisibilité 62
+#Cedo ou tarde, os africanos
+também vão querer a independência,#
+
+ 194: 10:13:26.11 10:13:28.17  Durée 00:00:02.06  Lisibilité 34
+#e a União Francesa
+cessará de existir.#
+
+ 195: 10:13:32.05 10:13:34.07  Durée 00:00:02.02  Lisibilité 31
+#Mas a França,
+em plena reconstrução,#
+
+ 196: 10:13:34.11 10:13:37.07  Durée 00:00:02.21  Lisibilité 43
+#não poderá se permitir
+renunciar às riquezas#
+
+ 197: 10:13:37.12 10:13:39.06  Durée 00:00:01.19  Lisibilité 26
+#de suas colônias africanas.#
+
+ 198: 10:13:41.24 10:13:44.17  Durée 00:00:02.18  Lisibilité 41
+#Terá então de aceitar
+as independências,#
+
+ 199: 10:13:44.22 10:13:47.08  Durée 00:00:02.11  Lisibilité 37
+#mas acompanhá-las
+organizá-las, até,#
+
+ 200: 10:13:47.12 10:13:49.12  Durée 00:00:02.00  Lisibilité 30
+#para preservar
+o que de Gaulle#
+
+ 201: 10:13:49.16 10:13:52.06  Durée 00:00:02.15  Lisibilité 39
+#considera interesses superiores
+da França.#
+
+ 202: 10:13:55.15 10:13:59.20  Durée 00:00:04.05  Lisibilité 63
+#Para isso, será preciso recorrer
+a uma diplomacia das sombras,#
+
+ 203: 10:14:00.00 10:14:03.19  Durée 00:00:03.19  Lisibilité 56
+#mais brutal e liberada dos direitos
+que a diplomacia oficial.#
+
+ 204: 10:14:11.23 10:14:13.12  Durée 00:00:01.14  Lisibilité 23
+#Para pô-la em prática,#
+
+ 205: 10:14:13.16 10:14:15.23  Durée 00:00:02.07  Lisibilité 34
+#ele se apoia
+num homem disposto a tudo#
+
+ 206: 10:14:16.02 10:14:18.04  Durée 00:00:02.02  Lisibilité 31
+#e de uma fidelidade
+a toda prova.#
+
+ 207: 10:14:19.03 10:14:21.12  Durée 00:00:02.09  Lisibilité 35
+#Esse homem é Jacques Foccart.#
+
+ 208: 10:14:34.01 10:14:39.01  Durée 00:00:05.00  Lisibilité 75
+A eminênica parda do Eliseu
+
+ 209: 10:14:40.11 10:14:44.20  Durée 00:00:04.09  Lisibilité 65
+#Jacques Foccart, um homem complexo,
+secreto, misterioso.#
+
+ 210: 10:14:46.08 10:14:48.19  Durée 00:00:02.11  Lisibilité 37
+#Ele é normando
+mas cresceu em Guadalupe.#
+
+ 211: 10:14:48.23 10:14:52.13  Durée 00:00:03.15  Lisibilité 54
+#Só foi morar na metrópole
+após o serviço militar.#
+
+ 212: 10:14:54.18 10:14:55.13  Durée 00:00:00.20  Lisibilité 12
+#Em 1940,#
+
+ 213: 10:14:56.03 10:14:59.08  Durée 00:00:03.05  Lisibilité 48
+#ele é mobilizado
+e participa da "guerra estranha".#
+
+ 214: 10:14:59.13 10:15:02.15  Durée 00:00:03.02  Lisibilité 46
+#Após a derrota,
+ele vai para a Mayenne,#
+
+ 215: 10:15:02.20 10:15:05.00  Durée 00:00:02.05  Lisibilité 33
+#e abre um negócio
+de venda de madeira.#
+
+ 216: 10:15:05.04 10:15:08.00  Durée 00:00:02.21  Lisibilité 43
+#Ele não hesita
+em trabalhar com os alemães.#
+
+ 217: 10:15:09.23 10:15:11.20  Durée 00:00:01.22  Lisibilité 28
+#Mas se engaja
+na Resistência.#
+
+ 218: 10:15:11.24 10:15:16.02  Durée 00:00:04.03  Lisibilité 62
+#Ele funda a rede Action Tortue,
+encarregado por Londres#
+
+ 219: 10:15:16.06 10:15:19.24  Durée 00:00:03.18  Lisibilité 56
+#de juntar informações
+sobre as defesas alemãs na Normandia,#
+
+ 220: 10:15:20.03 10:15:22.02  Durée 00:00:01.24  Lisibilité 29
+#depois,
+no desembarque aliado,#
+
+ 221: 10:15:22.07 10:15:25.06  Durée 00:00:02.24  Lisibilité 44
+#de frear os movimentos de tropas
+da Wehrmacht.#
+
+ 222: 10:15:26.21 10:15:30.10  Durée 00:00:03.14  Lisibilité 53
+#Foccart revela então
+seu temperamento de chefe de guerra,#
+
+ 223: 10:15:30.15 10:15:32.14  Durée 00:00:01.24  Lisibilité 29
+#assediando as tropas alemãs#
+
+ 224: 10:15:32.18 10:15:35.03  Durée 00:00:02.10  Lisibilité 36
+#que tentam chegar
+à zona das praias.#
+
+ 225: 10:15:37.01 10:15:39.04  Durée 00:00:02.03  Lisibilité 32
+#Experiência
+que transforma sua vida.#
+
+ 226: 10:15:39.08 10:15:41.14  Durée 00:00:02.06  Lisibilité 34
+#Na Resistência,
+o vendedor de madeira#
+
+ 227: 10:15:41.18 10:15:45.02  Durée 00:00:03.09  Lisibilité 50
+#toma gosto por ações clandestinas,
+cheiro de pólvora#
+
+ 228: 10:15:45.06 10:15:46.19  Durée 00:00:01.13  Lisibilité 23
+#e de enxofre.#
+
+ 229: 10:15:50.19 10:15:52.14  Durée 00:00:01.20  Lisibilité 27
+#Após a Liberação,#
+
+ 230: 10:15:52.18 10:15:55.19  Durée 00:00:03.01  Lisibilité 46
+#ele entra para o serviço
+de inteligência francês.#
+
+ 231: 10:15:58.09 10:16:00.14  Durée 00:00:02.05  Lisibilité 33
+#Foccart, espião da República,#
+
+ 232: 10:16:00.18 10:16:04.21  Durée 00:00:04.03  Lisibilité 62
+#continua, porém, administrando
+sua empresa de exploração florestal,#
+
+ 233: 10:16:05.00 10:16:06.20  Durée 00:00:01.20  Lisibilité 27
+#um disfarce perfeito.#
+
+ 234: 10:16:10.20 10:16:13.01  Durée 00:00:02.06  Lisibilité 34
+#Gaullista convicto,
+integra aos poucos#
+
+ 235: 10:16:13.05 10:16:16.02  Durée 00:00:02.22  Lisibilité 43
+#o círculo restrito
+dos íntimos de de Gaulle.#
+
+ 236: 10:16:18.08 10:16:19.19  Durée 00:00:01.11  Lisibilité 22
+#Em 1954,#
+
+ 237: 10:16:19.24 10:16:23.09  Durée 00:00:03.10  Lisibilité 51
+#ele vira secretário-geral
+do partido gaullista, o RPF.#
+
+ 238: 10:16:25.23 10:16:28.17  Durée 00:00:02.19  Lisibilité 41
+#Nas sombras, já,
+ele é um dos mais ativos#
+
+ 239: 10:16:28.21 10:16:31.15  Durée 00:00:02.19  Lisibilité 41
+#entre os que preparam
+a volta do General#
+
+ 240: 10:16:31.19 10:16:33.10  Durée 00:00:01.16  Lisibilité 25
+#ao poder em 1958.#
+
+ 241: 10:16:39.13 10:16:41.02  Durée 00:00:01.14  Lisibilité 23
+#Com de Gaulle no Eliseu,#
+
+ 242: 10:16:41.07 10:16:43.14  Durée 00:00:02.07  Lisibilité 34
+#Foccart vira
+o conselheiro mais próximo,#
+
+ 243: 10:16:43.18 10:16:46.00  Durée 00:00:02.07  Lisibilité 34
+#especializado
+em assuntos africanos.#
+
+ 244: 10:16:52.12 10:16:54.18  Durée 00:00:02.06  Lisibilité 34
+#Ele é um dos raros
+em que o General#
+
+ 245: 10:16:54.22 10:16:57.23  Durée 00:00:03.01  Lisibilité 46
+#confia cegamente,
+um dos poucos também#
+
+ 246: 10:16:58.02 10:17:00.21  Durée 00:00:02.19  Lisibilité 41
+#a ver o presidente
+praticamente todo dia.#
+
+ 247: 10:17:03.00 10:17:07.05  Durée 00:00:04.05  Lisibilité 63
+#A missão confiada a Foccart
+á ao mesmo tempo simples e colossal,#
+
+ 248: 10:17:07.10 10:17:11.21  Durée 00:00:04.11  Lisibilité 67
+#arrimar a todo custo
+a África francófona à metrópole.#
+
+ 249: 10:17:12.07 10:17:14.17  Durée 00:00:02.10  Lisibilité 36
+Nós temos um império,
+não temos mais.
+
+ 250: 10:17:14.21 10:17:17.24  Durée 00:00:03.03  Lisibilité 47
+#De Gaulle é lúcido,
+o tempo das colônias#
+
+ 251: 10:17:18.04 10:17:20.13  Durée 00:00:02.09  Lisibilité 35
+#passou.#
+
+ 252: 10:17:20.17 10:17:21.20  Durée 00:00:01.03  Lisibilité 17
+É assim.
+
+ 253: 10:17:22.00 10:17:22.20  Durée 00:00:00.20  Lisibilité 12
+#Mas a França,#
+
+ 254: 10:17:22.24 10:17:25.17  Durée 00:00:02.18  Lisibilité 41
+#se quiser que sua voz
+seja de uma potência,#
+
+ 255: 10:17:25.22 10:17:27.23  Durée 00:00:02.01  Lisibilité 31
+#deve apoiar-se
+numa zona de influência#
+
+ 256: 10:17:28.03 10:17:29.13  Durée 00:00:01.10  Lisibilité 21
+#maior que ela.#
+
+ 257: 10:17:29.17 10:17:31.02  Durée 00:00:01.10  Lisibilité 21
+Para falar alto.
+
+ 258: 10:17:31.07 10:17:34.02  Durée 00:00:02.20  Lisibilité 42
+Essa zona de influência
+é a África.
+
+ 259: 10:17:35.00 10:17:37.12  Durée 00:00:02.12  Lisibilité 37
+A descolonização em curso
+deve ser um êxito
+
+ 260: 10:17:37.17 10:17:41.04  Durée 00:00:03.12  Lisibilité 52
+na amizade e no acompanhamento
+dessas populações.
+
+ 261: 10:17:41.09 10:17:43.10  Durée 00:00:02.01  Lisibilité 31
+É disso que o encarrego.
+
+ 262: 10:17:46.17 10:17:49.00  Durée 00:00:02.08  Lisibilité 35
+#Restaurar a grandeza perdida
+da França#
+
+ 263: 10:17:49.04 10:17:52.02  Durée 00:00:02.23  Lisibilité 44
+#é a pedra fundamental
+da visão gaullista do mundo.#
+
+ 264: 10:17:52.06 10:17:54.04  Durée 00:00:01.23  Lisibilité 29
+#É a obsessão
+do general presidente#
+
+ 265: 10:17:54.08 10:17:56.08  Durée 00:00:02.00  Lisibilité 30
+#desde que, 18 anos antes,#
+
+ 266: 10:17:56.13 10:17:59.08  Durée 00:00:02.20  Lisibilité 42
+#ele foi para Londres
+e criou a França Livre.#
+
+ 267: 10:18:07.02 10:18:10.06  Durée 00:00:03.04  Lisibilité 47
+#Mas o mundo que se reconstruiu
+após a 2ª Guerra#
+
+ 268: 10:18:10.21 10:18:13.18  Durée 00:00:02.22  Lisibilité 43
+#não tem mais nada a ver
+com o do pré-guerra.#
+
+ 269: 10:18:14.24 10:18:19.01  Durée 00:00:04.02  Lisibilité 61
+#O Reino Unido, como a França,
+perde uma a uma suas colônias.#
+
+ 270: 10:18:19.06 10:18:20.16  Durée 00:00:01.10  Lisibilité 21
+Fim do setor francês
+
+ 271: 10:18:21.14 10:18:24.06  Durée 00:00:02.17  Lisibilité 40
+#As velhas nações europeias
+estão encurraladas#
+
+ 272: 10:18:24.11 10:18:27.09  Durée 00:00:02.23  Lisibilité 44
+#entre os 2 gigantes
+do pós-guerra, que se opõem#
+
+ 273: 10:18:27.13 10:18:29.17  Durée 00:00:02.04  Lisibilité 32
+#e se impõem em todo o planeta,#
+
+ 274: 10:18:30.12 10:18:33.07  Durée 00:00:02.20  Lisibilité 42
+#os Estados Unidos
+e a União Soviética.#
+
+ 275: 10:18:37.19 10:18:41.08  Durée 00:00:03.14  Lisibilité 53
+#Desde o fim da guerra,
+vozes se elevam em toda parte#
+
+ 276: 10:18:41.13 10:18:45.09  Durée 00:00:03.21  Lisibilité 58
+#na Europa Ocidental convocando
+os países europeus a se unir.#
+
+ 277: 10:18:45.16 10:18:47.11  Durée 00:00:01.20  Lisibilité 27
+Atenção.
+
+ 278: 10:18:48.24 10:18:52.03  Durée 00:00:03.04  Lisibilité 47
+Eu vou falar francês.
+
+ 279: 10:18:52.08 10:18:55.07  Durée 00:00:02.24  Lisibilité 44
+#Entre os primeiros,
+Churchill evoca a necessidade#
+
+ 280: 10:18:55.12 10:18:57.10  Durée 00:00:01.23  Lisibilité 29
+#de criar
+os Estados Unidos da Europa#
+
+ 281: 10:18:57.14 10:19:00.01  Durée 00:00:02.12  Lisibilité 37
+#para resistir
+ao imperialismo soviético.#
+
+ 282: 10:19:00.05 10:19:03.04  Durée 00:00:02.24  Lisibilité 44
+Não é contra uma nação qualquer
+
+ 283: 10:19:03.08 10:19:05.13  Durée 00:00:02.05  Lisibilité 33
+que nós nos reunimos.
+
+ 284: 10:19:05.18 10:19:08.02  Durée 00:00:02.09  Lisibilité 35
+É contra a tirania
+
+ 285: 10:19:08.06 10:19:10.01  Durée 00:00:01.20  Lisibilité 27
+sob todas as formas
+
+ 286: 10:19:10.05 10:19:12.09  Durée 00:00:02.04  Lisibilité 32
+antigas ou modernas
+
+ 287: 10:19:12.13 10:19:15.09  Durée 00:00:02.21  Lisibilité 43
+que nós nos erguemos resolutamente.
+
+ 288: 10:19:16.21 10:19:18.11  Durée 00:00:01.15  Lisibilité 24
+#E 1949,#
+
+ 289: 10:19:18.15 10:19:20.16  Durée 00:00:02.01  Lisibilité 31
+#o Conselho da Europa é criado.#
+
+ 290: 10:19:22.09 10:19:23.19  Durée 00:00:01.10  Lisibilité 21
+#Em 1951,#
+
+ 291: 10:19:24.16 10:19:28.14  Durée 00:00:03.23  Lisibilité 59
+#é a CECA, a Comunidade Europeia
+do Carvão e do Aço.#
+
+ 292: 10:19:30.15 10:19:33.08  Durée 00:00:02.18  Lisibilité 41
+#E em 1957, o Tratado de Roma#
+
+ 293: 10:19:33.13 10:19:35.01  Durée 00:00:01.13  Lisibilité 23
+#dá origem à CEE,#
+
+ 294: 10:19:35.05 10:19:37.01  Durée 00:00:01.21  Lisibilité 28
+#a Comunidade Econômica Europeia,#
+
+ 295: 10:19:37.06 10:19:41.08  Durée 00:00:04.02  Lisibilité 61
+#que reúne a Alemanha, a França,
+a Itália, a Bélgica, a Holanda#
+
+ 296: 10:19:41.12 10:19:42.24  Durée 00:00:01.12  Lisibilité 22
+#e Luxemburgo.#
+
+ 297: 10:19:44.18 10:19:46.23  Durée 00:00:02.05  Lisibilité 33
+#Os deputados africanos
+na Assembleia Nacional#
+
+ 298: 10:19:47.02 10:19:49.17  Durée 00:00:02.15  Lisibilité 39
+#desconfiaram
+dessa construção europeia#
+
+ 299: 10:19:49.21 10:19:53.21  Durée 00:00:04.00  Lisibilité 60
+#que parecia querer manter à parte
+os territórios de ultramar.#
+
+ 300: 10:19:54.00 10:19:56.07  Durée 00:00:02.07  Lisibilité 34
+#Mas o Tratado de Roma
+os integra.#
+
+ 301: 10:19:57.07 10:20:00.05  Durée 00:00:02.23  Lisibilité 44
+#Os territórios ou Estados
+com relações particulares#
+
+ 302: 10:20:00.09 10:20:02.01  Durée 00:00:01.17  Lisibilité 25
+#com os membros da CEE,#
+
+ 303: 10:20:02.05 10:20:04.13  Durée 00:00:02.08  Lisibilité 35
+#eufemismo para designar
+as colônias,#
+
+ 304: 10:20:04.17 10:20:07.12  Durée 00:00:02.20  Lisibilité 42
+#serão tratados
+como signatários do tratado.#
+
+ 305: 10:20:07.16 10:20:10.23  Durée 00:00:03.07  Lisibilité 49
+#Assim, alguns,
+como Léopold Sédar Senghor,#
+
+ 306: 10:20:11.02 10:20:12.22  Durée 00:00:01.20  Lisibilité 27
+#veem uma chance
+para a África.#
+
+ 307: 10:20:13.01 10:20:15.04  Durée 00:00:02.03  Lisibilité 32
+A Europa está se unindo.
+
+ 308: 10:20:15.10 10:20:18.08  Durée 00:00:02.23  Lisibilité 44
+O Tratado de Roma é só um começo,
+mas ele inscreve
+
+ 309: 10:20:18.13 10:20:22.13  Durée 00:00:04.00  Lisibilité 60
+duravelmente a palavra "paz" no
+frontispício deste velho continente.
+
+ 310: 10:20:22.18 10:20:27.01  Durée 00:00:04.08  Lisibilité 65
+A paz, meu amigo, não é uma palavra,
+é um comportamento.
+
+ 311: 10:20:27.06 10:20:28.15  Durée 00:00:01.09  Lisibilité 20
+Meu caro Félix,
+
+ 312: 10:20:28.19 10:20:31.18  Durée 00:00:02.24  Lisibilité 44
+você se refugia facilmente
+atrás de suas frases.
+
+ 313: 10:20:31.22 10:20:34.18  Durée 00:00:02.21  Lisibilité 43
+Não vê a oportunidade
+que se abre para nós?
+
+ 314: 10:20:34.22 10:20:35.19  Durée 00:00:00.22  Lisibilité 13
+Imagine.
+
+ 315: 10:20:36.11 10:20:39.14  Durée 00:00:03.03  Lisibilité 47
+Estados africanos autônomos
+associados, via a França,
+
+ 316: 10:20:39.19 10:20:41.08  Durée 00:00:01.14  Lisibilité 23
+a Comunidade Europeia.
+
+ 317: 10:20:41.12 10:20:42.21  Durée 00:00:01.09  Lisibilité 20
+Nós podemos
+
+ 318: 10:20:43.00 10:20:47.14  Durée 00:00:04.14  Lisibilité 68
+construir o maior espaço
+de paz e de cooperação do mundo.
+
+ 319: 10:20:47.19 10:20:49.10  Durée 00:00:01.16  Lisibilité 25
+A Euráfrica.
+
+ 320: 10:20:50.11 10:20:53.09  Durée 00:00:02.23  Lisibilité 44
+Na sua Euráfrica,
+eu não acredito, não.
+
+ 321: 10:20:53.13 10:20:55.00  Durée 00:00:01.12  Lisibilité 22
+Está enganado.
+
+ 322: 10:20:55.04 10:20:58.14  Durée 00:00:03.10  Lisibilité 51
+O que precisamos construir
+é outra coisa,
+
+ 323: 10:20:58.19 10:21:00.05  Durée 00:00:01.11  Lisibilité 22
+é a Françáfrica.
+
+ 324: 10:21:01.23 10:21:04.16  Durée 00:00:02.18  Lisibilité 41
+#"Françáfrica",
+a palavra está lançada.#
+
+ 325: 10:21:04.20 10:21:08.00  Durée 00:00:03.05  Lisibilité 48
+#E Félix Houphouët-Boigny,
+autor desse neologismo,#
+
+ 326: 10:21:08.04 10:21:11.07  Durée 00:00:03.03  Lisibilité 47
+#será também
+um de seus mais eficazes artesãos.#
+
+ 327: 10:21:15.10 10:21:19.00  Durée 00:00:03.15  Lisibilité 54
+REFERENDO
+
+ 328: 10:21:21.04 10:21:22.13  Durée 00:00:01.09  Lisibilité 20
+#Em 1958,#
+
+ 329: 10:21:22.17 10:21:24.22  Durée 00:00:02.05  Lisibilité 33
+#Houphouët-Boigny#
+#participa da elaboração#
+
+ 330: 10:21:25.02 10:21:27.23  Durée 00:00:02.21  Lisibilité 43
+#da nova constituição
+a da Vª República.#
+
+ 331: 10:21:29.11 10:21:32.07  Durée 00:00:02.21  Lisibilité 43
+#Uma constituição que prevê que,
+em cada colônia,#
+
+ 332: 10:21:32.11 10:21:35.23  Durée 00:00:03.12  Lisibilité 52
+#as populações autóctones decidem
+seu futuro por referendo,#
+
+ 333: 10:21:36.02 10:21:38.22  Durée 00:00:02.20  Lisibilité 42
+#escolhendo entre 3 propostas.#
+
+ 334: 10:21:43.10 10:21:47.16  Durée 00:00:04.06  Lisibilité 64
+#Eles podem escolher conservar
+o status de território de ultramar.#
+
+ 335: 10:21:47.20 10:21:49.04  Durée 00:00:01.09  Lisibilité 20
+#Nesse caso, nada muda,#
+
+ 336: 10:21:49.08 10:21:52.08  Durée 00:00:03.00  Lisibilité 45
+#esses territórios
+continuam como colônias.#
+
+ 337: 10:21:55.13 10:21:59.00  Durée 00:00:03.12  Lisibilité 52
+#Eles podem escolher se tornar
+departamentos de ultramar.#
+
+ 338: 10:22:00.01 10:22:03.08  Durée 00:00:03.07  Lisibilité 49
+#Os territórios que escolherem isso
+viram simplesmente#
+
+ 339: 10:22:03.12 10:22:05.23  Durée 00:00:02.11  Lisibilité 37
+#porções longínquas da República.#
+
+ 340: 10:22:09.04 10:22:12.04  Durée 00:00:03.00  Lisibilité 45
+#Eles podem enfim
+escolher a autonomia,#
+
+ 341: 10:22:12.09 10:22:15.00  Durée 00:00:02.16  Lisibilité 40
+#aderindo a uma Comunidade Francesa.#
+
+ 342: 10:22:20.11 10:22:22.23  Durée 00:00:02.12  Lisibilité 37
+#A Comunidade Francesa,#
+
+ 343: 10:22:23.03 10:22:26.18  Durée 00:00:03.15  Lisibilité 54
+#última tentativa da França
+para impedir o acesso das colônias#
+
+ 344: 10:22:26.23 10:22:28.01  Durée 00:00:01.03  Lisibilité 17
+#à independência.#
+
+ 345: 10:22:32.16 10:22:35.19  Durée 00:00:03.03  Lisibilité 47
+#Concretamente, os territórios
+que aderirem à Comunidade#
+
+ 346: 10:22:35.24 10:22:39.10  Durée 00:00:03.11  Lisibilité 52
+#virarão Estados autônomos
+com administração própria,#
+
+ 347: 10:22:39.15 10:22:42.12  Durée 00:00:02.22  Lisibilité 43
+#instituições próprias,
+políticas, polícia,#
+
+ 348: 10:22:42.17 10:22:43.21  Durée 00:00:01.04  Lisibilité 17
+#e Justiça.#
+
+ 349: 10:22:44.01 10:22:46.12  Durée 00:00:02.11  Lisibilité 37
+#Poderão, diz o texto,
+gerir democrática#
+
+ 350: 10:22:46.17 10:22:48.11  Durée 00:00:01.19  Lisibilité 26
+#e livremente seus assuntos.#
+
+ 351: 10:22:53.22 10:22:57.06  Durée 00:00:03.09  Lisibilité 50
+#Mas deverão, politicamente,
+submeter-se à França,#
+
+ 352: 10:22:57.10 10:22:59.02  Durée 00:00:01.17  Lisibilité 25
+#como os filhos aos pais.#
+
+ 353: 10:23:08.00 10:23:12.00  Durée 00:00:04.00  Lisibilité 60
+#Félix Houphouët-Boigny faz-se,
+em toda a África francesa,#
+
+ 354: 10:23:12.05 10:23:14.06  Durée 00:00:02.01  Lisibilité 31
+#ardente defensor
+dessa Comunidade.#
+
+ 355: 10:23:15.01 10:23:16.02  Durée 00:00:01.01  Lisibilité 16
+#Infatigável,#
+
+ 356: 10:23:16.07 10:23:19.04  Durée 00:00:02.22  Lisibilité 43
+#ele percorre a África
+equatorial e ocidental,#
+
+ 357: 10:23:19.15 10:23:22.15  Durée 00:00:03.00  Lisibilité 45
+#defendendo sem parar
+sua causa para todos.#
+
+ 358: 10:23:30.00 10:23:31.06  Durée 00:00:01.06  Lisibilité 19
+#E dá certo.#
+
+ 359: 10:23:31.18 10:23:33.23  Durée 00:00:02.05  Lisibilité 33
+#Enquanto a maioria
+das colônias francesas,#
+
+ 360: 10:23:34.03 10:23:36.00  Durée 00:00:01.22  Lisibilité 28
+#como a Nova Caledônia,#
+
+ 361: 10:23:36.05 10:23:38.09  Durée 00:00:02.04  Lisibilité 32
+#a Polinésia e as Comores
+permanecem#
+
+ 362: 10:23:38.13 10:23:40.22  Durée 00:00:02.09  Lisibilité 35
+#simples territórios de ultramar,#
+
+ 363: 10:23:41.01 10:23:43.16  Durée 00:00:02.15  Lisibilité 39
+#os africanos se pronunciam
+por maioria#
+
+ 364: 10:23:44.01 10:23:46.01  Durée 00:00:02.00  Lisibilité 30
+#pela Comunidade Francesa.#
+
+ 365: 10:23:52.02 10:23:54.00  Durée 00:00:01.23  Lisibilité 29
+#E todos os territórios franceses#
+
+ 366: 10:23:54.05 10:23:58.08  Durée 00:00:04.03  Lisibilité 62
+#da África ocidental e equatorial
+tornam-se Estados membros.#
+
+ 367: 10:24:05.12 10:24:09.04  Durée 00:00:03.17  Lisibilité 55
+#Exceto um, a Guiné Francesa,#
+
+ 368: 10:24:09.08 10:24:11.11  Durée 00:00:02.03  Lisibilité 32
+#cujo representante,
+#Ahmed Sékou Touré,#
+
+ 369: 10:24:11.15 10:24:15.12  Durée 00:00:03.22  Lisibilité 58
+#recusa todo o projeto francês
+e exige independência imediata#
+
+ 370: 10:24:15.16 10:24:17.02  Durée 00:00:01.11  Lisibilité 22
+#e incondicional.#
+
+ 371: 10:24:23.22 10:24:26.03  Durée 00:00:02.06  Lisibilité 34
+#Sékou Touré é,
+como Houphouët e Senghor,#
+
+ 372: 10:24:26.07 10:24:28.18  Durée 00:00:02.11  Lisibilité 37
+#deputado
+na Assembleia Nacional francesa.#
+
+ 373: 10:24:30.01 10:24:34.06  Durée 00:00:04.05  Lisibilité 63
+#Mas ele é mais jovem.
+Ele só foi eleito em 1956.#
+
+ 374: 10:24:36.17 10:24:38.18  Durée 00:00:02.01  Lisibilité 31
+#Ele não teve a mesma educação#
+
+ 375: 10:24:38.23 10:24:41.16  Durée 00:00:02.18  Lisibilité 41
+#que seus homólogos
+marfinense e senegalês.#
+
+ 376: 10:24:41.21 10:24:44.04  Durée 00:00:02.08  Lisibilité 35
+#Ele teve carreira modesta
+de carteiro#
+
+ 377: 10:24:44.09 10:24:48.01  Durée 00:00:03.17  Lisibilité 55
+#antes de entrar na política
+através do sindicalismo.#
+
+ 378: 10:24:48.05 10:24:49.11  Durée 00:00:01.06  Lisibilité 19
+#No Palácio Bourbon,#
+
+ 379: 10:24:49.16 10:24:52.15  Durée 00:00:02.24  Lisibilité 44
+#o deputado da Guiné
+tornou-se logo um dos tenores#
+
+ 380: 10:24:52.20 10:24:55.05  Durée 00:00:02.10  Lisibilité 36
+#da Assembleia Democrática Africana,#
+
+ 381: 10:24:55.10 10:24:59.15  Durée 00:00:04.05  Lisibilité 63
+#partido criado por Houphouët-Boigny,
+de quem ele foi muito próximo.#
+
+ 382: 10:25:03.09 10:25:06.17  Durée 00:00:03.08  Lisibilité 50
+#Sékou Touré era adolescente
+durante a 2ª Guerra Mundial.#
+
+ 383: 10:25:06.21 10:25:09.13  Durée 00:00:02.17  Lisibilité 40
+#Ele não teve,
+como os mais velhos, fascinação#
+
+ 384: 10:25:09.18 10:25:11.17  Durée 00:00:01.24  Lisibilité 29
+#pela figura
+do general de Gaulle.#
+
+ 385: 10:25:15.13 10:25:16.22  Durée 00:00:01.09  Lisibilité 20
+#Em 1958,#
+
+ 386: 10:25:17.02 10:25:20.12  Durée 00:00:03.10  Lisibilité 51
+#o General faz
+uma grande turnê africana#
+
+ 387: 10:25:20.17 10:25:23.14  Durée 00:00:02.22  Lisibilité 43
+#para promover
+o projeto de Comunidade Francesa.#
+
+ 388: 10:25:23.19 10:25:26.07  Durée 00:00:02.13  Lisibilité 38
+#Ele é aclamado aonde vai,
+e as atualidades#
+
+ 389: 10:25:26.11 10:25:29.09  Durée 00:00:02.23  Lisibilité 44
+#exibem sem parar imagens
+da recepção entusiasta#
+
+ 390: 10:25:29.13 10:25:31.23  Durée 00:00:02.10  Lisibilité 36
+#das multidões africanas.#
+
+ 391: 10:25:32.13 10:25:34.16  Durée 00:00:02.03  Lisibilité 32
+#Em todos os países,
+menos na Guiné.#
+
+ 392: 10:25:39.23 10:25:41.06  Durée 00:00:01.08  Lisibilité 20
+#Em Conacri,#
+
+ 393: 10:25:41.11 10:25:43.06  Durée 00:00:01.20  Lisibilité 27
+#as imagens não são exibidas.#
+
+ 394: 10:25:43.10 10:25:44.10  Durée 00:00:01.00  Lisibilité 15
+#Não se vê#
+
+ 395: 10:25:44.14 10:25:47.20  Durée 00:00:03.06  Lisibilité 49
+#que o cortejo do General
+é brutalmente vaiado.#
+
+ 396: 10:25:47.24 10:25:49.22  Durée 00:00:01.23  Lisibilité 29
+#De Gaulle é até vaiado
+pla multidão.#
+
+ 397: 10:25:50.18 10:25:52.09  Durée 00:00:01.16  Lisibilité 25
+#Fantasia ou realidade,#
+
+ 398: 10:25:52.13 10:25:55.08  Durée 00:00:02.20  Lisibilité 42
+#o General sempre acreditará
+que Sékou Touré#
+
+ 399: 10:25:55.13 10:25:59.06  Durée 00:00:03.18  Lisibilité 56
+#organizou essas manifestações
+hostis à sua passagem.#
+
+ 400: 10:25:59.10 10:26:01.24  Durée 00:00:02.14  Lisibilité 38
+#Ele jamais o perdoará.#
+
+ 401: 10:26:03.10 10:26:05.11  Durée 00:00:02.01  Lisibilité 31
+#Em 2 de outubro de 1958,#
+
+ 402: 10:26:05.15 10:26:08.24  Durée 00:00:03.09  Lisibilité 50
+#a Guiné, após rejeitar
+o referendo gaullista,#
+
+ 403: 10:26:09.04 10:26:12.19  Durée 00:00:03.15  Lisibilité 54
+#é o único território francês
+a ter independência total.#
+
+ 404: 10:26:16.11 10:26:18.16  Durée 00:00:02.05  Lisibilité 33
+Meu general,
+Sékou Touré nos é hostil.
+
+ 405: 10:26:19.07 10:26:21.18  Durée 00:00:02.11  Lisibilité 37
+Mas é melhor fazer as pazes.
+
+ 406: 10:26:21.23 10:26:26.05  Durée 00:00:04.07  Lisibilité 64
+A Guiné vai precisar da França.
+Nós poderíamos reatar relações
+
+ 407: 10:26:26.10 10:26:28.06  Durée 00:00:01.21  Lisibilité 28
+e acalmar Sékou Touré.
+
+ 408: 10:26:28.11 10:26:29.14  Durée 00:00:01.03  Lisibilité 17
+Nem pensar!
+
+ 409: 10:26:29.18 10:26:32.02  Durée 00:00:02.09  Lisibilité 35
+O mundo deve saber
+que a França é generosa
+
+ 410: 10:26:32.06 10:26:34.07  Durée 00:00:02.01  Lisibilité 31
+com os que a apoiam
+e intratável
+
+ 411: 10:26:34.12 10:26:37.04  Durée 00:00:02.17  Lisibilité 40
+com quem a despreza.
+- Eu entendo,
+
+ 412: 10:26:37.08 10:26:40.08  Durée 00:00:03.00  Lisibilité 45
+mas corremos o risco
+de sair perdendo no final.
+
+ 413: 10:26:40.13 10:26:44.16  Durée 00:00:04.03  Lisibilité 62
+Sékou Touré posa de herói
+das independências africanas,
+
+ 414: 10:26:44.20 10:26:47.05  Durée 00:00:02.10  Lisibilité 36
+e assim nós podemos
+apoiar sua imagem.
+
+ 415: 10:26:47.10 10:26:50.07  Durée 00:00:02.22  Lisibilité 43
+Justamente, Foccart,
+não é hora de ajudar.
+
+ 416: 10:26:50.11 10:26:54.00  Durée 00:00:03.14  Lisibilité 53
+#O que Foccart teme, no clima
+de Guerra Fria da época,#
+
+ 417: 10:26:54.04 10:26:58.02  Durée 00:00:03.23  Lisibilité 59
+#é ver a África Ocidental
+virar campo do confronto#
+
+ 418: 10:26:58.06 10:27:01.12  Durée 00:00:03.06  Lisibilité 49
+#que envolve soviéticos
+e americanos em todo o planeta,#
+
+ 419: 10:27:01.17 10:27:04.14  Durée 00:00:02.22  Lisibilité 43
+#na Ásia, no Oriente Médio,
+na América do Sul.#
+
+ 420: 10:27:08.00 10:27:10.14  Durée 00:00:02.14  Lisibilité 38
+#Se um poder pró-soviético
+implantar-se na Guiné,#
+
+ 421: 10:27:10.18 10:27:14.00  Durée 00:00:03.07  Lisibilité 49
+#toda a região
+pode virar um barril de pólvora.#
+
+ 422: 10:27:15.16 10:27:18.12  Durée 00:00:02.21  Lisibilité 43
+#Mas de Gaulle não cede.
+Pior para a Guiné,#
+
+ 423: 10:27:18.17 10:27:20.05  Durée 00:00:01.13  Lisibilité 23
+#e a sorte está lançada.#
+
+ 424: 10:27:21.09 10:27:25.06  Durée 00:00:03.22  Lisibilité 58
+Ele se voltará aos comunistas,
+se oferecerá aos soviéticos.
+
+ 425: 10:27:25.10 10:27:28.22  Durée 00:00:03.12  Lisibilité 52
+Ele quer nacionalizar
+os interesses estrangeiros.
+
+ 426: 10:27:29.02 10:27:30.01  Durée 00:00:00.24  Lisibilité 14
+Melhor para ele.
+
+ 427: 10:27:30.05 10:27:32.13  Durée 00:00:02.08  Lisibilité 35
+Ele vai reduzir a Guiné à miséria.
+
+ 428: 10:27:32.17 10:27:34.05  Durée 00:00:01.13  Lisibilité 23
+Ajudamos quem nos ajuda.
+
+ 429: 10:27:34.22 10:27:37.08  Durée 00:00:02.11  Lisibilité 37
+Talvez haja
+outros meios mais discretos.
+
+ 430: 10:27:37.13 10:27:40.02  Durée 00:00:02.14  Lisibilité 38
+Foccart, pare de me atazanar
+com a Guiné.
+
+ 431: 10:27:40.06 10:27:41.23  Durée 00:00:01.17  Lisibilité 25
+Ela escolheu, paciência.
+
+ 432: 10:27:43.12 10:27:45.10  Durée 00:00:01.23  Lisibilité 29
+#Logo após
+a independência da Guiné,#
+
+ 433: 10:27:46.01 10:27:48.09  Durée 00:00:02.08  Lisibilité 35
+#a França se retira
+brutalmente do país.#
+
+ 434: 10:27:51.11 10:27:52.21  Durée 00:00:01.10  Lisibilité 21
+#A jovem República da Guiné#
+
+ 435: 10:27:53.00 10:27:55.15  Durée 00:00:02.15  Lisibilité 39
+#é entregue à própria sorte,
+sem transição.#
+
+ 436: 10:27:55.19 10:27:59.03  Durée 00:00:03.09  Lisibilité 50
+#Os serviços administrativos
+são desertados de repente,#
+
+ 437: 10:28:00.03 10:28:02.12  Durée 00:00:02.09  Lisibilité 35
+#as infraestruturas
+de minas e petróleo#
+
+ 438: 10:28:02.16 10:28:03.22  Durée 00:00:01.06  Lisibilité 19
+#são abandonadas.#
+
+ 439: 10:28:13.10 10:28:16.14  Durée 00:00:03.04  Lisibilité 47
+#Comme Foccart temia,
+Sékou Touré volta-se#
+
+ 440: 10:28:16.19 10:28:18.09  Durée 00:00:01.15  Lisibilité 24
+#para o bloco comunista.#
+
+ 441: 10:28:18.13 10:28:20.07  Durée 00:00:01.19  Lisibilité 26
+#É o 1º chefe de Estado
+africano#
+
+ 442: 10:28:20.11 10:28:23.09  Durée 00:00:02.23  Lisibilité 44
+#recebido
+na República Popular da China.#
+
+ 443: 10:28:26.20 10:28:30.05  Durée 00:00:03.10  Lisibilité 51
+#Ele é festejado com um herói da paz
+na União Soviética.#
+
+ 444: 10:28:33.15 10:28:36.10  Durée 00:00:02.20  Lisibilité 42
+#Ele corta relações diplomáticas
+com a França#
+
+ 445: 10:28:36.14 10:28:39.03  Durée 00:00:02.14  Lisibilité 38
+#e instala na Guiné
+um regime de ferro.#
+
+ 446: 10:28:39.07 10:28:40.04  Durée 00:00:00.22  Lisibilité 13
+#De Conacri,#
+
+ 447: 10:28:40.08 10:28:43.20  Durée 00:00:03.12  Lisibilité 52
+#ele se dedica todo dia
+no rádio a violentas críticas#
+
+ 448: 10:28:43.24 10:28:46.02  Durée 00:00:02.03  Lisibilité 32
+#emitidas além
+de suas fronteiras.#
+
+ 449: 10:28:46.06 10:28:47.08  Durée 00:00:01.02  Lisibilité 16
+Nós dizemos: Não!
+
+ 450: 10:28:47.12 10:28:49.01  Durée 00:00:01.14  Lisibilité 23
+De modo categórico
+
+ 451: 10:28:49.05 10:28:51.03  Durée 00:00:01.23  Lisibilité 29
+a todo arranjo
+do regime colonial
+
+ 452: 10:28:51.08 10:28:53.08  Durée 00:00:02.00  Lisibilité 30
+e ao espírito paternalista!
+
+ 453: 10:28:53.12 10:28:55.11  Durée 00:00:01.24  Lisibilité 29
+#Ele denuncia complôs#
+
+ 454: 10:28:55.16 10:28:57.15  Durée 00:00:01.24  Lisibilité 29
+#urdidos pela França
+com apoio#
+
+ 455: 10:28:57.20 10:29:00.07  Durée 00:00:02.12  Lisibilité 37
+#dos que ele chama
+de lacaios africanos,#
+
+ 456: 10:29:02.06 10:29:05.20  Durée 00:00:03.14  Lisibilité 53
+#Léopold Sédar Senghor
+e sobretudo seu ex-mentor,#
+
+ 457: 10:29:05.24 10:29:07.07  Durée 00:00:01.08  Lisibilité 20
+#Félix Houphouët-Boigny.#
+
+ 458: 10:29:08.01 10:29:10.21  Durée 00:00:02.20  Lisibilité 42
+Sabe como Sékou Touré
+se denomina?
+
+ 459: 10:29:11.01 10:29:13.04  Durée 00:00:02.03  Lisibilité 32
+O Timoneiro da Revolução.
+
+ 460: 10:29:14.11 10:29:16.03  Durée 00:00:01.17  Lisibilité 25
+Ele se acha em Pequim.
+
+ 461: 10:29:16.19 10:29:19.07  Durée 00:00:02.13  Lisibilité 38
+Esse paranoico me trata
+todo dia no rádio
+
+ 462: 10:29:19.11 10:29:22.07  Durée 00:00:02.21  Lisibilité 43
+de lacaio do imperialismo colonial.
+
+ 463: 10:29:22.12 10:29:24.10  Durée 00:00:01.23  Lisibilité 29
+Ele também não o poupa.
+
+ 464: 10:29:24.15 10:29:25.22  Durée 00:00:01.07  Lisibilité 19
+Que diga o que quiser
+
+ 465: 10:29:26.01 10:29:28.05  Durée 00:00:02.04  Lisibilité 32
+e nos deixe fazer
+o que quisermos.
+
+ 466: 10:29:28.10 10:29:30.18  Durée 00:00:02.08  Lisibilité 35
+Mas, justamente,
+o que queremos fazer?
+
+ 467: 10:29:30.22 10:29:34.09  Durée 00:00:03.12  Lisibilité 52
+Uma África forte, unida
+e respeitada, ou essa miríade
+
+ 468: 10:29:34.14 10:29:38.00  Durée 00:00:03.11  Lisibilité 52
+de territórios balcanizados
+que nos propõe a França?
+
+ 469: 10:29:38.05 10:29:40.00  Durée 00:00:01.20  Lisibilité 27
+Por trás
+de excessos e críticas,
+
+ 470: 10:29:40.04 10:29:42.18  Durée 00:00:02.14  Lisibilité 38
+Sékou Touré talvez não diga
+só bobagens.
+
+ 471: 10:29:42.23 10:29:45.02  Durée 00:00:02.04  Lisibilité 32
+Meu amigo,
+
+ 472: 10:29:45.06 10:29:47.18  Durée 00:00:02.12  Lisibilité 37
+vejo em suas palavras o militante
+
+ 473: 10:29:47.23 10:29:50.13  Durée 00:00:02.15  Lisibilité 39
+que você era antes da guerra,
+
+ 474: 10:29:50.18 10:29:53.16  Durée 00:00:02.23  Lisibilité 44
+quando queria arrancar
+dos muros da França
+
+ 475: 10:29:53.20 10:29:55.01  Durée 00:00:01.06  Lisibilité 19
+o Negro Banania.
+
+ 476: 10:29:56.03 10:29:58.24  Durée 00:00:02.21  Lisibilité 43
+Mas digo a você com toda a amizade,
+
+ 477: 10:30:00.10 10:30:03.19  Durée 00:00:03.09  Lisibilité 50
+só conhecemos a verdadeira felicidade
+quando a perdemos.
+
+ 478: 10:30:04.15 10:30:07.14  Durée 00:00:02.24  Lisibilité 44
+Sékou Touré
+aprenderá à custa dele.
+
+ 479: 10:30:07.19 10:30:09.18  Durée 00:00:01.24  Lisibilité 29
+O caminho dele não é o nosso.
+
+ 480: 10:30:09.22 10:30:12.09  Durée 00:00:02.12  Lisibilité 37
+Mesmo assim,
+a França ainda nos trata
+
+ 481: 10:30:12.14 10:30:14.02  Durée 00:00:01.13  Lisibilité 23
+como crianças.
+
+ 482: 10:30:14.07 10:30:16.20  Durée 00:00:02.13  Lisibilité 38
+Eles só nos dá balas e brinquedos.
+
+ 483: 10:30:16.24 10:30:19.00  Durée 00:00:02.01  Lisibilité 31
+E isso não é digno dela.
+
+ 484: 10:30:20.03 10:30:23.03  Durée 00:00:03.00  Lisibilité 45
+#Quando Touré rompe
+todos os laços com a França,#
+
+ 485: 10:30:23.07 10:30:26.10  Durée 00:00:03.03  Lisibilité 47
+#o Movimento Independentista Africano
+se divide.#
+
+ 486: 10:30:27.00 10:30:31.15  Durée 00:00:04.15  Lisibilité 69
+#Alguns, com Senghor, ainda sonham
+com uma federação pan-africana.#
+
+487: 10:30:32.11 10:30:35.09  Durée 00:00:02.23  Lisibilité 44
+#Outros, com Houphouët-Boigny,
+recusam essa visão#
+
+ 488: 10:30:35.13 10:30:38.24  Durée 00:00:03.11  Lisibilité 52
+#e defendem as fronteiras
+administrativas criadas pela França.#
+
+ 489: 10:30:42.18 10:30:47.18  Durée 00:00:05.00  Lisibilité 75
+INDEPENDÊNCIAS
+
+ 490: 10:30:50.03 10:30:52.07  Durée 00:00:02.04  Lisibilité 32
+#A independência inesperada
+da Guiné#
+
+ 491: 10:30:52.11 10:30:54.12  Durée 00:00:02.01  Lisibilité 31
+#atrapalha os planos franceses.#
+
+ 492: 10:30:59.13 10:31:02.08  Durée 00:00:02.20  Lisibilité 42
+#E por alguns meses,
+Léopold Sédar Senghor#
+
+ 493: 10:31:02.12 10:31:04.20  Durée 00:00:02.08  Lisibilité 35
+#parece estar perto do seu sonho.#
+
+ 494: 10:31:05.10 10:31:08.17  Durée 00:00:03.07  Lisibilité 49
+#Em dezembro de 1958,
+representantes do Senegal,#
+
+ 495: 10:31:08.21 10:31:12.08  Durée 00:00:03.12  Lisibilité 52
+#do Sudão, do Daomé e do Alto Volta
+reunidos em Bamako,#
+
+ 496: 10:31:12.12 10:31:14.17  Durée 00:00:02.05  Lisibilité 33
+#criam a Federação do Mali.#
+
+ 497: 10:31:18.10 10:31:21.22  Durée 00:00:03.12  Lisibilité 52
+#No início de 1959, a Federação
+adota uma constituição,#
+
+ 498: 10:31:22.15 10:31:25.00  Durée 00:00:02.10  Lisibilité 36
+#um governo
+e uma assembleia federal.#
+
+ 499: 10:31:27.14 10:31:28.22  Durée 00:00:01.08  Lisibilité 20
+#Em abril de 1960,#
+
+ 500: 10:31:29.01 10:31:32.21  Durée 00:00:03.20  Lisibilité 57
+#a França aceita a independência
+da Federação do Mali,#
+
+ 501: 10:31:33.01 10:31:36.09  Durée 00:00:03.08  Lisibilité 50
+#mas Jacques Foccart
+fica de olho na ex-colônia.#
+
+ 502: 10:31:42.12 10:31:45.15  Durée 00:00:03.03  Lisibilité 47
+#É Léopold Sédar Senghor
+que, em 20 de junho de 1960,#
+
+ 503: 10:31:45.19 10:31:49.17  Durée 00:00:03.23  Lisibilité 59
+#proclama oficialmente
+essa independência.#
+
+ 504: 10:31:54.15 10:31:56.23  Durée 00:00:02.08  Lisibilité 35
+#Mas já no verão,
+a Federação estoura,#
+
+ 505: 10:31:57.03 10:32:01.03  Durée 00:00:04.00  Lisibilité 60
+#confrontada a dissenções
+incessantes entre os membros.#
+
+ 506: 10:32:05.22 10:32:08.04  Durée 00:00:02.07  Lisibilité 34
+#Em 20 de agosto,
+o Senegal se separa.#
+
+ 507: 10:32:08.08 10:32:10.06  Durée 00:00:01.23  Lisibilité 29
+#Dia 22, é a vez do Sudão,#
+
+ 508: 10:32:10.10 10:32:13.19  Durée 00:00:03.09  Lisibilité 50
+#que toma o nome
+de República do Mali.#
+
+ 509: 10:32:15.06 10:32:18.05  Durée 00:00:02.24  Lisibilité 44
+#Os Estados Unidos da África,
+tão caros a Senghor,#
+
+ 510: 10:32:18.09 10:32:21.06  Durée 00:00:02.22  Lisibilité 43
+#só existirão por 2 meses.#
+
+ 511: 10:32:21.10 10:32:23.22  Durée 00:00:02.12  Lisibilité 37
+#E o fracasso
+da Federação do Mali-Senegal#
+
+ 512: 10:32:24.01 10:32:27.00  Durée 00:00:02.24  Lisibilité 44
+#também é o da Comunidade Francesa,#
+
+ 513: 10:32:27.05 10:32:29.06  Durée 00:00:02.01  Lisibilité 31
+#pois todos os territórios
+da África#
+
+ 514: 10:32:29.10 10:32:31.24  Durée 00:00:02.14  Lisibilité 38
+#reclamam agora a independência.#
+
+ 515: 10:32:35.20 10:32:37.18  Durée 00:00:01.23  Lisibilité 29
+#Em Paris, entenderam,#
+
+ 516: 10:32:37.23 10:32:40.08  Durée 00:00:02.10  Lisibilité 36
+#se a França quiser
+manter influência,#
+
+ 517: 10:32:40.13 10:32:44.14  Durée 00:00:04.01  Lisibilité 61
+#ela deverá se impor país por país,
+governo por governo.#
+
+ 518: 10:32:54.00 10:32:55.14  Durée 00:00:01.14  Lisibilité 23
+#Em 5 de setembro de 1960,#
+
+ 519: 10:32:55.18 10:32:59.09  Durée 00:00:03.16  Lisibilité 55
+#Léopold Sédar Senghor torna-se
+o 1º presidente do Senegal.#
+
+ 520: 10:33:05.05 10:33:07.09  Durée 00:00:02.04  Lisibilité 32
+#Ele o será até 1980#
+
+ 521: 10:33:07.14 10:33:10.08  Durée 00:00:02.19  Lisibilité 41
+#e será sempre
+um aliado fiel da França.#
+
+ 522: 10:33:20.18 10:33:23.08  Durée 00:00:02.15  Lisibilité 39
+#Em 27 de novembro de 1960,#
+
+ 523: 10:33:23.12 10:33:27.14  Durée 00:00:04.02  Lisibilité 61
+#Félix Houphouët-Boigny é eleito
+para dirigir a Costa do Marfim.#
+
+ 524: 10:33:30.09 10:33:34.02  Durée 00:00:03.18  Lisibilité 56
+#Em seu 1º discurso
+como chefe de Estado, ele diz...#
+
+ 525: 10:33:34.06 10:33:37.10  Durée 00:00:03.04  Lisibilité 47
+"Ao deixar a família francesa,
+
+ 526: 10:33:38.18 10:33:43.18  Durée 00:00:05.00  Lisibilité 75
+"nós não temos
+o sentimento de esquecer
+
+ 527: 10:33:43.22 10:33:46.14  Durée 00:00:02.17  Lisibilité 40
+"tudo que aprendemos com ela.
+
+ 528: 10:33:48.05 10:33:52.20  Durée 00:00:04.15  Lisibilité 69
+"A França,
+após nos colonizar,
+
+ 529: 10:33:53.10 10:33:56.13  Durée 00:00:03.03  Lisibilité 47
+"pagou com nobreza
+
+ 530: 10:33:57.24 10:34:02.23  Durée 00:00:04.24  Lisibilité 74
+"essa dívida contraída com...
+
+ 531: 10:34:03.21 10:34:05.11  Durée 00:00:01.15  Lisibilité 24
+"a humanidade."
+
+ 532: 10:34:07.02 10:34:09.04  Durée 00:00:02.02  Lisibilité 31
+#Senghor, Houphouët,#
+
+ 533: 10:34:09.08 10:34:12.07  Durée 00:00:02.24  Lisibilité 44
+#2 chefes de Estado
+formados na França, instalados#
+
+ 534: 10:34:12.11 10:34:16.00  Durée 00:00:03.14  Lisibilité 53
+#na paisagem política
+da metrópole.#
+
+ 535: 10:34:16.04 10:34:19.00  Durée 00:00:02.21  Lisibilité 43
+#Os dois tão franceses
+quanto africanos.#
+
+ 536: 10:34:23.02 10:34:24.21  Durée 00:00:01.19  Lisibilité 26
+#Eles não darão problemas#
+
+ 537: 10:34:25.00 10:34:27.23  Durée 00:00:02.23  Lisibilité 44
+#para continuar à sombra
+de ex-potência colonial.#
+
+ 538: 10:34:31.04 10:34:32.18  Durée 00:00:01.14  Lisibilité 23
+#Saberão, se necessário,#
+
+ 539: 10:34:32.22 10:34:36.10  Durée 00:00:03.13  Lisibilité 53
+#ser auxiliares eficazes
+da política francesa.#
+
+ 540: 10:34:37.15 10:34:41.04  Durée 00:00:03.14  Lisibilité 53
+#Mas além deles, nenhum
+dos novos Estados africanos tem#
+
+ 541: 10:34:41.08 10:34:45.16  Durée 00:00:04.08  Lisibilité 65
+#políticos do nível dos presidentes
+marfinense e senegalês.#
+
+ 542: 10:34:45.20 10:34:50.02  Durée 00:00:04.07  Lisibilité 64
+#Ou, quando têm, não são
+necessariamente tão francófilos.#
+
+ 543: 10:34:51.15 10:34:53.24  Durée 00:00:02.09  Lisibilité 35
+#Chegou a hora de Jacques Foccart.#
+
+ 544: 10:34:54.03 10:34:56.12  Durée 00:00:02.09  Lisibilité 35
+#O que a França
+não conseguir na África#
+
+ 545: 10:34:56.16 10:34:58.18  Durée 00:00:02.02  Lisibilité 31
+#pelas vias comuns da diplomacia#
+
+ 546: 10:34:58.22 10:35:02.01  Durée 00:00:03.04  Lisibilité 47
+#ele tratará
+nas sombras e em sigilo.#
+
+ 547: 10:35:11.13 10:35:15.06  Durée 00:00:03.18  Lisibilité 56
+General, acho que,
+para conseguir, temos de tecer
+
+ 548: 10:35:15.11 10:35:18.00  Durée 00:00:02.14  Lisibilité 38
+laços com os chefes
+dos Estados independentes.
+
+ 549: 10:35:18.05 10:35:20.13  Durée 00:00:02.08  Lisibilité 35
+Laços bem apertados, até.
+
+ 550: 10:35:20.18 10:35:25.08  Durée 00:00:04.15  Lisibilité 69
+Isso exigirá o emprego de meios,
+digamos, peculiares,
+
+ 551: 10:35:25.13 10:35:28.04  Durée 00:00:02.16  Lisibilité 40
+que sairão do escopo
+da diplomacia habitual.
+
+ 552: 10:35:28.08 10:35:31.19  Durée 00:00:03.11  Lisibilité 52
+Não quero saber, Foccart.
+Isso é intendência.
+
+ 553: 10:35:31.23 10:35:33.06  Durée 00:00:01.08  Lisibilité 20
+A intendência é você.
+
+ 554: 10:35:34.03 10:35:37.20  Durée 00:00:03.17  Lisibilité 55
+Apenas garanta
+que os que escolherem a França
+
+ 555: 10:35:38.00 10:35:40.13  Durée 00:00:02.13  Lisibilité 38
+terão sempre nosso apoio.
+
+ 556: 10:35:40.17 10:35:41.19  Durée 00:00:01.02  Lisibilité 16
+Em todos os campos?
+
+ 557: 10:35:41.24 10:35:43.13  Durée 00:00:01.14  Lisibilité 23
+Sim, todos.
+
+ 558: 10:35:44.03 10:35:47.00  Durée 00:00:02.22  Lisibilité 43
+Nós seremos fiéis
+aos que nos forem fiéis.
+
+ 559: 10:35:47.22 10:35:50.04  Durée 00:00:02.07  Lisibilité 34
+Os expedientes são da sua conta.
+
+ 560: 10:35:50.09 10:35:53.14  Durée 00:00:03.05  Lisibilité 48
+Foccart,
+você trabalha pela recuperação
+
+ 561: 10:35:53.19 10:35:54.18  Durée 00:00:00.24  Lisibilité 14
+da França.
+
+ 562: 10:35:54.22 10:35:56.09  Durée 00:00:01.12  Lisibilité 22
+Como eu sempre fiz.
+
+ 563: 10:35:56.14 10:36:00.09  Durée 00:00:03.20  Lisibilité 57
+Com certeza.
+Pois bem, continue.
+
+ 564: 10:36:01.16 10:36:02.15  Durée 00:00:00.24  Lisibilité 14
+#Oficialmente,#
+
+ 565: 10:36:02.19 10:36:06.10  Durée 00:00:03.16  Lisibilité 55
+#Foccart é secretário-geral
+do Eliseu encarregado da África.#
+
+ 566: 10:36:06.15 10:36:08.11  Durée 00:00:01.21  Lisibilité 28
+- Foccart.
+- General.
+
+ 567: 10:36:08.15 10:36:11.09  Durée 00:00:02.19  Lisibilité 41
+#Mas nenhum ministro
+tem mais poder que ele.#
+
+ 568: 10:36:11.13 10:36:13.20  Durée 00:00:02.07  Lisibilité 34
+#Ele tem o domínio
+da diplomacia francesa#
+
+ 569: 10:36:13.24 10:36:16.00  Durée 00:00:02.01  Lisibilité 31
+#sempre que ela trata da África.#
+
+ 570: 10:36:16.24 10:36:20.03  Durée 00:00:03.04  Lisibilité 47
+#Ninguém tem como ele
+a atenção do General.#
+
+ 571: 10:36:20.23 10:36:22.07  Durée 00:00:01.09  Lisibilité 20
+#Se um ministro o esquece,#
+
+ 572: 10:36:22.11 10:36:25.06  Durée 00:00:02.20  Lisibilité 42
+#o General logo chama sua atenção.#
+
+ 573: 10:36:31.15 10:36:33.23  Durée 00:00:02.08  Lisibilité 35
+#E quando a diplomacia
+não basta mais,#
+
+ 574: 10:36:34.02 10:36:36.02  Durée 00:00:02.00  Lisibilité 30
+#ele conta
+com o serviço secreto#
+
+ 575: 10:36:36.06 10:36:38.02  Durée 00:00:01.21  Lisibilité 28
+#e com as forças especiais#
+
+ 576: 10:36:38.06 10:36:41.01  Durée 00:00:02.20  Lisibilité 42
+#que ele ajudou a criar
+na Liberação.#
+
+ 577: 10:36:42.16 10:36:45.07  Durée 00:00:02.16  Lisibilité 40
+#Na época ele trabalhava
+com um jovem oficial#
+
+ 578: 10:36:45.11 10:36:49.08  Durée 00:00:03.22  Lisibilité 58
+#vindo da elite dos comandos aliados
+na guerra, Paul Aussaresses.#
+
+ 579: 10:36:51.21 10:36:55.02  Durée 00:00:03.06  Lisibilité 49
+#Depois, o coronel Aussaresses
+ilustrou-se na Indochina#
+
+ 580: 10:36:55.06 10:36:57.24  Durée 00:00:02.18  Lisibilité 41
+#e sobretudo na Argélia.#
+
+ 581: 10:36:58.03 10:37:00.03  Durée 00:00:02.00  Lisibilité 30
+#Mostrou-se
+um dos mais implacáveis#
+
+ 582: 10:37:00.07 10:37:02.09  Durée 00:00:02.02  Lisibilité 31
+#dos oficiais paraquedistas,#
+
+ 583: 10:37:02.14 10:37:05.06  Durée 00:00:02.17  Lisibilité 40
+#praticando interrogatórios
+sob tortura#
+
+ 584: 10:37:05.10 10:37:08.05  Durée 00:00:02.20  Lisibilité 42
+#ou organizando o assassinato
+dos chefes da FLN.#
+
+ 585: 10:37:11.13 10:37:13.04  Durée 00:00:01.16  Lisibilité 25
+#No começo dos anos 60,#
+
+ 586: 10:37:13.08 10:37:17.02  Durée 00:00:03.19  Lisibilité 56
+#ele é uma referência
+de guerra contrarrevolucionária,#
+
+ 587: 10:37:17.06 10:37:20.22  Durée 00:00:03.16  Lisibilité 55
+#ele até participa
+da formação dos agentes da CIA.#
+
+ 588: 10:37:27.19 10:37:31.13  Durée 00:00:03.19  Lisibilité 56
+#À esteira de Aussaresses,
+todo um areópago de capangas,#
+
+ 589: 10:37:31.17 10:37:35.04  Durée 00:00:03.12  Lisibilité 52
+#mercenários e soldados improvisados
+juntam-se se preciso,#
+
+ 590: 10:37:35.19 10:37:38.04  Durée 00:00:02.10  Lisibilité 36
+#numa rede poderosa
+de serviços paralelos,#
+
+ 591: 10:37:38.08 10:37:40.15  Durée 00:00:02.07  Lisibilité 34
+#inteiramente devotada a Foccart.#
+
+ 592: 10:37:51.23 10:37:54.06  Durée 00:00:02.08  Lisibilité 35
+#Para financiar
+essas operações ocultas,#
+
+ 593: 10:37:54.10 10:37:56.22  Durée 00:00:02.12  Lisibilité 37
+#Foccart apoia-se
+no dinheiro do petróleo,#
+
+ 594: 10:37:57.01 10:37:59.09  Durée 00:00:02.08  Lisibilité 35
+#através
+da Union Generale Pétrolière,#
+
+ 595: 10:37:59.14 10:38:02.07  Durée 00:00:02.18  Lisibilité 41
+#que se tornará Elf em 1966.#
+
+ 596: 10:38:03.20 10:38:07.02  Durée 00:00:03.07  Lisibilité 49
+#Uma estatal encarregada
+de prospectar e explorar#
+
+ 597: 10:38:07.06 10:38:10.01  Durée 00:00:02.20  Lisibilité 42
+#as reservas de petróleo
+na França e nas colônias.#
+
+ 598: 10:38:10.23 10:38:13.23  Durée 00:00:03.00  Lisibilité 45
+#Corrupção, lavagem,
+financiamentos ocultos,#
+
+ 599: 10:38:14.02 10:38:17.04  Durée 00:00:03.02  Lisibilité 46
+#a Elf será a grande lavadora
+de dinheiro sujo#
+
+ 600: 10:38:17.09 10:38:19.00  Durée 00:00:01.16  Lisibilité 25
+#da Françáfrica.#
+
+ 601: 10:38:23.01 10:38:26.23  Durée 00:00:03.22  Lisibilité 58
+#O método Foccart para manter
+o controle das ex-colônias#
+
+ 602: 10:38:27.02 10:38:29.20  Durée 00:00:02.18  Lisibilité 41
+#é, no fim das contas,
+de grande simplicidade.#
+
+ 603: 10:38:30.14 10:38:34.11  Durée 00:00:03.22  Lisibilité 58
+#Ele faz laços estreitos
+com os chefes dos novos Estados.#
+
+ 604: 10:38:36.07 10:38:41.01  Durée 00:00:04.19  Lisibilité 71
+#Ele sabe tudo de cada um deles
+e torna-se o amigo indispensável,#
+
+ 605: 10:38:41.05 10:38:43.18  Durée 00:00:02.13  Lisibilité 38
+#cobrindo seus excessos
+e excentricidades,#
+
+ 606: 10:38:43.22 10:38:47.13  Durée 00:00:03.16  Lisibilité 55
+#permitindo-lhes acumular
+fortunas pessoais consideráveis.#
+
+ 607: 10:38:48.22 10:38:50.18  Durée 00:00:01.21  Lisibilité 28
+#Ele zela por sua segurança,#
+
+ 608: 10:38:50.22 10:38:54.09  Durée 00:00:03.12  Lisibilité 52
+#não hesitando em eliminar
+seus oponentes quando exigem.#
+
+ 609: 10:38:56.15 10:39:00.09  Durée 00:00:03.19  Lisibilité 56
+#Mas todos sabem que a amizade
+do poderoso Foccart tem preço.#
+
+ 610: 10:39:02.06 10:39:03.15  Durée 00:00:01.09  Lisibilité 20
+#Eles não podem#
+
+ 611: 10:39:03.19 10:39:06.08  Durée 00:00:02.14  Lisibilité 38
+#contrariar os interesses
+políticos ou econômicos#
+
+ 612: 10:39:06.13 10:39:08.13  Durée 00:00:02.00  Lisibilité 30
+#da ex-potência colonial.#
+
+ 613: 10:39:19.15 10:39:24.15  Durée 00:00:05.00  Lisibilité 75
+O SISTEMA FOCCART
+
+ 614: 10:39:26.18 10:39:28.20  Durée 00:00:02.02  Lisibilité 31
+#Ao longo do ano de 1960,#
+
+ 615: 10:39:28.24 10:39:31.15  Durée 00:00:02.16  Lisibilité 40
+#na esteira da Costa do Marfim
+e do Senegal,#
+
+ 616: 10:39:31.19 10:39:36.02  Durée 00:00:04.08  Lisibilité 65
+#a independência é proclamada no Mali,
+no Congo, no Gabão, no Chade,#
+
+ 617: 10:39:36.06 10:39:38.17  Durée 00:00:02.11  Lisibilité 37
+#sob a vigilância direta da França.#
+
+ 618: 10:39:43.00 10:39:45.15  Durée 00:00:02.15  Lisibilité 39
+#Ela ocasiona
+algumas cenas pitorescas.#
+
+ 619: 10:39:45.19 10:39:46.16  Durée 00:00:00.22  Lisibilité 13
+#No Congo,#
+
+ 620: 10:39:46.21 10:39:49.20  Durée 00:00:02.24  Lisibilité 44
+#o homem do novo regime
+é Fulbert Youlou,#
+
+ 621: 10:39:49.24 10:39:51.10  Durée 00:00:01.11  Lisibilité 22
+#ex-abade católico,#
+
+ 622: 10:39:51.14 10:39:54.02  Durée 00:00:02.13  Lisibilité 38
+#destituído
+pela hierarquia eclesiástica,#
+
+ 623: 10:39:54.06 10:39:57.11  Durée 00:00:03.05  Lisibilité 48
+#mas que, apesar da proibição
+que lhe foi feita,#
+
+ 624: 10:39:57.16 10:39:59.11  Durée 00:00:01.20  Lisibilité 27
+#continua aparecendo de batina.#
+
+ 625: 10:39:59.15 10:40:04.00  Durée 00:00:04.10  Lisibilité 66
+#Batinas vermelhas de cardeal
+ou brancas como a do papa,#
+
+ 626: 10:40:04.05 10:40:06.02  Durée 00:00:01.22  Lisibilité 28
+#que ele manda fazer sob medida
+em Paris,#
+
+ 627: 10:40:06.07 10:40:09.02  Durée 00:00:02.20  Lisibilité 42
+#nos ateliês de Christian Dior.#
+
+ 628: 10:40:11.14 10:40:14.00  Durée 00:00:02.11  Lisibilité 37
+#Na véspera
+da cerimônia de independência,#
+
+ 629: 10:40:14.05 10:40:16.06  Durée 00:00:02.01  Lisibilité 31
+#o governador francês de partida#
+
+ 630: 10:40:16.11 10:40:19.09  Durée 00:00:02.23  Lisibilité 44
+#infirma sua preocupação
+ao novo presidente congolês:#
+
+ 631: 10:40:19.13 10:40:23.16  Durée 00:00:04.03  Lisibilité 62
+#o Congo não tem hino nacional
+nem bandeira.#
+
+ 632: 10:40:24.06 10:40:27.10  Durée 00:00:03.04  Lisibilité 47
+#A resposta de Youlou é chocante,#
+mas traduz bem#
+
+ 633: 10:40:27.15 10:40:30.13  Durée 00:00:02.23  Lisibilité 44
+#a relação entre a França
+e os Estados africanos:#
+
+ 634: 10:40:30.17 10:40:34.13  Durée 00:00:03.21  Lisibilité 58
+#"Então mantemos a# Marselhesa#
+e a bandeira tricolor."#
+
+ 635: 10:40:38.14 10:40:39.24  Durée 00:00:01.10  Lisibilité 21
+#Com o apoio de Foccart,#
+
+ 636: 10:40:40.03 10:40:41.21  Durée 00:00:01.18  Lisibilité 26
+#o improvável
+presidente do Congo#
+
+ 637: 10:40:42.00 10:40:44.17  Durée 00:00:02.17  Lisibilité 40
+#instaura um regime
+repressivo e autoritário#
+
+ 638: 10:40:44.21 10:40:46.16  Durée 00:00:01.20  Lisibilité 27
+#submetido a seus excessos.#
+
+ 639: 10:40:47.21 10:40:50.14  Durée 00:00:02.18  Lisibilité 41
+#Assim o veremos tirar
+da batina um revólver#
+
+ 640: 10:40:50.18 10:40:52.03  Durée 00:00:01.10  Lisibilité 21
+#para ameaçar deputados#
+
+ 641: 10:40:52.07 10:40:55.01  Durée 00:00:02.19  Lisibilité 41
+#que ousaram contestar seu governo.#
+
+ 642: 10:40:59.16 10:41:01.17  Durée 00:00:02.01  Lisibilité 31
+#Em todos os países ex-colônias#
+
+ 643: 10:41:01.21 10:41:05.11  Durée 00:00:03.15  Lisibilité 54
+#na África Ocidental
+e Equatorial, como no Congo,#
+
+ 644: 10:41:05.15 10:41:08.17  Durée 00:00:03.02  Lisibilité 46
+#Foccart apoia os chefes de Estado
+que agradam ao Eliseu.#
+
+ 645: 10:41:10.07 10:41:12.21  Durée 00:00:02.14  Lisibilité 38
+#No Chade, é François Tombalbaye.#
+
+ 646: 10:41:14.17 10:41:16.23  Durée 00:00:02.06  Lisibilité 34
+#No Mali, Modibo Keïta.#
+
+ 647: 10:41:17.20 10:41:19.22  Durée 00:00:02.02  Lisibilité 31
+#No Gabão, Léon Mba.#
+
+ 648: 10:41:21.09 10:41:23.16  Durée 00:00:02.07  Lisibilité 34
+#Na República Centro-Africana,
+David Dacko.#
+
+ 649: 10:41:26.06 10:41:28.04  Durée 00:00:01.23  Lisibilité 29
+#Não importa
+a tendência política,#
+
+ 650: 10:41:28.08 10:41:31.13  Durée 00:00:03.05  Lisibilité 48
+#todos se comportam
+rapidamente em autocratas,#
+
+ 651: 10:41:31.17 10:41:34.07  Durée 00:00:02.15  Lisibilité 39
+#esmagando opositores,
+se preciso, pela força,#
+
+ 652: 10:41:34.11 10:41:37.03  Durée 00:00:02.17  Lisibilité 40
+#com apoio de Paris
+e das redes Foccart.#
+
+ 653: 10:41:39.10 10:41:42.21  Durée 00:00:03.11  Lisibilité 52
+#Mas é no Camarões
+que esse apoio é o mais sangrento.#
+
+ 654: 10:41:45.22 10:41:48.10  Durée 00:00:02.13  Lisibilité 38
+#Na galáxia das colônias
+francesas na África,#
+
+ 655: 10:41:48.14 10:41:50.21  Durée 00:00:02.07  Lisibilité 34
+#o Camarões é um caso à parte.#
+
+ 656: 10:41:51.00 10:41:54.13  Durée 00:00:03.13  Lisibilité 53
+#Originalmente, o país
+era uma colônia alemã.#
+
+ 657: 10:41:54.17 10:41:56.16  Durée 00:00:01.24  Lisibilité 29
+#No fim da 1ª Guerra Mundial,#
+
+ 658: 10:41:56.20 10:41:59.11  Durée 00:00:02.16  Lisibilité 40
+#a Alemanha perdeu a posse
+de suas colônias,#
+
+ 659: 10:41:59.15 10:42:02.16  Durée 00:00:03.01  Lisibilité 46
+#e o Camarões
+foi para a tutela da França.#
+
+ 660: 10:42:05.20 10:42:08.20  Durée 00:00:03.00  Lisibilité 45
+#No fim dos anos 40,
+um movimento independentista#
+
+ 661: 10:42:09.00 10:42:12.09  Durée 00:00:03.09  Lisibilité 50
+#emergiu no país,
+a União das Populações do Camarões,#
+
+ 662: 10:42:12.14 10:42:15.10  Durée 00:00:02.21  Lisibilité 43
+#a UPC, próxima dos comunistas.#
+
+ 663: 10:42:15.15 10:42:16.10  Durée 00:00:00.20  Lisibilité 12
+#Em 1953,#
+
+ 664: 10:42:16.14 10:42:20.17  Durée 00:00:04.03  Lisibilité 62
+#estoura uma primeira revolta,
+brutalmente esmagada pelos franceses.#
+
+ 665: 10:42:24.02 10:42:27.06  Durée 00:00:03.04  Lisibilité 47
+#Em 1955, novamente,
+violentas manifestações#
+
+ 666: 10:42:27.11 10:42:29.01  Durée 00:00:01.15  Lisibilité 24
+#ocorrem em todo o país.#
+
+ 667: 10:42:30.19 10:42:31.20  Durée 00:00:01.01  Lisibilité 16
+#Com dura repressão,#
+
+ 668: 10:42:31.24 10:42:35.16  Durée 00:00:03.17  Lisibilité 55
+#elas levam os independentistas
+a se engajar na luta armada.#
+
+ 669: 10:42:37.09 10:42:40.22  Durée 00:00:03.13  Lisibilité 53
+#A partir de 1957, o exército francês
+aplica no Camarões#
+
+ 670: 10:42:41.01 10:42:44.24  Durée 00:00:03.23  Lisibilité 59
+#os mesmos métodos que na Argélia
+para esmagar a guerrilha.#
+
+ 671: 10:42:47.10 10:42:48.18  Durée 00:00:01.08  Lisibilité 20
+#Uma verdadeira guerra#
+
+ 672: 10:42:48.23 10:42:51.16  Durée 00:00:02.18  Lisibilité 41
+#que fará várias
+dezenas de milhares de mortos#
+
+ 673: 10:42:51.20 10:42:54.14  Durée 00:00:02.19  Lisibilité 41
+#mas que não deixou nenhuma imagem.#
+
+ 674: 10:42:54.18 10:42:58.06  Durée 00:00:03.13  Lisibilité 53
+#A França, aliás,
+jamais reconhecerá tê-la feito.#
+
+ 675: 10:43:08.15 10:43:11.20  Durée 00:00:03.05  Lisibilité 48
+#Ela durará até 1960,
+quando o Camarões#
+
+ 676: 10:43:12.00 10:43:14.11  Durée 00:00:02.11  Lisibilité 37
+#chegará enfim à independência.#
+
+ 677: 10:43:14.15 10:43:15.20  Durée 00:00:01.05  Lisibilité 18
+#O chefe de Estado,#
+
+ 678: 10:43:15.24 10:43:19.06  Durée 00:00:03.07  Lisibilité 49
+#apoiado pela França,
+chama-se Ahmadou Ahidjo.#
+
+ 679: 10:43:19.21 10:43:20.18  Durée 00:00:00.22  Lisibilité 13
+#Por anos,#
+
+ 680: 10:43:20.22 10:43:23.14  Durée 00:00:02.17  Lisibilité 40
+#ele faz operações militares
+contra a UPC,#
+
+ 681: 10:43:23.18 10:43:26.13  Durée 00:00:02.20  Lisibilité 42
+#com apoio clandestino
+de militares franceses.#
+
+ 682: 10:43:27.08 10:43:30.01  Durée 00:00:02.18  Lisibilité 41
+#Cerca de 70 anos depois,
+não há balanço#
+
+ 683: 10:43:30.06 10:43:33.00  Durée 00:00:02.19  Lisibilité 41
+#do número de vítimas
+dessa guerra oculta.#
+
+ 684: 10:43:34.16 10:43:37.24  Durée 00:00:03.08  Lisibilité 50
+#O que é certo
+é que o serviço secreto francês#
+
+ 685: 10:43:38.03 10:43:41.18  Durée 00:00:03.15  Lisibilité 54
+#executou, fora do Camarões,
+operações clandestinas#
+
+ 686: 10:43:41.22 10:43:44.12  Durée 00:00:02.15  Lisibilité 39
+#encomendadas
+pelo presidente Ahidjo.#
+
+ 687: 10:43:50.19 10:43:53.00  Durée 00:00:02.06  Lisibilité 34
+#Novembro de 1960,#
+
+ 688: 10:43:53.04 10:43:56.15  Durée 00:00:03.11  Lisibilité 52
+#o doutor Félix Roland Moumié,#
+#opositor de Ahidjo,#
+
+ 689: 10:43:56.19 10:43:58.18  Durée 00:00:01.24  Lisibilité 29
+#refugiou-se em Genebra,
+na Suíça.#
+
+ 690: 10:44:01.00 10:44:03.17  Durée 00:00:02.17  Lisibilité 40
+#Ele aceita encontrar
+um jornalista francês#
+
+ 691: 10:44:03.22 10:44:07.08  Durée 00:00:03.11  Lisibilité 52
+#para uma entrevista
+num restaurante do Centro Histórico.#
+
+ 692: 10:44:11.08 10:44:14.00  Durée 00:00:02.17  Lisibilité 40
+#O que ele não sabe
+é que esse jornalista#
+
+ 693: 10:44:14.05 10:44:16.11  Durée 00:00:02.06  Lisibilité 34
+#é um agente
+do serviço secreto francês.#
+
+ 694: 10:44:18.10 10:44:21.21  Durée 00:00:03.11  Lisibilité 52
+#Ao pedido insistente de Foccart
+pressionado pelo amigo#
+
+ 695: 10:44:22.01 10:44:23.02  Durée 00:00:01.01  Lisibilité 16
+#Ahmadou Ahidjo,#
+
+ 696: 10:44:23.06 10:44:26.21  Durée 00:00:03.15  Lisibilité 54
+#o governo francês autorizou
+uma operação "Homo",#
+
+ 697: 10:44:27.01 10:44:28.22  Durée 00:00:01.21  Lisibilité 28
+#"Homo" para homicídio.#
+
+ 698: 10:44:30.01 10:44:30.23  Durée 00:00:00.22  Lisibilité 13
+#Durante o almoço,#
+
+ 699: 10:44:31.02 10:44:34.00  Durée 00:00:02.23  Lisibilité 44
+#o espião consegue 2 vezes
+pôr veneno de rato#
+
+ 700: 10:44:34.04 10:44:36.07  Durée 00:00:02.03  Lisibilité 32
+#no copo do Dr. Moumié.#
+
+ 701: 10:44:36.12 10:44:37.14  Durée 00:00:01.02  Lisibilité 16
+#A dose é forte,#
+
+ 702: 10:44:37.19 10:44:40.00  Durée 00:00:02.06  Lisibilité 34
+#a vítima é levada rápido
+ao hospital#
+
+ 703: 10:44:40.04 10:44:41.23  Durée 00:00:01.19  Lisibilité 26
+#e morre em poucas horas.#
+
+ 704: 10:44:42.07 10:44:44.21  Durée 00:00:02.14  Lisibilité 38
+#A polícia suíça prende
+o agente francês#
+
+ 705: 10:44:45.00 10:44:47.15  Durée 00:00:02.15  Lisibilité 39
+#antes que ele consiga fugir.#
+
+ 706: 10:44:52.06 10:44:55.06  Durée 00:00:03.00  Lisibilité 45
+#A França terá de usar
+tesouros de diplomacia#
+
+ 707: 10:44:55.10 10:44:58.19  Durée 00:00:03.09  Lisibilité 50
+#para acalmar a Justiça suíça
+e abafar o caso.#
+
+ 708: 10:45:00.09 10:45:02.05  Durée 00:00:01.21  Lisibilité 28
+#Sejam quais forem os meios#
+
+ 709: 10:45:02.09 10:45:04.09  Durée 00:00:02.00  Lisibilité 30
+#do núcleo africano do Eliseu,#
+
+ 710: 10:45:04.13 10:45:06.04  Durée 00:00:01.16  Lisibilité 25
+#as ações secretas julgadas#
+
+ 711: 10:45:06.09 10:45:10.06  Durée 00:00:03.22  Lisibilité 58
+#aceitáveis para preservar
+os interesses franceses na África,#
+
+ 712: 10:45:10.11 10:45:12.04  Durée 00:00:01.18  Lisibilité 26
+#nunca serão suficientes.#
+
+ 713: 10:45:14.00 10:45:16.20  Durée 00:00:02.20  Lisibilité 42
+#E a França deverá,
+para manter sua influência,#
+
+ 714: 10:45:16.24 10:45:19.01  Durée 00:00:02.02  Lisibilité 31
+#ser cada vez mais atuante#
+
+ 715: 10:45:19.06 10:45:21.23  Durée 00:00:02.17  Lisibilité 40
+#e ir cada vez mais longe
+no compromisso.#
+
+ 716: 10:45:30.12 10:45:31.14  Durée 00:00:01.02  Lisibilité 16
+#Em agosto de 1963,#
+
+ 717: 10:45:32.15 10:45:35.06  Durée 00:00:02.16  Lisibilité 40
+#o extravagante Youlou
+é derrubado por uma revolução#
+
+ 718: 10:45:35.11 10:45:37.24  Durée 00:00:02.13  Lisibilité 38
+#após tentar impor ao Congo#
+
+ 719: 10:45:38.03 10:45:41.03  Durée 00:00:03.00  Lisibilité 45
+#um regime de partido único.#
+
+ 720: 10:45:44.01 10:45:46.03  Durée 00:00:02.02  Lisibilité 31
+#O novo governo,#
+#pró-soviético,#
+
+ 721: 10:45:46.07 10:45:48.18  Durée 00:00:02.11  Lisibilité 37
+#será derrubado 5 anos depois,#
+
+ 722: 10:45:48.22 10:45:51.04  Durée 00:00:02.07  Lisibilité 34
+#após um golpe
+que trará o país de volta#
+
+ 723: 10:45:51.09 10:45:52.19  Durée 00:00:01.10  Lisibilité 21
+#ao seio francês.#
+
+ 724: 10:45:56.13 10:45:58.02  Durée 00:00:01.14  Lisibilité 23
+#No ano seguinte,#
+
+ 725: 10:45:58.07 10:46:01.06  Durée 00:00:02.24  Lisibilité 44
+#Léon Mba, no Gabão,
+é derrubado por um golpe,#
+
+ 726: 10:46:01.10 10:46:04.22  Durée 00:00:03.12  Lisibilité 52
+#após tentar, ele também,
+impor um partido único.#
+
+ 727: 10:46:06.20 10:46:09.23  Durée 00:00:03.03  Lisibilité 47
+#A França intervém militarmente
+para restaurar o governo,#
+
+ 728: 10:46:10.02 10:46:13.03  Durée 00:00:03.01  Lisibilité 46
+#e no ano seguinte
+o obriga a passar o poder#
+
+ 729: 10:46:13.07 10:46:15.07  Durée 00:00:02.00  Lisibilité 30
+#a um de seus ministros,#
+
+ 730: 10:46:15.12 10:46:17.00  Durée 00:00:01.13  Lisibilité 23
+#Omar Bongo.#
+
+ 731: 10:46:17.04 10:46:20.06  Durée 00:00:03.02  Lisibilité 46
+#Bongo dirigirá o país até 2009,
+e a França aturará#
+
+ 732: 10:46:20.10 10:46:22.24  Durée 00:00:02.14  Lisibilité 38
+#todos os seus caprichos.#
+
+ 733: 10:46:26.06 10:46:28.10  Durée 00:00:02.04  Lisibilité 32
+#Em 31 de dezembro de 1965,#
+
+ 734: 10:46:29.13 10:46:31.15  Durée 00:00:02.02  Lisibilité 31
+#o presidente centrafricano
+David Dacko#
+
+ 735: 10:46:31.20 10:46:34.23  Durée 00:00:03.03  Lisibilité 47
+#também é derrubado,#
+
+ 736: 10:46:35.03 10:46:37.04  Durée 00:00:02.01  Lisibilité 31
+#dessa vez pelo próprio primo,#
+
+ 737: 10:46:37.09 10:46:38.24  Durée 00:00:01.15  Lisibilité 24
+#Jean-Bedel Bokassa.#
+
+ 738: 10:46:41.11 10:46:44.11  Durée 00:00:03.00  Lisibilité 45
+#É um ex-militar
+das tropas coloniais francesas,#
+
+ 739: 10:46:44.15 10:46:47.13  Durée 00:00:02.23  Lisibilité 44
+#que serviu nas Forças Francesas
+Livres, na Indochina#
+
+ 740: 10:46:47.17 10:46:48.23  Durée 00:00:01.06  Lisibilité 19
+#e na Argélia.#
+
+ 741: 10:46:49.03 10:46:50.02  Durée 00:00:00.24  Lisibilité 14
+#Na independência,#
+
+ 742: 10:46:50.06 10:46:52.17  Durée 00:00:02.11  Lisibilité 37
+#ele se torna conselheiro militar,#
+
+ 743: 10:46:52.21 10:46:54.22  Durée 00:00:02.01  Lisibilité 31
+#depois chefe de estado-maior.#
+
+ 744: 10:46:55.01 10:46:57.22  Durée 00:00:02.21  Lisibilité 43
+#Quando ele toma o poder#
+#não é apoiado por Paris,#
+
+ 745: 10:46:58.02 10:47:00.24  Durée 00:00:02.22  Lisibilité 43
+#e surpreende Foccart e suas redes.#
+
+ 746: 10:47:02.05 10:47:06.12  Durée 00:00:04.07  Lisibilité 64
+Foccart, finalmente, nós podemos
+aturar esse Bokassa.
+
+ 747: 10:47:06.16 10:47:09.01  Durée 00:00:02.10  Lisibilité 36
+Ele é meio simplório,
+mas ama a França.
+
+ 748: 10:47:09.05 10:47:11.07  Durée 00:00:02.02  Lisibilité 31
+E ele lutou por nós
+
+ 749: 10:47:11.12 10:47:12.11  Durée 00:00:00.24  Lisibilité 14
+na guerra.
+
+ 750: 10:47:12.15 10:47:15.19  Durée 00:00:03.04  Lisibilité 47
+General, Bokassa é brutal.
+Temos de ser prudentes,
+
+ 751: 10:47:15.23 10:47:17.16  Durée 00:00:01.18  Lisibilité 26
+ele pode nos constranger.
+
+ 752: 10:47:17.21 10:47:20.12  Durée 00:00:02.16  Lisibilité 40
+E como ele nos constrangeria?
+
+ 753: 10:47:20.17 10:47:23.11  Durée 00:00:02.19  Lisibilité 41
+Ele começou
+uma repressão muito feroz.
+
+ 754: 10:47:23.15 10:47:25.13  Durée 00:00:01.23  Lisibilité 29
+Logo será um incômodo
+para nós.
+
+ 755: 10:47:25.17 10:47:27.09  Durée 00:00:01.17  Lisibilité 25
+Veremos.
+
+ 756: 10:47:27.13 10:47:29.00  Durée 00:00:01.12  Lisibilité 22
+Eu o conheci, sabe.
+
+ 757: 10:47:29.05 10:47:31.17  Durée 00:00:02.12  Lisibilité 37
+Ele me chamou de "papai"
+em público.
+
+ 758: 10:47:31.22 10:47:35.09  Durée 00:00:03.12  Lisibilité 52
+Tive de explicar a ele
+que essa afeição me comoveu,
+
+ 759: 10:47:35.13 10:47:38.03  Durée 00:00:02.15  Lisibilité 39
+mas que devia me chamar
+de presidente.
+
+ 760: 10:47:38.07 10:47:39.16  Durée 00:00:01.09  Lisibilité 20
+Ou então, 
+
+ 761: 10:47:39.21 10:47:43.11  Durée 00:00:03.15  Lisibilité 54
+já que você é um ex da França Livre,
+general.
+
+ 762: 10:47:43.16 10:47:46.14  Durée 00:00:02.23  Lisibilité 44
+- O patife é impossível.
+- Sim.
+
+ 763: 10:47:46.19 10:47:50.15  Durée 00:00:03.21  Lisibilité 58
+Mas é um bom patife,
+e ele não é bobo.
+
+ 764: 10:47:51.14 10:47:53.05  Durée 00:00:01.16  Lisibilité 25
+Ele vê bem as coisas.
+
+ 765: 10:47:55.04 10:47:58.17  Durée 00:00:03.13  Lisibilité 53
+#Esse bom patife, que de Gaulle
+também chama de mercenário,#
+
+ 766: 10:47:58.22 10:48:00.17  Durée 00:00:01.20  Lisibilité 27
+#irá dócil
+para o seio francês#
+
+ 767: 10:48:00.21 10:48:03.17  Durée 00:00:02.21  Lisibilité 43
+#contanto que lhe deixem
+fazer o que quiser.#
+
+ 768: 10:48:05.20 10:48:08.13  Durée 00:00:02.18  Lisibilité 41
+#Em 4 de dezembro de 1977,#
+
+ 769: 10:48:08.17 10:48:11.14  Durée 00:00:02.22  Lisibilité 43
+#ele será consagrado imperador.#
+
+ 770: 10:48:12.20 10:48:14.19  Durée 00:00:01.24  Lisibilité 29
+#Tudo nessa sagração fastuosa,#
+
+ 771: 10:48:14.23 10:48:17.09  Durée 00:00:02.11  Lisibilité 37
+#que seria ridícula
+se o regime não fosse#
+
+ 772: 10:48:17.14 10:48:21.04  Durée 00:00:03.15  Lisibilité 54
+#tão sangrento, fará referência
+à de Napoleão I.#
+
+ 773: 10:48:21.18 10:48:23.08  Durée 00:00:01.15  Lisibilité 24
+#A capa do novo imperador,#
+
+ 774: 10:48:23.12 10:48:26.18  Durée 00:00:03.06  Lisibilité 49
+#debruada de arminho,
+feita por Pierre Cardin.#
+
+ 775: 10:48:28.10 10:48:30.23  Durée 00:00:02.13  Lisibilité 38
+#Sua coroa, de ouro maciço,#
+
+ 776: 10:48:31.03 10:48:32.22  Durée 00:00:01.19  Lisibilité 26
+#com 7 mil quilates
+de diamantes,#
+
+ 777: 10:48:33.01 10:48:35.06  Durée 00:00:02.05  Lisibilité 33
+#vale 100 milhões de dólares.#
+
+ 778: 10:48:36.14 10:48:40.01  Durée 00:00:03.12  Lisibilité 52
+#O trono monumental,
+esculpido na França para a ocasião,#
+
+ 779: 10:48:41.18 10:48:45.15  Durée 00:00:03.22  Lisibilité 58
+#a carruagem de bronze puxada
+por 8 cavalos nas ruas de Bangui.#
+
+ 780: 10:48:47.13 10:48:50.13  Durée 00:00:03.00  Lisibilité 45
+#Nenhum chefe de Estado
+ou representante de governo#
+
+ 781: 10:48:50.17 10:48:54.05  Durée 00:00:03.13  Lisibilité 53
+#aceitará assistir à sagração,
+exceto o primeiro-ministro#
+
+ 782: 10:48:54.10 10:48:58.04  Durée 00:00:03.19  Lisibilité 56
+#da Ilha Maurício
+e o ministro francês da Cooperação,#
+
+ 783: 10:48:58.09 10:48:59.21  Durée 00:00:01.12  Lisibilité 22
+#Robert Galley.#
+
+ 784: 10:49:09.24 10:49:10.19  Durée 00:00:00.20  Lisibilité 12
+#2 anos depois,#
+
+ 785: 10:49:11.16 10:49:14.16  Durée 00:00:03.00  Lisibilité 45
+#Bokassa será derrubado
+numa operação relâmpago#
+
+ 786: 10:49:14.20 10:49:16.16  Durée 00:00:01.21  Lisibilité 28
+#do exército francês
+em Bangui.#
+
+ 787: 10:49:16.20 10:49:19.19  Durée 00:00:02.24  Lisibilité 44
+#Sua megalomania, sua brutalidade
+eram impossíveis,#
+
+ 788: 10:49:19.23 10:49:21.22  Durée 00:00:01.24  Lisibilité 29
+#e Paris decidiu encerrá-las.#
+
+ 789: 10:49:26.24 10:49:28.17  Durée 00:00:01.18  Lisibilité 26
+#O melhor dos episódios,#
+
+ 790: 10:49:28.21 10:49:30.05  Durée 00:00:01.09  Lisibilité 20
+#a sagração absurda#
+
+ 791: 10:49:30.09 10:49:33.13  Durée 00:00:03.04  Lisibilité 47
+#de Bokassa I e sua derrubada
+contam a deriva#
+
+ 792: 10:49:33.18 10:49:35.04  Durée 00:00:01.11  Lisibilité 22
+#das relações entre a França#
+
+ 793: 10:49:35.08 10:49:38.16  Durée 00:00:03.08  Lisibilité 50
+#e suas ex-colônias
+da África Subsaariana.#
+
+ 794: 10:49:39.06 10:49:42.02  Durée 00:00:02.21  Lisibilité 43
+#Uma deriva que levará
+os sucessivos governos#
+
+ 795: 10:49:42.07 10:49:44.11  Durée 00:00:02.04  Lisibilité 32
+#da Vª República
+a aceitar o inaceitável#
+
+ 796: 10:49:44.15 10:49:46.18  Durée 00:00:02.03  Lisibilité 32
+#em nome
+dos interesses do país#
+
+ 797: 10:49:46.22 10:49:49.21  Durée 00:00:02.24  Lisibilité 44
+#e mergulhará os países africanos
+num caos político#
+
+ 798: 10:49:50.00 10:49:51.01  Durée 00:00:01.01  Lisibilité 16
+#de vários anos.#
+
+ 799: 10:49:56.19 10:49:59.10  Durée 00:00:02.16  Lisibilité 40
+#Essa influência,
+boa ou ruim, legal ou não,#
+
+ 800: 10:49:59.14 10:50:01.24  Durée 00:00:02.10  Lisibilité 36
+#pós-colonial
+ou simplesmente amical,#
+
+ 801: 10:50:02.03 10:50:04.00  Durée 00:00:01.22  Lisibilité 28
+#a França deve a 2 homens,#
+
+ 802: 10:50:04.04 10:50:05.13  Durée 00:00:01.09  Lisibilité 20
+#o general de Gaulle#
+
+ 803: 10:50:05.17 10:50:09.02  Durée 00:00:03.10  Lisibilité 51
+#e seu principal assessor
+para assuntos africanos,#
+
+ 804: 10:50:09.06 10:50:10.15  Durée 00:00:01.09  Lisibilité 20
+#Jacques Foccart.#
+
+ 805: 10:50:12.02 10:50:15.06  Durée 00:00:03.04  Lisibilité 47
+#Foccart, que controlará
+os assuntos africanos#
+
+ 806: 10:50:15.10 10:50:19.01  Durée 00:00:03.16  Lisibilité 55
+#até a morte de Georges Pompidou,
+em 1974.#
+
+ 807: 10:50:21.12 10:50:24.11  Durée 00:00:02.24  Lisibilité 44
+#Mas, mesmo afastado
+com Giscard e Mitterrand,#
+
+ 808: 10:50:24.15 10:50:27.13  Durée 00:00:02.23  Lisibilité 44
+#a influência de suas redes
+será preponderante.#
+
+ 809: 10:50:38.13 10:50:41.09  Durée 00:00:02.21  Lisibilité 43
+#E meio século
+após as independências africanas,#
+
+ 810: 10:50:41.14 10:50:44.03  Durée 00:00:02.14  Lisibilité 38
+#quando a Françáfrica
+terá desaparecido,#
+
+ 811: 10:50:45.03 10:50:47.12  Durée 00:00:02.09  Lisibilité 35
+#os laços entre França
+e África continuarão#
+
+ 812: 10:50:47.17 10:50:49.06  Durée 00:00:01.14  Lisibilité 23
+#estreitos, complexos#
+
+ 813: 10:50:49.11 10:50:52.01  Durée 00:00:02.15  Lisibilité 39
+#e serão marcados
+por intervenções militares#
+
+ 814: 10:50:52.05 10:50:54.18  Durée 00:00:02.13  Lisibilité 38
+#e escândalos
+de repercussões variadas.#
+
+ 815: 10:51:31.13 10:51:35.00  Durée 00:00:03.12  Lisibilité 52
+Adaptação: Adriana Gasparoni
+Legendagem: ECLAIR
+
