@@ -1,0 +1,3356 @@
+
+   1: 09:01:22.11 09:01:25.03  Duration 09:00:02.17  40
+Tempo Presente
+Programa de reportagens
+
+   2: 09:01:25.07 09:01:26.19  Duration 09:00:01.12  22
+Boa noite a todos.
+
+   3: 09:01:26.23 09:01:28.22  Duration 09:00:01.24  29
+Os responsáveis
+pela segurança em montanha
+
+   4: 09:01:29.01 09:01:31.21  Duration 09:00:02.20  42
+são gente mais avara em emoções,
+
+   5: 09:01:32.00 09:01:34.10  Duration 09:00:02.10  36
+introvertidos
+que não cedem ao alarmismo
+
+   6: 09:01:34.14 09:01:35.20  Duration 09:00:01.06  19
+que criticamos
+da mídia.
+
+   7: 09:01:35.24 09:01:38.03  Duration 09:00:02.04  32
+Porém,
+como ouvirão na reportagem,
+
+   8: 09:01:38.07 09:01:40.06  Duration 09:00:01.24  29
+eles exprimem sua preocupação
+
+   9: 09:01:40.10 09:01:42.22  Duration 09:00:02.12  37
+e descrevem cenários catástrofe
+
+  10: 09:01:43.01 09:01:44.08  Duration 09:00:01.07  19
+que dão arrepios.
+
+  11: 09:01:44.19 09:01:47.24  Duration 09:00:03.05  48
+Este, por exemplo:
+um bloco de pedra que se solta
+
+  12: 09:01:48.03 09:01:50.21  Duration 09:00:02.18  41
+e atinge um ônibus escolar
+numa estrada menor.
+
+  13: 09:01:51.00 09:01:53.00  Duration 09:00:02.00  30
+Ou ainda uma pedra de 10 cm
+
+  14: 09:01:53.04 09:01:55.05  Duration 09:00:02.01  31
+que acerta o para-brisa
+de um carro.
+
+  15: 09:01:55.09 09:01:57.05  Duration 09:00:01.21  28
+É morte quase certa
+do condutor.
+
+  16: 09:01:57.09 09:02:00.01  Duration 09:00:02.17  40
+Pois, é bom saber,
+é meio que um milagre
+
+  17: 09:02:00.05 09:02:02.08  Duration 09:00:02.03  32
+se uma catástrofe
+ainda não causou
+
+  18: 09:02:02.12 09:02:03.24  Duration 09:00:01.12  22
+uma tragédia humana.
+
+  19: 09:02:04.03 09:02:07.01  Duration 09:00:02.23  44
+Sim, é fato, afetadas
+pelo aquecimento global,
+
+  20: 09:02:07.05 09:02:09.12  Duration 09:00:02.07  34
+as montanhas se desagregam
+na Suíça,
+
+  21: 09:02:09.16 09:02:12.15  Duration 09:00:02.24  44
+ameaçando vilarejos
+agora em zona vermelha.
+
+  22: 09:02:12.19 09:02:14.24  Duration 09:00:02.05  33
+Podem ser evacuados
+a qualquer hora,
+
+  23: 09:02:15.03 09:02:17.16  Duration 09:00:02.13  38
+certos moradores
+já tiveram de se mudar.
+
+  24: 09:02:18.03 09:02:20.09  Duration 09:00:02.06  34
+É claro, a Suíça,
+o Valais e as comunas
+
+  25: 09:02:20.13 09:02:22.10  Duration 09:00:01.22  28
+não estão inativos
+na proteção
+
+  26: 09:02:22.14 09:02:24.03  Duration 09:00:01.14  23
+dos moradores dos sopés.
+
+  27: 09:02:24.07 09:02:25.14  Duration 09:00:01.07  19
+Mas ela custa caro.
+
+  28: 09:02:25.18 09:02:28.16  Duration 09:00:02.23  44
+O Valais já anunciou
+que desistirá
+
+  29: 09:02:28.20 09:02:32.18  Duration 09:00:03.23  59
+da manutenção de um terço
+de sua rede rodoviária até 2040.
+
+  30: 09:02:32.22 09:02:34.04  Duration 09:00:01.07  19
+Calcula-se até quanto
+
+  31: 09:02:34.08 09:02:36.12  Duration 09:00:02.04  32
+a vida humana
+merece de investimento
+
+  32: 09:02:36.16 09:02:38.17  Duration 09:00:02.01  31
+em infraestrutura
+para protegê-la.
+
+  33: 09:02:38.21 09:02:42.01  Duration 09:00:03.05  48
+O aquecimento global começa
+a nos atingir em cheio.
+
+  34: 09:02:42.05 09:02:44.16  Duration 09:00:02.11  37
+Reportagem
+de Jean-Daniel Bohnenblust
+
+  35: 09:02:44.22 09:02:45.24  Duration 09:00:01.02  16
+e Christian Fargues.
+
+  36: 09:02:48.19 09:02:50.16  Duration 09:00:01.22  28
+Ai, cacete! Ai, cacete!
+
+  37: 09:03:00.16 09:03:04.01  Duration 09:00:03.10  51
+#Montanhas que se fragmentam
+e ameaçam zonas habitadas.#
+
+  38: 09:03:08.01 09:03:11.12  Duration 09:00:03.11  52
+#Recrudescência de eventos
+meteorológicos extremos.#
+
+  39: 09:03:16.21 09:03:19.13  Duration 09:00:02.17  40
+#Instabilidades de terreno
+acentuando-se.#
+
+  40: 09:03:23.12 09:03:25.16  Duration 09:00:02.04  32
+#Como fazer
+para proteger os homens?#
+
+  41: 09:03:26.23 09:03:29.08  Duration 09:00:02.10  36
+#Quanto a sociedade
+dispõe-se a pagar#
+
+  42: 09:03:29.13 09:03:31.13  Duration 09:00:02.00  30
+#para prevenir a morte de um ser?#
+
+  43: 09:03:35.01 09:03:39.07  Duration 09:00:04.06  64
+Viver em zona vermelha
+
+  44: 09:03:42.23 09:03:44.01  Duration 09:00:01.03  17
+#Os Alpes,#
+
+  45: 09:03:44.05 09:03:47.15  Duration 09:00:03.10  51
+#fascinantes para alguns,
+inquietantes para outros.#
+
+  46: 09:03:47.19 09:03:49.09  Duration 09:00:01.15  24
+#Um meio onde coabitam#
+
+  47: 09:03:49.13 09:03:52.07  Duration 09:00:02.19  41
+#quem vive dia a dia
+com sobressaltos da natureza#
+
+  48: 09:03:52.11 09:03:55.17  Duration 09:00:03.06  49
+#e quem busca um espaço
+de relaxamento e lazer.#
+
+  49: 09:03:59.05 09:04:01.12  Duration 09:00:02.07  34
+#Essa colonização dos vales
+pelo homem#
+
+  50: 09:04:01.17 09:04:04.13  Duration 09:00:02.21  43
+#é um desafio para peritos
+em perigos naturais,#
+
+  51: 09:04:04.17 09:04:06.09  Duration 09:00:01.17  25
+#pois é a ei da gravidade:#
+
+  52: 09:04:06.13 09:04:08.24  Duration 09:00:02.11  37
+#a montanha não fica parada.#
+
+  53: 09:04:12.22 09:04:15.10  Duration 09:00:02.13  38
+Não é pequeno,
+o que cai das montanhas.
+
+  54: 09:04:15.14 09:04:18.06  Duration 09:00:02.17  40
+De fato, tivemos um evento
+bem impressionante.
+
+  55: 09:04:18.10 09:04:20.14  Duration 09:00:02.04  32
+Em janeiro,
+vários milhares de m³,
+
+  56: 09:04:20.18 09:04:23.19  Duration 09:00:03.01  46
+um bloco de 1.500 m³
+e outro de uns mil m³ também
+
+  57: 09:04:24.16 09:04:27.06  Duration 09:00:02.15  39
+desceram e pararam
+no leito do rio
+
+  58: 09:04:27.18 09:04:30.10  Duration 09:00:02.17  40
+a menos de 50 m da ferrovia.
+
+  59: 09:04:30.14 09:04:32.09  Duration 09:00:01.20  27
+Quando você diz 1.500 m³...
+
+  60: 09:04:32.14 09:04:34.02  Duration 09:00:01.13  23
+É une massa de 4.500 t,
+
+  61: 09:04:34.06 09:04:38.19  Duration 09:00:04.13  68
+o que representa, por alto, 120
+grandes caminhões de 40 toneladas.
+
+  62: 09:04:38.23 09:04:42.08  Duration 09:00:03.10  51
+São eventos que, mesmo para nós,
+são impressionantes.
+
+  63: 09:04:47.18 09:04:50.14  Duration 09:00:02.21  43
+Todas as falésias que temos aqui
+são instáveis.
+
+  64: 09:04:50.18 09:04:53.07  Duration 09:00:02.14  38
+Grande parte delas
+monitoramos sempre,
+
+  65: 09:04:53.11 09:04:55.09  Duration 09:00:01.23  29
+mas não podemos vigiar
+
+  66: 09:04:55.14 09:04:59.01  Duration 09:00:03.12  52
+os 10 ou 12 km do traçado.
+
+  67: 09:04:59.06 09:05:00.23  Duration 09:00:01.17  25
+Nunca estamos garantidos.
+
+  68: 09:05:01.02 09:05:03.09  Duration 09:00:02.07  34
+Nós previmos?
+Sabemos de onde saíram?
+
+  69: 09:05:03.13 09:05:05.22  Duration 09:00:02.09  35
+Não, não previmos,
+
+  70: 09:05:06.01 09:05:09.06  Duration 09:00:03.05  48
+senão evacuaríamos preventivamente,
+e não o fizemos.
+
+  71: 09:05:09.10 09:05:13.03  Duration 09:00:03.18  56
+São eventos muito difíceis
+de antecipar para nós.
+
+  72: 09:05:13.07 09:05:16.12  Duration 09:00:03.05  48
+De onde saiu? Sim.
+Fizemos estudos geológicos
+
+  73: 09:05:16.16 09:05:20.08  Duration 09:00:03.17  55
+para evitar que um evento desse tipo
+se reproduzisse,
+
+  74: 09:05:20.12 09:05:21.22  Duration 09:00:01.10  21
+mas não o previmos.
+
+  75: 09:05:23.10 09:05:27.01  Duration 09:00:03.16  55
+#Pascal Stoebener é responsável
+por perigos naturais no Valais.#
+
+  76: 09:05:27.05 09:05:30.14  Duration 09:00:03.09  50
+#Sua rotina: proteger homens,
+vilarejos, estradas,#
+
+  77: 09:05:30.18 09:05:33.17  Duration 09:00:02.24  44
+#planejando a construção
+de obras de proteção.#
+
+  78: 09:05:34.11 09:05:36.04  Duration 09:00:01.18  26
+Com maioria
+de vales laterais,
+
+  79: 09:05:36.08 09:05:38.02  Duration 09:00:01.19  26
+são vales muito fechados,
+
+  80: 09:05:38.06 09:05:41.01  Duration 09:00:02.20  42
+onde encontramos
+os problemas de origem natural
+
+  81: 09:05:41.05 09:05:42.04  Duration 09:00:00.24  14
+possíveis.
+
+  82: 09:05:42.08 09:05:44.19  Duration 09:00:02.11  37
+Temos quedas de pedras,
+avalanches,
+
+  83: 09:05:44.23 09:05:46.14  Duration 09:00:01.16  25
+torrentes, inundações,
+
+  84: 09:05:46.18 09:05:49.02  Duration 09:00:02.09  35
+com o Vièze que fica a jusante.
+
+  85: 09:05:50.15 09:05:52.00  Duration 09:00:01.10  21
+As vertentes
+são abruptas.
+
+  86: 09:05:52.04 09:05:55.02  Duration 09:00:02.23  44
+Temos falésias
+com centenas de metros de altura,
+
+  87: 09:05:55.06 09:05:57.05  Duration 09:00:01.24  29
+com rochas bem fragmentadas.
+
+  88: 09:05:57.09 09:06:00.19  Duration 09:00:03.10  51
+E temos as 2 vias de comunicação
+em lados diferentes,
+
+  89: 09:06:00.23 09:06:03.07  Duration 09:00:02.09  35
+isto é, de um lado
+a estrada cantonal,
+
+  90: 09:06:03.11 09:06:07.01  Duration 09:00:03.15  54
+do outro lado, a via
+do Matterhorn Gotthard Bahn,
+
+  91: 09:06:07.05 09:06:08.19  Duration 09:00:01.14  23
+e as 2 estão expostas.
+
+  92: 09:06:08.23 09:06:11.08  Duration 09:00:02.10  36
+E devemos proteger
+as duas em paralelo,
+
+  93: 09:06:11.12 09:06:13.07  Duration 09:00:01.20  27
+e cada uma
+de um lado do vale.
+
+  94: 09:06:13.12 09:06:14.16  Duration 09:00:01.04  17
+Não é só perigo,
+
+  95: 09:06:14.20 09:06:18.15  Duration 09:00:03.20  57
+mas é um dos vales mais expostos
+que temos no cantão,
+
+  96: 09:06:18.19 09:06:20.11  Duration 09:00:01.17  25
+provavelmente
+até na Suíça.
+
+  97: 09:06:21.16 09:06:24.03  Duration 09:00:02.12  37
+Além disso,
+há um tráfego bem intenso
+
+  98: 09:06:24.07 09:06:26.23  Duration 09:00:02.16  40
+por causa do turismo em Zermatt.
+
+  99: 09:06:28.04 09:06:31.06  Duration 09:00:03.02  46
+Então é um vale
+que concentra nossa atenção.
+
+ 100: 09:06:33.00 09:06:34.11  Duration 09:00:01.11  22
+#Vilarejos a 1.300 m#
+
+ 101: 09:06:34.15 09:06:36.19  Duration 09:00:02.04  32
+#e acima,
+picos a mais de 4 mil.#
+
+ 102: 09:06:37.17 09:06:41.10  Duration 09:00:03.18  56
+#O Vale de Zermatt paga
+um tributo alto aos perigos naturais.#
+
+ 103: 09:06:41.14 09:06:44.10  Duration 09:00:02.21  43
+#O desmoronamento espetacular
+de Randa, em 1991,#
+
+ 104: 09:06:44.14 09:06:47.04  Duration 09:00:02.15  39
+#enterrou a estrada e a ferrovia.#
+
+ 105: 09:06:47.08 09:06:49.19  Duration 09:00:02.11  37
+#Por sorte,
+não fez nenhuma vítima.#
+
+ 106: 09:06:53.14 09:06:54.09  Duration 09:00:00.20  12
+#Todo ano#
+
+ 107: 09:06:54.14 09:06:57.04  Duration 09:00:02.15  39
+#é preciso lidar
+com o que cai dos picos.#
+
+ 108: 09:06:57.08 09:06:58.18  Duration 09:00:01.10  21
+Janeiro de 2018
+Imagem GeoPraevent
+
+ 109: 09:07:00.11 09:07:02.00  Duration 09:00:01.14  23
+#No inverno passado,#
+
+ 110: 09:07:02.05 09:07:05.23  Duration 09:00:03.18  56
+#os turistas foram obrigados
+a deixar Zermatt de helicóptero.#
+
+ 111: 09:07:07.01 09:07:09.13  Duration 09:00:02.12  37
+#Já a população local
+prefere minimizar.#
+
+ 112: 09:07:11.01 09:07:13.04  Duration 09:00:02.03  32
+Sempre vivemos
+com eventos naturais,
+
+ 113: 09:07:13.08 09:07:15.04  Duration 09:00:01.21  28
+mas não nos tocamos
+de verdade
+
+ 114: 09:07:15.08 09:07:18.18  Duration 09:00:03.10  51
+que com o aquecimento global,
+e o permafrost derretendo
+
+ 115: 09:07:18.22 09:07:19.20  Duration 09:00:00.23  14
+a situação mudou.
+
+ 116: 09:07:27.11 09:07:30.07  Duration 09:00:02.21  43
+#Aqui, diques estendem-se
+por quilômetros.#
+
+ 117: 09:07:30.18 09:07:32.13  Duration 09:00:01.20  27
+#Vilarejos menos famosos#
+
+ 118: 09:07:32.17 09:07:34.21  Duration 09:00:02.04  32
+#aprenderam a viver
+com os perigos.#
+
+ 119: 09:07:37.08 09:07:41.06  Duration 09:00:03.23  59
+#Edmund Summermatter
+é de Herbriggen.#
+
+ 120: 09:07:41.10 09:07:43.00  Duration 09:00:01.15  24
+#No nono dia de cada mês,#
+
+ 121: 09:07:43.04 09:07:45.14  Duration 09:00:02.10  36
+#ele observa uma tradição
+muito querida.#
+
+ 122: 09:08:06.12 09:08:08.02  Duration 09:00:01.15  24
+É uma tradição nascida
+
+ 123: 09:08:08.06 09:08:10.05  Duration 09:00:01.24  29
+após o vilarejo
+poder voltar para casa.
+
+ 124: 09:08:10.09 09:08:13.13  Duration 09:00:03.04  47
+A paróquia, o padre,
+a comuna, a população,
+
+ 125: 09:08:13.17 09:08:16.20  Duration 09:00:03.03  47
+decidiram fazer daqui
+um local de oração.
+
+ 126: 09:08:18.11 09:08:21.04  Duration 09:00:02.18  41
+Para proteger o vilarejo,
+homenageiam Maria.
+
+ 127: 09:08:21.08 09:08:24.18  Duration 09:00:03.10  51
+Ela deve proteger nosso vilarejo
+para nada mais descer.
+
+ 128: 09:08:26.13 09:08:27.18  Duration 09:00:01.05  18
+É uma tradição.
+
+ 129: 09:08:27.22 09:08:31.10  Duration 09:00:03.13  53
+Cada dia do mês,
+uma família sobe do vilarejo
+
+ 130: 09:08:31.14 09:08:34.16  Duration 09:00:03.02  46
+e acende uma, duas ou três velas.
+
+ 131: 09:08:35.21 09:08:38.14  Duration 09:00:02.18  41
+É importante para vocês
+fazerem isso?
+
+ 132: 09:08:38.19 09:08:40.01  Duration 09:00:01.07  19
+Sim, sim. Muito.
+
+ 133: 09:08:40.05 09:08:42.05  Duration 09:00:02.00  30
+Acho que não tem um dia no mês
+
+ 134: 09:08:42.09 09:08:44.08  Duration 09:00:01.24  29
+em que uma vela
+não brilhe aqui.
+
+ 135: 09:08:45.06 09:08:47.13  Duration 09:00:02.07  34
+Até agora, isso nos ajudou.
+
+ 136: 09:08:55.07 09:08:59.19  Duration 09:00:04.12  67
+#Essa tradição teve origem
+num evento do inverno de 1959.#
+
+ 137: 09:09:01.24 09:09:04.07  Duration 09:00:02.08  35
+#Sobrevoando a montanha
+acima da vila,#
+
+ 138: 09:09:04.11 09:09:08.11  Duration 09:00:04.00  60
+#o piloto Hermann Geiger descobre
+uma situação bem preocupante.#
+
+ 139: 09:09:08.15 09:09:10.09  Duration 09:00:01.19  26
+#Uma massa de rochas
+da geleira#
+
+ 140: 09:09:10.13 09:09:13.06  Duration 09:00:02.18  41
+#ameaça desmoronar
+sobre Herbriggen.#
+
+ 141: 09:09:13.10 09:09:17.07  Duration 09:00:03.22  58
+#Alarmadas, as imprensas
+suíças e europeias cobrem o evento.#
+
+ 142: 09:09:24.00 09:09:25.17  Duration 09:00:01.17  25
+Claro que alguns
+tiveram medo.
+
+ 143: 09:09:25.21 09:09:29.01  Duration 09:00:03.05  48
+Muita gente também disse
+que nada desmoronaria.
+
+ 144: 09:09:29.05 09:09:30.14  Duration 09:00:01.09  20
+É sempre assim.
+
+ 145: 09:09:30.18 09:09:32.10  Duration 09:00:01.17  25
+Metade diz isto,
+metade aquilo.
+
+ 146: 09:09:33.18 09:09:35.04  Duration 09:00:01.11  22
+"Medo", não posso dizer.
+
+ 147: 09:09:35.08 09:09:37.14  Duration 09:00:02.06  34
+Meu pai não tinha medo.
+Nem eu.
+
+ 148: 09:09:37.18 09:09:39.07  Duration 09:00:01.14  23
+Como muitos outros.
+
+ 149: 09:09:39.11 09:09:40.20  Duration 09:00:01.09  20
+Mas tivemos de evacuar.
+
+ 150: 09:09:40.24 09:09:43.07  Duration 09:00:02.08  35
+Não tivemos escolha.
+Foi uma ordem.
+
+ 151: 09:09:43.11 09:09:45.06  Duration 09:00:01.20  27
+Tínhamos de sair,
+senão, é provável,
+
+ 152: 09:09:45.10 09:09:49.04  Duration 09:00:03.19  56
+"é provável" não, com certeza,
+nem todos sairiam.
+
+ 153: 09:09:50.20 09:09:52.15  Duration 09:00:01.20  27
+Não vivemos com medo.
+
+ 154: 09:09:52.19 09:09:54.17  Duration 09:00:01.23  29
+As rochas sempre estiveram lá.
+
+ 155: 09:09:54.21 09:09:57.11  Duration 09:00:02.15  39
+Sempre houve
+quedas de pedras eventuais.
+
+ 156: 09:09:57.15 09:09:58.16  Duration 09:00:01.01  16
+Vivemos com isso.
+
+ 157: 09:09:59.07 09:10:02.02  Duration 09:00:02.20  42
+#Evacuado pelo exército,
+o vilarejo aguarda.#
+
+ 158: 09:10:02.06 09:10:04.08  Duration 09:00:02.02  31
+#Mas no alto
+as rochas em movimento#
+
+ 159: 09:10:04.13 09:10:08.05  Duration 09:00:03.17  55
+#param 50 m antes de cair no vazio,
+em cima das casas.#
+
+ 160: 09:10:08.09 09:10:10.11  Duration 09:00:02.02  31
+#Desde então,
+agradecem à Virgem.#
+
+ 161: 09:10:12.16 09:10:14.19  Duration 09:00:02.03  32
+Tenho uma história
+sobre um vizinho.
+
+ 162: 09:10:15.20 09:10:18.02  Duration 09:00:02.07  34
+Uma noite chegaram
+turistas da Holanda.
+
+ 163: 09:10:18.06 09:10:20.06  Duration 09:00:02.00  30
+Olhando para cima
+e vendo as montanhas,
+
+ 164: 09:10:20.10 09:10:21.22  Duration 09:00:01.12  22
+eles foram embora.
+
+ 165: 09:10:42.22 09:10:45.07  Duration 09:00:02.10  36
+#Hoje em dia,
+a história não terminou.#
+
+ 166: 09:10:45.11 09:10:48.06  Duration 09:00:02.20  42
+#Gugla, a geleira rochosa,
+ainda ameaça a vila#
+
+ 167: 09:10:48.10 09:10:50.24  Duration 09:00:02.14  38
+#e é constantemente monitorada.#
+
+ 168: 09:10:51.03 09:10:53.16  Duration 09:00:02.13  38
+#O sítio, um laboratório
+a céu aberto,#
+
+ 169: 09:10:53.20 09:10:56.04  Duration 09:00:02.09  35
+#é seguido com atenção
+por Raphaël Mayoraz,#
+
+ 170: 09:10:56.08 09:10:57.23  Duration 09:00:01.15  24
+#o geólogo cantonal.#
+
+ 171: 09:10:59.01 09:11:01.06  Duration 09:00:02.05  33
+#O inverno passado deixou marcas.#
+
+ 172: 09:11:04.17 09:11:07.05  Duration 09:00:02.13  38
+Viu? Isso arrancou a rocha.
+
+ 173: 09:11:07.09 09:11:08.09  Duration 09:00:01.00  15
+Não sobrou nada!
+
+ 174: 09:11:09.19 09:11:12.06  Duration 09:00:02.12  37
+#Mistura profunda
+de pedras e gelo,#
+
+ 175: 09:11:12.10 09:11:15.16  Duration 09:00:03.06  49
+#uma geleira rochosa
+geralmente avança 50 cm por ano,#
+
+ 176: 09:11:15.20 09:11:17.10  Duration 09:00:01.15  24
+#como uma esteira rolante.#
+
+ 177: 09:11:18.08 09:11:19.21  Duration 09:00:01.13  23
+#essa é muito ativa.#
+
+ 178: 09:11:20.00 09:11:24.11  Duration 09:00:04.11  67
+#Em certos pontos, sua velocidade
+é de 14 metros por ano.#
+
+ 179: 09:11:24.15 09:11:26.18  Duration 09:00:02.03  32
+Digamos que isso é uma esponja,
+
+ 180: 09:11:26.22 09:11:30.05  Duration 09:00:03.08  50
+tem muitos buracos dentro,
+a chamada "porosidade",
+
+ 181: 09:11:30.09 09:11:33.05  Duration 09:00:02.21  43
+e estamos numa bacia hidrográfica,
+numa cuba,
+
+ 182: 09:11:33.09 09:11:35.15  Duration 09:00:02.06  34
+que recolhe toda a neve
+que derrete
+
+ 183: 09:11:35.19 09:11:37.11  Duration 09:00:01.17  25
+e se acumula
+nessa esponja.
+
+ 184: 09:11:37.15 09:11:39.09  Duration 09:00:01.19  26
+Após um tempo
+a esponja enche
+
+ 185: 09:11:39.13 09:11:41.02  Duration 09:00:01.14  23
+e vai cuspir água,
+
+ 186: 09:11:41.06 09:11:42.17  Duration 09:00:01.11  22
+vai ficar sob pressão,
+
+ 187: 09:11:42.21 09:11:45.16  Duration 09:00:02.20  42
+e na frente da geleira
+ela vai deixar sair
+
+ 188: 09:11:45.20 09:11:47.11  Duration 09:00:01.16  25
+o chamado
+fluxo de detritos,
+
+ 189: 09:11:47.15 09:11:50.16  Duration 09:00:03.01  46
+que no começo não é forte
+em termos de volume,
+
+ 190: 09:11:50.20 09:11:53.09  Duration 09:00:02.14  38
+mas que vai acumulando
+pedras, detritos,
+
+ 191: 09:11:53.13 09:11:55.02  Duration 09:00:01.14  23
+terra e cascalho.
+
+ 192: 09:11:55.06 09:11:57.14  Duration 09:00:02.08  35
+Aqui temos um fluxo de detritos
+
+ 193: 09:11:57.18 09:11:59.19  Duration 09:00:02.01  31
+com talvez 500 m³ no começo,
+
+ 194: 09:11:59.23 09:12:02.08  Duration 09:00:02.10  36
+e arrastando tudo,
+embaixo terá 5 mil m³.
+
+ 195: 09:12:02.12 09:12:04.09  Duration 09:00:01.22  28
+São ordens de grandeza típicas
+
+ 196: 09:12:04.13 09:12:06.11  Duration 09:00:01.23  29
+para esses fluxos de detritos.
+
+ 197: 09:12:06.15 09:12:08.02  Duration 09:00:01.12  22
+Quando a neve derrete
+
+ 198: 09:12:08.06 09:12:10.03  Duration 09:00:01.22  28
+é o período mais delicado,
+
+ 199: 09:12:10.07 09:12:12.14  Duration 09:00:02.07  34
+porque é aí,
+mesmo se não vemos nada,
+
+ 200: 09:12:12.18 09:12:15.01  Duration 09:00:02.08  35
+que a geleira rochosa enche.
+
+ 201: 09:12:15.05 09:12:17.00  Duration 09:00:01.20  27
+E se ainda cair um temporal,
+
+ 202: 09:12:17.04 09:12:20.17  Duration 09:00:03.13  53
+é facilmente a gota d’água.
+
+ 203: 09:12:20.21 09:12:23.18  Duration 09:00:02.22  43
+Mesmo que tenhamos visto aqui,
+em 2013,
+
+ 204: 09:12:23.22 09:12:25.15  Duration 09:00:01.18  26
+fluxos torrenciais começarem
+
+ 205: 09:12:25.19 09:12:26.19  Duration 09:00:01.00  15
+com tempo ótimo.
+
+ 206: 09:12:34.21 09:12:38.06  Duration 09:00:03.10  51
+Aqui é a altura da ruptura
+de declive da geleira rochosa,
+
+ 207: 09:12:38.10 09:12:42.11  Duration 09:00:04.01  61
+significa que aqui passamos
+da superfície, com os blocos grandes,
+
+ 208: 09:12:42.15 09:12:45.15  Duration 09:00:03.00  45
+com a frente,
+que é como uma frente glaciar,
+
+ 209: 09:12:45.19 09:12:47.06  Duration 09:00:01.12  22
+bem mais íngreme,
+
+ 210: 09:12:47.10 09:12:49.14  Duration 09:00:02.04  32
+chegamos quase a declives
+de 35, 40 graus.
+
+ 211: 09:12:49.18 09:12:52.06  Duration 09:00:02.13  38
+E vemos bem,
+com a diferença de cores,
+
+ 212: 09:12:52.10 09:12:54.03  Duration 09:00:01.18  26
+com as pedras cinza
+no alto,
+
+ 213: 09:12:54.07 09:12:58.17  Duration 09:00:04.10  66
+e chegamos a zonas de terra,
+que é mais marrom, assim.
+
+ 214: 09:12:58.22 09:13:01.22  Duration 09:00:03.00  45
+Quando ela é marrom escuro assim,
+é que tem água.
+
+ 215: 09:13:02.02 09:13:06.05  Duration 09:00:04.03  62
+E se formos ali
+- é fortemente desaconselhado -,
+
+ 216: 09:13:06.09 09:13:08.17  Duration 09:00:02.08  35
+e cavarmos um pouco essa terra,
+
+ 217: 09:13:08.21 09:13:10.15  Duration 09:00:01.19  26
+vamos achar gelo.
+
+ 218: 09:13:10.19 09:13:12.14  Duration 09:00:01.20  27
+É a frente
+da geleira rochosa.
+
+ 219: 09:13:12.18 09:13:14.18  Duration 09:00:02.00  30
+É por aí que a água percola,
+
+ 220: 09:13:14.22 09:13:18.09  Duration 09:00:03.12  52
+ou seja, que ela se insinua
+na geleira rochosa,
+
+ 221: 09:13:18.13 09:13:19.16  Duration 09:00:01.03  17
+vai poder sair.
+
+ 222: 09:13:19.20 09:13:22.02  Duration 09:00:02.07  34
+E se ela chegar
+com um certo volume
+
+ 223: 09:13:22.06 09:13:23.15  Duration 09:00:01.09  20
+e uma certa pressão,
+
+ 224: 09:13:23.19 09:13:26.01  Duration 09:00:02.07  34
+ela vai provocar
+um fluxo de detritos.
+
+ 225: 09:13:28.18 09:13:31.22  Duration 09:00:03.04  47
+#A centenas de metro de lá,
+outra ameaça.#
+
+ 226: 09:13:32.02 09:13:33.06  Duration 09:00:01.04  17
+#De tanto avançar,#
+
+ 227: 09:13:33.10 09:13:37.00  Duration 09:00:03.15  54
+#esse enorme bloco rochoso
+pode cair no vilarejo.#
+
+ 228: 09:13:37.04 09:13:39.06  Duration 09:00:02.02  31
+#A situação é séria.#
+
+ 229: 09:13:39.11 09:13:42.10  Duration 09:00:02.24  44
+#Uma verdadeira espada de Dâmocles
+para Herbriggen.#
+
+ 230: 09:13:46.02 09:13:50.24  Duration 09:00:04.22  73
+Estamos sobre o bloco
+
+ 231: 09:13:51.03 09:13:53.07  Duration 09:00:02.04  32
+que stá situado
+imediatamente acima
+
+ 232: 09:13:53.11 09:13:54.13  Duration 09:00:01.02  16
+de Herbriggen,
+
+ 233: 09:13:54.17 09:13:58.19  Duration 09:00:04.02  61
+então logo abaixo,
+a cerca de 1.200 metros abaixo,
+
+ 234: 09:13:58.23 09:14:00.13  Duration 09:00:01.15  24
+1.300 metros abaixo.
+
+ 235: 09:14:00.17 09:14:03.16  Duration 09:00:02.24  44
+Há alguns anos,
+notamos que esse bloco se movia,
+
+ 236: 09:14:03.20 09:14:06.24  Duration 09:00:03.04  47
+e como ele está
+bem à beira da ruptura de declive,
+
+ 237: 09:14:07.03 09:14:11.07  Duration 09:00:04.04  62
+é uma ameaça muito séria
+para o vilarejo.
+
+ 238: 09:14:11.12 09:14:14.18  Duration 09:00:03.06  49
+Para estabilizar,
+fizemos grandes obras de contenção.
+
+ 239: 09:14:14.22 09:14:17.09  Duration 09:00:02.12  37
+Vemos as cabeças dos tirantes
+aqui abaixo.
+
+ 240: 09:14:17.13 09:14:20.00  Duration 09:00:02.12  37
+São furos que atravessam o bloco
+
+ 241: 09:14:20.04 09:14:22.08  Duration 09:00:02.04  32
+e se engastam na rocha embaixo.
+
+ 242: 09:14:23.07 09:14:26.02  Duration 09:00:02.20  42
+Depois inserimos um cabo
+e aplicamos pressão
+
+ 243: 09:14:26.06 09:14:30.02  Duration 09:00:03.21  58
+para prender esse bloco
+no subsolo.
+
+ 244: 09:14:30.07 09:14:32.21  Duration 09:00:02.14  38
+O bloco é grande
+como um chalé dos Alpes,
+
+ 245: 09:14:33.00 09:14:34.14  Duration 09:00:01.14  23
+ele tem 700 m³.
+
+ 246: 09:14:34.18 09:14:37.07  Duration 09:00:02.14  38
+Se ele cair, vai se fraturar,
+
+ 247: 09:14:37.11 09:14:42.10  Duration 09:00:04.24  74
+mas ainda teremos blocos
+que podem causar grandes danons.
+
+ 248: 09:14:42.14 09:14:44.03  Duration 09:00:01.14  23
+Esse não se move mais?
+
+ 249: 09:14:44.07 09:14:45.13  Duration 09:00:01.06  19
+Não, ele está preso.
+
+ 250: 09:14:45.17 09:14:47.20  Duration 09:00:02.03  32
+É uma questão de milímetros.
+
+ 251: 09:14:48.07 09:14:50.23  Duration 09:00:02.16  40
+Mas aqui há 150 outros
+do mesmo tipo,
+
+ 252: 09:14:51.02 09:14:52.09  Duration 09:00:01.07  19
+talvez menores,
+na espera.
+
+ 253: 09:14:52.13 09:14:55.19  Duration 09:00:03.06  49
+Por enquanto eles ainda não estão
+muito na beira,
+
+ 254: 09:14:55.24 09:14:57.21  Duration 09:00:01.22  28
+mas temos de nos preocupar,
+
+ 255: 09:14:58.00 09:15:00.20  Duration 09:00:02.20  42
+porque estão chegando devagar
+à beira da mesa.
+
+ 256: 09:15:00.24 09:15:03.06  Duration 09:00:02.07  34
+E à beira da mesa, depois, cai.
+
+ 257: 09:15:05.15 09:15:06.22  Duration 09:00:01.07  19
+Você moraria aqui?
+
+ 258: 09:15:08.17 09:15:12.23  Duration 09:00:04.06  64
+Se eu pudesse escolher,
+moraria em outro lugar.
+
+ 259: 09:15:13.02 09:15:15.06  Duration 09:00:02.04  32
+E não tem muito sol lá embaixo.
+
+ 260: 09:15:17.04 09:15:19.00  Duration 09:00:01.21  28
+#Obrigada a reduzir
+esse risco,#
+
+ 261: 09:15:19.04 09:15:21.10  Duration 09:00:02.06  34
+#a equipe do geólogo
+explodirá a rocha#
+
+ 262: 09:15:21.15 09:15:25.04  Duration 09:00:03.14  53
+#após construir um dique de proteção
+acima do vilarejo.#
+
+ 263: 09:15:26.19 09:15:29.19  Duration 09:00:03.00  45
+#Ela se juntará ao contentor
+de avalanches e fluxos,#
+
+ 264: 09:15:29.24 09:15:31.15  Duration 09:00:01.16  25
+#que é sempre esvaziado#
+
+ 265: 09:15:31.19 09:15:34.03  Duration 09:00:02.09  35
+#para evitar
+que transborde na estrada#
+
+ 266: 09:15:34.07 09:15:36.05  Duration 09:00:01.23  29
+#e numa parte de Herbriggen.#
+
+ 267: 09:15:41.07 09:15:44.06  Duration 09:00:02.24  44
+#Uma publicidade
+que seria bem dispensada, aqui,#
+
+ 268: 09:15:44.11 09:15:46.17  Duration 09:00:02.06  34
+#ainda mais para quem tem hotel.#
+
+ 269: 09:15:49.07 09:15:50.19  Duration 09:00:01.12  22
+Não devemos pensar
+
+ 270: 09:15:50.23 09:15:52.03  Duration 09:00:01.05  18
+negativo.
+
+ 271: 09:15:53.20 09:15:56.08  Duration 09:00:02.13  38
+E ficaria feliz também,
+com as previsões
+
+ 272: 09:15:56.12 09:15:57.21  Duration 09:00:01.09  20
+que são feitas,
+
+ 273: 09:15:58.00 09:16:00.06  Duration 09:00:02.06  34
+com os artigos de imprensa etc.,
+
+ 274: 09:16:00.10 09:16:03.03  Duration 09:00:02.18  41
+que tivéssemos
+um pouco de tranquilidade.
+
+ 275: 09:16:06.05 09:16:10.03  Duration 09:00:03.23  59
+Porque é danoso para nós,
+para os turistas.
+
+ 276: 09:16:10.07 09:16:12.14  Duration 09:00:02.07  34
+Porque sai no jornal,
+
+ 277: 09:16:12.19 09:16:14.17  Duration 09:00:01.23  29
+e não é uma boa publicidade.
+
+ 278: 09:16:27.04 09:16:28.13  Duration 09:00:01.09  20
+Aqui, uma segunda zona
+
+ 279: 09:16:28.17 09:16:31.20  Duration 09:00:03.03  47
+mais ativa em direção
+ao grande bloco foi contida.
+
+ 280: 09:16:32.00 09:16:34.10  Duration 09:00:02.10  36
+#Mas como se identificam
+os perigos?#
+
+ 281: 09:16:34.14 09:16:36.17  Duration 09:00:02.03  32
+#Do alto. De muito alto, até.#
+
+ 282: 09:16:37.01 09:16:40.11  Duration 09:00:03.10  51
+#A Suíça é regularmente sobrevoada
+por vários satélites,#
+
+ 283: 09:16:40.15 09:16:41.24  Duration 09:00:01.09  20
+#com imagens analisadas#
+
+ 284: 09:16:42.04 09:16:44.04  Duration 09:00:02.00  30
+#na Agência Federal do Ambiente.#
+
+ 285: 09:16:44.08 09:16:48.07  Duration 09:00:03.24  59
+#Foi aqui que identificaram
+a ameaça da rocha de Herbriggen.#
+
+ 286: 09:16:48.19 09:16:51.02  Duration 09:00:02.08  35
+Temos uma resolução aqui
+de 5 metros,
+
+ 287: 09:16:51.06 09:16:55.20  Duration 09:00:04.14  68
+então é resolução espacial.
+
+ 288: 09:16:55.24 09:16:58.06  Duration 09:00:02.07  34
+E em movimento diferencial,
+
+ 289: 09:16:58.10 09:17:01.02  Duration 09:00:02.17  40
+já vemos alguns milímetros
+de deslocamento.
+
+ 290: 09:17:01.06 09:17:04.24  Duration 09:00:03.18  56
+Podemos usá-lo
+como detecção de instabilidade,
+
+ 291: 09:17:05.03 09:17:06.09  Duration 09:00:01.06  19
+porque hoje na Suíça
+
+ 292: 09:17:06.13 09:17:08.00  Duration 09:00:01.12  22
+não conhecemos
+todas elas
+
+ 293: 09:17:08.04 09:17:11.04  Duration 09:00:03.00  45
+e não sabemos os movimentos
+dessas instabilidades.
+
+ 294: 09:17:11.23 09:17:15.06  Duration 09:00:03.08  50
+Então também podemos detectar
+novas instabilidades.
+
+ 295: 09:17:15.10 09:17:18.00  Duration 09:00:02.15  39
+E com a tecnologia atual,
+
+ 296: 09:17:18.04 09:17:22.05  Duration 09:00:04.01  61
+em que os dados são transmitidos
+cada vez mais rápido,
+
+ 297: 09:17:22.09 09:17:25.24  Duration 09:00:03.15  54
+é possível fazer
+uma espécie de monitoramento,
+
+ 298: 09:17:26.03 09:17:27.22  Duration 09:00:01.19  26
+e em escala de dias,
+
+ 299: 09:17:28.01 09:17:30.17  Duration 09:00:02.16  40
+talvez possamos até ajudar
+no monitoramento,
+
+ 300: 09:17:30.21 09:17:31.21  Duration 09:00:01.00  15
+em geral local.
+
+ 301: 09:17:32.00 09:17:35.09  Duration 09:00:03.09  50
+Se houver problema de deslizamento
+acima de Herbriggen,
+
+ 302: 09:17:35.13 09:17:39.04  Duration 09:00:03.16  55
+também há outros sensores,
+instrumentos de medida locais,
+
+ 303: 09:17:39.08 09:17:41.01  Duration 09:00:01.18  26
+atualmente, GPS,
+
+ 304: 09:17:41.05 09:17:45.21  Duration 09:00:04.16  70
+e aí, podemos ajudar
+esses sensores que estão no local.
+
+ 305: 09:17:46.01 09:17:48.14  Duration 09:00:02.13  38
+Imagino que quando vocês medem
+algo aqui,
+
+ 306: 09:17:48.18 09:17:50.22  Duration 09:00:02.04  32
+essa informação
+é enviada ao local.
+
+ 307: 09:17:51.01 09:17:54.13  Duration 09:00:03.12  52
+É. Nós a enviamos
+para o cantão e para a comuna,
+
+ 308: 09:17:54.18 09:17:59.00  Duration 09:00:04.07  64
+e depois eles monitoram
+com os instrumentos locais.
+
+ 309: 09:18:01.00 09:18:02.02  Duration 09:00:01.02  16
+#Só no Valais,#
+
+ 310: 09:18:02.06 09:18:05.24  Duration 09:00:03.18  56
+#66 pontos têm instrumentos
+de vigilância e alarmes.#
+
+ 311: 09:18:06.03 09:18:09.11  Duration 09:00:03.08  50
+#Há 180 estações meteorológicas
+espalhadas pelo local.#
+
+ 312: 09:18:09.23 09:18:11.16  Duration 09:00:01.18  26
+#Webcams, balizas GPS,#
+
+ 313: 09:18:11.20 09:18:14.22  Duration 09:00:03.02  46
+#extensômetros
+que medem o afastamento das rochas,#
+
+ 314: 09:18:15.01 09:18:17.21  Duration 09:00:02.20  42
+#dispositivos conectados
+e consultáveis à distância.#
+
+ 315: 09:18:18.00 09:18:19.00  Duration 09:00:01.00  15
+9/2017
+Glaciar do Trift
+
+ 316: 09:18:19.05 09:18:22.10  Duration 09:00:03.05  48
+#Mais raros, radares,
+como os que previram# in extremis
+
+ 317: 09:18:22.14 09:18:24.14  Duration 09:00:02.00  30
+#a queda de parte
+da Geleira do Trift#
+
+ 318: 09:18:24.18 09:18:26.00  Duration 09:00:01.07  19
+#acima de Saas-Grund.#
+
+ 319: 09:18:26.13 09:18:29.16  Duration 09:00:03.03  47
+#Alugaram com urgência
+material na Alemanha,#
+
+ 320: 09:18:29.20 09:18:33.14  Duration 09:00:03.19  56
+#já que o único radar ainda disponível
+na Suíça estava em pane.#
+
+ 321: 09:18:34.23 09:18:37.21  Duration 09:00:02.23  44
+#Aparelhos que permitem
+controlar à distância#
+
+ 322: 09:18:38.00 09:18:40.02  Duration 09:00:02.02  31
+#as instabilidades de terreno.#
+
+ 323: 09:18:44.19 09:18:46.16  Duration 09:00:01.22  28
+Somos um# Big Brother
+#do Valais,
+
+ 324: 09:18:46.20 09:18:49.05  Duration 09:00:02.10  36
+porque pegamos
+todos os dados possíveis
+
+ 325: 09:18:50.06 09:18:51.09  Duration 09:00:01.03  17
+em nossos servidores,
+
+ 326: 09:18:51.13 09:18:54.12  Duration 09:00:02.24  44
+e agora fazemos um grande trabalho
+
+ 327: 09:18:54.16 09:18:57.04  Duration 09:00:02.13  38
+para visualizá-los
+na mesma plataforma.
+
+ 328: 09:18:57.18 09:18:59.15  Duration 09:00:01.22  28
+São instrumentos
+bem confiáveis,
+
+ 329: 09:18:59.20 09:19:01.09  Duration 09:00:01.14  23
+e sabendo interpretá-los
+
+ 330: 09:19:01.13 09:19:05.10  Duration 09:00:03.22  58
+podemos fazer intervenções
+realmente focadas no local.
+
+ 331: 09:19:05.15 09:19:10.02  Duration 09:00:04.12  67
+Aqui temos o mapa dos perigos
+de quedas de blocos
+
+ 332: 09:19:10.06 09:19:11.19  Duration 09:00:01.13  23
+em Herbriggen.
+
+ 333: 09:19:11.24 09:19:14.14  Duration 09:00:02.15  39
+Tem uma boa parte do vilarejo
+no vermelho.
+
+ 334: 09:19:15.06 09:19:17.08  Duration 09:00:02.02  31
+#Outra ferramenta
+sempre evoluindo,#
+
+ 335: 09:19:17.12 09:19:19.00  Duration 09:00:01.13  23
+#os mapas de perigos:#
+
+ 336: 09:19:19.04 09:19:23.01  Duration 09:00:03.22  58
+#amarelo, azul, vermelho,
+em função do grau de exposição.#
+
+ 337: 09:19:24.02 09:19:25.15  Duration 09:00:01.13  23
+O mapa de perigos
+
+ 338: 09:19:25.19 09:19:29.22  Duration 09:00:04.03  62
+é a ferramenta principal que usamos
+para o planejamento territorial.
+
+ 339: 09:19:30.01 09:19:31.03  Duration 09:00:01.02  16
+Eles são criados
+
+ 340: 09:19:31.07 09:19:33.21  Duration 09:00:02.14  38
+para todos os perigos naturais
+que temos,
+
+ 341: 09:19:34.00 09:19:36.19  Duration 09:00:02.19  41
+logo, para todas
+as instabilidades geológicas,
+
+ 342: 09:19:36.23 09:19:39.23  Duration 09:00:03.00  45
+os rios, o Ródano e as avalanches.
+
+ 343: 09:19:40.03 09:19:41.21  Duration 09:00:01.18  26
+Para fazer um mapa desses,
+
+ 344: 09:19:42.00 09:19:44.17  Duration 09:00:02.17  40
+nos baseamos
+na frequência de um evento
+
+ 345: 09:19:44.21 09:19:46.22  Duration 09:00:02.01  31
+e em sua intensidade,
+
+ 346: 09:19:47.01 09:19:49.06  Duration 09:00:02.05  33
+o potencial de destruição.
+
+ 347: 09:19:49.10 09:19:51.19  Duration 09:00:02.09  35
+A zona vermelha não é construída.
+
+ 348: 09:19:51.23 09:19:55.11  Duration 09:00:03.13  53
+Não queremos
+que as pessoas fiquem em perigo.
+
+ 349: 09:19:55.16 09:19:58.10  Duration 09:00:02.19  41
+Em zona vermelha, em geral,
+proibimos construir.
+
+ 350: 09:19:58.14 09:20:00.21  Duration 09:00:02.07  34
+E se já houver construções,
+
+ 351: 09:20:01.00 09:20:03.02  Duration 09:00:02.02  31
+porque se mora nas montanhas
+
+ 352: 09:20:03.06 09:20:06.13  Duration 09:00:03.07  49
+há muito mais tempo
+do que temos mapas de perigos,
+
+ 353: 09:20:06.17 09:20:09.08  Duration 09:00:02.16  40
+tomaremos as medidas de proteção
+necessárias
+
+ 354: 09:20:09.12 09:20:11.05  Duration 09:00:01.18  26
+para garantir sua segurança.
+
+ 355: 09:20:15.20 09:20:19.02  Duration 09:00:03.07  49
+#Satélites,
+instrumentos de medida sofisticados,#
+
+ 356: 09:20:19.06 09:20:23.06  Duration 09:00:04.00  60
+#esse monitoramento também se apoia
+nos observadores de campo.#
+
+ 357: 09:20:35.07 09:20:37.13  Duration 09:00:02.06  34
+Uma coisa é olhar as curvas,
+
+ 358: 09:20:37.18 09:20:39.09  Duration 09:00:01.16  25
+os números, as imagens,
+
+ 359: 09:20:39.13 09:20:42.04  Duration 09:00:02.16  40
+outra coisa é estar no local
+
+ 360: 09:20:42.08 09:20:45.03  Duration 09:00:02.20  42
+para sentir sob os pés
+como está o terreno.
+
+ 361: 09:20:45.07 09:20:48.23  Duration 09:00:03.16  55
+E sentir também com o nariz
+a temperatura, o sol etc.
+
+ 362: 09:20:49.02 09:20:53.00  Duration 09:00:03.23  59
+Isso é uma parte do diagnóstico
+que não conseguimos configurar,
+
+ 363: 09:20:53.04 09:20:56.02  Duration 09:00:02.23  44
+ainda não conseguimos fazer
+algorítimos para isso.
+
+ 364: 09:20:56.06 09:20:58.15  Duration 09:00:02.09  35
+Então a experiência dele
+é essencial.
+
+ 365: 09:20:58.19 09:21:01.10  Duration 09:00:02.16  40
+Gosto de dizer
+que nos fundos de vale,
+
+ 366: 09:21:01.14 09:21:05.09  Duration 09:00:03.20  57
+aqui, se eu for falar
+com alguma dessas pessoas,
+
+ 367: 09:21:05.13 09:21:07.07  Duration 09:00:01.19  26
+e que olhamos um problema
+
+ 368: 09:21:07.11 09:21:11.11  Duration 09:00:04.00  60
+e ela me diz, "Está meio ruim!",
+aí é preciso dar atenção.
+
+ 369: 09:21:13.06 09:21:17.02  Duration 09:00:03.21  58
+#Augustin Rion cuida da segurança
+no Val d'Anniviers.#
+
+ 370: 09:21:17.07 09:21:19.23  Duration 09:00:02.16  40
+#Ele monitora
+os pontos sensíveis do vale,#
+
+ 371: 09:21:20.03 09:21:22.00  Duration 09:00:01.22  28
+#como o do Illgraben,#
+
+ 372: 09:21:22.04 09:21:25.01  Duration 09:00:02.22  43
+#uma cratera impressionante
+de 2 km de diâmetro#
+
+ 373: 09:21:25.05 09:21:27.05  Duration 09:00:02.00  30
+#e 700 m de profundidade.#
+
+ 374: 09:21:27.10 09:21:28.05  Duration 09:00:00.20  12
+Perigo
+
+ 375: 09:21:28.09 09:21:31.04  Duration 09:00:02.20  42
+Faço o que os aparelhos automáticos
+não fazem,
+
+ 376: 09:21:31.08 09:21:33.17  Duration 09:00:02.09  35
+isto é, a observação do canal
+
+ 377: 09:21:33.22 09:21:36.17  Duration 09:00:02.20  42
+para ele não se entulhar
+de materiais perigosos
+
+ 378: 09:21:36.21 09:21:38.23  Duration 09:00:02.02  31
+para os vilarejos abaixo.
+
+ 379: 09:21:39.02 09:21:41.21  Duration 09:00:02.19  41
+E também observações
+de quedas de pedra,
+
+ 380: 09:21:42.00 09:21:44.15  Duration 09:00:02.15  39
+de coisas que poderiam ser vistas
+
+ 381: 09:21:44.19 09:21:46.17  Duration 09:00:01.23  29
+por aparelhos automáticos.
+
+ 382: 09:21:46.22 09:21:48.19  Duration 09:00:01.22  28
+Nesse projeto,
+
+ 383: 09:21:48.23 09:21:52.07  Duration 09:00:03.09  50
+sou os olhos dos cientistas
+que, com seus instrumentos,
+
+ 384: 09:21:52.11 09:21:54.04  Duration 09:00:01.18  26
+têm certos dados,
+e eu completo
+
+ 385: 09:21:54.08 09:21:55.21  Duration 09:00:01.13  23
+com o que observo.
+
+ 386: 09:21:56.18 09:21:58.02  Duration 09:00:01.09  20
+#Batido pelas chuvas,#
+
+ 387: 09:21:58.06 09:22:00.15  Duration 09:00:02.09  35
+#o enorme funil solta
+uma mistura de terra,#
+
+ 388: 09:22:00.19 09:22:02.14  Duration 09:00:01.20  27
+#pedras e água
+que desce a toda,#
+
+ 389: 09:22:02.24 09:22:05.03  Duration 09:00:02.04  32
+#e sem avisar, para o vale.#
+
+ 390: 09:22:05.07 09:22:07.04  Duration 09:00:01.22  28
+#Os temidos fluxos de detritos.#
+
+ 391: 09:22:15.04 09:22:19.16  Duration 09:00:04.12  67
+Há alguns dias,
+no último derretimento da neve,
+
+ 392: 09:22:19.20 09:22:22.11  Duration 09:00:02.16  40
+criou-se um tampão
+embaixo de um corredor
+
+ 393: 09:22:22.16 09:22:24.13  Duration 09:00:01.22  28
+que vem pela margem direita,
+
+ 394: 09:22:24.17 09:22:29.03  Duration 09:00:04.11  67
+e acima desse corredor,
+numa distância de 150 metros,
+
+ 395: 09:22:29.07 09:22:32.07  Duration 09:00:03.00  45
+houve uma grande acumulação
+de materiais.
+
+ 396: 09:22:33.03 09:22:34.01  Duration 09:00:00.23  14
+E vemos bem,
+
+ 397: 09:22:34.05 09:22:37.14  Duration 09:00:03.09  50
+porque o canal é menos escavado
+que abaixo.
+
+ 398: 09:22:37.18 09:22:41.06  Duration 09:00:03.13  53
+E aí, quando o tampão estourar,
+
+ 399: 09:22:41.10 09:22:43.22  Duration 09:00:02.12  37
+pode levar muito material
+ao mesmo tempo.
+
+ 400: 09:22:44.01 09:22:45.11  Duration 09:00:01.10  21
+É grande?
+
+ 401: 09:22:45.15 09:22:48.21  Duration 09:00:03.06  49
+Uma distância
+de cerca de 200 metros,
+
+ 402: 09:22:49.00 09:22:51.22  Duration 09:00:02.22  43
+talvez 8 m de largura,
+5, 6 de profundidade...
+
+ 403: 09:22:52.01 09:22:53.09  Duration 09:00:01.08  20
+Faça o cálculo.
+
+ 404: 09:22:55.00 09:22:57.09  Duration 09:00:02.09  35
+Sim. É muito volume.
+
+ 405: 09:22:58.14 09:23:01.08  Duration 09:00:02.19  41
+#Nada resiste
+a um fluxo de detritos.#
+
+ 406: 09:23:01.12 09:23:03.03  Duration 09:00:01.16  25
+Sim, é muito destrutivo.
+
+ 407: 09:23:03.07 09:23:05.19  Duration 09:00:02.12  37
+Vamos isso nos patamares
+que foram feitos,
+
+ 408: 09:23:05.23 09:23:08.04  Duration 09:00:02.06  34
+de concreto, que estão gastos
+
+ 409: 09:23:08.08 09:23:11.13  Duration 09:00:03.05  48
+pelos fluxos de detritos.
+
+ 410: 09:23:11.17 09:23:14.15  Duration 09:00:02.23  44
+#Abaixo, o leito do fluxo
+passa ao lado da vila#
+
+ 411: 09:23:14.20 09:23:16.02  Duration 09:00:01.07  19
+#de Susten.#
+
+ 412: 09:23:16.17 09:23:19.02  Duration 09:00:02.10  36
+#Mais um problema
+para Pascal Stoebener,#
+
+ 413: 09:23:19.06 09:23:21.04  Duration 09:00:01.23  29
+#que cuida
+dos perigos naturais.#
+
+ 414: 09:23:22.06 09:23:23.16  Duration 09:00:01.10  21
+É um campo de futebol
+
+ 415: 09:23:23.20 09:23:27.08  Duration 09:00:03.13  53
+meio peculiar, pois deste lado
+jogamos com os vermelhos,
+
+ 416: 09:23:27.12 09:23:28.21  Duration 09:00:01.09  20
+e deste, com os azuis.
+
+ 417: 09:23:29.13 09:23:32.02  Duration 09:00:02.14  38
+O campo está dividido,
+nas zonas de perigo,
+
+ 418: 09:23:32.06 09:23:33.13  Duration 09:00:01.07  19
+entre vermelho e azul,
+
+ 419: 09:23:33.17 09:23:36.15  Duration 09:00:02.23  44
+zonas muito perigosas
+e zonas de perigo médio.
+
+ 420: 09:23:36.20 09:23:41.04  Duration 09:00:04.09  65
+Isso também concerne toda a parte
+do vilarejo a jusante daqui.
+
+ 421: 09:23:41.08 09:23:42.21  Duration 09:00:01.13  23
+Toda essa parte
+está na vermelha
+
+ 422: 09:23:43.01 09:23:46.15  Duration 09:00:03.14  53
+por cause dos fluxos de detritos
+que vêm de Illgraben.
+
+ 423: 09:23:46.19 09:23:50.12  Duration 09:00:03.18  56
+É um fluo bem peculiar,
+é um sítio único na Europa.
+
+ 424: 09:23:50.16 09:23:54.11  Duration 09:00:03.20  57
+Quer dizer que temos
+5 ou 6 fluxos de detritos anuais
+
+ 425: 09:23:54.15 09:23:57.04  Duration 09:00:02.14  38
+com volume de uns 10 mil m³
+no mínimo.
+
+ 426: 09:23:57.08 09:23:59.09  Duration 09:00:02.01  31
+É realmente
+algo único na Europa.
+
+ 427: 09:23:59.13 09:24:02.08  Duration 09:00:02.20  42
+Isso é mesmo
+um perigo para o vilarejo,
+
+ 428: 09:24:03.02 09:24:05.13  Duration 09:00:02.11  37
+e precisamos
+tomar medidas importantes
+
+ 429: 09:24:05.17 09:24:07.07  Duration 09:00:01.15  24
+para proteger esse vilarejo.
+
+ 430: 09:24:08.04 09:24:10.19  Duration 09:00:02.15  39
+#Uma obra de desvio
+está prevista acima.#
+
+ 431: 09:24:10.23 09:24:13.17  Duration 09:00:02.19  41
+#Ela custará a bagatela
+de 30 milhões.#
+
+ 432: 09:24:15.14 09:24:19.02  Duration 09:00:03.13  53
+Aqui há provavelmente um dos maiores
+potenciais de danos.
+
+ 433: 09:24:19.06 09:24:21.18  Duration 09:00:02.12  37
+Temos mais de 50 prédios
+em zona vermelha,
+
+ 434: 09:24:21.22 09:24:25.17  Duration 09:00:03.20  57
+portante, zona de risco alto
+ligado aos fluxos de detritos.
+
+ 435: 09:24:26.24 09:24:29.20  Duration 09:00:02.21  43
+É realmente uma ameaça importante.
+
+ 436: 09:24:29.24 09:24:33.13  Duration 09:00:03.14  53
+Falamos de eventos raros,
+excepcionais, até,
+
+ 437: 09:24:33.17 09:24:37.12  Duration 09:00:03.20  57
+mas não temos tempo de avisar
+as pessoas se algo acontecer.
+
+ 438: 09:24:38.22 09:24:41.00  Duration 09:00:02.03  32
+Nosso tempo de alarme é curto.
+
+ 439: 09:24:41.05 09:24:44.12  Duration 09:00:03.07  49
+Entre o momento em que o detectamos
+e o alarme,
+
+ 440: 09:24:44.16 09:24:46.13  Duration 09:00:01.22  28
+há entre 15 e 20 minutos.
+
+ 441: 09:24:46.17 09:24:50.00  Duration 09:00:03.08  50
+Pode parecer muito, mas às 2 h
+da manhã, todos dormindo,
+
+ 442: 09:24:50.04 09:24:51.13  Duration 09:00:01.09  20
+20 minutos não bastam
+
+ 443: 09:24:51.17 09:24:54.01  Duration 09:00:02.09  35
+para garantir
+a evacuação do vilarejo.
+
+ 444: 09:24:56.10 09:24:59.09  Duration 09:00:02.24  44
+#Para ganhar valiosos minutos
+para poder evacuar,#
+
+ 445: 09:24:59.13 09:25:02.15  Duration 09:00:03.02  46
+#a EPFZ tenta elaborar
+um sistema de alarme precoce#
+
+ 446: 09:25:02.19 09:25:04.14  Duration 09:00:01.20  27
+#usando sismógrafos.#
+
+ 447: 09:25:05.05 09:25:08.11  Duration 09:00:03.06  49
+#Fabien Walter leva sua equipe
+ao coração do monstro.#
+
+ 448: 09:25:09.22 09:25:10.21  Duration 09:00:00.24  14
+Aqui é certo
+
+ 449: 09:25:11.00 09:25:12.17  Duration 09:00:01.17  25
+que vamos detectar algo.
+
+ 450: 09:25:12.21 09:25:17.18  Duration 09:00:04.22  73
+e podemos estudar os sinais
+
+ 451: 09:25:17.23 09:25:19.14  Duration 09:00:01.16  25
+para fazer
+um# early warning#.
+
+ 452: 09:25:19.18 09:25:22.19  Duration 09:00:03.01  46
+Não quero ficar muito tempo aqui.
+
+ 453: 09:25:22.24 09:25:25.20  Duration 09:00:02.21  43
+As paredes aqui não são estáveis.
+
+ 454: 09:25:25.24 09:25:30.17  Duration 09:00:04.18  71
+Rochas podem cair
+a qualquer momento.
+
+ 455: 09:25:31.07 09:25:33.00  Duration 09:00:01.18  26
+Então é perigoso.
+Vamos sair.
+
+ 456: 09:25:33.04 09:25:34.09  Duration 09:00:01.05  18
+Sim, claro.
+
+ 457: 09:25:54.13 09:25:58.05  Duration 09:00:03.17  55
+Instalamos um sensor sísmico
+
+ 458: 09:25:59.24 09:26:04.01  Duration 09:00:04.02  61
+com que tentamos captar
+
+ 459: 09:26:04.05 09:26:05.15  Duration 09:00:01.10  21
+ondas sísmicas...
+
+ 460: 09:26:07.14 09:26:12.09  Duration 09:00:04.20  72
+causadas por deslizamentos de terra
+e avalanches de lama.
+
+ 461: 09:26:12.22 09:26:16.24  Duration 09:00:04.02  61
+O que isso traz a mais
+em relação ao que já existe?
+
+ 462: 09:26:17.04 09:26:20.10  Duration 09:00:03.06  49
+Com esses sensores
+
+ 463: 09:26:20.14 09:26:23.07  Duration 09:00:02.18  41
+tentamos detectar
+
+ 464: 09:26:23.11 09:26:26.16  Duration 09:00:03.05  48
+o começo das avalanches de lama.
+
+ 465: 09:26:27.11 09:26:29.14  Duration 09:00:02.03  32
+É por uma questão de segurança,
+
+ 466: 09:26:29.18 09:26:32.22  Duration 09:00:03.04  47
+que vocês trabalham.
+- Sim. É o objetivo.
+
+ 467: 09:26:33.01 09:26:34.10  Duration 09:00:01.09  20
+O objetivo final.
+
+ 468: 09:26:38.15 09:26:40.08  Duration 09:00:01.18  26
+Imagens Geobrugg AG
+
+ 469: 09:26:51.11 09:26:54.02  Duration 09:00:02.16  40
+#Eis o que faz um rochedo
+caído do céu.#
+
+ 470: 09:26:55.05 09:26:58.23  Duration 09:00:03.18  56
+#Na montanha, a estrada
+é uma questão crucial de segurança.#
+
+ 471: 09:26:59.02 09:27:00.07  Duration 09:00:01.05  18
+#Mesmo sendo raros,#
+
+ 472: 09:27:00.11 09:27:02.13  Duration 09:00:02.02  31
+#acidentes mortais
+são inevitáveis#
+
+ 473: 09:27:02.17 09:27:05.13  Duration 09:00:02.21  43
+#numa rede que torna
+cada vilarejo acessível#
+
+ 474: 09:27:05.17 09:27:08.17  Duration 09:00:03.00  45
+#num meio de instabilidade constante.#
+
+ 475: 09:27:09.06 09:27:10.22  Duration 09:00:01.16  25
+#Então é preciso proteger.#
+
+ 476: 09:27:17.01 09:27:20.00  Duration 09:00:02.24  44
+Estamos instalando
+redes de proteção
+
+ 477: 09:27:20.04 09:27:21.20  Duration 09:00:01.16  25
+contra quedas de pedras.
+
+ 478: 09:27:21.24 09:27:24.23  Duration 09:00:02.24  44
+Milhares de veículos
+circulam nesta estrada
+
+ 479: 09:27:25.02 09:27:26.20  Duration 09:00:01.18  26
+quando está aberta
+ao tráfego.
+
+ 480: 09:27:26.24 09:27:30.02  Duration 09:00:03.03  47
+Essa frequência aumentou muito
+nos últimos anos.
+
+ 481: 09:27:31.03 09:27:33.09  Duration 09:00:02.06  34
+É como um trampolim,
+por assim dizer.
+
+ 482: 09:27:34.04 09:27:35.02  Duration 09:00:00.23  14
+Pedras menores
+
+ 483: 09:27:35.06 09:27:39.13  Duration 09:00:04.07  64
+vão rolar por cima da rede
+e cair mais abaixo na estrada.
+
+ 484: 09:27:39.17 09:27:41.05  Duration 09:00:01.13  23
+Se for uma pedra maior,
+
+ 485: 09:27:41.10 09:27:43.18  Duration 09:00:02.08  35
+será retida
+pela elasticidade da rede
+
+ 486: 09:27:43.22 09:27:45.20  Duration 09:00:01.23  29
+que vai segurar a pedra.
+
+ 487: 09:27:46.23 09:27:49.07  Duration 09:00:02.09  35
+São anéis que se deformam,
+
+ 488: 09:27:49.11 09:27:53.08  Duration 09:00:03.22  58
+então, para as pedras
+de meio metro cúbico,
+
+ 489: 09:27:53.12 09:27:56.02  Duration 09:00:02.15  39
+a rede pode se alongar
+cerca de 5 m.
+
+ 490: 09:27:56.06 09:27:57.13  Duration 09:00:01.07  19
+É muito elástica.
+
+ 491: 09:28:02.05 09:28:03.13  Duration 09:00:01.08  20
+Não é razoável esperar
+
+ 492: 09:28:03.18 09:28:05.17  Duration 09:00:01.24  29
+a 1ª morte para pôr a rede,
+
+ 493: 09:28:05.21 09:28:07.01  Duration 09:00:01.05  18
+será tarde demais.
+
+ 494: 09:28:07.05 09:28:09.06  Duration 09:00:02.01  31
+O risco é muito alto.
+
+ 495: 09:28:09.10 09:28:13.01  Duration 09:00:03.16  55
+Se uma pedra de 10 cm de diâmetro
+bater no seu para-brisa,
+
+ 496: 09:28:13.05 09:28:17.24  Duration 09:00:04.19  71
+e aqui tem por todo canto
+pedras desse tamanho,
+
+ 497: 09:28:18.03 09:28:21.23  Duration 09:00:03.20  57
+se uma delas atingir seu para-brisa,
+você morre.
+
+ 498: 09:28:23.05 09:28:26.16  Duration 09:00:03.11  52
+#Impactado pelas intempéries
+e pelo aquecimento global,#
+
+ 499: 09:28:26.21 09:28:28.20  Duration 09:00:01.24  29
+#é o meio alpino que sustenta#
+
+ 500: 09:28:28.24 09:28:30.00  Duration 09:00:01.01  16
+#Bernard Biedermann.#
+
+ 501: 09:28:30.16 09:28:34.12  Duration 09:00:03.21  58
+#Mas de uns anos para cá,
+o Valais luta contra o endividamento.#
+
+ 502: 09:28:34.17 09:28:37.04  Duration 09:00:02.12  37
+#As verbas caíram 40%.#
+
+ 503: 09:28:38.03 09:28:42.03  Duration 09:00:04.00  60
+Estou muito preocupado
+com a segurança.
+
+ 504: 09:28:42.07 09:28:46.05  Duration 09:00:03.23  59
+As autoridades,
+os presidentes de comunas,
+
+ 505: 09:28:46.09 09:28:50.14  Duration 09:00:04.05  63
+e o cantão têm a responsabilidade
+de proteger as pessoas.
+
+ 506: 09:28:50.18 09:28:52.10  Duration 09:00:01.17  25
+As pessoas
+querem segurança,
+
+ 507: 09:28:52.14 09:28:54.24  Duration 09:00:02.10  36
+assim como queremos uma polícia,
+
+ 508: 09:28:55.03 09:28:57.21  Duration 09:00:02.18  41
+como queremos educação,
+
+ 509: 09:28:58.00 09:28:59.17  Duration 09:00:01.17  25
+a segurança é essencial.
+
+ 510: 09:28:59.21 09:29:02.21  Duration 09:00:03.00  45
+Acho lamentável
+que cortem tanto assim as verbas
+
+ 511: 09:29:03.00 09:29:04.22  Duration 09:00:01.22  28
+que são a meu ver essenciais.
+
+ 512: 09:29:05.20 09:29:08.18  Duration 09:00:02.23  44
+#Outro problema:
+o tempo de execução dos projetos.#
+
+ 513: 09:29:09.11 09:29:12.03  Duration 09:00:02.17  40
+#O vilarejo de Herbriggen
+sabe como é.#
+
+ 514: 09:29:12.08 09:29:14.24  Duration 09:00:02.16  40
+#Preso em zona vermelha,
+ele perde a paciência.#
+
+ 515: 09:29:16.05 09:29:18.11  Duration 09:00:02.06  34
+A zona vermelha
+só foi feita há 3 anos,
+
+ 516: 09:29:18.15 09:29:20.03  Duration 09:00:01.13  23
+e é isso que me incomoda.
+
+ 517: 09:29:22.11 09:29:24.15  Duration 09:00:02.04  32
+Tivemos a assembleia
+de informação.
+
+ 518: 09:29:24.19 09:29:28.22  Duration 09:00:04.03  62
+Foi dito, então: "Prioridade 1,
+fazemos 3 diques lá em cima."
+
+ 519: 09:29:30.05 09:29:33.11  Duration 09:00:03.06  49
+Isso faz 3 anos,
+e nenhuma máquina subiu.
+
+ 520: 09:29:33.15 09:29:35.20  Duration 09:00:02.05  33
+Por que demora tanto?
+
+ 521: 09:29:36.11 09:29:39.14  Duration 09:00:03.03  47
+Eles dizem que não têm
+o aval de Berna ou de Sion,
+
+ 522: 09:29:39.18 09:29:42.05  Duration 09:00:02.12  37
+e a comuna não pode agir sozinha.
+
+ 523: 09:29:42.09 09:29:44.01  Duration 09:00:01.17  25
+Temos de esperar o aval.
+
+ 524: 09:29:46.13 09:29:49.12  Duration 09:00:02.24  44
+E agora, no vilarejo,
+está tudo suspenso?
+
+ 525: 09:29:49.16 09:29:52.06  Duration 09:00:02.15  39
+Não podemos fazer casa,
+absolutamente nada.
+
+ 526: 09:29:52.10 09:29:53.18  Duration 09:00:01.08  20
+É triste.
+
+ 527: 09:29:53.22 09:29:55.13  Duration 09:00:01.16  25
+Não temos nem licença
+
+ 528: 09:29:55.17 09:29:57.09  Duration 09:00:01.17  25
+para construir
+um galinheiro.
+
+ 529: 09:29:59.12 09:30:02.18  Duration 09:00:03.06  49
+#Em certas situações,
+é impossível esperar,#
+
+ 530: 09:30:02.22 09:30:03.17  Duration 09:00:00.20  12
+#por exemplo,#
+
+ 531: 09:30:03.22 09:30:08.00  Duration 09:00:04.03  62
+#como quando rochas ameaçam
+se soltar acima de uma estrada.#
+
+ 532: 09:30:29.12 09:30:32.04  Duration 09:00:02.17  40
+#Logo ao lado,
+no Val d'Hérens, neste inverno,#
+
+ 533: 09:30:32.08 09:30:34.05  Duration 09:00:01.22  28
+#uma avalanche isolou Arolla,#
+
+ 534: 09:30:34.09 09:30:36.15  Duration 09:00:02.06  34
+#apesar das galerias de proteção.#
+
+ 535: 09:30:36.19 09:30:38.11  Duration 09:00:01.17  25
+#Por sorte, nenhuma vítima.#
+
+ 536: 09:30:38.15 09:30:42.03  Duration 09:00:03.13  53
+#Mas a comuna de Évolène quer agir,
+e não tem recursos.#
+
+ 537: 09:30:42.07 09:30:44.20  Duration 09:00:02.13  38
+#Então é preciso
+negociar com o cantão.#
+
+ 538: 09:30:49.20 09:30:52.12  Duration 09:00:02.17  40
+Vimos o que aconteceu
+neste inverno.
+
+ 539: 09:30:52.17 09:30:55.15  Duration 09:00:02.23  44
+É complicado
+ter essa galeria curta demais.
+
+ 540: 09:30:56.02 09:30:58.02  Duration 09:00:02.00  30
+Então temos proteções,
+
+ 541: 09:30:58.06 09:31:01.06  Duration 09:00:03.00  45
+e aqui chegamos a um ponto fraco,
+um pouquinho,
+
+ 542: 09:31:01.10 09:31:04.03  Duration 09:00:02.18  41
+um dos últimos
+de avalanche sobre estrada.
+
+ 543: 09:31:04.07 09:31:06.21  Duration 09:00:02.14  38
+Não o último,
+mas é o ponto mais fraco.
+
+ 544: 09:31:07.00 09:31:09.20  Duration 09:00:02.20  42
+Gostaríamos de poder intervir
+de alguma forma.
+
+ 545: 09:31:10.00 09:31:12.07  Duration 09:00:02.07  34
+O problema é que se é uma galeria,
+
+ 546: 09:31:12.11 09:31:13.06  Duration 09:00:00.20  12
+você que paga,
+
+ 547: 09:31:13.10 09:31:16.09  Duration 09:00:02.24  44
+se são obras de proteção,
+somos nós.
+
+ 548: 09:31:16.13 09:31:20.11  Duration 09:00:03.23  59
+Não é que queiramos
+lhe passar o bebê, mas...
+
+ 549: 09:31:20.15 09:31:23.14  Duration 09:00:02.24  44
+Não. Dito assim, concordamos.
+
+ 550: 09:31:24.18 09:31:29.13  Duration 09:00:04.20  72
+Chegaríamos a uma ordem de grandeza
+limite de onde a onde?
+
+ 551: 09:31:29.17 09:31:32.08  Duration 09:00:02.16  40
+O limite seria uns sessenta metros.
+
+ 552: 09:31:34.00 09:31:35.09  Duration 09:00:01.09  20
+- 60 metros?
+- É.
+
+ 553: 09:31:35.13 09:31:37.24  Duration 09:00:02.11  37
+Seus prolongamentos são pra valer.
+
+ 554: 09:31:38.03 09:31:40.22  Duration 09:00:02.19  41
+Transbordou 55 metros,
+este ano.
+
+ 555: 09:31:41.01 09:31:44.24  Duration 09:00:03.23  59
+Os transbordamentos acima
+seguem este corredor e chegam aqui,
+
+ 556: 09:31:45.03 09:31:46.20  Duration 09:00:01.17  25
+e temos uns 50 m metros.
+
+ 557: 09:31:46.24 09:31:50.07  Duration 09:00:03.08  50
+E aí, já aconteceu 2, 3 vezes:
+
+ 558: 09:31:50.11 09:31:54.16  Duration 09:00:04.05  63
+2009, 2013 e 2018.
+
+ 559: 09:31:54.21 09:31:57.03  Duration 09:00:02.07  34
+Qual é o custo do prolongamento?
+
+ 560: 09:31:57.07 09:32:00.14  Duration 09:00:03.07  49
+- 2 milhões 170 mil.
+"2 milhões 170 mil", sim.
+
+ 561: 09:32:00.18 09:32:02.18  Duration 09:00:02.00  30
+É um custo,
+
+ 562: 09:32:02.22 09:32:04.20  Duration 09:00:01.23  29
+mas temos a comuna.
+
+ 563: 09:32:04.24 09:32:09.01  Duration 09:00:04.02  61
+Aqui, vocês são
+os felizes parceiros
+
+ 564: 09:32:09.13 09:32:11.04  Duration 09:00:01.16  25
+quase únicos conosco.
+
+ 565: 09:32:11.08 09:32:12.17  Duration 09:00:01.09  20
+Não há, na comuna.
+
+ 566: 09:32:12.21 09:32:15.15  Duration 09:00:02.19  41
+2 milhões 5. Dá 30%.
+
+ 567: 09:32:15.20 09:32:17.07  Duration 09:00:01.12  22
+São 700 tíquetes.
+
+ 568: 09:32:19.13 09:32:24.01  Duration 09:00:04.13  68
+Se tem de fazer, tem de fazer,
+mais 700 tíquetes dão...
+
+ 569: 09:32:24.05 09:32:26.24  Duration 09:00:02.19  41
+Faz mal ao bolso do distrito,
+
+ 570: 09:32:27.03 09:32:29.06  Duration 09:00:02.03  32
+mas ainda mais ao da comuna.
+
+ 571: 09:32:31.11 09:32:33.08  Duration 09:00:01.22  28
+#Até 2022,#
+
+ 572: 09:32:33.13 09:32:37.02  Duration 09:00:03.14  53
+#a comuna de Évolène deve ter
+seu prolongamento de galeria.#
+
+ 573: 09:32:37.23 09:32:39.10  Duration 09:00:01.12  22
+Tivemos alguma sorte,
+
+ 574: 09:32:39.14 09:32:43.10  Duration 09:00:03.21  58
+já que 3 vezes em 40 anos...
+
+ 575: 09:32:43.14 09:32:44.22  Duration 09:00:01.08  20
+Após 40 anos,
+transbordou.
+
+ 576: 09:32:45.01 09:32:46.22  Duration 09:00:01.21  28
+Mas já são 3 vezes
+em 20 anos.
+
+ 577: 09:32:47.01 09:32:51.05  Duration 09:00:04.04  62
+Não podemos mais continuar fingindo
+contar com a sorte.
+
+ 578: 09:32:52.24 09:32:56.01  Duration 09:00:03.02  46
+#E quanto a esperar
+a ajuda da Confederação,#
+
+ 579: 09:32:56.05 09:32:57.15  Duration 09:00:01.10  21
+#não será fácil.#
+
+ 580: 09:32:57.20 09:33:02.06  Duration 09:00:04.11  67
+Não acho que a Confederação
+subestime os riscos.
+
+ 581: 09:33:02.10 09:33:06.00  Duration 09:00:03.15  54
+Ela os assume para as estradas
+principais e as nacionais,
+
+ 582: 09:33:06.04 09:33:08.17  Duration 09:00:02.13  38
+com capacidades financeiras
+
+ 583: 09:33:08.21 09:33:11.10  Duration 09:00:02.14  38
+que me dão inveja toda manhã.
+
+ 584: 09:33:11.20 09:33:14.13  Duration 09:00:02.18  41
+Então aqui, foi uma escolha,
+
+ 585: 09:33:14.17 09:33:17.22  Duration 09:00:03.05  48
+a integralidade voltou ao cantão
+para as proteções
+
+ 586: 09:33:18.01 09:33:19.20  Duration 09:00:01.19  26
+das estradas cantonais.
+
+ 587: 09:33:20.11 09:33:22.13  Duration 09:00:02.02  31
+Infelizmente,
+temos de nos virar.
+
+ 588: 09:33:22.17 09:33:25.00  Duration 09:00:02.08  35
+Isso não freia
+a necessidade de um projeto,
+
+ 589: 09:33:25.04 09:33:27.13  Duration 09:00:02.09  35
+mas freia o tempo de financiamento
+
+ 590: 09:33:27.17 09:33:29.05  Duration 09:00:01.13  23
+para fazer um projeto.
+
+ 591: 09:33:30.09 09:33:31.11  Duration 09:00:01.02  16
+É lamentável.
+
+ 592: 09:33:31.15 09:33:34.13  Duration 09:00:02.23  44
+Se não houver acidente mortal,
+
+ 593: 09:33:34.17 09:33:38.24  Duration 09:00:04.07  64
+a Confederação tem dificuldade
+de justificar o custo econômico.
+
+ 594: 09:33:39.03 09:33:41.01  Duration 09:00:01.23  29
+Como a vida humana
+tem um preço,
+
+ 595: 09:33:41.05 09:33:43.00  Duration 09:00:01.20  27
+então se tudo correr bem,
+
+ 596: 09:33:43.04 09:33:44.24  Duration 09:00:01.20  27
+como foi o caso até agora,
+
+ 597: 09:33:45.03 09:33:47.05  Duration 09:00:02.02  31
+com o tráfego que temos aqui,
+
+ 598: 09:33:47.09 09:33:50.18  Duration 09:00:03.09  50
+não há nenhuma chance
+de recebermos subvenção de alguém.
+
+ 599: 09:33:53.06 09:33:54.23  Duration 09:00:01.17  25
+#Diante do custo alto,#
+
+ 600: 09:33:55.02 09:33:57.09  Duration 09:00:02.07  34
+#o cantão do Valais
+decidiu abandonar#
+
+ 601: 09:33:57.14 09:34:00.17  Duration 09:00:03.03  47
+#um terço da sua rede rodoviária
+até 2040.#
+
+ 602: 09:34:01.23 09:34:03.08  Duration 09:00:01.10  21
+#No âmbito suíço,#
+
+ 603: 09:34:03.12 09:34:05.12  Duration 09:00:02.00  30
+#a fatura global,
+pública e privada,#
+
+ 604: 09:34:05.16 09:34:08.18  Duration 09:00:03.02  46
+#relativa aos riscos naturais
+é de 2 bilhões e meio.#
+
+ 605: 09:34:09.22 09:34:12.19  Duration 09:00:02.22  43
+#Nem todo projeto
+é apoiado pela Confederação.#
+
+ 606: 09:34:12.23 09:34:14.23  Duration 09:00:02.00  30
+#Mas a Agência Federal Ambiental#
+
+ 607: 09:34:15.03 09:34:18.02  Duration 09:00:02.24  44
+#continua parceira crucial
+em financiamento.#
+
+ 608: 09:34:19.02 09:34:23.00  Duration 09:00:03.23  59
+#Bernard Loup participa dos problemas
+de avaliação de riscos econômicos,#
+
+ 609: 09:34:23.04 09:34:27.02  Duration 09:00:03.23  59
+#ferramenta complexa para analisar
+as eventuais medidas de proteção#
+
+ 610: 09:34:27.06 09:34:29.11  Duration 09:00:02.05  33
+#sob uma relação custo-eficácia.#
+
+ 611: 09:34:30.21 09:34:34.18  Duration 09:00:03.22  58
+#Então, com que critérios
+financia-se a segurança das pessoas?#
+
+ 612: 09:34:35.04 09:34:36.17  Duration 09:00:01.13  23
+Há sempre um balanço
+
+ 613: 09:34:36.21 09:34:39.08  Duration 09:00:02.12  37
+feito entre
+o risco individual de morte,
+
+ 614: 09:34:39.12 09:34:40.19  Duration 09:00:01.07  19
+logo, de uma pessoa,
+
+ 615: 09:34:40.23 09:34:42.05  Duration 09:00:01.07  19
+mas também
+
+ 616: 09:34:42.09 09:34:45.04  Duration 09:00:02.20  42
+o risco coletivo ligado
+ao número de pessoas
+
+ 617: 09:34:45.08 09:34:46.13  Duration 09:00:01.05  18
+que usam a estrada.
+
+ 618: 09:34:46.17 09:34:48.21  Duration 09:00:02.04  32
+Há sempre
+uma combinação de critérios
+
+ 619: 09:34:49.00 09:34:51.04  Duration 09:00:02.04  32
+que vão determinar
+se é preciso agir.
+
+ 620: 09:34:51.09 09:34:54.15  Duration 09:00:03.06  49
+Isso significa
+que dão um preço à vida humana?
+
+ 621: 09:34:54.20 09:34:57.01  Duration 09:00:02.06  34
+Como os recursos financeiros
+
+ 622: 09:34:57.05 09:35:00.14  Duration 09:00:03.09  50
+de coletividade, cantão
+e Confederação são limitados,
+
+ 623: 09:35:00.18 09:35:05.16  Duration 09:00:04.23  74
+vamos olhar qual é o montante
+que podemos investir
+
+ 624: 09:35:05.20 09:35:10.09  Duration 09:00:04.14  68
+para evitar um acidente mortal
+numa zona habitada
+
+ 625: 09:35:10.13 09:35:12.10  Duration 09:00:01.22  28
+ou numa infraestrutura.
+
+ 626: 09:35:12.14 09:35:15.10  Duration 09:00:02.21  43
+Então passamos por um sistema
+meio indireto
+
+ 627: 09:35:15.14 09:35:17.11  Duration 09:00:01.22  28
+em que a proporção
+entra em conta.
+
+ 628: 09:35:17.15 09:35:20.20  Duration 09:00:03.05  48
+- E esse montante...
+- Esse montante é de 5 milhões.
+
+ 629: 09:35:20.24 09:35:23.07  Duration 09:00:02.08  35
+Esse montante entra no cálculo
+
+ 630: 09:35:23.11 09:35:26.15  Duration 09:00:03.04  47
+só para podermos
+comparar as coisas.
+
+ 631: 09:35:26.19 09:35:29.19  Duration 09:00:03.00  45
+Danos, por exemplo,
+numa estrada cantonal,
+
+ 632: 09:35:29.23 09:35:30.24  Duration 09:00:01.01  16
+podemos calcular.
+
+ 633: 09:35:31.03 09:35:33.16  Duration 09:00:02.13  38
+Tantos metros de via
+destruída, custa tanto
+
+ 634: 09:35:33.20 09:35:34.17  Duration 09:00:00.22  13
+para reparar.
+
+ 635: 09:35:34.21 09:35:37.06  Duration 09:00:02.10  36
+Porém,
+se soubermos que nesse trecho
+
+ 636: 09:35:37.10 09:35:39.21  Duration 09:00:02.11  37
+uma vida humana pode ser afetada,
+
+ 637: 09:35:40.00 09:35:41.15  Duration 09:00:01.15  24
+devemos ter
+valores comparáveis.
+
+ 638: 09:35:41.20 09:35:44.17  Duration 09:00:02.22  43
+Então precisamos achar
+um sistema de conversão
+
+ 639: 09:35:45.10 09:35:47.23  Duration 09:00:02.13  38
+entre a vida humana
+
+ 640: 09:35:48.03 09:35:50.24  Duration 09:00:02.21  43
+e esse cifra em francos por ano.
+
+ 641: 09:35:51.18 09:35:53.08  Duration 09:00:01.15  24
+#5 milhões.#
+
+ 642: 09:35:53.12 09:35:56.23  Duration 09:00:03.11  52
+#Fixar um preço por uma vida
+permitiria estimar os ganhos#
+
+ 643: 09:35:57.02 09:35:59.03  Duration 09:00:02.01  31
+#tirados de uma obra de proteção#
+
+ 644: 09:35:59.08 09:36:01.11  Duration 09:00:02.03  32
+#em relação às perdas
+humanas e materiais#
+
+ 645: 09:36:01.15 09:36:05.00  Duration 09:00:03.10  51
+#que a ausência dessa proteção
+poderia provocar.#
+
+ 646: 09:36:05.04 09:36:07.01  Duration 09:00:01.22  28
+É a desgraça
+da nossa sociedade,
+
+ 647: 09:36:07.06 09:36:08.20  Duration 09:00:01.14  23
+toda baseada em dinheiro.
+
+ 648: 09:36:09.23 09:36:12.17  Duration 09:00:02.19  41
+É um pouco chocante,
+dizer desta maneira:
+
+ 649: 09:36:12.21 09:36:13.22  Duration 09:00:01.01  16
+5 milhões.
+
+ 650: 09:36:15.16 09:36:20.00  Duration 09:00:04.09  65
+Isso me choca um pouco menos
+na prática,
+
+ 651: 09:36:20.04 09:36:22.00  Duration 09:00:01.21  28
+porque, de certa forma,
+
+ 652: 09:36:22.04 09:36:24.09  Duration 09:00:02.05  33
+é preciso ter parâmetros
+na equação.
+
+ 653: 09:36:24.13 09:36:28.05  Duration 09:00:03.17  55
+Não digo que a equação
+seja ruim em si,
+
+ 654: 09:36:28.09 09:36:30.01  Duration 09:00:01.17  25
+digo que vamos
+longe demais,
+
+ 655: 09:36:30.05 09:36:33.17  Duration 09:00:03.12  52
+fazemos disso uma bíblia absoluta,
+
+ 656: 09:36:33.21 09:36:35.12  Duration 09:00:01.16  25
+e é isso que é ruim.
+
+ 657: 09:36:35.16 09:36:40.01  Duration 09:00:04.10  66
+Agora, é claro
+que temos de saber priorizar.
+
+ 658: 09:36:40.05 09:36:44.09  Duration 09:00:04.04  62
+Poderíamos dizer
+que é a vida humana em prioridade,
+
+ 659: 09:36:44.13 09:36:48.08  Duration 09:00:03.20  57
+e depois, você vai me dizer:
+"Até onde é a vida humana?
+
+ 660: 09:36:48.12 09:36:49.16  Duration 09:00:01.04  17
+"Até Zermatt
+
+ 661: 09:36:49.20 09:36:53.17  Duration 09:00:03.22  58
+"ou acima, até o topo
+das instalações do Pequeno Cervino,
+
+ 662: 09:36:53.21 09:36:56.01  Duration 09:00:02.05  33
+"mais adiante, ali na geleira
+
+ 663: 09:36:56.05 09:36:57.19  Duration 09:00:01.14  23
+"ou até o topo do Cervino?"
+
+ 664: 09:36:57.23 09:37:01.12  Duration 09:00:03.14  53
+Depois há outros parâmetros
+a considerar nisso.
+
+ 665: 09:37:01.16 09:37:04.04  Duration 09:00:02.13  38
+A vida humana, certo,
+são 5 milhões.
+
+ 666: 09:37:04.08 09:37:05.20  Duration 09:00:01.12  22
+Protegemos numa estrada,
+
+ 667: 09:37:05.24 09:37:09.08  Duration 09:00:03.09  50
+mas não protegeremos
+quem sobe a face norte do Cervino.
+
+ 668: 09:37:09.12 09:37:11.24  Duration 09:00:02.12  37
+Mas ele vale o mesmo:
+5 milhões.
+
+ 669: 09:37:12.03 09:37:16.07  Duration 09:00:04.04  62
+Então entramos em debates
+que são bem mais complicadas.
+
+ 670: 09:37:16.12 09:37:17.20  Duration 09:00:01.08  20
+- Vamos?
+- Vamos.
+
+ 671: 09:37:18.24 09:37:21.07  Duration 09:00:02.08  35
+#O Val d'Anniviers
+é tipicamente camponês,#
+
+ 672: 09:37:21.11 09:37:23.11  Duration 09:00:02.00  30
+#mas ameaçado pelo êxodo rural.#
+
+ 673: 09:37:23.15 09:37:25.20  Duration 09:00:02.05  33
+#Hoje nós vamos ver
+o caso de Zinal#
+
+ 674: 09:37:25.24 09:37:27.18  Duration 09:00:01.19  26
+#e interrogar o Sr. Tetta,#
+
+ 675: 09:37:27.23 09:37:29.13  Duration 09:00:01.15  24
+#presidente
+da comuna de Ayer.#
+
+ 676: 09:37:30.05 09:37:31.04  Duration 09:00:00.24  14
+"Ayer"!
+
+ 677: 09:37:32.07 09:37:35.08  Duration 09:00:03.01  46
+Sr. Tetta, é o presidente
+da comuna de Ayer,
+
+ 678: 09:37:35.12 09:37:38.03  Duration 09:00:02.16  40
+comuna
+de que a estação de Zinal depende,
+
+ 679: 09:37:38.07 09:37:40.04  Duration 09:00:01.22  28
+estação
+em transformação total.
+
+ 680: 09:37:40.08 09:37:43.13  Duration 09:00:03.05  48
+Pode nos dizer primeiro
+por que essa transformação?
+
+ 681: 09:37:43.17 09:37:46.03  Duration 09:00:02.11  37
+Essa transformação
+é feita primeiramente
+
+ 682: 09:37:46.07 09:37:50.14  Duration 09:00:04.07  64
+para dar opções de sustento
+
+ 683: 09:37:50.18 09:37:54.22  Duration 09:00:04.04  62
+a nossas populações
+ameaçadas pelo êxodo rural,
+
+ 684: 09:37:55.01 09:37:59.02  Duration 09:00:04.01  61
+que afeta bastante
+todas as regiões
+
+ 685: 09:37:59.06 09:38:00.17  Duration 09:00:01.11  22
+de montanha.
+
+ 686: 09:38:03.03 09:38:07.04  Duration 09:00:04.01  61
+#Anos 1960: a montanha entra
+em desenvolvimento turístico.#
+
+ 687: 09:38:07.14 09:38:09.11  Duration 09:00:01.22  28
+#Uma questão de sobrevivência,#
+
+ 688: 09:38:09.15 09:38:12.20  Duration 09:00:03.05  48
+#que deixa hoje um legado
+difícil de administrar.#
+
+ 689: 09:38:13.00 09:38:16.03  Duration 09:00:03.03  47
+A abertura da estação
+está prevista
+
+ 690: 09:38:16.07 09:38:19.10  Duration 09:00:03.03  47
+para 15 de dezembro de 1966.
+
+ 691: 09:38:19.15 09:38:22.19  Duration 09:00:03.04  47
+Zinal, até 1964, ou 65,
+
+ 692: 09:38:22.23 09:38:24.24  Duration 09:00:02.01  31
+não era habitada o ano todo.
+
+ 693: 09:38:25.03 09:38:27.08  Duration 09:00:02.05  33
+Era habitada no verão,
+
+ 694: 09:38:27.12 09:38:30.05  Duration 09:00:02.18  41
+e no começo do inverno
+
+ 695: 09:38:30.09 09:38:34.09  Duration 09:00:04.00  60
+era obrigatório deixar o vilarejo
+
+ 696: 09:38:34.13 09:38:35.19  Duration 09:00:01.06  19
+sob pena de multa,
+
+ 697: 09:38:35.23 09:38:39.06  Duration 09:00:03.08  50
+porque era perigoso demais
+viver aqui no inverno.
+
+ 698: 09:38:39.10 09:38:41.18  Duration 09:00:02.08  35
+Há mais precipitação
+em fevereiro e março,
+
+ 699: 09:38:41.22 09:38:43.05  Duration 09:00:01.08  20
+perigosos demais.
+
+ 700: 09:38:43.10 09:38:45.07  Duration 09:00:01.22  28
+Vamos que estamos
+50 anos atrás.
+
+ 701: 09:38:45.11 09:38:50.09  Duration 09:00:04.23  74
+Hoje em dia, essa seria
+uma concepção totalmente impossível.
+
+ 702: 09:38:50.13 09:38:54.10  Duration 09:00:03.22  58
+Não deixariam mais construir
+estação numa zona tão remota.
+
+ 703: 09:38:54.14 09:38:58.10  Duration 09:00:03.21  58
+É importante saber que em Zinal
+tiveram de garantir a segurança,
+
+ 704: 09:38:58.14 09:39:00.17  Duration 09:00:02.03  32
+o acesso a todo a extensão,
+
+ 705: 09:39:00.21 09:39:04.06  Duration 09:00:03.10  51
+mais uma boa parte do vilarejo
+exposta a avalanches
+
+ 706: 09:39:04.10 09:39:05.17  Duration 09:00:01.07  19
+ou a fluxos de detritos.
+
+ 707: 09:39:05.21 09:39:08.10  Duration 09:00:02.14  38
+E eles não se tocavam na época,
+
+ 708: 09:39:08.14 09:39:10.19  Duration 09:00:02.05  33
+pois ninguém morava lá
+no inverno.
+
+ 709: 09:39:10.23 09:39:13.05  Duration 09:00:02.07  34
+Hoje, protegemos o que existe,
+
+ 710: 09:39:13.10 09:39:16.12  Duration 09:00:03.02  46
+então reparamos um pouco
+os erros do passado,
+
+ 711: 09:39:17.19 09:39:20.17  Duration 09:00:02.23  44
+mas não deixaríamos construir
+novos edifícios
+
+ 712: 09:39:20.22 09:39:21.19  Duration 09:00:00.22  13
+em zona de risco.
+
+ 713: 09:39:21.23 09:39:25.10  Duration 09:00:03.12  52
+É utópico refazer uma estação
+como Zinal em fundo de vale.
+
+ 714: 09:39:25.14 09:39:26.23  Duration 09:00:01.09  20
+Não, seria impossível.
+
+ 715: 09:39:27.03 09:39:28.10  Duration 09:00:01.07  19
+Zinal VS
+Maio de 2016
+
+ 716: 09:39:28.14 09:39:32.00  Duration 09:00:03.11  52
+#Pois em Zinal a montanha
+também se fragmenta.#
+
+ 717: 09:39:41.06 09:39:43.00  Duration 09:00:01.19  26
+Há um número de diques
+absurdo,
+
+ 718: 09:39:43.04 09:39:44.19  Duration 09:00:01.15  24
+de obras de proteção,
+
+ 719: 09:39:44.23 09:39:47.08  Duration 09:00:02.10  36
+para os acessos e para o vilarejo.
+
+ 720: 09:39:47.12 09:39:50.20  Duration 09:00:03.08  50
+Investimos muito dinheiro
+para proteger o vilarejo.
+
+ 721: 09:39:51.00 09:39:54.12  Duration 09:00:03.12  52
+Toda essa parte do vilarejo
+foi desenvolvida.
+
+ 722: 09:39:54.16 09:39:56.23  Duration 09:00:02.07  34
+Aqui é zona de risco
+de fluxo de detritos.
+
+ 723: 09:39:57.02 09:39:59.10  Duration 09:00:02.08  35
+Antes de fazer o Bondes,
+aqui tínhamos...
+
+ 724: 09:39:59.15 09:40:03.04  Duration 09:00:03.14  53
+Sim, porque aqui
+vemos o novo dique Bondes.
+
+ 725: 09:40:04.21 09:40:07.24  Duration 09:00:03.03  47
+#Zinal é uma das estações
+mais expostas da região.#
+
+ 726: 09:40:08.14 09:40:10.23  Duration 09:00:02.09  35
+#Boa parte da vila
+está em zona vermelha,#
+
+ 727: 09:40:11.02 09:40:14.24  Duration 09:00:03.22  58
+#e ainda hoje é preciso ampliar
+as obras de proteção.#
+
+ 728: 09:40:22.12 09:40:23.17  Duration 09:00:01.05  18
+A onda vem de lá,
+
+ 729: 09:40:23.21 09:40:26.17  Duration 09:00:02.21  43
+e no canal, vemos muito bem,
+à direita,
+
+ 730: 09:40:26.21 09:40:28.10  Duration 09:00:01.14  23
+uma grande face ravinada,
+
+ 731: 09:40:28.14 09:40:32.06  Duration 09:00:03.17  55
+e seus materiais formam
+o fluxo de detritos que chega aqui.
+
+ 732: 09:40:32.18 09:40:34.07  Duration 09:00:01.14  23
+Cuidado, está chegando!
+
+ 733: 09:40:34.11 09:40:36.24  Duration 09:00:02.13  38
+Zinal VS – Junho de 2012
+
+ 734: 09:40:38.09 09:40:40.05  Duration 09:00:01.21  28
+É provocado
+pelo gelo derretido.
+
+ 735: 09:40:40.10 09:40:41.23  Duration 09:00:01.13  23
+São as altas temperaturas
+
+ 736: 09:40:42.02 09:40:45.10  Duration 09:00:03.08  50
+que provocam o fluxo de detritos.
+
+ 737: 09:40:51.24 09:40:56.12  Duration 09:00:04.13  68
+Há habitações bem próximas
+dos dois lados do dique,
+
+ 738: 09:40:56.16 09:40:58.23  Duration 09:00:02.07  34
+e além disso,
+isso barraria a passagem
+
+ 739: 09:40:59.03 09:41:01.11  Duration 09:00:02.08  35
+para chegar ao fundo
+do Val d'Anniviers.
+
+ 740: 09:41:03.12 09:41:06.01  Duration 09:00:02.14  38
+#Sob efeito conjugado
+do clima e da erosão,#
+
+ 741: 09:41:06.05 09:41:09.08  Duration 09:00:03.03  47
+#em 13 de janeiro,
+no Col de la Forclaz,#
+
+ 742: 09:41:09.12 09:41:12.04  Duration 09:00:02.17  40
+#uma face de falésia
+desmoronou na estrada.#
+
+ 743: 09:41:12.08 09:41:14.12  Duration 09:00:02.04  32
+#Naquele dia havia uma corrida.#
+
+ 744: 09:41:14.17 09:41:17.02  Duration 09:00:02.10  36
+#Umas cem pessoas
+rodavam para o colo.#
+
+ 745: 09:41:17.13 09:41:20.02  Duration 09:00:02.14  38
+#50 acabam de passar
+sob os rochedos,#
+
+ 746: 09:41:20.07 09:41:22.21  Duration 09:00:02.14  38
+#as últimas,
+2 minutos antes da queda.#
+
+ 747: 09:41:23.00 09:41:25.06  Duration 09:00:02.06  34
+#Nenhuma vítima, um milagre.#
+
+ 748: 09:41:26.16 09:41:28.20  Duration 09:00:02.04  32
+#3 meses depois recomeçou:#
+
+ 749: 09:41:28.24 09:41:31.17  Duration 09:00:02.18  41
+#rochedos se descolam
+na outra encosta.#
+
+ 750: 09:41:40.14 09:41:42.09  Duration 09:00:01.20  27
+Atrás do chalé tem um rochedo
+
+ 751: 09:41:42.13 09:41:45.16  Duration 09:00:03.03  47
+que ameaça cair em cima do chalé.
+
+ 752: 09:41:46.14 09:41:47.20  Duration 09:00:01.06  19
+Então moro na paróquia,
+
+ 753: 09:41:47.24 09:41:49.03  Duration 09:00:01.04  17
+estou na paróquia,
+
+ 754: 09:41:49.07 09:41:54.03  Duration 09:00:04.21  73
+e agora estou indo ao chalé
+para preparar a comida.
+
+ 755: 09:41:54.07 09:41:56.07  Duration 09:00:02.00  30
+Não pode mais morar
+no seu chalé?
+
+ 756: 09:41:56.11 09:41:59.13  Duration 09:00:03.02  46
+Não, é proibido.
+Estamos em zona vermelha.
+
+ 757: 09:41:59.17 09:42:02.13  Duration 09:00:02.21  43
+Enquanto eles não fazem
+a obra atrás,
+
+ 758: 09:42:02.17 09:42:05.23  Duration 09:00:03.06  49
+rebaixar a estrada,
+levantar o dique etc.
+
+ 759: 09:42:06.02 09:42:07.01  Duration 09:00:00.24  14
+É isso aí.
+
+ 760: 09:42:08.16 09:42:11.24  Duration 09:00:03.08  50
+#O Sr. Meillard não viu
+as rochas caírem. Ele dormia.#
+
+ 761: 09:42:12.20 09:42:14.14  Duration 09:00:01.19  26
+#Agora proibido de morar lá,#
+
+ 762: 09:42:14.18 09:42:16.23  Duration 09:00:02.05  33
+#ele elaborou um pequeno ritual.#
+
+ 763: 09:42:22.18 09:42:26.10  Duration 09:00:03.17  55
+De manhã venho tomar meu chá,
+comer meu pão...
+
+ 764: 09:42:26.14 09:42:29.12  Duration 09:00:02.23  44
+Hoje eu estava sem fome,
+não comi,
+
+ 765: 09:42:29.16 09:42:32.03  Duration 09:00:02.12  37
+e depois volto para o almoço.
+
+ 766: 09:42:32.07 09:42:37.01  Duration 09:00:04.19  71
+Assim é mais fácil. Tenho
+meus temperos, minhas panelas...
+
+ 767: 09:42:37.05 09:42:38.16  Duration 09:00:01.11  22
+Eu me organizo assim.
+
+ 768: 09:42:38.20 09:42:41.05  Duration 09:00:02.10  36
+A louça, lavamos à noite.
+
+ 769: 09:42:41.09 09:42:43.16  Duration 09:00:02.07  34
+E volto à noite,
+
+ 770: 09:42:43.20 09:42:48.15  Duration 09:00:04.20  72
+e acho que passo 1 hora e 15,
+uma hora e meia no chalé.
+
+ 771: 09:42:48.19 09:42:51.05  Duration 09:00:02.11  37
+Mas é prático,
+porque fico à vontade,
+
+ 772: 09:42:51.09 09:42:53.14  Duration 09:00:02.05  33
+enquanto na paróquia, não.
+
+ 773: 09:42:57.09 09:43:00.03  Duration 09:00:02.19  41
+Estamos o tempo todo
+em contato com a montanha.
+
+ 774: 09:43:00.07 09:43:02.03  Duration 09:00:01.21  28
+Sabemos que no inverno
+é avalanche,
+
+ 775: 09:43:02.07 09:43:05.01  Duration 09:00:02.19  41
+no verão são as pedras...
+
+ 776: 09:43:05.05 09:43:06.05  Duration 09:00:01.00  15
+E é isso.
+
+ 777: 09:43:11.00 09:43:13.08  Duration 09:00:02.08  35
+#Responsável local pela segurança,#
+
+ 778: 09:43:13.12 09:43:16.07  Duration 09:00:02.20  42
+#Jean-Luc Lugon conhece
+todos os cantos do vale.#
+
+ 779: 09:43:16.11 09:43:18.16  Duration 09:00:02.05  33
+#Mas naquele dia não bastou.#
+
+ 780: 09:43:21.19 09:43:23.15  Duration 09:00:01.21  28
+A floresta realmente cumpriu
+
+ 781: 09:43:23.19 09:43:26.03  Duration 09:00:02.09  35
+seu papel de proteção. Realmente.
+
+ 782: 09:43:26.07 09:43:28.21  Duration 09:00:02.14  38
+É só subindo o corredor
+
+ 783: 09:43:29.00 09:43:30.20  Duration 09:00:01.20  27
+que vemos árvores quebradas,
+
+ 784: 09:43:30.24 09:43:33.11  Duration 09:00:02.12  37
+mas elas ainda assim
+frearam os blocos.
+
+ 785: 09:43:33.15 09:43:36.04  Duration 09:00:02.14  38
+Podiam ter chegado
+mais rápidos e fortes,
+
+ 786: 09:43:36.08 09:43:38.10  Duration 09:00:02.02  31
+e talvez mais espalhados.
+
+ 787: 09:43:38.15 09:43:42.23  Duration 09:00:04.08  65
+Tem lariços
+de 60 ou 80 cm de diâmetro.
+
+ 788: 09:43:43.02 09:43:47.01  Duration 09:00:03.24  59
+Eles foram completamente esmagados,
+estourados.
+
+ 789: 09:44:03.00 09:44:05.01  Duration 09:00:02.01  31
+As pessoas que vêm aqui
+
+ 790: 09:44:05.05 09:44:06.07  Duration 09:00:01.02  16
+amam a montanha.
+
+ 791: 09:44:06.11 09:44:08.20  Duration 09:00:02.09  35
+Todos que compraram chalés aqui
+
+ 792: 09:44:08.24 09:44:10.12  Duration 09:00:01.13  23
+ouviram de alguém:
+
+ 793: 09:44:10.16 09:44:14.04  Duration 09:00:03.13  53
+"Você é louco de comprar
+num buraco como Trient!"
+
+ 794: 09:44:14.08 09:44:17.03  Duration 09:00:02.20  42
+Mas é um belo buraco,
+e ficamos bem, aqui.
+
+ 795: 09:44:23.17 09:44:24.15  Duration 09:00:00.23  14
+Oi!
+
+ 796: 09:44:24.19 09:44:27.03  Duration 09:00:02.09  35
+#Xénia Volpé,
+vizinha do Sr. Meillard,#
+
+ 797: 09:44:27.07 09:44:29.07  Duration 09:00:02.00  30
+#passava o fim de semana
+com a filha#
+
+ 798: 09:44:29.11 09:44:31.14  Duration 09:00:02.03  32
+#quando os rochedos caíram.#
+
+ 799: 09:44:34.18 09:44:35.21  Duration 09:00:01.03  17
+Poxa!
+
+ 800: 09:44:36.00 09:44:38.13  Duration 09:00:02.13  38
+Ele me disse
+que tinha uma 2ª pedra.
+
+ 801: 09:44:38.17 09:44:42.13  Duration 09:00:03.21  58
+- Qual é, das duas?
+- Essa é a primeira. Estávamos aqui.
+
+ 802: 09:44:42.17 09:44:45.15  Duration 09:00:02.23  44
+E a outra é a segunda
+que caiu no dia seguinte.
+
+ 803: 09:44:50.09 09:44:53.02  Duration 09:00:02.18  41
+A primeira desceu da montanha
+
+ 804: 09:44:53.06 09:44:55.03  Duration 09:00:01.22  28
+numa espécie
+de clareira longa,
+
+ 805: 09:44:55.07 09:44:56.10  Duration 09:00:01.03  17
+uma abertura,
+
+ 806: 09:44:56.14 09:44:59.19  Duration 09:00:03.05  48
+e quicou várias vezes,
+
+ 807: 09:44:59.24 09:45:01.09  Duration 09:00:01.10  21
+até parar aqui.
+
+ 808: 09:45:03.04 09:45:06.04  Duration 09:00:03.00  45
+- Não passou longe.
+- Não, não passou longe.
+
+ 809: 09:45:13.03 09:45:15.08  Duration 09:00:02.05  33
+Eram 23h, eu estava vendo TV,
+
+ 810: 09:45:15.12 09:45:20.00  Duration 09:00:04.13  68
+e de repente,
+senti o chalé tremer,
+
+ 811: 09:45:20.04 09:45:23.15  Duration 09:00:03.11  52
+ouvi muito barulho,
+um "bum, bum, bum",
+
+ 812: 09:45:23.19 09:45:24.19  Duration 09:00:01.00  15
+sacudidas fortes,
+
+ 813: 09:45:24.24 09:45:28.08  Duration 09:00:03.09  50
+que não correspondiam a nada
+do que eu já tinha vivido.
+
+ 814: 09:45:28.13 09:45:30.04  Duration 09:00:01.16  25
+Também não correspondia
+
+ 815: 09:45:30.08 09:45:32.14  Duration 09:00:02.06  34
+ao que eu imaginava
+de uma avalanche.
+
+ 816: 09:45:32.18 09:45:35.01  Duration 09:00:02.08  35
+Foi meio surrealista.
+
+ 817: 09:45:35.06 09:45:36.21  Duration 09:00:01.15  24
+Andei pela casa,
+
+ 818: 09:45:37.00 09:45:38.16  Duration 09:00:01.16  25
+vi que estava tudo normal,
+
+ 819: 09:45:38.20 09:45:40.19  Duration 09:00:01.24  29
+então saí assim mesmo.
+
+ 820: 09:45:40.23 09:45:42.11  Duration 09:00:01.13  23
+E antes de sair, pensei:
+
+ 821: 09:45:42.16 09:45:44.04  Duration 09:00:01.13  23
+"Ta,vez sejam pedras."
+
+ 822: 09:45:44.08 09:45:46.12  Duration 09:00:02.04  32
+Então pus capacete,
+dei a volta na casa
+
+ 823: 09:45:46.16 09:45:47.14  Duration 09:00:00.23  14
+e não vi nada.
+
+ 824: 09:45:47.18 09:45:50.13  Duration 09:00:02.20  42
+E no dia seguinte
+o dia estava lindo.
+
+ 825: 09:45:50.17 09:45:52.23  Duration 09:00:02.06  34
+Saí com minha filha
+para a varanda,
+
+ 826: 09:45:53.02 09:45:54.15  Duration 09:00:01.13  23
+e aí... Uau!
+
+ 827: 09:45:54.19 09:45:56.19  Duration 09:00:02.00  30
+Vimos o grande rochedo embaixo.
+
+ 828: 09:45:57.01 09:46:00.17  Duration 09:00:03.16  55
+Veja. Ali tem um pedaço de pedra
+que caiu.
+
+ 829: 09:46:00.21 09:46:03.07  Duration 09:00:02.11  37
+- Ele é maior que você.
+- Pois é.
+
+ 830: 09:46:03.19 09:46:08.06  Duration 09:00:04.12  67
+Minha mãe disse
+que ouviu um barulho de noite.
+
+ 831: 09:46:08.10 09:46:11.05  Duration 09:00:02.20  42
+Nós saímos,
+queríamos brincar na neve,
+
+ 832: 09:46:12.03 09:46:14.09  Duration 09:00:02.06  34
+e aí eu vi essa pedra e disse:
+
+ 833: 09:46:14.14 09:46:17.09  Duration 09:00:02.20  42
+"Foi essa pedra
+que você ouviu rolar?"
+
+ 834: 09:46:17.24 09:46:18.21  Duration 09:00:00.22  13
+Tive medo,
+
+ 835: 09:46:19.00 09:46:21.24  Duration 09:00:02.24  44
+porque se alguma
+
+ 836: 09:46:22.04 09:46:26.04  Duration 09:00:04.00  60
+resvalar na casa
+ou atropelar a casa, aí...
+
+ 837: 09:46:26.08 09:46:28.24  Duration 09:00:02.16  40
+Ainda por cima,
+estamos no último andar.
+
+ 838: 09:46:29.03 09:46:31.17  Duration 09:00:02.14  38
+Então corremos mais risco.
+
+ 839: 09:46:33.11 09:46:36.12  Duration 09:00:03.01  46
+Sabendo que a casa
+estava só a 10 m da trajetória,
+
+ 840: 09:46:36.16 09:46:39.03  Duration 09:00:02.12  37
+se ele tivesse descido
+
+ 841: 09:46:39.08 09:46:40.08  Duration 09:00:01.00  15
+acima do chalé,
+
+ 842: 09:46:40.12 09:46:43.00  Duration 09:00:02.13  38
+a pedra esmagaria o teto.
+
+ 843: 09:46:43.05 09:46:46.13  Duration 09:00:03.08  50
+estava dormindo
+no primeiro andar.
+
+ 844: 09:46:46.18 09:46:49.02  Duration 09:00:02.09  35
+Então não quero mais pensar nisso.
+
+ 845: 09:46:49.09 09:46:52.11  Duration 09:00:03.02  46
+Foi bastante traumatizante.
+
+ 846: 09:47:01.21 09:47:04.14  Duration 09:00:02.18  41
+Um bloco desse tamanho
+batendo no chalé...
+
+ 847: 09:47:04.18 09:47:07.20  Duration 09:00:03.02  46
+Depende se o chalé for robusto,
+
+ 848: 09:47:07.24 09:47:08.19  Duration 09:00:00.20  12
+de pedra.
+
+ 849: 09:47:08.23 09:47:11.22  Duration 09:00:02.24  44
+Teremos mais chances
+de ter menos danos dentro.
+
+ 850: 09:47:12.15 09:47:16.07  Duration 09:00:03.17  55
+Mas os chalés de tábuas
+como aquele primeiro,
+
+ 851: 09:47:17.12 09:47:20.20  Duration 09:00:03.08  50
+eu nunca testei,
+mas pode sofrer muitos estragos.
+
+ 852: 09:47:21.00 09:47:22.08  Duration 09:00:01.08  20
+Pode quebrar muito.
+
+ 853: 09:47:28.01 09:47:28.24  Duration 09:00:00.23  14
+Até agora,
+
+ 854: 09:47:29.03 09:47:30.21  Duration 09:00:01.18  26
+este ano
+bateu as estatísticas,
+
+ 855: 09:47:31.00 09:47:34.23  Duration 09:00:03.23  59
+porque os 150 a 200 eventos
+que repertoriamos,
+
+ 856: 09:47:35.02 09:47:39.00  Duration 09:00:03.23  59
+sobretudo os geológicos,
+na verdade,
+
+ 857: 09:47:39.04 09:47:41.15  Duration 09:00:02.11  37
+este ano,
+só no mês de janeiro
+
+ 858: 09:47:41.19 09:47:45.18  Duration 09:00:03.24  59
+já temos mais de 400 eventos.
+Só no mês de janeiro.
+
+ 859: 09:47:45.22 09:47:48.06  Duration 09:00:02.09  35
+Então é muito peculiar.
+
+ 860: 09:47:49.00 09:47:52.01  Duration 09:00:03.01  46
+Do ponto de vista da gestão
+no momento dos eventos,
+
+ 861: 09:47:52.05 09:47:53.11  Duration 09:00:01.06  19
+também foi difícil.
+
+ 862: 09:47:53.15 09:47:55.01  Duration 09:00:01.11  22
+E foi só em janeiro.
+
+ 863: 09:47:55.05 09:47:57.11  Duration 09:00:02.06  34
+Há consequências
+em fevereiro e março.
+
+ 864: 09:47:57.15 09:47:59.10  Duration 09:00:01.20  27
+Tudo que foi desestabilizado,
+
+ 865: 09:47:59.14 09:48:02.22  Duration 09:00:03.08  50
+vemos as consequências
+vários meses depois.
+
+ 866: 09:48:03.07 09:48:05.09  Duration 09:00:02.02  31
+Explosão Forclaz VS
+Fevereiro 2016
+
+ 867: 09:48:05.13 09:48:07.17  Duration 09:00:02.04  32
+Você teme deixar passar algo?
+
+ 868: 09:48:07.21 09:48:10.17  Duration 09:00:02.21  43
+Isso faz realmente parte
+do nosso trabalho.
+
+ 869: 09:48:11.08 09:48:13.02  Duration 09:00:01.19  26
+Isso pode me acontecer.
+
+ 870: 09:48:13.06 09:48:15.18  Duration 09:00:02.12  37
+Meus colegas e eu
+às vezes erramos.
+
+ 871: 09:48:15.23 09:48:16.23  Duration 09:00:01.00  15
+Já erramos.
+
+ 872: 09:48:17.02 09:48:20.17  Duration 09:00:03.15  54
+Ultimamente, na Forclaz,
+quase caímos
+
+ 873: 09:48:20.21 09:48:22.13  Duration 09:00:01.17  25
+ou levamos pedras
+na cabeça.
+
+ 874: 09:48:22.17 09:48:25.06  Duration 09:00:02.14  38
+Então, isso dá medo.
+
+ 875: 09:48:25.10 09:48:27.02  Duration 09:00:01.17  25
+O que me dá mais medo...
+
+ 876: 09:48:27.06 09:48:29.19  Duration 09:00:02.13  38
+Nós podemos ter
+um pequeno acidente,
+
+ 877: 09:48:29.23 09:48:31.02  Duration 09:00:01.04  17
+mas seria...
+
+ 878: 09:48:32.03 09:48:33.21  Duration 09:00:01.18  26
+Infelizmente,
+costumo dizer
+
+ 879: 09:48:34.00 09:48:37.01  Duration 09:00:03.01  46
+que se um bloco grande
+acertar um ônibus escolar
+
+ 880: 09:48:37.05 09:48:39.07  Duration 09:00:02.02  31
+quando as crianças
+vão à escola,
+
+ 881: 09:48:39.11 09:48:42.06  Duration 09:00:02.20  42
+e se um bloco grande
+acertar o ônibus,
+
+ 882: 09:48:42.10 09:48:44.19  Duration 09:00:02.09  35
+teríamos poucos sobreviventes.
+
+ 883: 09:48:44.23 09:48:47.23  Duration 09:00:03.00  45
+Isso é o que me dá mais medo.
+
+ 884: 09:48:51.16 09:48:54.23  Duration 09:00:03.07  49
+#Enquanto nos vales
+os eventos se multiplicam,#
+
+ 885: 09:48:55.03 09:48:56.24  Duration 09:00:01.21  28
+#mais acima é um desastre.#
+
+ 886: 09:48:57.19 09:49:00.20  Duration 09:00:03.01  46
+#Martin Funk está em casa,
+no Glaciar do Ródano.#
+
+ 887: 09:49:00.24 09:49:03.02  Duration 09:00:02.03  32
+#Ele o estuda há 30 anos.#
+
+ 888: 09:49:03.06 09:49:04.11  Duration 09:00:01.05  18
+#Já em 2006,#
+
+ 889: 09:49:04.15 09:49:06.18  Duration 09:00:02.03  32
+#ele nos falou
+da sua preocupação.#
+
+ 890: 09:49:07.21 09:49:09.22  Duration 09:00:02.01  31
+A geleira estava neste lugar
+
+ 891: 09:49:10.01 09:49:10.21  Duration 09:00:00.20  12
+há 10 anos,
+
+ 892: 09:49:11.01 09:49:13.14  Duration 09:00:02.13  38
+com alguns metros de gelo
+acima de nós.
+
+ 893: 09:49:13.19 09:49:17.03  Duration 09:00:03.09  50
+Você está vendo a crista,
+no alto, cinza,
+
+ 894: 09:49:17.07 09:49:19.08  Duration 09:00:02.01  31
+que marca a extensão máxima
+do Glaciar do Ródano
+
+ 895: 09:49:19.12 09:49:23.00  Duration 09:00:03.13  53
+no fim da Pequena Era Glacial,
+por volta de 1850,
+
+ 896: 09:49:23.04 09:49:26.22  Duration 09:00:03.18  56
+e desde então, a geleira
+constantemente baixou, recuou.
+
+ 897: 09:49:27.01 09:49:29.07  Duration 09:00:02.06  34
+E agora, vemos um pequeno lago
+
+ 898: 09:49:29.11 09:49:32.05  Duration 09:00:02.19  41
+que está se formando
+na frente da geleira.
+
+ 899: 09:49:40.22 09:49:43.00  Duration 09:00:02.03  32
+#Hoje, 12 anos depois,#
+
+ 900: 09:49:43.04 09:49:45.06  Duration 09:00:02.02  31
+#o "pequeno lago" cresceu muito.#
+
+ 901: 09:49:46.05 09:49:48.15  Duration 09:00:02.10  36
+As previsões que fizemos na época
+
+ 902: 09:49:48.19 09:49:51.05  Duration 09:00:02.11  37
+revelaram-se bem realistas
+até agora.
+
+ 903: 09:49:51.10 09:49:53.16  Duration 09:00:02.06  34
+Você vê o lago
+
+ 904: 09:49:53.20 09:49:55.13  Duration 09:00:01.18  26
+que aumentou,
+
+ 905: 09:49:55.17 09:49:57.22  Duration 09:00:02.05  33
+e ele ainda vai aumentar mais.
+
+ 906: 09:49:58.09 09:50:02.14  Duration 09:00:04.05  63
+Até 2030,
+ele estará completamente formado.
+
+ 907: 09:50:03.18 09:50:08.00  Duration 09:00:04.07  64
+A geleira continuará recuando,
+
+ 908: 09:50:08.04 09:50:10.00  Duration 09:00:01.21  28
+e daqui a 50 anos,
+
+ 909: 09:50:10.04 09:50:13.06  Duration 09:00:03.02  46
+não veremos mais gelo
+daqui deste lugar.
+
+ 910: 09:50:14.01 09:50:15.21  Duration 09:00:01.20  27
+O Glaciar do Ródano
+vai sumir?
+
+ 911: 09:50:16.00 09:50:18.22  Duration 09:00:02.22  43
+O Glaciar do Ródano sumirá
+até o fim do século,
+
+ 912: 09:50:19.01 09:50:20.05  Duration 09:00:01.04  17
+isso é quase certo.
+
+ 913: 09:50:22.17 09:50:25.15  Duration 09:00:02.23  44
+#Uma evolução
+que prenuncia novas ameaças#
+
+ 914: 09:50:25.19 09:50:28.24  Duration 09:00:03.05  48
+#com as quais também teremos
+de aprender a conviver.#
+
+ 915: 09:50:34.22 09:50:39.13  Duration 09:00:04.16  70
+Em certos pontos,
+haverá quedas de gelo,
+
+ 916: 09:50:39.17 09:50:41.21  Duration 09:00:02.04  32
+haverá morenas instáveis,
+
+ 917: 09:50:42.00 09:50:44.21  Duration 09:00:02.21  43
+haverá formação de lagos...
+
+ 918: 09:50:45.00 09:50:47.20  Duration 09:00:02.20  42
+Serão problemas
+com que teremos de lidar.
+
+ 919: 09:50:47.24 09:50:50.22  Duration 09:00:02.23  44
+E depois,
+é o abastecimento de água
+
+ 920: 09:50:51.01 09:50:52.22  Duration 09:00:01.21  28
+que será modificado,
+
+ 921: 09:50:53.01 09:50:56.02  Duration 09:00:03.01  46
+e será preciso adaptar-se
+a essas novas condições.
+
+ 922: 09:50:59.22 09:51:02.01  Duration 09:00:02.04  32
+#À medida
+que as geleiras somem,#
+
+ 923: 09:51:02.05 09:51:03.20  Duration 09:00:01.15  24
+#a vigilância aumenta.#
+
+ 924: 09:51:04.23 09:51:07.08  Duration 09:00:02.10  36
+#Quem mora na montanha
+sabe muito bem:#
+
+ 925: 09:51:07.12 09:51:08.16  Duration 09:00:01.04  17
+#colonizando os Alpes,#
+
+ 926: 09:51:08.20 09:51:11.16  Duration 09:00:02.21  43
+#o homem condena-se
+a pagar cada vez mais caro#
+
+ 927: 09:51:11.20 09:51:13.00  Duration 09:00:01.05  18
+#por sua proteção.#
+
+ 928: 09:51:13.22 09:51:15.24  Duration 09:00:02.02  31
+#Prevenir, proteger,#
+
+ 929: 09:51:16.03 09:51:17.24  Duration 09:00:01.21  28
+#viver em zona de risco, sim,#
+
+ 930: 09:51:18.19 09:51:20.00  Duration 09:00:01.06  19
+#mas a que preço?#
+
+ 931: 09:51:30.01 09:51:33.14  Duration 09:00:03.13  53
+Vocês ouviram, o geólogo do Valais
+cita o número recorde
+
+ 932: 09:51:33.18 09:51:37.17  Duration 09:00:03.24  59
+de eventos geológicos que ocorreram
+desde janeiro de 2018.
+
+ 933: 09:51:37.21 09:51:41.01  Duration 09:00:03.05  48
+Eram mais de 400
+quando filmamos a reportagem,
+
+ 934: 09:51:41.05 09:51:43.22  Duration 09:00:02.17  40
+duas vezes mais
+que nos anos anteriores.
+
+ 935: 09:51:44.01 09:51:46.04  Duration 09:00:02.03  32
+Já são 520 incidentes hoje,
+
+ 936: 09:51:46.08 09:51:48.02  Duration 09:00:01.19  26
+pouco antes do inverno.
+
+ 937: 09:51:48.06 09:51:50.10  Duration 09:00:02.04  32
+A tendência é clara
+de aceleração
+
+ 938: 09:51:50.14 09:51:51.19  Duration 09:00:01.05  18
+do risco na montanha.
+
+ 939: 09:51:52.08 09:51:55.07  Duration 09:00:02.24  44
+Excelente noite a todos,
+ótima semana e até logo.
+
+ 940: 09:52:12.12 09:52:15.12  Duration 09:00:03.00  45
+Adaptação: Adriana Gasparoni
+Legendagem: ECLAIR
+
