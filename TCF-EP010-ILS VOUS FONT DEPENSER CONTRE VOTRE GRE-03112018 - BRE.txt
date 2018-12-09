@@ -1,0 +1,3492 @@
+
+   1: 12:58:47.01 12:58:49.18  Durée 00:00:02.17  Lisibilité 40
+#A sociedade de consumo evolui
+e muda#
+
+   2: 12:58:49.23 12:58:53.19  Durée 00:00:03.21  Lisibilité 58
+#nossos hábitos. Moradia,
+transporte, viagem, poupança.#
+
+   3: 12:58:53.23 12:58:57.16  Durée 00:00:03.18  Lisibilité 56
+No fim das contas# revela
+os bastidores de um mundo em mutação.#
+
+   4: 12:58:58.08 12:58:59.19  Durée 00:00:01.11  Lisibilité 22
+NO FIM DAS CONTAS
+
+   5: 12:59:08.09 12:59:10.02  Durée 00:00:01.18  Lisibilité 26
+Bem-vindo.
+Como se precaver
+
+   6: 12:59:10.07 12:59:13.10  Durée 00:00:03.03  Lisibilité 47
+contra golpes ao comprar?
+Telefonia, seguros,
+
+   7: 12:59:13.14 12:59:15.04  Durée 00:00:01.15  Lisibilité 24
+programas de fidelidade...
+
+   8: 12:59:15.09 12:59:19.24  Durée 00:00:04.15  Lisibilité 69
+As grandes marcas são pegas
+em práticas abusivas.
+
+   9: 12:59:20.04 12:59:24.05  Durée 00:00:04.01  Lisibilité 61
+Agentes comerciais que fazem
+assinaturas sem seu consentimento.
+
+  10: 12:59:24.10 12:59:26.08  Durée 00:00:01.23  Lisibilité 29
+Registraram-se
+centenas de queixas.
+
+  11: 12:59:26.13 12:59:28.03  Durée 00:00:01.15  Lisibilité 24
+Que empresas são essas?
+
+  12: 12:59:28.07 12:59:30.02  Durée 00:00:01.20  Lisibilité 27
+Como se precaver num litígio?
+
+  13: 12:59:30.07 12:59:33.06  Durée 00:00:02.24  Lisibilité 44
+Pela 1ª vez,
+nossos jornalistas infiltraram-se
+
+  14: 12:59:33.10 12:59:35.07  Durée 00:00:01.22  Lisibilité 28
+em equipes de vendedores.
+
+  15: 12:59:35.12 12:59:36.07  Durée 00:00:00.20  Lisibilité 12
+Sumário.
+
+  16: 12:59:37.05 12:59:38.08  Durée 00:00:01.03  Lisibilité 17
+#Abordagem em domicílio.#
+
+  17: 12:59:38.13 12:59:40.22  Durée 00:00:02.09  Lisibilité 35
+#Investigação
+sobre esses métodos de venda#
+
+  18: 12:59:41.02 12:59:43.14  Durée 00:00:02.12  Lisibilité 37
+#Grandes empresas
+estão envolvidas.#
+
+  19: 12:59:43.19 12:59:46.07  Durée 00:00:02.13  Lisibilité 38
+#a equipe do programa
+infiltrou-se nelas.#
+
+  20: 12:59:46.12 12:59:49.04  Durée 00:00:02.17  Lisibilité 40
+#Como fugir do golpe
+dos números sobretaxados?#
+
+  21: 12:59:49.09 12:59:52.02  Durée 00:00:02.18  Lisibilité 41
+#Em 4 anos, as fraudes
+multiplicaram-se por 5.#
+
+  22: 12:59:52.06 12:59:55.24  Durée 00:00:03.18  Lisibilité 56
+#Falsos concursos, SMS pedindo
+retorno de ligação urgente.#
+
+  23: 12:59:56.04 12:59:58.17  Durée 00:00:02.13  Lisibilité 38
+#O que está por trás
+das máfias do celular?#
+
+  24: 12:59:58.22 13:00:02.03  Durée 00:00:03.06  Lisibilité 49
+#Como se precaver?
+Veremos que existem recursos.#
+
+  25: 13:00:08.09 13:00:12.01  Durée 00:00:03.17  Lisibilité 55
+É ilegal, mas cada vez mais empresas
+recorrem a isso.
+
+  26: 13:00:12.06 13:00:16.23  Durée 00:00:04.17  Lisibilité 70
+Nossa reportagem, para começar,
+sobre o golpe da venda casada.
+
+  27: 13:00:17.03 13:00:18.11  Durée 00:00:01.08  Lisibilité 20
+O que essas práticas
+ocultam?
+
+  28: 13:00:18.15 13:00:22.04  Durée 00:00:03.14  Lisibilité 53
+Que técnicas esses vendedores usam
+para fazê-lo pagar mais?
+
+  29: 13:00:22.09 13:00:24.09  Durée 00:00:02.00  Lisibilité 30
+É uma reportagem
+de Karim Ouaffi.
+
+  30: 13:00:30.06 13:00:31.24  Durée 00:00:01.18  Lisibilité 26
+#É uma prática comercial#
+
+  31: 13:00:32.03 13:00:35.02  Durée 00:00:02.24  Lisibilité 44
+#que enfurece cada vez mais
+os franceses.#
+
+  32: 13:00:35.06 13:00:39.06  Durée 00:00:04.00  Lisibilité 60
+#Um dia recebi 
+uma rescisão da EDF. Por quê?#
+
+  33: 13:00:39.10 13:00:41.18  Durée 00:00:02.08  Lisibilité 35
+#Não sei. Nunca pedi nada.#
+
+  34: 13:00:43.18 13:00:47.07  Durée 00:00:03.14  Lisibilité 53
+#Eu não assinei nada.
+Não dei nenhuma informação.#
+
+  35: 13:00:48.19 13:00:51.21  Durée 00:00:03.02  Lisibilité 46
+#Meu marido não podia assinar,
+pois estava em coma.#
+
+  36: 13:00:53.16 13:00:56.16  Durée 00:00:03.00  Lisibilité 45
+#Ao telefone,
+consumidores desamparados#
+
+  37: 13:00:56.20 13:00:59.20  Durée 00:00:03.00  Lisibilité 45
+#que pedem ajuda
+do mediador da energia.#
+
+  38: 13:00:59.24 13:01:03.12  Durée 00:00:03.13  Lisibilité 53
+#Um recurso em caso de problemas
+com o fornecedor de luz.#
+
+  39: 13:01:03.16 13:01:06.16  Durée 00:00:03.00  Lisibilité 45
+E não é a sua assinatura
+nesse contrato?
+
+  40: 13:01:06.20 13:01:10.11  Durée 00:00:03.16  Lisibilité 55
+#Litígios tratados por um
+desses juristas, Christian Souletie.#
+
+  41: 13:01:11.15 13:01:15.17  Durée 00:00:04.02  Lisibilité 61
+#Todos dizem ter sofrido abusos
+por fornecedores de energia#
+
+  42: 13:01:15.22 13:01:19.16  Durée 00:00:03.19  Lisibilité 56
+#e seriam vítimas
+do que chamamos de venda casada.#
+
+  43: 13:01:19.20 13:01:24.06  Durée 00:00:04.11  Lisibilité 67
+#Uma prática comercial desleal
+em plena expansão.#
+
+  44: 13:01:24.11 13:01:26.14  Durée 00:00:02.03  Lisibilité 32
+Entre 2016 e 2017,
+um aumento de 30%.
+
+  45: 13:01:26.18 13:01:27.13  Durée 00:00:00.20  Lisibilité 12
+#É enorme.#
+
+  46: 13:01:27.17 13:01:30.02  Durée 00:00:02.10  Lisibilité 36
+O que é considerável,
+efetivamente.
+
+  47: 13:01:30.06 13:01:34.17  Durée 00:00:04.11  Lisibilité 67
+#Mas os novos fornecedores
+chegaram em 2008 ao mercado.#
+
+  48: 13:01:34.21 13:01:39.15  Durée 00:00:04.19  Lisibilité 71
+#E o telemarketing começou também
+em paralelo à atividade deles.#
+
+  49: 13:01:39.19 13:01:44.10  Durée 00:00:04.16  Lisibilité 70
+Mas é verdade que se intensificou
+entre 2016 e 2017.
+
+  50: 13:01:45.02 13:01:47.21  Durée 00:00:02.19  Lisibilité 41
+#A venda casada
+no setor da energia,#
+
+  51: 13:01:48.00 13:01:50.15  Durée 00:00:02.15  Lisibilité 39
+#um fenômeno em crescimento
+na França.#
+
+  52: 13:01:50.19 13:01:52.07  Durée 00:00:01.13  Lisibilité 23
+#Desde o começo do ano,#
+
+  53: 13:01:52.11 13:01:54.17  Durée 00:00:02.06  Lisibilité 34
+#mais de mil casos foram abertos#
+
+  54: 13:01:55.01 13:01:57.11  Durée 00:00:02.10  Lisibilité 36
+#pela autoridade pública
+independente.#
+
+  55: 13:01:57.15 13:01:59.22  Durée 00:00:02.07  Lisibilité 34
+#Consumidores
+que de um dia para o outro#
+
+  56: 13:02:00.02 13:02:03.00  Durée 00:00:02.23  Lisibilité 44
+#se veem clientes
+de outro fornecedor,#
+
+  57: 13:02:03.04 13:02:06.14  Durée 00:00:03.10  Lisibilité 51
+#embora tenham o sentimento
+de não terem dado seu aval.#
+
+  58: 13:02:06.18 13:02:10.05  Durée 00:00:03.12  Lisibilité 52
+#E o chocante
+é que isso também afeta#
+
+  59: 13:02:10.10 13:02:11.19  Durée 00:00:01.09  Lisibilité 20
+#pessoas já frágeis.#
+
+  60: 13:02:11.23 13:02:13.16  Durée 00:00:01.18  Lisibilité 26
+Espere, vou ver isso.
+
+  61: 13:02:13.20 13:02:15.09  Durée 00:00:01.14  Lisibilité 23
+#Na Bretanha,
+perto de Lorient,#
+
+  62: 13:02:15.13 13:02:19.00  Durée 00:00:03.12  Lisibilité 52
+#Louis Le Quintrec
+vive uma situação que o abala,#
+
+  63: 13:02:19.04 13:02:22.02  Durée 00:00:02.23  Lisibilité 44
+#quando já é
+uma pessoa bem vulnerável.#
+
+  64: 13:02:22.06 13:02:24.23  Durée 00:00:02.17  Lisibilité 40
+#Há um ano, uma agente
+de uma concessionária#
+
+  65: 13:02:25.20 13:02:27.09  Durée 00:00:01.14  Lisibilité 23
+#bate à porta desse cego.#
+
+  66: 13:02:28.00 13:02:31.17  Durée 00:00:03.17  Lisibilité 55
+#Ela insiste em ver
+a conta da EDF dele.#
+
+  67: 13:02:32.06 13:02:35.19  Durée 00:00:03.13  Lisibilité 53
+#Segundo ele,
+a armadilha se fechou de repente.#
+
+  68: 13:02:35.23 13:02:38.16  Durée 00:00:02.18  Lisibilité 41
+Por que ela fazia questão
+de ver essa conta?
+
+  69: 13:02:38.20 13:02:42.05  Durée 00:00:03.10  Lisibilité 51
+Para ter o número
+do meu relógio de luz.
+
+  70: 13:02:43.15 13:02:44.16  Durée 00:00:01.01  Lisibilité 16
+#Isso importa?#
+
+  71: 13:02:44.20 13:02:46.23  Durée 00:00:02.03  Lisibilité 32
+Importa,
+pois tendo meu número,
+
+  72: 13:02:47.02 13:02:51.13  Durée 00:00:04.11  Lisibilité 67
+ela pode me inscrever mais facilmente
+ou rescindir meu contrato
+
+  73: 13:02:51.18 13:02:54.11  Durée 00:00:02.18  Lisibilité 41
+com a EDF.
+Ela forçou um pouco a barra.
+
+  74: 13:02:55.09 13:02:58.00  Durée 00:00:02.16  Lisibilité 40
+-Ela forçou o contrato dela.
+-De que forma?
+
+  75: 13:02:58.04 13:03:00.18  Durée 00:00:02.14  Lisibilité 38
+Ela estava...
+Ela dizia: "Sim, precisa vir!
+
+  76: 13:03:00.22 13:03:02.18  Durée 00:00:01.21  Lisibilité 28
+"É mais barato,
+sairá ganhando."
+
+  77: 13:03:02.23 13:03:04.07  Durée 00:00:01.09  Lisibilité 20
+Eu me...
+
+  78: 13:03:04.11 13:03:07.13  Durée 00:00:03.02  Lisibilité 46
+senti forçado, influenciado,
+podemos dizer.
+
+  79: 13:03:07.17 13:03:08.24  Durée 00:00:01.07  Lisibilité 19
+E fiquei receoso.
+
+  80: 13:03:10.07 13:03:11.13  Durée 00:00:01.06  Lisibilité 19
+#O homem cede,#
+
+  81: 13:03:11.17 13:03:13.08  Durée 00:00:01.16  Lisibilité 25
+#mas não preenche nada.#
+
+  82: 13:03:14.13 13:03:16.09  Durée 00:00:01.21  Lisibilité 28
+#Cúmulo do cinismo,
+segundo ele,#
+
+  83: 13:03:16.13 13:03:19.12  Durée 00:00:02.24  Lisibilité 44
+#é a agente comercial
+que teria assinado por ele.#
+
+  84: 13:03:20.10 13:03:23.19  Durée 00:00:03.09  Lisibilité 50
+Não assinei contrato.
+Achei isso meio estranho.
+
+  85: 13:03:23.23 13:03:26.10  Durée 00:00:02.12  Lisibilité 37
+Ela me diz:
+"Agora é assim que se faz.
+
+  86: 13:03:26.14 13:03:30.16  Durée 00:00:04.02  Lisibilité 61
+"É tudo feito pela internet.
+Faço isso no meu celular."
+
+  87: 13:03:30.20 13:03:33.07  Durée 00:00:02.12  Lisibilité 37
+Eu não entendi nada.
+
+  88: 13:03:33.12 13:03:36.09  Durée 00:00:02.22  Lisibilité 43
+#Ele logo tenta voltar atrás#
+
+  89: 13:03:36.13 13:03:40.01  Durée 00:00:03.13  Lisibilité 53
+#contactando o novo fornecedor
+de que agora é cliente.#
+
+  90: 13:03:40.05 13:03:45.05  Durée 00:00:05.00  Lisibilité 75
+#Tarde demais, as contas começam
+a chover no seu 75 metros quadrados.#
+
+  91: 13:03:48.17 13:03:53.13  Durée 00:00:04.21  Lisibilité 73
+#Primeiro, 120 euros por 2 mês,
+que ele se recusa a pagar.#
+
+  92: 13:03:53.18 13:03:57.12  Durée 00:00:03.19  Lisibilité 56
+#E aí, 6 meses depois,
+nova conta de 422 euros,#
+
+  93: 13:03:57.16 13:04:00.10  Durée 00:00:02.19  Lisibilité 41
+#soma que corresponde
+ao acúmulo dos débitos.#
+
+  94: 13:04:00.14 13:04:02.01  Durée 00:00:01.12  Lisibilité 22
+#Golpe duro para alguém#
+
+  95: 13:04:02.05 13:04:06.01  Durée 00:00:03.21  Lisibilité 58
+#que vive modestamente com pensão
+de invalidez de 900 E por mês.#
+
+  96: 13:04:06.05 13:04:08.12  Durée 00:00:02.07  Lisibilité 34
+Sei o número de cor.
+
+  97: 13:04:08.17 13:04:11.19  Durée 00:00:03.02  Lisibilité 46
+#Agora,
+ele tenta sair dessa espiral#
+
+  98: 13:04:11.23 13:04:14.00  Durée 00:00:02.02  Lisibilité 31
+#ligando regularmente
+para o fornecedor,#
+
+  99: 13:04:14.04 13:04:16.08  Durée 00:00:02.04  Lisibilité 32
+#e toda vez é a mesma coisa,#
+
+ 100: 13:04:16.12 13:04:17.23  Durée 00:00:01.11  Lisibilité 22
+#ele diz bater num muro.#
+
+ 101: 13:04:19.09 13:04:20.17  Durée 00:00:01.08  Lisibilité 20
+#Bom dia. Pois não.#
+
+ 102: 13:04:20.21 13:04:22.14  Durée 00:00:01.18  Lisibilité 26
+Bom dia.
+É o Sr. Le Quintrec.
+
+ 103: 13:04:22.19 13:04:24.06  Durée 00:00:01.12  Lisibilité 22
+Estou com uma dúvida.
+
+ 104: 13:04:24.10 13:04:26.04  Durée 00:00:01.19  Lisibilité 26
+Por que recebo essas contas
+
+ 105: 13:04:26.08 13:04:29.08  Durée 00:00:03.00  Lisibilité 45
+se eu nunca assinei
+nenhum contrato com vocês?
+
+ 106: 13:04:29.12 13:04:31.05  Durée 00:00:01.18  Lisibilité 26
+#Não há entendimento.#
+
+ 107: 13:04:31.09 13:04:33.07  Durée 00:00:01.23  Lisibilité 29
+#O senhor nos contatou dia 23.#
+
+ 108: 13:04:33.12 13:04:35.01  Durée 00:00:01.14  Lisibilité 23
+Não estou com vocês.
+
+ 109: 13:04:35.06 13:04:39.22  Durée 00:00:04.16  Lisibilité 70
+Ouvi a mesma conversa do SAC
+há um mês e meio.
+
+ 110: 13:04:42.00 13:04:46.14  Durée 00:00:04.14  Lisibilité 68
+#Um diálogo de surdos
+que acaba em música, sempre a mesma.#
+
+ 111: 13:04:47.01 13:04:49.03  Durée 00:00:02.02  Lisibilité 31
+É a cada 15 dias assim.
+
+ 112: 13:04:49.07 13:04:51.14  Durée 00:00:02.07  Lisibilité 34
+#Aguarde, por favor.#
+
+ 113: 13:04:51.18 13:04:54.08  Durée 00:00:02.15  Lisibilité 39
+#Esse bretão também seria
+vítima colateral#
+
+ 114: 13:04:54.12 13:04:56.07  Durée 00:00:01.20  Lisibilité 27
+#da virada dos últimos anos#
+
+ 115: 13:04:56.12 13:04:59.11  Durée 00:00:02.24  Lisibilité 44
+#do mercado da energia na França.#
+
+ 116: 13:05:02.04 13:05:05.11  Durée 00:00:03.07  Lisibilité 49
+#Em julho de 2007,
+o setor se abriu à concorrência.#
+
+ 117: 13:05:05.16 13:05:06.14  Durée 00:00:00.23  Lisibilité 14
+#Hoje,#
+
+ 118: 13:05:06.18 13:05:10.11  Durée 00:00:03.18  Lisibilité 56
+#umas trinta concessionárias
+dividem 32 milhões de lares.#
+
+ 119: 13:05:10.15 13:05:13.20  Durée 00:00:03.05  Lisibilité 48
+#Um mercado colossal
+que pesa 50 bilhões de euros.#
+
+ 120: 13:05:13.24 13:05:18.16  Durée 00:00:04.17  Lisibilité 70
+#Entre esses fornecedores, vários
+mastodontes, como a EDF, a histórica,#
+
+ 121: 13:05:18.21 13:05:20.16  Durée 00:00:01.20  Lisibilité 27
+#mas também a italiana Eni,#
+
+ 122: 13:05:20.20 13:05:22.06  Durée 00:00:01.11  Lisibilité 22
+#as francesas
+Direct Énergie#
+
+ 123: 13:05:22.10 13:05:23.22  Durée 00:00:01.12  Lisibilité 22
+#e Engie.#
+
+ 124: 13:05:24.15 13:05:26.08  Durée 00:00:01.18  Lisibilité 26
+#Entre elas, não é moleza,#
+
+ 125: 13:05:26.12 13:05:28.23  Durée 00:00:02.11  Lisibilité 37
+#a batalha comercial é feroz.#
+
+ 126: 13:05:32.03 13:05:33.06  Durée 00:00:01.03  Lisibilité 17
+#Mas uma delas#
+
+ 127: 13:05:33.10 13:05:35.24  Durée 00:00:02.14  Lisibilité 38
+#concentraria metade dos litígios
+registrados este ano#
+
+ 128: 13:05:36.04 13:05:38.01  Durée 00:00:01.22  Lisibilité 28
+#pela agência reguladora,#
+
+ 129: 13:05:38.05 13:05:39.19  Durée 00:00:01.14  Lisibilité 23
+#A Engie,#
+
+ 130: 13:05:39.24 13:05:43.23  Durée 00:00:03.24  Lisibilité 59
+#com 471 denúncias
+desde 1º de janeiro.#
+
+ 131: 13:05:44.14 13:05:47.22  Durée 00:00:03.08  Lisibilité 50
+#Nós quisemos saber como procede
+essa empresa privada#
+
+ 132: 13:05:48.02 13:05:49.20  Durée 00:00:01.18  Lisibilité 26
+#para atrair novos clientes.#
+
+ 133: 13:05:49.24 13:05:53.22  Durée 00:00:03.23  Lisibilité 59
+#E quais são os métodos empregados
+por seus agentes comerciais?#
+
+ 134: 13:05:55.05 13:05:56.02  Durée 00:00:00.22  Lisibilité 13
+#Primeira surpresa,#
+
+ 135: 13:05:56.07 13:06:00.11  Durée 00:00:04.04  Lisibilité 62
+#descobrimos que a ex-GDF Suez usa,
+na verdade, por uma terceirizada,#
+
+ 136: 13:06:03.00 13:06:04.09  Durée 00:00:01.09  Lisibilité 20
+#a Ranger Marketing,#
+
+ 137: 13:06:04.13 13:06:07.23  Durée 00:00:03.10  Lisibilité 51
+#um grupo internacional presente
+em uma dezena de países#
+
+ 138: 13:06:08.03 13:06:12.19  Durée 00:00:04.16  Lisibilité 70
+#e que possui 16 agências na França
+com 400 agentes ultramotivados.#
+
+ 139: 13:06:13.20 13:06:17.06  Durée 00:00:03.11  Lisibilité 52
+#Para atrair candidaturas,
+ela promete salários atraentes#
+
+ 140: 13:06:17.10 13:06:19.21  Durée 00:00:02.11  Lisibilité 37
+#em CDI com plano de carreira.#
+
+ 141: 13:06:26.19 13:06:27.23  Durée 00:00:01.04  Lisibilité 17
+#Para conferir...#
+
+ 142: 13:06:28.02 13:06:28.24  Durée 00:00:00.22  Lisibilité 13
+#Bom dia.#
+
+ 143: 13:06:29.03 13:06:32.04  Durée 00:00:03.01  Lisibilité 46
+#...nós postulamos a um emprego
+de agente comercial.#
+
+ 144: 13:06:32.08 13:06:35.02  Durée 00:00:02.19  Lisibilité 41
+#Posso propor
+que venham fazer uma entrevista#
+
+ 145: 13:06:35.06 13:06:37.13  Durée 00:00:02.07  Lisibilité 34
+#com o gerente da agência.#
+
+ 146: 13:06:37.20 13:06:39.15  Durée 00:00:01.20  Lisibilité 27
+#Posso propor#
+
+ 147: 13:06:39.19 13:06:44.08  Durée 00:00:04.14  Lisibilité 68
+#Segunda, 1º de outubro às 11h,
+se quiserem.#
+
+ 148: 13:06:44.12 13:06:45.19  Durée 00:00:01.07  Lisibilité 19
+Perfeito.
+
+ 149: 13:06:47.14 13:06:49.12  Durée 00:00:01.23  Lisibilité 29
+#Uma entrevista no dia seguinte#
+
+ 150: 13:06:49.17 13:06:52.20  Durée 00:00:03.03  Lisibilité 47
+#sem ter enviado
+qualquer currículo.#
+
+ 151: 13:06:54.13 13:06:59.05  Durée 00:00:04.17  Lisibilité 70
+#Ela ocorre numa das agências
+do grupo na periferia de Paris.#
+
+ 152: 13:07:00.15 13:07:02.22  Durée 00:00:02.07  Lisibilité 34
+#Filmamos com câmera discreta.#
+
+ 153: 13:07:03.22 13:07:04.17  Durée 00:00:00.20  Lisibilité 12
+Bom dia.
+
+ 154: 13:07:05.18 13:07:07.19  Durée 00:00:02.01  Lisibilité 31
+Você tem entrevista marcada?
+
+ 155: 13:07:07.24 13:07:11.06  Durée 00:00:03.07  Lisibilité 49
+#É um gerente calejado
+que faz a entrevista.#
+
+ 156: 13:07:11.21 13:07:13.22  Durée 00:00:02.01  Lisibilité 31
+#E de saída, ele dá o tom.#
+
+ 157: 13:07:14.01 13:07:17.05  Durée 00:00:03.04  Lisibilité 47
+#Aqui podemos ganhar dinheiro
+muito rápido.#
+
+ 158: 13:07:17.09 13:07:18.18  Durée 00:00:01.09  Lisibilité 20
+Atualmente,
+temos salários
+
+ 159: 13:07:18.22 13:07:22.17  Durée 00:00:03.20  Lisibilité 57
+que batem 4, 5, 6, 7, 8 mil euros,
+mês passado, para alguns.
+
+ 160: 13:07:22.21 13:07:24.21  Durée 00:00:02.00  Lisibilité 30
+#Como o grupo afirma
+no seu site,#
+
+ 161: 13:07:25.00 13:07:27.17  Durée 00:00:02.17  Lisibilité 40
+#ele nos propõe uma vaga em CDI,#
+
+ 162: 13:07:27.21 13:07:29.11  Durée 00:00:01.15  Lisibilité 24
+#mas com um detalhe.#
+
+ 163: 13:07:29.15 13:07:30.21  Durée 00:00:01.06  Lisibilité 19
+Como isso funciona?
+
+ 164: 13:07:31.00 13:07:32.14  Durée 00:00:01.14  Lisibilité 23
+Hoje temos uma profissão...
+
+ 165: 13:07:32.18 13:07:34.13  Durée 00:00:01.20  Lisibilité 27
+É um CDI, um contrato clássico.
+
+ 166: 13:07:34.17 13:07:36.05  Durée 00:00:01.13  Lisibilité 23
+Tem contracheque
+como todo mundo.
+
+ 167: 13:07:36.09 13:07:38.22  Durée 00:00:02.13  Lisibilité 38
+Mas só trabalham com comissão.
+
+ 168: 13:07:39.01 13:07:41.01  Durée 00:00:02.00  Lisibilité 30
+100% comissão,
+sem salário fixo.
+
+ 169: 13:07:41.12 13:07:44.00  Durée 00:00:02.13  Lisibilité 38
+Ficar um mês sem salário
+é um problema?
+
+ 170: 13:07:45.13 13:07:47.15  Durée 00:00:02.02  Lisibilité 31
+Não, porque tenho uma reserva.
+
+ 171: 13:07:47.19 13:07:48.17  Durée 00:00:00.23  Lisibilité 14
+-OK?
+-Certo.
+
+ 172: 13:07:48.21 13:07:49.16  Durée 00:00:00.20  Lisibilité 12
+Está bom?
+
+ 173: 13:07:49.22 13:07:50.22  Durée 00:00:01.00  Lisibilité 15
+Estão prontos?
+
+ 174: 13:07:51.01 13:07:51.24  Durée 00:00:00.23  Lisibilité 14
+Completamente.
+
+ 175: 13:07:52.03 13:07:54.01  Durée 00:00:01.23  Lisibilité 29
+Sinto que é capaz
+de fazer isso.
+
+ 176: 13:07:54.05 13:07:55.08  Durée 00:00:01.03  Lisibilité 17
+Estou animado.
+
+ 177: 13:07:56.00 13:07:59.03  Durée 00:00:03.03  Lisibilité 47
+#Um CDI, mas pago só por comissão.#
+
+ 178: 13:07:59.07 13:08:02.10  Durée 00:00:03.03  Lisibilité 47
+#Uma prática legal e comum
+nesse setor.#
+
+ 179: 13:08:02.14 13:08:04.07  Durée 00:00:01.18  Lisibilité 26
+#Para ganhar dinheiro,#
+
+ 180: 13:08:04.11 13:08:06.09  Durée 00:00:01.23  Lisibilité 29
+#deve-se vender
+o máximo de contratos.#
+
+ 181: 13:08:07.17 13:08:10.04  Durée 00:00:02.12  Lisibilité 37
+#O grupo nos indica como proceder.#
+
+ 182: 13:08:10.08 13:08:13.01  Durée 00:00:02.18  Lisibilité 41
+#Começa com um curso expresso
+à americana...#
+
+ 183: 13:08:13.05 13:08:15.14  Durée 00:00:02.09  Lisibilité 35
+-Bom dia.
+-Bom dia.
+
+ 184: 13:08:15.18 13:08:17.15  Durée 00:00:01.22  Lisibilité 28
+#...dado por um# coach# da casa.#
+
+ 185: 13:08:18.23 13:08:21.05  Durée 00:00:02.07  Lisibilité 34
+-Bom dia.
+-OK.
+
+ 186: 13:08:21.10 13:08:25.02  Durée 00:00:03.17  Lisibilité 55
+#Um funcionário da filial suíça
+do grupo que fala inglês.#
+
+ 187: 13:08:26.21 13:08:29.22  Durée 00:00:03.01  Lisibilité 46
+Hoje, vamos começar
+pelas bases do negócio.
+
+ 188: 13:08:30.01 13:08:31.01  Durée 00:00:01.00  Lisibilité 15
+Ponto número 1?
+
+ 189: 13:08:31.05 13:08:33.04  Durée 00:00:01.24  Lisibilité 29
+Atitude positiva.
+
+ 190: 13:08:33.08 13:08:35.03  Durée 00:00:01.20  Lisibilité 27
+-De novo.
+-Atitude positiva.
+
+ 191: 13:08:35.07 13:08:36.21  Durée 00:00:01.14  Lisibilité 23
+-Todo mundo.
+-Atitude positiva.
+
+ 192: 13:08:37.00 13:08:40.18  Durée 00:00:03.18  Lisibilité 56
+-De novo.
+-Atitude positiva.
+
+ 193: 13:08:40.22 13:08:42.21  Durée 00:00:01.24  Lisibilité 29
+-De novo.
+-Atitude positiva.
+
+ 194: 13:08:43.00 13:08:46.05  Durée 00:00:03.05  Lisibilité 48
+Atitude positiva.
+Maneiro!
+
+ 195: 13:08:46.09 13:08:49.00  Durée 00:00:02.16  Lisibilité 40
+#Ele vai dar as chaves
+para seduzir clientes#
+
+ 196: 13:08:49.13 13:08:53.12  Durée 00:00:03.24  Lisibilité 59
+#e assim poder ter um salário
+no fim do mês.#
+
+ 197: 13:08:53.16 13:08:56.22  Durée 00:00:03.06  Lisibilité 49
+Vocês têm de ser
+como um camaleão, o animal.
+
+ 198: 13:08:58.08 13:09:01.14  Durée 00:00:03.06  Lisibilité 49
+Ele é verde, vocês são verdes.
+Ele é vermelho, vocês também.
+
+ 199: 13:09:01.18 13:09:02.23  Durée 00:00:01.05  Lisibilité 18
+Ele é velho,
+são velhos.
+
+ 200: 13:09:03.02 13:09:05.24  Durée 00:00:02.22  Lisibilité 43
+Acreditem, vocês podem
+ganhar muito dinheiro.
+
+ 201: 13:09:06.15 13:09:09.05  Durée 00:00:02.15  Lisibilité 39
+Não pensem muito,
+vão à porta seguinte,
+
+ 202: 13:09:09.09 13:09:10.21  Durée 00:00:01.12  Lisibilité 22
+à próxima conversa,
+
+ 203: 13:09:11.01 13:09:12.17  Durée 00:00:01.16  Lisibilité 25
+à próxima porta.
+
+ 204: 13:09:13.17 13:09:14.16  Durée 00:00:00.24  Lisibilité 14
+#Esses agentes#
+
+ 205: 13:09:15.07 13:09:18.18  Durée 00:00:03.11  Lisibilité 52
+#vão trabalhar exclusivamente
+para o fornecedor de energia.#
+
+ 206: 13:09:18.23 13:09:22.15  Durée 00:00:03.17  Lisibilité 55
+#A palavra de ordem é fechar
+contratos e ganhar comissões,#
+
+ 207: 13:09:22.19 13:09:24.06  Durée 00:00:01.12  Lisibilité 22
+#como explica o gerente.#
+
+ 208: 13:09:24.11 13:09:26.17  Durée 00:00:02.06  Lisibilité 34
+Não penso na Engie,
+penso em mim.
+
+ 209: 13:09:26.21 13:09:28.20  Durée 00:00:01.24  Lisibilité 29
+Dane-se a Engie,
+eu penso em mim.
+
+ 210: 13:09:28.24 13:09:30.07  Durée 00:00:01.08  Lisibilité 20
+Porque é meu salário.
+
+ 211: 13:09:30.11 13:09:32.18  Durée 00:00:02.07  Lisibilité 34
+Não é para fidelizar o cliente.
+
+ 212: 13:09:32.22 13:09:35.07  Durée 00:00:02.10  Lisibilité 36
+Minha prioridade
+é aumentar meu salário.
+
+ 213: 13:09:35.11 13:09:36.20  Durée 00:00:01.09  Lisibilité 20
+É a minha prioridade.
+
+ 214: 13:09:36.24 13:09:38.24  Durée 00:00:02.00  Lisibilité 30
+Não conheço o diretor da Engie,
+
+ 215: 13:09:39.03 13:09:39.24  Durée 00:00:00.21  Lisibilité 13
+nem quero.
+
+ 216: 13:09:40.03 13:09:43.11  Durée 00:00:03.08  Lisibilité 50
+Se todos entrarem no jogo,
+o contracheque aumenta.
+
+ 217: 13:09:46.00 13:09:48.02  Durée 00:00:02.02  Lisibilité 31
+#Após 3 horas de curso,#
+
+ 218: 13:09:49.13 13:09:52.19  Durée 00:00:03.06  Lisibilité 49
+#somos enviados em campo
+em observação no mesmo dia,#
+
+ 219: 13:09:52.23 13:09:55.03  Durée 00:00:02.05  Lisibilité 33
+#sem assinar
+o contrato de trabalho.#
+
+ 220: 13:09:55.08 13:09:56.19  Durée 00:00:01.11  Lisibilité 22
+-Tudo bem?
+-Sim, ótimo.
+
+ 221: 13:09:56.23 13:09:58.03  Durée 00:00:01.05  Lisibilité 18
+-Em forma?
+-Total.
+
+ 222: 13:09:58.13 13:10:00.13  Durée 00:00:02.00  Lisibilité 30
+Pronto para uma nova aventura?
+
+ 223: 13:10:01.04 13:10:04.18  Durée 00:00:03.14  Lisibilité 53
+#As coisas sérias vão começar
+com uma agente experiente#
+
+ 224: 13:10:04.23 13:10:06.07  Durée 00:00:01.09  Lisibilité 20
+#que chamaremos Stéphanie.#
+
+ 225: 13:10:06.11 13:10:09.21  Durée 00:00:03.10  Lisibilité 51
+#Como todos os agentes do grupo,
+sua estratégia é simples:#
+
+ 226: 13:10:10.01 13:10:12.21  Durée 00:00:02.20  Lisibilité 42
+#percorrer a cidade de rua em rua,
+casa em casa.#
+
+ 227: 13:10:13.00 13:10:14.11  Durée 00:00:01.11  Lisibilité 22
+Vamos fundo num setor.
+
+ 228: 13:10:14.16 13:10:18.00  Durée 00:00:03.09  Lisibilité 50
+No começo do setor,
+pegamos um mapa da prefeitura.
+
+ 229: 13:10:18.14 13:10:19.17  Durée 00:00:01.03  Lisibilité 17
+E vemos todas as ruas.
+
+ 230: 13:10:19.22 13:10:23.05  Durée 00:00:03.08  Lisibilité 50
+#Objetivo, descobrir os clientes EDF,
+especialmente,#
+
+ 231: 13:10:23.09 13:10:25.14  Durée 00:00:02.05  Lisibilité 33
+#e trazê-los
+para o setor privado.#
+
+ 232: 13:10:25.19 13:10:27.13  Durée 00:00:01.19  Lisibilité 26
+Bom dia.
+Desculpe incomodar.
+
+ 233: 13:10:27.17 13:10:29.03  Durée 00:00:01.11  Lisibilité 22
+Venho pelo gás e a luz.
+
+ 234: 13:10:30.02 13:10:33.00  Durée 00:00:02.23  Lisibilité 44
+#Para isso, essa agente
+tem uma técnica própria.#
+
+ 235: 13:10:33.04 13:10:35.13  Durée 00:00:02.09  Lisibilité 35
+#Ela não hesita
+em distorcer a realidade,#
+
+ 236: 13:10:35.17 13:10:38.05  Durée 00:00:02.13  Lisibilité 38
+#como com esse casal de aposentados.#
+
+ 237: 13:10:38.09 13:10:40.08  Durée 00:00:01.24  Lisibilité 29
+Enviamos um documento em maio
+
+ 238: 13:10:40.12 13:10:43.07  Durée 00:00:02.20  Lisibilité 42
+que deveriam nos reenviar
+para não ter mais aumentos.
+
+ 239: 13:10:43.22 13:10:46.01  Durée 00:00:02.04  Lisibilité 32
+#Não é um documento oficial,#
+
+ 240: 13:10:46.05 13:10:49.05  Durée 00:00:03.00  Lisibilité 45
+#e sim um folheto públicoitário
+datado de janeiro,#
+
+ 241: 13:10:49.10 13:10:53.05  Durée 00:00:03.20  Lisibilité 57
+#e não de maio, um truque
+para chamar a atenção de cara.#
+
+ 242: 13:10:53.09 13:10:54.22  Durée 00:00:01.13  Lisibilité 23
+#Mas o que interessa
+a ela#
+
+ 243: 13:10:55.01 13:10:57.21  Durée 00:00:02.20  Lisibilité 42
+#é poder olhar a conta da EDF.#
+
+ 244: 13:11:00.03 13:11:02.05  Durée 00:00:02.02  Lisibilité 31
+Vocês ainda têm cobrança da EDF?
+
+ 245: 13:11:02.21 13:11:04.14  Durée 00:00:01.18  Lisibilité 26
+Vocês têm uma conta de luz,
+
+ 246: 13:11:04.18 13:11:06.14  Durée 00:00:01.21  Lisibilité 28
+para ver
+se isso não foi feito?
+
+ 247: 13:11:06.18 13:11:07.24  Durée 00:00:01.06  Lisibilité 19
+Se estão qualificados?
+
+ 248: 13:11:08.03 13:11:09.03  Durée 00:00:01.00  Lisibilité 15
+Por favor.
+Obrigada.
+
+ 249: 13:11:09.20 13:11:13.11  Durée 00:00:03.16  Lisibilité 55
+#Um meio para a agente
+de entrar na residência do casal.#
+
+ 250: 13:11:13.21 13:11:16.16  Durée 00:00:02.20  Lisibilité 42
+A última que receberam de 2017.
+
+ 251: 13:11:16.20 13:11:18.21  Durée 00:00:02.01  Lisibilité 31
+A que vocês têm é uma fatura?
+
+ 252: 13:11:19.02 13:11:20.12  Durée 00:00:01.10  Lisibilité 21
+Você leva jeito.
+
+ 253: 13:11:20.16 13:11:23.07  Durée 00:00:02.16  Lisibilité 40
+Digamos que começo a conhecê-los.
+
+ 254: 13:11:23.17 13:11:25.13  Durée 00:00:01.21  Lisibilité 28
+É isto que você quer?
+
+ 255: 13:11:25.17 13:11:29.08  Durée 00:00:03.16  Lisibilité 55
+#Em geral, os aposentados
+resistem a deixar a EDF,#
+
+ 256: 13:11:29.13 13:11:31.05  Durée 00:00:01.17  Lisibilité 25
+#a histórica estatal.#
+
+ 257: 13:11:31.09 13:11:34.05  Durée 00:00:02.21  Lisibilité 43
+#Stéphanie vai tentar
+tranquilizá-los ao máximo.#
+
+ 258: 13:11:34.09 13:11:37.19  Durée 00:00:03.10  Lisibilité 51
+#Ela vai dar a entender que a Engie,
+antigamente GDF Suez,#
+
+ 259: 13:11:37.23 13:11:41.17  Durée 00:00:03.19  Lisibilité 56
+#ainda faz parte do serviço público,
+o que é falso.#
+
+ 260: 13:11:41.21 13:11:43.09  Durée 00:00:01.13  Lisibilité 23
+Vocês continuam
+na estatal,
+
+ 261: 13:11:43.13 13:11:46.06  Durée 00:00:02.18  Lisibilité 41
+se tiverem um problema de medidor,
+da EDF ou GDF,
+
+ 262: 13:11:46.10 13:11:48.23  Durée 00:00:02.13  Lisibilité 38
+viremos gratuitamente consertar.
+
+ 263: 13:11:49.16 13:11:51.23  Durée 00:00:02.07  Lisibilité 34
+No privado,
+é um pouco mais complicado.
+
+ 264: 13:11:52.24 13:11:56.11  Durée 00:00:03.12  Lisibilité 52
+#Depois ela vai bombardeá-los
+de informações#
+
+ 265: 13:11:56.15 13:11:58.01  Durée 00:00:01.11  Lisibilité 22
+#nem sempre claras.#
+
+ 266: 13:11:58.05 13:12:00.14  Durée 00:00:02.09  Lisibilité 35
+E acabar com uma fatura
+de 70.000 kWh.
+
+ 267: 13:12:01.02 13:12:02.18  Durée 00:00:01.16  Lisibilité 25
+Então quando saem da EDF,
+
+ 268: 13:12:02.22 13:12:05.21  Durée 00:00:02.24  Lisibilité 44
+vocês deixam a EDF,
+mas também o serviço público.
+
+ 269: 13:12:06.00 13:12:08.05  Durée 00:00:02.05  Lisibilité 33
+Perdemos um cliente irrecuperável.
+
+ 270: 13:12:08.09 13:12:11.16  Durée 00:00:03.07  Lisibilité 49
+Por isso também tentamos fidelizar
+os clientes da EDF.
+
+ 271: 13:12:11.20 13:12:14.08  Durée 00:00:02.13  Lisibilité 38
+Em vez de estar na EDF,
+vocês vão para a GDF.
+
+ 272: 13:12:14.12 13:12:16.11  Durée 00:00:01.24  Lisibilité 29
+E em 6 meses,
+podem voltar à EDF.
+
+ 273: 13:12:16.15 13:12:20.10  Durée 00:00:03.20  Lisibilité 57
+Enquanto isso,
+vocês não têm mais os aumentos.
+
+ 274: 13:12:21.12 13:12:22.07  Durée 00:00:00.20  Lisibilité 12
+É isso.
+
+ 275: 13:12:22.22 13:12:23.17  Durée 00:00:00.20  Lisibilité 12
+Sim.
+
+ 276: 13:12:24.10 13:12:25.12  Durée 00:00:01.02  Lisibilité 16
+Está tudo claro?
+
+ 277: 13:12:27.08 13:12:28.17  Durée 00:00:01.09  Lisibilité 20
+Não entendi tudo.
+
+ 278: 13:12:28.21 13:12:32.03  Durée 00:00:03.07  Lisibilité 49
+Como eu faço
+para não ter mais esses aumentos?
+
+ 279: 13:12:32.07 13:12:34.06  Durée 00:00:01.24  Lisibilité 29
+Precisa mudar para a GDF.
+A Engie.
+
+ 280: 13:12:36.04 13:12:37.13  Durée 00:00:01.09  Lisibilité 20
+Está interessado?
+
+ 281: 13:12:37.17 13:12:39.08  Durée 00:00:01.16  Lisibilité 25
+Sim, claro.
+
+ 282: 13:12:39.13 13:12:40.15  Durée 00:00:01.02  Lisibilité 16
+Posso sentar ali?
+
+ 283: 13:12:41.00 13:12:43.16  Durée 00:00:02.16  Lisibilité 40
+#Usando a confusão
+em torno do serviço público#
+
+ 284: 13:12:43.20 13:12:47.00  Durée 00:00:03.05  Lisibilité 48
+#e propondo uma queda
+nas próximas faturas,#
+
+ 285: 13:12:47.05 13:12:49.17  Durée 00:00:02.12  Lisibilité 37
+#Ela consegue fazê-los migrar
+para o privado#
+
+ 286: 13:12:49.21 13:12:52.16  Durée 00:00:02.20  Lisibilité 42
+#sem que o casal perceba.#
+
+ 287: 13:12:52.20 13:12:55.02  Durée 00:00:02.07  Lisibilité 34
+Nome e sobrenome.
+Deixo com vocês.
+
+ 288: 13:12:56.13 13:12:58.19  Durée 00:00:02.06  Lisibilité 34
+Isso nos faz baixar
+para 127 E por mês.
+
+ 289: 13:12:59.16 13:13:01.12  Durée 00:00:01.21  Lisibilité 28
+Vamos poder comer fora.
+
+ 290: 13:13:01.16 13:13:02.12  Durée 00:00:00.21  Lisibilité 13
+Pronto.
+
+ 291: 13:13:03.07 13:13:04.08  Durée 00:00:01.01  Lisibilité 16
+Obrigada. Tchau!
+
+ 292: 13:13:04.12 13:13:05.07  Durée 00:00:00.20  Lisibilité 12
+Tchau.
+
+ 293: 13:13:05.18 13:13:08.19  Durée 00:00:03.01  Lisibilité 46
+#Alimentar a dúvida
+sobre o serviço público,#
+
+ 294: 13:13:08.24 13:13:11.08  Durée 00:00:02.09  Lisibilité 35
+#ser rápida, seria o método dela.#
+
+ 295: 13:13:16.01 13:13:18.07  Durée 00:00:02.06  Lisibilité 34
+É você que deve dirigir
+a conversa.
+
+ 296: 13:13:19.05 13:13:22.00  Durée 00:00:02.20  Lisibilité 42
+O cliente deve sentir que...
+
+ 297: 13:13:22.04 13:13:23.12  Durée 00:00:01.08  Lisibilité 20
+Deve deixá-lo
+sem opção.
+
+ 298: 13:13:23.16 13:13:24.21  Durée 00:00:01.05  Lisibilité 18
+Você vem fechar.
+
+ 299: 13:13:25.00 13:13:26.12  Durée 00:00:01.12  Lisibilité 22
+Vem fechar um contrato.
+
+ 300: 13:13:26.16 13:13:28.06  Durée 00:00:01.15  Lisibilité 24
+Precisa ser convincente.
+
+ 301: 13:13:28.10 13:13:30.13  Durée 00:00:02.03  Lisibilité 32
+Precisa fechar,
+se quiser receber.
+
+ 302: 13:13:30.17 13:13:31.16  Durée 00:00:00.24  Lisibilité 14
+Entendeu?
+
+ 303: 13:13:32.20 13:13:33.15  Durée 00:00:00.20  Lisibilité 12
+Bom dia.
+
+ 304: 13:13:34.13 13:13:37.17  Durée 00:00:03.04  Lisibilité 47
+#Uma hora depois,
+no mesmo bairro residencial,#
+
+ 305: 13:13:37.21 13:13:39.04  Durée 00:00:01.08  Lisibilité 20
+#outro tipo de caso#
+
+ 306: 13:13:39.08 13:13:42.03  Durée 00:00:02.20  Lisibilité 42
+#e, como poderão ver,
+também problemático.#
+
+ 307: 13:13:43.15 13:13:44.12  Durée 00:00:00.22  Lisibilité 13
+Bom dia.
+
+ 308: 13:13:44.16 13:13:48.08  Durée 00:00:03.17  Lisibilité 55
+#Nesse dia, os pais dessa moça
+não estão em casa.#
+
+ 309: 13:13:48.12 13:13:51.10  Durée 00:00:02.23  Lisibilité 44
+#Mas isso não para nossa agente,
+pelo contrário.#
+
+ 310: 13:13:51.14 13:13:52.16  Durée 00:00:01.02  Lisibilité 16
+Quem cuida das contas?
+
+ 311: 13:13:52.20 13:13:54.10  Durée 00:00:01.15  Lisibilité 24
+-Meus pais.
+-Eles estão?
+
+ 312: 13:13:54.14 13:13:55.20  Durée 00:00:01.06  Lisibilité 19
+-Não.
+-Ah, certo.
+
+ 313: 13:13:55.24 13:13:57.02  Durée 00:00:01.03  Lisibilité 17
+-Você é maior?
+-Sou.
+
+ 314: 13:13:57.06 13:13:58.12  Durée 00:00:01.06  Lisibilité 19
+Venha, vamos entrar.
+
+ 315: 13:13:58.23 13:14:02.23  Durée 00:00:04.00  Lisibilité 60
+#Stéphanie quer
+que os pais da moça deixem a EDF.#
+
+ 316: 13:14:03.02 13:14:04.03  Durée 00:00:01.01  Lisibilité 16
+Obrigada.
+
+ 317: 13:14:04.07 13:14:06.07  Durée 00:00:02.00  Lisibilité 30
+#Para isso, nova mentira.#
+
+ 318: 13:14:06.11 13:14:08.02  Durée 00:00:01.16  Lisibilité 25
+#Ela afirma que a estatal#
+
+ 319: 13:14:08.06 13:14:11.06  Durée 00:00:03.00  Lisibilité 45
+#planeja aumentar fortemente
+as tarifas em 2019.#
+
+ 320: 13:14:11.10 13:14:13.09  Durée 00:00:01.24  Lisibilité 29
+A EDF, a energia...
+
+ 321: 13:14:13.13 13:14:16.10  Durée 00:00:02.22  Lisibilité 43
+Qual seria
+a porcentagem de aumento?
+
+ 322: 13:14:16.14 13:14:19.18  Durée 00:00:03.04  Lisibilité 47
+Em 2019, você terá 17% de aumento.
+
+ 323: 13:14:19.22 13:14:20.18  Durée 00:00:00.21  Lisibilité 13
+17%.
+
+ 324: 13:14:21.08 13:14:24.08  Durée 00:00:03.00  Lisibilité 45
+#Esse número de 17%
+é uma invenção.#
+
+ 325: 13:14:24.12 13:14:27.22  Durée 00:00:03.10  Lisibilité 51
+#O Estado ainda não planejou
+aumento de tarifas da EDF.#
+
+ 326: 13:14:28.01 13:14:30.07  Durée 00:00:02.06  Lisibilité 34
+#Mas isso, a moça não sabe.#
+
+ 327: 13:14:30.11 13:14:31.07  Durée 00:00:00.21  Lisibilité 13
+17%.
+
+ 328: 13:14:31.11 13:14:34.02  Durée 00:00:02.16  Lisibilité 40
+Se você mudar hoje,
+não terá aumento.
+
+ 329: 13:14:34.06 13:14:36.13  Durée 00:00:02.07  Lisibilité 34
+#Stéphanie quer fechar a venda
+no ato.#
+
+ 330: 13:14:36.17 13:14:39.16  Durée 00:00:02.24  Lisibilité 44
+#Ela pede que ela ligue
+para os pais e peça o aval#
+
+ 331: 13:14:39.20 13:14:42.18  Durée 00:00:02.23  Lisibilité 44
+#para assinar o novo contrato
+no lugar deles.#
+
+ 332: 13:14:42.22 13:14:44.21  Durée 00:00:01.24  Lisibilité 29
+Não sei o que eles farão.
+
+ 333: 13:14:45.00 13:14:47.02  Durée 00:00:02.02  Lisibilité 31
+Não poderemos fazer isso depois.
+
+ 334: 13:14:47.17 13:14:49.16  Durée 00:00:01.24  Lisibilité 29
+É que depois, não dá.
+
+ 335: 13:14:50.03 13:14:52.21  Durée 00:00:02.18  Lisibilité 41
+Pode ligar para eles?
+Explicar por telefone?
+
+ 336: 13:15:01.20 13:15:02.22  Durée 00:00:01.02  Lisibilité 16
+Disseram para mudar.
+
+ 337: 13:15:03.02 13:15:06.21  Durée 00:00:03.19  Lisibilité 56
+#A jovem obtém o aval
+dos pais por telefone.#
+
+ 338: 13:15:07.00 13:15:09.03  Durée 00:00:02.03  Lisibilité 32
+Aqui, só o seu nome e assinatura.
+
+ 339: 13:15:10.01 13:15:12.02  Durée 00:00:02.01  Lisibilité 31
+#Fazer uma menina
+assinar o contrato...#
+
+ 340: 13:15:12.07 13:15:13.17  Durée 00:00:01.10  Lisibilité 21
+Obrigada. Tchau.
+
+ 341: 13:15:13.21 13:15:15.01  Durée 00:00:01.05  Lisibilité 18
+-Tchau.
+-Tchau.
+
+ 342: 13:15:15.05 13:15:19.00  Durée 00:00:03.20  Lisibilité 57
+#Uma prática autorizada,
+mas moralmente contestável.#
+
+ 343: 13:15:19.04 13:15:20.17  Durée 00:00:01.13  Lisibilité 23
+#Mas, com essa venda,#
+
+ 344: 13:15:21.05 13:15:24.16  Durée 00:00:03.11  Lisibilité 52
+#Stéphanie acaba de embolsar 67 euros
+em poucos minutos.#
+
+ 345: 13:15:24.20 13:15:25.21  Durée 00:00:01.01  Lisibilité 16
+Pode ser rápido.
+
+ 346: 13:15:26.05 13:15:28.17  Durée 00:00:02.12  Lisibilité 37
+Acerto 3, 4 por dia.
+
+ 347: 13:15:29.17 13:15:31.10  Durée 00:00:01.18  Lisibilité 26
+E somos muitos em campo
+
+ 348: 13:15:31.14 13:15:32.18  Durée 00:00:01.04  Lisibilité 17
+rápidos assim.
+
+ 349: 13:15:33.09 13:15:35.23  Durée 00:00:02.14  Lisibilité 38
+#3, 4 clientes "acertados" por dia,#
+
+ 350: 13:15:36.02 13:15:39.11  Durée 00:00:03.09  Lisibilité 50
+#ou seja, 250 E em média
+de ganhos para a moça.#
+
+ 351: 13:15:39.15 13:15:42.15  Durée 00:00:03.00  Lisibilité 45
+#O que representaria
+5 mil euros por mês.#
+
+ 352: 13:15:42.19 13:15:44.22  Durée 00:00:02.03  Lisibilité 32
+#Um método de venda contestável,#
+
+ 353: 13:15:45.02 13:15:47.03  Durée 00:00:02.01  Lisibilité 31
+#argumentos às vezes enganadores,#
+
+ 354: 13:15:47.07 13:15:51.01  Durée 00:00:03.19  Lisibilité 56
+#foi o que nós constatamos
+com vendedores.#
+
+ 355: 13:15:51.06 13:15:53.18  Durée 00:00:02.12  Lisibilité 37
+#Nós procuramos,
+por telefone e e-mail,#
+
+ 356: 13:15:53.22 13:15:56.00  Durée 00:00:02.03  Lisibilité 32
+#a empresa
+que emprega essa agente.#
+
+ 357: 13:15:56.04 13:15:57.17  Durée 00:00:01.13  Lisibilité 23
+#Ela não quis responder.#
+
+ 358: 13:15:57.22 13:15:59.20  Durée 00:00:01.23  Lisibilité 29
+#Queríamos
+encontrar os gerentes.#
+
+ 359: 13:15:59.21 13:16:00.16  Durée 00:00:00.20  Lisibilité 12
+Bom dia.
+
+ 360: 13:16:01.17 13:16:04.01  Durée 00:00:02.09  Lisibilité 35
+#Somos recebidos pelo diretor.#
+
+ 361: 13:16:04.05 13:16:06.19  Durée 00:00:02.14  Lisibilité 38
+#Nós filmamos a entrevista
+com câmera discreta.#
+
+ 362: 13:16:06.24 13:16:09.14  Durée 00:00:02.15  Lisibilité 39
+Agentes nos disseram
+para nos apresentar
+
+ 363: 13:16:09.18 13:16:12.14  Durée 00:00:02.21  Lisibilité 43
+como empregados da Engie
+e falamos de serviço público.
+
+ 364: 13:16:12.18 13:16:14.04  Durée 00:00:01.11  Lisibilité 22
+É mentira.
+
+ 365: 13:16:14.08 13:16:17.12  Durée 00:00:03.04  Lisibilité 47
+Não, esse não é o discurso
+
+ 366: 13:16:17.16 13:16:20.05  Durée 00:00:02.14  Lisibilité 38
+que pedimos que os agentes usem.
+
+ 367: 13:16:20.09 13:16:23.23  Durée 00:00:03.14  Lisibilité 53
+Não vamos usar a conotação
+de serviço público.
+
+ 368: 13:16:24.03 13:16:27.22  Durée 00:00:03.19  Lisibilité 56
+Não é porque vocês entrevistaram
+2 agentes em fim de carreira
+
+ 369: 13:16:28.01 13:16:31.09  Durée 00:00:03.08  Lisibilité 50
+que é uma imagem da realidade.
+
+ 370: 13:16:31.13 13:16:33.22  Durée 00:00:02.09  Lisibilité 35
+Talvez tenha um imbecil em campo.
+
+ 371: 13:16:34.01 13:16:37.22  Durée 00:00:03.21  Lisibilité 58
+Tem sempre gente
+que faz seu trabalho mal.
+
+ 372: 13:16:38.02 13:16:39.20  Durée 00:00:01.18  Lisibilité 26
+Certo.
+Muito obrigada.
+
+ 373: 13:16:39.24 13:16:42.07  Durée 00:00:02.08  Lisibilité 35
+#Stéphanie,
+a agente que acompanhamos,#
+
+ 374: 13:16:42.11 13:16:44.14  Durée 00:00:02.03  Lisibilité 32
+#que alimenta confusão
+sobre a Engie#
+
+ 375: 13:16:44.18 13:16:47.10  Durée 00:00:02.17  Lisibilité 40
+#e dá falsos argumentos
+para vender seus contratos#
+
+ 376: 13:16:47.14 13:16:49.14  Durée 00:00:02.00  Lisibilité 30
+#não está em fim de carreira.#
+
+ 377: 13:16:49.18 13:16:52.19  Durée 00:00:03.01  Lisibilité 46
+#Ela seria considerada
+uma das melhores agentes,#
+
+ 378: 13:16:52.23 13:16:54.08  Durée 00:00:01.10  Lisibilité 21
+#e segundo soubemos,#
+
+ 379: 13:16:54.21 13:16:58.24  Durée 00:00:04.03  Lisibilité 62
+#ela deve até ser promovida em breve
+na empresa.#
+
+ 380: 13:16:59.03 13:17:01.18  Durée 00:00:02.15  Lisibilité 39
+#Nós procuramos
+várias vezes a Engie,#
+
+ 381: 13:17:01.22 13:17:05.09  Durée 00:00:03.12  Lisibilité 52
+#a fornecedora privada
+que terceiriza a prospecção.#
+
+ 382: 13:17:05.13 13:17:07.13  Durée 00:00:02.00  Lisibilité 30
+#Eis sua resposta por e-mail.#
+
+ 383: 13:17:07.17 13:17:11.03  Durée 00:00:03.11  Lisibilité 52
+"A Engie é extremamente vigilante
+com a qualidade das vendas.
+
+ 384: 13:17:11.07 13:17:15.06  Durée 00:00:03.24  Lisibilité 59
+"Os casos de deslizes
+são estatisticamente raros.
+
+ 385: 13:17:15.10 13:17:16.18  Durée 00:00:01.08  Lisibilité 20
+"Temos instruções claras
+
+ 386: 13:17:16.22 13:17:19.09  Durée 00:00:02.12  Lisibilité 37
+"que viam a proibir
+argumentos de venda
+
+ 387: 13:17:19.13 13:17:23.10  Durée 00:00:03.22  Lisibilité 58
+"que visariam a introduzir
+uma confusão entre Engie e EDF,
+
+ 388: 13:17:23.14 13:17:25.14  Durée 00:00:02.00  Lisibilité 30
+"e sobre fazer previsões sobre
+
+ 389: 13:17:25.18 13:17:27.15  Durée 00:00:01.22  Lisibilité 28
+"altas de preços de energia.
+
+ 390: 13:17:27.19 13:17:32.00  Durée 00:00:04.06  Lisibilité 64
+"Enfim, um vendedor porta-a-porta
+não pode efetuar uma venda
+
+ 391: 13:17:32.04 13:17:35.05  Durée 00:00:03.01  Lisibilité 46
+"sem a assinatura do titular
+do futuro contrato.
+
+ 392: 13:17:35.09 13:17:37.21  Durée 00:00:02.12  Lisibilité 37
+"No caso de o vendedor
+agir de outra modo,
+
+ 393: 13:17:38.00 13:17:41.00  Durée 00:00:03.00  Lisibilité 45
+"sanções imediatas
+seriam tomadas pela Engie."
+
+ 394: 13:17:41.05 13:17:42.05  Durée 00:00:01.00  Lisibilité 15
+#Mas,
+em dezembro,#
+
+ 395: 13:17:42.09 13:17:46.16  Durée 00:00:04.07  Lisibilité 64
+#ela foi condenada a 150 mil euros
+de multa por concorrência desleal.#
+
+ 396: 13:17:46.20 13:17:49.05  Durée 00:00:02.10  Lisibilité 36
+#Notadamente
+porque certos agentes seus#
+
+ 397: 13:17:49.09 13:17:50.16  Durée 00:00:01.07  Lisibilité 19
+#usavam o nome da EDF.#
+
+ 398: 13:17:51.14 13:17:52.20  Durée 00:00:01.06  Lisibilité 19
+#A Engie recorreu.#
+
+ 399: 13:17:52.24 13:17:54.16  Durée 00:00:01.17  Lisibilité 25
+#O processo está em curso.#
+
+ 400: 13:17:54.20 13:17:55.21  Durée 00:00:01.01  Lisibilité 16
+#E há algum tempo,#
+
+ 401: 13:17:56.00 13:17:59.04  Durée 00:00:03.04  Lisibilité 47
+#seu nome surge
+em outros casos de vendas litigiosas#
+
+ 402: 13:17:59.09 13:18:02.10  Durée 00:00:03.01  Lisibilité 46
+#que não teriam nada a ver
+com venda em domicílio.#
+
+ 403: 13:18:02.15 13:18:05.05  Durée 00:00:02.15  Lisibilité 39
+#Também haveria problemas
+nas lojas,#
+
+ 404: 13:18:05.09 13:18:08.05  Durée 00:00:02.21  Lisibilité 43
+#sobretudo numa grande rede
+de eletrodomésticos#
+
+ 405: 13:18:08.09 13:18:11.19  Durée 00:00:03.10  Lisibilité 51
+#com quem a Engie
+teria uma parceria comercial.#
+
+ 406: 13:18:11.24 13:18:16.03  Durée 00:00:04.04  Lisibilité 62
+#E na imprensa, os depoimentos
+de consumidores descontentes#
+
+ 407: 13:18:16.07 13:18:17.12  Durée 00:00:01.05  Lisibilité 18
+#se multiplicam.#
+
+ 408: 13:18:17.16 13:18:20.14  Durée 00:00:02.23  Lisibilité 44
+Recebi um e-mail da Engie
+me dando boas-vindas.
+
+ 409: 13:18:20.18 13:18:23.08  Durée 00:00:02.15  Lisibilité 39
+#Comprar uma geladeira,
+por exemplo,#
+
+ 410: 13:18:23.12 13:18:27.08  Durée 00:00:03.21  Lisibilité 58
+#e acabar cliente
+dessa distribuidora privada#
+
+ 411: 13:18:27.12 13:18:29.03  Durée 00:00:01.16  Lisibilité 25
+#sem perceber,#
+
+ 412: 13:18:29.07 13:18:32.17  Durée 00:00:03.10  Lisibilité 51
+#esse tipo de caso
+teria acontecido várias vezes.#
+
+ 413: 13:18:33.12 13:18:35.08  Durée 00:00:01.21  Lisibilité 28
+-Patricia.
+-Sim.
+
+ 414: 13:18:35.13 13:18:38.21  Durée 00:00:03.08  Lisibilité 50
+É um caso em que ele foi à Darty,
+de memória.
+
+ 415: 13:18:39.00 13:18:41.05  Durée 00:00:02.05  Lisibilité 33
+-Exatamente.
+-Ele assinou o contrato.
+
+ 416: 13:18:41.09 13:18:44.01  Durée 00:00:02.17  Lisibilité 40
+#Esse tipo de litígio tem chegado#
+
+ 417: 13:18:44.05 13:18:46.14  Durée 00:00:02.09  Lisibilité 35
+#à mesa da reguladora de energia.#
+
+ 418: 13:18:47.23 13:18:49.08  Durée 00:00:01.10  Lisibilité 21
+Nos depoimentos
+que temos,
+
+ 419: 13:18:49.12 13:18:52.18  Durée 00:00:03.06  Lisibilité 49
+são assinaturas que foram obtidas.
+
+ 420: 13:18:52.22 13:18:56.00  Durée 00:00:03.03  Lisibilité 47
+O consumidor não percebeu
+que tinha assinado.
+
+ 421: 13:18:56.04 13:18:59.14  Durée 00:00:03.10  Lisibilité 51
+Às vezes vai na pilha de documentos
+que lhe entregam.
+
+ 422: 13:18:59.18 13:19:02.06  Durée 00:00:02.13  Lisibilité 38
+De fato, ele não se deu conta.
+
+ 423: 13:19:02.10 13:19:05.06  Durée 00:00:02.21  Lisibilité 43
+Em todo caso,
+é o que o consumidor nos diz.
+
+ 424: 13:19:06.05 13:19:07.09  Durée 00:00:01.04  Lisibilité 17
+Está vendo aqui?
+
+ 425: 13:19:07.14 13:19:08.24  Durée 00:00:01.10  Lisibilité 21
+É aqui, a Darty.
+
+ 426: 13:19:09.03 13:19:13.05  Durée 00:00:04.02  Lisibilité 61
+#Essa desventura teria acontecido
+com Georges d'Almeida, 61 anos.#
+
+ 427: 13:19:13.09 13:19:17.12  Durée 00:00:04.03  Lisibilité 62
+Eu sempre achei
+que eles tinham bons produtos.
+
+ 428: 13:19:17.17 13:19:20.16  Durée 00:00:02.24  Lisibilité 44
+#Cliente fiel há tempos da loja,#
+
+ 429: 13:19:20.21 13:19:23.13  Durée 00:00:02.17  Lisibilité 40
+#esse diretor
+num organismo de formação#
+
+ 430: 13:19:23.17 13:19:26.20  Durée 00:00:03.03  Lisibilité 47
+#agora não quer mais
+ouvir falar dela.#
+
+ 431: 13:19:27.18 13:19:29.08  Durée 00:00:01.15  Lisibilité 24
+#Há alguns meses,#
+
+ 432: 13:19:29.12 13:19:32.18  Durée 00:00:03.06  Lisibilité 49
+#sua filha de 25 anos
+teria ido a uma das lojas#
+
+ 433: 13:19:32.22 13:19:34.12  Durée 00:00:01.15  Lisibilité 24
+#para comprar um aparelho.#
+
+ 434: 13:19:35.09 13:19:36.06  Durée 00:00:00.22  Lisibilité 13
+#No caixa,#
+
+ 435: 13:19:36.10 13:19:40.07  Durée 00:00:03.22  Lisibilité 58
+#um vendedor teria proposto
+mudar para a Engie,#
+
+ 436: 13:19:40.11 13:19:43.01  Durée 00:00:02.15  Lisibilité 39
+#o que ela teria aceitado
+e assinado.#
+
+ 437: 13:19:43.12 13:19:46.07  Durée 00:00:02.20  Lisibilité 42
+#Mas o problema
+é que com o seu sobrenome,#
+
+ 438: 13:19:46.12 13:19:49.20  Durée 00:00:03.08  Lisibilité 50
+#o vendedor teria aproveitado
+para assinar o pai,#
+
+ 439: 13:19:49.24 13:19:51.13  Durée 00:00:01.14  Lisibilité 23
+#Georges, no caso.#
+
+ 440: 13:19:51.17 13:19:55.09  Durée 00:00:03.17  Lisibilité 55
+#Um habitué da loja, e portanto,
+no cadastro de clientes.#
+
+ 441: 13:19:55.13 13:19:56.23  Durée 00:00:01.10  Lisibilité 21
+Mudaram minha operadora,
+
+ 442: 13:19:57.02 13:20:02.02  Durée 00:00:05.00  Lisibilité 75
+embora eu não tivesse ido à Darty
+com minha filha.
+
+ 443: 13:20:02.06 13:20:05.13  Durée 00:00:03.07  Lisibilité 49
+E minha esposa,
+que foi com a filha,
+
+ 444: 13:20:05.17 13:20:08.14  Durée 00:00:02.22  Lisibilité 43
+não disseram nada a ela,
+ela não assinou nada.
+
+ 445: 13:20:08.18 13:20:11.09  Durée 00:00:02.16  Lisibilité 40
+Então acabamos,
+de um dia para o outro,
+
+ 446: 13:20:11.13 13:20:15.00  Durée 00:00:03.12  Lisibilité 52
+com uma carta da Engie dizendo
+
+ 447: 13:20:15.04 13:20:17.15  Durée 00:00:02.11  Lisibilité 37
+que era nossa nova distribuidora.
+
+ 448: 13:20:17.19 13:20:22.08  Durée 00:00:04.14  Lisibilité 68
+Com isso, eu procurei a Darty
+
+ 449: 13:20:22.12 13:20:24.24  Durée 00:00:02.12  Lisibilité 37
+para explicar o problema.
+
+ 450: 13:20:25.03 13:20:27.04  Durée 00:00:02.01  Lisibilité 31
+Eles não quiseram saber.
+
+ 451: 13:20:27.09 13:20:31.02  Durée 00:00:03.18  Lisibilité 56
+Eu disse a eles que era um dano,
+que minha filha não podia mudar
+
+ 452: 13:20:31.06 13:20:33.15  Durée 00:00:02.09  Lisibilité 35
+para ela e para nós.
+Não é possível.
+
+ 453: 13:20:33.20 13:20:35.15  Durée 00:00:01.20  Lisibilité 27
+#Nós procuramos a loja#
+
+ 454: 13:20:35.19 13:20:38.22  Durée 00:00:03.03  Lisibilité 47
+#para saber o que realmente
+aconteceu com Georges.#
+
+ 455: 13:20:39.01 13:20:41.22  Durée 00:00:02.21  Lisibilité 43
+#Ela recusou
+nossos pedidos de entrevista.#
+
+ 456: 13:20:42.02 13:20:44.07  Durée 00:00:02.05  Lisibilité 33
+#Georges, com sua esposa Aïssatou,#
+
+ 457: 13:20:44.11 13:20:47.09  Durée 00:00:02.23  Lisibilité 44
+#decidiram recorrer
+à reguladora de energia,#
+
+ 458: 13:20:47.13 13:20:50.09  Durée 00:00:02.21  Lisibilité 43
+#que abriu um caso.
+Eles estão consumindo#
+
+ 459: 13:20:50.14 13:20:53.03  Durée 00:00:02.14  Lisibilité 38
+#a energia da Engie,
+mas estão furiosos,#
+
+ 460: 13:20:53.07 13:20:56.05  Durée 00:00:02.23  Lisibilité 44
+#pois consideram
+que foi uma venda abusiva.#
+
+ 461: 13:20:56.09 13:21:00.07  Durée 00:00:03.23  Lisibilité 59
+As cartas da Engie,
+as cobranças da Engie, as...
+
+ 462: 13:21:00.11 13:21:04.24  Durée 00:00:04.13  Lisibilité 68
+#Eles se recusam a pagar
+e ficam numa situação difícil.#
+
+ 463: 13:21:05.03 13:21:08.12  Durée 00:00:03.09  Lisibilité 50
+Esta é de 18 de setembro de 2018.
+
+ 464: 13:21:08.16 13:21:12.10  Durée 00:00:03.19  Lisibilité 56
+-E estão nos cobrando...
+-E estão nos cobrando 563,46 E.
+
+ 465: 13:21:12.14 13:21:13.23  Durée 00:00:01.09  Lisibilité 20
+#E a outra?#
+
+ 466: 13:21:14.02 13:21:18.06  Durée 00:00:04.04  Lisibilité 62
+-E aqui...
+-De 28 de setembro de 2018.
+
+ 467: 13:21:18.10 13:21:23.10  Durée 00:00:05.00  Lisibilité 75
+E estão nos cobrando 711,88 E.
+
+ 468: 13:21:23.14 13:21:25.07  Durée 00:00:01.18  Lisibilité 26
+#-São somas altíssimas.#
+-Pois é.
+
+ 469: 13:21:25.11 13:21:28.11  Durée 00:00:03.00  Lisibilité 45
+São valores extremamente altos.
+
+ 470: 13:21:28.16 13:21:32.04  Durée 00:00:03.13  Lisibilité 53
+#Perante essas somas,
+o casal não dorme mais.#
+
+ 471: 13:21:32.08 13:21:34.22  Durée 00:00:02.14  Lisibilité 38
+#A situação deles
+está virando um pesadelo.#
+
+ 472: 13:21:35.01 13:21:38.12  Durée 00:00:03.11  Lisibilité 52
+#Uma empresa de cobrança
+acaba de entrar em ação.#
+
+ 473: 13:21:38.16 13:21:42.12  Durée 00:00:03.21  Lisibilité 58
+O 04. Estão nos cobrando...
+"Última chamada."
+
+ 474: 13:21:42.16 13:21:44.21  Durée 00:00:02.05  Lisibilité 33
+É a última chamada
+antes do litígio.
+
+ 475: 13:21:45.00 13:21:48.10  Durée 00:00:03.10  Lisibilité 51
+#Ela os ameaça de processo
+por falta de pagamento.#
+
+ 476: 13:21:48.14 13:21:49.22  Durée 00:00:01.08  Lisibilité 20
+#Mas não é só.#
+
+ 477: 13:21:50.01 13:21:51.12  Durée 00:00:01.11  Lisibilité 22
+#Na véspera da filmagem,#
+
+ 478: 13:21:52.13 13:21:56.02  Durée 00:00:03.14  Lisibilité 53
+#Georges teve uma péssima surpresa
+chegando do trabalho.#
+
+ 479: 13:21:56.07 13:21:59.20  Durée 00:00:03.13  Lisibilité 53
+Ao chegar, minha esposa me disse:
+"Georges, não tem gás."
+
+ 480: 13:22:00.11 13:22:04.03  Durée 00:00:03.17  Lisibilité 55
+Eles disseram que se eu não pagasse
+cortariam o gás.
+
+ 481: 13:22:04.07 13:22:06.15  Durée 00:00:02.08  Lisibilité 35
+Então cortaram ontem.
+
+ 482: 13:22:07.10 13:22:09.15  Durée 00:00:02.05  Lisibilité 33
+#Cliente d o gás da Engie
+desde sempre#
+
+ 483: 13:22:09.19 13:22:10.24  Durée 00:00:01.05  Lisibilité 18
+#e por escolha,#
+
+ 484: 13:22:11.04 13:22:13.24  Durée 00:00:02.20  Lisibilité 42
+#o fornecedor decidiu cortá-lo.#
+
+ 485: 13:22:16.09 13:22:18.18  Durée 00:00:02.09  Lisibilité 35
+Você pode imaginar? É chocante.
+
+ 486: 13:22:18.22 13:22:20.11  Durée 00:00:01.14  Lisibilité 23
+Chegamos em casa,
+
+ 487: 13:22:20.15 13:22:23.14  Durée 00:00:02.24  Lisibilité 44
+não imaginamos
+que vão nos cortar o gás.
+
+ 488: 13:22:24.15 13:22:25.22  Durée 00:00:01.07  Lisibilité 19
+#Felizmente para ele,#
+
+ 489: 13:22:26.01 13:22:29.08  Durée 00:00:03.07  Lisibilité 49
+#o consumidor não tem
+prazo de carência em energia#
+
+ 490: 13:22:29.12 13:22:31.16  Durée 00:00:02.04  Lisibilité 32
+#e pode trocar
+a qualquer momento.#
+
+ 491: 13:22:31.20 13:22:35.14  Durée 00:00:03.19  Lisibilité 56
+#Georges voltou, então,
+para a EDF há uma semana.#
+
+ 492: 13:22:35.18 13:22:39.20  Durée 00:00:04.02  Lisibilité 61
+#Mas o problema é que ele tem
+que pagar as famosas faturas.#
+
+ 493: 13:22:39.24 13:22:43.15  Durée 00:00:03.16  Lisibilité 55
+#Ele pretende recorrer à DGCCRF
+por prática abusiva.#
+
+ 494: 13:22:43.19 13:22:45.14  Durée 00:00:01.20  Lisibilité 27
+#Esse serviço
+de repressão de fraudes#
+
+ 495: 13:22:45.19 13:22:50.14  Durée 00:00:04.20  Lisibilité 72
+#decidirá se transmite ou não
+seu caso à Justiça.#
+
+ 496: 13:23:02.23 13:23:04.12  Durée 00:00:01.14  Lisibilité 23
+Após a venda abusiva,
+
+ 497: 13:23:04.16 13:23:07.21  Durée 00:00:03.05  Lisibilité 48
+vamos ver agora
+outro golpe que vem crescendo,
+
+ 498: 13:23:08.00 13:23:10.00  Durée 00:00:02.00  Lisibilité 30
+o dos números sobretaxados.
+
+ 499: 13:23:10.05 13:23:12.15  Durée 00:00:02.10  Lisibilité 36
+Você recebe um SMS no seu celular
+
+ 500: 13:23:12.19 13:23:15.21  Durée 00:00:03.02  Lisibilité 46
+pedindo que ligue para um número
+com urgência.
+
+ 501: 13:23:16.00 13:23:16.24  Durée 00:00:00.24  Lisibilité 14
+É tudo mentira.
+
+ 502: 13:23:17.04 13:23:19.07  Durée 00:00:02.03  Lisibilité 32
+Golpistas pegos
+pelo poder público
+
+ 503: 13:23:19.12 13:23:22.19  Durée 00:00:03.07  Lisibilité 49
+ganharam assim 38 milhões de euros
+em poucas semanas.
+
+ 504: 13:23:22.24 13:23:25.17  Durée 00:00:02.18  Lisibilité 41
+Então, como escapar?
+Como se precaver?
+
+ 505: 13:23:25.22 13:23:29.18  Durée 00:00:03.21  Lisibilité 58
+Quem são esses golpistas
+que o fazem gastar pelo celular?
+
+ 506: 13:23:29.22 13:23:31.21  Durée 00:00:01.24  Lisibilité 29
+Reportagem de Gaëlle Le Garrec.
+
+ 507: 13:23:36.06 13:23:38.00  Durée 00:00:01.19  Lisibilité 26
+#Em Sablé-sur-Sarthe,#
+
+ 508: 13:23:38.05 13:23:41.13  Durée 00:00:03.08  Lisibilité 50
+#Patrice levou um susto
+com sua mãe idosa.#
+
+ 509: 13:23:42.12 13:23:44.10  Durée 00:00:01.23  Lisibilité 29
+-Tudo bem hoje?
+-Tudo ótimo.
+
+ 510: 13:23:44.14 13:23:46.01  Durée 00:00:01.12  Lisibilité 22
+-A ciática?
+-Está indo.
+
+ 511: 13:23:46.05 13:23:50.13  Durée 00:00:04.08  Lisibilité 65
+-A ciática não passou.
+-Isso não muda.
+
+ 512: 13:23:50.17 13:23:53.10  Durée 00:00:02.18  Lisibilité 41
+#Ele cuida da mãe,
+que mora sozinha.#
+
+ 513: 13:23:54.03 13:23:55.14  Durée 00:00:01.11  Lisibilité 22
+#E há algumas semanas,#
+
+ 514: 13:23:55.18 13:23:59.14  Durée 00:00:03.21  Lisibilité 58
+#Simone teve uma desventura
+que a abalou um pouco.#
+
+ 515: 13:23:59.18 13:24:02.05  Durée 00:00:02.12  Lisibilité 37
+#Ela recebeu uma ligação
+cheia de promessas#
+
+ 516: 13:24:02.09 13:24:03.20  Durée 00:00:01.11  Lisibilité 22
+#deste tipo.#
+
+ 517: 13:24:04.00 13:24:06.24  Durée 00:00:02.24  Lisibilité 44
+#Seu número de telefone fixo
+foi sorteado.#
+
+ 518: 13:24:07.03 13:24:08.21  Durée 00:00:01.18  Lisibilité 26
+#Vou consultar
+nossa base de dados.#
+
+ 519: 13:24:09.00 13:24:10.06  Durée 00:00:01.06  Lisibilité 19
+#Um momento.#
+
+ 520: 13:24:12.03 13:24:13.15  Durée 00:00:01.12  Lisibilité 22
+#Do outro lado da linha,#
+
+ 521: 13:24:13.19 13:24:15.23  Durée 00:00:02.04  Lisibilité 32
+#uma mulher explica
+que ela foi escolhida#
+
+ 522: 13:24:16.02 13:24:18.22  Durée 00:00:02.20  Lisibilité 42
+#para participar de uma loteria
+e ganhar mil euros.#
+
+ 523: 13:24:19.02 13:24:22.13  Durée 00:00:03.11  Lisibilité 52
+Eu me sentei aqui,
+lembro-me muito bem.
+
+ 524: 13:24:22.17 13:24:24.10  Durée 00:00:01.18  Lisibilité 26
+Eu estava aqui.
+
+ 525: 13:24:25.16 13:24:27.02  Durée 00:00:01.11  Lisibilité 22
+#Para ganhar o prêmio,#
+
+ 526: 13:24:27.06 13:24:30.06  Durée 00:00:03.00  Lisibilité 45
+#sua interlocutora pede
+que ela ligue para um número.#
+
+ 527: 13:24:30.11 13:24:34.08  Durée 00:00:03.22  Lisibilité 58
+Tive de esperar,
+tinha música de fundo, e aí...
+
+ 528: 13:24:34.12 13:24:38.09  Durée 00:00:03.22  Lisibilité 58
+Eu ficava me perguntando
+onde isso ia parar.
+
+ 529: 13:24:38.14 13:24:41.21  Durée 00:00:03.07  Lisibilité 49
+Continuou assim por um tempo.
+
+ 530: 13:24:42.01 13:24:44.12  Durée 00:00:02.11  Lisibilité 37
+Eu pensei:
+"Pronto, vai acabar."
+
+ 531: 13:24:45.05 13:24:47.20  Durée 00:00:02.15  Lisibilité 39
+No dia seguinte, recomeçou,
+ela me ligou.
+
+ 532: 13:24:48.11 13:24:50.15  Durée 00:00:02.04  Lisibilité 32
+#Simone mordeu a isca.#
+
+ 533: 13:24:50.20 13:24:55.02  Durée 00:00:04.07  Lisibilité 64
+#Ela vai ligar várias vezes seguidas
+para um número sobretaxado.#
+
+ 534: 13:24:55.06 13:24:59.13  Durée 00:00:04.07  Lisibilité 64
+Ela ligu 6 vezes em 20 de junho
+
+ 535: 13:24:59.17 13:25:01.11  Durée 00:00:01.19  Lisibilité 26
+e 5 vezes em 21 junho.
+
+ 536: 13:25:01.15 13:25:03.02  Durée 00:00:01.12  Lisibilité 22
+Ou o contrário.
+
+ 537: 13:25:03.06 13:25:06.12  Durée 00:00:03.06  Lisibilité 49
+A cada vez,
+foram ligações de 30 minutos
+
+ 538: 13:25:06.16 13:25:11.07  Durée 00:00:04.16  Lisibilité 70
+por 80 centavos de euro o minuto,
+o que dá 24 euros por ligação,
+
+ 539: 13:25:11.11 13:25:14.07  Durée 00:00:02.21  Lisibilité 43
+vezes 11, dá 264 euros.
+
+ 540: 13:25:14.11 13:25:19.13  Durée 00:00:05.02  Lisibilité 76
+Então era a fatura
+da operação golpe,
+
+ 541: 13:25:19.17 13:25:21.06  Durée 00:00:01.14  Lisibilité 23
+que fio de 264 E.
+
+ 542: 13:25:21.20 13:25:24.14  Durée 00:00:02.19  Lisibilité 41
+#A família logo se deu conta
+do golpe.#
+
+ 543: 13:25:24.18 13:25:27.07  Durée 00:00:02.14  Lisibilité 38
+#Pois, com o disparo da conta,#
+
+ 544: 13:25:27.11 13:25:30.20  Durée 00:00:03.09  Lisibilité 50
+#a operadora
+cortou a linha de Simone.#
+
+ 545: 13:25:30.24 13:25:35.18  Durée 00:00:04.19  Lisibilité 71
+#Naquele mês, ela teve de pagar
+no total 271 euros,#
+
+ 546: 13:25:35.22 13:25:38.19  Durée 00:00:02.22  Lisibilité 43
+#uma soma considerável
+para essa aposentada.#
+
+ 547: 13:25:38.24 13:25:42.00  Durée 00:00:03.01  Lisibilité 46
+A fatura habitual
+fica entre 20 e 22 euros.
+
+ 548: 13:25:42.04 13:25:45.18  Durée 00:00:03.14  Lisibilité 53
+E essas pensões de aposentadoria
+acumuladas devem chegar
+
+ 549: 13:25:46.08 13:25:48.12  Durée 00:00:02.04  Lisibilité 32
+a quase 1.200 euros por mês.
+
+ 550: 13:25:48.24 13:25:53.11  Durée 00:00:04.12  Lisibilité 67
+Então dá uma semana de renda,
+podemos dizer assim.
+
+ 551: 13:25:54.00 13:25:56.06  Durée 00:00:02.06  Lisibilité 34
+#Como Simone, todo ano,#
+
+ 552: 13:25:56.11 13:25:59.16  Durée 00:00:03.05  Lisibilité 48
+#500 mil franceses denunciam
+ser vítima do golpe#
+
+ 553: 13:25:59.21 13:26:01.21  Durée 00:00:02.00  Lisibilité 30
+#dos números sobretaxados.#
+
+ 554: 13:26:03.08 13:26:07.03  Durée 00:00:03.20  Lisibilité 57
+#E essas práticas ilegais
+chegam a somas absurdas.#
+
+ 555: 13:26:08.04 13:26:12.02  Durée 00:00:03.23  Lisibilité 59
+#Uma PME parisiense teria assim
+embolsado 38 milhões de euros#
+
+ 556: 13:26:12.21 13:26:17.09  Durée 00:00:04.13  Lisibilité 68
+#em apenas 3 anos
+graças a falsos concursos.#
+
+ 557: 13:26:18.13 13:26:20.22  Durée 00:00:02.09  Lisibilité 35
+#Na Europa,
+esses golpes representariam#
+
+ 558: 13:26:21.02 13:26:23.09  Durée 00:00:02.07  Lisibilité 34
+#11 bilhões de euros.#
+
+ 559: 13:26:24.01 13:26:26.09  Durée 00:00:02.08  Lisibilité 35
+#Não falta imaginação
+aos bandidos.#
+
+ 560: 13:26:27.01 13:26:29.22  Durée 00:00:02.21  Lisibilité 43
+#Por SMS, eles informam
+que um pacote espera,#
+
+ 561: 13:26:30.12 13:26:32.12  Durée 00:00:02.00  Lisibilité 30
+#que você foi contratado#
+
+ 562: 13:26:32.16 13:26:36.06  Durée 00:00:03.15  Lisibilité 54
+#ou melhor,
+que o amor bateu à sua porta.#
+
+ 563: 13:26:37.02 13:26:40.02  Durée 00:00:03.00  Lisibilité 45
+#Toda vez lhe pedem
+que ligue para um número#
+
+ 564: 13:26:40.06 13:26:43.10  Durée 00:00:03.04  Lisibilité 47
+#que vai lhe custar
+até 80 centavos de euro por minuto.#
+
+ 565: 13:26:44.19 13:26:46.22  Durée 00:00:02.03  Lisibilité 32
+#Para entender
+como os bandidos fazem#
+
+ 566: 13:26:47.01 13:26:49.03  Durée 00:00:02.02  Lisibilité 31
+#para tirar seu dinheiro,#
+
+ 567: 13:26:49.08 13:26:51.20  Durée 00:00:02.12  Lisibilité 37
+#fomos a Troyes, no Aube.#
+
+ 568: 13:26:52.15 13:26:54.23  Durée 00:00:02.08  Lisibilité 35
+#Jean-Baptiste Boisseau
+é engenheiro de computação.#
+
+ 569: 13:26:55.03 13:26:58.02  Durée 00:00:02.24  Lisibilité 44
+-Bom dia, Jean-Baptiste.
+-Bom dia.
+
+ 570: 13:26:58.07 13:26:59.23  Durée 00:00:01.16  Lisibilité 25
+Ele e um amigo
+criaram um site
+
+ 571: 13:27:00.02 13:27:02.11  Durée 00:00:02.09  Lisibilité 35
+que denuncia golpes de todo tipo.
+
+ 572: 13:27:02.16 13:27:04.03  Durée 00:00:01.12  Lisibilité 22
+Mickaël cuida disso.
+
+ 573: 13:27:05.06 13:27:09.07  Durée 00:00:04.01  Lisibilité 61
+#Uma aventura que começou
+com um mero site de classificados#
+
+ 574: 13:27:09.11 13:27:10.06  Durée 00:00:00.20  Lisibilité 12
+#como Le Bon Coin.#
+
+ 575: 13:27:10.11 13:27:13.10  Durée 00:00:02.24  Lisibilité 44
+Vários golpes apareciam,
+
+ 576: 13:27:13.14 13:27:17.05  Durée 00:00:03.16  Lisibilité 55
+e aí, os usuários do site
+acabavam vítimas de golpe
+
+ 577: 13:27:17.09 13:27:19.00  Durée 00:00:01.16  Lisibilité 25
+por nossa causa.
+
+ 578: 13:27:19.05 13:27:21.06  Durée 00:00:02.01  Lisibilité 31
+Pensamos: "Temos de reagir."
+
+ 579: 13:27:21.11 13:27:25.17  Durée 00:00:04.06  Lisibilité 64
+O princípio é fazer
+ajuda mútua entre consumidores,
+
+ 580: 13:27:25.21 13:27:29.04  Durée 00:00:03.08  Lisibilité 50
+fazer com que as pessoas
+previnam umas às outras,
+
+ 581: 13:27:29.08 13:27:33.01  Durée 00:00:03.18  Lisibilité 56
+- é um site comunitário -,
+para se proteger.
+
+ 582: 13:27:33.15 13:27:37.16  Durée 00:00:04.01  Lisibilité 61
+#Para atraí-lo,
+existem múltiplos estratagemas.#
+
+ 583: 13:27:37.20 13:27:40.17  Durée 00:00:02.22  Lisibilité 43
+#No momento,
+o mais usados pelos golpistas#
+
+ 584: 13:27:41.12 13:27:44.03  Durée 00:00:02.16  Lisibilité 40
+#consiste em usurpar o nome
+de grandes marcas#
+
+ 585: 13:27:44.07 13:27:47.04  Durée 00:00:02.22  Lisibilité 43
+#como Conforama, NRJ ou IKEA.#
+
+ 586: 13:27:47.21 13:27:49.06  Durée 00:00:01.10  Lisibilité 21
+#A ideia é sempre a mesma,#
+
+ 587: 13:27:49.10 13:27:52.03  Durée 00:00:02.18  Lisibilité 41
+#mantê-lo o máximo possível
+ao telefone.#
+
+ 588: 13:27:52.13 13:27:55.12  Durée 00:00:02.24  Lisibilité 44
+#Demonstração com Jean-Baptiste
+bancando o trouxa.#
+
+ 589: 13:27:55.16 13:27:59.01  Durée 00:00:03.10  Lisibilité 51
+Bom dia.
+É da Conforama?
+
+ 590: 13:27:59.05 13:28:00.03  Durée 00:00:00.23  Lisibilité 14
+#Sim.#
+
+ 591: 13:28:00.07 13:28:02.21  Durée 00:00:02.14  Lisibilité 38
+É? Vocês tentaram falar comigo, não?
+
+ 592: 13:28:03.00 13:28:05.17  Durée 00:00:02.17  Lisibilité 40
+#Primeiro,
+tudo faz crer que lidamos#
+
+ 593: 13:28:05.21 13:28:07.19  Durée 00:00:01.23  Lisibilité 29
+#com o serviço
+de uma grande marca.#
+
+ 594: 13:28:09.01 13:28:11.05  Durée 00:00:02.04  Lisibilité 32
+#O senhor já ligou
+ou é a 1ª vez?#
+
+ 595: 13:28:11.09 13:28:12.24  Durée 00:00:01.15  Lisibilité 24
+Não, é primeira vez.
+
+ 596: 13:28:13.03 13:28:14.16  Durée 00:00:01.13  Lisibilité 23
+#Tem o código, por favor?#
+
+ 597: 13:28:14.20 13:28:16.07  Durée 00:00:01.12  Lisibilité 22
+Não, não tenho código.
+
+ 598: 13:28:16.12 13:28:20.03  Durée 00:00:03.16  Lisibilité 55
+Depois, o interlocutor
+faz mil perguntas.
+
+ 599: 13:28:20.08 13:28:21.16  Durée 00:00:01.08  Lisibilité 20
+Seu nome, por favor.
+
+ 600: 13:28:21.20 13:28:23.24  Durée 00:00:02.04  Lisibilité 32
+Jean-Baptiste Boisseau.
+
+ 601: 13:28:24.03 13:28:25.11  Durée 00:00:01.08  Lisibilité 20
+#Jean-Baptiste...#
+
+ 602: 13:28:25.15 13:28:29.00  Durée 00:00:03.10  Lisibilité 51
+Boisseau. B-O-I-S-S-E-A-U.
+
+ 603: 13:28:29.09 13:28:32.08  Durée 00:00:02.24  Lisibilité 44
+#Seu endereço completo,
+por favor.#
+
+ 604: 13:28:32.12 13:28:35.08  Durée 00:00:02.21  Lisibilité 43
+#Enfim, para mantê-lo na linha
+o máximo possível#
+
+ 605: 13:28:35.12 13:28:37.16  Durée 00:00:02.04  Lisibilité 32
+#e inflar o custo da chamada,#
+
+ 606: 13:28:37.20 13:28:41.15  Durée 00:00:03.20  Lisibilité 57
+#nosso interlocutor tenta atraí-lo
+com um belo presente.#
+
+ 607: 13:28:41.19 13:28:43.13  Durée 00:00:01.19  Lisibilité 26
+#Hoje é aniversário
+da empresa.#
+
+ 608: 13:28:43.17 13:28:46.18  Durée 00:00:03.01  Lisibilité 46
+#Fizemos um sorteio
+com o anuário da sua cidade.#
+
+ 609: 13:28:47.23 13:28:50.20  Durée 00:00:02.22  Lisibilité 43
+#Seu número de telefone
+foi sorteado.#
+
+ 610: 13:28:50.24 13:28:52.20  Durée 00:00:01.21  Lisibilité 28
+É mesmo? Está bem.
+
+ 611: 13:28:52.24 13:28:56.08  Durée 00:00:03.09  Lisibilité 50
+#E o senhor ganhou um vale
+no valor de 1.500 euros#
+
+ 612: 13:28:56.12 13:28:58.13  Durée 00:00:02.01  Lisibilité 31
+#para as compras da sua escolha.#
+
+ 613: 13:28:59.07 13:29:02.22  Durée 00:00:03.15  Lisibilité 54
+#Vamos começar juntos
+a escolher os artigos um a um.#
+
+ 614: 13:29:03.02 13:29:05.00  Durée 00:00:01.23  Lisibilité 29
+#Tem sofás,#
+
+ 615: 13:29:05.16 13:29:07.11  Durée 00:00:01.20  Lisibilité 27
+#escrivaninhas,#
+
+ 616: 13:29:07.15 13:29:09.10  Durée 00:00:01.20  Lisibilité 27
+#quartos e colchões,#
+
+ 617: 13:29:09.14 13:29:11.07  Durée 00:00:01.18  Lisibilité 26
+#cozinhas, banheiros,#
+
+ 618: 13:29:12.01 13:29:15.13  Durée 00:00:03.12  Lisibilité 52
+#E última técnica,
+um grande clássico do gênero,#
+
+ 619: 13:29:15.18 13:29:17.00  Durée 00:00:01.07  Lisibilité 19
+#a espera.#
+
+ 620: 13:29:19.05 13:29:20.24  Durée 00:00:01.19  Lisibilité 26
+#Vou falar com meu chefe,
+OK?#
+
+ 621: 13:29:21.03 13:29:22.11  Durée 00:00:01.08  Lisibilité 20
+Está bem.
+
+ 622: 13:29:22.16 13:29:25.18  Durée 00:00:03.02  Lisibilité 46
+Uns segundinhos e já volto.
+Até já.
+
+ 623: 13:29:27.07 13:29:30.18  Durée 00:00:03.11  Lisibilité 52
+#No momento em que íamos,
+supostamente, ganhar um sofá,#
+
+ 624: 13:29:30.22 13:29:31.17  Durée 00:00:00.20  Lisibilité 12
+#a ligação cai.#
+
+ 625: 13:29:34.13 13:29:36.19  Durée 00:00:02.06  Lisibilité 34
+Ah!
+Bem, é o fim da chamada.
+
+ 626: 13:29:37.16 13:29:40.15  Durée 00:00:02.24  Lisibilité 44
+Agora não há dúvida,
+eu nunca terei meu sofá
+
+ 627: 13:29:40.19 13:29:44.15  Durée 00:00:03.21  Lisibilité 58
+e meu forno, nem meu cheque.
+
+ 628: 13:29:45.00 13:29:48.00  Durée 00:00:03.00  Lisibilité 45
+#No total,
+Jean-Baptiste pagará 10 euros#
+
+ 629: 13:29:48.05 13:29:50.11  Durée 00:00:02.06  Lisibilité 34
+#por esses 25 min
+passados ao telefone.#
+
+ 630: 13:29:50.15 13:29:54.09  Durée 00:00:03.19  Lisibilité 56
+#Como os golpistas conseguem
+montar essas armadilhas?#
+
+ 631: 13:29:54.13 13:29:57.17  Durée 00:00:03.04  Lisibilité 47
+#Na verdade, eles se apoiam
+num serviço perfeitamente legal,#
+
+ 632: 13:29:57.21 13:30:00.03  Durée 00:00:02.07  Lisibilité 34
+#o dos números sobretaxados.#
+
+ 633: 13:30:00.07 13:30:03.09  Durée 00:00:03.02  Lisibilité 46
+#Um serviço pago realmente útil
+que consultamos#
+
+ 634: 13:30:03.13 13:30:05.04  Durée 00:00:01.16  Lisibilité 25
+#para saber o tempo#
+
+ 635: 13:30:05.08 13:30:08.14  Durée 00:00:03.06  Lisibilité 49
+#ou simplesmente
+para reservar viagens.#
+
+ 636: 13:30:09.22 13:30:14.11  Durée 00:00:04.14  Lisibilité 68
+#E esse sistema baseia-se na França
+em 120 empresas.#
+
+ 637: 13:30:14.15 13:30:19.01  Durée 00:00:04.11  Lisibilité 67
+#Em Montargis, nós temos
+encontro marcado com uma delas.#
+
+ 638: 13:30:20.15 13:30:22.00  Durée 00:00:01.10  Lisibilité 21
+-Oi, Eddy.
+-Bom dia.
+
+ 639: 13:30:22.04 13:30:23.03  Durée 00:00:00.24  Lisibilité 14
+-Tudo bem?
+-Tudo.
+
+ 640: 13:30:23.07 13:30:25.19  Durée 00:00:02.12  Lisibilité 37
+#Manuel Ribeiro emprega 8 pessoas.#
+
+ 641: 13:30:25.23 13:30:28.14  Durée 00:00:02.16  Lisibilité 40
+#Seu trabalho é mal conhecido
+do grande público.#
+
+ 642: 13:30:28.18 13:30:29.22  Durée 00:00:01.04  Lisibilité 17
+-Bom dia.
+-Tudo bem?
+
+ 643: 13:30:30.01 13:30:32.06  Durée 00:00:02.05  Lisibilité 33
+#Sua empresa, a# Selfone,
+
+ 644: 13:30:32.10 13:30:34.03  Durée 00:00:01.18  Lisibilité 26
+#aluga números sobretaxados.#
+
+ 645: 13:30:35.00 13:30:39.16  Durée 00:00:04.16  Lisibilité 70
+Eddy, pode me dar um número
+disponível em 890, por favor?
+
+ 646: 13:30:39.20 13:30:41.04  Durée 00:00:01.09  Lisibilité 20
+Está bem.
+
+ 647: 13:30:41.08 13:30:42.21  Durée 00:00:01.13  Lisibilité 23
+08 90 alguma coisa,
+
+ 648: 13:30:43.10 13:30:44.22  Durée 00:00:01.12  Lisibilité 22
+disponível.
+
+ 649: 13:30:45.17 13:30:48.22  Durée 00:00:03.05  Lisibilité 48
+Temos em 0800, 0809, 0821, 0825...
+
+ 650: 13:30:49.02 13:30:52.06  Durée 00:00:03.04  Lisibilité 47
+Enfim, temos pacotes
+de dezenas de milhares.
+
+ 651: 13:30:52.22 13:30:56.01  Durée 00:00:03.04  Lisibilité 47
+#Então, como isso tudo funciona?#
+
+ 652: 13:30:57.18 13:31:00.19  Durée 00:00:03.01  Lisibilité 46
+#Na verdade,
+tudo começa com a Arcep,#
+
+ 653: 13:31:00.23 13:31:04.06  Durée 00:00:03.08  Lisibilité 50
+#a autoridade de regulação
+das comunicações eletrônicas#
+
+ 654: 13:31:04.10 13:31:07.05  Durée 00:00:02.20  Lisibilité 42
+#e dos correios.
+Ela depende do Estado.#
+
+ 655: 13:31:07.09 13:31:09.19  Durée 00:00:02.10  Lisibilité 36
+#Ela oferece milhares
+de números sobretaxados#
+
+ 656: 13:31:09.23 13:31:12.09  Durée 00:00:02.11  Lisibilité 37
+#a empresas como a de Manuel.#
+
+ 657: 13:31:12.13 13:31:15.00  Durée 00:00:02.12  Lisibilité 37
+#Eles são chamados de SVA,#
+
+ 658: 13:31:15.04 13:31:17.07  Durée 00:00:02.03  Lisibilité 32
+serviços de valor agregado.
+
+ 659: 13:31:17.11 13:31:20.08  Durée 00:00:02.22  Lisibilité 43
+#Em seguida, esses números
+são alugados um a um#
+
+ 660: 13:31:20.12 13:31:22.16  Durée 00:00:02.04  Lisibilité 32
+#a empresas
+que querem implementar#
+
+ 661: 13:31:22.20 13:31:25.11  Durée 00:00:02.16  Lisibilité 40
+#um serviço telefônico pago.#
+
+ 662: 13:31:25.15 13:31:27.05  Durée 00:00:01.15  Lisibilité 24
+#Para explorar
+esses números,#
+
+ 663: 13:31:28.00 13:31:32.22  Durée 00:00:04.22  Lisibilité 73
+#Manuel teve de investir
+nesses imensos servidores.#
+
+ 664: 13:31:34.05 13:31:36.13  Durée 00:00:02.08  Lisibilité 35
+#Depois que ele adquire
+esses números...#
+
+ 665: 13:31:39.24 13:31:41.13  Durée 00:00:01.14  Lisibilité 23
+#ele procura alugá-los.#
+
+ 666: 13:31:41.17 13:31:44.00  Durée 00:00:02.08  Lisibilité 35
+#Nesse dia,
+ele tem reunião em Paris#
+
+ 667: 13:31:44.05 13:31:46.08  Durée 00:00:02.03  Lisibilité 32
+#com Vincent Gör.#
+
+ 668: 13:31:47.22 13:31:48.19  Durée 00:00:00.22  Lisibilité 13
+-Bom dia.
+-Bom dia.
+
+ 669: 13:31:48.23 13:31:51.06  Durée 00:00:02.08  Lisibilité 35
+#Vincent vende softwares,#
+
+ 670: 13:31:51.10 13:31:54.20  Durée 00:00:03.10  Lisibilité 51
+#e no momento, seu SAC
+está lotando de chamadas.#
+
+ 671: 13:31:54.24 13:31:58.02  Durée 00:00:03.03  Lisibilité 47
+#Então ele quer implementar
+um número sobretaxado#
+
+ 672: 13:31:58.06 13:31:59.17  Durée 00:00:01.11  Lisibilité 22
+#para ligarem menos.#
+
+ 673: 13:31:59.22 13:32:02.15  Durée 00:00:02.18  Lisibilité 41
+Para evitar que os clientes
+liguem intempestivamente
+
+ 674: 13:32:02.19 13:32:06.14  Durée 00:00:03.20  Lisibilité 57
+por problemas
+que eles próprios podem resolver
+
+ 675: 13:32:06.18 13:32:09.20  Durée 00:00:03.02  Lisibilité 46
+online, usando a ajuda online,
+
+ 676: 13:32:09.24 13:32:13.16  Durée 00:00:03.17  Lisibilité 55
+e não nos ligar
+toda vez que tem um probleminha.
+
+ 677: 13:32:13.20 13:32:15.18  Durée 00:00:01.23  Lisibilité 29
+Então é para tentar filtrá-los.
+
+ 678: 13:32:16.12 13:32:19.00  Durée 00:00:02.13  Lisibilité 38
+#Vincent pode escolher
+várias tarifas.#
+
+ 679: 13:32:19.04 13:32:20.15  Durée 00:00:01.11  Lisibilité 22
+#Ele quer que seu número#
+
+ 680: 13:32:20.19 13:32:23.24  Durée 00:00:03.05  Lisibilité 48
+#possa pagar uma parte do salário
+do atendente.#
+
+ 681: 13:32:24.03 13:32:25.13  Durée 00:00:01.10  Lisibilité 21
+-Com Eddy.
+-Sim.
+
+ 682: 13:32:25.18 13:32:28.17  Durée 00:00:02.24  Lisibilité 44
+Para valer a pena para você 
+financeiramente,
+
+ 683: 13:32:29.10 13:32:33.04  Durée 00:00:03.19  Lisibilité 56
+só há um patamar,
+o de 80 centavos,
+
+ 684: 13:32:33.08 13:32:35.23  Durée 00:00:02.15  Lisibilité 39
+que permite remunerar alguém,
+
+ 685: 13:32:36.02 13:32:40.19  Durée 00:00:04.17  Lisibilité 70
+enfim, um colaborador
+para fazer o trabalho.
+
+ 686: 13:32:40.24 13:32:41.18  Durée 00:00:00.19  Lisibilité 11
+É o mínimo.
+
+ 687: 13:32:41.23 13:32:43.00  Durée 00:00:01.02  Lisibilité 16
+É o máximo.
+
+ 688: 13:32:43.05 13:32:46.12  Durée 00:00:03.07  Lisibilité 49
+#Vincent se decepciona.
+Ele esperava ganhar mais.#
+
+ 689: 13:32:46.16 13:32:51.06  Durée 00:00:04.15  Lisibilité 69
+#Mas a lei limita as chamadas
+sobretaxadas a 0,80 euro por minuto.#
+
+ 690: 13:32:51.11 13:32:52.19  Durée 00:00:01.08  Lisibilité 20
+#-Está claro.#
+#-Isso.#
+
+ 691: 13:32:52.23 13:32:53.18  Durée 00:00:00.20  Lisibilité 12
+Faremos assim.
+
+ 692: 13:32:53.22 13:32:57.15  Durée 00:00:03.18  Lisibilité 56
+#Vincent foi conquistado.
+Negócios como esse,#
+
+ 693: 13:32:57.19 13:33:00.23  Durée 00:00:03.04  Lisibilité 47
+#Manuel fecha 5 novos por mês.#
+
+ 694: 13:33:02.01 13:33:04.18  Durée 00:00:02.17  Lisibilité 40
+#Uma atividade em plena expansão.#
+
+ 695: 13:33:06.19 13:33:08.19  Durée 00:00:02.00  Lisibilité 30
+Temos empresas no# coaching.#
+
+ 696: 13:33:09.08 13:33:11.19  Durée 00:00:02.11  Lisibilité 37
+Hoje em dia, o# coaching#,
+está na moda.
+
+ 697: 13:33:11.23 13:33:13.10  Durée 00:00:01.12  Lisibilité 22
+Podem ser psicólogos,
+
+ 698: 13:33:13.14 13:33:15.24  Durée 00:00:02.10  Lisibilité 36
+podem ser advogados, agora,
+
+ 699: 13:33:16.03 13:33:19.22  Durée 00:00:03.19  Lisibilité 56
+que entram nessa,
+começando consultas online
+
+ 700: 13:33:20.01 13:33:20.24  Durée 00:00:00.23  Lisibilité 14
+com esses números.
+
+ 701: 13:33:21.11 13:33:24.24  Durée 00:00:03.13  Lisibilité 53
+Temos astrólogos
+e todas essas profissões.
+
+ 702: 13:33:25.11 13:33:27.09  Durée 00:00:01.23  Lisibilité 29
+#Uma semana após filmarmos,#
+
+ 703: 13:33:27.13 13:33:30.11  Durée 00:00:02.23  Lisibilité 44
+#Vincent obteve
+sua nova linha paga,#
+
+ 704: 13:33:30.15 13:33:33.22  Durée 00:00:03.07  Lisibilité 49
+#um serviço que vai ajudar
+muitos participantes.#
+
+ 705: 13:33:35.01 13:33:37.14  Durée 00:00:02.13  Lisibilité 38
+#Pois de 100 E
+de ligações sobretaxadas,#
+
+ 706: 13:33:37.18 13:33:41.08  Durée 00:00:03.15  Lisibilité 54
+#o Estado embolsa 20 euros
+com a TVA,#
+
+ 707: 13:33:41.12 13:33:44.19  Durée 00:00:03.07  Lisibilité 49
+#a operadora de telefonia
+recebe 25 euros,#
+
+ 708: 13:33:44.23 13:33:48.22  Durée 00:00:03.24  Lisibilité 59
+#a operadora SVA, como Manuel,
+ganha entre 5 e 10 euros,#
+
+ 709: 13:33:49.01 13:33:50.15  Durée 00:00:01.14  Lisibilité 23
+#em função do contrato.#
+
+ 710: 13:33:50.19 13:33:55.08  Durée 00:00:04.14  Lisibilité 68
+#Enfim, no fim da linha,
+a empresa que explora o número#
+
+ 711: 13:33:55.12 13:33:59.09  Durée 00:00:03.22  Lisibilité 58
+#leva o resto,
+isto é, entre 40 e 50 euros.#
+
+ 712: 13:34:00.08 13:34:01.20  Durée 00:00:01.12  Lisibilité 22
+#Mas Manuel sabe bem,#
+
+ 713: 13:34:01.24 13:34:04.22  Durée 00:00:02.23  Lisibilité 44
+#nesse negócio,
+existem golpistas.#
+
+ 714: 13:34:05.08 13:34:07.17  Durée 00:00:02.09  Lisibilité 35
+#Mas em caso de fraude comprovada,#
+
+ 715: 13:34:07.21 13:34:10.03  Durée 00:00:02.07  Lisibilité 34
+#ele pode ser considerado
+responsável.#
+
+ 716: 13:34:10.07 13:34:14.05  Durée 00:00:03.23  Lisibilité 59
+#Ele pode levar uma multa
+de 5 mil E por número sobretaxado.#
+
+ 717: 13:34:14.10 13:34:17.13  Durée 00:00:03.03  Lisibilité 47
+#Então ele implementou
+um processo de verificação.#
+
+ 718: 13:34:17.17 13:34:19.05  Durée 00:00:01.13  Lisibilité 23
+Alô, alô?
+Sim. Bom dia.
+
+ 719: 13:34:19.09 13:34:20.18  Durée 00:00:01.09  Lisibilité 20
+Sr. Hortault.
+
+ 720: 13:34:22.08 13:34:25.18  Durée 00:00:03.10  Lisibilité 51
+Estou ligando para o senhor
+por causa do seu pedido.
+
+ 721: 13:34:25.22 13:34:29.11  Durée 00:00:03.14  Lisibilité 53
+#Cada novo cliente é minuciosamente
+interrogado por David,#
+
+ 722: 13:34:29.15 13:34:31.20  Durée 00:00:02.05  Lisibilité 33
+#um agente comercial
+bem meticuloso.#
+
+ 723: 13:34:33.00 13:34:34.05  Durée 00:00:01.05  Lisibilité 18
+Exatamente.
+
+ 724: 13:34:34.09 13:34:37.06  Durée 00:00:02.22  Lisibilité 43
+Então eu queria
+saber um pouco mais,
+
+ 725: 13:34:37.10 13:34:41.15  Durée 00:00:04.05  Lisibilité 63
+saber qual é a sua atividade,
+onde ela é sediada.
+
+ 726: 13:34:41.20 13:34:43.09  Durée 00:00:01.14  Lisibilité 23
+Está na França?
+
+ 727: 13:34:43.23 13:34:47.12  Durée 00:00:03.14  Lisibilité 53
+Isso é bom.
+Uma das obrigações, atualmente,
+
+ 728: 13:34:47.16 13:34:49.21  Durée 00:00:02.05  Lisibilité 33
+é ter uma sede na Europa,
+
+ 729: 13:34:50.00 13:34:52.10  Durée 00:00:02.10  Lisibilité 36
+senão não podemos
+fornecer o número.
+
+ 730: 13:34:52.14 13:34:54.20  Durée 00:00:02.06  Lisibilité 34
+Queria saber
+qual é a sua atividade.
+
+ 731: 13:34:54.24 13:34:57.06  Durée 00:00:02.07  Lisibilité 34
+#A empresa presta socorro digital.#
+
+ 732: 13:34:57.10 13:35:00.21  Durée 00:00:03.11  Lisibilité 52
+Essa é uma
+das atividades autorizadas.
+
+ 733: 13:35:01.01 13:35:03.22  Durée 00:00:02.21  Lisibilité 43
+David não se contenta
+com essas informações,
+
+ 734: 13:35:04.01 13:35:07.00  Durée 00:00:02.24  Lisibilité 44
+ele vai pedir
+uma série de documentos oficiais.
+
+ 735: 13:35:07.05 13:35:12.02  Durée 00:00:04.22  Lisibilité 73
+O Kbis, um documento de identidade
+do representante legal da empresa,
+
+ 736: 13:35:12.07 13:35:15.05  Durée 00:00:02.23  Lisibilité 44
+um comprovante da sede,
+
+ 737: 13:35:15.10 13:35:17.14  Durée 00:00:02.04  Lisibilité 32
+o contrato de aluguel,
+coisas assim,
+
+ 738: 13:35:17.18 13:35:20.09  Durée 00:00:02.16  Lisibilité 40
+para todas as averiguações
+serem feitas,
+
+ 739: 13:35:20.13 13:35:23.08  Durée 00:00:02.20  Lisibilité 42
+antes de abrir a conta
+e assinar o contrato.
+
+ 740: 13:35:23.12 13:35:24.23  Durée 00:00:01.11  Lisibilité 22
+Bom dia. Até logo.
+
+ 741: 13:35:25.02 13:35:28.01  Durée 00:00:02.24  Lisibilité 44
+Assim fazemos uma 1ª triagem,
+não perdemos tempo,
+
+ 742: 13:35:28.06 13:35:32.14  Durée 00:00:04.08  Lisibilité 65
+nos certificamos de que as pessoas
+fazem mesmo o que anunciam.
+
+ 743: 13:35:33.07 13:35:34.03  Durée 00:00:00.21  Lisibilité 13
+#Em média,#
+
+ 744: 13:35:34.07 13:35:37.20  Durée 00:00:03.13  Lisibilité 53
+#dos 15 pedidos que chegam
+por mês a essa operadora,#
+
+ 745: 13:35:37.24 13:35:40.11  Durée 00:00:02.12  Lisibilité 37
+#só 5 vão obter
+um número sobretaxado.#
+
+ 746: 13:35:41.14 13:35:44.16  Durée 00:00:03.02  Lisibilité 46
+#E depois de aprovado o cliente,
+Manuel o monitora.#
+
+ 747: 13:35:45.12 13:35:48.19  Durée 00:00:03.07  Lisibilité 49
+#Nessa lista tem uma parte
+de seus 800 clientes.#
+
+ 748: 13:35:49.05 13:35:53.09  Durée 00:00:04.04  Lisibilité 62
+#E procurando bem, ele localizou
+uma onda de ligações suspeitas.#
+
+ 749: 13:35:55.14 13:35:58.00  Durée 00:00:02.11  Lisibilité 37
+-E temos uma denúncia.
+-Explique.
+
+ 750: 13:35:58.04 13:35:59.18  Durée 00:00:01.14  Lisibilité 23
+Essa empresa é...
+
+ 751: 13:35:59.22 13:36:03.03  Durée 00:00:03.06  Lisibilité 49
+ela é cliente nossa
+há menos de 3 meses,
+
+ 752: 13:36:03.15 13:36:07.13  Durée 00:00:03.23  Lisibilité 59
+e ela já tem 8.800 ligações
+em 15 dias,
+
+ 753: 13:36:07.17 13:36:08.20  Durée 00:00:01.03  Lisibilité 17
+o que é exagerado.
+
+ 754: 13:36:08.24 13:36:11.09  Durée 00:00:02.10  Lisibilité 36
+Isso é muito, porque...
+
+ 755: 13:36:11.13 13:36:14.05  Durée 00:00:02.17  Lisibilité 40
+as empresas demoram
+a começar a trabalhar.
+
+ 756: 13:36:14.09 13:36:16.21  Durée 00:00:02.12  Lisibilité 37
+Então estou suspeitando disso.
+
+ 757: 13:36:17.01 13:36:20.05  Durée 00:00:03.04  Lisibilité 47
+Temos uma dúvida.
+Pode não ser fraudulento,
+
+ 758: 13:36:20.09 13:36:22.04  Durée 00:00:01.20  Lisibilité 27
+mas temos de nos preocupar.
+
+ 759: 13:36:22.16 13:36:23.21  Durée 00:00:01.05  Lisibilité 18
+#Em caso de dúvida,#
+
+ 760: 13:36:24.00 13:36:27.04  Durée 00:00:03.04  Lisibilité 47
+#Manuel não hesita
+em testar o cliente.#
+
+ 761: 13:36:28.00 13:36:29.16  Durée 00:00:01.16  Lisibilité 25
+Como vocês fazem?
+
+ 762: 13:36:29.20 13:36:32.10  Durée 00:00:02.15  Lisibilité 39
+Na verdade, nós vamos...
+
+ 763: 13:36:32.14 13:36:36.02  Durée 00:00:03.13  Lisibilité 53
+ligar para a empresa
+fingindo que somos um cliente.
+
+ 764: 13:36:36.07 13:36:37.17  Durée 00:00:01.10  Lisibilité 21
+#Alguns dias antes,#
+
+ 765: 13:36:37.21 13:36:40.21  Durée 00:00:03.00  Lisibilité 45
+#dois colaboradores ligaram
+para o número em questão#
+
+ 766: 13:36:41.01 13:36:43.23  Durée 00:00:02.22  Lisibilité 43
+#fazendo o papel
+de um casal meio desconfiado.#
+
+ 767: 13:36:44.03 13:36:46.12  Durée 00:00:02.09  Lisibilité 35
+#-Alô?
+-Alô?#
+
+ 768: 13:36:46.16 13:36:48.13  Durée 00:00:01.22  Lisibilité 28
+#Senhor, como eu lhe disse...#
+
+ 769: 13:36:48.17 13:36:51.12  Durée 00:00:02.20  Lisibilité 42
+#ainda não acabamos
+de aprovar do seu presente.#
+
+ 770: 13:36:51.16 13:36:54.11  Durée 00:00:02.20  Lisibilité 42
+#Eu digitei 112 antes.
+É gratuito, então?#
+
+ 771: 13:36:54.15 13:36:59.09  Durée 00:00:04.19  Lisibilité 71
+#Sim, claro, senhor. Eu já expliquei
+à sua esposa. Eu...#
+
+ 772: 13:36:59.13 13:37:03.16  Durée 00:00:04.03  Lisibilité 62
+#Sim, sim, sim. Mas eu quero
+ter certeza. Não sou minha esposa.#
+
+ 773: 13:37:03.20 13:37:05.05  Durée 00:00:01.10  Lisibilité 21
+#Entendi.#
+
+ 774: 13:37:05.09 13:37:08.20  Durée 00:00:03.11  Lisibilité 52
+#Certo, senhor. A comunicação
+é sempre gratuita, está bem?#
+
+ 775: 13:37:08.24 13:37:09.19  Durée 00:00:00.20  Lisibilité 12
+#Está bem.#
+
+ 776: 13:37:09.23 13:37:10.16  Durée 00:00:00.18  Lisibilité 11
+#Muito bem.#
+
+ 777: 13:37:10.21 13:37:13.19  Durée 00:00:02.23  Lisibilité 44
+É uma fraude caracterizada.
+Eles tentam fazer
+
+ 778: 13:37:13.23 13:37:16.18  Durée 00:00:02.20  Lisibilité 42
+essa pessoa, o consumidor,
+acreditar
+
+ 779: 13:37:16.22 13:37:20.07  Durée 00:00:03.10  Lisibilité 51
+que a ligação será reembolsada.
+Mas ela não será.
+
+ 780: 13:37:20.11 13:37:23.07  Durée 00:00:02.21  Lisibilité 43
+Ela custa mesmo o preço combinado.
+
+ 781: 13:37:23.12 13:37:26.03  Durée 00:00:02.16  Lisibilité 40
+Na semana passada,
+cancelamos essa linha.
+
+ 782: 13:37:26.18 13:37:29.04  Durée 00:00:02.11  Lisibilité 37
+#Todo ano, Manuel cancela assim#
+
+ 783: 13:37:29.08 13:37:31.21  Durée 00:00:02.13  Lisibilité 38
+#entre 15 e 20 empresas suspeitas.#
+
+ 784: 13:37:35.05 13:37:38.19  Durée 00:00:03.14  Lisibilité 53
+Cancelamos uma grande,
+e vemos surgir duas pequenas.
+
+ 785: 13:37:38.23 13:37:42.18  Durée 00:00:03.20  Lisibilité 57
+Nós as cancelamos e surgem 4.
+Isso está se alastrando.
+
+ 786: 13:37:43.14 13:37:46.04  Durée 00:00:02.15  Lisibilité 39
+#Manuel Ribeiro
+é particularmente atento#
+
+ 787: 13:37:46.08 13:37:48.12  Durée 00:00:02.04  Lisibilité 32
+#à utilização de seus números.#
+
+ 788: 13:37:48.16 13:37:52.22  Durée 00:00:04.06  Lisibilité 64
+#Mas todas as operadoras SVA
+são sérias como ele?#
+
+ 789: 13:37:53.22 13:37:55.09  Durée 00:00:01.12  Lisibilité 22
+#Vamos fazer o teste.#
+
+ 790: 13:37:55.13 13:37:57.11  Durée 00:00:01.23  Lisibilité 29
+#Nós fingimos ser uma empresa#
+
+ 791: 13:37:57.15 13:37:59.18  Durée 00:00:02.03  Lisibilité 32
+#que quer um número sobretaxado.#
+
+ 792: 13:37:59.23 13:38:02.07  Durée 00:00:02.09  Lisibilité 35
+#Ligamos para um operadora
+ao acaso.#
+
+ 793: 13:38:02.12 13:38:05.07  Durée 00:00:02.20  Lisibilité 42
+Bom dia. Estou ligando
+porque eu queria
+
+ 794: 13:38:05.12 13:38:08.09  Durée 00:00:02.22  Lisibilité 43
+um número sobretaxado
+para nosso SAC.
+
+ 795: 13:38:08.13 13:38:09.20  Durée 00:00:01.07  Lisibilité 19
+#Que tipo de atividade?#
+
+ 796: 13:38:09.24 13:38:12.18  Durée 00:00:02.19  Lisibilité 41
+Nós fabricamos
+objetos promocionais.
+
+ 797: 13:38:12.23 13:38:15.07  Durée 00:00:02.09  Lisibilité 35
+#É o lugar certo.
+Somos especialistas.#
+
+ 798: 13:38:15.11 13:38:16.18  Durée 00:00:01.07  Lisibilité 19
+#Um número clássico.#
+
+ 799: 13:38:17.10 13:38:19.08  Durée 00:00:01.23  Lisibilité 29
+#Damos um número
+que não escolhem.#
+
+ 800: 13:38:19.12 13:38:20.11  Durée 00:00:00.24  Lisibilité 14
+Certo.
+
+ 801: 13:38:20.15 13:38:22.17  Durée 00:00:02.02  Lisibilité 31
+#A assinatura mensal
+custa 7 euros.#
+
+ 802: 13:38:23.03 13:38:24.21  Durée 00:00:01.18  Lisibilité 26
+#A assinatura não é cara,#
+
+ 803: 13:38:25.00 13:38:27.07  Durée 00:00:02.07  Lisibilité 34
+#e acima de tudo,
+essa operadora SVA#
+
+ 804: 13:38:27.11 13:38:30.07  Durée 00:00:02.21  Lisibilité 43
+#não é muito exigente
+sobre nossa identidade.#
+
+ 805: 13:38:31.02 13:38:35.00  Durée 00:00:03.23  Lisibilité 59
+#Se vocês forem rápidos em termos
+de assinatura e de aprovação,#
+
+ 806: 13:38:35.04 13:38:37.00  Durée 00:00:01.21  Lisibilité 28
+#em um dia pode estar feito.#
+
+ 807: 13:38:37.12 13:38:41.04  Durée 00:00:03.17  Lisibilité 55
+#Ao contrário da Selfone,
+que exige documentos específicos,#
+
+ 808: 13:38:41.08 13:38:45.03  Durée 00:00:03.20  Lisibilité 57
+#nosso interlocutor se contenta
+com dados fáceis de fornecer,#
+
+ 809: 13:38:45.07 13:38:48.03  Durée 00:00:02.21  Lisibilité 43
+#mesmo não se possuindo
+empresa alguma.#
+
+ 810: 13:38:48.08 13:38:52.03  Durée 00:00:03.20  Lisibilité 57
+#Manifestamente, é fácil
+obter um número sobretaxado.#
+
+ 811: 13:38:52.07 13:38:55.03  Durée 00:00:02.21  Lisibilité 43
+#Um falha em que se embrenham
+os malfeitores.#
+
+ 812: 13:38:55.19 13:38:57.14  Durée 00:00:01.20  Lisibilité 27
+#E para tirar seu dinheiro,#
+
+ 813: 13:38:57.18 13:38:59.13  Durée 00:00:01.20  Lisibilité 27
+#eles têm outros cúmplices.#
+
+ 814: 13:38:59.18 13:39:01.15  Durée 00:00:01.22  Lisibilité 28
+#Eles passam por# call centers
+
+ 815: 13:39:01.19 13:39:05.04  Durée 00:00:03.10  Lisibilité 51
+#para segurá-lo
+o máximo de tempo ao telefone.#
+
+ 816: 13:39:05.09 13:39:07.01  Durée 00:00:01.17  Lisibilité 25
+#Então, para saber mais,#
+
+ 817: 13:39:07.05 13:39:09.11  Durée 00:00:02.06  Lisibilité 34
+#nós fingimos ser, desta vez,#
+
+ 818: 13:39:09.15 13:39:11.21  Durée 00:00:02.06  Lisibilité 34
+#uma empresa mal intencionada.#
+
+ 819: 13:39:12.01 13:39:14.24  Durée 00:00:02.23  Lisibilité 44
+#Nós contatamos# call centers
+#na Tunísia.#
+
+ 820: 13:39:19.15 13:39:21.03  Durée 00:00:01.13  Lisibilité 23
+#-Alô?#
+-Sim. Bom dia.
+
+ 821: 13:39:21.08 13:39:22.18  Durée 00:00:01.10  Lisibilité 21
+As chamadas
+têm de durar.
+
+ 822: 13:39:22.22 13:39:26.22  Durée 00:00:04.00  Lisibilité 60
+É possível fazer os clientes
+esperarem um pouco?
+
+ 823: 13:39:27.01 13:39:29.04  Durée 00:00:02.03  Lisibilité 32
+Isso. Vocês fazem isso?
+
+ 824: 13:39:30.08 13:39:33.08  Durée 00:00:03.00  Lisibilité 45
+#Infelizmente não fazemos
+esse tipo de operação.#
+
+ 825: 13:39:33.12 13:39:37.21  Durée 00:00:04.09  Lisibilité 65
+#Eu entendi, mas não,
+infelizmente, não.#
+
+ 826: 13:39:38.02 13:39:39.15  Durée 00:00:01.13  Lisibilité 23
+#Após 3 recusas,#
+
+ 827: 13:39:39.20 13:39:42.19  Durée 00:00:02.24  Lisibilité 44
+#um dos contatos nos põe
+em outra pista, Madagascar.#
+
+ 828: 13:39:43.16 13:39:46.24  Durée 00:00:03.08  Lisibilité 50
+#E aí, desde a primeira ligação,
+na mosca!#
+
+ 829: 13:39:47.17 13:39:50.03  Durée 00:00:02.11  Lisibilité 37
+#O que vocês procuram, exatamente?#
+
+ 830: 13:39:50.07 13:39:53.08  Durée 00:00:03.01  Lisibilité 46
+Seria vocês se encarregarem
+das chamadas.
+
+ 831: 13:39:53.23 13:39:56.03  Durée 00:00:02.05  Lisibilité 33
+Não sei se é possível...
+
+ 832: 13:39:56.08 13:40:00.09  Durée 00:00:04.01  Lisibilité 61
+fazer os clientes
+esperarem um pouco na linha.
+
+ 833: 13:40:00.13 13:40:02.01  Durée 00:00:01.13  Lisibilité 23
+#Claro que é possível.#
+
+ 834: 13:40:02.19 13:40:04.01  Durée 00:00:01.07  Lisibilité 19
+#Fazer a ligação durar?#
+
+ 835: 13:40:04.05 13:40:05.05  Durée 00:00:01.00  Lisibilité 15
+Isso.
+
+ 836: 13:40:05.09 13:40:09.20  Durée 00:00:04.11  Lisibilité 67
+#Sim, podemos fazer isso.
+Podemos elaborar um questionário#
+
+ 837: 13:40:09.24 13:40:12.14  Durée 00:00:02.15  Lisibilité 39
+#que permitirá,
+mesmo com perguntas bobas,#
+
+ 838: 13:40:12.18 13:40:14.24  Durée 00:00:02.06  Lisibilité 34
+#fazer todo tipo de pergunta,#
+
+ 839: 13:40:15.03 13:40:17.07  Durée 00:00:02.04  Lisibilité 32
+#para a ligação durar o máximo.#
+
+ 840: 13:40:17.19 13:40:19.18  Durée 00:00:01.24  Lisibilité 29
+Está bem. Maravilha!
+
+ 841: 13:40:19.23 13:40:24.01  Durée 00:00:04.03  Lisibilité 62
+E tem outros meios assim
+
+ 842: 13:40:24.05 13:40:26.07  Durée 00:00:02.02  Lisibilité 31
+de prender as pessoas na linha?
+
+ 843: 13:40:26.11 13:40:31.06  Durée 00:00:04.20  Lisibilité 72
+#Quando a pessoa liga,
+já começamos o questionário.#
+
+ 844: 13:40:31.10 13:40:35.09  Durée 00:00:03.24  Lisibilité 59
+#Dizemos: "Fiquem na linha
+2 segundos, tenho outra ligação.#
+
+ 845: 13:40:35.13 13:40:36.10  Durée 00:00:00.22  Lisibilité 13
+"Já volto."
+
+ 846: 13:40:36.14 13:40:38.18  Durée 00:00:02.04  Lisibilité 32
+#Então a ligação vai continuar.#
+
+ 847: 13:40:39.07 13:40:40.11  Durée 00:00:01.04  Lisibilité 17
+Ah, certo!
+
+ 848: 13:40:40.15 13:40:42.19  Durée 00:00:02.04  Lisibilité 32
+Sim, colocando-os em espera.
+
+ 849: 13:40:42.23 13:40:44.15  Durée 00:00:01.17  Lisibilité 25
+#Colocamos em espera.#
+
+ 850: 13:40:45.00 13:40:46.24  Durée 00:00:01.24  Lisibilité 29
+#Pegamos outra,
+depois voltamos.#
+
+ 851: 13:40:47.03 13:40:48.17  Durée 00:00:01.14  Lisibilité 23
+#Manipulamos a pessoa.#
+
+ 852: 13:40:49.13 13:40:52.01  Durée 00:00:02.13  Lisibilité 38
+#Para saber quem está
+do outro lado da linha,#
+
+ 853: 13:40:52.05 13:40:56.02  Durée 00:00:03.22  Lisibilité 58
+#vamos a Madagascar,
+mais precisamente a Antananarivo,#
+
+ 854: 13:40:56.06 13:40:57.16  Durée 00:00:01.10  Lisibilité 21
+#a capital.#
+
+ 855: 13:40:58.19 13:41:02.16  Durée 00:00:03.22  Lisibilité 58
+#A ilha estaria no cerne
+das ligações sobretaxadas,#
+
+ 856: 13:41:02.20 13:41:05.15  Durée 00:00:02.20  Lisibilité 42
+#graças a salários
+dos mais baixos do mundo.#
+
+ 857: 13:41:05.19 13:41:08.01  Durée 00:00:02.07  Lisibilité 34
+#Cerca de 50 euros por mês.#
+
+ 858: 13:41:09.13 13:41:12.07  Durée 00:00:02.19  Lisibilité 41
+#Nós vamos
+para um área de negócios.#
+
+ 859: 13:41:13.03 13:41:16.10  Durée 00:00:03.07  Lisibilité 49
+#É lá que fica nosso# call center.
+
+ 860: 13:41:18.18 13:41:20.08  Durée 00:00:01.15  Lisibilité 24
+-Bom dia, senhor.
+-Bom dia.
+
+ 861: 13:41:21.13 13:41:23.07  Durée 00:00:01.19  Lisibilité 26
+#Filmamos com câmera oculta.#
+
+ 862: 13:41:23.11 13:41:25.12  Durée 00:00:02.01  Lisibilité 31
+#A pessoa que a carrega finge#
+
+ 863: 13:41:25.16 13:41:27.22  Durée 00:00:02.06  Lisibilité 34
+#ser um de nossos consultores.#
+
+ 864: 13:41:28.02 13:41:31.19  Durée 00:00:03.17  Lisibilité 55
+Com o número sobretaxado
+que eles adquiriram,
+
+ 865: 13:41:31.23 13:41:34.23  Durée 00:00:03.00  Lisibilité 45
+eles têm como objetivo
+montarem concursos
+
+ 866: 13:41:35.02 13:41:38.07  Durée 00:00:03.05  Lisibilité 48
+e assim...
+
+ 867: 13:41:38.11 13:41:40.08  Durée 00:00:01.22  Lisibilité 28
+as ligações devem demorar.
+
+ 868: 13:41:40.13 13:41:43.18  Durée 00:00:03.05  Lisibilité 48
+Vocês têm metodologias assim?
+
+ 869: 13:41:43.22 13:41:47.03  Durée 00:00:03.06  Lisibilité 49
+Se quiserem,
+podemos ver tudo que fazemos.
+
+ 870: 13:41:47.08 13:41:50.14  Durée 00:00:03.06  Lisibilité 49
+#Visivelmente, nosso pedido
+não causa problema algum.#
+
+ 871: 13:41:50.18 13:41:53.13  Durée 00:00:02.20  Lisibilité 42
+#O gerente
+nos mostra as instalações.#
+
+ 872: 13:41:53.18 13:41:57.21  Durée 00:00:04.03  Lisibilité 62
+#Aqui, 160 funcionários
+revezam-se 7 dias na semana,#
+
+ 873: 13:41:58.01 13:41:59.13  Durée 00:00:01.12  Lisibilité 22
+#24 horas por dia.#
+
+ 874: 13:42:00.22 13:42:03.15  Durée 00:00:02.18  Lisibilité 41
+#Nesse painel,
+eis os seus clientes.#
+
+ 875: 13:42:03.19 13:42:07.05  Durée 00:00:03.11  Lisibilité 52
+#Empresas francesas,
+desta vez, honestas.#
+
+ 876: 13:42:07.09 13:42:08.19  Durée 00:00:01.10  Lisibilité 21
+#Empresas de táxi,#
+
+ 877: 13:42:08.23 13:42:12.17  Durée 00:00:03.19  Lisibilité 56
+#mas também médicos
+que não têm nada de vigaristas.#
+
+ 878: 13:42:12.21 13:42:13.20  Durée 00:00:00.24  Lisibilité 14
+#Mas para nós,#
+
+ 879: 13:42:13.24 13:42:18.00  Durée 00:00:04.01  Lisibilité 61
+#eles também são capazes de prolongar
+as conversas inutilmente.#
+
+ 880: 13:42:18.05 13:42:21.23  Durée 00:00:03.18  Lisibilité 56
+Nós podemos administrar
+várias chamadas ao mesmo tempo.
+
+ 881: 13:42:22.01 13:42:24.06  Durée 00:00:02.05  Lisibilité 33
+Deixamos em espera,
+"estacionados".
+
+ 882: 13:42:24.10 13:42:27.03  Durée 00:00:02.18  Lisibilité 41
+Então vocês atendem
+várias chamadas simultâneas?
+
+ 883: 13:42:27.07 13:42:32.01  Durée 00:00:04.19  Lisibilité 71
+Você põe uma em espera
+e depois passa para outra...
+
+ 884: 13:42:32.05 13:42:34.10  Durée 00:00:02.05  Lisibilité 33
+-E funciona? Não é difícil?
+-Não.
+
+ 885: 13:42:34.14 13:42:37.13  Durée 00:00:02.24  Lisibilité 44
+Não. Estamos habituados.
+Não é nada difícil.
+
+ 886: 13:42:38.06 13:42:41.12  Durée 00:00:03.06  Lisibilité 49
+#Resultado,
+um sistema de fraude fácil,#
+
+ 887: 13:42:41.16 13:42:43.14  Durée 00:00:01.23  Lisibilité 29
+#rápido de implementar.#
+
+ 888: 13:42:43.18 13:42:46.19  Durée 00:00:03.01  Lisibilité 46
+#Então, na França, o que fazem
+as autoridades para combater#
+
+ 889: 13:42:46.23 13:42:49.07  Durée 00:00:02.09  Lisibilité 35
+#essas fraudes
+de números sobretaxados?#
+
+ 890: 13:42:53.23 13:42:57.22  Durée 00:00:03.24  Lisibilité 59
+#Em Nanterre,
+uma unidade especial cuida de caçar#
+
+ 891: 13:42:58.02 13:43:00.07  Durée 00:00:02.05  Lisibilité 33
+#os vigaristas da Web
+e da telefonia.#
+
+ 892: 13:43:01.02 13:43:04.08  Durée 00:00:03.06  Lisibilité 49
+#São 8 investigadores.
+Todo dia#
+
+ 893: 13:43:04.17 13:43:09.21  Durée 00:00:05.04  Lisibilité 77
+#eles recebem chamadas de vítimas
+que passam pelo 0805 805 817,#
+
+ 894: 13:43:10.00 13:43:13.00  Durée 00:00:03.00  Lisibilité 45
+#um número gratuito
+para denunciar uma fraude.#
+
+ 895: 13:43:14.20 13:43:16.07  Durée 00:00:01.12  Lisibilité 22
+Uma ligação que mandou
+
+ 896: 13:43:16.11 13:43:18.23  Durée 00:00:02.12  Lisibilité 37
+você ligar
+para um número sobretaxado?
+
+ 897: 13:43:19.03 13:43:23.03  Durée 00:00:04.00  Lisibilité 60
+Você só discou uma vez o número
+ou várias vezes?
+
+ 898: 13:43:24.15 13:43:28.15  Durée 00:00:04.00  Lisibilité 60
+Então você vai ter
+uma sobrefaturação de...
+
+ 899: 13:43:28.19 13:43:32.24  Durée 00:00:04.05  Lisibilité 63
+pela sua operadora
+de pouco menos de 30 euros.
+
+ 900: 13:43:33.17 13:43:36.24  Durée 00:00:03.07  Lisibilité 49
+#Denúncias como essa
+são 500 por mês.#
+
+ 901: 13:43:37.03 13:43:40.06  Durée 00:00:03.03  Lisibilité 47
+#Isso é muito
+para essa equipe de investigadores,#
+
+ 902: 13:43:40.11 13:43:43.13  Durée 00:00:03.02  Lisibilité 46
+#que deve dar prioridade
+aos casos maiores.#
+
+ 903: 13:43:43.17 13:43:47.22  Durée 00:00:04.05  Lisibilité 63
+#Assim, muitos vigaristas passam
+pelas malhas da rede.#
+
+ 904: 13:43:51.06 13:43:54.10  Durée 00:00:03.04  Lisibilité 47
+#E agora eles focam
+nos adolescentes,#
+
+ 905: 13:43:54.15 13:43:56.18  Durée 00:00:02.03  Lisibilité 32
+#como Claire, 12 anos.#
+
+ 906: 13:43:57.17 13:43:59.08  Durée 00:00:01.16  Lisibilité 25
+#Ela mora em Franconville.#
+
+ 907: 13:44:02.06 13:44:04.12  Durée 00:00:02.06  Lisibilité 34
+#Os golpistas
+entenderam uma coisa:#
+
+ 908: 13:44:04.17 13:44:05.18  Durée 00:00:01.01  Lisibilité 16
+#mesmo estudando,#
+
+ 909: 13:44:05.22 13:44:08.16  Durée 00:00:02.19  Lisibilité 41
+#esses jovens nunca largam
+seus# smartphones.
+
+ 910: 13:44:10.03 13:44:12.06  Durée 00:00:02.03  Lisibilité 32
+Eles não conseguem
+largar o celular.
+
+ 911: 13:44:12.10 13:44:13.10  Durée 00:00:01.00  Lisibilité 15
+Isso.
+
+ 912: 13:44:13.23 13:44:17.22  Durée 00:00:03.24  Lisibilité 59
+Papai me deu este
+entre o 5º e o 6º ano.
+
+ 913: 13:44:18.02 13:44:21.08  Durée 00:00:03.06  Lisibilité 49
+#Há alguns meses, ela achava
+ter contato no Instagram#
+
+ 914: 13:44:21.12 13:44:24.01  Durée 00:00:02.14  Lisibilité 38
+#com um de seus ídolos,
+Hugoposay,#
+
+ 915: 13:44:24.14 13:44:25.24  Durée 00:00:01.10  Lisibilité 21
+#um# youtuber.
+
+ 916: 13:44:26.03 13:44:28.10  Durée 00:00:02.07  Lisibilité 34
+#Ela recebe então
+uma mensagem atraente.#
+
+ 917: 13:44:28.14 13:44:30.05  Durée 00:00:01.16  Lisibilité 25
+#Alguém fingindo ser Hugo#
+
+ 918: 13:44:30.10 13:44:33.11  Durée 00:00:03.01  Lisibilité 46
+#afirma que ela ganhou
+um iPhone de última geração.#
+
+ 919: 13:44:33.15 13:44:37.03  Durée 00:00:03.13  Lisibilité 53
+#E para isso, ela deve ligar
+para um número sobretaxado.#
+
+ 920: 13:44:37.08 13:44:38.19  Durée 00:00:01.11  Lisibilité 22
+Eu disse:
+"É você mesmo?"
+
+ 921: 13:44:38.23 13:44:40.21  Durée 00:00:01.23  Lisibilité 29
+Ele:
+"Não se preocupe, sou eu."
+
+ 922: 13:44:41.01 13:44:43.07  Durée 00:00:02.06  Lisibilité 34
+Ele me enviava
+fotos reais do iPhone,
+
+ 923: 13:44:43.11 13:44:46.16  Durée 00:00:03.05  Lisibilité 48
+com as caixas. Eu pensei:
+"Com certeza é isso."
+
+ 924: 13:44:47.03 13:44:48.16  Durée 00:00:01.13  Lisibilité 23
+#Com a confiança ganha,#
+
+ 925: 13:44:48.20 13:44:52.05  Durée 00:00:03.10  Lisibilité 51
+#Claire vai ligar 22 vezes
+para o número sobretaxado.#
+
+ 926: 13:44:53.06 13:44:56.10  Durée 00:00:03.04  Lisibilité 47
+Uma semana depois, eu não podia mais
+ligar nem enviar SMS.
+
+ 927: 13:44:56.14 13:44:59.08  Durée 00:00:02.19  Lisibilité 41
+Recebi um e-mail da Free
+dizendo que me bloqueou,
+
+ 928: 13:44:59.12 13:45:02.18  Durée 00:00:03.06  Lisibilité 49
+porque eu passei 66 E
+do meu limite.
+
+ 929: 13:45:02.23 13:45:04.23  Durée 00:00:02.00  Lisibilité 30
+Eu achei que não era possível.
+
+ 930: 13:45:05.01 13:45:08.17  Durée 00:00:03.16  Lisibilité 55
+Um# youtubeur# falando assim comigo,
+não é possível.
+
+ 931: 13:45:08.21 13:45:11.01  Durée 00:00:02.05  Lisibilité 33
+Pois não era mesmo!
+
+ 932: 13:45:11.06 13:45:13.07  Durée 00:00:02.01  Lisibilité 31
+O que você quer comer hoje?
+
+ 933: 13:45:13.11 13:45:15.01  Durée 00:00:01.15  Lisibilité 24
+-Macarrão.
+-Macarrão.
+
+ 934: 13:45:15.14 13:45:18.00  Durée 00:00:02.11  Lisibilité 37
+#Claire está longe
+de ser a única vítima.#
+
+ 935: 13:45:18.05 13:45:22.11  Durée 00:00:04.06  Lisibilité 64
+#Pois os golpistas já utilizaram
+nomes de# youtubeurs# famosos,
+
+ 936: 13:45:22.15 13:45:25.08  Durée 00:00:02.18  Lisibilité 41
+#como Cyprien ou Natoo.#
+
+ 937: 13:45:25.13 13:45:28.06  Durée 00:00:02.18  Lisibilité 41
+#Diante desse fenômeno,
+certas estrelas da Web#
+
+ 938: 13:45:28.11 13:45:32.11  Durée 00:00:04.00  Lisibilité 60
+#como Squeezie
+decidiram alertar seus fãs.#
+
+ 939: 13:45:32.16 13:45:35.09  Durée 00:00:02.18  Lisibilité 41
+Gente que fingem ser nós
+e contatam vocês
+
+ 940: 13:45:35.13 13:45:37.15  Durée 00:00:02.02  Lisibilité 31
+dizendo que ganharam um iPhone.
+
+ 941: 13:45:37.20 13:45:41.23  Durée 00:00:04.03  Lisibilité 62
+Não caiam na armadilha de gente
+que quer dar um golpe em vocês.
+
+ 942: 13:45:42.03 13:45:46.08  Durée 00:00:04.05  Lisibilité 63
+#Nessa história, a mãe de Claire
+teve 66 E de prejuízo.#
+
+ 943: 13:45:46.12 13:45:48.07  Durée 00:00:01.20  Lisibilité 27
+#Mas# youtubeurs# ou não,#
+
+ 944: 13:45:48.11 13:45:52.14  Durée 00:00:04.03  Lisibilité 62
+#esses golpes de números sobretaxados
+podem passar dos mil euros.#
+
+ 945: 13:45:52.18 13:45:55.03  Durée 00:00:02.10  Lisibilité 36
+#Mas depois de cair no golpe,
+o que fazer?#
+
+ 946: 13:45:55.08 13:45:57.18  Durée 00:00:02.10  Lisibilité 36
+#É possível obter uma indenização?#
+
+ 947: 13:45:58.05 13:46:00.09  Durée 00:00:02.04  Lisibilité 32
+#No 16º# arrondissement# de Paris,#
+
+ 948: 13:46:00.13 13:46:02.17  Durée 00:00:02.04  Lisibilité 32
+#um organismo garante que sim.#
+
+ 949: 13:46:03.22 13:46:05.06  Durée 00:00:01.09  Lisibilité 20
+#Na CLCV,#
+
+ 950: 13:46:05.10 13:46:08.07  Durée 00:00:02.22  Lisibilité 43
+#a Associação Consumo,
+Moradia e Qualidade de Vida,#
+
+ 951: 13:46:08.11 13:46:10.09  Durée 00:00:01.23  Lisibilité 29
+#Olivier Gayraud é jurista.#
+
+ 952: 13:46:10.14 13:46:12.23  Durée 00:00:02.09  Lisibilité 35
+#E de tanto receber
+denúncias de golpe,#
+
+ 953: 13:46:13.02 13:46:15.23  Durée 00:00:02.21  Lisibilité 43
+#ele e seus colegas
+destrincharam as leis.#
+
+ 954: 13:46:16.02 13:46:18.17  Durée 00:00:02.15  Lisibilité 39
+#E aqui está o que eles acharam.#
+
+ 955: 13:46:18.21 13:46:21.13  Durée 00:00:02.17  Lisibilité 40
+Pode ter uma astúcia num artigo
+
+ 956: 13:46:21.17 13:46:23.02  Durée 00:00:01.10  Lisibilité 21
+do código
+monetário e financeiro,
+
+ 957: 13:46:23.06 13:46:26.16  Durée 00:00:03.10  Lisibilité 51
+que afirma
+que esses atos de microcompra
+
+ 958: 13:46:26.20 13:46:30.12  Durée 00:00:03.17  Lisibilité 55
+não podem passar
+de 50 euros por ato.
+
+ 959: 13:46:30.16 13:46:33.17  Durée 00:00:03.01  Lisibilité 46
+Então quando lhe cobram muito mais
+
+ 960: 13:46:33.21 13:46:36.20  Durée 00:00:02.24  Lisibilité 44
+podemos mostrar esse artigo
+dizendo à operadora:
+
+ 961: 13:46:36.24 13:46:38.00  Durée 00:00:01.01  Lisibilité 16
+"É ilegal."
+
+ 962: 13:46:38.05 13:46:39.08  Durée 00:00:01.03  Lisibilité 17
+#Outro conselho,#
+
+ 963: 13:46:39.12 13:46:42.24  Durée 00:00:03.12  Lisibilité 52
+#Peça à sua operadora
+que bloqueie chamadas sobretaxadas.#
+
+ 964: 13:46:43.03 13:46:47.03  Durée 00:00:04.00  Lisibilité 60
+#É o único meio infalível
+de se proteger dos golpistas.#
+
+ 965: 13:46:58.03 13:46:59.12  Durée 00:00:01.09  Lisibilité 20
+Vocês entenderam,
+
+ 966: 13:46:59.17 13:47:04.04  Durée 00:00:04.12  Lisibilité 67
+quando receberem esse tipo de SMS,
+apaguem imediatamente.
+
+ 967: 13:47:04.09 13:47:05.14  Durée 00:00:01.05  Lisibilité 18
+Obrigado pela fidelidade.
+
+ 968: 13:47:05.18 13:47:08.04  Durée 00:00:02.11  Lisibilité 37
+Nos vemos logo na France 2,
+é claro.
+
+ 969: 13:47:08.08 13:47:11.00  Durée 00:00:02.17  Lisibilité 40
+Não esqueçam, continuem curiosos.
+Tchau.
+
+ 970: 13:47:22.07 13:47:26.02  Durée 00:00:03.20  Lisibilité 57
+Adaptação: Adriana Gasparoni
+Legendagem: ECLAIR
+
