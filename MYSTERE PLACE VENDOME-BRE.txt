@@ -1,0 +1,4178 @@
+
+
+   1: 10:00:00.03 10:00:01.09  Durée 00:00:01.06  Lisibilité 19
+Paris, 1898
+
+   2: 10:00:01.13 10:00:03.08  Durée 00:00:01.20  Lisibilité 27
+Achetez# Le Progrès illustré#!
+
+   3: 10:00:03.12 10:00:05.16  Durée 00:00:02.04  Lisibilité 32
+5 centimes pour# Le Progrès illustré#.
+
+   4: 10:00:05.20 10:00:08.05  Durée 00:00:02.10  Lisibilité 36
+Des voleurs d'enfants sévissent
+à Paris.
+
+   5: 10:00:08.21 10:00:10.15  Durée 00:00:01.19  Lisibilité 26
+Allez, madame, 5 centimes.
+
+   6: 10:00:12.12 10:00:13.16  Durée 00:00:01.04  Lisibilité 17
+#Le Progrès illustré!#
+
+   7: 10:00:18.00 10:00:19.22  Durée 00:00:01.22  Lisibilité 28
+Tu ne vas pas à l'école, toi?
+
+   8: 10:00:22.19 10:00:26.10  Durée 00:00:03.16  Lisibilité 55
+MYSTÈRE PLACE VENDÔME
+
+   9: 10:00:31.00 10:00:32.09  Durée 00:00:01.09  Lisibilité 20
+Votre journal, monsieur.
+
+  10: 10:00:33.08 10:00:35.04  Durée 00:00:01.21  Lisibilité 28
+Tiens. Attends.
+
+  11: 10:00:35.19 10:00:36.18  Durée 00:00:00.24  Lisibilité 14
+Não, merci.
+
+  12: 10:00:36.22 10:00:39.20  Durée 00:00:02.23  Lisibilité 44
+Ma mère m'interdit d'accepter
+les cadeaux des inconnus.
+
+  13: 10:00:40.01 10:00:41.17  Durée 00:00:01.16  Lisibilité 25
+Obrigado quand même, monsieur.
+
+  14: 10:00:44.19 10:00:46.16  Durée 00:00:01.22  Lisibilité 28
+Jour J-3
+
+  15: 10:00:46.20 10:00:49.12  Durée 00:00:02.17  Lisibilité 40
+Les voleurs d'enfants
+sévissent à Paris!
+
+  16: 10:01:18.12 10:01:20.00  Durée 00:00:01.13  Lisibilité 23
+Cache-toi, poussin, j'arrive.
+
+  17: 10:01:20.04 10:01:21.17  Durée 00:00:01.13  Lisibilité 23
+Je peux aller seul à l'école.
+
+  18: 10:01:21.21 10:01:24.13  Durée 00:00:02.17  Lisibilité 40
+É hors de question,
+attends-moi 2 minutes.
+
+  19: 10:01:25.18 10:01:28.04  Durée 00:00:02.11  Lisibilité 37
+- À l'anglaise, le rôti.
+- J'envoie les cailles.
+
+  20: 10:01:34.02 10:01:37.03  Durée 00:00:03.01  Lisibilité 46
+La mandarine surprise.
+Qui est sur la mandarine surprise?
+
+  21: 10:01:40.22 10:01:41.24  Durée 00:00:01.02  Lisibilité 16
+Obrigado, Victor.
+
+  22: 10:01:42.03 10:01:44.24  Durée 00:00:02.21  Lisibilité 43
+- J'annonce 2 cailles pour la 3.
+- Sim, chef.
+
+  23: 10:01:45.03 10:01:46.11  Durée 00:00:01.08  Lisibilité 20
+Mollo sur les morilles.
+
+  24: 10:01:47.09 10:01:49.20  Durée 00:00:02.11  Lisibilité 37
+Et le cognac,
+il va se servir tout seul?
+
+  25: 10:01:53.08 10:01:55.02  Durée 00:00:01.19  Lisibilité 26
+Elles sont belles, tes poires.
+
+  26: 10:01:59.07 10:02:01.13  Durée 00:00:02.06  Lisibilité 34
+- É quoi, ça?
+- Les tomates, c'était de l'eau.
+
+  27: 10:02:01.18 10:02:03.10  Durée 00:00:01.17  Lisibilité 25
+- J'ai pensé...
+- T'as pas à penser.
+
+  28: 10:02:03.15 10:02:04.24  Durée 00:00:01.09  Lisibilité 20
+- Poubelle.
+- Não, chef.
+
+  29: 10:02:05.04 10:02:08.21  Durée 00:00:03.17  Lisibilité 55
+Ça serait dommage.
+Ça serait un attentat gustatif.
+
+  30: 10:02:09.00 10:02:12.03  Durée 00:00:03.03  Lisibilité 47
+Une sauce armoricaine,
+é une sauce armoricaine.
+
+  31: 10:02:12.08 10:02:15.11  Durée 00:00:03.03  Lisibilité 47
+Elle était meilleure
+qu'une sauce armoricaine, ma sauce.
+
+  32: 10:02:15.15 10:02:18.06  Durée 00:00:02.16  Lisibilité 40
+Ça suffit, Jeanne.
+Tu as la langue trop bien pendue.
+
+  33: 10:02:18.11 10:02:20.07  Durée 00:00:01.21  Lisibilité 28
+Pour une saucière,
+é une qualité.
+
+  34: 10:02:21.07 10:02:22.14  Durée 00:00:01.07  Lisibilité 19
+É amusant, ça.
+
+  35: 10:02:23.03 10:02:24.15  Durée 00:00:01.12  Lisibilité 22
+Émincez plus fin.
+
+  36: 10:02:24.20 10:02:25.19  Durée 00:00:00.24  Lisibilité 14
+Obrigado, Franck.
+
+  37: 10:02:27.08 10:02:30.08  Durée 00:00:03.00  Lisibilité 45
+Si t'aimes tellement la cuisine,
+reste à la maison.
+
+  38: 10:02:30.13 10:02:33.07  Durée 00:00:02.19  Lisibilité 41
+Tu pourras cuisiner
+de bons ragoûts pour ton mari.
+
+  39: 10:02:33.11 10:02:36.04  Durée 00:00:02.18  Lisibilité 41
+Não, é vrai, tu n'en as pas.
+Je suis désolé.
+
+  40: 10:02:36.09 10:02:39.22  Durée 00:00:03.13  Lisibilité 53
+Ça me laissera le temps de briller
+quand Escoffier m'aura choisie
+
+  41: 10:02:40.01 10:02:41.00  Durée 00:00:00.24  Lisibilité 14
+pour le dîner d'État.
+
+  42: 10:02:41.05 10:02:43.15  Durée 00:00:02.10  Lisibilité 36
+Tiens, rends-toi utile,
+donne-moi les tomates.
+
+  43: 10:02:48.01 10:02:50.00  Durée 00:00:01.24  Lisibilité 29
+2 poires Belle-Hélène.
+
+  44: 10:02:50.15 10:02:52.16  Durée 00:00:02.01  Lisibilité 31
+1 poire Belle-Hélène
+pour Sarah Bernhardt.
+
+  45: 10:02:53.17 10:02:55.04  Durée 00:00:01.12  Lisibilité 22
+- On enlève.
+- É prêt.
+
+  46: 10:02:58.11 10:03:00.02  Durée 00:00:01.16  Lisibilité 25
+Allez, on se dépêche.
+
+  47: 10:03:03.22 10:03:04.24  Durée 00:00:01.02  Lisibilité 16
+Viens-là, Paul.
+
+  48: 10:03:17.24 10:03:20.20  Durée 00:00:02.21  Lisibilité 43
+- À ce dîner, il y aura des rois?
+- Apparemment.
+
+  49: 10:03:21.00 10:03:24.24  Durée 00:00:03.24  Lisibilité 59
+Ça ne m'impressionne pas vraiment,
+j'en ai un devant moi tous les jours.
+
+  50: 10:03:27.03 10:03:29.15  Durée 00:00:02.12  Lisibilité 37
+On va passer par là,
+sinon on n'y sera jamais.
+
+  51: 10:03:29.19 10:03:31.19  Durée 00:00:02.00  Lisibilité 30
+Hop, hop, allez, on se dépêche.
+
+  52: 10:03:48.18 10:03:50.10  Durée 00:00:01.17  Lisibilité 25
+Sim. À votre service.
+
+  53: 10:03:51.03 10:03:52.09  Durée 00:00:01.06  Lisibilité 19
+Bonne journée, madame.
+
+  54: 10:03:54.08 10:03:55.05  Durée 00:00:00.22  Lisibilité 13
+Paul.
+
+  55: 10:03:56.06 10:03:57.03  Durée 00:00:00.22  Lisibilité 13
+Cadeau.
+
+  56: 10:03:58.02 10:04:00.18  Durée 00:00:02.16  Lisibilité 40
+Ma mère m'interdit d'accepter
+les cadeaux d'inconnus.
+
+  57: 10:04:00.23 10:04:03.06  Durée 00:00:02.08  Lisibilité 35
+La comtesse d'Alencourt
+n'est plus une inconnue.
+
+  58: 10:04:08.03 10:04:10.08  Durée 00:00:02.05  Lisibilité 33
+- É beaucoup trop beau.
+- Mais não.
+
+  59: 10:04:10.12 10:04:13.14  Durée 00:00:03.02  Lisibilité 46
+Un beau jeune homme comme lui
+doit porter une cravate.
+
+  60: 10:04:13.18 10:04:15.04  Durée 00:00:01.11  Lisibilité 22
+Ne le gâtez pas comme ça.
+
+  61: 10:04:15.08 10:04:17.09  Durée 00:00:02.01  Lisibilité 31
+Les soldats de plomb,
+il les a fait fondre.
+
+  62: 10:04:18.01 10:04:19.24  Durée 00:00:01.23  Lisibilité 29
+Maman, c'était pour une expérience.
+
+  63: 10:04:20.03 10:04:21.15  Durée 00:00:01.12  Lisibilité 22
+Tu as la langue bien pendue.
+
+  64: 10:04:21.20 10:04:24.02  Durée 00:00:02.07  Lisibilité 34
+Tu dis tout le temps
+que é une qualité.
+
+  65: 10:04:24.06 10:04:25.14  Durée 00:00:01.08  Lisibilité 20
+Ça m'arrive de me tromper.
+
+  66: 10:04:25.19 10:04:28.22  Durée 00:00:03.03  Lisibilité 47
+Donc notre jeune ami
+est déjà un grand scientifique.
+
+  67: 10:04:29.01 10:04:31.08  Durée 00:00:02.07  Lisibilité 34
+J'ai toujours 10 sur 10 en sciences.
+
+  68: 10:04:31.13 10:04:32.22  Durée 00:00:01.09  Lisibilité 20
+Je serai un savant célèbre.
+
+  69: 10:04:33.02 10:04:34.02  Durée 00:00:01.00  Lisibilité 15
+Merveilleux.
+
+  70: 10:04:34.06 10:04:37.12  Durée 00:00:03.06  Lisibilité 49
+On ne lui apprend pas la modestie
+en cours de sciences.
+
+  71: 10:04:37.16 10:04:38.24  Durée 00:00:01.08  Lisibilité 20
+Obrigado.
+
+  72: 10:05:09.13 10:05:11.09  Durée 00:00:01.21  Lisibilité 28
+- Je n'ai rien pu faire.
+- Quoi?
+
+  73: 10:05:11.13 10:05:14.16  Durée 00:00:03.03  Lisibilité 47
+- Branchini t'as dénoncée.
+- Quel trou de balle.
+
+  74: 10:05:15.06 10:05:17.11  Durée 00:00:02.05  Lisibilité 33
+J'ai dit que tu étais allée
+chez Meunier.
+
+  75: 10:05:17.15 10:05:18.22  Durée 00:00:01.07  Lisibilité 19
+Ritz n'a rien voulu savoir.
+
+  76: 10:05:19.12 10:05:20.18  Durée 00:00:01.06  Lisibilité 19
+Je peux vous parler?
+
+  77: 10:05:21.08 10:05:22.14  Durée 00:00:01.06  Lisibilité 19
+Sim, monsieur Ritz.
+
+  78: 10:05:22.19 10:05:26.10  Durée 00:00:03.16  Lisibilité 55
+Il y a des voleurs d'enfants,
+et ils les font mendier.
+
+  79: 10:05:26.15 10:05:28.21  Durée 00:00:02.06  Lisibilité 34
+Votre fils vous empêche
+de bien travailler.
+
+  80: 10:05:29.00 10:05:31.18  Durée 00:00:02.18  Lisibilité 41
+Tu aurais dû me demander
+au lieu de filer à l'anglaise.
+
+  81: 10:05:31.23 10:05:34.10  Durée 00:00:02.12  Lisibilité 37
+Ils avaient terminé,
+on en était au dessert.
+
+  82: 10:05:34.14 10:05:36.14  Durée 00:00:02.00  Lisibilité 30
+Tu as du talent,
+mais tu es indisciplinée.
+
+  83: 10:05:36.21 10:05:38.08  Durée 00:00:01.12  Lisibilité 22
+Si les autres faisaient ça?
+
+  84: 10:05:38.13 10:05:40.20  Durée 00:00:02.07  Lisibilité 34
+Ils seraient plus doués
+en cuisine.
+
+  85: 10:05:42.03 10:05:44.16  Durée 00:00:02.13  Lisibilité 38
+Il faut trahir une recette
+pour la renouveler.
+
+  86: 10:05:45.06 10:05:46.13  Durée 00:00:01.07  Lisibilité 19
+Voilà qu'elle philosophe.
+
+  87: 10:05:47.06 10:05:48.17  Durée 00:00:01.11  Lisibilité 22
+Ce n'est pas un délit.
+
+  88: 10:05:49.07 10:05:51.18  Durée 00:00:02.11  Lisibilité 37
+Dans 3 jours,
+le monde entier nous regardera.
+
+  89: 10:05:51.23 10:05:54.21  Durée 00:00:02.23  Lisibilité 44
+Alors un nouveau rappel à l'ordre,
+et ce sera la porte.
+
+  90: 10:05:58.14 10:05:59.23  Durée 00:00:01.09  Lisibilité 20
+Bien, monsieur Ritz.
+
+  91: 10:06:00.03 10:06:02.18  Durée 00:00:02.15  Lisibilité 39
+Pourquoi tu ne le mettrais pas
+au pensionnat?
+
+  92: 10:06:02.22 10:06:03.21  Durée 00:00:00.24  Lisibilité 14
+Il y en a de très bien.
+
+  93: 10:06:04.15 10:06:06.23  Durée 00:00:02.08  Lisibilité 35
+Qui est-ce qui va
+lui faire à manger, le soir?
+
+  94: 10:06:07.02 10:06:09.13  Durée 00:00:02.11  Lisibilité 37
+Qui lui fera des bisous
+pour lui dire bonne nuit?
+
+  95: 10:06:09.18 10:06:13.20  Durée 00:00:04.02  Lisibilité 61
+Je te parie qu'en sciences,
+on lui dira que la Terre est plate.
+
+  96: 10:06:15.20 10:06:17.14  Durée 00:00:01.19  Lisibilité 26
+Pour le chercher, tu feras comment?
+
+  97: 10:06:18.18 10:06:22.04  Durée 00:00:03.11  Lisibilité 52
+J'irais bien, mais cette vipère
+de Branchini va m'avoir à l'œil.
+
+  98: 10:06:27.05 10:06:29.05  Durée 00:00:02.00  Lisibilité 30
+Tu pourrais lui demander à elle?
+
+  99: 10:06:29.22 10:06:31.20  Durée 00:00:01.23  Lisibilité 29
+Elle est en extra pour la journée.
+
+ 100: 10:06:32.20 10:06:34.08  Durée 00:00:01.13  Lisibilité 23
+Elle a l'air gentille.
+
+ 101: 10:06:35.13 10:06:36.19  Durée 00:00:01.06  Lisibilité 19
+É une qualité?
+
+ 102: 10:06:38.10 10:06:40.10  Durée 00:00:02.00  Lisibilité 30
+Allez, il faut que je file.
+
+ 103: 10:06:41.00 10:06:43.09  Durée 00:00:02.09  Lisibilité 35
+Je dois faire le lit
+de la duchesse de Morny.
+
+ 104: 10:06:43.13 10:06:45.20  Durée 00:00:02.07  Lisibilité 34
+Elle ne veut pas de vert,
+elle a l'impression
+
+ 105: 10:06:46.00 10:06:47.13  Durée 00:00:01.13  Lisibilité 23
+de dormir sur le Champ-de-Mars.
+
+ 106: 10:07:02.16 10:07:04.04  Durée 00:00:01.13  Lisibilité 23
+- Mademoiselle.
+- Sim?
+
+ 107: 10:07:06.09 10:07:09.05  Durée 00:00:02.21  Lisibilité 43
+Les Serbes ne veulent pas
+des Austro-Hongrois.
+
+ 108: 10:07:09.10 10:07:11.04  Durée 00:00:01.19  Lisibilité 26
+Seulement, avec le jeu des alliances,
+
+ 109: 10:07:11.09 10:07:14.23  Durée 00:00:03.14  Lisibilité 53
+si ça dérape, ce sera vite le bordel,
+toute l'Europe en guerre.
+
+ 110: 10:07:15.03 10:07:17.15  Durée 00:00:02.12  Lisibilité 37
+- Du coup...
+- Ils se rabibochent chez nous.
+
+ 111: 10:07:18.05 10:07:21.03  Durée 00:00:02.23  Lisibilité 44
+On leur fait 2, 3 pommes d'amour
+et la guerre est finie.
+
+ 112: 10:07:21.18 10:07:24.17  Durée 00:00:02.24  Lisibilité 44
+Va savoir,
+la grande cuisine adoucit les mœurs.
+
+ 113: 10:07:24.21 10:07:28.20  Durée 00:00:03.24  Lisibilité 59
+Et à propos, il la choisit quand
+son équipe de choc, Escoffier?
+
+ 114: 10:07:28.24 10:07:30.03  Durée 00:00:01.04  Lisibilité 17
+Sûrement aujourd'hui.
+
+ 115: 10:07:30.18 10:07:33.20  Durée 00:00:03.02  Lisibilité 46
+- Que les meilleurs gagnent.
+- Ben, désolée, les gars.
+
+ 116: 10:07:34.23 10:07:38.24  Durée 00:00:04.01  Lisibilité 61
+Jeanne, dans la sauce gribiche,
+é du persil ou de la ciboulette?
+
+ 117: 10:07:39.04 10:07:40.00  Durée 00:00:00.21  Lisibilité 13
+De la ciboulette.
+
+ 118: 10:07:40.04 10:07:43.10  Durée 00:00:03.06  Lisibilité 49
+Et rajoute une pointe de madère,
+ça casse l'acidité du vinaigre.
+
+ 119: 10:07:43.15 10:07:46.01  Durée 00:00:02.11  Lisibilité 37
+Tiens.
+T'as encore laissé traîner ça.
+
+ 120: 10:07:47.18 10:07:48.19  Durée 00:00:01.01  Lisibilité 16
+Obrigado.
+
+ 121: 10:07:50.15 10:07:52.23  Durée 00:00:02.08  Lisibilité 35
+- Tu fais quoi?
+- Occupe-toi de tes oignons.
+
+ 122: 10:07:54.04 10:07:55.01  Durée 00:00:00.22  Lisibilité 13
+Là-dedans,
+
+ 123: 10:07:55.05 10:07:59.03  Durée 00:00:03.23  Lisibilité 59
+il y a tous les secrets qui font
+d'elle la meilleure saucière.
+
+ 124: 10:08:05.15 10:08:07.01  Durée 00:00:01.11  Lisibilité 22
+Paul?
+
+ 125: 10:08:08.07 10:08:12.05  Durée 00:00:03.23  Lisibilité 59
+Paul, t'as des devoirs à faire.
+Ne te cache pas, tu n'as plus 5 ans.
+
+ 126: 10:08:25.10 10:08:26.13  Durée 00:00:01.03  Lisibilité 17
+Paul?
+
+ 127: 10:08:38.02 10:08:39.02  Durée 00:00:01.00  Lisibilité 15
+Jules.
+
+ 128: 10:08:43.17 10:08:47.03  Durée 00:00:03.11  Lisibilité 52
+Tu n'as pas vu Paul?
+Je ne sais pas où il est.
+
+ 129: 10:08:47.18 10:08:48.13  Durée 00:00:00.20  Lisibilité 12
+Não.
+
+ 130: 10:08:50.17 10:08:51.15  Durée 00:00:00.23  Lisibilité 14
+On se voit ce soir.
+
+ 131: 10:08:52.10 10:08:53.21  Durée 00:00:01.11  Lisibilité 22
+Sim. Je ne sais pas, oui.
+
+ 132: 10:08:54.11 10:08:55.12  Durée 00:00:01.01  Lisibilité 16
+Je t'aime.
+
+ 133: 10:08:57.23 10:08:58.24  Durée 00:00:01.01  Lisibilité 16
+Moi aussi.
+
+ 134: 10:09:05.00 10:09:05.23  Durée 00:00:00.23  Lisibilité 14
+Paul.
+
+ 135: 10:09:24.04 10:09:27.10  Durée 00:00:03.06  Lisibilité 49
+"Si tu veux revoir Paul,
+intègre l'équipe du dîner d'État.
+
+ 136: 10:09:27.14 10:09:30.05  Durée 00:00:02.16  Lisibilité 40
+"Pas un mot à la police
+ni à personne."
+
+ 137: 10:10:10.14 10:10:11.11  Durée 00:00:00.22  Lisibilité 13
+Il est où, Paul?
+
+ 138: 10:10:11.16 10:10:14.16  Durée 00:00:03.00  Lisibilité 45
+- Il n'a pas pris son goûter.
+- Il est chez un copain.
+
+ 139: 10:10:14.20 10:10:17.11  Durée 00:00:02.16  Lisibilité 40
+"Un copain"? Quel copain?
+
+ 140: 10:10:17.15 10:10:21.05  Durée 00:00:03.15  Lisibilité 54
+- Un nouveau. Tu ne connais pas.
+- Et Amélie l'a laissé partir?
+
+ 141: 10:10:22.04 10:10:24.01  Durée 00:00:01.22  Lisibilité 28
+Jeanne, qu'est-ce qui se passe?
+
+ 142: 10:10:26.22 10:10:29.08  Durée 00:00:02.11  Lisibilité 37
+- Je ne sais pas où il est.
+- Quoi?
+
+ 143: 10:10:30.18 10:10:32.07  Durée 00:00:01.14  Lisibilité 23
+Amélie n'est pas revenue.
+
+ 144: 10:10:32.11 10:10:34.06  Durée 00:00:01.20  Lisibilité 27
+On ne peut pas rester
+sans rien faire.
+
+ 145: 10:10:34.10 10:10:36.10  Durée 00:00:02.00  Lisibilité 30
+- Et les voleurs?
+- Et les flics.
+
+ 146: 10:10:36.14 10:10:39.01  Durée 00:00:02.12  Lisibilité 37
+Não.
+Ritz n'attend que ça pour me virer.
+
+ 147: 10:10:40.03 10:10:41.07  Durée 00:00:01.04  Lisibilité 17
+Je vais le retrouver.
+
+ 148: 10:10:43.14 10:10:46.21  Durée 00:00:03.07  Lisibilité 49
+Si bien que son dentier tombe
+dans son potage de légumes,
+
+ 149: 10:10:47.01 10:10:48.08  Durée 00:00:01.07  Lisibilité 19
+elle part dans un fou rire,
+
+ 150: 10:10:48.12 10:10:51.13  Durée 00:00:03.01  Lisibilité 46
+et elle a tellement ri qu'elle
+s'en est décroché la mâchoire.
+
+ 151: 10:10:51.17 10:10:52.23  Durée 00:00:01.06  Lisibilité 19
+- Littéralement?
+- Sim.
+
+ 152: 10:10:53.02 10:10:55.14  Durée 00:00:02.12  Lisibilité 37
+Heureusement,
+un médecin était dans les parages
+
+ 153: 10:10:55.19 10:10:57.04  Durée 00:00:01.10  Lisibilité 21
+et a pu la lui remettre.
+
+ 154: 10:10:58.16 10:11:00.21  Durée 00:00:02.05  Lisibilité 33
+Comment va s'appeler
+votre roman, M. Proust?
+
+ 155: 10:11:01.00 10:11:04.06  Durée 00:00:03.06  Lisibilité 49
+Je ne sais pas.
+"Le concierge de la Place Vendôme."
+
+ 156: 10:11:07.24 10:11:10.13  Durée 00:00:02.14  Lisibilité 38
+Si é pour vous plaindre,
+é inutile.
+
+ 157: 10:11:10.17 10:11:13.16  Durée 00:00:02.24  Lisibilité 44
+Je devais en informer monsieur Ritz.
+É mon métier.
+
+ 158: 10:11:13.20 10:11:16.07  Durée 00:00:02.12  Lisibilité 37
+J'aimerais avoir l'adresse
+de la nouvelle, Amélie.
+
+ 159: 10:11:16.11 10:11:18.06  Durée 00:00:01.20  Lisibilité 27
+Et pourquoi ça?
+
+ 160: 10:11:18.10 10:11:19.19  Durée 00:00:01.09  Lisibilité 20
+Elle a oublié ses gants.
+
+ 161: 10:11:20.09 10:11:23.07  Durée 00:00:02.23  Lisibilité 44
+Cette inconséquente a disparu
+avant le service du thé.
+
+ 162: 10:11:23.11 10:11:25.21  Durée 00:00:02.10  Lisibilité 36
+Elle ne mérite pas
+de porter de gants.
+
+ 163: 10:11:26.00 10:11:27.15  Durée 00:00:01.15  Lisibilité 24
+Elle a peut-être eu un problème.
+
+ 164: 10:11:27.19 10:11:29.13  Durée 00:00:01.19  Lisibilité 26
+Et peut-être
+que sa mère est unijambiste.
+
+ 165: 10:11:29.17 10:11:31.19  Durée 00:00:02.02  Lisibilité 31
+Je m'en contrefiche.
+Maintenant, du vent.
+
+ 166: 10:11:47.07 10:11:48.21  Durée 00:00:01.14  Lisibilité 23
+Jeanne.
+
+ 167: 10:11:49.00 10:11:50.20  Durée 00:00:01.20  Lisibilité 27
+Je proposerais bien à Paul
+
+ 168: 10:11:51.00 10:11:53.15  Durée 00:00:02.15  Lisibilité 39
+de m'accompagner
+à l'exposition sur la TSF.
+
+ 169: 10:11:53.19 10:11:56.15  Durée 00:00:02.21  Lisibilité 43
+É au Trocadéro,
+je vous le ramène pour le dîner.
+
+ 170: 10:11:56.19 10:11:59.10  Durée 00:00:02.16  Lisibilité 40
+Il n'est pas là.
+Il a dû être retenu à l'école.
+
+ 171: 10:12:01.06 10:12:04.05  Durée 00:00:02.24  Lisibilité 44
+Vous me tenez au courant.
+Après, je serai à l'Opéra.
+
+ 172: 10:12:04.09 10:12:05.18  Durée 00:00:01.09  Lisibilité 20
+Les joies du mariage.
+
+ 173: 10:12:19.11 10:12:20.11  Durée 00:00:01.00  Lisibilité 15
+Pardon.
+
+ 174: 10:12:29.10 10:12:31.01  Durée 00:00:01.16  Lisibilité 25
+Il est où, le chef?
+
+ 175: 10:12:33.16 10:12:34.17  Durée 00:00:01.01  Lisibilité 16
+T'avais raison.
+
+ 176: 10:12:34.21 10:12:37.10  Durée 00:00:02.14  Lisibilité 38
+Le madère dans la gribiche,
+é génial.
+
+ 177: 10:12:40.11 10:12:41.08  Durée 00:00:00.22  Lisibilité 13
+Chef.
+
+ 178: 10:12:42.14 10:12:44.09  Durée 00:00:01.20  Lisibilité 27
+Je voulais m'excuser
+pour les poivrons.
+
+ 179: 10:12:44.13 10:12:46.01  Durée 00:00:01.13  Lisibilité 23
+Et pour avoir répondu aussi.
+
+ 180: 10:12:46.05 10:12:49.10  Durée 00:00:03.05  Lisibilité 48
+Au Ritz, ce qui se passe le matin,
+
+ 181: 10:12:49.15 10:12:51.15  Durée 00:00:02.00  Lisibilité 30
+é déjà du passé.
+Concentre-toi sur la suite.
+
+ 182: 10:12:51.20 10:12:54.11  Durée 00:00:02.16  Lisibilité 40
+Il faut que je fasse
+partie du dîner d'État.
+
+ 183: 10:12:54.16 10:12:56.08  Durée 00:00:01.17  Lisibilité 25
+- J'ai des idées.
+- Je n'en doute pas.
+
+ 184: 10:12:56.23 10:13:00.09  Durée 00:00:03.11  Lisibilité 52
+Mais é déjà trop tard,
+Georges sera mon saucier.
+
+ 185: 10:13:01.23 10:13:02.21  Durée 00:00:00.23  Lisibilité 14
+"Georges"?
+
+ 186: 10:13:03.00 10:13:05.05  Durée 00:00:02.05  Lisibilité 33
+Il a eu une idée
+pour la sauce gribiche,
+
+ 187: 10:13:05.10 10:13:08.03  Durée 00:00:02.18  Lisibilité 41
+mettre une pointe de madère.
+Je n'y aurais pas pensé.
+
+ 188: 10:13:08.22 10:13:10.23  Durée 00:00:02.01  Lisibilité 31
+Du coup, je lui donne sa chance.
+
+ 189: 10:13:11.02 10:13:13.03  Durée 00:00:02.01  Lisibilité 31
+Mais é mon idée.
+
+ 190: 10:13:13.07 10:13:15.08  Durée 00:00:02.01  Lisibilité 31
+Je sais que Georges
+n'a pas ton talent,
+
+ 191: 10:13:15.13 10:13:17.16  Durée 00:00:02.03  Lisibilité 32
+mais il est fiable.
+Il n'est pas insolent.
+
+ 192: 10:13:18.17 10:13:21.02  Durée 00:00:02.10  Lisibilité 36
+Laissez-moi vous montrer
+ce dont je suis capable,
+
+ 193: 10:13:21.06 10:13:22.16  Durée 00:00:01.10  Lisibilité 21
+vous ne serez pas déçu.
+
+ 194: 10:13:22.20 10:13:26.07  Durée 00:00:03.12  Lisibilité 52
+On a les Vanderbilt à dîner ce soir,
+Il ne faut pas les décevoir.
+
+ 195: 10:13:26.11 10:13:27.21  Durée 00:00:01.10  Lisibilité 21
+Il y aura mille autres dîners.
+
+ 196: 10:13:42.23 10:13:45.06  Durée 00:00:02.08  Lisibilité 35
+Je vous ai réservé
+la suite Louis XVI.
+
+ 197: 10:13:45.10 10:13:46.22  Durée 00:00:01.12  Lisibilité 22
+- Nicolas?
+- Louis XVI.
+
+ 198: 10:13:54.10 10:13:55.08  Durée 00:00:00.23  Lisibilité 14
+Oh, commissaire.
+
+ 199: 10:13:55.13 10:13:58.14  Durée 00:00:03.01  Lisibilité 46
+Je déteste quand les gens importants
+sont plus jeunes que moi.
+
+ 200: 10:14:00.01 10:14:01.02  Durée 00:00:01.01  Lisibilité 16
+Désolé, duchesse.
+
+ 201: 10:14:01.07 10:14:04.23  Durée 00:00:03.16  Lisibilité 55
+La limitation de vitesse dans Paris
+est de 12 km/h. Vous rouliez à 20.
+
+ 202: 10:14:05.03 10:14:06.08  Durée 00:00:01.05  Lisibilité 18
+Un vrai danger public.
+
+ 203: 10:14:06.12 10:14:08.01  Durée 00:00:01.14  Lisibilité 23
+É la vie.
+
+ 204: 10:14:08.06 10:14:10.07  Durée 00:00:02.01  Lisibilité 31
+Commissaire
+Armand de Lamotte Saint-Pierre,
+
+ 205: 10:14:10.11 10:14:12.19  Durée 00:00:02.08  Lisibilité 35
+votre vocation
+a dû surprendre votre maman.
+
+ 206: 10:14:13.09 10:14:14.04  Durée 00:00:00.20  Lisibilité 12
+Elle se remet.
+
+ 207: 10:14:14.08 10:14:17.12  Durée 00:00:03.04  Lisibilité 47
+Je ne suis plus que commissaire
+Delamotte tout court, en un mot.
+
+ 208: 10:14:17.16 10:14:20.17  Durée 00:00:03.01  Lisibilité 46
+Malgré tout, le plaisir
+de votre visite reste entier.
+
+ 209: 10:14:20.21 10:14:24.13  Durée 00:00:03.17  Lisibilité 55
+J'ai appris que vous serez chargé
+de la sécurité de notre dîner d'État.
+
+ 210: 10:14:24.17 10:14:26.05  Durée 00:00:01.13  Lisibilité 23
+Ce n'est pas une mince affaire.
+
+ 211: 10:14:26.09 10:14:28.18  Durée 00:00:02.09  Lisibilité 35
+Je vous garantis ma collaboration.
+En échange,
+
+ 212: 10:14:28.22 10:14:31.24  Durée 00:00:03.02  Lisibilité 46
+vous m'assurez que rien ne troublera
+le calme de mes clients.
+
+ 213: 10:14:32.03 10:14:33.13  Durée 00:00:01.10  Lisibilité 21
+Ne gâchons pas leur digestion.
+
+ 214: 10:14:33.17 10:14:37.07  Durée 00:00:03.15  Lisibilité 54
+Mais je suis ici pour voir
+Jeanne Vasseur, votre saucière. 
+
+ 215: 10:14:37.11 10:14:40.01  Durée 00:00:02.15  Lisibilité 39
+- Son fils a disparu.
+- Allez voir en cuisine.
+
+ 216: 10:14:40.05 10:14:42.16  Durée 00:00:02.11  Lisibilité 37
+Le petit y fait
+des expérimentations scientifiques
+
+ 217: 10:14:42.20 10:14:44.05  Durée 00:00:01.10  Lisibilité 21
+qui ruinent nos créations.
+
+ 218: 10:14:44.09 10:14:46.20  Durée 00:00:02.11  Lisibilité 37
+Je peux l'accompagner?
+Paul est mon petit-neveu.
+
+ 219: 10:14:46.24 10:14:48.01  Durée 00:00:01.02  Lisibilité 16
+Bien sûr, Rose.
+
+ 220: 10:14:49.20 10:14:52.01  Durée 00:00:02.06  Lisibilité 34
+Et revenez me voir,
+on doit parler affaires.
+
+ 221: 10:14:54.09 10:14:56.05  Durée 00:00:01.21  Lisibilité 28
+Avec la fortune de sa mère,
+
+ 222: 10:14:56.09 10:15:00.21  Durée 00:00:04.12  Lisibilité 67
+il aurait pu se contenter de manger
+des huîtres en lisant# La Gazette.#
+
+ 223: 10:15:01.00 10:15:03.16  Durée 00:00:02.16  Lisibilité 40
+Les gens de qualité
+se mettent au travail.
+
+ 224: 10:15:03.20 10:15:05.05  Durée 00:00:01.10  Lisibilité 21
+Quelle époque!
+
+ 225: 10:15:08.24 10:15:11.01  Durée 00:00:02.02  Lisibilité 31
+Commissaire De Lamotte Saint-Pierre,
+Jeanne Vasseur.
+
+ 226: 10:15:11.05 10:15:12.08  Durée 00:00:01.03  Lisibilité 17
+Delamotte, tout court.
+
+ 227: 10:15:12.13 10:15:13.20  Durée 00:00:01.07  Lisibilité 19
+Une petite collation?
+
+ 228: 10:15:16.05 10:15:17.07  Durée 00:00:01.02  Lisibilité 16
+Puisque vous êtes là,
+
+ 229: 10:15:17.11 10:15:20.14  Durée 00:00:03.03  Lisibilité 47
+nous avez eu un vol
+de petites cuillères récemment.
+
+ 230: 10:15:20.18 10:15:23.03  Durée 00:00:02.10  Lisibilité 36
+É palpitant,
+mais je ne suis pas ici pour ça.
+
+ 231: 10:15:24.16 10:15:27.01  Durée 00:00:02.10  Lisibilité 36
+Commissaire,
+un vol de petites cuillères au Ritz,
+
+ 232: 10:15:27.16 10:15:29.17  Durée 00:00:02.01  Lisibilité 31
+on entaille
+le patrimoine de la France.
+
+ 233: 10:15:29.22 10:15:32.05  Durée 00:00:02.08  Lisibilité 35
+Allez crier que vous allez
+porter plainte,
+
+ 234: 10:15:32.10 10:15:35.14  Durée 00:00:03.04  Lisibilité 47
+vous verrez les cuillères
+reprendre miraculeusement leur place.
+
+ 235: 10:15:35.18 10:15:36.20  Durée 00:00:01.02  Lisibilité 16
+J'y vais de ce pas.
+
+ 236: 10:15:37.20 10:15:38.20  Durée 00:00:01.00  Lisibilité 15
+Je vous en prie.
+
+ 237: 10:15:48.06 10:15:50.13  Durée 00:00:02.07  Lisibilité 34
+Votre tante est venue
+signaler sa disparition.
+
+ 238: 10:15:50.18 10:15:52.23  Durée 00:00:02.05  Lisibilité 33
+Vous avez une demande de rançon?
+
+ 239: 10:15:53.02 10:15:55.00  Durée 00:00:01.23  Lisibilité 29
+Não.
+
+ 240: 10:15:55.05 10:15:58.16  Durée 00:00:03.11  Lisibilité 52
+Votre tante m'a parlé d'une certaine
+Amélie. Vous la connaissiez?
+
+ 241: 10:15:58.20 10:15:59.22  Durée 00:00:01.02  Lisibilité 16
+Je ne peux pas sortir.
+
+ 242: 10:16:00.02 10:16:03.04  Durée 00:00:03.02  Lisibilité 46
+Quelqu'un devait accompagner Paul
+à l'école.
+
+ 243: 10:16:04.02 10:16:07.09  Durée 00:00:03.07  Lisibilité 49
+Sa disparition colle avec
+la méthode des voleurs d'enfants.
+
+ 244: 10:16:10.22 10:16:12.24  Durée 00:00:02.02  Lisibilité 31
+Vous avez des gens
+qui vous en veulent?
+
+ 245: 10:16:14.21 10:16:15.22  Durée 00:00:01.01  Lisibilité 16
+Je dois tout savoir.
+
+ 246: 10:16:21.24 10:16:24.23  Durée 00:00:02.24  Lisibilité 44
+Il y a un cuisinier de la brigade.
+
+ 247: 10:16:27.00 10:16:28.03  Durée 00:00:01.03  Lisibilité 17
+É Georges.
+
+ 248: 10:16:29.02 10:16:30.22  Durée 00:00:01.20  Lisibilité 27
+Il fait tout pour m'évincer,
+
+ 249: 10:16:31.02 10:16:34.12  Durée 00:00:03.10  Lisibilité 51
+il m'a piqué ma place. Il sait
+que mon fils est tout pour moi.
+
+ 250: 10:16:36.15 10:16:38.20  Durée 00:00:02.05  Lisibilité 33
+- Il est en cuisine?
+- Sim.
+
+ 251: 10:16:48.17 10:16:50.00  Durée 00:00:01.08  Lisibilité 20
+J'avais dit: "Pas les condés."
+
+ 252: 10:16:50.04 10:16:53.10  Durée 00:00:03.06  Lisibilité 49
+Il m'a fait une bonne impression.
+Il va le retrouver, ton fils.
+
+ 253: 10:16:53.14 10:16:55.14  Durée 00:00:02.00  Lisibilité 30
+Ce n'est pas l'heure de la pause,
+si?
+
+ 254: 10:16:56.04 10:16:57.22  Durée 00:00:01.18  Lisibilité 26
+Jeanne, tu peux prendre 5 minutes.
+
+ 255: 10:16:58.02 10:16:59.02  Durée 00:00:01.00  Lisibilité 15
+Jules, tu y retournes.
+
+ 256: 10:17:12.12 10:17:14.03  Durée 00:00:01.16  Lisibilité 25
+Tu l'as trouvé où, ce journal?
+
+ 257: 10:17:14.07 10:17:15.19  Durée 00:00:01.12  Lisibilité 22
+É Louise qui me l'a donné.
+
+ 258: 10:17:15.23 10:17:18.07  Durée 00:00:02.09  Lisibilité 35
+Elle en récupère
+dans les chambres des clients.
+
+ 259: 10:17:18.11 10:17:20.02  Durée 00:00:01.16  Lisibilité 25
+J'aime bien lire les romans.
+
+ 260: 10:17:20.19 10:17:21.17  Durée 00:00:00.23  Lisibilité 14
+Tiens ça.
+
+ 261: 10:17:28.15 10:17:30.11  Durée 00:00:01.21  Lisibilité 28
+Louise, t'as 2 minutes?
+
+ 262: 10:17:31.14 10:17:33.13  Durée 00:00:01.24  Lisibilité 29
+J'ai appris pour ton fils.
+
+ 263: 10:17:33.17 10:17:34.24  Durée 00:00:01.07  Lisibilité 19
+On ne peut pas tout avoir:
+
+ 264: 10:17:35.03 10:17:37.10  Durée 00:00:02.07  Lisibilité 34
+travailler comme un homme
+et élever son enfant.
+
+ 265: 10:17:38.24 10:17:40.21  Durée 00:00:01.22  Lisibilité 28
+Obrigado pour ton soutien.
+
+ 266: 10:17:41.01 10:17:44.07  Durée 00:00:03.06  Lisibilité 49
+Tu sais où t'as trouvé le journal
+que tu as donné à Rose?
+
+ 267: 10:17:44.12 10:17:47.23  Durée 00:00:03.11  Lisibilité 52
+Il y a un nom, une adresse?
+Le propriétaire voudra les récupérer.
+
+ 268: 10:17:50.04 10:17:53.06  Durée 00:00:03.02  Lisibilité 46
+T'auras sûrement un gros pourboire
+de la part du client.
+
+ 269: 10:17:53.10 10:17:54.18  Durée 00:00:01.08  Lisibilité 20
+Regarde, un acompte.
+
+ 270: 10:17:57.21 10:17:59.16  Durée 00:00:01.20  Lisibilité 27
+La 205.
+Não, la 205, il n'y avait rien.
+
+ 271: 10:18:00.19 10:18:01.14  Durée 00:00:00.20  Lisibilité 12
+La 209 peut-être.
+
+ 272: 10:18:03.00 10:18:06.12  Durée 00:00:03.12  Lisibilité 52
+Ou la 213. 
+À moins que ce soit la 204.
+
+ 273: 10:18:06.16 10:18:07.21  Durée 00:00:01.05  Lisibilité 18
+Tu dois bien te rappeler.
+
+ 274: 10:18:09.23 10:18:12.04  Durée 00:00:02.06  Lisibilité 34
+Mais on a tellement de travail, nous.
+
+ 275: 10:18:17.16 10:18:19.03  Durée 00:00:01.12  Lisibilité 22
+Salope.
+
+ 276: 10:18:28.04 10:18:31.11  Durée 00:00:03.07  Lisibilité 49
+- Alors, le dîner?
+- J'y suis presque.
+
+ 277: 10:18:31.15 10:18:33.03  Durée 00:00:01.13  Lisibilité 23
+Tu as parlé à un flic.
+
+ 278: 10:18:33.07 10:18:36.04  Durée 00:00:02.22  Lisibilité 43
+Ce n'est pas moi qui l'ai appelé,
+je ne lui ai rien dit.
+
+ 279: 10:18:36.08 10:18:39.05  Durée 00:00:02.22  Lisibilité 43
+Dans 3 jours, le dîner.
+É clair?
+
+ 280: 10:18:39.09 10:18:42.02  Durée 00:00:02.18  Lisibilité 41
+- Qu'est-ce que j'aurai à faire?
+- Tuer un homme.
+
+ 281: 10:18:48.09 10:18:50.10  Durée 00:00:02.01  Lisibilité 31
+- Mais quel goujat.
+- Vous l'avez vu?
+
+ 282: 10:18:50.14 10:18:51.11  Durée 00:00:00.22  Lisibilité 13
+Qui c'était?
+
+ 283: 10:18:51.15 10:18:53.24  Durée 00:00:02.09  Lisibilité 35
+Não, je n'ai eu
+que le temps de l'éviter.
+
+ 284: 10:18:54.03 10:18:55.09  Durée 00:00:01.06  Lisibilité 19
+Pourquoi?
+
+ 285: 10:18:55.13 10:18:57.19  Durée 00:00:02.06  Lisibilité 34
+Pour rien. Oh, le rustre.
+
+ 286: 10:18:57.23 10:19:00.22  Durée 00:00:02.24  Lisibilité 44
+Dites, j'ai appris pour Paul.
+
+ 287: 10:19:01.16 10:19:03.01  Durée 00:00:01.10  Lisibilité 21
+É terrible.
+
+ 288: 10:19:03.12 10:19:05.16  Durée 00:00:02.04  Lisibilité 32
+Dites-moi ce que je peux faire.
+
+ 289: 10:19:05.20 10:19:08.02  Durée 00:00:02.07  Lisibilité 34
+Le commissaire Delamotte
+s'en occupe.
+
+ 290: 10:19:08.20 10:19:10.17  Durée 00:00:01.22  Lisibilité 28
+- Vous me tenez au courant?
+- Sim.
+
+ 291: 10:19:10.21 10:19:12.06  Durée 00:00:01.10  Lisibilité 21
+Vous me le promettez?
+
+ 292: 10:19:14.08 10:19:15.13  Durée 00:00:01.05  Lisibilité 18
+Courage.
+
+ 293: 10:19:24.21 10:19:27.15  Durée 00:00:02.19  Lisibilité 41
+É ça, ton plan,
+pour me piquer ma place?
+
+ 294: 10:19:27.20 10:19:29.00  Durée 00:00:01.05  Lisibilité 18
+Tu me fais accuser.
+
+ 295: 10:19:29.05 10:19:31.07  Durée 00:00:02.02  Lisibilité 31
+- J'utilise tes méthodes.
+- Un problème?
+
+ 296: 10:19:31.22 10:19:33.05  Durée 00:00:01.08  Lisibilité 20
+Não, chef.
+
+ 297: 10:19:33.10 10:19:35.21  Durée 00:00:02.11  Lisibilité 37
+- Il n'y a pas de problème.
+- Alors en place.
+
+ 298: 10:19:36.00 10:19:36.20  Durée 00:00:00.20  Lisibilité 12
+Sim, chef.
+
+ 299: 10:19:38.13 10:19:39.24  Durée 00:00:01.11  Lisibilité 22
+Le dîner, é mort pour toi.
+
+ 300: 10:19:40.04 10:19:41.14  Durée 00:00:01.10  Lisibilité 21
+É ce qu'on verra.
+
+ 301: 10:20:24.20 10:20:25.21  Durée 00:00:01.01  Lisibilité 16
+Tu m'as fait peur.
+
+ 302: 10:20:26.01 10:20:29.03  Durée 00:00:03.02  Lisibilité 46
+- Je croyais que tu n'étais pas là.
+- Entre.
+
+ 303: 10:20:37.02 10:20:40.00  Durée 00:00:02.23  Lisibilité 44
+Hé, ils vont le retrouver.
+É leur boulot.
+
+ 304: 10:20:50.23 10:20:53.18  Durée 00:00:02.20  Lisibilité 42
+Ne le prends pas mal,
+mais je préfère rester seule.
+
+ 305: 10:20:53.22 10:20:56.18  Durée 00:00:02.21  Lisibilité 43
+Ça n'arrangera rien
+de rester toute seule à ruminer.
+
+ 306: 10:20:58.15 10:21:00.15  Durée 00:00:02.00  Lisibilité 30
+Georges est au commissariat.
+Tu sais pourquoi?
+
+ 307: 10:21:00.19 10:21:03.16  Durée 00:00:02.22  Lisibilité 43
+Je ne sais pas.
+La connerie est devenue un délit?
+
+ 308: 10:21:07.00 10:21:08.17  Durée 00:00:01.17  Lisibilité 25
+Escoffier l'a pris sur le dîner.
+
+ 309: 10:21:09.07 10:21:10.08  Durée 00:00:01.01  Lisibilité 16
+Quoi?
+
+ 310: 10:21:10.12 10:21:12.07  Durée 00:00:01.20  Lisibilité 27
+Mais t'es meilleure que lui.
+
+ 311: 10:21:17.18 10:21:19.10  Durée 00:00:01.17  Lisibilité 25
+Ce n'est qu'un dîner, va.
+
+ 312: 10:21:19.14 10:21:21.04  Durée 00:00:01.15  Lisibilité 24
+Il y en aura d'autres.
+
+ 313: 10:21:21.14 10:21:23.12  Durée 00:00:01.23  Lisibilité 29
+É ce que me dit le chef, mais...
+
+ 314: 10:21:23.16 10:21:24.15  Durée 00:00:00.24  Lisibilité 14
+Mais quoi?
+
+ 315: 10:21:25.14 10:21:28.19  Durée 00:00:03.05  Lisibilité 48
+Mais rien. Je suis fatiguée.
+On se voit demain?
+
+ 316: 10:21:33.05 10:21:34.09  Durée 00:00:01.04  Lisibilité 17
+Comme tu veux.
+
+ 317: 10:21:58.13 10:22:00.15  Durée 00:00:02.02  Lisibilité 31
+#"Décrivez votre héros moderne.#
+
+ 318: 10:22:02.11 10:22:06.12  Durée 00:00:04.01  Lisibilité 61
+#"Mon héros à moi est une héroïne.
+Elle s'appelle Jeanne Vasseur,#
+
+ 319: 10:22:06.16 10:22:08.11  Durée 00:00:01.20  Lisibilité 27
+#"et é ma mère.#
+
+ 320: 10:22:08.15 10:22:10.06  Durée 00:00:01.16  Lisibilité 25
+#"Elle travaille dans le restaurant#
+
+ 321: 10:22:10.10 10:22:12.07  Durée 00:00:01.22  Lisibilité 28
+#"du plus bel hôtel
+de la place Vendôme.#
+
+ 322: 10:22:12.12 10:22:16.24  Durée 00:00:04.12  Lisibilité 67
+#"Elle est la seule femme et elle ne
+se laisse pas marcher sur les pieds."#
+
+ 323: 10:22:17.03 10:22:19.11  Durée 00:00:02.08  Lisibilité 35
+#"Moi, je dis qu'elle est toquée,#
+
+ 324: 10:22:19.16 10:22:22.14  Durée 00:00:02.23  Lisibilité 44
+#"mais é parce qu'elle porte
+un drôle de chapeau.#
+
+ 325: 10:22:22.18 10:22:26.13  Durée 00:00:03.20  Lisibilité 57
+#"Ma maman n'a peur de personne,
+même pas du grand chef Escoffier,#
+
+ 326: 10:22:26.17 10:22:29.14  Durée 00:00:02.22  Lisibilité 43
+#"car é elle la meilleure
+saucière de tout Paris.#
+
+ 327: 10:22:29.18 10:22:33.10  Durée 00:00:03.17  Lisibilité 55
+#"Elle a toujours des bonnes idées
+et invente des plats incroyables.#
+
+ 328: 10:22:35.01 10:22:39.06  Durée 00:00:04.05  Lisibilité 63
+#"Elle est très occupée, mais elle
+m'aide toujours à faire mes devoirs.#
+
+ 329: 10:22:39.10 10:22:43.10  Durée 00:00:04.00  Lisibilité 60
+#"Quand je serai grand, je veux être
+aussi fort et intelligent qu'elle."#
+
+ 330: 10:22:51.16 10:22:54.14  Durée 00:00:02.23  Lisibilité 44
+Jour J-2
+
+ 331: 10:24:14.20 10:24:15.16  Durée 00:00:00.21  Lisibilité 13
+Jeanne.
+
+ 332: 10:24:20.20 10:24:23.08  Durée 00:00:02.13  Lisibilité 38
+Le commissaire Delamotte
+veut vous voir.
+
+ 333: 10:24:23.12 10:24:24.15  Durée 00:00:01.03  Lisibilité 17
+Il a retrouvé mon fils?
+
+ 334: 10:24:24.20 10:24:26.22  Durée 00:00:02.02  Lisibilité 31
+- Allez-y, vous verrez.
+- Qu'a-t-il dit?
+
+ 335: 10:24:27.01 10:24:29.07  Durée 00:00:02.06  Lisibilité 34
+Allons! Ça va bien, oui?
+
+ 336: 10:24:29.11 10:24:33.04  Durée 00:00:03.18  Lisibilité 56
+Apparemment, il a réussi
+à mettre la main sur cette Amélie.
+
+ 337: 10:24:36.22 10:24:39.13  Durée 00:00:02.16  Lisibilité 40
+Mais qu'est-ce que t'attends?
+File comme le vent.
+
+ 338: 10:24:42.06 10:24:44.02  Durée 00:00:01.21  Lisibilité 28
+Ce n'est pas ma faute.
+
+ 339: 10:24:44.07 10:24:46.08  Durée 00:00:02.01  Lisibilité 31
+Le môme m'a semée et il a disparu.
+
+ 340: 10:24:46.23 10:24:49.18  Durée 00:00:02.20  Lisibilité 42
+Je lui ai couru après,
+mais impossible de le retrouver.
+
+ 341: 10:24:49.22 10:24:52.09  Durée 00:00:02.12  Lisibilité 37
+Je n'ai pas osé
+revenir à l'hôtel pour le dire.
+
+ 342: 10:24:53.18 10:24:54.22  Durée 00:00:01.04  Lisibilité 17
+Il est super mal élevé.
+
+ 343: 10:24:56.17 10:24:58.23  Durée 00:00:02.06  Lisibilité 34
+- Paul aurait pu se sauver?
+- Jamais.
+
+ 344: 10:24:59.03 10:25:00.11  Durée 00:00:01.08  Lisibilité 20
+É n'importe quoi.
+
+ 345: 10:25:01.04 10:25:02.21  Durée 00:00:01.17  Lisibilité 25
+Mademoiselle, il s'est passé quoi?
+
+ 346: 10:25:03.11 10:25:05.03  Durée 00:00:01.17  Lisibilité 25
+Ce que je viens de vous dire.
+
+ 347: 10:25:05.07 10:25:06.18  Durée 00:00:01.11  Lisibilité 22
+Je ne rends plus service.
+
+ 348: 10:25:06.23 10:25:07.22  Durée 00:00:00.24  Lisibilité 14
+Mais elle ment.
+
+ 349: 10:25:08.01 10:25:10.06  Durée 00:00:02.05  Lisibilité 33
+Qu'est-ce que t'as fait de mon fils?
+
+ 350: 10:25:10.11 10:25:12.04  Durée 00:00:01.18  Lisibilité 26
+Calmez-vous, mademoiselle Vasseur.
+
+ 351: 10:25:12.09 10:25:15.04  Durée 00:00:02.20  Lisibilité 42
+Vous êtes là aussi à gober
+tout ce qu'elle raconte.
+
+ 352: 10:25:15.09 10:25:17.18  Durée 00:00:02.09  Lisibilité 35
+L'instituteur corrobore
+ce que dit Mademoiselle.
+
+ 353: 10:25:18.12 10:25:19.23  Durée 00:00:01.11  Lisibilité 22
+Elle a bien récupéré Paul.
+
+ 354: 10:25:20.02 10:25:21.18  Durée 00:00:01.16  Lisibilité 25
+Ah, voilà. Obrigado.
+
+ 355: 10:25:22.08 10:25:24.22  Durée 00:00:02.14  Lisibilité 38
+Il faut donc chercher
+ce qui s'est passé après.
+
+ 356: 10:25:25.02 10:25:26.17  Durée 00:00:01.15  Lisibilité 24
+Il a peut-être fait une fugue.
+
+ 357: 10:25:26.22 10:25:29.06  Durée 00:00:02.09  Lisibilité 35
+Vous ne voyez pas
+qu'elle vous mène en bateau?
+
+ 358: 10:25:29.10 10:25:30.17  Durée 00:00:01.07  Lisibilité 19
+Je veux lui parler, seule.
+
+ 359: 10:25:30.21 10:25:31.24  Durée 00:00:01.03  Lisibilité 17
+Ce n'est pas possible.
+
+ 360: 10:25:32.04 10:25:34.21  Durée 00:00:02.17  Lisibilité 40
+- Je m'en fous, mon fils à disparu.
+- Ferdinand,
+
+ 361: 10:25:35.14 10:25:36.10  Durée 00:00:00.21  Lisibilité 13
+vous enlevez ça.
+
+ 362: 10:25:36.15 10:25:38.23  Durée 00:00:02.08  Lisibilité 35
+- Vous la relâchez?
+- Je n'ai pas de preuves.
+
+ 363: 10:25:39.03 10:25:41.15  Durée 00:00:02.12  Lisibilité 37
+Et sans preuves,
+je ne peux pas la garder.
+
+ 364: 10:25:45.06 10:25:46.20  Durée 00:00:01.14  Lisibilité 23
+Il ne faut pas déborder du cadre.
+
+ 365: 10:25:47.19 10:25:49.24  Durée 00:00:02.05  Lisibilité 33
+Il ne faudrait pas froisser
+la hiérarchie.
+
+ 366: 10:25:50.14 10:25:53.04  Durée 00:00:02.15  Lisibilité 39
+Comme vous faites bien,
+votre travail, commissaire.
+
+ 367: 10:25:53.09 10:25:55.00  Durée 00:00:01.16  Lisibilité 25
+Par contre, vous não.
+
+ 368: 10:25:55.05 10:25:58.23  Durée 00:00:03.18  Lisibilité 56
+Et pour une femme, il n'y a qu'un
+seul travail: mère de famille.
+
+ 369: 10:26:03.16 10:26:04.18  Durée 00:00:01.02  Lisibilité 16
+Obrigado.
+
+ 370: 10:26:08.21 10:26:11.07  Durée 00:00:02.11  Lisibilité 37
+Je sais que tu mens.
+Il est où?
+
+ 371: 10:26:11.11 10:26:14.09  Durée 00:00:02.23  Lisibilité 44
+- Lâchez-moi, vous êtes malade.
+- Il est où, je te dis?
+
+ 372: 10:26:14.13 10:26:16.18  Durée 00:00:02.05  Lisibilité 33
+Des couverts en argent ont disparu.
+
+ 373: 10:26:16.22 10:26:19.14  Durée 00:00:02.17  Lisibilité 40
+Tu veux que je demande
+au commissaire d'enquêter?
+
+ 374: 10:26:19.18 10:26:20.24  Durée 00:00:01.06  Lisibilité 19
+Lâchez-moi.
+
+ 375: 10:26:21.03 10:26:23.13  Durée 00:00:02.10  Lisibilité 36
+Réponds-moi: il est où, mon fils?
+
+ 376: 10:26:23.17 10:26:27.01  Durée 00:00:03.09  Lisibilité 50
+É un type. Je ne sais pas
+comment il a su pour votre gamin,
+
+ 377: 10:26:27.05 10:26:30.13  Durée 00:00:03.08  Lisibilité 50
+il m'a donné beaucoup d'argent
+pour que je l'emmène au baron Dar.
+
+ 378: 10:26:48.11 10:26:50.09  Durée 00:00:01.23  Lisibilité 29
+Il y a un baron Dar
+parmi les clients?
+
+ 379: 10:26:53.21 10:26:57.00  Durée 00:00:03.04  Lisibilité 47
+Je pense avoir taché
+le tapis de ma chambre.
+
+ 380: 10:26:57.05 10:26:59.10  Durée 00:00:02.05  Lisibilité 33
+- Je vous envoie la femme de chambre.
+- Obrigado.
+
+ 381: 10:27:04.17 10:27:07.06  Durée 00:00:02.14  Lisibilité 38
+Si vous ne me répondez pas,
+je vais hurler.
+
+ 382: 10:27:07.10 10:27:09.04  Durée 00:00:01.19  Lisibilité 26
+Je n'ai jamais entendu ce nom-là.
+
+ 383: 10:27:10.07 10:27:12.10  Durée 00:00:02.03  Lisibilité 32
+Je connais la noblesse
+comme ma poche.
+
+ 384: 10:27:12.14 10:27:13.13  Durée 00:00:00.24  Lisibilité 14
+Vous êtes sûr?
+
+ 385: 10:27:15.22 10:27:17.18  Durée 00:00:01.21  Lisibilité 28
+Vous ne serez pas venue pour rien.
+
+ 386: 10:27:23.17 10:27:25.16  Durée 00:00:01.24  Lisibilité 29
+Je t'aime maman
+
+ 387: 10:27:28.10 10:27:31.10  Durée 00:00:03.00  Lisibilité 45
+- Vous avez vu qui vous l'a déposé?
+- Aucune idée.
+
+ 388: 10:27:32.00 10:27:36.10  Durée 00:00:04.10  Lisibilité 66
+Vous êtes au courant de tout ici,
+donc ne me dites pas ça.
+
+ 389: 10:27:36.15 10:27:39.17  Durée 00:00:03.02  Lisibilité 46
+Quelqu'un aura profité
+de l'effervescence des arrivées.
+
+ 390: 10:27:47.17 10:27:49.20  Durée 00:00:02.03  Lisibilité 32
+J'espère que vous allez le retrouver.
+
+ 391: 10:28:18.19 10:28:20.12  Durée 00:00:01.18  Lisibilité 26
+Alors, vous avez du nouveau?
+
+ 392: 10:28:22.19 10:28:23.17  Durée 00:00:00.23  Lisibilité 14
+Peut-être.
+
+ 393: 10:28:23.22 10:28:27.07  Durée 00:00:03.10  Lisibilité 51
+Le baron Dar, ça ne me dit rien.
+
+ 394: 10:28:27.12 10:28:30.04  Durée 00:00:02.17  Lisibilité 40
+Pourquoi un baron
+aurait-il voulu prendre Paul?
+
+ 395: 10:28:30.08 10:28:31.10  Durée 00:00:01.02  Lisibilité 16
+Un baron.
+
+ 396: 10:28:31.14 10:28:33.20  Durée 00:00:02.06  Lisibilité 34
+Il y a aussi
+des trous de balle à particule.
+
+ 397: 10:28:35.00 10:28:38.03  Durée 00:00:03.03  Lisibilité 47
+Dites-moi tout,
+mon mari travaille au Quai d'Orsay.
+
+ 398: 10:28:38.18 10:28:41.15  Durée 00:00:02.22  Lisibilité 43
+- Il assistera au dîner?
+- Bien entendu. Pourquoi?
+
+ 399: 10:28:43.07 10:28:45.09  Durée 00:00:02.02  Lisibilité 31
+Parce qu'en fait,
+si je veux revoir Paul,
+
+ 400: 10:28:45.13 10:28:47.17  Durée 00:00:02.04  Lisibilité 32
+je dois être de la brigade
+qui le prépare.
+
+ 401: 10:28:48.12 10:28:50.08  Durée 00:00:01.21  Lisibilité 28
+Pour quelle raison?
+
+ 402: 10:28:50.12 10:28:51.17  Durée 00:00:01.05  Lisibilité 18
+Je ne sais pas.
+
+ 403: 10:28:51.21 10:28:54.03  Durée 00:00:02.07  Lisibilité 34
+Peut-être que ce baron
+en fait partie.
+
+ 404: 10:28:54.07 10:28:56.04  Durée 00:00:01.22  Lisibilité 28
+Je vais essayer
+de demander à mon mari.
+
+ 405: 10:28:57.04 10:28:58.24  Durée 00:00:01.20  Lisibilité 27
+Il ne me parle jamais
+de ses affaires:
+
+ 406: 10:28:59.04 10:29:01.10  Durée 00:00:02.06  Lisibilité 34
+la tête des femmes ne sert
+qu'à porter des chapeaux.
+
+ 407: 10:29:02.00 10:29:03.16  Durée 00:00:01.16  Lisibilité 25
+Ma foi, je suis comme Branchini.
+
+ 408: 10:29:03.20 10:29:05.16  Durée 00:00:01.21  Lisibilité 28
+Je ne vois pas
+qui ce baron peut être.
+
+ 409: 10:29:12.06 10:29:13.18  Durée 00:00:01.12  Lisibilité 22
+Ça pourrait être D'Arignac.
+
+ 410: 10:29:14.20 10:29:17.09  Durée 00:00:02.14  Lisibilité 38
+- Il est ici.
+- Je dois lui parler.
+
+ 411: 10:29:18.09 10:29:21.01  Durée 00:00:02.17  Lisibilité 40
+Parce que vous pensez pouvoir
+l'approcher comme ça?
+
+ 412: 10:29:21.05 10:29:23.20  Durée 00:00:02.15  Lisibilité 39
+Pour dire quoi?
+"Vous avez mon fils, rendez-le-moi"?
+
+ 413: 10:29:24.17 10:29:28.03  Durée 00:00:03.11  Lisibilité 52
+En attendant, Paul doit se demander
+pourquoi je ne fais rien.
+
+ 414: 10:29:28.08 10:29:30.10  Durée 00:00:02.02  Lisibilité 31
+Je ne connais pas ce baron Dar.
+
+ 415: 10:29:30.14 10:29:32.23  Durée 00:00:02.09  Lisibilité 35
+S'il sait quelque chose,
+je le découvrirai.
+
+ 416: 10:29:36.22 10:29:40.01  Durée 00:00:03.04  Lisibilité 47
+Vous, placez-vous sur ce dîner
+par n'importe quel moyen.
+
+ 417: 10:29:41.01 10:29:43.02  Durée 00:00:02.01  Lisibilité 31
+On va le retrouver, notre petit Paul.
+
+ 418: 10:29:43.06 10:29:44.01  Durée 00:00:00.20  Lisibilité 12
+Allez.
+
+ 419: 10:29:56.11 10:29:58.08  Durée 00:00:01.22  Lisibilité 28
+Une sauce Tsarivitch,
+pas trop relevée.
+
+ 420: 10:29:59.05 10:30:01.17  Durée 00:00:02.12  Lisibilité 37
+- É pour le tsar?
+- Não, pour son chien.
+
+ 421: 10:30:01.21 10:30:04.05  Durée 00:00:02.09  Lisibilité 35
+Son lévrier ne digère pas les épices.
+
+ 422: 10:30:19.22 10:30:21.19  Durée 00:00:01.22  Lisibilité 28
+Sauce Tsarivitch
+
+ 423: 10:30:23.05 10:30:25.08  Durée 00:00:02.03  Lisibilité 32
+En fin de cuisson,
+ajouter chocolat
+
+ 424: 10:30:27.01 10:30:29.17  Durée 00:00:02.16  Lisibilité 40
+Je reviens,
+je n'ai plus de tomates fraîches.
+
+ 425: 10:30:45.01 10:30:47.14  Durée 00:00:02.13  Lisibilité 38
+Exaspérante. Vous me fatiguez.
+
+ 426: 10:30:47.18 10:30:49.02  Durée 00:00:01.09  Lisibilité 20
+Mais allez, dites-moi.
+
+ 427: 10:30:50.04 10:30:53.16  Durée 00:00:03.12  Lisibilité 52
+É bien la 1re fois que 
+vous vous intéressez à mes affaires.
+
+ 428: 10:30:53.20 10:30:56.04  Durée 00:00:02.09  Lisibilité 35
+Qu'est-ce qui me vaut
+ce brusque revirement?
+
+ 429: 10:30:56.08 10:30:58.10  Durée 00:00:02.02  Lisibilité 31
+Politesse conjugale.
+
+ 430: 10:30:58.14 10:31:01.18  Durée 00:00:03.04  Lisibilité 47
+Vous êtes une bonne menteuse
+mais une piètre hypocrite.
+
+ 431: 10:31:01.22 10:31:04.06  Durée 00:00:02.09  Lisibilité 35
+Ah, voilà justement
+le baron d'Arignac
+
+ 432: 10:31:04.10 10:31:06.09  Durée 00:00:01.24  Lisibilité 29
+auquel vous vouliez tant
+être présentée.
+
+ 433: 10:31:06.13 10:31:07.19  Durée 00:00:01.06  Lisibilité 19
+Je me demande pourquoi.
+
+ 434: 10:31:07.23 10:31:10.24  Durée 00:00:03.01  Lisibilité 46
+D'habitude,
+vous vous montrez plus sélective
+
+ 435: 10:31:11.03 10:31:12.23  Durée 00:00:01.20  Lisibilité 27
+au niveau du choix de vos amants.
+
+ 436: 10:31:13.02 10:31:14.06  Durée 00:00:01.04  Lisibilité 17
+Ce sera fait.
+
+ 437: 10:31:14.10 10:31:16.06  Durée 00:00:01.21  Lisibilité 28
+Mon cher baron.
+
+ 438: 10:31:16.10 10:31:17.18  Durée 00:00:01.08  Lisibilité 20
+Je vous présente ma femme,
+
+ 439: 10:31:17.22 10:31:19.14  Durée 00:00:01.17  Lisibilité 25
+qui souhaitait vous rencontrer.
+
+ 440: 10:31:19.18 10:31:21.19  Durée 00:00:02.01  Lisibilité 31
+Je vous laisse
+entre bonnes mains, ma chère,
+
+ 441: 10:31:21.23 10:31:25.00  Durée 00:00:03.02  Lisibilité 46
+quoique un peu tremblantes,
+peut-être.
+
+ 442: 10:31:25.04 10:31:26.16  Durée 00:00:01.12  Lisibilité 22
+Amusez-vous bien.
+
+ 443: 10:31:27.18 10:31:30.19  Durée 00:00:03.01  Lisibilité 46
+- Vous vouliez me rencontrer?
+- Sim, tellement.
+
+ 444: 10:31:32.23 10:31:35.22  Durée 00:00:02.24  Lisibilité 44
+Je remontais dans ma chambre.
+Voulez-vous la voir?
+
+ 445: 10:31:36.01 10:31:37.11  Durée 00:00:01.10  Lisibilité 21
+Elle est très confortable.
+
+ 446: 10:31:37.15 10:31:41.07  Durée 00:00:03.17  Lisibilité 55
+M. Ritz me fait l'amitié
+de me servir des entremets.
+
+ 447: 10:31:42.09 10:31:45.03  Durée 00:00:02.19  Lisibilité 41
+À mon âge, on aime les douceurs,
+vous savez.
+
+ 448: 10:31:46.16 10:31:49.11  Durée 00:00:02.20  Lisibilité 42
+Nous pourrions jouer aux dames
+ou à ce que vous voulez.
+
+ 449: 10:31:49.15 10:31:53.19  Durée 00:00:04.04  Lisibilité 62
+Votre mari m'a dit que
+vous adoriez jouer, n'est-ce pas?
+
+ 450: 10:31:54.23 10:31:57.15  Durée 00:00:02.17  Lisibilité 40
+Alors, si vous le voulez bien,
+allons jouer.
+
+ 451: 10:32:13.06 10:32:15.10  Durée 00:00:02.04  Lisibilité 32
+Georges,
+tu ne sais pas où est mon carnet?
+
+ 452: 10:32:15.14 10:32:17.15  Durée 00:00:02.01  Lisibilité 31
+- Si, il est là.
+- Ah oui.
+
+ 453: 10:32:18.01 10:32:20.06  Durée 00:00:02.05  Lisibilité 33
+- Jeanne?
+- Sim, chef.
+
+ 454: 10:32:20.10 10:32:23.12  Durée 00:00:03.02  Lisibilité 46
+- Des nouvelles de ton fils?
+- Ah não. Não, pas vraiment.
+
+ 455: 10:32:24.16 10:32:25.18  Durée 00:00:01.02  Lisibilité 16
+Qu'est-ce que é?
+
+ 456: 10:32:26.08 10:32:28.13  Durée 00:00:02.05  Lisibilité 33
+Sarah Bernhardt veut
+un dessert diététique.
+
+ 457: 10:32:28.17 10:32:31.04  Durée 00:00:02.12  Lisibilité 37
+J'ai pensé fraises
+et une crème à l'ananas.
+
+ 458: 10:32:37.01 10:32:38.06  Durée 00:00:01.05  Lisibilité 18
+Oh, la tristesse.
+
+ 459: 10:32:41.12 10:32:43.05  Durée 00:00:01.18  Lisibilité 26
+Elle va avoir envie de se pendre.
+
+ 460: 10:32:45.23 10:32:49.01  Durée 00:00:03.03  Lisibilité 47
+Il faudrait rajouter un doigt
+de liqueur de Vieille Cure.
+
+ 461: 10:32:49.06 10:32:51.15  Durée 00:00:02.09  Lisibilité 35
+Ça va relever la fadeur de la crème.
+
+ 462: 10:32:51.19 10:32:53.08  Durée 00:00:01.14  Lisibilité 23
+La Vieille Cure... Pourquoi pas?
+
+ 463: 10:32:53.12 10:32:55.16  Durée 00:00:02.04  Lisibilité 32
+Puis vous fouettez à froid,
+comme ça,
+
+ 464: 10:32:55.21 10:32:58.12  Durée 00:00:02.16  Lisibilité 40
+ça donne une mousse légère
+mais canaille.
+
+ 465: 10:32:58.16 10:33:01.01  Durée 00:00:02.10  Lisibilité 36
+- Tu t'en charges?
+- À vos ordres, chef.
+
+ 466: 10:33:01.18 10:33:03.20  Durée 00:00:02.02  Lisibilité 31
+Chef, le chien du tsar est malade.
+
+ 467: 10:33:06.05 10:33:07.24  Durée 00:00:01.19  Lisibilité 26
+- Georges!
+- Sim, chef.
+
+ 468: 10:33:08.03 10:33:10.03  Durée 00:00:02.00  Lisibilité 30
+Qu'as-tu mis
+dans la sauce Tsarivitch?
+
+ 469: 10:33:10.07 10:33:11.02  Durée 00:00:00.20  Lisibilité 12
+Comment ça?
+
+ 470: 10:33:11.06 10:33:14.14  Durée 00:00:03.08  Lisibilité 50
+Le chien du tsar est malade.
+Son Altesse est furieuse.
+
+ 471: 10:33:14.18 10:33:16.12  Durée 00:00:01.19  Lisibilité 26
+- Je...
+- Jeanne.
+
+ 472: 10:33:16.16 10:33:18.11  Durée 00:00:01.20  Lisibilité 27
+- Sim, chef?
+- Le dîner diplomatique.
+
+ 473: 10:33:18.15 10:33:19.24  Durée 00:00:01.09  Lisibilité 20
+Tu remplaces Georges.
+
+ 474: 10:33:20.03 10:33:22.06  Durée 00:00:02.03  Lisibilité 32
+Quoi? Vous ne pouvez pas faire ça.
+
+ 475: 10:33:22.10 10:33:24.01  Durée 00:00:01.16  Lisibilité 25
+Je ne peux pas faire ça?
+Rompez.
+
+ 476: 10:33:36.05 10:33:38.16  Durée 00:00:02.11  Lisibilité 37
+Si on le récupère,
+vous me direz qui é?
+
+ 477: 10:33:39.06 10:33:40.09  Durée 00:00:01.03  Lisibilité 17
+Je n'ai que ça à faire.
+
+ 478: 10:33:41.04 10:33:42.15  Durée 00:00:01.11  Lisibilité 22
+S'il vous plaît.
+
+ 479: 10:33:44.02 10:33:45.00  Durée 00:00:00.23  Lisibilité 14
+Obrigado.
+
+ 480: 10:33:53.13 10:33:55.20  Durée 00:00:02.07  Lisibilité 34
+É fait
+
+ 481: 10:33:57.00 10:33:59.05  Durée 00:00:02.05  Lisibilité 33
+Le baron D'Arignac, vous l'avez vu?
+
+ 482: 10:34:00.03 10:34:02.06  Durée 00:00:02.03  Lisibilité 32
+Il est capable
+de commanditer un enlèvement
+
+ 483: 10:34:02.10 10:34:03.20  Durée 00:00:01.10  Lisibilité 21
+comme moi de chanter #La Traviata#.
+
+ 484: 10:34:04.15 10:34:07.15  Durée 00:00:03.00  Lisibilité 45
+Bon,
+mais il joue passablement aux dames.
+
+ 485: 10:34:07.19 10:34:09.05  Durée 00:00:01.11  Lisibilité 22
+É qui, alors?
+
+ 486: 10:34:20.08 10:34:22.22  Durée 00:00:02.14  Lisibilité 38
+Émile nous a dit pour Amélie.
+Ils l'ont retrouvée?
+
+ 487: 10:34:23.01 10:34:24.14  Durée 00:00:01.13  Lisibilité 23
+Elle a dit quelque chose?
+
+ 488: 10:34:26.09 10:34:28.24  Durée 00:00:02.15  Lisibilité 39
+- Qu'elle l'avait amené à un baron.
+- "Un baron"?
+
+ 489: 10:34:29.03 10:34:31.11  Durée 00:00:02.08  Lisibilité 35
+Pourquoi un baron
+aurait enlevé Paul?
+
+ 490: 10:34:31.16 10:34:32.15  Durée 00:00:00.24  Lisibilité 14
+Je n'en sais rien.
+
+ 491: 10:34:32.19 10:34:34.24  Durée 00:00:02.05  Lisibilité 33
+Le baron Dar,
+ça vous dit quelque chose?
+
+ 492: 10:34:35.03 10:34:36.01  Durée 00:00:00.23  Lisibilité 14
+Le baron Dar?
+
+ 493: 10:34:36.06 10:34:38.03  Durée 00:00:01.22  Lisibilité 28
+Elle t'a dit quoi, exactement,
+Amélie?
+
+ 494: 10:34:38.18 10:34:41.02  Durée 00:00:02.09  Lisibilité 35
+Qu'elle avait amené Paul
+au baron Dar.
+
+ 495: 10:34:41.17 10:34:45.19  Durée 00:00:04.02  Lisibilité 61
+É un lieu. On y va
+avec Marcel et Isidore pour pêcher.
+
+ 496: 10:34:45.23 10:34:48.05  Durée 00:00:02.07  Lisibilité 34
+Il y a le Haut-Rondar
+et le Bas-Rondar.
+
+ 497: 10:34:48.09 10:34:50.12  Durée 00:00:02.03  Lisibilité 32
+É à 2 lieues,
+sur la route d'Argenteuil.
+
+ 498: 10:34:51.10 10:34:52.19  Durée 00:00:01.09  Lisibilité 20
+Il y a une vieille chapelle.
+
+ 499: 10:34:53.24 10:34:56.24  Durée 00:00:03.00  Lisibilité 45
+Émile, t'es génial.
+Tu me couvres auprès d'Escoffier?
+
+ 500: 10:34:57.04 10:34:57.24  Durée 00:00:00.20  Lisibilité 12
+T'inquiète.
+
+ 501: 10:34:58.03 10:34:59.15  Durée 00:00:01.12  Lisibilité 22
+- Je viens avec toi.
+- Não.
+
+ 502: 10:34:59.20 10:35:01.18  Durée 00:00:01.23  Lisibilité 29
+Je ne t'ai pas demandé ton avis.
+
+ 503: 10:35:01.22 10:35:05.17  Durée 00:00:03.20  Lisibilité 57
+Jules, les Rothschild
+ont demandé leurs bagages.
+
+ 504: 10:35:05.22 10:35:07.10  Durée 00:00:01.13  Lisibilité 23
+Tu m'attends.
+
+ 505: 10:35:07.14 10:35:09.04  Durée 00:00:01.15  Lisibilité 24
+- Tu m'attends.
+- Sim.
+
+ 506: 10:35:15.22 10:35:18.19  Durée 00:00:02.22  Lisibilité 43
+Je pensais au baron
+d'Archambault de Montfort.
+
+ 507: 10:35:19.09 10:35:21.10  Durée 00:00:02.01  Lisibilité 31
+Le problème,
+é qu'il est en Italie.
+
+ 508: 10:35:21.14 10:35:22.21  Durée 00:00:01.07  Lisibilité 19
+Laissez tomber.
+
+ 509: 10:35:23.00 10:35:24.09  Durée 00:00:01.09  Lisibilité 20
+Mais vous allez où?
+
+ 510: 10:35:24.13 10:35:26.14  Durée 00:00:02.01  Lisibilité 31
+Vous savez qui é?
+
+ 511: 10:35:26.18 10:35:28.16  Durée 00:00:01.23  Lisibilité 29
+É un lieu
+sur la route d'Argenteuil.
+
+ 512: 10:35:28.20 10:35:31.10  Durée 00:00:02.15  Lisibilité 39
+- Je viens avec vous.
+- Il faut que j'y aille seule.
+
+ 513: 10:35:31.14 10:35:34.02  Durée 00:00:02.13  Lisibilité 38
+Je n'aurais jamais vous dire tout ça.
+
+ 514: 10:35:34.07 10:35:35.19  Durée 00:00:01.12  Lisibilité 22
+Sim, mais vous l'avez fait.
+
+ 515: 10:35:37.12 10:35:39.16  Durée 00:00:02.04  Lisibilité 32
+Vous avez voulu m'aider,
+je vous remercie,
+
+ 516: 10:35:39.20 10:35:41.19  Durée 00:00:01.24  Lisibilité 29
+mais il faut que j'y aille.
+
+ 517: 10:35:41.23 10:35:43.13  Durée 00:00:01.15  Lisibilité 24
+É mon fils, il m'attend.
+
+ 518: 10:35:48.19 10:35:51.15  Durée 00:00:02.21  Lisibilité 43
+Allô, commissaire?
+Pietro Branchini à l'appareil.
+
+ 519: 10:35:51.19 10:35:54.02  Durée 00:00:02.08  Lisibilité 35
+J'ai quelque chose
+qui pourrait vous intéresser.
+
+ 520: 10:37:17.01 10:37:18.02  Durée 00:00:01.01  Lisibilité 16
+Vous m'avez fait peur.
+
+ 521: 10:37:18.06 10:37:20.16  Durée 00:00:02.10  Lisibilité 36
+Je vous avais dit
+que je voulais y aller seule.
+
+ 522: 10:37:21.16 10:37:24.08  Durée 00:00:02.17  Lisibilité 40
+J'ai pensé que vous auriez
+peut-être besoin de ça.
+
+ 523: 10:37:25.21 10:37:28.22  Durée 00:00:03.01  Lisibilité 46
+Cadeau de mon mari
+contre les indigènes en Afrique.
+
+ 524: 10:37:30.03 10:37:32.00  Durée 00:00:01.22  Lisibilité 28
+D'accord, mais poussez votre truc.
+
+ 525: 10:37:35.14 10:37:36.24  Durée 00:00:01.10  Lisibilité 21
+Il était là.
+
+ 526: 10:37:37.03 10:37:38.16  Durée 00:00:01.13  Lisibilité 23
+Il va avoir froid.
+
+ 527: 10:37:39.06 10:37:40.09  Durée 00:00:01.03  Lisibilité 17
+Mon petit Paul.
+
+ 528: 10:37:41.18 10:37:42.19  Durée 00:00:01.01  Lisibilité 16
+Qu'est-ce que é?
+
+ 529: 10:37:42.24 10:37:43.23  Durée 00:00:00.24  Lisibilité 14
+Là, juste là.
+
+ 530: 10:37:45.11 10:37:46.14  Durée 00:00:01.03  Lisibilité 17
+É un bouton.
+
+ 531: 10:37:48.07 10:37:52.01  Durée 00:00:03.19  Lisibilité 56
+Magnifique. On va pouvoir
+retrouver celui qu'il l'a enlevé.
+
+ 532: 10:37:54.09 10:37:56.05  Durée 00:00:01.21  Lisibilité 28
+Il savait que je le cherchais.
+
+ 533: 10:37:56.09 10:37:58.01  Durée 00:00:01.17  Lisibilité 25
+Il le savait, il l'a fait exprès.
+
+ 534: 10:38:02.10 10:38:03.24  Durée 00:00:01.14  Lisibilité 23
+Albertine.
+
+ 535: 10:38:09.03 10:38:10.13  Durée 00:00:01.10  Lisibilité 21
+L'autre jour, en cuisine,
+
+ 536: 10:38:10.18 10:38:13.04  Durée 00:00:02.11  Lisibilité 37
+Paul a mis du colorant
+dans le riz, il était bleu.
+
+ 537: 10:38:13.09 10:38:15.14  Durée 00:00:02.05  Lisibilité 33
+Vous auriez vu la tête d'Escoffier.
+
+ 538: 10:38:20.09 10:38:22.21  Durée 00:00:02.12  Lisibilité 37
+- Vous avez des enfants?
+- J'en avais.
+
+ 539: 10:38:25.02 10:38:26.03  Durée 00:00:01.01  Lisibilité 16
+Pardon.
+
+ 540: 10:38:41.20 10:38:42.16  Durée 00:00:00.21  Lisibilité 13
+Ça ne va pas?
+
+ 541: 10:38:54.11 10:38:55.14  Durée 00:00:01.03  Lisibilité 17
+Respirez.
+
+ 542: 10:39:07.09 10:39:09.11  Durée 00:00:02.02  Lisibilité 31
+- 3 fenêtres donnant sur la place.
+- Bien.
+
+ 543: 10:39:10.04 10:39:12.06  Durée 00:00:02.02  Lisibilité 31
+J'y mettrai 2 de mes hommes
+en faction.
+
+ 544: 10:39:13.07 10:39:16.05  Durée 00:00:02.23  Lisibilité 44
+- Elle donne sur quoi, cette porte?
+- Le salon Vendôme.
+
+ 545: 10:39:21.14 10:39:22.18  Durée 00:00:01.04  Lisibilité 17
+Combien d'hommes?
+
+ 546: 10:39:25.01 10:39:25.23  Durée 00:00:00.22  Lisibilité 13
+Commissaire.
+
+ 547: 10:39:27.24 10:39:28.22  Durée 00:00:00.23  Lisibilité 14
+Je reviens.
+
+ 548: 10:39:41.02 10:39:44.02  Durée 00:00:03.00  Lisibilité 45
+Ce n'est pas banal une comtesse
+amie avec une cuisinière.
+
+ 549: 10:39:44.06 10:39:47.01  Durée 00:00:02.20  Lisibilité 42
+Pas plus qu'un noble qui se fait
+passer par un cul-terreux.
+
+ 550: 10:39:47.05 10:39:48.20  Durée 00:00:01.15  Lisibilité 24
+Qu'est-ce qu'elle voulait?
+
+ 551: 10:39:49.08 10:39:53.01  Durée 00:00:03.18  Lisibilité 56
+Elle aime beaucoup Paul.
+Elle est touchée par ce qui arrive.
+
+ 552: 10:39:53.05 10:39:55.13  Durée 00:00:02.08  Lisibilité 35
+Vous avez déposé ce mot
+à la réception.
+
+ 553: 10:39:58.07 10:39:59.09  Durée 00:00:01.02  Lisibilité 16
+"É fait."
+
+ 554: 10:40:00.10 10:40:02.01  Durée 00:00:01.16  Lisibilité 25
+Pour qui est ce billet?
+
+ 555: 10:40:02.16 10:40:04.10  Durée 00:00:01.19  Lisibilité 26
+É Branchini qui vous l'a donné?
+
+ 556: 10:40:04.14 10:40:05.13  Durée 00:00:00.24  Lisibilité 14
+Répondez-moi.
+
+ 557: 10:40:07.19 10:40:10.19  Durée 00:00:03.00  Lisibilité 45
+É pour mon amoureux,
+le bagagiste.
+
+ 558: 10:40:12.18 10:40:14.14  Durée 00:00:01.21  Lisibilité 28
+Vous voulez savoir ce que j'ai fait?
+
+ 559: 10:40:15.04 10:40:18.22  Durée 00:00:03.18  Lisibilité 56
+Si vous me disiez plutôt
+ce que vous me cachez, mademoiselle.
+
+ 560: 10:40:19.02 10:40:21.01  Durée 00:00:01.24  Lisibilité 29
+Et qu'est-ce qui
+vous fait penser ça?
+
+ 561: 10:40:21.05 10:40:23.14  Durée 00:00:02.09  Lisibilité 35
+Vous semblez inquiète
+qu'on vous voie avec moi.
+
+ 562: 10:40:23.18 10:40:28.18  Durée 00:00:05.00  Lisibilité 75
+Vous avez fait quelque chose
+que vous voulez que j'ignore.
+
+ 563: 10:40:29.15 10:40:32.18  Durée 00:00:03.03  Lisibilité 47
+Et votre fils est enlevé
+quelques jours avant le dîner d'État
+
+ 564: 10:40:32.22 10:40:35.20  Durée 00:00:02.23  Lisibilité 44
+auquel participera le mari
+de la comtesse d'Alencourt.
+
+ 565: 10:40:35.24 10:40:38.19  Durée 00:00:02.20  Lisibilité 42
+É mon fils qu'on enlève
+et é moi qu'on suspecte?
+
+ 566: 10:40:38.23 10:40:41.11  Durée 00:00:02.13  Lisibilité 38
+T'es là. Réunion
+dans 5 minutes avec le taulier.
+
+ 567: 10:40:41.15 10:40:44.10  Durée 00:00:02.20  Lisibilité 42
+- Avec M. Ritz, je veux dire.
+- J'arrive.
+
+ 568: 10:40:48.12 10:40:51.12  Durée 00:00:03.00  Lisibilité 45
+Je veux vous aider, Jeanne,
+mais vous, aidez-moi.
+
+ 569: 10:40:58.17 10:41:01.16  Durée 00:00:02.24  Lisibilité 44
+Tu aurais réparé une veste
+où il manquait un bouton?
+
+ 570: 10:41:01.21 10:41:03.05  Durée 00:00:01.09  Lisibilité 20
+Ce bouton?
+
+ 571: 10:41:04.05 10:41:05.02  Durée 00:00:00.22  Lisibilité 13
+É pourquoi?
+
+ 572: 10:41:05.07 10:41:06.16  Durée 00:00:01.09  Lisibilité 20
+Tu sais à qui elle est?
+
+ 573: 10:41:06.21 10:41:09.15  Durée 00:00:02.19  Lisibilité 41
+Não. Les femmes de chambre
+m'apportent le linge.
+
+ 574: 10:41:09.19 10:41:11.23  Durée 00:00:02.04  Lisibilité 32
+- Pourquoi?
+- Regarde mieux s'il te plaît.
+
+ 575: 10:41:13.12 10:41:15.01  Durée 00:00:01.14  Lisibilité 23
+Ça a à voir avec Paul.
+
+ 576: 10:41:15.20 10:41:17.17  Durée 00:00:01.22  Lisibilité 28
+Dis-moi si ça te dit quelque chose.
+
+ 577: 10:41:18.23 10:41:22.00  Durée 00:00:03.02  Lisibilité 46
+- T'es encore fâchée pour la police?
+- Não.
+
+ 578: 10:41:22.05 10:41:24.02  Durée 00:00:01.22  Lisibilité 28
+Não. Je ne peux pas t'en dire plus.
+
+ 579: 10:41:24.17 10:41:27.05  Durée 00:00:02.13  Lisibilité 38
+Je ne sais pas à qui est cette veste.
+
+ 580: 10:41:27.09 10:41:30.23  Durée 00:00:03.14  Lisibilité 53
+Je n'avais plus de boutons comme ça,
+alors je les ai tous changés.
+
+ 581: 10:41:31.19 10:41:32.23  Durée 00:00:01.04  Lisibilité 17
+Ah, il m'en reste un.
+
+ 582: 10:41:37.11 10:41:38.17  Durée 00:00:01.06  Lisibilité 19
+Obrigado.
+
+ 583: 10:41:41.18 10:41:42.24  Durée 00:00:01.06  Lisibilité 19
+Alors?
+
+ 584: 10:41:45.05 10:41:47.17  Durée 00:00:02.12  Lisibilité 37
+Ma tante a changé
+tous les boutons de la veste.
+
+ 585: 10:41:47.21 10:41:51.00  Durée 00:00:03.04  Lisibilité 47
+Du coup, é une veste
+avec ceux-là qu'il faut trouver.
+
+ 586: 10:41:52.01 10:41:53.11  Durée 00:00:01.10  Lisibilité 21
+É l'heure du thé.
+
+ 587: 10:41:54.12 10:41:56.17  Durée 00:00:02.05  Lisibilité 33
+Ritz en fait
+une véritable institution.
+
+ 588: 10:41:56.21 10:41:59.11  Durée 00:00:02.15  Lisibilité 39
+Ne pas s'y rendre
+serait attirer les soupçons.
+
+ 589: 10:41:59.15 10:42:02.02  Durée 00:00:02.12  Lisibilité 37
+Notre homme y sera sûrement.
+Je m'en occupe.
+
+ 590: 10:42:23.18 10:42:24.22  Durée 00:00:01.04  Lisibilité 17
+Ça va, Jeanne?
+
+ 591: 10:42:36.14 10:42:39.09  Durée 00:00:02.20  Lisibilité 42
+Après-demain, l'Europe
+aura les yeux braqués sur nous.
+
+ 592: 10:42:39.14 10:42:42.18  Durée 00:00:03.04  Lisibilité 47
+É pourquoi je vous demande
+de vous dépasser comme jamais.
+
+ 593: 10:42:42.22 10:42:46.10  Durée 00:00:03.13  Lisibilité 53
+Si le monde échappe à cette guerre,
+ce sera aussi grâce à vous.
+
+ 594: 10:42:47.00 10:42:49.18  Durée 00:00:02.18  Lisibilité 41
+Mlle Vasseur,
+vous traversez une passe difficile,
+
+ 595: 10:42:49.22 10:42:52.06  Durée 00:00:02.09  Lisibilité 35
+mais votre travail
+doit primer sur le reste.
+
+ 596: 10:42:52.11 10:42:53.23  Durée 00:00:01.12  Lisibilité 22
+Ici, vous êtes un cuisinier.
+
+ 597: 10:42:54.03 10:42:56.07  Durée 00:00:02.04  Lisibilité 32
+L'enquête avance?
+
+ 598: 10:42:56.11 10:42:57.20  Durée 00:00:01.09  Lisibilité 20
+Pas vraiment, não.
+
+ 599: 10:42:58.00 10:43:01.01  Durée 00:00:03.01  Lisibilité 46
+Pourtant le commissaire semble
+plus concerné par votre fils
+
+ 600: 10:43:01.06 10:43:04.00  Durée 00:00:02.19  Lisibilité 41
+que par la sécurité de mon hôtel.
+Vous l'avez envoûté.
+
+ 601: 10:43:05.12 10:43:08.06  Durée 00:00:02.19  Lisibilité 41
+- Reprenons. Auguste, é à toi.
+- Sim.
+
+ 602: 10:43:08.11 10:43:12.10  Durée 00:00:03.24  Lisibilité 59
+Voici le menu concocté
+par César Ritz et moi-même.
+
+ 603: 10:43:12.14 10:43:16.12  Durée 00:00:03.23  Lisibilité 59
+Velouté royal aux champignons blancs,
+cailles Richelieu,
+
+ 604: 10:43:16.17 10:43:18.13  Durée 00:00:01.21  Lisibilité 28
+écrevisses à la vauclusienne,
+
+ 605: 10:43:18.17 10:43:21.10  Durée 00:00:02.18  Lisibilité 41
+agneaux à la bordelaise,
+parfait de foie gras
+
+ 606: 10:43:21.14 10:43:23.14  Durée 00:00:02.00  Lisibilité 30
+et ma poire Belle-Hélène.
+
+ 607: 10:43:23.18 10:43:27.12  Durée 00:00:03.19  Lisibilité 56
+Vins et champagnes d'exception,
+suivis de café et liqueurs.
+
+ 608: 10:43:27.17 10:43:31.01  Durée 00:00:03.09  Lisibilité 50
+S'ils ont le courage de se mettre
+sur la gueule après ça.
+
+ 609: 10:43:32.01 10:43:33.12  Durée 00:00:01.11  Lisibilité 22
+- Chef.
+- Sim.
+
+ 610: 10:43:33.16 10:43:35.11  Durée 00:00:01.20  Lisibilité 27
+- Nellie Melba vous félicite.
+- Qui?
+
+ 611: 10:43:35.16 10:43:38.20  Durée 00:00:03.04  Lisibilité 47
+La cantatrice a adoré son dessert.
+
+ 612: 10:43:39.00 10:43:39.20  Durée 00:00:00.20  Lisibilité 12
+Formidable.
+
+ 613: 10:43:39.24 10:43:42.17  Durée 00:00:02.18  Lisibilité 41
+- Tout le monde est à son poste?
+- Sim, chef.
+
+ 614: 10:43:44.19 10:43:47.23  Durée 00:00:03.04  Lisibilité 47
+Dites-moi, monsieur Ritz,
+on pourra saluer ces chefs d'État?
+
+ 615: 10:43:48.02 10:43:49.16  Durée 00:00:01.14  Lisibilité 23
+Oh, certainement pas, mon petit.
+
+ 616: 10:43:49.21 10:43:54.07  Durée 00:00:04.11  Lisibilité 67
+Celui qui s'approchera sera aussitôt
+arrêté et conduit à la guillotine.
+
+ 617: 10:44:42.03 10:44:45.04  Durée 00:00:03.01  Lisibilité 46
+Nous n'avons pas été présentés
+je crois.
+
+ 618: 10:44:46.11 10:44:48.18  Durée 00:00:02.07  Lisibilité 34
+Comtesse Albertine d'Alencourt.
+
+ 619: 10:44:48.23 10:44:51.08  Durée 00:00:02.10  Lisibilité 36
+Je rappelle les mamelles
+de cette cuisine.
+
+ 620: 10:44:51.12 10:44:55.15  Durée 00:00:04.03  Lisibilité 62
+Du respect, de l'hygiène et de
+la créativité. É bien compris?
+
+ 621: 10:44:55.19 10:44:56.17  Durée 00:00:00.23  Lisibilité 14
+Sim, chef.
+
+ 622: 10:44:57.21 10:45:00.06  Durée 00:00:02.10  Lisibilité 36
+- Une brigade, é de l'ordre.
+- Sim, chef.
+
+ 623: 10:45:22.07 10:45:25.02  Durée 00:00:02.20  Lisibilité 42
+- Tu ne m'as pas attendu.
+- Je ne pouvais pas attendre.
+
+ 624: 10:45:26.12 10:45:28.20  Durée 00:00:02.08  Lisibilité 35
+- T'as trouvé quelque chose?
+- Não.
+
+ 625: 10:45:28.24 10:45:30.16  Durée 00:00:01.17  Lisibilité 25
+On se voit plus tard?
+
+ 626: 10:45:30.21 10:45:32.18  Durée 00:00:01.22  Lisibilité 28
+Elle peut attendre, ta copine, não?
+
+ 627: 10:45:33.14 10:45:35.24  Durée 00:00:02.10  Lisibilité 36
+- Arrête.
+- Veuillez m'excuser un instant.
+
+ 628: 10:45:36.03 10:45:37.15  Durée 00:00:01.12  Lisibilité 22
+Comme tu veux.
+
+ 629: 10:45:39.00 10:45:40.02  Durée 00:00:01.02  Lisibilité 16
+Vous êtes inconsciente.
+
+ 630: 10:45:40.06 10:45:42.14  Durée 00:00:02.08  Lisibilité 35
+- Il doit pas nous voir ensemble.
+- É lui?
+
+ 631: 10:45:43.07 10:45:44.22  Durée 00:00:01.15  Lisibilité 24
+Matyas Wilczek.
+
+ 632: 10:45:45.02 10:45:47.02  Durée 00:00:02.00  Lisibilité 30
+- Il est serbe.
+- Je veux lui parler.
+
+ 633: 10:45:47.06 10:45:50.20  Durée 00:00:03.14  Lisibilité 53
+Alors il saura qu'on l'a identifié
+et Paul en fera les frais.
+
+ 634: 10:45:51.21 10:45:55.14  Durée 00:00:03.18  Lisibilité 56
+Laissez-moi faire, je sais comment
+amener un homme à se confier.
+
+ 635: 10:45:57.03 10:45:58.15  Durée 00:00:01.12  Lisibilité 22
+Ça va prendre longtemps?
+
+ 636: 10:45:58.20 10:46:01.03  Durée 00:00:02.08  Lisibilité 35
+Paul qui va passer la nuit
+je ne sais où.
+
+ 637: 10:46:01.07 10:46:03.07  Durée 00:00:02.00  Lisibilité 30
+Avoir peur, sûrement faim et froid.
+
+ 638: 10:46:03.11 10:46:05.21  Durée 00:00:02.10  Lisibilité 36
+Je sais ce que vous ressentez,
+Jeanne.
+
+ 639: 10:46:06.00 10:46:09.14  Durée 00:00:03.14  Lisibilité 53
+Mais é notre seule piste.
+On ne peut pas la détruire.
+
+ 640: 10:46:45.07 10:46:46.08  Durée 00:00:01.01  Lisibilité 16
+Que faites-vous là?
+
+ 641: 10:46:46.12 10:46:48.07  Durée 00:00:01.20  Lisibilité 27
+Pourquoi vous ne m'avez pas prévenu?
+
+ 642: 10:46:48.12 10:46:50.05  Durée 00:00:01.18  Lisibilité 26
+Je ne pensais pas devoir le faire.
+
+ 643: 10:46:54.02 10:46:57.24  Durée 00:00:03.22  Lisibilité 58
+Ce sachet, tu le mettras
+dans la sauce de l'Austro-Hongrois.
+
+ 644: 10:46:58.03 10:46:59.18  Durée 00:00:01.15  Lisibilité 24
+- É quoi?
+- Arsenic.
+
+ 645: 10:47:01.07 10:47:02.24  Durée 00:00:01.17  Lisibilité 25
+Pour ça, é la guillotine.
+
+ 646: 10:47:03.03 10:47:05.22  Durée 00:00:02.19  Lisibilité 41
+Personne ne saura qui l'a tué
+si tu tiens ta langue.
+
+ 647: 10:47:07.16 10:47:09.07  Durée 00:00:01.16  Lisibilité 25
+Je veux voir Paul.
+
+ 648: 10:47:09.11 10:47:11.11  Durée 00:00:02.00  Lisibilité 30
+Je veux la preuve qu'il est en vie.
+
+ 649: 10:47:12.08 10:47:13.03  Durée 00:00:00.20  Lisibilité 12
+#É moi.#
+
+ 650: 10:47:16.05 10:47:17.00  Durée 00:00:00.20  Lisibilité 12
+Ouvre.
+
+ 651: 10:47:26.11 10:47:27.17  Durée 00:00:01.06  Lisibilité 19
+Débarrasse-toi de lui.
+
+ 652: 10:47:30.22 10:47:32.01  Durée 00:00:01.04  Lisibilité 17
+#Je me change.#
+
+ 653: 10:47:32.05 10:47:34.06  Durée 00:00:02.01  Lisibilité 31
+Je ne te crois pas.
+Il y a quelqu'un?
+
+ 654: 10:47:34.21 10:47:36.18  Durée 00:00:01.22  Lisibilité 28
+- Não.
+- #Alors ouvre.#
+
+ 655: 10:47:50.12 10:47:52.10  Durée 00:00:01.23  Lisibilité 29
+Demain matin,
+bois de Boulogne, 9 h.
+
+ 656: 10:47:52.15 10:47:53.23  Durée 00:00:01.08  Lisibilité 20
+Chemin des Dames.
+
+ 657: 10:48:15.03 10:48:17.04  Durée 00:00:02.01  Lisibilité 31
+On doit satisfaire
+les désirs des clients.
+
+ 658: 10:48:17.08 10:48:18.05  Durée 00:00:00.22  Lisibilité 13
+J'obéis aux ordres.
+
+ 659: 10:48:18.10 10:48:20.11  Durée 00:00:02.01  Lisibilité 31
+Je vais voir Paul demain.
+
+ 660: 10:48:20.15 10:48:21.15  Durée 00:00:01.00  Lisibilité 15
+Comment ça?
+
+ 661: 10:48:21.19 10:48:23.19  Durée 00:00:02.00  Lisibilité 30
+Il nous faut un plan
+pour le récupérer.
+
+ 662: 10:48:23.24 10:48:25.01  Durée 00:00:01.02  Lisibilité 16
+On va le trouver.
+
+ 663: 10:48:30.05 10:48:32.10  Durée 00:00:02.05  Lisibilité 33
+Et si on leur demandait
+de nous rendre Paul.
+
+ 664: 10:48:32.14 10:48:33.12  Durée 00:00:00.23  Lisibilité 14
+J'ai des économies.
+
+ 665: 10:48:33.17 10:48:36.06  Durée 00:00:02.14  Lisibilité 38
+- Ils s'en foutent, de l'argent.
+- Que veulent-ils?
+
+ 666: 10:48:36.10 10:48:38.02  Durée 00:00:01.17  Lisibilité 25
+J'en sais rien et je m'en fiche.
+
+ 667: 10:48:38.06 10:48:39.24  Durée 00:00:01.18  Lisibilité 26
+Dans 15 minutes, j'aurai Paul.
+
+ 668: 10:48:44.05 10:48:45.24  Durée 00:00:01.19  Lisibilité 26
+Il est là.
+Cocher, arrêtez-vous.
+
+ 669: 10:48:58.15 10:48:59.10  Durée 00:00:00.20  Lisibilité 12
+Obrigado d'être venu.
+
+ 670: 10:49:00.08 10:49:02.23  Durée 00:00:02.15  Lisibilité 39
+Je suis venu pour Paul.
+On s'expliquera après.
+
+ 671: 10:49:06.24 10:49:10.03  Durée 00:00:03.04  Lisibilité 47
+Bon. Chacun sait ce qu'il a à faire?
+
+ 672: 10:49:10.08 10:49:11.17  Durée 00:00:01.09  Lisibilité 20
+On s'en tient au plan.
+
+ 673: 10:49:35.04 10:49:37.20  Durée 00:00:02.16  Lisibilité 40
+- Paul.
+- Maman.
+
+ 674: 10:49:38.00 10:49:40.09  Durée 00:00:02.09  Lisibilité 35
+- Paul.
+- Maman.
+
+ 675: 10:49:42.22 10:49:43.24  Durée 00:00:01.02  Lisibilité 16
+Maman.
+
+ 676: 10:49:44.04 10:49:45.03  Durée 00:00:00.24  Lisibilité 14
+Maman.
+
+ 677: 10:49:46.16 10:49:47.12  Durée 00:00:00.21  Lisibilité 13
+Rose.
+
+ 678: 10:49:49.09 10:49:50.09  Durée 00:00:01.00  Lisibilité 15
+Maman.
+
+ 679: 10:49:55.19 10:49:56.19  Durée 00:00:01.00  Lisibilité 15
+Maman.
+
+ 680: 10:50:06.10 10:50:07.05  Durée 00:00:00.20  Lisibilité 12
+Maman.
+
+ 681: 10:50:19.03 10:50:20.06  Durée 00:00:01.03  Lisibilité 17
+Paul.
+
+ 682: 10:50:31.12 10:50:32.07  Durée 00:00:00.20  Lisibilité 12
+Police.
+
+ 683: 10:50:35.12 10:50:36.10  Durée 00:00:00.23  Lisibilité 14
+Paul.
+
+ 684: 10:50:37.19 10:50:38.17  Durée 00:00:00.23  Lisibilité 14
+- Paul.
+- Maman.
+
+ 685: 10:50:38.21 10:50:40.12  Durée 00:00:01.16  Lisibilité 25
+Paul.
+
+ 686: 10:50:40.17 10:50:42.17  Durée 00:00:02.00  Lisibilité 30
+Il faut que je vous suive, é ça?
+
+ 687: 10:50:42.21 10:50:45.10  Durée 00:00:02.14  Lisibilité 38
+- Qu'est-ce que vous avez fait?
+- C'était qui?
+
+ 688: 10:50:45.14 10:50:47.22  Durée 00:00:02.08  Lisibilité 35
+C'était son père.
+Il l'a enlevé.
+
+ 689: 10:50:48.01 10:50:51.04  Durée 00:00:03.03  Lisibilité 47
+- Je devais le récupérer.
+- Pourquoi n'en avoir pas parlé?
+
+ 690: 10:50:51.08 10:50:54.01  Durée 00:00:02.18  Lisibilité 41
+- Je n'ai pas eu le temps.
+- Lâchez-la.
+
+ 691: 10:50:54.05 10:50:56.03  Durée 00:00:01.23  Lisibilité 29
+- À qui ai-je l'honneur?
+- Son fiancé.
+
+ 692: 10:50:56.07 10:50:58.00  Durée 00:00:01.18  Lisibilité 26
+Et vous?
+
+ 693: 10:50:58.15 10:51:01.06  Durée 00:00:02.16  Lisibilité 40
+À partir de maintenant,
+je ne vous lâche plus.
+
+ 694: 10:51:01.11 10:51:04.04  Durée 00:00:02.18  Lisibilité 41
+Retournez à vos réceptions
+et vos parties de chasse.
+
+ 695: 10:51:04.09 10:51:07.17  Durée 00:00:03.08  Lisibilité 50
+Contentez-vous d'être inutile,
+pas nuisible.
+
+ 696: 10:51:12.24 10:51:15.14  Durée 00:00:02.15  Lisibilité 39
+Je l'avais presque,
+il était presque avec moi.
+
+ 697: 10:51:16.12 10:51:17.23  Durée 00:00:01.11  Lisibilité 22
+Pourquoi tu n'as pas réussi?
+
+ 698: 10:51:18.13 10:51:20.01  Durée 00:00:01.13  Lisibilité 23
+Ton flic a tout fait foirer.
+
+ 699: 10:51:20.06 10:51:21.01  Durée 00:00:00.20  Lisibilité 12
+Mon flic?
+
+ 700: 10:51:21.05 10:51:23.05  Durée 00:00:02.00  Lisibilité 30
+Ce n'est pas le moment
+de vous disputer.
+
+ 701: 10:51:25.09 10:51:26.15  Durée 00:00:01.06  Lisibilité 19
+Tu me dis ce qu'il y a?
+
+ 702: 10:51:27.07 10:51:29.21  Durée 00:00:02.14  Lisibilité 38
+- Je ne peux pas.
+- Et pourquoi?
+
+ 703: 10:51:30.00 10:51:32.15  Durée 00:00:02.15  Lisibilité 39
+- J'ai des instructions.
+- Des instructions de qui?
+
+ 704: 10:51:33.24 10:51:36.08  Durée 00:00:02.09  Lisibilité 35
+On est ensemble, Jeanne.
+On doit tout se dire.
+
+ 705: 10:51:36.13 10:51:37.23  Durée 00:00:01.10  Lisibilité 21
+Tu me jettes comme un légume.
+
+ 706: 10:51:38.02 10:51:40.04  Durée 00:00:02.02  Lisibilité 31
+- Não.
+- Tu respectes plus les légumes.
+
+ 707: 10:51:45.21 10:51:47.17  Durée 00:00:01.21  Lisibilité 28
+C'était qui, ce type,
+dans ta chambre?
+
+ 708: 10:51:49.07 10:51:50.06  Durée 00:00:00.24  Lisibilité 14
+Personne.
+
+ 709: 10:51:53.20 10:51:55.05  Durée 00:00:01.10  Lisibilité 21
+T'as un nouveau mec?
+
+ 710: 10:51:57.14 10:51:58.13  Durée 00:00:00.24  Lisibilité 14
+É ce condé,
+
+ 711: 10:51:59.03 10:52:00.23  Durée 00:00:01.20  Lisibilité 27
+ça se voit que tu en pinces pour lui.
+
+ 712: 10:52:01.13 10:52:03.06  Durée 00:00:01.18  Lisibilité 26
+T'as raison, on va en rester là.
+
+ 713: 10:52:06.20 10:52:08.04  Durée 00:00:01.09  Lisibilité 20
+Suivez-moi, monsieur.
+
+ 714: 10:52:09.10 10:52:11.03  Durée 00:00:01.18  Lisibilité 26
+Où est la comtesse d'Alencourt?
+
+ 715: 10:52:12.20 10:52:15.21  Durée 00:00:03.01  Lisibilité 46
+Je vais vous donner
+des informations sur une cliente?
+
+ 716: 10:52:16.01 10:52:18.07  Durée 00:00:02.06  Lisibilité 34
+Vous ne faites pas ça
+toute la journée?
+
+ 717: 10:52:22.05 10:52:23.08  Durée 00:00:01.03  Lisibilité 17
+Allô, oui?
+
+ 718: 10:52:25.02 10:52:26.05  Durée 00:00:01.03  Lisibilité 17
+É pour vous.
+
+ 719: 10:52:37.08 10:52:38.19  Durée 00:00:01.11  Lisibilité 22
+- #Maman.#
+- Paul.
+
+ 720: 10:52:38.23 10:52:40.22  Durée 00:00:01.24  Lisibilité 29
+Paul, mon amour, je t'aime.
+
+ 721: 10:52:41.01 10:52:42.19  Durée 00:00:01.18  Lisibilité 26
+#Dernier avertissement.#
+
+ 722: 10:52:42.23 10:52:45.15  Durée 00:00:02.17  Lisibilité 40
+#Encore un coup comme ça
+et vous ne le reverrez jamais.#
+
+ 723: 10:52:45.19 10:52:48.22  Durée 00:00:03.03  Lisibilité 47
+#Concentrez-vous sur votre mission,
+sinon...#
+
+ 724: 10:52:52.03 10:52:53.07  Durée 00:00:01.04  Lisibilité 17
+Mais qui a appelé?
+
+ 725: 10:52:53.12 10:52:55.23  Durée 00:00:02.11  Lisibilité 37
+É un téléphone,
+pas une boule de cristal.
+
+ 726: 10:52:57.23 10:53:01.07  Durée 00:00:03.09  Lisibilité 50
+J'avais vous n'êtes touché
+par ce qui arrive aux autres, vous?
+
+ 727: 10:53:03.11 10:53:05.16  Durée 00:00:02.05  Lisibilité 33
+Merveilleux.
+
+ 728: 10:53:05.21 10:53:07.06  Durée 00:00:01.10  Lisibilité 21
+Merveilleux. À tout à l'heure.
+
+ 729: 10:53:15.01 10:53:16.08  Durée 00:00:01.07  Lisibilité 19
+Alors, il vous a parlé?
+
+ 730: 10:53:17.13 10:53:18.17  Durée 00:00:01.04  Lisibilité 17
+Laissez, Branchini.
+
+ 731: 10:53:18.22 10:53:20.15  Durée 00:00:01.18  Lisibilité 26
+Laissez.
+
+ 732: 10:53:20.19 10:53:22.03  Durée 00:00:01.09  Lisibilité 20
+Não, pas encore.
+
+ 733: 10:53:22.07 10:53:24.12  Durée 00:00:02.05  Lisibilité 33
+Votre père, le vicomte de Serres,
+a téléphoné
+
+ 734: 10:53:24.17 10:53:27.01  Durée 00:00:02.09  Lisibilité 35
+et il vous demande de le rappeler.
+
+ 735: 10:53:27.05 10:53:30.03  Durée 00:00:02.23  Lisibilité 44
+Dites-lui qu'il peut toujours
+attendre. Dites-le-lui.
+
+ 736: 10:53:33.08 10:53:34.12  Durée 00:00:01.04  Lisibilité 17
+À plus tard.
+
+ 737: 10:53:37.08 10:53:40.06  Durée 00:00:02.23  Lisibilité 44
+- De quoi vous parliez?
+- Tu ne vas pas être jalouse.
+
+ 738: 10:53:40.10 10:53:41.05  Durée 00:00:00.20  Lisibilité 12
+Suis-moi.
+
+ 739: 10:53:44.15 10:53:46.07  Durée 00:00:01.17  Lisibilité 25
+Rose, qu'est-ce qui te prend?
+
+ 740: 10:53:48.19 10:53:51.00  Durée 00:00:02.06  Lisibilité 34
+- Le vicomte de Serres.
+- Quoi?
+
+ 741: 10:53:51.04 10:53:53.08  Durée 00:00:02.04  Lisibilité 32
+Je n'ai que faire
+des caprices des clients.
+
+ 742: 10:53:53.12 10:53:56.03  Durée 00:00:02.16  Lisibilité 40
+É lui qui m'a laissé Paul
+il y a 9 ans,
+
+ 743: 10:53:56.07 10:53:58.05  Durée 00:00:01.23  Lisibilité 29
+avant que je ne te le confie.
+
+ 744: 10:53:59.14 10:54:01.15  Durée 00:00:02.01  Lisibilité 31
+Ce qui fait
+d'Albertine d'Alencourt...
+
+ 745: 10:54:04.02 10:54:05.05  Durée 00:00:01.03  Lisibilité 17
+La mère de Paul.
+
+ 746: 10:54:16.08 10:54:18.05  Durée 00:00:01.22  Lisibilité 28
+Au théâtre de la Renaissance.
+
+ 747: 10:54:18.10 10:54:20.06  Durée 00:00:01.21  Lisibilité 28
+Je ne m'en souviens pas.
+
+ 748: 10:54:20.11 10:54:22.10  Durée 00:00:01.24  Lisibilité 29
+- Sarah Bernhardt.
+- Sim.
+
+ 749: 10:54:22.15 10:54:23.21  Durée 00:00:01.06  Lisibilité 19
+Je ne peux retenir tout ça.
+
+ 750: 10:54:25.22 10:54:28.02  Durée 00:00:02.05  Lisibilité 33
+Mais enfin, que faites-vous ici?
+
+ 751: 10:54:28.06 10:54:31.08  Durée 00:00:03.02  Lisibilité 46
+Vous vous êtes bien fichue de moi.
+Venez avec moi.
+
+ 752: 10:54:36.06 10:54:39.07  Durée 00:00:03.01  Lisibilité 46
+Vos cadeaux, votre gentillesse,
+c'était pour acheter Paul.
+
+ 753: 10:54:39.11 10:54:40.13  Durée 00:00:01.02  Lisibilité 16
+De quoi vous parlez?
+
+ 754: 10:54:42.07 10:54:43.18  Durée 00:00:01.11  Lisibilité 22
+Vous lui voulez quoi?
+
+ 755: 10:54:43.23 10:54:45.22  Durée 00:00:01.24  Lisibilité 29
+Mais le voir, é tout.
+
+ 756: 10:54:46.12 10:54:48.00  Durée 00:00:01.13  Lisibilité 23
+Pourquoi me l'avoir caché?
+
+ 757: 10:54:48.05 10:54:52.09  Durée 00:00:04.04  Lisibilité 62
+Je voulais apprendre à le connaître,
+sans l'effrayer.
+
+ 758: 10:54:52.14 10:54:53.16  Durée 00:00:01.02  Lisibilité 16
+Pourquoi maintenant?
+
+ 759: 10:54:57.02 10:54:59.03  Durée 00:00:02.01  Lisibilité 31
+J'avais 17 ans quand je l'ai eu.
+
+ 760: 10:55:00.23 10:55:02.21  Durée 00:00:01.23  Lisibilité 29
+J'étais amoureuse d'un palefrenier.
+
+ 761: 10:55:04.10 10:55:07.02  Durée 00:00:02.17  Lisibilité 40
+Évidemment, pour mon père,
+ce n'était pas possible.
+
+ 762: 10:55:10.07 10:55:12.09  Durée 00:00:02.02  Lisibilité 31
+Il m'a enlevé l'enfant
+à sa naissance.
+
+ 763: 10:55:15.19 10:55:18.17  Durée 00:00:02.23  Lisibilité 44
+Il m'a forcée à épouser
+le comte d'Alencourt,
+
+ 764: 10:55:18.22 10:55:22.18  Durée 00:00:03.21  Lisibilité 58
+le seul homme à bien vouloir prendre
+ma grosse dot et ma minuscule vertu.
+
+ 765: 10:55:29.09 10:55:32.06  Durée 00:00:02.22  Lisibilité 43
+J'ai eu de l'argent pendant 1 an,
+puis vous l'avez oublié.
+
+ 766: 10:55:32.10 10:55:33.21  Durée 00:00:01.11  Lisibilité 22
+Não, vous vous trompez.
+
+ 767: 10:55:36.16 10:55:38.07  Durée 00:00:01.16  Lisibilité 25
+Je l'ai cherché partout.
+
+ 768: 10:55:40.20 10:55:43.13  Durée 00:00:02.18  Lisibilité 41
+Il n'y a pas un jour
+où je n'ai pas pensé à lui.
+
+ 769: 10:55:45.04 10:55:49.03  Durée 00:00:03.24  Lisibilité 59
+S'il vous plaît, faisons une trêve.
+
+ 770: 10:55:50.22 10:55:52.14  Durée 00:00:01.17  Lisibilité 25
+Juste le temps de le trouver.
+
+ 771: 10:55:55.12 10:55:56.22  Durée 00:00:01.10  Lisibilité 21
+Bon.
+
+ 772: 10:55:58.16 10:56:00.16  Durée 00:00:02.00  Lisibilité 30
+Et Wilczek, il vous a dit quoi?
+
+ 773: 10:56:00.21 10:56:04.05  Durée 00:00:03.09  Lisibilité 50
+Rien encore, je vous le jure.
+Laisse-moi un peu de temps.
+
+ 774: 10:56:04.10 10:56:06.23  Durée 00:00:02.13  Lisibilité 38
+On en a pas.
+É quoi, son numéro de chambre?
+
+ 775: 10:56:07.03 10:56:09.10  Durée 00:00:02.07  Lisibilité 34
+- Je ne peux pas.
+- Son numéro de chambre,
+
+ 776: 10:56:09.15 10:56:10.11  Durée 00:00:00.21  Lisibilité 13
+é quoi?
+
+ 777: 10:56:11.20 10:56:13.01  Durée 00:00:01.06  Lisibilité 19
+200...
+
+ 778: 10:56:14.07 10:56:15.18  Durée 00:00:01.11  Lisibilité 22
+209.
+
+ 779: 10:56:17.07 10:56:18.16  Durée 00:00:01.09  Lisibilité 20
+209.
+
+ 780: 10:56:20.15 10:56:21.16  Durée 00:00:01.01  Lisibilité 16
+209.
+
+ 781: 10:56:33.19 10:56:34.22  Durée 00:00:01.03  Lisibilité 17
+Service d'étage.
+
+ 782: 10:56:50.04 10:56:52.02  Durée 00:00:01.23  Lisibilité 29
+Dites-moi où est Paul?
+
+ 783: 10:56:52.20 10:56:54.24  Durée 00:00:02.04  Lisibilité 32
+Je vous en supplie,
+dites-moi où il est.
+
+ 784: 10:56:56.21 10:56:59.10  Durée 00:00:02.14  Lisibilité 38
+Je vous en supplie.
+
+ 785: 10:56:59.15 10:57:02.20  Durée 00:00:03.05  Lisibilité 48
+Qu'est-ce que ça peut vous faire,
+tout est cuit pour vous?
+
+ 786: 10:57:05.09 10:57:06.22  Durée 00:00:01.13  Lisibilité 23
+Pour vous aussi.
+
+ 787: 10:57:08.00 10:57:09.21  Durée 00:00:01.21  Lisibilité 28
+Qu'est-ce que vous voulez dire?
+
+ 788: 10:57:11.03 10:57:12.18  Durée 00:00:01.15  Lisibilité 24
+On vous a trahie.
+
+ 789: 10:57:14.13 10:57:16.22  Durée 00:00:02.09  Lisibilité 35
+Mais qui ça?
+La comtesse d'Alencourt?
+
+ 790: 10:57:21.11 10:57:24.15  Durée 00:00:03.04  Lisibilité 47
+Exécutez votre mission.
+
+ 791: 10:57:29.03 10:57:30.09  Durée 00:00:01.06  Lisibilité 19
+Je vous en supplie.
+
+ 792: 10:57:31.14 10:57:32.09  Durée 00:00:00.20  Lisibilité 12
+Não.
+
+ 793: 10:57:35.21 10:57:37.14  Durée 00:00:01.18  Lisibilité 26
+Ce n'est pas moi.
+
+ 794: 10:57:37.19 10:57:39.23  Durée 00:00:02.04  Lisibilité 32
+Il était comme ça
+quand je suis rentrée.
+
+ 795: 10:57:44.16 10:57:46.03  Durée 00:00:01.12  Lisibilité 22
+Vous n'arrêtez pas de mentir.
+
+ 796: 10:57:46.23 10:57:49.02  Durée 00:00:02.04  Lisibilité 32
+J'ai vérifié,
+vous n'avez pas d'enfant.
+
+ 797: 10:57:50.04 10:57:52.09  Durée 00:00:02.05  Lisibilité 33
+Sim, effectivement,
+Paul n'est pas mon fils,
+
+ 798: 10:57:52.13 10:57:55.22  Durée 00:00:03.09  Lisibilité 50
+pas comme vous l'entendez.
+Je l'ai eu en nourrice.
+
+ 799: 10:57:56.02 10:57:57.22  Durée 00:00:01.20  Lisibilité 27
+Et Mme d'Alencourt
+est sa mère biologique.
+
+ 800: 10:57:59.00 10:58:00.24  Durée 00:00:01.24  Lisibilité 29
+Pourquoi vous ne me l'avez pas dit?
+
+ 801: 10:58:03.00 10:58:06.01  Durée 00:00:03.01  Lisibilité 46
+- Elle a des informations?
+- Não.
+
+ 802: 10:58:06.05 10:58:08.24  Durée 00:00:02.19  Lisibilité 41
+Et les hommes,
+dans le sous-bois, c'était qui?
+
+ 803: 10:58:17.00 10:58:18.11  Durée 00:00:01.11  Lisibilité 22
+Vous les reconnaissez?
+
+ 804: 10:58:20.05 10:58:21.09  Durée 00:00:01.04  Lisibilité 17
+É un agitateur serbe.
+
+ 805: 10:58:21.13 10:58:23.18  Durée 00:00:02.05  Lisibilité 33
+On l'a récemment vu avec cet homme.
+
+ 806: 10:58:25.14 10:58:28.09  Durée 00:00:02.20  Lisibilité 42
+On les soupçonne de vouloir
+tuer un Austro-hongrois,
+
+ 807: 10:58:28.14 10:58:31.11  Durée 00:00:02.22  Lisibilité 43
+et je vous soupçonne
+d'en savoir plus sur le dîner.
+
+ 808: 10:58:34.20 10:58:36.16  Durée 00:00:01.21  Lisibilité 28
+Jamais vu aucun des deux.
+
+ 809: 10:58:38.00 10:58:39.16  Durée 00:00:01.16  Lisibilité 25
+Levez-vous.
+
+ 810: 10:58:42.16 10:58:45.17  Durée 00:00:03.01  Lisibilité 46
+À partir de ce jour, 7 h 30,
+je vous place en garde à vue
+
+ 811: 10:58:45.22 10:58:47.22  Durée 00:00:02.00  Lisibilité 30
+pour le meurtre de Matyas Wilczek.
+
+ 812: 10:58:48.01 10:58:52.09  Durée 00:00:04.08  Lisibilité 65
+Selon la loi du 8 décembre 1897,
+vous avez le droit à un avocat.
+
+ 813: 10:58:53.01 10:58:55.04  Durée 00:00:02.03  Lisibilité 32
+Pourquoi vous faites ça?
+
+ 814: 10:58:56.09 10:58:57.19  Durée 00:00:01.10  Lisibilité 21
+Je suis comme vous, moi,
+
+ 815: 10:58:57.23 10:59:00.23  Durée 00:00:03.00  Lisibilité 45
+je fais ma place dans un monde
+qui n'est pas le mien.
+
+ 816: 10:59:02.06 10:59:03.12  Durée 00:00:01.06  Lisibilité 19
+Laissez-moi passer.
+
+ 817: 10:59:03.16 10:59:05.10  Durée 00:00:01.19  Lisibilité 26
+Laissez-moi passer.
+Relâchez-la.
+
+ 818: 10:59:06.14 10:59:07.20  Durée 00:00:01.06  Lisibilité 19
+Elle est innocente.
+
+ 819: 10:59:09.05 10:59:11.16  Durée 00:00:02.11  Lisibilité 37
+Nous étions ensemble
+quand nous l'avons découvert.
+
+ 820: 10:59:11.21 10:59:14.24  Durée 00:00:03.03  Lisibilité 47
+Elle était seule parce que
+j'étais allée chercher les secours.
+
+ 821: 10:59:15.03 10:59:16.05  Durée 00:00:01.02  Lisibilité 16
+Pourquoi vous croire?
+
+ 822: 10:59:17.02 10:59:21.19  Durée 00:00:04.17  Lisibilité 70
+Attention, mon mari est avec
+le ministre des Affaires étrangères.
+
+ 823: 10:59:21.23 10:59:25.07  Durée 00:00:03.09  Lisibilité 50
+Je suis sûre de M. Delcassé
+et lui seront chafouins
+
+ 824: 10:59:25.11 10:59:29.08  Durée 00:00:03.22  Lisibilité 58
+d'apprendre que vous mettrez en doute
+le témoignage d'une épouse dévouée.
+
+ 825: 10:59:31.01 10:59:32.23  Durée 00:00:01.22  Lisibilité 28
+Bonne journée.
+Venez, Jeanne.
+
+ 826: 10:59:49.03 10:59:51.14  Durée 00:00:02.11  Lisibilité 37
+Obrigado,
+mais vous ne pouvez pas faire ça.
+
+ 827: 10:59:51.18 10:59:54.19  Durée 00:00:03.01  Lisibilité 46
+Vous ne rattraperez pas rien.
+La mère de Paul, é moi.
+
+ 828: 10:59:54.23 10:59:56.00  Durée 00:00:01.02  Lisibilité 16
+Jeanne.
+
+ 829: 10:59:57.09 11:00:00.17  Durée 00:00:03.08  Lisibilité 50
+Vous êtes jeune,
+vous pouvez avoir un enfant à vous.
+
+ 830: 11:00:01.14 11:00:04.15  Durée 00:00:03.01  Lisibilité 46
+Vous ne comprenez pas,
+vous ne savez pas ce que é.
+
+ 831: 11:00:04.19 11:00:07.12  Durée 00:00:02.18  Lisibilité 41
+J'ai tremblé de peur
+qu'il meure de la méningite,
+
+ 832: 11:00:07.16 11:00:10.19  Durée 00:00:03.03  Lisibilité 47
+je l'ai consolé quand il a eu
+son 1er chagrin d'amour,
+
+ 833: 11:00:10.23 11:00:13.17  Durée 00:00:02.19  Lisibilité 41
+je me suis battue
+pour qu'il aille à l'école.
+
+ 834: 11:00:13.22 11:00:16.23  Durée 00:00:03.01  Lisibilité 46
+Vous êtes comme les autres,
+vous ne pensez qu'à vous.
+
+ 835: 11:00:18.14 11:00:21.17  Durée 00:00:03.03  Lisibilité 47
+Depuis que je suis née,
+on décide de ma vie pour moi.
+
+ 836: 11:00:21.22 11:00:23.18  Durée 00:00:01.21  Lisibilité 28
+Maintenant, é fini, ça.
+
+ 837: 11:00:24.08 11:00:25.18  Durée 00:00:01.10  Lisibilité 21
+Adieu, Jeanne.
+
+ 838: 11:00:38.09 11:00:39.05  Durée 00:00:00.21  Lisibilité 13
+Tu lui as parlé?
+
+ 839: 11:00:39.22 11:00:41.14  Durée 00:00:01.17  Lisibilité 25
+Elle veut récupérer Paul.
+
+ 840: 11:00:41.18 11:00:44.13  Durée 00:00:02.20  Lisibilité 42
+- Tu ne vas pas te laisser faire.
+- Ils t'ont libérée?
+
+ 841: 11:00:45.03 11:00:48.00  Durée 00:00:02.22  Lisibilité 43
+Sim. L'insolence n'est pas encore
+passible de guillotine.
+
+ 842: 11:00:49.10 11:00:50.20  Durée 00:00:01.10  Lisibilité 21
+Vas-y, on est au dessert.
+
+ 843: 11:00:50.24 11:00:52.23  Durée 00:00:01.24  Lisibilité 29
+Demain,
+j'aurai besoin de ton talent.
+
+ 844: 11:00:58.01 11:00:59.10  Durée 00:00:01.09  Lisibilité 20
+J'envoie les poires.
+
+ 845: 11:01:01.06 11:01:02.23  Durée 00:00:01.17  Lisibilité 25
+L'homme qui est mort,
+
+ 846: 11:01:04.06 11:01:06.17  Durée 00:00:02.11  Lisibilité 37
+c'était le seul à savoir
+où était Paul.
+
+ 847: 11:01:07.17 11:01:10.11  Durée 00:00:02.19  Lisibilité 41
+J'ai perdu toute chance
+de le retrouver en vie.
+
+ 848: 11:01:13.17 11:01:16.17  Durée 00:00:03.00  Lisibilité 45
+Cette fois, il est temps
+que tu me racontes tout.
+
+ 849: 11:01:18.18 11:01:19.24  Durée 00:00:01.06  Lisibilité 19
+Le dîner sera surveillé,
+
+ 850: 11:01:20.03 11:01:22.12  Durée 00:00:02.09  Lisibilité 35
+il leur fallait
+quelqu'un de l'intérieur
+
+ 851: 11:01:22.16 11:01:25.00  Durée 00:00:02.09  Lisibilité 35
+sur qui ils puissent avoir
+un moyen de pression.
+
+ 852: 11:01:25.04 11:01:26.20  Durée 00:00:01.16  Lisibilité 25
+Quoi de mieux qu'un enfant?
+
+ 853: 11:01:27.10 11:01:29.15  Durée 00:00:02.05  Lisibilité 33
+Tu ne vas quand même pas
+tuer quelqu'un?
+
+ 854: 11:01:32.03 11:01:33.24  Durée 00:00:01.21  Lisibilité 28
+Je n'ai pas le choix.
+
+ 855: 11:01:50.19 11:01:53.11  Durée 00:00:02.17  Lisibilité 40
+Jour J
+
+ 856: 11:02:42.07 11:02:43.24  Durée 00:00:01.17  Lisibilité 25
+#Qu'est-ce que é que ça?#
+
+ 857: 11:02:47.03 11:02:48.24  Durée 00:00:01.21  Lisibilité 28
+Mais... Enfin.
+
+ 858: 11:02:58.04 11:02:59.14  Durée 00:00:01.10  Lisibilité 21
+Voilà.
+
+ 859: 11:03:00.03 11:03:02.04  Durée 00:00:02.01  Lisibilité 31
+Tu es très beau avec et sans.
+
+ 860: 11:03:16.03 11:03:18.05  Durée 00:00:02.02  Lisibilité 31
+Attends, t'as une toile d'araignée.
+
+ 861: 11:03:27.04 11:03:28.01  Durée 00:00:00.22  Lisibilité 13
+Rose.
+
+ 862: 11:03:28.05 11:03:29.17  Durée 00:00:01.12  Lisibilité 22
+Ce type, c'était qui?
+
+ 863: 11:03:29.21 11:03:30.22  Durée 00:00:01.01  Lisibilité 16
+Le duc de Rouvray.
+
+ 864: 11:03:31.02 11:03:32.08  Durée 00:00:01.06  Lisibilité 19
+Il a enlevé Paul.
+
+ 865: 11:03:32.13 11:03:34.11  Durée 00:00:01.23  Lisibilité 29
+Qu'est-ce que tu racontes?
+
+ 866: 11:03:34.15 11:03:36.08  Durée 00:00:01.18  Lisibilité 26
+Tu ne t'es rendu compte de rien?
+
+ 867: 11:03:36.12 11:03:39.10  Durée 00:00:02.23  Lisibilité 44
+Não. On s'est vus pour la bagatelle.
+
+ 868: 11:03:39.15 11:03:42.15  Durée 00:00:03.00  Lisibilité 45
+Il s'est servi de toi.
+Qu'est-ce que tu lui as dit?
+
+ 869: 11:03:42.19 11:03:44.03  Durée 00:00:01.09  Lisibilité 20
+Rien, je te jure.
+
+ 870: 11:03:46.08 11:03:48.08  Durée 00:00:02.00  Lisibilité 30
+Il faut que je parle au commissaire.
+
+ 871: 11:03:51.07 11:03:52.15  Durée 00:00:01.08  Lisibilité 20
+Il avait l'air gentil.
+
+ 872: 11:03:59.06 11:04:02.08  Durée 00:00:03.02  Lisibilité 46
+- Il faut que je téléphone.
+- Et moi, je veux aller en Italie.
+
+ 873: 11:04:02.12 11:04:04.08  Durée 00:00:01.21  Lisibilité 28
+Ah, Rome, Florence! J'en rêve.
+
+ 874: 11:04:04.12 11:04:08.07  Durée 00:00:03.20  Lisibilité 57
+- Je dois parler au commissaire.
+- On baisse d'un ton, jeune fille.
+
+ 875: 11:04:08.12 11:04:10.05  Durée 00:00:01.18  Lisibilité 26
+Il est là, votre commissaire.
+
+ 876: 11:04:12.16 11:04:15.01  Durée 00:00:02.10  Lisibilité 36
+Livrez-moi à la police,
+et mon homme tuera Paul.
+
+ 877: 11:04:16.00 11:04:17.22  Durée 00:00:01.22  Lisibilité 28
+Je nierai toute implication
+
+ 878: 11:04:20.08 11:04:23.09  Durée 00:00:03.01  Lisibilité 46
+et vous dénoncerai, vous,
+comme complice des Serbes.
+
+ 879: 11:04:24.04 11:04:25.14  Durée 00:00:01.10  Lisibilité 21
+J'ai cru comprendre
+
+ 880: 11:04:25.19 11:04:28.08  Durée 00:00:02.14  Lisibilité 38
+que le commissaire vous
+soupçonnait personnellement.
+
+ 881: 11:04:28.12 11:04:30.08  Durée 00:00:01.21  Lisibilité 28
+Vous êtes coincée, mademoiselle.
+
+ 882: 11:04:30.13 11:04:33.06  Durée 00:00:02.18  Lisibilité 41
+Alors, monsieur le duc,
+é le grand jour.
+
+ 883: 11:04:33.10 11:04:36.03  Durée 00:00:02.18  Lisibilité 41
+J'ai une petite question
+pour le plan de table.
+
+ 884: 11:04:36.08 11:04:38.24  Durée 00:00:02.16  Lisibilité 40
+Mon petit, quelle mine épouvantable.
+
+ 885: 11:04:39.14 11:04:40.21  Durée 00:00:01.07  Lisibilité 19
+Si ce dîner représente
+
+ 886: 11:04:41.01 11:04:44.05  Durée 00:00:03.04  Lisibilité 47
+trop de pression pour vous,
+Escoffier va vous remplacer.
+
+ 887: 11:04:44.10 11:04:45.09  Durée 00:00:00.24  Lisibilité 14
+Não, ça va.
+
+ 888: 11:04:45.13 11:04:47.06  Durée 00:00:01.18  Lisibilité 26
+Je vous assure que ça va très bien.
+
+ 889: 11:04:47.10 11:04:48.21  Durée 00:00:01.11  Lisibilité 22
+De quoi est-il question?
+
+ 890: 11:04:49.17 11:04:52.18  Durée 00:00:03.01  Lisibilité 46
+Mademoiselle Jeanne Vasseur,
+une saucière remarquable,
+
+ 891: 11:04:52.22 11:04:55.10  Durée 00:00:02.13  Lisibilité 38
+qui ne va pas pouvoir
+nous régaler ce soir.
+
+ 892: 11:04:55.15 11:04:57.03  Durée 00:00:01.13  Lisibilité 23
+Elle a des problèmes personnels.
+
+ 893: 11:04:57.08 11:04:59.05  Durée 00:00:01.22  Lisibilité 28
+On a des nouvelles du petit Pierre?
+
+ 894: 11:04:59.09 11:05:00.21  Durée 00:00:01.12  Lisibilité 22
+- Paul.
+- Não.
+
+ 895: 11:05:01.00 11:05:03.11  Durée 00:00:02.11  Lisibilité 37
+Quel dommage.
+Escoffier m'a vanté vos mérites.
+
+ 896: 11:05:04.24 11:05:06.11  Durée 00:00:01.12  Lisibilité 22
+On ne peut pas s'en passer.
+
+ 897: 11:05:06.16 11:05:11.06  Durée 00:00:04.15  Lisibilité 69
+Comme je le disais à M. Ritz,
+je me sens très inspirée aujourd'hui.
+
+ 898: 11:05:12.02 11:05:15.11  Durée 00:00:03.09  Lisibilité 50
+Cette jeune femme sera indispensable
+à la perfection du dîner.
+
+ 899: 11:05:15.16 11:05:18.01  Durée 00:00:02.10  Lisibilité 36
+Remerciez M.le duc,
+vous avez trouvé là
+
+ 900: 11:05:18.05 11:05:19.17  Durée 00:00:01.12  Lisibilité 22
+un défenseur très en verve.
+
+ 901: 11:05:22.13 11:05:24.21  Durée 00:00:02.08  Lisibilité 35
+Puisque vous y tenez, en cuisine.
+
+ 902: 11:05:27.00 11:05:29.10  Durée 00:00:02.10  Lisibilité 36
+Monsieur le commissaire,
+j'ai besoin de vous.
+
+ 903: 11:05:29.14 11:05:32.17  Durée 00:00:03.03  Lisibilité 47
+Votre enquête peut attendre,
+mais certainement pas nous.
+
+ 904: 11:05:38.11 11:05:39.16  Durée 00:00:01.05  Lisibilité 18
+Ça va?
+
+ 905: 11:05:40.14 11:05:41.16  Durée 00:00:01.02  Lisibilité 16
+Tu tiens le coup?
+
+ 906: 11:05:41.20 11:05:43.11  Durée 00:00:01.16  Lisibilité 25
+Enfin. Mets-moi ça dans la cave.
+
+ 907: 11:05:44.11 11:05:45.22  Durée 00:00:01.11  Lisibilité 22
+- Ça va, Jeanne?
+- Sim, chef.
+
+ 908: 11:05:46.12 11:05:49.01  Durée 00:00:02.14  Lisibilité 38
+Allez, en place dans 30 minutes.
+Qu'il est nigaud!
+
+ 909: 11:05:49.05 11:05:50.10  Durée 00:00:01.05  Lisibilité 18
+Pardon, chef. Obrigado.
+
+ 910: 11:05:51.07 11:05:53.24  Durée 00:00:02.17  Lisibilité 40
+Comme si c'était le moment
+de vider la réserve.
+
+ 911: 11:05:54.04 11:05:56.21  Durée 00:00:02.17  Lisibilité 40
+É sûr, qu'elles gênaient,
+au grenier.
+
+ 912: 11:05:57.16 11:05:59.05  Durée 00:00:01.14  Lisibilité 23
+#Tu as une toile d'araignée.#
+
+ 913: 11:06:16.08 11:06:17.08  Durée 00:00:01.00  Lisibilité 15
+Que fais-tu là?
+
+ 914: 11:06:18.12 11:06:20.13  Durée 00:00:02.01  Lisibilité 31
+Il ne fallait pas me jeter.
+
+ 915: 11:06:26.00 11:06:27.02  Durée 00:00:01.02  Lisibilité 16
+Laisse-moi passer.
+
+ 916: 11:06:27.06 11:06:28.09  Durée 00:00:01.03  Lisibilité 17
+Tu ne peux pas.
+
+ 917: 11:06:31.17 11:06:32.18  Durée 00:00:01.01  Lisibilité 16
+Paul.
+
+ 918: 11:06:32.22 11:06:33.24  Durée 00:00:01.02  Lisibilité 16
+Paul.
+
+ 919: 11:06:45.17 11:06:47.01  Durée 00:00:01.09  Lisibilité 20
+Arthur,
+
+ 920: 11:06:47.05 11:06:50.01  Durée 00:00:02.21  Lisibilité 43
+tu te posteras dehors,
+à côté de cette fenêtre.
+
+ 921: 11:06:50.05 11:06:53.01  Durée 00:00:02.21  Lisibilité 43
+- Bien, commissaire.
+- Pierre surveillera les entrées.
+
+ 922: 11:06:54.08 11:06:56.02  Durée 00:00:01.19  Lisibilité 26
+Vous me changez toutes ces ampoules.
+
+ 923: 11:06:56.06 11:06:58.06  Durée 00:00:02.00  Lisibilité 30
+J'en veux des neuves.
+
+ 924: 11:06:58.10 11:07:01.24  Durée 00:00:03.14  Lisibilité 53
+Qu'elles n'éclatent pas en plein
+milieu de ce dîner de paix.
+
+ 925: 11:07:02.03 11:07:04.05  Durée 00:00:02.02  Lisibilité 31
+Les explosions sont proscrites.
+
+ 926: 11:07:04.10 11:07:05.17  Durée 00:00:01.07  Lisibilité 19
+Armand, vous êtes prêts?
+
+ 927: 11:07:05.22 11:07:08.04  Durée 00:00:02.07  Lisibilité 34
+Je compte sur vous:
+de la discrétion.
+
+ 928: 11:07:08.09 11:07:11.02  Durée 00:00:02.18  Lisibilité 41
+Ne vous inquiétez pas.
+Le monde évitera le chaos
+
+ 929: 11:07:11.06 11:07:13.24  Durée 00:00:02.18  Lisibilité 41
+mais vos habitués n'en ressentiront
+aucune secousse.
+
+ 930: 11:07:16.00 11:07:20.00  Durée 00:00:04.00  Lisibilité 60
+Si j'organisais un immense
+lâcher de colombes?
+
+ 931: 11:07:27.17 11:07:30.07  Durée 00:00:02.15  Lisibilité 39
+- Paul.
+- Maman.
+
+ 932: 11:07:30.24 11:07:32.00  Durée 00:00:01.01  Lisibilité 16
+Paul.
+
+ 933: 11:07:33.22 11:07:34.18  Durée 00:00:00.21  Lisibilité 13
+#Maman.#
+
+ 934: 11:07:40.00 11:07:40.23  Durée 00:00:00.23  Lisibilité 14
+Ne t'approche pas.
+
+ 935: 11:07:41.22 11:07:43.18  Durée 00:00:01.21  Lisibilité 28
+- Comment t'as pu faire ça?
+- Maman.
+
+ 936: 11:07:43.23 11:07:47.18  Durée 00:00:03.20  Lisibilité 57
+Tu lui racontais des histoires
+pour l'endormir, tu jouais avec lui.
+
+ 937: 11:07:47.22 11:07:50.15  Durée 00:00:02.18  Lisibilité 41
+Toi, comment t'as pu ficher
+notre histoire en l'air?
+
+ 938: 11:07:57.22 11:07:59.08  Durée 00:00:01.11  Lisibilité 22
+Tu me fais payer, é ça?
+
+ 939: 11:08:03.09 11:08:05.04  Durée 00:00:01.20  Lisibilité 27
+S'il te plaît, Jules,
+
+ 940: 11:08:05.09 11:08:07.02  Durée 00:00:01.18  Lisibilité 26
+laisse-le partir.
+
+ 941: 11:08:08.06 11:08:10.04  Durée 00:00:01.23  Lisibilité 29
+Il n'a rien à faire dans tout ça.
+
+ 942: 11:08:11.11 11:08:13.21  Durée 00:00:02.10  Lisibilité 36
+Fais ce qu'on te dit,
+il s'en sortira.
+
+ 943: 11:08:14.16 11:08:16.15  Durée 00:00:01.24  Lisibilité 29
+Qu'est-ce qu'elle fout là, elle?
+
+ 944: 11:08:18.11 11:08:19.22  Durée 00:00:01.11  Lisibilité 22
+Toi, tu ne la lâches pas.
+
+ 945: 11:08:21.06 11:08:22.22  Durée 00:00:01.16  Lisibilité 25
+Tu sais ce que t'as à faire,
+sinon...
+
+ 946: 11:08:26.07 11:08:27.09  Durée 00:00:01.02  Lisibilité 16
+Ça va bien se passer.
+
+ 947: 11:08:27.14 11:08:29.08  Durée 00:00:01.19  Lisibilité 26
+Ne t'inquiète pas, Paul.
+
+ 948: 11:08:29.18 11:08:32.02  Durée 00:00:02.09  Lisibilité 35
+- J'arrive.
+- Maman.
+
+ 949: 11:08:34.09 11:08:35.04  Durée 00:00:00.20  Lisibilité 12
+Tu l'as?
+
+ 950: 11:08:40.16 11:08:44.23  Durée 00:00:04.07  Lisibilité 64
+- Je peux vous parler?
+- Pourquoi, vous avez du nouveau?
+
+ 951: 11:08:45.03 11:08:46.20  Durée 00:00:01.17  Lisibilité 25
+J'ai besoin de vous voir, seule.
+
+ 952: 11:08:58.02 11:08:59.20  Durée 00:00:01.18  Lisibilité 26
+- Que faites-vous avec lui?
+- É fini.
+
+ 953: 11:09:01.10 11:09:03.02  Durée 00:00:01.17  Lisibilité 25
+Não, je veux dire là, maintenant.
+
+ 954: 11:09:04.22 11:09:05.19  Durée 00:00:00.22  Lisibilité 13
+Vous vouliez me voir?
+
+ 955: 11:09:07.00 11:09:09.09  Durée 00:00:02.09  Lisibilité 35
+On a arrêté un des hommes
+des portraits-robots.
+
+ 956: 11:09:09.13 11:09:11.11  Durée 00:00:01.23  Lisibilité 29
+Il avait un billet demain
+pour Belgrade.
+
+ 957: 11:09:12.03 11:09:13.20  Durée 00:00:01.17  Lisibilité 25
+Il va se passer quoi, ce soir?
+
+ 958: 11:09:13.24 11:09:15.18  Durée 00:00:01.19  Lisibilité 26
+Posez-lui la question, alors.
+
+ 959: 11:09:15.23 11:09:18.14  Durée 00:00:02.16  Lisibilité 40
+Il est mort.
+Il s'est pendu dans sa cellule.
+
+ 960: 11:09:19.18 11:09:22.16  Durée 00:00:02.23  Lisibilité 44
+Eh ben, é ballot.
+Il faut que j'aille travailler.
+
+ 961: 11:09:29.15 11:09:30.16  Durée 00:00:01.01  Lisibilité 16
+Rose.
+
+ 962: 11:09:33.09 11:09:34.11  Durée 00:00:01.02  Lisibilité 16
+Rose.
+
+ 963: 11:09:36.07 11:09:38.08  Durée 00:00:02.01  Lisibilité 31
+- Je sais où est Paul.
+- Quoi?
+
+ 964: 11:09:44.12 11:09:46.22  Durée 00:00:02.10  Lisibilité 36
+Jules? Ce n'est pas possible.
+
+ 965: 11:09:48.00 11:09:49.02  Durée 00:00:01.02  Lisibilité 16
+Et le commissaire?
+
+ 966: 11:09:49.06 11:09:50.22  Durée 00:00:01.16  Lisibilité 25
+Si je lui parle, ils vont le tuer.
+
+ 967: 11:09:51.01 11:09:53.18  Durée 00:00:02.17  Lisibilité 40
+- Ils sont combien, là-haut?
+- Un seul homme.
+
+ 968: 11:09:55.19 11:09:57.00  Durée 00:00:01.06  Lisibilité 19
+Il est courageux, Paul.
+
+ 969: 11:09:57.04 11:09:58.24  Durée 00:00:01.20  Lisibilité 27
+Ce n'est pas ça qui va le sauver.
+
+ 970: 11:10:02.14 11:10:05.03  Durée 00:00:02.14  Lisibilité 38
+Il y a un jeu qu'il faisait
+quand il avait peur
+
+ 971: 11:10:05.07 11:10:07.18  Durée 00:00:02.11  Lisibilité 37
+ou faire quelque chose
+qu'il n'aimait pas.
+
+ 972: 11:10:07.23 11:10:10.21  Durée 00:00:02.23  Lisibilité 44
+Il faisait comme si ça lui plaisait,
+
+ 973: 11:10:11.00 11:10:12.14  Durée 00:00:01.14  Lisibilité 23
+comme s'il n'avait pas peur.
+
+ 974: 11:10:14.16 11:10:17.09  Durée 00:00:02.18  Lisibilité 41
+Et l'émissaire, pourquoi
+il ne ferait pas comme si?
+
+ 975: 11:10:27.05 11:10:28.09  Durée 00:00:01.04  Lisibilité 17
+- Madeleine.
+- Sim.
+
+ 976: 11:10:28.13 11:10:30.08  Durée 00:00:01.20  Lisibilité 27
+La chambre de l'émissaire
+austro-hongrois?
+
+ 977: 11:10:30.12 11:10:31.16  Durée 00:00:01.04  Lisibilité 17
+Bien sûr.
+
+ 978: 11:10:34.05 11:10:36.03  Durée 00:00:01.23  Lisibilité 29
+- É juste là.
+- Obrigado.
+
+ 979: 11:10:56.19 11:10:59.09  Durée 00:00:02.15  Lisibilité 39
+Place Vendôme
+
+ 980: 11:11:15.20 11:11:17.23  Durée 00:00:02.03  Lisibilité 32
+Sa Majesté,
+le roi d'Italie Humbert Ier.
+
+ 981: 11:11:19.07 11:11:20.23  Durée 00:00:01.16  Lisibilité 25
+Qu'est-ce que vous fichez là?
+
+ 982: 11:11:21.13 11:11:23.04  Durée 00:00:01.16  Lisibilité 25
+Qui va surveiller Jeanne Vasseur?
+
+ 983: 11:11:23.08 11:11:25.01  Durée 00:00:01.18  Lisibilité 26
+Vous ne l'avez pas perdue?
+
+ 984: 11:11:25.05 11:11:26.11  Durée 00:00:01.06  Lisibilité 19
+Je vais la trouver.
+
+ 985: 11:11:28.17 11:11:30.23  Durée 00:00:02.06  Lisibilité 34
+Le chancelier Ludwig Karl Victor.
+
+ 986: 11:11:33.01 11:11:35.09  Durée 00:00:02.08  Lisibilité 35
+Le grand duc
+Paul Alexandrovitch Romanov.
+
+ 987: 11:11:37.03 11:11:39.09  Durée 00:00:02.06  Lisibilité 34
+Son Altesse le sultan Abdul Hamid II.
+
+ 988: 11:11:39.13 11:11:40.22  Durée 00:00:01.09  Lisibilité 20
+É un honneur.
+
+ 989: 11:11:41.01 11:11:43.11  Durée 00:00:02.10  Lisibilité 36
+Son Altesse royale
+Albert Edward VII.
+
+ 990: 11:11:43.15 11:11:44.20  Durée 00:00:01.05  Lisibilité 18
+É un honneur.
+
+ 991: 11:11:46.13 11:11:48.20  Durée 00:00:02.07  Lisibilité 34
+- Le duc de Rouvray.
+- É un honneur.
+
+ 992: 11:11:50.03 11:11:51.13  Durée 00:00:01.10  Lisibilité 21
+Monsieur, é un honneur.
+
+ 993: 11:11:53.11 11:11:55.05  Durée 00:00:01.19  Lisibilité 26
+Monsieur, é un honneur.
+
+ 994: 11:11:56.22 11:11:58.13  Durée 00:00:01.16  Lisibilité 25
+- Monsieur le ministre.
+- Monsieur Ritz,
+
+ 995: 11:11:58.17 11:12:01.18  Durée 00:00:03.01  Lisibilité 46
+que ce lieu magnifique inspire
+à tous des pensées pacifiques.
+
+ 996: 11:12:17.00 11:12:19.02  Durée 00:00:02.02  Lisibilité 31
+On peut savoir
+ce que vous manigancez?
+
+ 997: 11:12:21.01 11:12:22.02  Durée 00:00:01.01  Lisibilité 16
+Suivez-moi.
+
+ 998: 11:12:23.02 11:12:25.10  Durée 00:00:02.08  Lisibilité 35
+Qu'est-ce que vous lui voulez,
+à l'émissaire?
+
+ 999: 11:12:25.14 11:12:27.21  Durée 00:00:02.07  Lisibilité 34
+Jeanne,
+vous avez de nouvelles informations?
+
+1000: 11:12:30.07 11:12:31.20  Durée 00:00:01.13  Lisibilité 23
+J'ai retrouvé Paul.
+
+1001: 11:12:31.24 11:12:32.22  Durée 00:00:00.23  Lisibilité 14
+Mon fils?
+
+1002: 11:12:33.15 11:12:35.02  Durée 00:00:01.12  Lisibilité 22
+Mais é merveilleux.
+
+1003: 11:12:37.12 11:12:41.24  Durée 00:00:04.12  Lisibilité 67
+Albertine, la vie de Paul est ici,
+avec moi.
+
+1004: 11:12:43.00 11:12:44.18  Durée 00:00:01.18  Lisibilité 26
+Je vous propose un marché.
+
+1005: 11:12:44.22 11:12:47.02  Durée 00:00:02.05  Lisibilité 33
+Il reste ici
+et vous pouvez venir le voir.
+
+1006: 11:12:48.00 11:12:49.10  Durée 00:00:01.10  Lisibilité 21
+Vous plaisantez?
+
+1007: 11:12:49.21 11:12:53.02  Durée 00:00:03.06  Lisibilité 49
+Je suis la comtesse d'Alencourt,
+fille du vicomte de Serres,
+
+1008: 11:12:53.06 11:12:55.16  Durée 00:00:02.10  Lisibilité 36
+vous êtes Jeanne Vasseur,
+une saucière.
+
+1009: 11:12:55.20 11:12:57.00  Durée 00:00:01.05  Lisibilité 18
+Ça sera vite vu.
+
+1010: 11:13:00.21 11:13:01.23  Durée 00:00:01.02  Lisibilité 16
+Suivez-moi.
+
+1011: 11:13:04.22 11:13:06.16  Durée 00:00:01.19  Lisibilité 26
+Il est ici.
+
+1012: 11:13:06.20 11:13:08.09  Durée 00:00:01.14  Lisibilité 23
+Vous auriez envie de le voir.
+
+1013: 11:13:11.04 11:13:12.18  Durée 00:00:01.14  Lisibilité 23
+Allez-y.
+
+1014: 11:13:12.22 11:13:13.22  Durée 00:00:01.00  Lisibilité 15
+Paul.
+
+1015: 11:13:15.21 11:13:17.01  Durée 00:00:01.05  Lisibilité 18
+Paul.
+
+1016: 11:13:18.15 11:13:19.22  Durée 00:00:01.07  Lisibilité 19
+Não, Jeanne.
+
+1017: 11:13:22.21 11:13:24.06  Durée 00:00:01.10  Lisibilité 21
+Jeanne, ouvrez-moi.
+
+1018: 11:13:24.11 11:13:27.14  Durée 00:00:03.03  Lisibilité 47
+- Je vais partir avec lui.#
+- Je peux être une bonne mère.#
+
+1019: 11:13:27.18 11:13:29.11  Durée 00:00:01.18  Lisibilité 26
+Vous ne le reverrez plus jamais.
+
+1020: 11:13:29.15 11:13:33.15  Durée 00:00:04.00  Lisibilité 60
+#Paul est la seule chose de bien
+qui me soit arrivée dans la vie.#
+
+1021: 11:13:33.19 11:13:35.14  Durée 00:00:01.20  Lisibilité 27
+#S'il vous plaît, écoutez-moi.#
+
+1022: 11:13:35.19 11:13:40.17  Durée 00:00:04.23  Lisibilité 74
+Paul m'aimerait, é sûr.
+S'il vous plaît, Jeanne.
+
+1023: 11:13:42.22 11:13:45.10  Durée 00:00:02.13  Lisibilité 38
+#Jeanne, s'il vous plaît, ouvrez-moi.#
+
+1024: 11:13:45.14 11:13:48.22  Durée 00:00:03.08  Lisibilité 50
+Vous pouvez hurler, Albertine,
+ils sont tous en bas.
+
+1025: 11:13:49.01 11:13:50.14  Durée 00:00:01.13  Lisibilité 23
+#Não, Jeanne, s'il vous plaît.#
+
+1026: 11:13:50.19 11:13:51.22  Durée 00:00:01.03  Lisibilité 17
+Jeanne.
+
+1027: 11:13:54.03 11:13:55.23  Durée 00:00:01.20  Lisibilité 27
+Ils passent à table,
+vous êtes prêts?
+
+1028: 11:13:56.02 11:13:56.22  Durée 00:00:00.20  Lisibilité 12
+Sim, chef.
+
+1029: 11:13:57.02 11:14:00.14  Durée 00:00:03.12  Lisibilité 52
+Messieurs, le monde entier
+nous regarde et je compte sur vous.
+
+1030: 11:14:00.18 11:14:02.06  Durée 00:00:01.13  Lisibilité 23
+- Est-ce clair?
+- Sim, chef.
+
+1031: 11:14:02.10 11:14:03.17  Durée 00:00:01.07  Lisibilité 19
+On envoie le velouté.
+
+1032: 11:14:05.07 11:14:07.20  Durée 00:00:02.13  Lisibilité 38
+En filet, la daurade.
+Tournez-moi ces cailles.
+
+1033: 11:14:14.19 11:14:15.14  Durée 00:00:00.20  Lisibilité 12
+É à mourir.
+
+1034: 11:14:16.16 11:14:18.01  Durée 00:00:01.10  Lisibilité 21
+Tu me donneras la recette.
+
+1035: 11:14:33.08 11:14:34.08  Durée 00:00:01.00  Lisibilité 15
+Chaud.
+
+1036: 11:14:39.11 11:14:40.18  Durée 00:00:01.07  Lisibilité 19
+Qu'est-ce que tu fais?
+
+1037: 11:14:40.22 11:14:43.03  Durée 00:00:02.06  Lisibilité 34
+Je ne vais pas faire ça
+devant tout le monde.
+
+1038: 11:14:43.07 11:14:45.11  Durée 00:00:02.04  Lisibilité 32
+- Il voulait quoi, le condé?
+- Rien.
+
+1039: 11:14:45.15 11:14:48.02  Durée 00:00:02.12  Lisibilité 37
+Tu vas me coller longtemps comme ça?
+
+1040: 11:14:54.16 11:14:55.16  Durée 00:00:01.00  Lisibilité 15
+Allez, grouille.
+
+1041: 11:14:59.03 11:15:00.09  Durée 00:00:01.06  Lisibilité 19
+Merde.
+
+1042: 11:15:00.13 11:15:01.19  Durée 00:00:01.06  Lisibilité 19
+J'annonce les cailles.
+
+1043: 11:15:07.00 11:15:08.04  Durée 00:00:01.04  Lisibilité 17
+Magne-toi, là.
+
+1044: 11:15:10.05 11:15:11.21  Durée 00:00:01.16  Lisibilité 25
+#Je cherche Jeanne Vasseur.#
+
+1045: 11:15:17.04 11:15:18.24  Durée 00:00:01.20  Lisibilité 27
+- Que cachez-vous?
+- Rien.
+
+1046: 11:15:19.22 11:15:21.10  Durée 00:00:01.13  Lisibilité 23
+Qu'est-ce qu'il y a là-dedans?
+
+1047: 11:15:26.10 11:15:27.12  Durée 00:00:01.02  Lisibilité 16
+Mais tu l'as tué.
+
+1048: 11:15:28.05 11:15:29.05  Durée 00:00:01.00  Lisibilité 15
+Allez, bouge.
+
+1049: 11:16:16.11 11:16:17.15  Durée 00:00:01.04  Lisibilité 17
+Il y a quelqu'un?
+
+1050: 11:16:19.22 11:16:21.01  Durée 00:00:01.04  Lisibilité 17
+Vous m'entendez?
+
+1051: 11:16:23.00 11:16:24.13  Durée 00:00:01.13  Lisibilité 23
+Vous m'entendez?
+
+1052: 11:16:27.13 11:16:30.02  Durée 00:00:02.14  Lisibilité 38
+- É sale. Bertrand, nettoie ça.
+- Sim, chef.
+
+1053: 11:16:32.02 11:16:34.01  Durée 00:00:01.24  Lisibilité 29
+- Feu doux sous les écrevisses.
+- Bien.
+
+1054: 11:16:36.09 11:16:37.19  Durée 00:00:01.10  Lisibilité 21
+Les petits pois, é bien.
+
+1055: 11:16:40.08 11:16:41.03  Durée 00:00:00.20  Lisibilité 12
+Sim, chef.
+
+1056: 11:16:41.07 11:16:44.01  Durée 00:00:02.19  Lisibilité 41
+Attention que le sucre ne mange pas
+le goût du chocolat.
+
+1057: 11:16:44.06 11:16:45.20  Durée 00:00:01.14  Lisibilité 23
+Bien, chef.
+
+1058: 11:16:46.00 11:16:48.20  Durée 00:00:02.20  Lisibilité 42
+- Les saucières pour les cailles.
+- Sim, chef.
+
+1059: 11:16:48.24 11:16:50.01  Durée 00:00:01.02  Lisibilité 16
+On enlève.
+
+1060: 11:16:54.14 11:16:55.17  Durée 00:00:01.03  Lisibilité 17
+Régime sans sel.
+
+1061: 11:17:24.12 11:17:26.07  Durée 00:00:01.20  Lisibilité 27
+Je ne sais pas.
+
+1062: 11:17:39.13 11:17:40.20  Durée 00:00:01.07  Lisibilité 19
+Que me voulez-vous?
+
+1063: 11:17:44.03 11:17:45.22  Durée 00:00:01.19  Lisibilité 26
+Arrêtez-vous.
+
+1064: 11:18:03.01 11:18:05.10  Durée 00:00:02.09  Lisibilité 35
+Faites-lui des adieux,
+nous sommes pressés.
+
+1065: 11:18:06.22 11:18:08.19  Durée 00:00:01.22  Lisibilité 28
+É vrai que é ma vraie mère?
+
+1066: 11:18:09.11 11:18:13.09  Durée 00:00:03.23  Lisibilité 59
+Sim, é vrai mon amour.
+Albertine, pensez à lui.
+
+1067: 11:18:13.14 11:18:16.15  Durée 00:00:03.01  Lisibilité 46
+Vous l'avez eu longtemps,
+é à mon tour maintenant.
+
+1068: 11:18:16.20 11:18:18.07  Durée 00:00:01.12  Lisibilité 22
+Hein, mon chéri?
+
+1069: 11:18:18.11 11:18:20.22  Durée 00:00:02.11  Lisibilité 37
+Mon chéri,
+on va être heureux, tous les deux.
+
+1070: 11:18:21.01 11:18:23.05  Durée 00:00:02.04  Lisibilité 32
+Je te promets, on va être heureux.
+
+1071: 11:18:29.23 11:18:30.23  Durée 00:00:01.00  Lisibilité 15
+Divine, cette sauce.
+
+1072: 11:19:12.07 11:19:13.14  Durée 00:00:01.07  Lisibilité 19
+Jeanne, elle est où?
+
+1073: 11:19:13.18 11:19:15.12  Durée 00:00:01.19  Lisibilité 26
+Je ne sais pas, pourquoi?
+
+1074: 11:19:19.13 11:19:21.11  Durée 00:00:01.23  Lisibilité 29
+Aidez-moi à déboutonner son col.
+
+1075: 11:19:21.16 11:19:22.16  Durée 00:00:01.00  Lisibilité 15
+Un médecin, vite.
+
+1076: 11:19:27.12 11:19:28.14  Durée 00:00:01.02  Lisibilité 16
+Ventilez.
+
+1077: 11:19:30.17 11:19:31.24  Durée 00:00:01.07  Lisibilité 19
+Poussez-vous.
+
+1078: 11:19:33.00 11:19:35.14  Durée 00:00:02.14  Lisibilité 38
+Une voiture nous attend en bas.
+Il y a des jouets.
+
+1079: 11:19:36.15 11:19:38.14  Durée 00:00:01.24  Lisibilité 29
+Je ne veux pas de jouets,
+mais ma maman.
+
+1080: 11:19:38.18 11:19:40.20  Durée 00:00:02.02  Lisibilité 31
+Ça suffit,
+on ne t'a pas appris à obéir?
+
+1081: 11:19:45.20 11:19:46.20  Durée 00:00:01.00  Lisibilité 15
+Jeannette.
+
+1082: 11:19:47.00 11:19:48.21  Durée 00:00:01.21  Lisibilité 28
+Viens, chéri.
+
+1083: 11:19:49.01 11:19:50.07  Durée 00:00:01.06  Lisibilité 19
+Vite.
+
+1084: 11:19:50.12 11:19:52.13  Durée 00:00:02.01  Lisibilité 31
+- Tu vas être heureux avec moi.
+- Maman.
+
+1085: 11:19:52.18 11:19:53.18  Durée 00:00:01.00  Lisibilité 15
+Ne faites pas ça.
+
+1086: 11:19:55.12 11:19:56.17  Durée 00:00:01.05  Lisibilité 18
+Ne faites pas ça.
+
+1087: 11:19:58.05 11:20:01.05  Durée 00:00:03.00  Lisibilité 45
+- Vous n'êtes pas responsable de ça.
+- Je ne voulais pas.
+
+1088: 11:20:01.23 11:20:03.19  Durée 00:00:01.21  Lisibilité 28
+Je ne veux pas lui faire de mal.
+
+1089: 11:20:07.15 11:20:11.04  Durée 00:00:03.14  Lisibilité 53
+Je suis au courant de votre histoire,
+de ce que vous a fait votre père.
+
+1090: 11:20:16.04 11:20:18.04  Durée 00:00:02.00  Lisibilité 30
+Je ne voulais pas de ça.
+
+1091: 11:20:18.08 11:20:19.09  Durée 00:00:01.01  Lisibilité 16
+Je veux vous aider.
+
+1092: 11:20:19.24 11:20:21.07  Durée 00:00:01.08  Lisibilité 20
+Donnez-moi votre arme.
+
+1093: 11:20:26.22 11:20:28.04  Durée 00:00:01.07  Lisibilité 19
+Allez chercher les secours.
+
+1094: 11:20:51.09 11:20:52.16  Durée 00:00:01.07  Lisibilité 19
+- Ça va?
+- Ça va.
+
+1095: 11:20:54.03 11:20:58.06  Durée 00:00:04.03  Lisibilité 62
+On a aussi arrêté un complice
+de Rouvray, un certain Petrovitch,
+
+1096: 11:20:58.10 11:21:00.22  Durée 00:00:02.12  Lisibilité 37
+le frère de Matyas Wilczek.
+
+1097: 11:21:01.01 11:21:04.05  Durée 00:00:03.04  Lisibilité 47
+Il a reçu une grosse somme
+d'Albertine en échange de Paul.
+
+1098: 11:21:04.20 11:21:07.04  Durée 00:00:02.09  Lisibilité 35
+Rouvray? Il n'est même pas serbe.
+
+1099: 11:21:08.06 11:21:11.04  Durée 00:00:02.23  Lisibilité 44
+Pourquoi il a voulu
+tuer l'émissaire?
+
+1100: 11:21:11.08 11:21:12.17  Durée 00:00:01.09  Lisibilité 20
+Il est serbe par sa mère.
+
+1101: 11:21:14.00 11:21:16.17  Durée 00:00:02.17  Lisibilité 40
+Et solidaire de la Serbie
+contre les Austro-Hongrois.
+
+1102: 11:21:17.13 11:21:20.05  Durée 00:00:02.17  Lisibilité 40
+Si Rouvray avait réussi son coup,
+c'était la guerre.
+
+1103: 11:21:21.06 11:21:22.17  Durée 00:00:01.11  Lisibilité 22
+- Au revoir.
+- Au revoir.
+
+1104: 11:21:23.20 11:21:26.00  Durée 00:00:02.05  Lisibilité 33
+Et Wilczek, qui l'a tué?
+
+1105: 11:21:26.05 11:21:27.05  Durée 00:00:01.00  Lisibilité 15
+Rouvray.
+
+1106: 11:21:28.01 11:21:31.00  Durée 00:00:02.24  Lisibilité 44
+Il a peur qu'il ne finisse
+par trop en dire à Albertine.
+
+1107: 11:21:33.13 11:21:36.24  Durée 00:00:03.11  Lisibilité 52
+Albertine, à un moment,
+vous lui avez parlé de son père.
+
+1108: 11:21:38.05 11:21:40.02  Durée 00:00:01.22  Lisibilité 28
+Sa mère est morte en couches,
+son père,
+
+1109: 11:21:40.06 11:21:44.07  Durée 00:00:04.01  Lisibilité 61
+le vicomte de Serres
+l'a toujours tenue pour responsable.
+
+1110: 11:21:44.11 11:21:45.24  Durée 00:00:01.13  Lisibilité 23
+Elle était son souffre-douleur.
+
+1111: 11:21:47.09 11:21:48.11  Durée 00:00:01.02  Lisibilité 16
+La pauvre.
+
+1112: 11:21:50.23 11:21:53.20  Durée 00:00:02.22  Lisibilité 43
+Finalement, vous n'êtes pas
+si mauvais pour un aristo.
+
+1113: 11:21:59.22 11:22:02.03  Durée 00:00:02.06  Lisibilité 34
+Ça va, mon chat?
+É bon?
+
+1114: 11:22:03.23 11:22:05.19  Durée 00:00:01.21  Lisibilité 28
+Elle est où, la dame
+qui t'a blessée?
+
+1115: 11:22:06.10 11:22:09.20  Durée 00:00:03.10  Lisibilité 51
+Je n'ai pas envie d'aller avec elle.
+J'ai envie de rester avec toi.
+
+1116: 11:22:10.00 11:22:11.16  Durée 00:00:01.16  Lisibilité 25
+Moi aussi, mon chat.
+
+1117: 11:22:12.14 11:22:13.19  Durée 00:00:01.05  Lisibilité 18
+Tu ne vas pas t'en aller?
+
+1118: 11:22:13.24 11:22:15.20  Durée 00:00:01.21  Lisibilité 28
+Não, je ne peux pas fuir,
+
+1119: 11:22:15.24 11:22:18.14  Durée 00:00:02.15  Lisibilité 39
+obliger Paul à vivre caché
+tout le temps.
+
+1120: 11:22:21.22 11:22:22.23  Durée 00:00:01.01  Lisibilité 16
+Jeanne.
+
+1121: 11:22:23.02 11:22:26.00  Durée 00:00:02.23  Lisibilité 44
+Jeanne, l'émissaire austro-hongrois
+désire vous parler.
+
+1122: 11:22:29.07 11:22:30.11  Durée 00:00:01.04  Lisibilité 17
+Je reviens.
+
+1123: 11:22:41.02 11:22:43.14  Durée 00:00:02.12  Lisibilité 37
+Madame, grâce à vous,
+on a échappé au pire.
+
+1124: 11:22:43.18 11:22:45.23  Durée 00:00:02.05  Lisibilité 33
+Vous pouvez me demander
+ce que vous voulez.
+
+1125: 11:22:48.13 11:22:50.09  Durée 00:00:01.21  Lisibilité 28
+Vous ne pouvez pas me le donner.
+
+1126: 11:23:08.07 11:23:10.16  Durée 00:00:02.09  Lisibilité 35
+Il faut qu'on parle de Paul.
+
+1127: 11:23:10.20 11:23:12.09  Durée 00:00:01.14  Lisibilité 23
+Vous ne pouvez pas lui faire ça.
+
+1128: 11:23:12.14 11:23:14.18  Durée 00:00:02.04  Lisibilité 32
+Nous avons pris notre décision,
+ma femme et moi.
+
+1129: 11:23:14.23 11:23:17.22  Durée 00:00:02.24  Lisibilité 44
+Albertine est très malade,
+elle a besoin de soins.
+
+1130: 11:23:18.02 11:23:22.15  Durée 00:00:04.13  Lisibilité 68
+Nous partons en Autriche. Il paraît 
+qu'il y a un certain Dr Freud
+
+1131: 11:23:22.19 11:23:25.09  Durée 00:00:02.15  Lisibilité 39
+qui fait des miracles
+sur les traumatismes féminins.
+
+1132: 11:23:27.11 11:23:28.19  Durée 00:00:01.08  Lisibilité 20
+Paul restera avec vous.
+
+1133: 11:23:34.14 11:23:36.14  Durée 00:00:02.00  Lisibilité 30
+On va rester ensemble, maman?
+
+1134: 11:23:37.06 11:23:38.06  Durée 00:00:01.00  Lisibilité 15
+Sim, mon amour.
+
+1135: 11:23:39.09 11:23:42.09  Durée 00:00:03.00  Lisibilité 45
+Sim, on va rester ensemble,
+pour toujours.
+
+1136: 11:25:09.20 11:25:11.05  Durée 00:00:01.10  Lisibilité 21
+Obrigado.
+
+1137: 11:25:11.09 11:25:12.19  Durée 00:00:01.10  Lisibilité 21
+Va te reposer maintenant.
+
+1138: 11:25:13.10 11:25:14.20  Durée 00:00:01.10  Lisibilité 21
+Messieurs, à vos postes.
+
+1139: 11:25:16.16 11:25:19.07  Durée 00:00:02.16  Lisibilité 40
+Il n'est pas passé,
+le commissaire Delamotte?
+
+1140: 11:25:19.11 11:25:20.20  Durée 00:00:01.09  Lisibilité 20
+Il a dû repartir.
+
+1141: 11:25:20.24 11:25:23.23  Durée 00:00:02.24  Lisibilité 44
+Je croyais qu'il avait
+une certaine affection pour vous.
+
+1142: 11:25:24.15 11:25:27.06  Durée 00:00:02.16  Lisibilité 40
+Vous n'aurez plus
+à vous inquiéter pour Paul.
+
+1143: 11:25:27.10 11:25:29.23  Durée 00:00:02.13  Lisibilité 38
+Ça ne sera plus un problème,
+je démissionne.
+
+1144: 11:25:30.02 11:25:33.01  Durée 00:00:02.24  Lisibilité 44
+L'émissaire m'a donné de l'argent,
+beaucoup d'argent,
+
+1145: 11:25:33.05 11:25:34.23  Durée 00:00:01.18  Lisibilité 26
+et en mettant de côté pour Paul,
+
+1146: 11:25:35.02 11:25:36.24  Durée 00:00:01.22  Lisibilité 28
+je peux encore ouvrir une guinguette.
+
+1147: 11:25:37.03 11:25:38.06  Durée 00:00:01.03  Lisibilité 17
+"Une guinguette"?
+
+1148: 11:25:38.10 11:25:40.13  Durée 00:00:02.03  Lisibilité 32
+Et servir des pommes frites
+et du bouillon?
+
+1149: 11:25:40.18 11:25:41.15  Durée 00:00:00.22  Lisibilité 13
+Ben oui.
+
+1150: 11:25:41.19 11:25:44.03  Durée 00:00:02.09  Lisibilité 35
+Puis j'y rajouterai des plats
+de mon invention.
+
+1151: 11:25:44.07 11:25:46.01  Durée 00:00:01.19  Lisibilité 26
+Não, j'ai une meilleure idée.
+
+1152: 11:25:46.06 11:25:48.15  Durée 00:00:02.09  Lisibilité 35
+Si on allait en discuter
+dans mon bureau.
+
+1153: 11:25:51.13 11:25:52.18  Durée 00:00:01.05  Lisibilité 18
+Une guinguette.
+
+1154: 11:25:52.22 11:25:54.04  Durée 00:00:01.07  Lisibilité 19
+Une guinguette.
+
+1155: 11:25:57.16 11:26:00.16  Durée 00:00:03.00  Lisibilité 45
+- Ça se passe bien?
+- É parfait, je vous remercie.
+
+1156: 11:26:06.21 11:26:09.24  Durée 00:00:03.03  Lisibilité 47
+Menu du jour
+par Jeanne Vasseur
+
+1157: 11:26:11.15 11:26:12.18  Durée 00:00:01.03  Lisibilité 17
+Monsieur.
+
+1158: 11:26:26.17 11:26:27.20  Durée 00:00:01.03  Lisibilité 17
+Très bien, monsieur.
+
+1159: 11:26:28.00 11:26:29.17  Durée 00:00:01.17  Lisibilité 25
+On envoie les canetons.
+
+1160: 11:26:30.11 11:26:31.12  Durée 00:00:01.01  Lisibilité 16
+Attends.
+
+1161: 11:26:34.15 11:26:36.23  Durée 00:00:02.08  Lisibilité 35
+Sur le devant. On envoie.
+
+1162: 11:26:37.02 11:26:38.02  Durée 00:00:01.00  Lisibilité 15
+Superbe, chef.
+
+1163: 11:26:39.13 11:26:40.19  Durée 00:00:01.06  Lisibilité 19
+J'envoie les tournedos.
+
+1164: 11:26:41.15 11:26:43.04  Durée 00:00:01.14  Lisibilité 23
+- Sim, chef.
+- Parfait.
+
+1165: 11:26:43.09 11:26:45.20  Durée 00:00:02.11  Lisibilité 37
+- Georges, ton fond de sauce.
+- J'arrive.
+
+1166: 11:26:45.24 11:26:48.14  Durée 00:00:02.15  Lisibilité 39
+Figure-toi que les petites
+cuillères sont revenues.
+
+1167: 11:26:49.10 11:26:51.05  Durée 00:00:01.20  Lisibilité 27
+Et la mienne, elle est pour toi.
+
+1168: 11:26:52.04 11:26:53.13  Durée 00:00:01.09  Lisibilité 20
+Obrigado, chef.
+
+1169: 11:26:55.16 11:26:57.14  Durée 00:00:01.23  Lisibilité 29
+- É cramé.
+- Sim, je sais.
+
+1170: 11:26:58.15 11:26:59.15  Durée 00:00:01.00  Lisibilité 15
+On envoie, chef?
+
+1171: 11:26:59.19 11:27:01.08  Durée 00:00:01.14  Lisibilité 23
+On envoie.
+
+1172: 11:27:01.12 11:27:03.08  Durée 00:00:01.21  Lisibilité 28
+Vous avez 2 minutes, mon petit?
+
+1173: 11:27:06.09 11:27:08.19  Durée 00:00:02.10  Lisibilité 36
+Un ami souhaite vous féliciter.
+
+1174: 11:27:08.23 11:27:11.12  Durée 00:00:02.14  Lisibilité 38
+Il aussi nigaud qu'il est brillant.
+
+1175: 11:27:15.01 11:27:16.01  Durée 00:00:01.00  Lisibilité 15
+É parfait.
+
+1176: 11:27:17.17 11:27:18.18  Durée 00:00:01.01  Lisibilité 16
+É vous?
+
+1177: 11:27:21.15 11:27:24.04  Durée 00:00:02.14  Lisibilité 38
+Vous étiez différent
+quand vous me soupçonniez.
+
+1178: 11:27:24.08 11:27:26.08  Durée 00:00:02.00  Lisibilité 30
+Vous êtes une célébrité, maintenant.
+
+1179: 11:27:26.12 11:27:28.10  Durée 00:00:01.23  Lisibilité 29
+César m'a dit, pour votre promotion.
+
+1180: 11:27:30.07 11:27:31.18  Durée 00:00:01.11  Lisibilité 22
+Toutes mes félicitations.
+
+1181: 11:27:31.23 11:27:34.01  Durée 00:00:02.03  Lisibilité 32
+Je vous laisse savourer la suite.
+
+1182: 11:27:41.19 11:27:44.02  Durée 00:00:02.08  Lisibilité 35
+Vous êtes parti vite,
+la dernière fois.
+
+1183: 11:27:44.06 11:27:47.01  Durée 00:00:02.20  Lisibilité 42
+Vous étiez fatiguée,
+et avec vos amis.
+
+1184: 11:27:47.05 11:27:49.24  Durée 00:00:02.19  Lisibilité 41
+- Émile, é ça?
+- Sim, Émile, oui.
+
+1185: 11:27:50.03 11:27:53.04  Durée 00:00:03.01  Lisibilité 46
+Mon second.
+Et mon meilleur ami, accessoirement.
+
+1186: 11:27:53.09 11:27:56.23  Durée 00:00:03.14  Lisibilité 53
+Ah. Ça, é bien.
+É bien.
+
+1187: 11:27:57.02 11:28:01.03  Durée 00:00:04.01  Lisibilité 61
+É bien de travailler avec
+ses amis, é plus agréable.
+
+1188: 11:28:01.07 11:28:03.12  Durée 00:00:02.05  Lisibilité 33
+Et plus productif.
+
+1189: 11:28:05.09 11:28:08.04  Durée 00:00:02.20  Lisibilité 42
+Et surtout quand ces amis
+ne sont que des amis.
+
+1190: 11:28:23.03 11:28:25.24  Durée 00:00:02.21  Lisibilité 43
+Un fils de duchesse et une saucière,
+on aura tout vu.
+
+1191: 11:28:26.14 11:28:29.13  Durée 00:00:02.24  Lisibilité 44
+Future première femme chef de France.
+
+1192: 11:28:29.17 11:28:32.01  Durée 00:00:02.09  Lisibilité 35
+Je suis content de mon idée,
+un 2e restaurant,
+
+1193: 11:28:32.05 11:28:35.09  Durée 00:00:03.04  Lisibilité 47
+quelque chose de moins guindé
+pour les clients de l'extérieur.
+
+1194: 11:28:35.13 11:28:38.08  Durée 00:00:02.20  Lisibilité 42
+Cette petite a le talent
+de relever le défi.
+
+1195: 11:28:38.13 11:28:40.21  Durée 00:00:02.08  Lisibilité 35
+Et comme ça, la concurrence
+reste chez vous.
+
+1196: 11:28:42.22 11:28:45.09  Durée 00:00:02.12  Lisibilité 37
+Mon hôtel a été déclaré
+plus beau palace du monde,
+
+1197: 11:28:45.13 11:28:48.15  Durée 00:00:03.02  Lisibilité 46
+et j'entends qu'il le reste
+encore un certain temps.
+
+1198: 11:30:01.04 11:30:03.16  Durée 00:00:02.12  Lisibilité 37
+Sous-titrage: ECLAIR
+
