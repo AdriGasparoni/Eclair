@@ -1,0 +1,1741 @@
+
+   1: 10:00:00.11 10:00:02.22  Duration 00:00:02.11  37
+Bom dia a todos.
+Bem-vindos a# L'épicerie.#
+
+   2: 10:00:33.07 10:00:34.20  Duration 00:00:01.13  23
+L'épicerie
+
+   3: 10:00:36.03 10:00:37.18  Duration 00:00:01.15  24
+Praça Jacques-Cartier,
+Montreal
+
+   4: 10:00:39.17 10:00:43.07  Duration 00:00:03.15  54
+#Estamos na Praça Jacques-Cartier
+na Velha Montreal,#
+
+   5: 10:00:43.12 10:00:44.18  Duration 00:00:01.06  19
+#ex-sítio ameríndio,#
+
+   6: 10:00:44.23 10:00:47.12  Duration 00:00:02.14  38
+#e há séculos,
+principal local de reunião#
+
+   7: 10:00:47.16 10:00:48.18  Duration 00:00:01.02  16
+#da Velha Montreal.#
+
+   8: 10:00:48.23 10:00:52.05  Duration 00:00:03.07  49
+#No início do séc. XIX,
+aqui tinha feiras.#
+
+   9: 10:00:52.12 10:00:55.17  Duration 00:00:03.05  48
+#Com os anos, o lugar ganhou
+uma vocação mais turística#
+
+  10: 10:00:55.22 10:00:59.05  Duration 00:00:03.08  50
+#com vários bares, restaurantes
+e animadores.#
+
+  11: 10:00:59.16 10:01:00.19  Duration 00:00:01.03  17
+No menu de hoje:
+
+  12: 10:01:00.23 10:01:04.06  Duration 00:00:03.08  50
+au Quebec, fazem alho negro,
+manteigas artesanais
+
+  13: 10:01:04.10 10:01:07.15  Duration 00:00:03.05  48
+e agora cultivam ruibarbo
+5 meses por ano
+
+  14: 10:01:07.19 10:01:09.19  Duration 00:00:02.00  30
+para o maior deleite dos chefs.
+
+  15: 10:01:12.01 10:01:14.09  Duration 00:00:02.08  35
+#Elegante, afilado,#
+
+  16: 10:01:14.15 10:01:17.14  Duration 00:00:02.24  44
+#o ruibarbo se embeleza,
+mas não só no verão.#
+
+  17: 10:01:19.01 10:01:21.09  Duration 00:00:02.08  35
+#Ele nos chama
+por mais uns meses,#
+
+  18: 10:01:21.14 10:01:23.05  Duration 00:00:01.16  25
+#para fazer o prazer durar.#
+
+  19: 10:01:25.00 10:01:26.18  Duration 00:00:01.18  26
+Antes, a colheita acabava
+
+  20: 10:01:26.23 10:01:28.01  Duration 00:00:01.03  17
+em meados de julho.
+
+  21: 10:01:28.05 10:01:31.05  Duration 00:00:03.00  45
+Mas com a irrigação,
+temos até o mês de outubro.
+
+  22: 10:01:31.14 10:01:33.15  Duration 00:00:02.01  31
+Desde quando viu essa mudança?
+
+  23: 10:01:33.20 10:01:37.01  Duration 00:00:03.06  49
+Foi desde que surgiu
+o morango de outono há 15 anos.
+
+  24: 10:01:37.05 10:01:39.08  Duration 00:00:02.03  32
+Foi o que criou uma demanda
+
+  25: 10:01:39.12 10:01:41.24  Duration 00:00:02.12  37
+para continuar
+o cultivo do ruibarbo.
+
+  26: 10:01:42.12 10:01:45.19  Duration 00:00:03.07  49
+#Morango e ruibarbo,
+dois inseparáveis.#
+
+  27: 10:01:45.23 10:01:48.16  Duration 00:00:02.18  41
+#A união deles resulta
+em geleias, compotas#
+
+  28: 10:01:48.21 10:01:50.19  Duration 00:00:01.23  29
+#e na incontornável torta.#
+
+  29: 10:01:53.00 10:01:56.24  Duration 00:00:03.24  59
+A banca de ruibarbo vem da fazenda
+do meu bisavô de Laval.
+
+  30: 10:01:57.11 10:02:00.03  Duration 00:00:02.17  40
+As plantas de ruibarbo
+têm mais de 100 anos.
+
+  31: 10:02:01.21 10:02:04.24  Duration 00:00:03.03  47
+#Bem-vindos às fazendas Serbi
+em Saint-Eustache.#
+
+  32: 10:02:06.24 10:02:08.20  Duration 00:00:01.21  28
+#Sébastien e sua irmã Marie-Ève#
+
+  33: 10:02:09.00 10:02:11.13  Duration 00:00:02.13  38
+#são de uma família
+que cultiva ruibarbo#
+
+  34: 10:02:11.17 10:02:13.15  Duration 00:00:01.23  29
+#há 5 gerações.#
+
+  35: 10:02:13.19 10:02:16.11  Duration 00:00:02.17  40
+#Eles são os maiores produtores
+do Quebec.#
+
+  36: 10:02:16.15 10:02:20.13  Duration 00:00:03.23  59
+Podemos embalar, num dia cheio,
+mais de 500 caixas de ruibarbo.
+
+  37: 10:02:20.18 10:02:24.03  Duration 00:00:03.10  51
+São cerca de 2 milhões de hastes
+embaladas
+
+  38: 10:02:24.07 10:02:25.04  Duration 00:00:00.22  13
+nas fazendas Serbi.
+
+  39: 10:02:25.16 10:02:28.13  Duration 00:00:02.22  43
+#Disponível em 3 supermercados
+no Quebec,#
+
+  40: 10:02:28.22 10:02:31.21  Duration 00:00:02.24  44
+#o ruibarbo Serbi é vendido
+em pacote de 9 bastões#
+
+  41: 10:02:32.01 10:02:34.00  Duration 00:00:01.24  29
+#também chamados de "pecíolos".#
+
+  42: 10:02:34.05 10:02:36.16  Duration 00:00:02.11  37
+Por que 9? Não sei.
+No tempo do meu pai,
+
+  43: 10:02:36.21 10:02:38.09  Duration 00:00:01.13  23
+era assim há anos.
+
+  44: 10:02:38.13 10:02:42.05  Duration 00:00:03.17  55
+Mantivemos o diferencial
+de 9 bastões de ruibarbo.
+
+  45: 10:02:42.09 10:02:45.01  Duration 00:00:02.17  40
+A variedade que produzimos
+tem 2 cores:
+
+  46: 10:02:45.05 10:02:47.18  Duration 00:00:02.13  38
+ele tem a ponta vermelha
+e o topo verde.
+
+  47: 10:02:48.01 10:02:50.15  Duration 00:00:02.14  38
+Há variedades vermelhas,
+como o Canada Red.
+
+  48: 10:02:50.19 10:02:52.08  Duration 00:00:01.14  23
+Sua haste é toda vermelha
+
+  49: 10:02:52.13 10:02:54.23  Duration 00:00:02.10  36
+e ele é um pouco mais achatado.
+
+  50: 10:02:57.03 10:02:58.20  Duration 00:00:01.17  25
+-É bonito.
+-Muito bonito.
+
+  51: 10:02:59.00 10:03:00.06  Duration 00:00:01.06  19
+-Posso provar?
+-Sim.
+
+  52: 10:03:01.08 10:03:02.12  Duration 00:00:01.04  17
+Está como gosto.
+
+  53: 10:03:05.10 10:03:06.11  Duration 00:00:01.01  16
+É ácido, mas...
+
+  54: 10:03:06.15 10:03:10.00  Duration 00:00:03.10  51
+-É mesmo um ruibarbo.
+-É por isso que o apreciamos.
+
+  55: 10:03:10.06 10:03:13.18  Duration 00:00:03.12  52
+#É justamente esse gosto acidulado
+que agrada tanto a uns#
+
+  56: 10:03:13.23 10:03:15.05  Duration 00:00:01.07  19
+#e menos a outros.#
+
+  57: 10:03:15.10 10:03:19.11  Duration 00:00:04.01  61
+#E é esse sabor particular
+que a empresa La Rhubarbelle#
+
+  58: 10:03:19.15 10:03:20.21  Duration 00:00:01.06  19
+#conseguiu transpor#
+
+  59: 10:03:21.01 10:03:23.16  Duration 00:00:02.15  39
+#a seus diversos sucos
+prensados a frio.#
+
+  60: 10:03:25.02 10:03:26.02  Duration 00:00:01.00  15
+#Belo nos campos,#
+
+  61: 10:03:26.07 10:03:28.07  Duration 00:00:02.00  30
+#o ruibarbo vira obra de arte#
+
+  62: 10:03:28.11 10:03:31.16  Duration 00:00:03.05  48
+#quando trabalhado pela# pâtissière#
+Stéphanie Labelle.#
+
+  63: 10:03:32.02 10:03:35.00  Duration 00:00:02.23  44
+#Na# pâtisserie# Rhubarbe
+no Plateau Mont-Royal,#
+
+  64: 10:03:35.05 10:03:37.13  Duration 00:00:02.08  35
+#ela o reinventa em versão doce#
+
+  65: 10:03:37.18 10:03:40.05  Duration 00:00:02.12  37
+#enquanto seu marido,
+o chef Julien Joré,#
+
+  66: 10:03:40.10 10:03:43.14  Duration 00:00:03.04  47
+#o trabalha em versão salgada
+no Comptoir Rhubarbe.#
+
+  67: 10:03:43.18 10:03:46.02  Duration 00:00:02.09  35
+Comptoir Rhubarbe
+
+  68: 10:03:46.06 10:03:47.08  Duration 00:00:01.02  16
+Eu diria que é mais
+
+  69: 10:03:48.01 10:03:51.10  Duration 00:00:03.09  50
+minha mulher
+que realmente ama ruibarbo.
+
+  70: 10:03:51.14 10:03:55.01  Duration 00:00:03.12  52
+E eu também me apaixonei
+pelo ruibarbo em parte
+
+  71: 10:03:55.12 10:03:56.13  Duration 00:00:01.01  16
+por causa dela.
+
+  72: 10:03:56.17 10:03:59.05  Duration 00:00:02.13  38
+Você conhecia o ruibarbo
+no sul da França?
+
+  73: 10:03:59.09 10:04:02.19  Duration 00:00:03.10  51
+Sim, mas acho
+que quase nunca tinha comido.
+
+  74: 10:04:02.24 10:04:05.17  Duration 00:00:02.18  41
+Não cresce muito no sul da França.
+
+  75: 10:04:05.22 10:04:07.08  Duration 00:00:01.11  22
+Conheci isso no Quebec.
+
+  76: 10:04:07.20 10:04:10.19  Duration 00:00:02.24  44
+#O chef nos propõe primeiro
+uma criação.#
+
+  77: 10:04:10.23 10:04:14.08  Duration 00:00:03.10  51
+Trabalhei o ruibarbo
+com sabores da África do Norte.
+
+  78: 10:04:14.12 10:04:15.17  Duration 00:00:01.05  18
+O# tajine# é a comida...
+
+  79: 10:04:16.11 10:04:20.13  Duration 00:00:04.02  61
+A comida mediterrânea
+é a mais agradável de comer
+
+  80: 10:04:20.17 10:04:22.17  Duration 00:00:02.00  30
+porque não é pesada
+nem gordurosa.
+
+  81: 10:04:23.00 10:04:24.06  Duration 00:00:01.06  19
+É cheia de sabores.
+
+  82: 10:04:24.15 10:04:26.13  Duration 00:00:01.23  29
+#Uma receita simples de fazer.#
+
+  83: 10:04:26.21 10:04:28.24  Duration 00:00:02.03  32
+#Alho, cebola, berinjela,#
+
+  84: 10:04:29.04 10:04:30.19  Duration 00:00:01.15  24
+#tâmaras,
+grão-de-bico preto,#
+
+  85: 10:04:31.01 10:04:33.11  Duration 00:00:02.10  36
+#gengibre e, é claro, ruibarbo.#
+
+  86: 10:04:34.14 10:04:37.18  Duration 00:00:03.04  47
+A qualidade do ruibarbo
+é a mesma no verão todo?
+
+  87: 10:04:37.23 10:04:39.19  Duration 00:00:01.21  28
+O melhor é o primeiro.
+
+  88: 10:04:39.23 10:04:42.13  Duration 00:00:02.15  39
+Não exatamente o primeiro.
+É o segundo,
+
+  89: 10:04:42.17 10:04:44.19  Duration 00:00:02.02  31
+quando as hastes
+são mais finas.
+
+  90: 10:04:45.01 10:04:46.02  Duration 00:00:01.01  16
+#Para servir,#
+
+  91: 10:04:46.06 10:04:49.13  Duration 00:00:03.07  49
+#o chef põe iogurte natural,
+manjericão e pistache.#
+
+  92: 10:04:49.19 10:04:52.01  Duration 00:00:02.07  34
+É realmente uma ótima ideia.
+
+  93: 10:04:52.05 10:04:54.12  Duration 00:00:02.07  34
+Com o iogurte ajuda um pouco.
+
+  94: 10:04:55.04 10:04:57.01  Duration 00:00:01.22  28
+É realmente um sucesso.
+
+  95: 10:04:57.05 10:05:00.12  Duration 00:00:03.07  49
+Influência África do Norte
+com ruibarbo do Quebec. Bravo.
+
+  96: 10:05:04.20 10:05:06.06  Duration 00:00:01.11  22
+#O 2º prato proposto:#
+
+  97: 10:05:06.11 10:05:09.16  Duration 00:00:03.05  48
+#bacalhau em leito
+de ervilhas frescas e ruibarbo pochê#
+
+  98: 10:05:09.21 10:05:10.21  Duration 00:00:01.00  15
+#cozido a vácuo.#
+
+  99: 10:05:12.20 10:05:15.05  Duration 00:00:02.10  36
+Deve-se descascar o ruibarbo?
+
+ 100: 10:05:15.10 10:05:18.09  Duration 00:00:02.24  44
+Eu não descasco, mas sei
+que tem gente que o faz.
+
+ 101: 10:05:18.13 10:05:22.08  Duration 00:00:03.20  57
+Perdemos a cor do ruibarbo
+quando descascamos,
+
+ 102: 10:05:22.12 10:05:25.06  Duration 00:00:02.19  41
+ou seja,
+vai ficar verde em vez de vermelho.
+
+ 103: 10:05:26.16 10:05:28.14  Duration 00:00:01.23  29
+São criações feitas para nós.
+
+ 104: 10:05:28.18 10:05:29.15  Duration 00:00:00.22  13
+É para vocês.
+
+ 105: 10:05:29.19 10:05:31.10  Duration 00:00:01.16  25
+Você estava inspirado.
+
+ 106: 10:05:31.15 10:05:34.19  Duration 00:00:03.04  47
+Com peixe, ruibarbo:
+excelente ideia.
+
+ 107: 10:05:35.00 10:05:36.08  Duration 00:00:01.08  20
+É, combina muito bem.
+
+ 108: 10:05:39.23 10:05:42.09  Duration 00:00:02.11  37
+#Se não puder
+comer o ruibarbo logo,#
+
+ 109: 10:05:42.14 10:05:44.13  Duration 00:00:01.24  29
+#uns conselhos
+para conservar.#
+
+ 110: 10:05:45.00 10:05:47.05  Duration 00:00:02.05  33
+É importante manter refrigerado.
+
+ 111: 10:05:47.09 10:05:51.06  Duration 00:00:03.22  58
+Como o aipo,
+podemos molhar na água fria,
+
+ 112: 10:05:51.11 10:05:54.18  Duration 00:00:03.07  49
+vai torná-lo
+mais crocante e estaladiço.
+
+ 113: 10:05:55.01 10:05:58.02  Duration 00:00:03.01  46
+Acho que pode ficar na geladeira
+2 boas semanas.
+
+ 114: 10:05:58.06 10:06:00.06  Duration 00:00:02.00  30
+Se quiser ter ruibarbo
+o ano todo,
+
+ 115: 10:06:00.10 10:06:02.03  Duration 00:00:01.18  26
+não é muito complicado.
+
+ 116: 10:06:02.07 10:06:03.16  Duration 00:00:01.09  20
+Basta cortar em cubos
+
+ 117: 10:06:03.21 10:06:07.02  Duration 00:00:03.06  49
+e pôr num saco de congelação.
+
+ 118: 10:06:08.19 10:06:11.20  Duration 00:00:03.01  46
+Durante as 2 estações,
+procuro comprar o máximo
+
+ 119: 10:06:11.24 10:06:12.19  Duration 00:00:00.20  12
+e tratá-los
+
+ 120: 10:06:12.24 10:06:15.14  Duration 00:00:02.15  39
+para conservar em purê, em xarope,
+
+ 121: 10:06:15.18 10:06:17.12  Duration 00:00:01.19  26
+em pedaços ou marinados.
+
+ 122: 10:06:17.23 10:06:19.15  Duration 00:00:01.17  25
+-Pode marinar?
+-Muito bem.
+
+ 123: 10:06:19.19 10:06:21.09  Duration 00:00:01.15  24
+É muito bom, marinado.
+
+ 124: 10:06:21.14 10:06:22.24  Duration 00:00:01.10  21
+E se conserva muito bem.
+
+ 125: 10:06:23.04 10:06:25.02  Duration 00:00:01.23  29
+#Tão fácil quanto a beterraba.#
+
+ 126: 10:06:25.07 10:06:27.13  Duration 00:00:02.06  34
+É açúcar, vinagre branco...
+
+ 127: 10:06:27.17 10:06:30.02  Duration 00:00:02.10  36
+Eu aromatizo com estragão
+para dar um pouco de sabor.
+
+ 128: 10:06:30.13 10:06:31.17  Duration 00:00:01.04  17
+Água, e só.
+
+ 129: 10:06:31.21 10:06:34.12  Duration 00:00:02.16  40
+É 1 dose de açúcar,
+3 de vinagre e 3 de água.
+
+ 130: 10:06:34.24 10:06:37.00  Duration 00:00:02.01  31
+O melhor é fazer de véspera.
+
+ 131: 10:06:37.05 10:06:39.15  Duration 00:00:02.10  36
+Botamos num pote de vidro
+na geladeira.
+
+ 132: 10:06:39.19 10:06:41.11  Duration 00:00:01.17  25
+-O inverno todo.
+-Se quiser.
+
+ 133: 10:06:42.03 10:06:43.17  Duration 00:00:01.14  23
+É mesmo um condimento,
+
+ 134: 10:06:43.21 10:06:46.05  Duration 00:00:02.09  35
+como pickles
+com uma carne grelhada,
+
+ 135: 10:06:46.09 10:06:49.03  Duration 00:00:02.19  41
+um peixe assado na brasa
+ou até à mesa.
+
+ 136: 10:06:49.07 10:06:50.10  Duration 00:00:01.03  17
+E 24 horas depois,
+
+ 137: 10:06:50.15 10:06:52.05  Duration 00:00:01.15  24
+ficará assim.
+-Fica assim.
+
+ 138: 10:06:54.10 10:06:57.01  Duration 00:00:02.16  40
+#Ruibarbo marinado
+numa salada de tomates.#
+
+ 139: 10:06:57.05 10:07:00.21  Duration 00:00:03.16  55
+#Eis uma combinação surpreendente,
+mas muito apetitosa.#
+
+ 140: 10:07:01.01 10:07:05.07  Duration 00:00:04.06  64
+Isso é perfeito se você receber
+amigos para um churrasco.
+
+ 141: 10:07:05.11 10:07:07.20  Duration 00:00:02.09  35
+A ricota, eu ponho no fim,
+por cima.
+
+ 142: 10:07:07.24 10:07:10.13  Duration 00:00:02.14  38
+Assim as pessoas
+podem pegar de cima
+
+ 143: 10:07:10.17 10:07:11.24  Duration 00:00:01.07  19
+para pegar o tomate...
+
+ 144: 10:07:12.03 10:07:14.11  Duration 00:00:02.08  35
+É para dar um toque doce.
+
+ 145: 10:07:14.15 10:07:15.24  Duration 00:00:01.09  20
+É sedoso.
+
+ 146: 10:07:16.04 10:07:17.17  Duration 00:00:01.13  23
+É maravilhoso.
+
+ 147: 10:07:17.21 10:07:20.20  Duration 00:00:02.24  44
+Não vamos esperar o churrasco,
+vamos provar.
+
+ 148: 10:07:21.00 10:07:24.18  Duration 00:00:03.18  56
+Eu esperava muita acidez,
+mas mal detecto alguma.
+
+ 149: 10:07:24.22 10:07:27.13  Duration 00:00:02.16  40
+A ricota anula um pouco...
+
+ 150: 10:07:27.17 10:07:28.20  Duration 00:00:01.03  17
+É impressionante.
+
+ 151: 10:07:30.10 10:07:32.05  Duration 00:00:01.20  27
+#O chef também fez
+uma incursão#
+
+ 152: 10:07:32.09 10:07:34.14  Duration 00:00:02.05  33
+#no universo doce do ruibarbo.#
+
+ 153: 10:07:34.19 10:07:37.00  Duration 00:00:02.06  34
+#É seu éclair
+com compota de ruibarbo#
+
+ 154: 10:07:37.04 10:07:39.14  Duration 00:00:02.10  36
+#com morangos frescos
+e creme chantilly.#
+
+ 155: 10:07:40.13 10:07:41.10  Duration 00:00:00.22  13
+É delicioso.
+
+ 156: 10:07:41.14 10:07:43.00  Duration 00:00:01.11  22
+Mais uma descoberta.
+
+ 157: 10:07:43.12 10:07:46.01  Duration 00:00:02.14  38
+#Enfim,
+prolongar a temporada de ruibarbo#
+
+ 158: 10:07:46.08 10:07:48.24  Duration 00:00:02.16  40
+#também é prolongar
+os prazeres da mesa.#
+
+ 159: 10:07:56.04 10:07:58.13  Duration 00:00:02.09  35
+Se na França
+quiser comprar manteiga,
+
+ 160: 10:07:58.17 10:08:00.10  Duration 00:00:01.18  26
+não faltam opções
+
+ 161: 10:08:00.14 10:08:02.09  Duration 00:00:01.20  27
+e cada uma com um sabor.
+
+ 162: 10:08:02.13 10:08:04.15  Duration 00:00:02.02  31
+Aqui, manteigas artesanais
+são raras,
+
+ 163: 10:08:04.19 10:08:06.23  Duration 00:00:02.04  32
+mas atraem cada vez mais.
+
+ 164: 10:08:08.02 10:08:10.18  Duration 00:00:02.16  40
+#"Manteiga é manteiga",
+diz o slogan.#
+
+ 165: 10:08:10.22 10:08:13.00  Duration 00:00:02.03  32
+#Mas as manteigas
+têm diferenças.#
+
+ 166: 10:08:13.15 10:08:16.08  Duration 00:00:02.18  41
+#A da família Grenier
+em Weedon, na Estrie#
+
+ 167: 10:08:16.13 10:08:18.13  Duration 00:00:02.00  30
+#é verdadeira
+manteiga de fazenda.#
+
+ 168: 10:08:19.09 10:08:21.07  Duration 00:00:01.23  29
+A receita vem do meu pai
+
+ 169: 10:08:21.11 10:08:23.22  Duration 00:00:02.11  37
+e do meu bisavô também
+que faziam
+
+ 170: 10:08:24.01 10:08:25.09  Duration 00:00:01.08  20
+manteiga caseira.
+
+ 171: 10:08:25.13 10:08:26.15  Duration 00:00:01.02  16
+É essa receita
+
+ 172: 10:08:26.20 10:08:30.01  Duration 00:00:03.06  49
+que usamos hoje para fazer
+uma manteiga de qualidade.
+
+ 173: 10:08:33.03 10:08:35.24  Duration 00:00:02.21  43
+#Os Grenier não têm só
+a fazenda de laticínios,#
+
+ 174: 10:08:36.05 10:08:37.16  Duration 00:00:01.11  22
+#têm também
+uma queijaria.#
+
+ 175: 10:08:37.20 10:08:40.08  Duration 00:00:02.13  38
+Tudo sai de nossas terras
+até seus pratos.
+
+ 176: 10:08:40.15 10:08:42.06  Duration 00:00:01.16  25
+Meus irmãos
+cuidam da fazenda.
+
+ 177: 10:08:42.11 10:08:44.07  Duration 00:00:01.21  28
+Eles alimentam os animais
+
+ 178: 10:08:44.11 10:08:46.08  Duration 00:00:01.22  28
+para uma boa
+qualidade de leite
+
+ 179: 10:08:46.13 10:08:47.16  Duration 00:00:01.03  17
+que dê bom queijo.
+
+ 180: 10:08:47.20 10:08:51.09  Duration 00:00:03.14  53
+A partir do soro dos queijos,
+eu tiro a nata
+
+ 181: 10:08:51.18 10:08:54.00  Duration 00:00:02.07  34
+e é a partir daí
+que faço a manteiga.
+
+ 182: 10:08:54.11 10:08:55.24  Duration 00:00:01.13  23
+#Essa manteiga é especial.#
+
+ 183: 10:08:56.04 10:08:58.04  Duration 00:00:02.00  30
+#O creme é extraído do soro,#
+
+ 184: 10:08:58.08 10:09:00.19  Duration 00:00:02.11  37
+#o resíduo da fabricação
+do queijo.#
+
+ 185: 10:09:00.24 10:09:04.14  Duration 00:00:03.15  54
+Botamos um pouco de fermento nele
+para dar um gosto diferente.
+
+ 186: 10:09:04.19 10:09:07.11  Duration 00:00:02.17  40
+Eu recolho o creme,
+ponho no batedor.
+
+ 187: 10:09:07.15 10:09:10.15  Duration 00:00:03.00  45
+Deixo bater 1, 2 horas.
+
+ 188: 10:09:10.23 10:09:13.08  Duration 00:00:02.10  36
+Depois eu retiro o leitelho
+
+ 189: 10:09:13.12 10:09:14.22  Duration 00:00:01.10  21
+tiro a manteiga
+
+ 190: 10:09:15.02 10:09:18.11  Duration 00:00:03.09  50
+e posso começar a embalar
+os pedidos dos clientes.
+
+ 191: 10:09:23.10 10:09:26.01  Duration 00:00:02.16  40
+#A queijaria só produz
+alguns quilos por dia,#
+
+ 192: 10:09:26.07 10:09:28.02  Duration 00:00:01.20  27
+#um produto de nicho.#
+
+ 193: 10:09:32.16 10:09:34.05  Duration 00:00:01.14  23
+#Há poucos produtores#
+
+ 194: 10:09:34.09 10:09:36.03  Duration 00:00:01.19  26
+#de manteiga artesanal
+no Quebec.#
+
+ 195: 10:09:38.17 10:09:40.02  Duration 00:00:01.10  21
+#Sem ser artesanal,#
+
+ 196: 10:09:40.07 10:09:43.06  Duration 00:00:02.24  44
+#a leitaria Chagnon de Waterloo
+é independente.#
+
+ 197: 10:09:43.16 10:09:45.14  Duration 00:00:01.23  29
+#Ela fabrica manteiga #
+
+ 198: 10:09:45.19 10:09:47.15  Duration 00:00:01.21  28
+#a partir de leite de fazendas#
+
+ 199: 10:09:47.20 10:09:49.15  Duration 00:00:01.20  27
+#de um raio de 30 km.#
+
+ 200: 10:09:51.12 10:09:53.18  Duration 00:00:02.06  34
+Na Europa
+tem um leque de manteigas.
+
+ 201: 10:09:53.23 10:09:55.21  Duration 00:00:01.23  29
+No Quebec
+há um vácuo no mercado.
+
+ 202: 10:09:56.00 10:09:57.07  Duration 00:00:01.07  19
+Queremos preenchê-lo
+
+ 203: 10:09:57.13 10:09:59.22  Duration 00:00:02.09  35
+e fazemos manteiga
+com valor agregado,
+
+ 204: 10:10:00.01 10:10:01.10  Duration 00:00:01.09  20
+como na Europa.
+
+ 205: 10:10:04.09 10:10:05.17  Duration 00:00:01.08  20
+#Com as manteigas artesanais,#
+
+ 206: 10:10:05.23 10:10:09.05  Duration 00:00:03.07  49
+#a Chagnon espera conquistar
+os supermercados.#
+
+ 207: 10:10:10.07 10:10:13.08  Duration 00:00:03.01  46
+#Aqui produzimos manteiga
+a partir do creme,#
+
+ 208: 10:10:13.13 10:10:15.04  Duration 00:00:01.16  25
+#mas a receita é secreta.#
+
+ 209: 10:10:18.09 10:10:20.07  Duration 00:00:01.23  29
+É a fermentação
+que pode durar
+
+ 210: 10:10:20.11 10:10:22.03  Duration 00:00:01.17  25
+de 10 horas a alguns dias,
+
+ 211: 10:10:22.07 10:10:25.11  Duration 00:00:03.04  47
+de acordo com o sabor desejado
+e o fermento colocado.
+
+ 212: 10:10:25.16 10:10:27.05  Duration 00:00:01.14  23
+É a maior diferença.
+
+ 213: 10:10:27.09 10:10:30.11  Duration 00:00:03.02  46
+Em seguida, ao bater,
+as diversas técnicas
+
+ 214: 10:10:30.15 10:10:33.00  Duration 00:00:02.10  36
+mudam o sabor
+e a porcentagem de gordura.
+
+ 215: 10:10:34.12 10:10:36.22  Duration 00:00:02.10  36
+#A batedura é misturar 
+o creme fermentado#
+
+ 216: 10:10:37.02 10:10:38.17  Duration 00:00:01.15  24
+#numa cuba imensa#
+
+ 217: 10:10:38.21 10:10:41.13  Duration 00:00:02.17  40
+#para retirar a água
+e extrair a manteiga.#
+
+ 218: 10:10:45.20 10:10:47.01  Duration 00:00:01.06  19
+O que estão fazendo?
+
+ 219: 10:10:47.06 10:10:49.13  Duration 00:00:02.07  34
+A salgada.
+Tem grãos de sal dentro.
+
+ 220: 10:10:49.22 10:10:51.09  Duration 00:00:01.12  22
+Tem um gosto
+bem salgado,
+
+ 221: 10:10:51.13 10:10:53.24  Duration 00:00:02.11  37
+um pouco de gosto de queijo.
+
+ 222: 10:10:56.13 10:10:58.21  Duration 00:00:02.08  35
+#No Canadá,
+a regulamentação determina#
+
+ 223: 10:10:59.00 10:11:01.17  Duration 00:00:02.17  40
+#um conteúdo mínimo de gordura
+na manteiga.#
+
+ 224: 10:11:01.21 10:11:02.17  Duration 00:00:00.21  13
+As manteigas clássicas
+
+ 225: 10:11:03.07 10:11:05.05  Duration 00:00:01.23  29
+têm cerca 80% de gordura.
+
+ 226: 10:11:05.09 10:11:07.17  Duration 00:00:02.08  35
+A diferença vem da água
+na manteiga.
+
+ 227: 10:11:07.21 10:11:09.22  Duration 00:00:02.01  31
+É água que você extrai
+
+ 228: 10:11:10.01 10:11:12.13  Duration 00:00:02.12  37
+e quanto mais extrair,
+mais sabor terá
+
+ 229: 10:11:12.17 10:11:14.06  Duration 00:00:01.14  23
+e mais cremosa será.
+
+ 230: 10:11:15.02 10:11:17.12  Duration 00:00:02.10  36
+#E os produtores
+de manteiga artesanal#
+
+ 231: 10:11:17.17 10:11:20.04  Duration 00:00:02.12  37
+#usam uma taxa de gordura mais alta#
+
+ 232: 10:11:20.12 10:11:21.23  Duration 00:00:01.11  22
+#para acentuar o sabor.#
+
+ 233: 10:11:22.03 10:11:24.19  Duration 00:00:02.16  40
+Batemos para ter
+uma porcentagem mais alta,
+
+ 234: 10:11:24.23 10:11:26.22  Duration 00:00:01.24  29
+em torno de 83, 84%.
+
+ 235: 10:11:27.16 10:11:30.04  Duration 00:00:02.13  38
+#A manteiga P'tit Plaisir
+vai mais além#
+
+ 236: 10:11:30.08 10:11:31.15  Duration 00:00:01.07  19
+#no prazer da gordura.#
+
+ 237: 10:11:33.16 10:11:36.20  Duration 00:00:03.04  47
+A manteiga tem 10% de umidade
+
+ 238: 10:11:36.24 10:11:38.21  Duration 00:00:01.22  28
+e 90% de gordura.
+
+ 239: 10:11:39.01 10:11:40.18  Duration 00:00:01.17  25
+Podemos dizer que é única.
+
+ 240: 10:11:40.23 10:11:42.03  Duration 00:00:01.05  18
+100% natural.
+
+ 241: 10:11:42.21 10:11:43.19  Duration 00:00:00.23  14
+Muito boa.
+
+ 242: 10:11:43.23 10:11:45.05  Duration 00:00:01.07  19
+É a melhor do Quebec?
+
+ 243: 10:11:45.09 10:11:47.03  Duration 00:00:01.19  26
+Se provar, vai adotá-la.
+
+ 244: 10:11:48.17 10:11:51.10  Duration 00:00:02.18  41
+Tem sabores distintos,
+é mais cremosa.
+
+ 245: 10:11:51.14 10:11:55.16  Duration 00:00:04.02  61
+Vamos fazer degustações, mostrar
+a diferença da manteiga de cultura.
+
+ 246: 10:11:56.03 10:11:58.18  Duration 00:00:02.15  39
+#Mas esse bom gosto de manteiga
+tem preço.#
+
+ 247: 10:11:58.22 10:12:00.21  Duration 00:00:01.24  29
+Digamos que é o dobro do preço
+
+ 248: 10:12:01.00 10:12:02.15  Duration 00:00:01.15  24
+de outro tipo de manteiga.
+
+ 249: 10:12:02.20 10:12:05.16  Duration 00:00:02.21  43
+Como tudo é feito manualmente,
+dá mais trabalho,
+
+ 250: 10:12:05.21 10:12:06.17  Duration 00:00:00.21  13
+mão de obra.
+
+ 251: 10:12:06.21 10:12:08.23  Duration 00:00:02.02  31
+A manteiga é mais cara mesmo,
+
+ 252: 10:12:09.03 10:12:12.02  Duration 00:00:02.24  44
+mas pode ser uma manteiga
+para datas especiais.
+
+ 253: 10:12:12.07 10:12:13.14  Duration 00:00:01.07  19
+Queijaria P'tit Plaisir
+
+ 254: 10:12:13.18 10:12:16.07  Duration 00:00:02.14  38
+#No local, a manteiga
+da P'tit Plaisir#
+
+ 255: 10:12:16.12 10:12:18.11  Duration 00:00:01.24  29
+#custa 4 dólares
+o pote de 300 g,#
+
+ 256: 10:12:18.23 10:12:19.23  Duration 00:00:01.00  15
+#mas mais caro fora.#
+
+ 257: 10:12:20.02 10:12:21.23  Duration 00:00:01.21  28
+-Obrigado, Mélanie.
+-É um prazer.
+
+ 258: 10:12:22.10 10:12:23.11  Duration 00:00:01.01  16
+Depende do lugar.
+
+ 259: 10:12:23.15 10:12:25.05  Duration 00:00:01.15  24
+Vejamos a Atwater.
+
+ 260: 10:12:25.09 10:12:28.24  Duration 00:00:03.15  54
+Eles a vendem
+por 8, 9 dólares a libra.
+
+ 261: 10:12:29.03 10:12:30.02  Duration 00:00:00.24  14
+E ainda vende.
+
+ 262: 10:12:30.14 10:12:31.16  Duration 00:00:01.02  16
+Gostam do sabor.
+
+ 263: 10:12:31.21 10:12:33.17  Duration 00:00:01.21  28
+Acho que o mercado
+vai estourar,
+
+ 264: 10:12:33.22 10:12:36.10  Duration 00:00:02.13  38
+que as pessoas
+querem ter variedade
+
+ 265: 10:12:36.14 10:12:38.02  Duration 00:00:01.13  23
+e gosto bom,
+
+ 266: 10:12:38.07 10:12:41.01  Duration 00:00:02.19  41
+novidades para provar
+todo mês, toda semana.
+
+ 267: 10:12:51.09 10:12:53.15  Duration 00:00:02.06  34
+O aroma de uma flor rosa forte
+
+ 268: 10:12:53.19 10:12:55.08  Duration 00:00:01.14  23
+e gosto
+acidulado e terroso
+
+ 269: 10:12:55.12 10:12:58.16  Duration 00:00:03.04  47
+tornou-se um dos sabores do momento
+na alimentação.
+
+ 270: 10:13:01.03 10:13:04.07  Duration 00:00:03.04  47
+#Não cozinhe o hibisco
+que cresce no seu jardim.#
+
+ 271: 10:13:04.11 10:13:05.12  Duration 00:00:01.01  16
+#Não é comestível,#
+
+ 272: 10:13:06.07 10:13:07.24  Duration 00:00:01.17  25
+#ao contrário da variedade#
+
+ 273: 10:13:08.04 10:13:09.19  Duration 00:00:01.15  24
+#cultivada
+nas zonas tropicais.#
+
+ 274: 10:13:12.05 10:13:14.11  Duration 00:00:02.06  34
+Antes eu pensava
+que só havia na África.
+
+ 275: 10:13:15.18 10:13:17.20  Duration 00:00:02.02  31
+#Hikmath é origimário do Benin.#
+
+ 276: 10:13:18.03 10:13:19.24  Duration 00:00:01.21  28
+#Lá, essa planta
+chama-se "bissap".#
+
+ 277: 10:13:20.08 10:13:23.00  Duration 00:00:02.17  40
+#São os cálices
+e não as pétalas da flor#
+
+ 278: 10:13:23.05 10:13:25.13  Duration 00:00:02.08  35
+#que são secas para ser infusadas#
+
+ 279: 10:13:25.18 10:13:27.08  Duration 00:00:01.15  24
+#ou transformadas em pó.#
+
+ 280: 10:13:27.13 10:13:29.12  Duration 00:00:01.24  29
+Para mim,
+só existia na África.
+
+ 281: 10:13:29.16 10:13:32.13  Duration 00:00:02.22  43
+Pesquisando, eu percebi
+
+ 282: 10:13:32.18 10:13:34.15  Duration 00:00:01.22  28
+que existe em muitas regiões.
+
+ 283: 10:13:37.16 10:13:41.01  Duration 00:00:03.10  51
+#Na América Latina,
+é chamada de "flor da Jamaica".#
+
+ 284: 10:13:41.05 10:13:43.05  Duration 00:00:02.00  30
+#No Egito, é "karkadé".#
+
+ 285: 10:13:43.09 10:13:45.16  Duration 00:00:02.07  34
+#No Sudeste da Ásia: "Roselle".#
+
+ 286: 10:13:48.21 10:13:50.23  Duration 00:00:02.02  31
+Eu pensei: "É um produto
+
+ 287: 10:13:51.03 10:13:53.00  Duration 00:00:01.22  28
+consumido em vários países
+
+ 288: 10:13:53.04 10:13:56.21  Duration 00:00:03.17  55
+e quero destacá-lo como um produto
+que reúne as pessoas.
+
+ 289: 10:13:58.18 10:14:01.08  Duration 00:00:02.15  39
+#A jovem empreendedora
+começou a produzir#
+
+ 290: 10:14:01.13 10:14:02.20  Duration 00:00:01.07  19
+#suco de hibisco.#
+
+ 291: 10:14:03.13 10:14:05.20  Duration 00:00:02.07  34
+É como um chá,
+fazemos uma infusão
+
+ 292: 10:14:06.00 10:14:07.12  Duration 00:00:01.12  22
+e misturamos
+com outra coisa.
+
+ 293: 10:14:07.17 10:14:10.16  Duration 00:00:02.24  44
+Botamos açúcar,
+resfriamos e bebemos.
+
+ 294: 10:14:11.09 10:14:12.17  Duration 00:00:01.08  20
+É a bebida cotidiana.
+
+ 295: 10:14:13.21 10:14:15.13  Duration 00:00:01.17  25
+#Em vários países africanos,#
+
+ 296: 10:14:15.17 10:14:17.23  Duration 00:00:02.06  34
+#vendedoras vendem esse suco
+na feira.#
+
+ 297: 10:14:18.03 10:14:20.12  Duration 00:00:02.09  35
+Elas sempre têm suco
+em sachês congelados
+
+ 298: 10:14:21.12 10:14:24.23  Duration 00:00:03.11  52
+É gelado.
+Como faz calor lá,
+
+ 299: 10:14:25.02 10:14:26.15  Duration 00:00:01.13  23
+vamos lá e tomamos...
+
+ 300: 10:14:28.01 10:14:30.16  Duration 00:00:02.15  39
+E é realmente um ritual.
+
+ 301: 10:14:32.02 10:14:35.09  Duration 00:00:03.07  49
+#Um ritual que Hikmath
+gostaria de implantar aqui.#
+
+ 302: 10:14:37.00 10:14:37.20  Duration 00:00:00.20  12
+Tem gente
+
+ 303: 10:14:38.00 10:14:39.11  Duration 00:00:01.11  22
+que acha gosto de uva,
+
+ 304: 10:14:39.15 10:14:42.05  Duration 00:00:02.15  39
+outros de bagas,
+outros que vão achar
+
+ 305: 10:14:42.17 10:14:44.01  Duration 00:00:01.09  20
+que tem gosto de romã.
+
+ 306: 10:14:44.06 10:14:46.03  Duration 00:00:01.22  28
+Cada um tem uma impressão.
+
+ 307: 10:14:46.10 10:14:47.22  Duration 00:00:01.12  22
+Um pouco de framboesa.
+
+ 308: 10:14:48.01 10:14:49.21  Duration 00:00:01.20  27
+Um pouco
+de suco de# cranberry.#
+
+ 309: 10:14:51.03 10:14:52.24  Duration 00:00:01.21  28
+95% das pessoas
+
+ 310: 10:14:53.04 10:14:55.11  Duration 00:00:02.07  34
+que provam, dizem:
+"Não esperava isso,
+
+ 311: 10:14:55.16 10:14:56.12  Duration 00:00:00.21  13
+"é refrescante."
+
+ 312: 10:14:57.14 10:14:58.22  Duration 00:00:01.08  20
+Toda vez penso:
+"Yes!"
+
+ 313: 10:14:59.11 10:15:00.10  Duration 00:00:00.24  14
+Tem outro?
+
+ 314: 10:15:03.08 10:15:05.09  Duration 00:00:02.01  31
+#Os aromas florais
+estão em alta,#
+
+ 315: 10:15:05.18 10:15:08.00  Duration 00:00:02.07  34
+#e o hibisco ganha popularidade.#
+
+ 316: 10:15:08.09 10:15:10.23  Duration 00:00:02.14  38
+#Presente em tisanas
+e em geleias,#
+
+ 317: 10:15:11.03 10:15:13.05  Duration 00:00:02.02  31
+#ele também está
+em chás gelados,#
+
+ 318: 10:15:13.10 10:15:15.04  Duration 00:00:01.19  26
+kombuchas,# cervejas#
+
+ 319: 10:15:15.09 10:15:16.13  Duration 00:00:01.04  17
+#e até no gim.#
+
+ 320: 10:15:16.17 10:15:19.19  Duration 00:00:03.02  46
+Após um ano no mercado,
+estamos quase sem estoque.
+
+ 321: 10:15:19.24 10:15:21.06  Duration 00:00:01.07  19
+Está difícil produzir.
+
+ 322: 10:15:21.11 10:15:24.18  Duration 00:00:03.07  49
+#Jean-François Théoret
+é o criador desse gim.#
+
+ 323: 10:15:24.23 10:15:28.03  Duration 00:00:03.05  48
+Vamos provar puro
+para poder perceber tudo.
+
+ 324: 10:15:28.07 10:15:29.02  Duration 00:00:00.20  12
+Todas as notas.
+
+ 325: 10:15:29.07 10:15:30.08  Duration 00:00:01.01  16
+Tem# cranberry#.
+
+ 326: 10:15:30.12 10:15:33.21  Duration 00:00:03.09  50
+Se você cheirar direito,
+vai sentir um pouquinho
+
+ 327: 10:15:34.00 10:15:36.11  Duration 00:00:02.11  37
+da acidez do# cranberry#.
+
+ 328: 10:15:37.13 10:15:40.20  Duration 00:00:03.07  49
+Inicialmente, eu queria fazer
+um gim meio "boreal",
+
+ 329: 10:15:40.24 10:15:42.16  Duration 00:00:01.17  25
+com ervas
+e temperos do Quebec.
+
+ 330: 10:15:43.00 10:15:44.22  Duration 00:00:01.22  28
+O 1º ingrediente que usamos
+
+ 331: 10:15:45.02 10:15:46.20  Duration 00:00:01.18  26
+foi o chá do Labrador.
+
+ 332: 10:15:47.00 10:15:50.06  Duration 00:00:03.06  49
+Depois procuramos
+o que poderia complementar esse chá
+
+ 333: 10:15:50.10 10:15:51.24  Duration 00:00:01.14  23
+e surgiu o hibisco.
+
+ 334: 10:15:52.09 10:15:54.04  Duration 00:00:01.20  27
+-Tem um toque floral.
+-Exato.
+
+ 335: 10:15:54.08 10:15:58.01  Duration 00:00:03.18  56
+O floral vem realmente
+mais na boca que no nariz.
+
+ 336: 10:15:59.06 10:16:02.07  Duration 00:00:03.01  46
+É um gim legal de trabalhar,
+é muito saboroso.
+
+ 337: 10:16:02.11 10:16:03.19  Duration 00:00:01.08  20
+São sabores intensos.
+
+ 338: 10:16:03.24 10:16:05.17  Duration 00:00:01.18  26
+Para um coquetel,
+isso o realça.
+
+ 339: 10:16:06.09 10:16:08.18  Duration 00:00:02.09  35
+#Ariane Côté Lavoie é# barmaid.
+
+ 340: 10:16:09.11 10:16:12.02  Duration 00:00:02.16  40
+Adoro fazer
+e reinventar clássicos.
+
+ 341: 10:16:12.19 10:16:15.21  Duration 00:00:03.02  46
+Parti do Tom Collins,
+uma bebida básica,
+
+ 342: 10:16:16.00 10:16:18.09  Duration 00:00:02.09  35
+uma limonada com gim.
+
+ 343: 10:16:18.14 10:16:23.04  Duration 00:00:04.15  69
+Combinei com cassis, uma baga
+que combina muito bem com o hibisco.
+
+ 344: 10:16:23.09 10:16:26.05  Duration 00:00:02.21  43
+Dá uma bebida refrescante
+e bem estival.
+
+ 345: 10:16:29.06 10:16:30.24  Duration 00:00:01.18  26
+#O hibisco
+também ganha espaço#
+
+ 346: 10:16:31.04 10:16:33.10  Duration 00:00:02.06  34
+#no coração dos nossos chefs.#
+
+ 347: 10:16:33.15 10:16:35.03  Duration 00:00:01.13  23
+Eu conheci no Japão,
+
+ 348: 10:16:35.08 10:16:36.21  Duration 00:00:01.13  23
+num doce com hibisco.
+
+ 349: 10:16:37.01 10:16:38.23  Duration 00:00:01.22  28
+Gostei da cor,
+da apresentação,
+
+ 350: 10:16:39.03 10:16:42.04  Duration 00:00:03.01  46
+do gosto floral e meio acidulado.
+
+ 351: 10:16:42.09 10:16:44.09  Duration 00:00:02.00  30
+-Está fazendo uma infusão.
+-Sim.
+
+ 352: 10:16:44.14 10:16:47.04  Duration 00:00:02.15  39
+Você pode reduzi-la
+e fazer um molho.
+
+ 353: 10:16:47.22 10:16:49.18  Duration 00:00:01.21  28
+É o que dá esse caramelo.
+
+ 354: 10:16:49.23 10:16:51.16  Duration 00:00:01.18  26
+-É realmente...
+-De fato.
+
+ 355: 10:16:53.09 10:16:54.07  Duration 00:00:00.23  14
+Cheira bem.
+
+ 356: 10:16:54.12 10:16:58.03  Duration 00:00:03.16  55
+#Esse molho perfuma bem o pato
+cozido num braseiro japonês.#
+
+ 357: 10:16:58.15 10:16:59.19  Duration 00:00:01.04  17
+Gosto surpreendente.
+
+ 358: 10:16:59.23 10:17:00.19  Duration 00:00:00.21  13
+Muito bom.
+
+ 359: 10:17:01.13 10:17:05.01  Duration 00:00:03.13  53
+#E o chef nos propõe também
+um versão gelada do hibisco.#
+
+ 360: 10:17:06.18 10:17:08.24  Duration 00:00:02.06  34
+Ostras com um tártaro de morango,
+
+ 361: 10:17:09.04 10:17:12.00  Duration 00:00:02.21  43
+#granité# de hibisco
+e caviar do Lac St-Pierre.
+
+ 362: 10:17:12.08 10:17:15.03  Duration 00:00:02.20  42
+Como surgiu a ideia do hibisco
+numa ostra?
+
+ 363: 10:17:15.08 10:17:18.01  Duration 00:00:02.18  41
+Eu o combinei com algo marinho,
+funciona bem.
+
+ 364: 10:17:20.14 10:17:22.14  Duration 00:00:02.00  30
+#Em# granité#, molho, suco#
+
+ 365: 10:17:22.19 10:17:25.02  Duration 00:00:02.08  35
+#e até aromatizando uma bebida,#
+
+ 366: 10:17:25.07 10:17:27.07  Duration 00:00:02.00  30
+#essa planta tropical
+parece querer#
+
+ 367: 10:17:27.12 10:17:29.09  Duration 00:00:01.22  28
+#se instalar em nosso paladar.#
+
+ 368: 10:17:32.13 10:17:36.15  Duration 00:00:04.02  61
+#Convidamos vocês a enviar
+seus comentários por e-mail#
+
+ 369: 10:17:36.20 10:17:41.08  Duration 00:00:04.13  68
+#ao seguinte endereço:
+epicerie@radio-canada.ca#
+
+ 370: 10:17:41.17 10:17:44.23  Duration 00:00:03.06  49
+#E podem ver nossas reportagens
+em nosso site:#
+
+ 371: 10:17:45.02 10:17:49.16  Duration 00:00:04.14  68
+#Ici.Radio-Canada.ca/lepicerie#
+
+ 372: 10:17:49.21 10:17:52.18  Duration 00:00:02.22  43
+Os japoneses inventaram,
+os chefs o adotaram.
+
+ 373: 10:17:52.22 10:17:57.03  Duration 00:00:04.06  64
+E agora produtores daqui fazem:
+o alho negro.
+
+ 374: 10:18:03.18 10:18:05.12  Duration 00:00:01.19  26
+#Na cozinha
+desse restaurante,#
+
+ 375: 10:18:05.17 10:18:07.21  Duration 00:00:02.04  32
+#Antonio Park,
+chef famoso em Montreal,#
+
+ 376: 10:18:08.01 10:18:10.04  Duration 00:00:02.03  32
+#faz uma iguaria com alho negro.#
+
+ 377: 10:18:10.21 10:18:14.20  Duration 00:00:03.24  59
+É um prato que eu fiz,
+de influência japonesa, sashimi
+
+ 378: 10:18:15.00 10:18:18.02  Duration 00:00:03.02  46
+com um molho# punzu
+#com infusão de alho negro.
+
+ 379: 10:18:18.06 10:18:20.10  Duration 00:00:02.04  32
+Ele faz parte da minha culinária.
+
+ 380: 10:18:20.15 10:18:23.06  Duration 00:00:02.16  40
+Uso o alho negro
+porque gosto da textura,
+
+ 381: 10:18:23.10 10:18:24.07  Duration 00:00:00.22  13
+do sabor,
+
+ 382: 10:18:24.15 10:18:26.21  Duration 00:00:02.06  34
+do gosto bem pronunciado de alho.
+
+ 383: 10:18:27.01 10:18:29.14  Duration 00:00:02.13  38
+É bem doce, bem delicado.
+
+ 384: 10:18:29.22 10:18:32.13  Duration 00:00:02.16  40
+#O alho negro faz parte
+da nova cozinha.#
+
+ 385: 10:18:32.18 10:18:35.03  Duration 00:00:02.10  36
+#Entre os chefs
+desde os anos 2000,#
+
+ 386: 10:18:35.08 10:18:38.03  Duration 00:00:02.20  42
+#o misterioso bulbo
+tem origens obscuras.#
+
+ 387: 10:18:38.07 10:18:39.19  Duration 00:00:01.12  22
+#Dizem que vem da Ásia.#
+
+ 388: 10:18:40.16 10:18:44.01  Duration 00:00:03.10  51
+#É rumo à Ilha de Orléans
+que vamos descobrir#
+
+ 389: 10:18:44.06 10:18:46.23  Duration 00:00:02.17  40
+#esse segredo:
+o alho negro quebequense.#
+
+ 390: 10:18:47.11 10:18:50.22  Duration 00:00:03.11  52
+Aqui é Sainte-Famille,
+a fazenda que comprei há 12 anos.
+
+ 391: 10:18:51.01 10:18:54.07  Duration 00:00:03.06  49
+Agora fazemos alho e alho negro.
+
+ 392: 10:18:55.00 10:18:57.16  Duration 00:00:02.16  40
+É curioso, não é uma variedade.
+
+ 393: 10:18:57.20 10:18:59.23  Duration 00:00:02.03  32
+É um alho branco processado
+
+ 394: 10:19:00.02 10:19:01.15  Duration 00:00:01.13  23
+que no fim do processamento
+
+ 395: 10:19:01.19 10:19:02.23  Duration 00:00:01.04  17
+perde o gosto de alho.
+
+ 396: 10:19:03.06 10:19:04.07  Duration 00:00:01.01  16
+-Beleza?
+-Sim.
+
+ 397: 10:19:05.04 10:19:06.07  Duration 00:00:01.03  17
+Isso é para cortar,
+
+ 398: 10:19:06.11 10:19:08.18  Duration 00:00:02.07  34
+vão secar hoje à tarde.
+-Perfeito.
+
+ 399: 10:19:09.05 10:19:11.04  Duration 00:00:01.24  29
+É a colheita da manhã,
+isso tudo?
+
+ 400: 10:19:11.08 10:19:15.01  Duration 00:00:03.18  56
+De ontem. Pedimos aos meninos
+que tirem a raiz
+
+ 401: 10:19:15.19 10:19:16.23  Duration 00:00:01.04  17
+e cortem a haste.
+
+ 402: 10:19:17.11 10:19:19.20  Duration 00:00:02.09  35
+#Essa variedade de alho é a Music,#
+
+ 403: 10:19:20.00 10:19:22.17  Duration 00:00:02.17  40
+#mas várias outras
+servem para o processo.#
+
+ 404: 10:19:22.22 10:19:25.10  Duration 00:00:02.13  38
+#Basta seguir
+as etapas e os parâmetros#
+
+ 405: 10:19:25.14 10:19:27.23  Duration 00:00:02.09  35
+#para obter um alho negro perfeito.#
+
+ 406: 10:19:30.24 10:19:32.16  Duration 00:00:01.17  25
+#Primeira etapa: a secagem.#
+
+ 407: 10:19:33.14 10:19:36.22  Duration 00:00:03.08  50
+-Seca nesses sacos?
+-Sim, por algumas semanas.
+
+ 408: 10:19:37.01 10:19:38.23  Duration 00:00:01.22  28
+Depois transformamos
+em alho negro.
+
+ 409: 10:19:39.16 10:19:41.21  Duration 00:00:02.05  33
+#Depois os bulbos
+vão para uma estufa#
+
+ 410: 10:19:42.00 10:19:43.22  Duration 00:00:01.22  28
+#por cerca de um mês.#
+
+ 411: 10:19:44.01 10:19:48.08  Duration 00:00:04.07  64
+Com essas estufas, podemos controlar
+temperatura e umidade
+
+ 412: 10:19:48.12 10:19:50.17  Duration 00:00:02.05  33
+para ter o ponto desejado
+
+ 413: 10:19:50.21 10:19:52.15  Duration 00:00:01.19  26
+e dar o sabor desejado
+ao alho negro.
+
+ 414: 10:19:53.13 10:19:54.13  Duration 00:00:01.00  15
+É cozimento lento.
+
+ 415: 10:19:54.17 10:19:58.04  Duration 00:00:03.12  52
+Em inglês vemos muito:
+#"fermented garlic",#
+
+ 416: 10:19:58.08 10:20:00.02  Duration 00:00:01.19  26
+mas não é fermentação,
+
+ 417: 10:20:00.06 10:20:03.11  Duration 00:00:03.05  48
+a temperatura que usamos vai além.
+
+ 418: 10:20:03.15 10:20:07.04  Duration 00:00:03.14  53
+A verdadeira expressão seria
+"degradação enzimática".
+
+ 419: 10:20:07.11 10:20:08.14  Duration 00:00:01.03  17
+É outra reação.
+
+ 420: 10:20:08.18 10:20:10.16  Duration 00:00:01.23  29
+Vemos que vira açúcar.
+
+ 421: 10:20:11.00 10:20:13.20  Duration 00:00:02.20  42
+Após o processo de maturação,
+cozimento lento,
+
+ 422: 10:20:14.04 10:20:16.08  Duration 00:00:02.04  32
+o invólucro ficou bege, marrom.
+
+ 423: 10:20:16.12 10:20:20.14  Duration 00:00:04.02  61
+Eu tiro um dente e, ao pegá-lo,
+
+ 424: 10:20:20.18 10:20:23.17  Duration 00:00:02.24  44
+o alho que era branco no mês passado
+ficou preto.
+
+ 425: 10:20:23.21 10:20:27.01  Duration 00:00:03.05  48
+É meio molengo,
+ao contrário do alho branco,
+
+ 426: 10:20:27.08 10:20:28.15  Duration 00:00:01.07  19
+porque cozinhou.
+
+ 427: 10:20:28.19 10:20:31.22  Duration 00:00:03.03  47
+E não sei se você sente...
+Cheira bem.
+
+ 428: 10:20:35.19 10:20:40.12  Duration 00:00:04.18  71
+Tenho folhas, cenoura,
+nabo, rabanete.
+
+ 429: 10:20:41.05 10:20:43.13  Duration 00:00:02.08  35
+O alho está do outro lado da cerca.
+
+ 430: 10:20:43.18 10:20:46.22  Duration 00:00:03.04  47
+#Matthew teve a ideia de cultivar
+alho na ilha#
+
+ 431: 10:20:47.01 10:20:48.15  Duration 00:00:01.14  23
+#e transformar
+em alho negro.#
+
+ 432: 10:20:48.20 10:20:51.00  Duration 00:00:02.05  33
+#Ele propôs o projeto
+a Jean-François.#
+
+ 433: 10:20:51.05 10:20:53.11  Duration 00:00:02.06  34
+#Chef de formação,
+ele agora cozinha#
+
+ 434: 10:20:53.16 10:20:54.24  Duration 00:00:01.08  20
+#na lanchonete
+da fazenda.#
+
+ 435: 10:20:55.06 10:20:58.13  Duration 00:00:03.07  49
+Sua torta de morango
+com creme. Está pronta.
+
+ 436: 10:20:58.18 10:21:00.14  Duration 00:00:01.21  28
+#Nessa lanchonete de estrada,#
+
+ 437: 10:21:00.19 10:21:03.09  Duration 00:00:02.15  39
+#a atração
+são os pratos com alho negro.#
+
+ 438: 10:21:03.17 10:21:06.00  Duration 00:00:02.08  35
+Para preparar, é muito simples.
+
+ 439: 10:21:07.10 10:21:11.08  Duration 00:00:03.23  59
+É só tirar a casca
+e você tem o dente.
+
+ 440: 10:21:11.12 10:21:12.17  Duration 00:00:01.05  18
+Sai facilmente.
+
+ 441: 10:21:13.19 10:21:15.01  Duration 00:00:01.07  19
+Com sua faca,
+
+ 442: 10:21:15.24 10:21:17.15  Duration 00:00:01.16  25
+basta esmagar.
+
+ 443: 10:21:17.19 10:21:21.11  Duration 00:00:03.17  55
+Dá um purê bem fino,
+rapidamente.
+
+ 444: 10:21:21.15 10:21:23.10  Duration 00:00:01.20  27
+É bem gelatinoso.
+
+ 445: 10:21:23.14 10:21:26.18  Duration 00:00:03.04  47
+Não, tem mais a textura
+de uma ameixa seca,
+
+ 446: 10:21:27.04 10:21:28.15  Duration 00:00:01.11  22
+mas mais hidratado.
+
+ 447: 10:21:29.04 10:21:31.21  Duration 00:00:02.17  40
+#Não se cozinha o alho negro
+como o branco.#
+
+ 448: 10:21:32.13 10:21:35.07  Duration 00:00:02.19  41
+#Ele entra no fim da preparação
+para realçar#
+
+ 449: 10:21:35.12 10:21:37.14  Duration 00:00:02.02  31
+#os sabores dos diversos pratos,#
+
+ 450: 10:21:37.18 10:21:39.09  Duration 00:00:01.16  25
+#da entrada à sobremesa.#
+
+ 451: 10:21:39.14 10:21:42.22  Duration 00:00:03.08  50
+Salada de feijão
+com vinagrete ao alho negro.
+
+ 452: 10:21:43.02 10:21:45.09  Duration 00:00:02.07  34
+Creme chantilly
+com sabor de alho.
+
+ 453: 10:21:45.14 10:21:48.05  Duration 00:00:02.16  40
+Este é meu molho de alho negro
+
+ 454: 10:21:48.21 10:21:49.23  Duration 00:00:01.02  16
+para a# poutine.#
+
+ 455: 10:21:51.09 10:21:52.19  Duration 00:00:01.10  21
+E para o hambúrguer,
+
+ 456: 10:21:53.00 10:21:54.15  Duration 00:00:01.15  24
+é maionese com alho negro.
+
+ 457: 10:21:56.14 10:21:59.08  Duration 00:00:02.19  41
+O gosto do alho negro
+é realmente intenso.
+
+ 458: 10:22:00.24 10:22:03.24  Duration 00:00:03.00  45
+Esqueça o gosto de alho,
+não é nem um pouco isso.
+
+ 459: 10:22:04.04 10:22:07.01  Duration 00:00:02.22  43
+Tem o gosto de uma gama
+de vinagre balsâmico,
+
+ 460: 10:22:07.05 10:22:10.24  Duration 00:00:03.19  56
+café, chocolate,
+#porcini# seco, ameixa seca,
+
+ 461: 10:22:11.03 10:22:13.23  Duration 00:00:02.20  42
+anis, defumado
+e um pouco de alho no fim.
+
+ 462: 10:22:14.03 10:22:17.01  Duration 00:00:02.23  44
+#O alho negro dura muito tempo,
+quase 3 anos.#
+
+ 463: 10:22:17.06 10:22:18.19  Duration 00:00:01.13  23
+#Porém, o preço é alto#
+
+ 464: 10:22:18.23 10:22:20.19  Duration 00:00:01.21  28
+#pela transformação lenta.#
+
+ 465: 10:22:21.12 10:22:23.20  Duration 00:00:02.08  35
+#Mas um pouquinho
+basta para perfumar.#
+
+ 466: 10:22:23.24 10:22:26.13  Duration 00:00:02.14  38
+Procuramos usá-lo
+
+ 467: 10:22:26.18 10:22:27.15  Duration 00:00:00.22  13
+para a saúde.
+
+ 468: 10:22:27.19 10:22:30.08  Duration 00:00:02.14  38
+Ele enriquece o sabor
+e ao mesmo tempo
+
+ 469: 10:22:30.12 10:22:32.09  Duration 00:00:01.22  28
+é bacana, é diferente.
+
+ 470: 10:22:38.10 10:22:40.15  Duration 00:00:02.05  33
+Nosso produto de hoje
+é o manjericão.
+
+ 471: 10:22:40.19 10:22:43.22  Duration 00:00:03.03  47
+Conhecemos o verde,
+também chamado de# genovese.#
+
+ 472: 10:22:44.01 10:22:47.09  Duration 00:00:03.08  50
+Seu gosto e seu odor
+são associados à comida italiana,
+
+ 473: 10:22:47.13 10:22:49.21  Duration 00:00:02.08  35
+como a tradicional
+pizza Margherita
+
+ 474: 10:22:50.00 10:22:52.21  Duration 00:00:02.21  43
+ou a entrada com
+tomate e mozarela.
+
+ 475: 10:22:53.08 10:22:54.10  Duration 00:00:01.02  16
+#Ao cozinhar,#
+
+ 476: 10:22:54.15 10:22:56.24  Duration 00:00:02.09  35
+#adicione só no fim do cozimento#
+
+ 477: 10:22:57.03 10:22:58.18  Duration 00:00:01.15  24
+#para preservar seu sabor.#
+
+ 478: 10:22:58.23 10:23:01.20  Duration 00:00:02.22  43
+#Outra variedade menos conhecida
+é o roxo.#
+
+ 479: 10:23:02.00 10:23:04.08  Duration 00:00:02.08  35
+#Seu gosto é mais pronunciado,#
+
+ 480: 10:23:04.12 10:23:05.21  Duration 00:00:01.09  20
+#levemente picante.#
+
+ 481: 10:23:06.02 10:23:08.15  Duration 00:00:02.13  38
+#Ponha algumas folhas
+numa salda de frutas#
+
+ 482: 10:23:08.19 10:23:10.08  Duration 00:00:01.14  23
+#com morango e melão#
+
+ 483: 10:23:10.13 10:23:13.03  Duration 00:00:02.15  39
+#para uma explosão
+de cores na sobremesa.#
+
+ 484: 10:23:13.08 10:23:15.10  Duration 00:00:02.02  31
+#Pode combiná-lo com o verde#
+
+ 485: 10:23:15.15 10:23:16.15  Duration 00:00:01.00  15
+#para um# pesto.
+
+ 486: 10:23:16.21 10:23:19.21  Duration 00:00:03.00  45
+#O manjericão thai
+tem um gosto forte de anis.#
+
+ 487: 10:23:20.01 10:23:22.04  Duration 00:00:02.03  32
+#Ele é mais robusto
+que os outros,#
+
+ 488: 10:23:22.08 10:23:25.05  Duration 00:00:02.22  43
+#e assim podemos cozinhá-lo
+sem perder seu sabor.#
+
+ 489: 10:23:25.10 10:23:28.03  Duration 00:00:02.18  41
+Seu gosto único realça
+muitos pratos asiáticos,
+
+ 490: 10:23:28.07 10:23:30.05  Duration 00:00:01.23  29
+como curries ou salteados.
+
+ 491: 10:23:32.02 10:23:34.21  Duration 00:00:02.19  41
+#Obrigado por ver# L'épicerie
+na TV5 Monde.#
+
+ 492: 10:23:35.00 10:23:37.06  Duration 00:00:02.06  34
+#Até a próxima.#
+
+ 493: 10:23:41.03 10:23:43.15  Duration 00:00:02.12  37
+Adaptação: A. Gasparoni
+Legendagem: ECLAIR
+
