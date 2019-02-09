@@ -1,0 +1,1444 @@
+
+   1: 10:00:43.15 10:00:47.18  Duration 00:00:04.03  62
+      ANOMALIA
+
+   2: 10:02:08.12 10:02:09.11  Duration 00:00:00.24  14
+      Il y a un grand jardin.
+
+   3: 10:02:09.15 10:02:12.03  Duration 00:00:02.13  38
+      Tu pourras jouer au foot
+      avec tes copains.
+
+   4: 10:02:12.07 10:02:13.10  Duration 00:00:01.03  17
+      Tu m'écoutes, Lucas?
+
+   5: 10:02:13.14 10:02:15.06  Duration 00:00:01.17  25
+      Y a trop de neige pour jouer au foot.
+
+   6: 10:02:15.10 10:02:17.24  Duration 00:00:02.14  38
+      En plus, tous mes copains
+      sont restés à Genève.
+
+   7: 10:02:18.03 10:02:20.04  Duration 00:00:02.01  31
+      Tu vas t'en faire très vite
+      de nouveaux.
+
+   8: 10:02:20.08 10:02:21.04  Duration 00:00:00.21  13
+      Tu verras.
+
+   9: 10:02:22.05 10:02:24.07  Duration 00:00:02.02  31
+      La forêt près de la maison
+      est très sauvage.
+
+  10: 10:02:24.11 10:02:26.18  Duration 00:00:02.07  34
+      En plus, je suis sûre
+      qu'on verra des chouettes.
+
+  11: 10:02:26.22 10:02:29.10  Duration 00:00:02.13  38
+      On peut pas les voir,
+      elles sortent que la nuit.
+
+  12: 10:02:35.24 10:02:37.21  Duration 00:00:01.22  28
+      Tu peux éteindre cette tablette?
+
+  13: 10:02:38.00 10:02:40.01  Duration 00:00:02.01  31
+      Attends. Je finis mon chapitre.
+
+  14: 10:02:42.12 10:02:43.07  Duration 00:00:00.20  12
+      Maman?
+
+  15: 10:02:44.05 10:02:46.04  Duration 00:00:01.24  29
+      Je pourrai aller
+      au puits de la sorcière?
+
+  16: 10:02:46.08 10:02:47.24  Duration 00:00:01.16  25
+      Non, c'est trop dangereux.
+
+  17: 10:02:48.03 10:02:49.17  Duration 00:00:01.14  23
+      Mais je suis grand, maintenant.
+
+  18: 10:02:49.21 10:02:50.23  Duration 00:00:01.02  16
+      Et?
+
+  19: 10:02:51.19 10:02:54.00  Duration 00:00:02.06  34
+      Tu crois que les sorcières
+      existent encore?
+
+  20: 10:02:54.21 10:02:58.11  Duration 00:00:03.15  54
+      Tu parles des sorcières des contes,
+      celles qui volent sur des balais?
+
+  21: 10:02:58.15 10:02:59.13  Duration 00:00:00.23  14
+      Non.
+
+  22: 10:03:00.06 10:03:01.13  Duration 00:00:01.07  19
+      Les sorcières modernes.
+
+  23: 10:03:01.17 10:03:04.08  Duration 00:00:02.16  40
+      Ça peut être ta voisine.
+      Impossible de les reconnaître.
+
+  24: 10:03:11.21 10:03:14.04  Duration 00:00:02.08  35
+      Comme elles me manquaient,
+      ces montagnes.
+
+  25: 10:03:21.14 10:03:23.04  Duration 00:00:01.15  24
+      Papa va venir me voir?
+
+  26: 10:03:24.09 10:03:26.00  Duration 00:00:01.16  25
+      T'inquiète pas, il va venir.
+
+  27: 10:03:36.16 10:03:38.00  Duration 00:00:01.09  20
+      On est presque arrivés.
+
+  28: 10:03:52.08 10:03:53.03  Duration 00:00:00.20  12
+      T'as vu?
+
+  29: 10:03:53.15 10:03:55.05  Duration 00:00:01.15  24
+      C'est notre petit village.
+
+  30: 10:03:57.14 10:04:01.10  Duration 00:00:03.21  58
+      Mon cousin Jérôme tenait la laiterie.
+      Ma marraine habitait cette maison.
+
+  31: 10:04:07.16 10:04:08.16  Duration 00:00:01.00  15
+      Regarde.
+
+  32: 10:04:09.04 10:04:11.23  Duration 00:00:02.19  41
+      Ici, c'est ton école.
+      J'y étais moi aussi.
+
+  33: 10:04:12.18 10:04:13.23  Duration 00:00:01.05  18
+      Elle est moche.
+
+  34: 10:04:29.01 10:04:29.23  Duration 00:00:00.22  13
+      Regarde.
+
+  35: 10:04:30.03 10:04:31.21  Duration 00:00:01.18  26
+      C'est là que je vais travailler.
+
+  36: 10:04:38.04 10:04:40.07  Duration 00:00:02.03  32
+      Combien de cerveaux
+      t'as déjà trituré?
+
+  37: 10:04:40.11 10:04:42.15  Duration 00:00:02.04  32
+      Lucas, ces cerveaux, je les opère.
+
+  38: 10:04:42.19 10:04:44.10  Duration 00:00:01.16  25
+      C'est la même chose.
+
+  39: 10:04:44.14 10:04:47.01  Duration 00:00:02.12  37
+      Le Rosaire - Clinique
+
+  40: 10:05:21.00 10:05:22.06  Duration 00:00:01.06  19
+      Bonjour.
+
+  41: 10:05:26.04 10:05:27.18  Duration 00:00:01.14  23
+      - Merci. Au revoir.
+      - Merci.
+
+  42: 10:05:48.12 10:05:49.12  Duration 00:00:01.00  15
+      Ah, magnifique!
+
+  43: 10:05:49.16 10:05:51.11  Duration 00:00:01.20  27
+      - Et voilà.
+      - Posez-le. Merci.
+
+  44: 10:05:52.13 10:05:55.08  Duration 00:00:02.20  42
+      Et prévenez le Pr Wassermann
+      que le colis est arrivé.
+
+  45: 10:05:55.12 10:05:57.03  Duration 00:00:01.16  25
+      - S'il vous plaît.
+      - Très bien.
+
+  46: 10:05:58.19 10:06:00.03  Duration 00:00:01.09  20
+      Ouvrez l'œil gauche.
+
+  47: 10:06:00.07 10:06:02.15  Duration 00:00:02.08  35
+      Je suis honorée
+      d'être opérée par vous, docteur.
+
+  48: 10:06:02.19 10:06:05.04  Duration 00:00:02.10  36
+      - Professeur.
+      - Oh, pardon, "professeur".
+
+  49: 10:06:05.08 10:06:06.10  Duration 00:00:01.02  16
+      Ne bougez plus.
+
+  50: 10:06:06.14 10:06:09.18  Duration 00:00:03.04  47
+      Quitte à avoir un pépin de santé,
+      j'ai toujours préféré la tête.
+
+  51: 10:06:09.22 10:06:12.03  Duration 00:00:02.06  34
+      - J'ai eu de la chance.
+      - Ouvrez grand.
+
+  52: 10:06:12.07 10:06:16.06  Duration 00:00:03.24  59
+      Quand mes amies ont su où j'allais,
+      elles étaient vertes de jalousie.
+
+  53: 10:06:16.16 10:06:19.06  Duration 00:00:02.15  39
+      Cette clinique est si jolie.
+      On se croirait à l'hôtel.
+
+  54: 10:06:19.10 10:06:22.09  Duration 00:00:02.24  44
+      Si vous bougez,
+      l'examen va être désagréable. Ouvrez.
+
+  55: 10:06:22.13 10:06:25.14  Duration 00:00:03.01  46
+      Professeur? M. Bailly aimerait
+      vous voir. Un colis est arrivé.
+
+  56: 10:06:25.18 10:06:27.03  Duration 00:00:01.10  21
+      Je viens tout de suite.
+
+  57: 10:06:27.07 10:06:29.19  Duration 00:00:02.12  37
+      Vous me laissez tomber
+      au milieu de mon examen?
+
+  58: 10:06:29.23 10:06:31.18  Duration 00:00:01.20  27
+      Une urgence, chère madame.
+
+  59: 10:06:40.18 10:06:42.01  Duration 00:00:01.08  20
+      Posez-le là.
+
+  60: 10:06:47.07 10:06:51.08  Duration 00:00:04.01  61
+      Dire que nos ancêtres opéraient
+      avec des scies et des marteaux.
+
+  61: 10:06:51.12 10:06:52.18  Duration 00:00:01.06  19
+      Et tu vois,
+
+  62: 10:06:52.22 10:06:55.17  Duration 00:00:02.20  42
+      plus besoin d'ouvrir un crâne
+      pour atteindre le cerveau.
+
+  63: 10:06:55.22 10:06:57.07  Duration 00:00:01.10  21
+      C'est extraordinaire.
+
+  64: 10:06:57.24 10:06:59.01  Duration 00:00:01.02  16
+      On le posera là.
+
+  65: 10:07:00.13 10:07:03.04  Duration 00:00:02.16  40
+      Et sur sa gauche, la spécialiste.
+
+  66: 10:07:03.08 10:07:06.12  Duration 00:00:03.04  47
+      Ça serait bien
+      qu'elle fasse fonctionner le bras.
+
+  67: 10:07:07.01 10:07:07.24  Duration 00:00:00.23  14
+      Mais elle pourra.
+
+  68: 10:07:08.16 10:07:11.05  Duration 00:00:02.14  38
+      Quand le Dr Rossier sera parmi nous,
+      avec ce robot,
+
+  69: 10:07:11.10 10:07:14.07  Duration 00:00:02.22  43
+      on va pratiquer
+      une chirurgie exceptionnelle.
+
+  70: 10:07:14.11 10:07:16.09  Duration 00:00:01.23  29
+      Il faut leur dire
+      qu'elle est née ici.
+
+  71: 10:07:16.14 10:07:19.09  Duration 00:00:02.20  42
+      Ça leur plaira énormément,
+      aux donateurs.
+
+  72: 10:07:20.13 10:07:21.10  Duration 00:00:00.22  13
+      Mais tu vois,
+
+  73: 10:07:21.15 10:07:23.23  Duration 00:00:02.08  35
+      tu vas pouvoir partir
+      à la retraite tranquille.
+
+  74: 10:07:24.10 10:07:25.15  Duration 00:00:01.05  18
+      Ah oui?
+
+  75: 10:07:26.06 10:07:28.08  Duration 00:00:02.02  31
+      Cela dit, t'es irremplaçable,
+
+  76: 10:07:28.13 10:07:30.18  Duration 00:00:02.05  33
+      tu le sais bien,
+      ni par cette jeune femme,
+
+  77: 10:07:30.23 10:07:33.21  Duration 00:00:02.23  44
+      ni par n'importe qui, d'ailleurs.
+      T'es l'âme de la clinique.
+
+  78: 10:07:34.13 10:07:35.20  Duration 00:00:01.07  19
+      N'en rajoute pas trop.
+
+  79: 10:08:09.03 10:08:11.11  Duration 00:00:02.08  35
+      Tu t'es pas trompé de chemin?
+
+  80: 10:08:11.15 10:08:13.00  Duration 00:00:01.10  21
+      Non, c'est bien celui-ci.
+
+  81: 10:08:14.09 10:08:16.06  Duration 00:00:01.22  28
+      C'est l'ancien chemin de la source,
+
+  82: 10:08:16.10 10:08:19.01  Duration 00:00:02.16  40
+      que les gens ont emprunté
+      pendant des siècles.
+
+  83: 10:08:21.23 10:08:24.04  Duration 00:00:02.06  34
+      La route a été construite récemment.
+
+  84: 10:08:25.11 10:08:28.11  Duration 00:00:03.00  45
+      Avant, il n'y avait qu'un sentier
+      qui longeait la forêt.
+
+  85: 10:08:29.11 10:08:31.01  Duration 00:00:01.15  24
+      Je le faisais à pied, à l'époque.
+
+  86: 10:08:31.05 10:08:34.18  Duration 00:00:03.13  53
+      T'as de la chance. Maintenant,
+      on peut passer en voiture.
+
+  87: 10:08:46.07 10:08:47.15  Duration 00:00:01.08  20
+      J'ai renversé quelqu'un!
+
+  88: 10:08:56.13 10:08:57.24  Duration 00:00:01.11  22
+      - Où ça?
+      - Là, sur la route.
+
+  89: 10:08:58.23 10:09:00.01  Duration 00:00:01.03  17
+      Moi, j'ai vu personne.
+
+  90: 10:09:02.05 10:09:04.05  Duration 00:00:02.00  30
+      C'était peut-être un gros oiseau?
+
+  91: 10:09:05.03 10:09:06.18  Duration 00:00:01.15  24
+      Il a volé par-dessus.
+
+  92: 10:09:12.09 10:09:13.06  Duration 00:00:00.22  13
+      Allez, monte.
+
+  93: 10:10:09.23 10:10:11.09  Duration 00:00:01.11  22
+      Je peux aller à la balançoire?
+
+  94: 10:10:11.13 10:10:13.16  Duration 00:00:02.03  32
+      Pas tout de suite.
+      On vient d'arriver.
+
+  95: 10:10:36.09 10:10:38.00  Duration 00:00:01.16  25
+      Monsieur Déglise!
+
+  96: 10:10:41.07 10:10:43.07  Duration 00:00:02.00  30
+      Madame Valérie!
+
+  97: 10:10:43.11 10:10:44.17  Duration 00:00:01.06  19
+      Vous êtes déjà là?
+
+  98: 10:10:47.07 10:10:49.02  Duration 00:00:01.20  27
+      - Bravo, pour le poste.
+      - Merci.
+
+  99: 10:10:49.06 10:10:51.06  Duration 00:00:02.00  30
+      C'est ce que
+      vous avez toujours voulu.
+
+ 100: 10:10:52.00 10:10:53.06  Duration 00:00:01.06  19
+      Comment tu t'appelles?
+
+ 101: 10:10:53.10 10:10:54.05  Duration 00:00:00.20  12
+      Lucas.
+
+ 102: 10:10:54.09 10:10:55.12  Duration 00:00:01.03  17
+      Salut, Lucas.
+
+ 103: 10:10:55.16 10:10:57.00  Duration 00:00:01.09  20
+      Je peux y aller, maintenant?
+
+ 104: 10:10:57.04 10:10:59.05  Duration 00:00:02.01  31
+      Oui, mais attention,
+      elle est endommagée.
+
+ 105: 10:10:59.09 10:11:01.07  Duration 00:00:01.23  29
+      On va en installer une nouvelle.
+
+ 106: 10:11:01.11 10:11:03.21  Duration 00:00:02.10  36
+      Janine vous a préparé
+      quelques bricoles,
+
+ 107: 10:11:04.14 10:11:06.04  Duration 00:00:01.15  24
+      et un gâteau pour le petit.
+
+ 108: 10:11:06.08 10:11:07.11  Duration 00:00:01.03  17
+      Comme c'est gentil.
+
+ 109: 10:11:07.16 10:11:10.05  Duration 00:00:02.14  38
+      Les types, ils ont tout posé
+      n'importe comment.
+
+ 110: 10:11:10.09 10:11:11.06  Duration 00:00:00.22  13
+      Moi, j'ai aéré,
+
+ 111: 10:11:11.18 10:11:14.12  Duration 00:00:02.19  41
+      j'ai allumé la chaudière
+      mais il faut un peu de temps,
+
+ 112: 10:11:14.17 10:11:18.09  Duration 00:00:03.17  55
+      et pour l'eau, je remplis
+      aussi le bassin, on sait jamais.
+
+ 113: 10:11:18.13 10:11:19.21  Duration 00:00:01.08  20
+      Merci d'avoir tout préparé.
+
+ 114: 10:11:20.14 10:11:22.07  Duration 00:00:01.18  26
+      Depuis le temps, j'ai l'habitude.
+
+ 115: 10:11:23.13 10:11:25.06  Duration 00:00:01.18  26
+      Comment va votre père?
+
+ 116: 10:11:26.19 10:11:30.04  Duration 00:00:03.10  51
+      Il n'a plus toute sa tête,
+      il vit dans une maison de retraite.
+
+ 117: 10:11:31.12 10:11:32.15  Duration 00:00:01.03  17
+      Il aimait cette maison.
+
+ 118: 10:11:33.19 10:11:36.07  Duration 00:00:02.13  38
+      Dire qu'elle est vide
+      depuis si longtemps...
+
+ 119: 10:11:37.12 10:11:41.07  Duration 00:00:03.20  57
+      - Dommage qu'elle se vende pas.
+      - Je suis ravie de m'y installer.
+
+ 120: 10:11:41.12 10:11:43.12  Duration 00:00:02.00  30
+      C'est un peu grand,
+      pour une femme seule.
+
+ 121: 10:11:43.17 10:11:44.22  Duration 00:00:01.05  18
+      Monsieur Déglise...
+
+ 122: 10:11:45.01 10:11:46.16  Duration 00:00:01.15  24
+      Je sais, ça me regarde pas.
+
+ 123: 10:12:35.14 10:12:37.01  Duration 00:00:01.12  22
+      Il y a quelqu'un?
+
+ 124: 10:12:41.13 10:12:43.21  Duration 00:00:02.08  35
+      Vous pouvez sortir, hein.
+      J'ai pas peur.
+
+ 125: 10:12:48.20 10:12:49.15  Duration 00:00:00.20  12
+      C'est qui?
+
+ 126: 10:12:50.09 10:12:53.11  Duration 00:00:03.02  46
+      Ah, Lucas!
+      Tu me donnes un coup de main?
+
+ 127: 10:12:53.15 10:12:55.01  Duration 00:00:01.11  22
+      Il faut le mettre en route.
+
+ 128: 10:12:56.08 10:12:57.15  Duration 00:00:01.07  19
+      Regardez la bête.
+
+ 129: 10:13:00.22 10:13:03.16  Duration 00:00:02.19  41
+      Bon. Ben, moi,
+      j'ai besoin d'un homme fort.
+
+ 130: 10:13:03.20 10:13:04.20  Duration 00:00:01.00  15
+      T'es prêt?
+
+ 131: 10:13:05.10 10:13:06.17  Duration 00:00:01.07  19
+      Pas longtemps.
+
+ 132: 10:13:06.21 10:13:09.07  Duration 00:00:02.11  37
+      - Lucas, je vais te préparer un bain.
+      - Ouais.
+
+ 133: 10:14:34.12 10:14:37.07  Duration 00:00:02.20  42
+      Dis donc,
+      quand c'est rouillé, c'est rouillé.
+
+ 134: 10:14:38.05 10:14:41.01  Duration 00:00:02.21  43
+      Avant, on avait la source là-bas,
+      dans la forêt,
+
+ 135: 10:14:41.05 10:14:43.11  Duration 00:00:02.06  34
+      près du rocher
+      où la foudre est tombée.
+
+ 136: 10:14:44.00 10:14:46.05  Duration 00:00:02.05  33
+      Maintenant, elle est bouchée,
+      il n'y a plus d'eau.
+
+ 137: 10:14:46.09 10:14:48.14  Duration 00:00:02.05  33
+      C'était la vengeance de la sorcière.
+
+ 138: 10:14:49.14 10:14:51.05  Duration 00:00:01.16  25
+      Tu connais la légende, toi?
+
+ 139: 10:14:51.09 10:14:54.03  Duration 00:00:02.19  41
+      Il y a longtemps, une sorcière
+      a été jetée dans la source,
+
+ 140: 10:14:54.18 10:14:56.05  Duration 00:00:01.12  22
+      et depuis, elle s'est asséchée.
+
+ 141: 10:14:56.19 10:14:59.07  Duration 00:00:02.13  38
+      La légende dit que
+      quand la sorcière reviendra,
+
+ 142: 10:14:59.11 10:15:01.02  Duration 00:00:01.16  25
+      la source jaillira de nouveau.
+
+ 143: 10:15:02.04 10:15:04.23  Duration 00:00:02.19  41
+      Tout ça,
+      c'est des bêtises de la campagne.
+
+ 144: 10:15:06.14 10:15:08.10  Duration 00:00:01.21  28
+      Ma mère veut pas
+      que je m'en approche.
+
+ 145: 10:15:08.14 10:15:11.21  Duration 00:00:03.07  49
+      De toute façon, il y a une grille.
+      Mais elle a raison,
+
+ 146: 10:15:12.08 10:15:14.08  Duration 00:00:02.00  30
+      c'est un gouffre très profond.
+
+ 147: 10:15:34.16 10:15:36.00  Duration 00:00:01.09  20
+      Il est où, le rocher?
+
+ 148: 10:15:37.20 10:15:39.24  Duration 00:00:02.04  32
+      Que fais-tu?
+      Descends, tu vas tomber!
+
+ 149: 10:15:40.03 10:15:41.09  Duration 00:00:01.06  19
+      Tu verras rien d'ici.
+
+ 150: 10:15:42.17 10:15:44.05  Duration 00:00:01.13  23
+      Descends de là tout de suite!
+
+ 151: 10:16:00.20 10:16:01.23  Duration 00:00:01.03  17
+      Attends, bouge pas.
+
+ 152: 10:16:05.07 10:16:06.23  Duration 00:00:01.16  25
+      Il n'y a pas de fracture.
+
+ 153: 10:16:10.14 10:16:13.09  Duration 00:00:02.20  42
+      C'est idiot,
+      mais je l'ai pas vu monter.
+
+ 154: 10:16:21.11 10:16:22.19  Duration 00:00:01.08  20
+      Courage, mon chéri.
+
+ 155: 10:16:24.13 10:16:25.17  Duration 00:00:01.04  17
+      Allez, viens.
+
+ 156: 10:16:41.18 10:16:42.17  Duration 00:00:00.24  14
+      Allez, viens.
+
+ 157: 10:16:44.05 10:16:46.08  Duration 00:00:02.03  32
+      Ils vont me faire combien de points?
+
+ 158: 10:16:46.12 10:16:47.17  Duration 00:00:01.05  18
+      5 ou 6.
+
+ 159: 10:16:50.00 10:16:53.02  Duration 00:00:03.02  46
+      Ils vont aussi te vacciner
+      contre le tétanos.
+
+ 160: 10:16:53.07 10:16:55.03  Duration 00:00:01.21  28
+      La plaie va mettre du temps à guérir.
+
+ 161: 10:16:55.08 10:16:58.08  Duration 00:00:03.00  45
+      Faudra pas la mouiller.
+      Tu vas pas pouvoir jouer au foot.
+
+ 162: 10:16:58.12 10:16:59.23  Duration 00:00:01.11  22
+      Courage, mon petit chou.
+
+ 163: 10:17:13.06 10:17:15.07  Duration 00:00:02.01  31
+      Ça va piquer, mais je dois nettoyer.
+
+ 164: 10:17:15.11 10:17:17.17  Duration 00:00:02.06  34
+      T'as dû faire une chute vertigineuse.
+
+ 165: 10:17:21.00 10:17:23.05  Duration 00:00:02.05  33
+      Le Pr Wassermann
+      nous a parlé un peu de vous.
+
+ 166: 10:17:23.09 10:17:25.11  Duration 00:00:02.02  31
+      Vous avez travaillé ensemble,
+      c'est ça?
+
+ 167: 10:17:25.15 10:17:28.00  Duration 00:00:02.10  36
+      J'étais une de ses élèves à l'uni.
+
+ 168: 10:17:28.12 10:17:32.11  Duration 00:00:03.24  59
+      Vous deviez être dans les meilleurs,
+      car il dit du bien de personne.
+
+ 169: 10:17:32.21 10:17:35.16  Duration 00:00:02.20  42
+      C'est un homme exigeant,
+      y compris avec lui-même.
+
+ 170: 10:17:36.09 10:17:38.21  Duration 00:00:02.12  37
+      Tu vois, ça va déjà mieux.
+      Ça saigne plus.
+
+ 171: 10:17:40.05 10:17:41.09  Duration 00:00:01.04  17
+      Elle est belle.
+
+ 172: 10:17:42.12 10:17:44.10  Duration 00:00:01.23  29
+      C'est quoi, comme pierre?
+
+ 173: 10:17:44.14 10:17:45.09  Duration 00:00:00.20  12
+      Je sais pas.
+
+ 174: 10:17:45.13 10:17:48.01  Duration 00:00:02.13  38
+      Elle est dans ma famille
+      depuis longtemps.
+
+ 175: 10:17:50.00 10:17:51.03  Duration 00:00:01.03  17
+      Et l'assistant, il arrive?
+
+ 176: 10:17:51.08 10:17:53.08  Duration 00:00:02.00  30
+      Il est occupé, mais il va venir.
+
+ 177: 10:17:56.03 10:17:57.02  Duration 00:00:00.24  14
+      Je reviens. OK?
+
+ 178: 10:17:57.15 10:17:59.20  Duration 00:00:02.05  33
+      Je vais dire bonjour.
+      J'en ai pour 2 minutes.
+
+ 179: 10:18:11.24 10:18:12.23  Duration 00:00:00.24  14
+      Oui, entrez.
+
+ 180: 10:18:16.07 10:18:18.01  Duration 00:00:01.19  26
+      Ah, Valérie.
+
+ 181: 10:18:19.17 10:18:21.20  Duration 00:00:02.03  32
+      C'est magnifique,
+      de vous voir déjà là,
+
+ 182: 10:18:22.09 10:18:23.18  Duration 00:00:01.09  20
+      impatiente de commencer.
+
+ 183: 10:18:23.23 10:18:25.21  Duration 00:00:01.23  29
+      - Mon fils a eu un accident.
+      - Ah oui?
+
+ 184: 10:18:26.06 10:18:29.13  Duration 00:00:03.07  49
+      Il est dans l'une des meilleures
+      cliniques, qui sera bientôt la vôtre.
+
+ 185: 10:18:31.00 10:18:32.22  Duration 00:00:01.22  28
+      Un nouveau patient vient d'arriver.
+
+ 186: 10:18:33.12 10:18:35.05  Duration 00:00:01.18  26
+      Ça devrait vous intéresser.
+
+ 187: 10:18:35.09 10:18:36.22  Duration 00:00:01.13  23
+      Pourquoi venir vous saluer?
+
+ 188: 10:18:37.14 10:18:39.07  Duration 00:00:01.18  26
+      - Une simple analyse.
+      - Mon fils m'attend.
+
+ 189: 10:18:39.12 10:18:41.13  Duration 00:00:02.01  31
+      Ne vous inquiétez pas,
+      il y en a pour 5 min.
+
+ 190: 10:18:41.17 10:18:43.06  Duration 00:00:01.14  23
+      Je commence dans une semaine.
+
+ 191: 10:18:43.10 10:18:44.22  Duration 00:00:01.12  22
+      Allons, allons, Valérie.
+
+ 192: 10:18:45.01 10:18:47.13  Duration 00:00:02.12  37
+      Vous êtes l'un des meilleurs
+      neurochirurgiens,
+
+ 193: 10:18:47.18 10:18:49.23  Duration 00:00:02.05  33
+      et vous comptez
+      vos heures de travail?
+
+ 194: 10:18:53.06 10:18:54.19  Duration 00:00:01.13  23
+      #Welcome to the team.#
+
+ 195: 10:18:55.07 10:18:56.09  Duration 00:00:01.02  16
+      Merci.
+
+ 196: 10:19:02.13 10:19:05.09  Duration 00:00:02.21  43
+      Bénédicte,
+      on a besoin de toi en salle d'examen.
+
+ 197: 10:19:05.13 10:19:06.17  Duration 00:00:01.04  17
+      Oui, j'arrive.
+
+ 198: 10:19:07.21 10:19:10.02  Duration 00:00:02.06  34
+      Je reviens.
+      Tu restes tranquille, d'accord?
+
+ 199: 10:19:46.12 10:19:49.08  Duration 00:00:02.21  43
+      Il semblerait que ce jeune homme
+      soit monté dans une barque,
+
+ 200: 10:19:49.12 10:19:51.12  Duration 00:00:02.00  30
+      avec des amis pour son anniversaire.
+
+ 201: 10:19:51.16 10:19:53.11  Duration 00:00:01.20  27
+      Évidemment, ils ont beaucoup bu.
+
+ 202: 10:19:53.15 10:19:57.05  Duration 00:00:03.15  54
+      Il a fini par tomber à l'eau,
+      et sa tête a heurté un rocher.
+
+ 203: 10:19:57.09 10:19:59.23  Duration 00:00:02.14  38
+      Il a passé un CT-scan
+      que je vais vous montrer.
+
+ 204: 10:20:01.07 10:20:04.23  Duration 00:00:03.16  55
+      Il est resté un bon moment sous l'eau
+      avant qu'un ami le sorte.
+
+ 205: 10:20:05.02 10:20:08.04  Duration 00:00:03.02  46
+      Sauvé in extremis,
+      mais son cerveau est endommagé.
+
+ 206: 10:20:10.10 10:20:11.11  Duration 00:00:01.01  16
+      Bon, alors...
+
+ 207: 10:20:11.15 10:20:13.15  Duration 00:00:02.00  30
+      Non, ce ne sont pas les bons clichés.
+
+ 208: 10:20:14.01 10:20:17.10  Duration 00:00:03.09  50
+      Attendez-moi un instant.
+      Où est cet assistant? Max!
+
+ 209: 10:20:22.15 10:20:24.03  Duration 00:00:01.13  23
+      #Alexandre, réponds-moi.#
+
+ 210: 10:20:24.15 10:20:25.18  Duration 00:00:01.03  17
+      #Réponds-moi.#
+
+ 211: 10:20:28.08 10:20:29.11  Duration 00:00:01.03  17
+      Alexandre!
+
+ 212: 10:20:33.02 10:20:35.02  Duration 00:00:02.00  30
+      C'est pas vrai
+      ce qu'ils disent, hein?
+
+ 213: 10:20:35.07 10:20:36.06  Duration 00:00:00.24  14
+      C'est pas vrai?
+
+ 214: 10:20:40.00 10:20:42.02  Duration 00:00:02.02  31
+      Docteur Rossier, vous venez?
+
+ 215: 10:20:47.03 10:20:49.18  Duration 00:00:02.15  39
+      Tenez,
+      dites-moi ce que vous en pensez.
+
+ 216: 10:20:49.22 10:20:51.00  Duration 00:00:01.03  17
+      Il a quel âge?
+
+ 217: 10:20:51.05 10:20:52.01  Duration 00:00:00.21  13
+      21 ans.
+
+ 218: 10:20:55.10 10:20:57.13  Duration 00:00:02.03  32
+      Traumatisme craniocérébral.
+
+ 219: 10:20:58.01 10:21:00.05  Duration 00:00:02.04  32
+      Zone trouble au niveau du cortex.
+
+ 220: 10:21:00.10 10:21:03.18  Duration 00:00:03.08  50
+      Il faut suivre l'évolution
+      et opérer au plus tard demain matin.
+
+ 221: 10:21:04.19 10:21:08.19  Duration 00:00:04.00  60
+      Réservez le bloc pour le Dr Rossier
+      aujourd'hui à 16 h. Merci.
+
+ 222: 10:21:08.24 10:21:10.02  Duration 00:00:01.03  17
+      C'est moi qui opère?
+
+ 223: 10:21:10.06 10:21:11.04  Duration 00:00:00.23  14
+      Bien sûr.
+
+ 224: 10:21:11.08 10:21:13.21  Duration 00:00:02.13  38
+      Ce garçon a de la chance,
+      vous êtes très douée.
+
+ 225: 10:21:14.00 10:21:17.00  Duration 00:00:03.00  45
+      Vous verrez, mon équipe
+      vous assistera. Elle est formidable.
+
+ 226: 10:21:17.04 10:21:19.06  Duration 00:00:02.02  31
+      Laissez-moi le temps d'atterrir.
+
+ 227: 10:21:19.10 10:21:22.13  Duration 00:00:03.03  47
+      Dans notre métier,
+      plus on opère, plus on est respecté,
+
+ 228: 10:21:22.17 10:21:24.23  Duration 00:00:02.06  34
+      surtout si on est une jeune femme.
+
+ 229: 10:21:56.04 10:21:57.18  Duration 00:00:01.14  23
+      Toi aussi, t'as peur des médecins?
+
+ 230: 10:21:59.08 10:22:00.07  Duration 00:00:00.24  14
+      Suis-moi.
+
+ 231: 10:22:09.21 10:22:11.21  Duration 00:00:02.00  30
+      T'es sûr qu'on a le droit
+      d'être ici?
+
+ 232: 10:22:12.00 10:22:14.09  Duration 00:00:02.09  35
+      T'inquiète,
+      je connais cet hôpital par cœur.
+
+ 233: 10:22:14.14 10:22:16.13  Duration 00:00:01.24  29
+      Il peut rien t'arriver avec moi.
+
+ 234: 10:22:16.17 10:22:18.06  Duration 00:00:01.14  23
+      Mais on va où?
+
+ 235: 10:22:18.24 10:22:21.09  Duration 00:00:02.10  36
+      Tu verras. Allez, viens.
+
+ 236: 10:22:26.07 10:22:27.12  Duration 00:00:01.05  18
+      Mais on est où, ici?
+
+ 237: 10:22:27.16 10:22:29.05  Duration 00:00:01.14  23
+      C'est ma cachette.
+
+ 238: 10:22:29.09 10:22:31.14  Duration 00:00:02.05  33
+      T'inquiète,
+      personne peut nous trouver, là.
+
+ 239: 10:22:31.18 10:22:32.15  Duration 00:00:00.22  13
+      Viens.
+
+ 240: 10:22:34.01 10:22:35.04  Duration 00:00:01.03  17
+      Allez, viens.
+
+ 241: 10:22:48.03 10:22:49.18  Duration 00:00:01.15  24
+      J'aimerais bien avoir ta blouse.
+
+ 242: 10:22:50.03 10:22:52.09  Duration 00:00:02.06  34
+      C'est pour ceux
+      qui sont là depuis longtemps.
+
+ 243: 10:22:53.18 10:22:54.24  Duration 00:00:01.06  19
+      Ça fait mal?
+
+ 244: 10:22:55.03 10:22:57.05  Duration 00:00:02.02  31
+      On va me faire des points
+      et un vaccin.
+
+ 245: 10:22:58.05 10:22:59.08  Duration 00:00:01.03  17
+      Tout ici fait mal.
+
+ 246: 10:22:59.13 10:23:03.08  Duration 00:00:03.20  57
+      Je dois pas me mouiller, ni jouer
+      au foot jusqu'à ce que je guérisse.
+
+ 247: 10:23:03.12 10:23:05.09  Duration 00:00:01.22  28
+      Je connais une dame qui soigne vite,
+
+ 248: 10:23:06.00 10:23:07.09  Duration 00:00:01.09  20
+      et ça fait pas mal.
+
+ 249: 10:23:07.14 10:23:09.05  Duration 00:00:01.16  25
+      Elle met des plantes et ça guérit.
+
+ 250: 10:23:09.10 10:23:10.22  Duration 00:00:01.12  22
+      C'est magique.
+
+ 251: 10:23:12.13 10:23:15.00  Duration 00:00:02.12  37
+      T'inquiète,
+      il y a jamais personne qui vient ici.
+
+ 252: 10:23:15.04 10:23:16.16  Duration 00:00:01.12  22
+      Mais elle est où, cette dame?
+
+ 253: 10:23:16.20 10:23:18.18  Duration 00:00:01.23  29
+      Elle cueille des plantes
+      dans la forêt.
+
+ 254: 10:23:18.22 10:23:19.21  Duration 00:00:00.24  14
+      Laquelle?
+
+ 255: 10:23:20.13 10:23:21.17  Duration 00:00:01.04  17
+      Près du rocher foudroyé.
+
+ 256: 10:23:22.03 10:23:23.02  Duration 00:00:00.24  14
+      Tu le connais?
+
+ 257: 10:23:23.07 10:23:24.16  Duration 00:00:01.09  20
+      On le connaît tous.
+
+ 258: 10:23:35.11 10:23:37.08  Duration 00:00:01.22  28
+      Ça va aller, madame,
+      ne vous inquiétez pas.
+
+ 259: 10:23:38.24 10:23:41.10  Duration 00:00:02.11  37
+      Faut pas vous mettre
+      dans des états pareils.
+
+ 260: 10:23:41.15 10:23:43.20  Duration 00:00:02.05  33
+      - Je vais prier pour vous.
+      - Merci.
+
+ 261: 10:23:43.24 10:23:46.03  Duration 00:00:02.04  32
+      Bonjour.
+      Je peux vous aider, peut-être?
+
+ 262: 10:23:46.19 10:23:50.17  Duration 00:00:03.23  59
+      Oui. Mon fils était là.
+      Vous sauriez pas où il est passé?
+
+ 263: 10:23:50.22 10:23:52.05  Duration 00:00:01.08  20
+      Il était avec qui?
+
+ 264: 10:23:52.10 10:23:55.21  Duration 00:00:03.11  52
+      Une infirmière aux cheveux courts,
+      bruns et une tache sur le visage.
+
+ 265: 10:23:56.01 10:23:58.22  Duration 00:00:02.21  43
+      On a personne
+      avec une tache sur le visage, ici.
+
+ 266: 10:23:59.01 10:24:00.03  Duration 00:00:01.02  16
+      Désolée.
+
+ 267: 10:24:11.17 10:24:12.17  Duration 00:00:01.00  15
+      Maman.
+
+ 268: 10:24:12.22 10:24:13.17  Duration 00:00:00.20  12
+      Oui?
+
+ 269: 10:24:14.22 10:24:16.05  Duration 00:00:01.08  20
+      Ça s'est bien passé?
+
+ 270: 10:24:18.07 10:24:19.02  Duration 00:00:00.20  12
+      Excusez-moi.
+
+ 271: 10:24:19.11 10:24:22.18  Duration 00:00:03.07  49
+      Vous avez vu la femme enceinte
+      et l'infirmière?
+
+ 272: 10:24:22.22 10:24:24.22  Duration 00:00:02.00  30
+      Il n'y avait personne
+      dans cette salle.
+
+ 273: 10:24:25.01 10:24:26.11  Duration 00:00:01.10  21
+      Ah bon?
+
+ 274: 10:24:27.20 10:24:29.03  Duration 00:00:01.08  20
+      Ça va, maman?
+
+ 275: 10:24:32.04 10:24:33.22  Duration 00:00:01.18  26
+      Je crois que je suis fatiguée.
+
+ 276: 10:24:34.02 10:24:36.02  Duration 00:00:02.00  30
+      Allez, je te ramène à la maison.
+
+ 277: 10:24:42.08 10:24:44.00  Duration 00:00:01.17  25
+      C'est un dossier ultra confidentiel.
+
+ 278: 10:24:44.04 10:24:47.06  Duration 00:00:03.02  46
+      Un homme politique important
+      qui veut rester discret.
+
+ 279: 10:24:48.08 10:24:50.16  Duration 00:00:02.08  35
+      Je serai muet comme une tombe,
+      professeur.
+
+ 280: 10:24:50.20 10:24:53.04  Duration 00:00:02.09  35
+      Je me tiendrai de ce côté-ci,
+      avec le patient,
+
+ 281: 10:24:53.08 10:24:55.14  Duration 00:00:02.06  34
+      et je vous dirai
+      quand commencer les clichés.
+
+ 282: 10:24:55.18 10:24:58.16  Duration 00:00:02.23  44
+      C'est pas la première fois
+      qu'on préserve l'anonymat.
+
+ 283: 10:24:58.21 10:25:00.17  Duration 00:00:01.21  28
+      Oui, mais cette fois,
+      c'est impératif.
+
+ 284: 10:25:00.21 10:25:01.21  Duration 00:00:01.00  15
+      Quoi?
+
+ 285: 10:25:02.21 10:25:03.18  Duration 00:00:00.22  13
+      C'est Obama?
+
+ 286: 10:25:03.23 10:25:05.03  Duration 00:00:01.05  18
+      Pourquoi pas?
+
+ 287: 10:25:06.01 10:25:07.15  Duration 00:00:01.14  23
+      Mais je ne vous dirai rien.
+
+ 288: 10:25:09.17 10:25:11.14  Duration 00:00:01.22  28
+      Bien, je reviens avec le patient.
+
+ 289: 10:25:11.18 10:25:13.10  Duration 00:00:01.17  25
+      Très bien, professeur.
+
+ 290: 10:25:23.17 10:25:25.06  Duration 00:00:01.14  23
+      Je fais comment pour voir?
+
+ 291: 10:25:35.00 10:25:35.23  Duration 00:00:00.23  14
+      Pas d'allergies?
+
+ 292: 10:25:36.03 10:25:37.21  Duration 00:00:01.18  26
+      - Pas d'allergies.
+      - Bien.
+
+ 293: 10:25:39.07 10:25:41.01  Duration 00:00:01.19  26
+      Assignation à la salle d'opération?
+
+ 294: 10:25:41.05 10:25:42.17  Duration 00:00:01.12  22
+      - Correcte.
+      - Très bien.
+
+ 295: 10:25:52.21 10:25:54.18  Duration 00:00:01.22  28
+      Docteur Rossier. Je vais vous opérer.
+
+ 296: 10:25:54.22 10:25:55.20  Duration 00:00:00.23  14
+      J'ai très froid.
+
+ 297: 10:25:56.00 10:25:58.14  Duration 00:00:02.14  38
+      Apportez-lui
+      une couverture chauffante.
+
+ 298: 10:25:58.19 10:26:01.21  Duration 00:00:03.02  46
+      - Pression intracrânienne?
+      - Nous avons tous les paramètres.
+
+ 299: 10:26:03.17 10:26:05.16  Duration 00:00:01.24  29
+      Vous pourriez tout de même
+      me présenter.
+
+ 300: 10:26:05.20 10:26:08.08  Duration 00:00:02.13  38
+      Bien sûr.
+      Je vous présente le Dr Rossier,
+
+ 301: 10:26:08.13 10:26:10.08  Duration 00:00:01.20  27
+      qui va effectuer l'opération.
+
+ 302: 10:26:14.12 10:26:16.04  Duration 00:00:01.17  25
+      Bien, vous pouvez disposer.
+
+ 303: 10:26:16.08 10:26:18.17  Duration 00:00:02.09  35
+      On vous appellera
+      quand le patient sera prêt.
+
+ 304: 10:26:19.08 10:26:22.01  Duration 00:00:02.18  41
+      Bonjour.
+      Docteur Valérie Rossier. Enchantée.
+
+ 305: 10:26:22.20 10:26:24.07  Duration 00:00:01.12  22
+      Docteur Rossier. Enchantée.
+
+ 306: 10:26:25.21 10:26:27.12  Duration 00:00:01.16  25
+      Bonjour. Docteur Rossier.
+
+ 307: 10:26:28.04 10:26:29.03  Duration 00:00:00.24  14
+      À tout à l'heure.
+
+ 308: 10:26:30.05 10:26:31.11  Duration 00:00:01.06  19
+      À tout à l'heure.
+
+ 309: 10:26:36.12 10:26:38.16  Duration 00:00:02.04  32
+      Bien. On peut commencer l'anesthésie.
+
+ 310: 10:27:40.23 10:27:41.24  Duration 00:00:01.01  16
+      Moteur.
+
+ 311: 10:27:45.15 10:27:46.21  Duration 00:00:01.06  19
+      Moteur prêt.
+
+ 312: 10:27:51.05 10:27:52.04  Duration 00:00:00.24  14
+      Insert.
+
+ 313: 10:27:56.06 10:27:57.09  Duration 00:00:01.03  17
+      Écarteur.
+
+ 314: 10:28:01.21 10:28:03.21  Duration 00:00:02.00  30
+      Écartez un peu plus.
+      Bistouri électrique.
+
+ 315: 10:28:15.15 10:28:16.15  Duration 00:00:01.00  15
+      Aspiration.
+
+ 316: 10:28:18.06 10:28:19.13  Duration 00:00:01.07  19
+      - Ça va?
+      - C'est bon.
+
+ 317: 10:28:22.18 10:28:23.24  Duration 00:00:01.06  19
+      Écartez un peu plus.
+
+ 318: 10:28:32.02 10:28:34.12  Duration 00:00:02.10  36
+      #Professeur, est-ce que vous êtes#
+      #avec le patient?#
+
+ 319: 10:28:34.16 10:28:36.06  Duration 00:00:01.15  24
+      #De mon côté, tout est en place.#
+
+ 320: 10:28:41.19 10:28:42.24  Duration 00:00:01.05  18
+      #Professeur?#
+
+ 321: 10:28:50.11 10:28:51.11  Duration 00:00:01.00  15
+      Compresse.
+
+ 322: 10:28:58.13 10:28:59.16  Duration 00:00:01.03  17
+      Krail.
+
+ 323: 10:29:07.12 10:29:08.17  Duration 00:00:01.05  18
+      C'est bon, Max.
+
+ 324: 10:29:08.21 10:29:12.07  Duration 00:00:03.11  52
+      Le patient est prêt. Commencez
+      les clichés dans l'ordre prescrit.
+
+ 325: 10:29:13.03 10:29:14.10  Duration 00:00:01.07  19
+      #Entendu.#
+
+ 326: 10:29:34.07 10:29:35.09  Duration 00:00:01.02  16
+      Rinçage.
+
+ 327: 10:29:40.24 10:29:42.00  Duration 00:00:01.01  16
+      Aspi?
+
+ 328: 10:29:43.01 10:29:44.01  Duration 00:00:01.00  15
+      Aspi.
+
+ 329: 10:30:32.24 10:30:34.21  Duration 00:00:01.22  28
+      - Tout va bien?
+      - Euh...
+
+ 330: 10:30:35.17 10:30:37.09  Duration 00:00:01.17  25
+      Oui, très bien.
+
+ 331: 10:30:39.21 10:30:40.17  Duration 00:00:00.21  13
+      Pince.
+
+ 332: 10:31:06.06 10:31:07.20  Duration 00:00:01.14  23
+      T'as fait des progrès.
+
+ 333: 10:31:45.17 10:31:46.12  Duration 00:00:00.20  12
+      Bonjour.
+
+ 334: 10:31:46.17 10:31:47.15  Duration 00:00:00.23  14
+      Je peux entrer?
+
+ 335: 10:31:47.20 10:31:49.00  Duration 00:00:01.05  18
+      Ça, pour une surprise!
+
+ 336: 10:31:49.05 10:31:50.03  Duration 00:00:00.23  14
+      Entre.
+
+ 337: 10:31:52.03 10:31:54.07  Duration 00:00:02.04  32
+      - Ça va?
+      - Ça fait plaisir de te voir.
+
+ 338: 10:31:54.11 10:31:56.23  Duration 00:00:02.12  37
+      J'aurais manqué ton arrivée
+      pour rien au monde.
+
+ 339: 10:32:00.05 10:32:02.00  Duration 00:00:01.20  27
+      Lucas, voici Anne, une amie à moi.
+
+ 340: 10:32:02.04 10:32:03.00  Duration 00:00:00.21  13
+      - Lucas.
+      - Bonjour.
+
+ 341: 10:32:03.04 10:32:05.12  Duration 00:00:02.08  35
+      Bonjour. Je suis contente
+      de t'avoir en classe.
+
+ 342: 10:32:05.16 10:32:07.22  Duration 00:00:02.06  34
+      Valérie m'a dit
+      que t'adorais l'histoire.
+
+ 343: 10:32:08.01 10:32:09.00  Duration 00:00:00.24  14
+      Bof.
+
+ 344: 10:32:10.02 10:32:11.16  Duration 00:00:01.14  23
+      Vous êtes déjà installés?
+
+ 345: 10:32:11.20 10:32:15.00  Duration 00:00:03.05  48
+      Attends de voir le reste
+      de la maison, un vrai désastre.
+
+ 346: 10:32:15.05 10:32:17.13  Duration 00:00:02.08  35
+      T'as l'air rayonnante.
+      C'est l'air de la campagne.
+
+ 347: 10:32:17.17 10:32:21.08  Duration 00:00:03.16  55
+      Tu peux te coucher, mon trésor?
+      Je viendrai après te faire un bisou.
+
+ 348: 10:32:33.02 10:32:35.11  Duration 00:00:02.09  35
+      Et ton frère?
+      Qu'est-ce qu'il est devenu?
+
+ 349: 10:32:35.15 10:32:37.20  Duration 00:00:02.05  33
+      Je crois qu'il est en Chine
+      en ce moment.
+
+ 350: 10:32:37.24 10:32:39.10  Duration 00:00:01.11  22
+      Il voyage, il est photographe.
+
+ 351: 10:32:39.15 10:32:42.14  Duration 00:00:02.24  44
+      Célibataire,
+      pas d'enfants pour l'encombrer.
+
+ 352: 10:32:43.13 10:32:45.19  Duration 00:00:02.06  34
+      - J'étais folle de lui.
+      - Oui.
+
+ 353: 10:32:45.24 10:32:47.21  Duration 00:00:01.22  28
+      Il me regardait même pas, l'idiot.
+
+ 354: 10:32:50.11 10:32:53.11  Duration 00:00:03.00  45
+      Heureusement qu'il y a mon Marc,
+      sinon je me serais butée.
+
+ 355: 10:32:53.15 10:32:56.11  Duration 00:00:02.21  43
+      Personne ne mérite
+      qu'on se mette dans un état pareil.
+
+ 356: 10:32:57.08 10:32:58.08  Duration 00:00:01.00  15
+      Ton mari fait quoi?
+
+ 357: 10:32:58.12 10:33:00.08  Duration 00:00:01.21  28
+      - Prof d'histoire.
+      - Pas mal.
+
+ 358: 10:33:05.06 10:33:08.15  Duration 00:00:03.09  50
+      C'est vraiment super de travailler
+      avec le Pr Wassermann, non?
+
+ 359: 10:33:10.10 10:33:11.14  Duration 00:00:01.04  17
+      Je me trompe?
+
+ 360: 10:33:12.09 10:33:15.06  Duration 00:00:02.22  43
+      Il a l'habitude de donner des ordres
+      à tout le monde.
+
+ 361: 10:33:15.10 10:33:18.21  Duration 00:00:03.11  52
+      Ceci dit, tu connais un chirurgien
+      qui n'a pas de problème d'égo?
+
+ 362: 10:33:25.23 10:33:28.15  Duration 00:00:02.17  40
+      Aujourd'hui, il m'a forcé la main.
+      J'aime pas ça.
+
+ 363: 10:33:29.17 10:33:31.15  Duration 00:00:01.23  29
+      Mon ancien poste
+      est encore disponible.
+
+ 364: 10:33:32.04 10:33:33.10  Duration 00:00:01.06  19
+      Tu regrettes?
+
+ 365: 10:33:33.19 10:33:36.21  Duration 00:00:03.02  46
+      - Ce serai idiot, non?
+      - Pourquoi tu l'as quitté, ce poste?
+
+ 366: 10:33:37.12 10:33:40.02  Duration 00:00:02.15  39
+      J'avais envie de venir travailler
+      dans ma région.
+
+ 367: 10:33:41.21 10:33:43.20  Duration 00:00:01.24  29
+      Faut avoir un peu de patience, alors.
+
+ 368: 10:33:44.12 10:33:46.13  Duration 00:00:02.01  31
+      Il lui reste que 2 ans,
+      c'est bien ça?
+
+ 369: 10:33:50.09 10:33:51.15  Duration 00:00:01.06  19
+      Tu te souviens...
+
+ 370: 10:33:52.00 10:33:55.12  Duration 00:00:03.12  52
+      Quand j'ai commencé, j'étais pas sûre
+      d'être faite pour ce métier.
+
+ 371: 10:33:55.17 10:33:58.09  Duration 00:00:02.17  40
+      À l'époque,
+      le Pr Wassermann était mon mentor.
+
+ 372: 10:33:58.19 10:34:02.11  Duration 00:00:03.17  55
+      Il m'a conviée dans son bureau
+      et m'a expliqué que la médecine,
+
+ 373: 10:34:03.17 10:34:07.04  Duration 00:00:03.12  52
+      la vie en général
+      n'était pas faite de certitudes,
+
+ 374: 10:34:07.08 10:34:09.10  Duration 00:00:02.02  31
+      qu'il faut oser avancer
+      dans le noir.
+
+ 375: 10:34:12.24 10:34:15.08  Duration 00:00:02.09  35
+      C'est grâce à lui
+      que je suis devenue médecin.
+
+ 376: 10:34:17.02 10:34:19.03  Duration 00:00:02.01  31
+      Les choses vont s'arranger,
+      tu verras.
+
+ 377: 10:34:24.23 10:34:26.01  Duration 00:00:01.03  17
+      Allez, il se fait tard.
+
+ 378: 10:34:42.19 10:34:44.04  Duration 00:00:01.10  21
+      Que feras-tu de cet endroit?
+
+ 379: 10:34:46.13 10:34:48.07  Duration 00:00:01.19  26
+      Moi, ça me fout les jetons, ici.
+
+ 380: 10:34:48.12 10:34:50.02  Duration 00:00:01.15  24
+      Tu crois à toutes ces histoires?
+
+ 381: 10:34:50.07 10:34:51.13  Duration 00:00:01.06  19
+      Non, mais...
+
+ 382: 10:34:52.18 10:34:53.23  Duration 00:00:01.05  18
+      Enfin si, un peu.
+
+ 383: 10:34:54.02 10:34:54.24  Duration 00:00:00.22  13
+      S'il te plaît...
+
+ 384: 10:34:55.14 10:34:57.10  Duration 00:00:01.21  28
+      On a déjà assez à faire
+      avec les vivants.
+
+ 385: 10:35:02.15 10:35:04.18  Duration 00:00:02.03  32
+      Aujourd'hui,
+      j'ai vu des choses bizarres.
+
+ 386: 10:35:06.17 10:35:09.04  Duration 00:00:02.12  37
+      Je suis tellement fatiguée
+      que je commence à halluciner.
+
+ 387: 10:35:09.08 10:35:11.09  Duration 00:00:02.01  31
+      Toi? Halluciner? Ça m'étonnerait.
+
+ 388: 10:35:11.13 10:35:12.08  Duration 00:00:00.20  12
+      Pourquoi?
+
+ 389: 10:35:12.12 10:35:15.00  Duration 00:00:02.13  38
+      T'as toujours fait marcher
+      ton côté rationnel.
+
+ 390: 10:35:15.05 10:35:16.13  Duration 00:00:01.08  20
+      Et j'en suis fière.
+
+ 391: 10:35:18.15 10:35:21.19  Duration 00:00:03.04  47
+      Moi, quand je suis fatiguée,
+      j'ai aussi des hallucinations.
+
+ 392: 10:35:21.24 10:35:23.19  Duration 00:00:01.20  27
+      Je vois mon lit qui me tend les bras.
+
+ 393: 10:35:23.24 10:35:25.00  Duration 00:00:01.01  16
+      T'as de la chance.
+
+ 394: 10:35:28.03 10:35:29.19  Duration 00:00:01.16  25
+      - C'était bon de te voir.
+      - Oui.
+
+ 395: 10:35:29.24 10:35:30.24  Duration 00:00:01.00  15
+      Rentre bien.
+
+ 396: 10:36:00.07 10:36:01.07  Duration 00:00:01.00  15
+      Coucou, maman.
+
+ 397: 10:36:01.11 10:36:03.07  Duration 00:00:01.21  28
+      - Je t'ai réveillé?
+      - Non.
+
+ 398: 10:36:08.10 10:36:09.16  Duration 00:00:01.06  19
+      Ça va, ta jambe?
+
+ 399: 10:36:12.00 10:36:13.18  Duration 00:00:01.18  26
+      C'était pas une sorcière.
+
+ 400: 10:36:14.20 10:36:15.21  Duration 00:00:01.01  16
+      De quoi tu parles?
+
+ 401: 10:36:16.00 10:36:17.09  Duration 00:00:01.09  20
+      De la légende.
+
+ 402: 10:36:17.13 10:36:19.01  Duration 00:00:01.13  23
+      Tu sais, on l'a tuée.
+
+ 403: 10:36:20.02 10:36:22.14  Duration 00:00:02.12  37
+      C'est Mr Déglise qui t'a raconté ça?
+
+ 404: 10:36:22.18 10:36:24.01  Duration 00:00:01.08  20
+      Ce sont des histoires.
+
+ 405: 10:36:24.20 10:36:26.15  Duration 00:00:01.20  27
+      La source est asséchée.
+
+ 406: 10:36:28.01 10:36:30.24  Duration 00:00:02.23  44
+      Si une source tarit, c'est
+      que la nappe phréatique est à sec.
+
+ 407: 10:36:31.03 10:36:32.17  Duration 00:00:01.14  23
+      Et cette femme, alors?
+
+ 408: 10:36:34.07 10:36:37.08  Duration 00:00:03.01  46
+      S'il y a une femme, je pense
+      qu'elle n'a rien fait de mal.
+
+ 409: 10:36:38.04 10:36:39.02  Duration 00:00:00.23  14
+      Tu sais,
+
+ 410: 10:36:39.19 10:36:42.22  Duration 00:00:03.03  47
+      à l'époque, on persécutait
+      les femmes pour pas grand-chose.
+
+ 411: 10:36:43.13 10:36:45.09  Duration 00:00:01.21  28
+      Il suffisait qu'elle soit seule
+
+ 412: 10:36:45.13 10:36:47.18  Duration 00:00:02.05  33
+      pour qu'on la considère comme folle,
+
+ 413: 10:36:47.22 10:36:50.17  Duration 00:00:02.20  42
+      ou qu'elle prétende
+      savoir guérir des gens.
+
+ 414: 10:36:50.21 10:36:52.03  Duration 00:00:01.07  19
+      Comme toi.
+
+ 415: 10:36:52.07 10:36:53.14  Duration 00:00:01.07  19
+      Comment ça "comme moi"?
+
+ 416: 10:36:53.18 10:36:55.06  Duration 00:00:01.13  23
+      Tu guéris les malades.
+
+ 417: 10:36:55.10 10:36:57.11  Duration 00:00:02.01  31
+      Moi, c'est pas pareil,
+      je suis médecin.
+
+ 418: 10:37:00.02 10:37:01.08  Duration 00:00:01.06  19
+      Allez, il se fait tard.
+
+ 419: 10:37:01.20 10:37:02.21  Duration 00:00:01.01  16
+      Bonne nuit.
+
+ 420: 10:39:13.10 10:39:14.17  Duration 00:00:01.07  19
+      Madame.
+
+ 421: 10:39:21.13 10:39:22.16  Duration 00:00:01.03  17
+      Madame.
+
+ 422: 10:40:38.22 10:40:41.22  Duration 00:00:03.00  45
+      Sous-titrage: ECLAIR
+
