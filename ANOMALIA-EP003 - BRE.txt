@@ -1,0 +1,1562 @@
+
+   1: 10:00:00.20 10:00:02.13  Duration 00:00:01.18  26
+      Précédemment dans #ANOMALIA#
+
+   2: 10:00:10.18 10:00:13.18  Duration 00:00:03.00  45
+      Comment va votre père?
+      Il aimait beaucoup cette maison.
+
+   3: 10:00:13.23 10:00:17.02  Duration 00:00:03.04  47
+      Elle est vide depuis si longtemps.
+      Bravo pour le poste.
+
+   4: 10:00:17.07 10:00:19.03  Duration 00:00:01.21  28
+      - Merci.
+      - C'est ce que vous vouliez.
+
+   5: 10:00:21.04 10:00:23.01  Duration 00:00:01.22  28
+      - Ah!
+      - Ah!
+
+   6: 10:00:23.21 10:00:26.07  Duration 00:00:02.11  37
+      - Mon fils a eu un accident.
+      - Ah oui?
+
+   7: 10:00:26.11 10:00:29.17  Duration 00:00:03.06  49
+      Il est dans la meilleure clinique
+      d'Europe, qui sera bientôt la vôtre.
+
+   8: 10:00:30.04 10:00:31.06  Duration 00:00:01.02  16
+      #Welcome to the team.#
+
+   9: 10:00:33.15 10:00:34.19  Duration 00:00:01.04  17
+      T'as peur des médecins?
+
+  10: 10:00:35.22 10:00:38.04  Duration 00:00:02.07  34
+      Je connais une dame
+      qui soigne très vite.
+
+  11: 10:00:38.09 10:00:40.08  Duration 00:00:01.24  29
+      Elle cueille des plantes
+      dans la forêt.
+
+  12: 10:00:40.13 10:00:41.17  Duration 00:00:01.04  17
+      Madame!
+
+  13: 10:00:42.22 10:00:43.24  Duration 00:00:01.02  16
+      Madame!
+
+  14: 10:00:50.22 10:00:52.06  Duration 00:00:01.09  20
+      Que lui avez-vous fait?
+
+  15: 10:00:52.11 10:00:54.00  Duration 00:00:01.14  23
+      C'est moi qui vous le demande.
+
+  16: 10:00:54.05 10:00:55.23  Duration 00:00:01.18  26
+      J'ai juste mis un peu de Bétadine.
+
+  17: 10:00:56.03 10:00:58.10  Duration 00:00:02.07  34
+      Sa plaie n'était pas si grave que ça.
+
+  18: 10:00:58.15 10:01:00.14  Duration 00:00:01.24  29
+      Ah si, les chairs étaient déchirées.
+
+  19: 10:01:01.15 10:01:02.23  Duration 00:00:01.08  20
+      Elle a mis des plantes.
+
+  20: 10:01:04.05 10:01:05.18  Duration 00:00:01.13  23
+      "Elle"?
+
+  21: 10:01:05.23 10:01:08.14  Duration 00:00:02.16  40
+      La femme de la forêt a été attaquée
+      par un médecin d'ici.
+
+  22: 10:01:08.18 10:01:10.16  Duration 00:00:01.23  29
+      Il est dangereux.
+      Ce qui peut l'arrêter,
+
+  23: 10:01:10.20 10:01:11.18  Duration 00:00:00.23  14
+      c'est un Grangerelt,
+
+  24: 10:01:11.23 10:01:14.05  Duration 00:00:02.07  34
+      une espèce de couteau très tranchant.
+
+  25: 10:01:16.18 10:01:18.04  Duration 00:00:01.11  22
+      Mais c'est quoi, ce bordel?
+
+  26: 10:01:18.08 10:01:19.10  Duration 00:00:01.02  16
+      Qu'est-ce que...?
+
+  27: 10:01:26.15 10:01:28.21  Duration 00:00:02.06  34
+      Ne remets plus jamais
+      les pieds ici
+
+  28: 10:01:29.01 10:01:31.05  Duration 00:00:02.04  32
+      si tu veux éviter
+      de rencontrer des sorcières.
+
+  29: 10:01:31.09 10:01:34.09  Duration 00:00:03.00  45
+      Ma mère dit que les sorcières
+      n'existent même pas.
+
+  30: 10:01:34.13 10:01:37.04  Duration 00:00:02.16  40
+      Tiens! Ta maman dit ça?
+
+  31: 10:01:37.08 10:01:39.13  Duration 00:00:02.05  33
+      Ben, je vais te dire, moi.
+
+  32: 10:01:39.17 10:01:41.03  Duration 00:00:01.11  22
+      Ta maman,
+
+  33: 10:01:41.07 10:01:42.04  Duration 00:00:00.22  13
+      elle se trompe.
+
+  34: 10:01:44.04 10:01:45.20  Duration 00:00:01.16  25
+      L'un de mes patients est mort.
+
+  35: 10:01:47.00 10:01:48.17  Duration 00:00:01.17  25
+      Il m'arrive des choses bizarres.
+
+  36: 10:01:49.19 10:01:51.22  Duration 00:00:02.03  32
+      #Quoi? Des cauchemars de nouveau?#
+
+  37: 10:01:53.19 10:01:54.14  Duration 00:00:00.20  12
+      Ça empire.
+
+  38: 10:01:58.01 10:02:01.00  Duration 00:00:02.24  44
+      Ça m'arrive maintenant
+      même quand je suis réveillée.
+
+  39: 10:02:03.03 10:02:05.09  Duration 00:00:02.06  34
+      C'est un dossier
+      ultra confidentiel, Max.
+
+  40: 10:02:05.14 10:02:07.14  Duration 00:00:02.00  30
+      C'est pas la première fois
+      qu'on fait ça.
+
+  41: 10:02:08.06 10:02:10.01  Duration 00:00:01.20  27
+      Mais cette fois, c'est impératif.
+
+  42: 10:02:59.10 10:03:04.03  Duration 00:00:04.18  71
+      ANOMALIA
+
+  43: 10:03:47.16 10:03:48.16  Duration 00:00:01.00  15
+      Tuez-la!
+
+  44: 10:03:51.04 10:03:52.12  Duration 00:00:01.08  20
+      Sorcière!
+
+  45: 10:03:56.01 10:03:57.15  Duration 00:00:01.14  23
+      - Jetez-la dans le puits.
+      - Tuez-la.
+
+  46: 10:03:57.20 10:03:59.01  Duration 00:00:01.06  19
+      Mettez-la à genoux.
+
+  47: 10:04:14.24 10:04:16.16  Duration 00:00:01.17  25
+      À mort! À mort!
+
+  48: 10:04:23.09 10:04:24.04  Duration 00:00:00.20  12
+      Jetez-la!
+
+  49: 10:06:28.21 10:06:31.21  Duration 00:00:03.00  45
+      - Tu viens d'où, comme ça?
+      - Je suis allé me promener.
+
+  50: 10:06:32.19 10:06:36.13  Duration 00:00:03.19  56
+      - Depuis quand tu te balades seul?
+      - Depuis qu'on vit à la campagne.
+
+  51: 10:06:39.00 10:06:41.24  Duration 00:00:02.24  44
+      Préviens-moi, la prochaine fois,
+      si ça ne te dérange pas.
+
+  52: 10:06:45.07 10:06:46.23  Duration 00:00:01.16  25
+      C'est quoi, ça?
+
+  53: 10:06:47.02 10:06:48.05  Duration 00:00:01.03  17
+      C'est pour l'école.
+
+  54: 10:07:02.19 10:07:05.18  Duration 00:00:02.24  44
+      Ça s'annonce pas très bien,
+      ce scanner anonyme.
+
+  55: 10:07:07.22 10:07:08.17  Duration 00:00:00.20  12
+      Suivante.
+
+  56: 10:07:11.08 10:07:15.00  Duration 00:00:03.17  55
+      J'ai l'impression qu'Obama risque
+      de jamais revenir en politique.
+
+  57: 10:07:17.17 10:07:18.23  Duration 00:00:01.06  19
+      Merci, Max.
+
+  58: 10:07:19.19 10:07:21.17  Duration 00:00:01.23  29
+      Montrez-moi le mésencéphale.
+
+  59: 10:07:28.00 10:07:29.16  Duration 00:00:01.16  25
+      Vous pouvez disposer.
+
+  60: 10:08:23.13 10:08:26.05  Duration 00:00:02.17  40
+      DIPLÔME
+      Peter Wassermann - Médecin
+
+  61: 10:09:31.11 10:09:32.06  Duration 00:00:00.20  12
+      Iseult
+
+  62: 10:09:46.22 10:09:47.20  Duration 00:00:00.23  14
+      Tu l'as trouvé où?
+
+  63: 10:09:48.00 10:09:50.08  Duration 00:00:02.08  35
+      Ah, mon cœur!
+
+  64: 10:09:50.13 10:09:51.22  Duration 00:00:01.09  20
+      Pardon. Tu l'as trouvé où?
+
+  65: 10:09:52.11 10:09:54.14  Duration 00:00:02.03  32
+      Dans la vieille chapelle,
+      en rangeant.
+
+  66: 10:09:54.18 10:09:57.04  Duration 00:00:02.11  37
+      Regarde. C'est une sorte de...
+
+  67: 10:09:57.21 10:10:00.10  Duration 00:00:02.14  38
+      d'arbre généalogique de la clinique.
+
+  68: 10:10:05.04 10:10:07.01  Duration 00:00:01.22  28
+      T'as entendu parler
+      du scanner anonyme?
+
+  69: 10:10:07.05 10:10:09.17  Duration 00:00:02.12  37
+      Max m'a rien dit de plus
+      et jure qu'il a rien vu.
+
+  70: 10:10:09.22 10:10:11.08  Duration 00:00:01.11  22
+      Non.
+
+  71: 10:10:12.15 10:10:13.16  Duration 00:00:01.01  16
+      Ta plante est toxique.
+
+  72: 10:10:14.24 10:10:16.08  Duration 00:00:01.09  20
+      Non, mais, attends. Quoi?
+
+  73: 10:10:16.12 10:10:17.07  Duration 00:00:00.20  12
+      Tu l'as pas mangé?
+
+  74: 10:10:17.12 10:10:18.20  Duration 00:00:01.08  20
+      J'ai fait une tisane avec.
+
+  75: 10:10:19.00 10:10:21.13  Duration 00:00:02.13  38
+      - Tu n'as pas fait...
+      - Pas celle-ci.
+
+  76: 10:10:23.17 10:10:25.01  Duration 00:00:01.09  20
+      C'était pour te protéger.
+
+  77: 10:10:26.07 10:10:27.12  Duration 00:00:01.05  18
+      Me protéger de quoi?
+
+  78: 10:10:28.21 10:10:30.03  Duration 00:00:01.07  19
+      Des esprits maléfiques.
+
+  79: 10:10:31.22 10:10:36.08  Duration 00:00:04.11  67
+      Des "esprits maléfiques"? J'ai
+      ce qu'il faut pour me protéger d'eux.
+
+  80: 10:10:36.12 10:10:38.06  Duration 00:00:01.19  26
+      Oui. Ça va aussi, ça.
+
+  81: 10:10:40.01 10:10:41.14  Duration 00:00:01.13  23
+      Regarde.
+
+  82: 10:10:42.22 10:10:44.08  Duration 00:00:01.11  22
+      Ce nom, là...
+
+  83: 10:10:45.00 10:10:46.09  Duration 00:00:01.09  20
+      Il est venu tout seul.
+
+  84: 10:10:47.14 10:10:48.20  Duration 00:00:01.06  19
+      C'est qui?
+
+  85: 10:10:48.24 10:10:50.21  Duration 00:00:01.22  28
+      Je sais pas, aucune idée.
+
+  86: 10:10:51.00 10:10:55.08  Duration 00:00:04.08  65
+      - Avant, il n'y avait que ce nom-là.
+      - C'est le fondateur de la clinique.
+
+  87: 10:10:55.13 10:10:57.10  Duration 00:00:01.22  28
+      - C'est ça.
+      - Celui-là s'appelle comme toi.
+
+  88: 10:10:58.08 10:11:01.01  Duration 00:00:02.18  41
+      Oui. C'est mon ancêtre,
+      Josef Dubois.
+
+  89: 10:11:01.06 10:11:02.13  Duration 00:00:01.07  19
+      Il était médecin aussi?
+
+  90: 10:11:02.17 10:11:06.12  Duration 00:00:03.20  57
+      Il assistait le Dr Wick
+      dans son combat contre l'ignorance.
+
+  91: 10:11:06.17 10:11:08.18  Duration 00:00:02.01  31
+      - Un type formidable.
+      - Un chasseur de sorcières?
+
+  92: 10:11:08.23 10:11:11.00  Duration 00:00:02.02  31
+      Peut-être, mais, disons...
+
+  93: 10:11:11.04 10:11:13.02  Duration 00:00:01.23  29
+      Je me sens fier,
+      quand je parle de lui.
+
+  94: 10:11:13.06 10:11:14.15  Duration 00:00:01.09  20
+      Tu parles!
+
+  95: 10:11:14.19 10:11:17.14  Duration 00:00:02.20  42
+      Peut-être,
+      mais ils se sont rarement trompés.
+
+  96: 10:11:19.00 10:11:21.01  Duration 00:00:02.01  31
+      Hé, regarde. Tiens voir ça.
+
+  97: 10:11:25.07 10:11:26.19  Duration 00:00:01.12  22
+      Comment ça se fait qu'elle soit là?
+
+  98: 10:11:26.23 10:11:28.05  Duration 00:00:01.07  19
+      La nouvelle doctoresse.
+
+  99: 10:11:28.10 10:11:31.18  Duration 00:00:03.08  50
+      Je t'ai déjà dit:
+      ce coin est hanté, il y en a partout.
+
+ 100: 10:11:33.01 10:11:34.12  Duration 00:00:01.11  22
+      Il y a quelque chose avec elle.
+
+ 101: 10:11:34.17 10:11:38.04  Duration 00:00:03.12  52
+      Quelques jours après son opération,
+      un de ses patients a parlé roumain,
+
+ 102: 10:11:38.09 10:11:41.01  Duration 00:00:02.17  40
+      d'un coup, alors qu'il
+      ne connaissait pas la langue.
+
+ 103: 10:11:41.05 10:11:42.20  Duration 00:00:01.15  24
+      Il avait un message pour elle.
+
+ 104: 10:11:43.11 10:11:44.06  Duration 00:00:00.20  12
+      Ah bon?
+
+ 105: 10:11:44.22 10:11:47.12  Duration 00:00:02.15  39
+      Elle a vu que ma tisane
+      était toxique sans la renifler.
+
+ 106: 10:11:47.17 10:11:50.23  Duration 00:00:03.06  49
+      Pas besoin de ça pour savoir
+      que c'est pas une plante à infuser.
+
+ 107: 10:11:51.02 10:11:52.21  Duration 00:00:01.19  26
+      Je te dis qu'elle est différente.
+
+ 108: 10:11:53.00 10:11:56.07  Duration 00:00:03.07  49
+      Son fils avait une blessure profonde
+      qui s'est guérie rapidement.
+
+ 109: 10:11:56.12 10:11:59.02  Duration 00:00:02.15  39
+      Son fils? Ah oui...
+
+ 110: 10:11:59.07 10:12:01.17  Duration 00:00:02.10  36
+      - Une petite peste.
+      - Il faut que j'y retourne.
+
+ 111: 10:12:01.21 10:12:02.16  Duration 00:00:00.20  12
+      - Oui.
+      - Ciao.
+
+ 112: 10:12:05.06 10:12:06.07  Duration 00:00:01.01  16
+      Voilà.
+
+ 113: 10:12:13.22 10:12:16.00  Duration 00:00:02.03  32
+      Dr Valérie Rossier
+
+ 114: 10:12:34.16 10:12:36.17  Duration 00:00:02.01  31
+      Jésus, Marie, Joseph!
+
+ 115: 10:12:44.09 10:12:46.18  Duration 00:00:02.09  35
+      Tu veux jouer à cache-cache
+      avec nous?
+
+ 116: 10:12:46.23 10:12:47.24  Duration 00:00:01.01  16
+      J'ai pas le temps.
+
+ 117: 10:12:52.00 10:12:54.21  Duration 00:00:02.21  43
+      - Vous l'avez mis où, mon patient?
+      - Dans la salle 2.
+
+ 118: 10:12:55.10 10:12:56.09  Duration 00:00:00.24  14
+      Merci.
+
+ 119: 10:13:00.03 10:13:01.08  Duration 00:00:01.05  18
+      Salut, Emma. Ça va?
+
+ 120: 10:13:02.04 10:13:03.18  Duration 00:00:01.14  23
+      T'es prête pour ton scanner?
+
+ 121: 10:13:04.19 10:13:06.20  Duration 00:00:02.01  31
+      Mon bras se remet à picoter.
+
+ 122: 10:13:06.24 10:13:08.09  Duration 00:00:01.10  21
+      C'est bientôt ton anniversaire.
+
+ 123: 10:13:09.14 10:13:10.18  Duration 00:00:01.04  17
+      On y va?
+
+ 124: 10:13:15.05 10:13:16.10  Duration 00:00:01.05  18
+      Son bras n'est pas mort.
+
+ 125: 10:13:17.00 10:13:18.22  Duration 00:00:01.22  28
+      Il est seulement endormi.
+
+ 126: 10:13:32.23 10:13:35.03  Duration 00:00:02.05  33
+      Ça a commencé ce matin.
+
+ 127: 10:13:36.23 10:13:39.04  Duration 00:00:02.06  34
+      Dites-moi quand ça aura cessé
+      de vibrer.
+
+ 128: 10:13:42.21 10:13:44.00  Duration 00:00:01.04  17
+      Et maintenant?
+
+ 129: 10:13:48.12 10:13:49.20  Duration 00:00:01.08  20
+      On est où?
+
+ 130: 10:13:50.10 10:13:53.00  Duration 00:00:02.15  39
+      À la clinique, avec la doctoresse.
+
+ 131: 10:13:54.06 10:13:55.20  Duration 00:00:01.14  23
+      Quel jour sommes-nous?
+
+ 132: 10:13:56.11 10:13:58.12  Duration 00:00:02.01  31
+      Ça fait 3 heures qu'il me demande ça.
+
+ 133: 10:14:00.00 10:14:04.10  Duration 00:00:04.10  66
+      D'abord, ça a été 1 833,
+      puis soudain 3 217.
+
+ 134: 10:14:05.01 10:14:06.12  Duration 00:00:01.11  22
+      C'était dérisoire.
+
+ 135: 10:14:08.00 10:14:11.06  Duration 00:00:03.06  49
+      - Papa a pris la bonne décision.
+      - Je sais pas ce qu'il raconte.
+
+ 136: 10:14:13.01 10:14:15.18  Duration 00:00:02.17  40
+      Monsieur Déglise,
+      vous me reconnaissez?
+
+ 137: 10:14:19.04 10:14:20.05  Duration 00:00:01.01  16
+      Oui.
+
+ 138: 10:14:20.18 10:14:21.24  Duration 00:00:01.06  19
+      Vous êtes madame Valérie.
+
+ 139: 10:14:23.23 10:14:27.06  Duration 00:00:03.08  50
+      On va s'assurer que tout va bien.
+      Vous allez passer un ECG.
+
+ 140: 10:14:27.10 10:14:30.16  Duration 00:00:03.06  49
+      - Je suis chrétien.
+      - On soigne aussi les chrétiens, ici.
+
+ 141: 10:14:30.21 10:14:32.13  Duration 00:00:01.17  25
+      Je voudrais le redresser.
+
+ 142: 10:14:34.12 10:14:37.16  Duration 00:00:03.04  47
+      - "Redresser" quoi?
+      - Le tabouret.
+
+ 143: 10:14:40.13 10:14:43.23  Duration 00:00:03.10  51
+      Je vais appeler une infirmière
+      pour lui faire passer les tests.
+
+ 144: 10:14:57.17 10:14:59.17  Duration 00:00:02.00  30
+      Salut. Ça va? Je t'attendais.
+
+ 145: 10:14:59.22 10:15:01.06  Duration 00:00:01.09  20
+      Tu me suis?
+
+ 146: 10:15:33.04 10:15:35.07  Duration 00:00:02.03  32
+      La clé est cachée
+      dans le meuble de la télé,
+
+ 147: 10:15:35.11 10:15:37.14  Duration 00:00:02.03  32
+      là où il garde ses bouteilles.
+
+ 148: 10:15:37.18 10:15:39.18  Duration 00:00:02.00  30
+      Il faudrait l'éloigner de la pièce.
+
+ 149: 10:15:44.17 10:15:45.16  Duration 00:00:00.24  14
+      Viens.
+
+ 150: 10:15:46.13 10:15:48.05  Duration 00:00:01.17  25
+      On va bien s'amuser.
+
+ 151: 10:15:53.24 10:15:56.04  Duration 00:00:02.05  33
+      - Quel âge a le patient?
+      - 68 ans.
+
+ 152: 10:15:57.02 10:15:58.15  Duration 00:00:01.13  23
+      Le caillot est là.
+
+ 153: 10:16:02.06 10:16:04.08  Duration 00:00:02.02  31
+      Il faut absolument effectuer
+      une thrombolyse.
+
+ 154: 10:16:04.13 10:16:06.01  Duration 00:00:01.13  23
+      Les symptômes sont apparus quand?
+
+ 155: 10:16:06.05 10:16:07.24  Duration 00:00:01.19  26
+      Ce matin.
+      Il est presque déjà trop tard.
+
+ 156: 10:16:09.13 10:16:11.04  Duration 00:00:01.16  25
+      On va lui faire 70 mg de TPA.
+
+ 157: 10:16:11.09 10:16:14.09  Duration 00:00:03.00  45
+      Le patient a un historique
+      d'hypertension artérielle.
+
+ 158: 10:16:14.14 10:16:17.08  Duration 00:00:02.19  41
+      Il risque un AVC
+      avec un pronostic vital défavorable.
+
+ 159: 10:16:17.12 10:16:18.16  Duration 00:00:01.04  17
+      Vous pensez pas que...?
+
+ 160: 10:16:18.20 10:16:19.16  Duration 00:00:00.21  13
+      Docteur Rossier.
+
+ 161: 10:16:20.05 10:16:22.06  Duration 00:00:02.01  31
+      Vous êtes tout à fait charmante,
+
+ 162: 10:16:22.24 10:16:24.23  Duration 00:00:01.24  29
+      mais vous avez
+      des choses à apprendre.
+
+ 163: 10:16:25.02 10:16:28.03  Duration 00:00:03.01  46
+      Dans cet établissement,
+      je décide du traitement administré.
+
+ 164: 10:16:28.07 10:16:29.14  Duration 00:00:01.07  19
+      Un jour, peut-être,
+
+ 165: 10:16:30.01 10:16:32.19  Duration 00:00:02.18  41
+      vous changerez les choses,
+      si vous êtes encore là.
+
+ 166: 10:16:33.24 10:16:36.11  Duration 00:00:02.12  37
+      Vous m'avez pas engagée
+      parce que je suis charmante.
+
+ 167: 10:16:36.15 10:16:38.24  Duration 00:00:02.09  35
+      Je comprends votre désarroi
+      quand un jeune médecin,
+
+ 168: 10:16:39.03 10:16:40.17  Duration 00:00:01.14  23
+      une femme, en plus,
+      ose vous tenir tête.
+
+ 169: 10:16:40.22 10:16:44.07  Duration 00:00:03.10  51
+      Je vous suggère, en tant que consœur,
+      de prendre quelques calmants.
+
+ 170: 10:16:44.11 10:16:45.16  Duration 00:00:01.05  18
+      Ce sera mieux pour tous.
+
+ 171: 10:17:05.05 10:17:07.04  Duration 00:00:01.24  29
+      #Tu savais qu'il était difficile.#
+
+ 172: 10:17:07.08 10:17:08.24  Duration 00:00:01.16  25
+      Mais pas à ce point.
+
+ 173: 10:17:09.03 10:17:12.20  Duration 00:00:03.17  55
+      #Il faut que tu te fasses ta place#
+      #petit à petit sans le bousculer.#
+
+ 174: 10:17:13.21 10:17:16.21  Duration 00:00:03.00  45
+      Je comprends pas
+      pourquoi il m'a fait venir.
+
+ 175: 10:17:17.00 10:17:18.12  Duration 00:00:01.12  22
+      #T'as encore 2 ans à tenir.#
+
+ 176: 10:17:20.12 10:17:21.14  Duration 00:00:01.02  16
+      - Je te laisse.
+      #- Ciao.#
+
+ 177: 10:17:22.08 10:17:23.04  Duration 00:00:00.21  13
+      Salut.
+
+ 178: 10:17:24.14 10:17:25.10  Duration 00:00:00.21  13
+      Tiens.
+
+ 179: 10:17:27.00 10:17:28.21  Duration 00:00:01.21  28
+      Tu voulais nous voir...
+
+ 180: 10:17:29.24 10:17:32.11  Duration 00:00:02.12  37
+      On l'a faite au dîner
+      quand on s'est revus.
+
+ 181: 10:17:33.09 10:17:35.05  Duration 00:00:01.21  28
+      Vous avez changé.
+
+ 182: 10:17:36.24 10:17:37.21  Duration 00:00:00.22  13
+      Comment va Sylvie?
+
+ 183: 10:17:39.15 10:17:40.18  Duration 00:00:01.03  17
+      Je sais pas.
+
+ 184: 10:17:42.03 10:17:45.18  Duration 00:00:03.15  54
+      - Vous n'êtes plus ensemble?
+      - Évitons ça, si ça te dérange pas.
+
+ 185: 10:17:47.21 10:17:49.16  Duration 00:00:01.20  27
+      - T'es venu juste pour la photo?
+      - Non.
+
+ 186: 10:17:49.21 10:17:51.07  Duration 00:00:01.11  22
+      Docteur Rossier.
+
+ 187: 10:17:51.11 10:17:53.05  Duration 00:00:01.19  26
+      - Si.
+      - Docteur Rossier!
+
+ 188: 10:17:53.10 10:17:55.18  Duration 00:00:02.08  35
+      - Le scan d'Emma est prêt.
+      - Merci. J'arrive.
+
+ 189: 10:17:57.14 10:17:59.22  Duration 00:00:02.08  35
+      Bon. Ben, il faut que j'y aille.
+
+ 190: 10:18:13.18 10:18:17.01  Duration 00:00:03.08  50
+      Emma a 5 ans. Elle est née avec
+      une hémiplégie du membre gauche.
+
+ 191: 10:18:17.06 10:18:18.17  Duration 00:00:01.11  22
+      Paralysie flasque.
+
+ 192: 10:18:18.21 10:18:21.11  Duration 00:00:02.15  39
+      C'est le Pr Wassermann
+      qui s'occupe d'elle.
+
+ 193: 10:18:21.15 10:18:25.07  Duration 00:00:03.17  55
+      Je sais plus si c'est la petite-fille
+      de sa cousine, de sa nièce...
+
+ 194: 10:18:25.11 10:18:27.12  Duration 00:00:02.01  31
+      Bref, ils sont de la même famille.
+
+ 195: 10:18:27.17 10:18:30.10  Duration 00:00:02.18  41
+      Chaque année, au moment
+      de son anniversaire... Bonjour.
+
+ 196: 10:18:30.14 10:18:32.06  Duration 00:00:01.17  25
+      Bonjour, Bénédicte. Continuez.
+
+ 197: 10:18:32.11 10:18:35.13  Duration 00:00:03.02  46
+      Au moment de son anniversaire,
+      elle ressent des picotements.
+
+ 198: 10:18:35.17 10:18:37.12  Duration 00:00:01.20  27
+      Enfin, c'est ce qu'elle prétend.
+
+ 199: 10:18:38.06 10:18:41.05  Duration 00:00:02.24  44
+      Chaque année, elle passe des examens
+      et malgré les picotements,
+
+ 200: 10:18:41.10 10:18:42.15  Duration 00:00:01.05  18
+      son bras reste paralysé.
+
+ 201: 10:18:42.19 10:18:44.23  Duration 00:00:02.04  32
+      Aussitôt après son anniversaire...
+
+ 202: 10:18:45.03 10:18:48.07  Duration 00:00:03.04  47
+      Bénédicte, vous pouvez rejoindre
+      votre poste, s'il vous plaît.
+
+ 203: 10:18:56.24 10:18:58.12  Duration 00:00:01.13  23
+      Que montre l'IRM du bras?
+
+ 204: 10:19:02.09 10:19:04.13  Duration 00:00:02.04  32
+      Il n'y a aucune anomalie
+      à ce niveau-là.
+
+ 205: 10:19:04.18 10:19:09.10  Duration 00:00:04.17  70
+      La myéline est normale, le statut
+      ostéotendineux et vasculaire aussi.
+
+ 206: 10:19:11.04 10:19:13.12  Duration 00:00:02.08  35
+      Pas d'altération cérébrale non plus.
+
+ 207: 10:19:15.17 10:19:17.14  Duration 00:00:01.22  28
+      Pourquoi son bras ne bouge pas?
+
+ 208: 10:19:17.19 10:19:22.10  Duration 00:00:04.16  70
+      - Quelque chose nous échappe.
+      - Non, rien ne nous échappe.
+
+ 209: 10:19:22.14 10:19:25.09  Duration 00:00:02.20  42
+      Il s'agit d'un phénomène
+      psychosomatique, voilà tout.
+
+ 210: 10:19:30.22 10:19:33.17  Duration 00:00:02.20  42
+      Excusez-moi. Je suis
+      un peu nerveux, ces temps-ci.
+
+ 211: 10:19:34.16 10:19:36.22  Duration 00:00:02.06  34
+      Je suis pas toujours
+      d'un naturel très facile,
+
+ 212: 10:19:37.02 10:19:39.11  Duration 00:00:02.09  35
+      comme vous avez pu le remarquer.
+
+ 213: 10:19:42.11 10:19:45.15  Duration 00:00:03.04  47
+      Si le cas de cette petite fille
+      vous intéresse,
+
+ 214: 10:19:45.20 10:19:47.14  Duration 00:00:01.19  26
+      vous pourrez toujours l'examiner.
+
+ 215: 10:19:47.19 10:19:49.08  Duration 00:00:01.14  23
+      Oui, j'aimerais beaucoup.
+
+ 216: 10:19:50.20 10:19:53.19  Duration 00:00:02.24  44
+      En revanche,
+      j'ai besoin d'un conseil.
+
+ 217: 10:19:55.22 10:19:57.09  Duration 00:00:01.12  22
+      Eh oui, ça m'arrive.
+
+ 218: 10:19:58.10 10:20:00.14  Duration 00:00:02.04  32
+      Je veux avoir l'avis d'une consœur.
+
+ 219: 10:20:04.19 10:20:06.14  Duration 00:00:01.20  27
+      - De qui s'agit-il?
+      - Oh...
+
+ 220: 10:20:06.19 10:20:10.01  Duration 00:00:03.07  49
+      D'un patient d'un certain âge
+      qui souhaite garder l'anonymat.
+
+ 221: 10:20:10.05 10:20:12.06  Duration 00:00:02.01  31
+      Alors, qu'est-ce que vous en pensez?
+
+ 222: 10:20:13.13 10:20:14.11  Duration 00:00:00.23  14
+      Parkinson.
+
+ 223: 10:20:15.06 10:20:16.03  Duration 00:00:00.22  13
+      Oui.
+
+ 224: 10:20:18.00 10:20:21.23  Duration 00:00:03.23  59
+      Vous ne pensez pas
+      que la déformation du locus niger
+
+ 225: 10:20:22.02 10:20:25.05  Duration 00:00:03.03  47
+      pourrait, par exemple,
+      provenir d'un facteur génétique?
+
+ 226: 10:20:28.03 10:20:30.21  Duration 00:00:02.18  41
+      - La dopamine, ça donne quoi?
+      - On va regarder.
+
+ 227: 10:20:39.23 10:20:42.09  Duration 00:00:02.11  37
+      Le taux est beaucoup trop bas,
+      il n'y a aucun doute.
+
+ 228: 10:20:43.18 10:20:44.23  Duration 00:00:01.05  18
+      Tenez.
+
+ 229: 10:20:45.02 10:20:47.12  Duration 00:00:02.10  36
+      Ce sont des clichés
+      beaucoup plus récents.
+
+ 230: 10:20:51.14 10:20:52.12  Duration 00:00:00.23  14
+      Ici.
+
+ 231: 10:20:53.03 10:20:54.01  Duration 00:00:00.23  14
+      Là.
+
+ 232: 10:20:57.19 10:21:00.19  Duration 00:00:03.00  45
+      Il pourrait s'agir
+      de micro lésions ischémiques
+
+ 233: 10:21:00.23 10:21:03.06  Duration 00:00:02.08  35
+      dues à un facteur
+      de calcification, non?
+
+ 234: 10:21:04.18 10:21:06.12  Duration 00:00:01.19  26
+      Aucun doute, c'est un Parkinson.
+
+ 235: 10:21:06.16 10:21:08.19  Duration 00:00:02.03  32
+      Il se développe
+      à une vitesse effarante.
+
+ 236: 10:21:11.13 10:21:13.21  Duration 00:00:02.08  35
+      Maintenant,
+      il faut le dire au patient.
+
+ 237: 10:21:14.11 10:21:15.10  Duration 00:00:00.24  14
+      Il faut être franc.
+
+ 238: 10:21:16.14 10:21:19.08  Duration 00:00:02.19  41
+      Le patient veut tout savoir
+      sur sa maladie,
+
+ 239: 10:21:19.12 10:21:21.19  Duration 00:00:02.07  34
+      c'est une manière pour lui
+      de la maitriser.
+
+ 240: 10:21:21.23 10:21:26.02  Duration 00:00:04.04  62
+      Je n'ai pas l'habitude de partager
+      mon diagnostic avec le patient.
+
+ 241: 10:21:26.06 10:21:29.11  Duration 00:00:03.05  48
+      J'ai l'impression qu'aujourd'hui,
+      le malade aime participer
+
+ 242: 10:21:29.15 10:21:31.04  Duration 00:00:01.14  23
+      à son processus de guérison.
+
+ 243: 10:21:32.08 10:21:33.05  Duration 00:00:00.22  13
+      Oui, bien sûr.
+
+ 244: 10:21:33.23 10:21:35.17  Duration 00:00:01.19  26
+      Mais vous oubliez une chose.
+
+ 245: 10:21:35.22 10:21:39.12  Duration 00:00:03.15  54
+      Dans le cas d'un Parkinson,
+      il n'y a aucun espoir de guérison.
+
+ 246: 10:21:40.12 10:21:41.17  Duration 00:00:01.05  18
+      C'est juste.
+
+ 247: 10:22:07.08 10:22:08.19  Duration 00:00:01.11  22
+      C'est celui-ci.
+
+ 248: 10:22:10.09 10:22:12.13  Duration 00:00:02.04  32
+      Il va entrer pour changer le fusible.
+
+ 249: 10:22:12.17 10:22:15.11  Duration 00:00:02.19  41
+      Et le temps qu'il revienne
+      j'aurais trouvé le...
+
+ 250: 10:22:15.15 10:22:16.18  Duration 00:00:01.03  17
+      Grangerelt.
+
+ 251: 10:22:16.22 10:22:19.04  Duration 00:00:02.07  34
+      Rappelle-toi, il est grand comme ça.
+
+ 252: 10:22:19.08 10:22:21.18  Duration 00:00:02.10  36
+      La lame est courbe,
+      le manche est en bois.
+
+ 253: 10:22:22.12 10:22:24.23  Duration 00:00:02.11  37
+      - Tu peux pas te tromper.
+      - Et s'il nous voit?
+
+ 254: 10:22:25.02 10:22:26.18  Duration 00:00:01.16  25
+      Alors il aura peur,
+
+ 255: 10:22:27.06 10:22:28.16  Duration 00:00:01.10  21
+      très peur.
+
+ 256: 10:22:30.05 10:22:31.01  Duration 00:00:00.21  13
+      OK.
+
+ 257: 10:22:31.05 10:22:33.19  Duration 00:00:02.14  38
+      - À tout à l'heure.
+      - À tout à l'heure.
+
+ 258: 10:24:13.19 10:24:15.10  Duration 00:00:01.16  25
+      Rien n'a vraiment évolué.
+
+ 259: 10:24:15.14 10:24:17.19  Duration 00:00:02.05  33
+      Les derniers examens sont formels.
+
+ 260: 10:24:19.02 10:24:22.00  Duration 00:00:02.23  44
+      La paralysie du bras reste
+      inexpliquée, je suis désolé.
+
+ 261: 10:24:22.04 10:24:24.07  Duration 00:00:02.03  32
+      J'aimerais avoir
+      un 2e avis médical.
+
+ 262: 10:24:24.11 10:24:25.22  Duration 00:00:01.11  22
+      Encore?
+
+ 263: 10:24:26.02 10:24:27.03  Duration 00:00:01.01  16
+      Docteur Rossier.
+
+ 264: 10:24:27.07 10:24:28.12  Duration 00:00:01.05  18
+      - J'arrive.
+      - Merci.
+
+ 265: 10:24:29.15 10:24:32.14  Duration 00:00:02.24  44
+      Ça nous aiderait peut-être
+      à comprendre ce qui se passe.
+
+ 266: 10:24:33.24 10:24:37.05  Duration 00:00:03.06  49
+      J'expliquais à Virginie que
+      vous souhaitiez examiner sa fille.
+
+ 267: 10:24:37.19 10:24:39.12  Duration 00:00:01.18  26
+      Le Dr Wassermann
+      la suit depuis 5 ans.
+
+ 268: 10:24:39.16 10:24:41.17  Duration 00:00:02.01  31
+      Pourquoi changer de praticien?
+
+ 269: 10:24:41.21 10:24:43.24  Duration 00:00:02.03  32
+      Je vous propose simplement
+      un 2e avis.
+
+ 270: 10:24:44.04 10:24:46.21  Duration 00:00:02.17  40
+      Il s'agit d'un cas singulier.
+
+ 271: 10:24:48.02 10:24:49.17  Duration 00:00:01.15  24
+      Ma fille n'est pas
+      une bête de cirque.
+
+ 272: 10:24:49.22 10:24:51.05  Duration 00:00:01.08  20
+      - Non.
+      - Je l'ai jamais pensé.
+
+ 273: 10:24:52.06 10:24:54.11  Duration 00:00:02.05  33
+      J'aimerais lui faire
+      un examen neurologique.
+
+ 274: 10:24:54.16 10:24:56.00  Duration 00:00:01.09  20
+      Elle en a subi assez comme ça.
+
+ 275: 10:24:56.04 10:24:58.23  Duration 00:00:02.19  41
+      Son bras reste paralysé.
+      D'un point de vue médical,
+
+ 276: 10:24:59.02 10:24:59.22  Duration 00:00:00.20  12
+      il n'y a aucune raison.
+
+ 277: 10:25:01.09 10:25:04.22  Duration 00:00:03.13  53
+      Virginie, le Dr Rossier
+      est un médecin très compétent.
+
+ 278: 10:25:07.18 10:25:08.16  Duration 00:00:00.23  14
+      OK.
+
+ 279: 10:25:08.21 10:25:09.22  Duration 00:00:01.01  16
+      Bien.
+
+ 280: 10:25:11.10 10:25:12.13  Duration 00:00:01.03  17
+      Merci.
+
+ 281: 10:25:17.22 10:25:19.08  Duration 00:00:01.11  22
+      OK.
+
+ 282: 10:25:19.12 10:25:21.00  Duration 00:00:01.13  23
+      Tout est parfaitement normal.
+
+ 283: 10:25:27.02 10:25:28.19  Duration 00:00:01.17  25
+      On recommence une dernière fois.
+
+ 284: 10:25:29.20 10:25:30.15  Duration 00:00:00.20  12
+      Rappelle-toi:
+
+ 285: 10:25:31.04 10:25:33.15  Duration 00:00:02.11  37
+      #girafe pour la gauche,
+      dauphin pour la droite.#
+
+ 286: 10:25:43.15 10:25:45.06  Duration 00:00:01.16  25
+      Tout est parfaitement bien.
+
+ 287: 10:25:46.19 10:25:49.02  Duration 00:00:02.08  35
+      On a fini. Merci...
+
+ 288: 10:25:49.06 10:25:50.16  Duration 00:00:01.10  21
+      - Emma.
+      - Merci, Emma.
+
+ 289: 10:25:50.21 10:25:53.01  Duration 00:00:02.05  33
+      T'as été fantastique.
+      Bouge pas, j'arrive.
+
+ 290: 10:25:59.11 10:26:01.01  Duration 00:00:01.15  24
+      Tu iras dans une grande machine.
+
+ 291: 10:26:01.06 10:26:03.05  Duration 00:00:01.24  29
+      Une infirmière viendra te préparer.
+
+ 292: 10:26:09.23 10:26:11.08  Duration 00:00:01.10  21
+      #Viens. C'est juste là.#
+
+ 293: 10:26:13.00 10:26:16.21  Duration 00:00:03.21  58
+      #Un jour, ils vont nous séparer,
+      mais ma sœur ne voudra pas.#
+
+ 294: 10:26:18.20 10:26:20.02  Duration 00:00:01.07  19
+      T'aimerais quoi, toi?
+
+ 295: 10:26:20.07 10:26:23.03  Duration 00:00:02.21  43
+      #Ça doit être triste, d'être seul.#
+
+ 296: 10:26:23.16 10:26:24.23  Duration 00:00:01.07  19
+      Oui, c'est vrai.
+
+ 297: 10:26:26.00 10:26:27.21  Duration 00:00:01.21  28
+      #Vous parliez à quelqu'un?#
+
+ 298: 10:26:28.13 10:26:29.21  Duration 00:00:01.08  20
+      À sa petite sœur.
+
+ 299: 10:26:30.01 10:26:31.24  Duration 00:00:01.23  29
+      #Vous avez touché quelque chose, là?#
+
+ 300: 10:26:32.04 10:26:34.06  Duration 00:00:02.02  31
+      Je parlais juste à sa sœur.
+
+ 301: 10:26:34.11 10:26:36.13  Duration 00:00:02.02  31
+      Mais ce truc ne s'enclenche pas seul.
+
+ 302: 10:26:39.24 10:26:42.01  Duration 00:00:02.02  31
+      #Et toi, qu'est-ce que t'aimerais?#
+
+ 303: 10:26:45.12 10:26:46.18  Duration 00:00:01.06  19
+      #Oui, c'est vrai.#
+
+ 304: 10:27:24.05 10:27:26.09  Duration 00:00:02.04  32
+      Je teste maintenant l'index.
+
+ 305: 10:27:32.07 10:27:34.10  Duration 00:00:02.03  32
+      Le cerveau perçoit
+      parfaitement les stimuli.
+
+ 306: 10:27:48.17 10:27:49.18  Duration 00:00:01.01  16
+      Bénédicte?
+
+ 307: 10:27:50.11 10:27:52.12  Duration 00:00:02.01  31
+      On va mettre la petite en chambre.
+
+ 308: 10:27:53.04 10:27:56.03  Duration 00:00:02.24  44
+      Prévenez la mère
+      qu'on reprendra plus tard.
+
+ 309: 10:27:56.07 10:27:57.18  Duration 00:00:01.11  22
+      Merci.
+
+ 310: 10:28:39.11 10:28:42.20  Duration 00:00:03.09  50
+      - C'est toi, l'amphibien?
+      - Tu pensais à quelqu'un d'autre?
+
+ 311: 10:28:44.09 10:28:47.04  Duration 00:00:02.20  42
+      - Elles sont opaques?
+      - Oui, c'est pour l'entraînement.
+
+ 312: 10:28:47.21 10:28:49.10  Duration 00:00:01.14  23
+      Je dois apprendre
+      à évoluer dans la pénombre.
+
+ 313: 10:28:49.14 10:28:52.10  Duration 00:00:02.21  43
+      Et la lumière ne sert pas
+      à grand-chose, sous l'eau.
+
+ 314: 10:28:52.14 10:28:53.21  Duration 00:00:01.07  19
+      Tu veux essayer?
+
+ 315: 10:28:54.00 10:28:55.10  Duration 00:00:01.10  21
+      C'est pas trop mon truc.
+
+ 316: 10:28:55.14 10:28:57.09  Duration 00:00:01.20  27
+      Allez, je suis avec toi. Tiens.
+
+ 317: 10:29:02.22 10:29:03.24  Duration 00:00:01.02  16
+      Voilà.
+
+ 318: 10:29:06.05 10:29:07.19  Duration 00:00:01.14  23
+      Moi, je vais te guider.
+
+ 319: 10:29:07.23 10:29:09.04  Duration 00:00:01.06  19
+      Après, je te lâche.
+
+ 320: 10:29:09.08 10:29:11.13  Duration 00:00:02.05  33
+      Et puis après,
+      tu dois me retrouver, OK?
+
+ 321: 10:29:47.21 10:29:49.04  Duration 00:00:01.08  20
+      Ben, voilà.
+
+ 322: 10:29:49.08 10:29:50.23  Duration 00:00:01.15  24
+      L'obscurité, c'est pas mon truc.
+
+ 323: 10:29:51.02 10:29:54.11  Duration 00:00:03.09  50
+      Tu crois que c'est l'obscurité,
+      mais c'est pas vraiment le cas.
+
+ 324: 10:29:55.24 10:29:58.06  Duration 00:00:02.07  34
+      Si t'es bien concentrée
+      et bien détendue,
+
+ 325: 10:29:58.10 10:29:59.24  Duration 00:00:01.14  23
+      dans les grottes,
+      tu ressens des choses.
+
+ 326: 10:30:00.03 10:30:01.20  Duration 00:00:01.17  25
+      Tu peux même retrouver la sortie.
+
+ 327: 10:30:04.09 10:30:07.16  Duration 00:00:03.07  49
+      Je suis sûr que notre cerveau
+      a des pouvoirs qui nous échappent.
+
+ 328: 10:30:10.04 10:30:12.04  Duration 00:00:02.00  30
+      Tu dois me trouver ridicule.
+
+ 329: 10:30:12.08 10:30:13.08  Duration 00:00:01.00  15
+      Non.
+
+ 330: 10:30:14.08 10:30:16.12  Duration 00:00:02.04  32
+      En même temps, je suis pas trop...
+
+ 331: 10:30:18.17 10:30:22.16  Duration 00:00:03.24  59
+      T'es jamais venu dans le puits
+      sur la propriété de ma famille?
+
+ 332: 10:30:22.20 10:30:25.07  Duration 00:00:02.12  37
+      - Le puits?
+      - Le puits de la sorcière.
+
+ 333: 10:30:27.06 10:30:29.08  Duration 00:00:02.02  31
+      - Je rêve d'y descendre.
+      - Ah bon?
+
+ 334: 10:30:29.12 10:30:31.23  Duration 00:00:02.11  37
+      Il doit y avoir
+      un tas de trucs intéressants.
+
+ 335: 10:30:32.02 10:30:33.09  Duration 00:00:01.07  19
+      Oui, sûrement.
+
+ 336: 10:30:36.11 10:30:38.03  Duration 00:00:01.17  25
+      Peut-être que je pourrais venir?
+
+ 337: 10:30:38.07 10:30:39.18  Duration 00:00:01.11  22
+      Oui, si tu veux.
+
+ 338: 10:30:47.11 10:30:48.12  Duration 00:00:01.01  16
+      Bonjour.
+
+ 339: 10:30:48.16 10:30:50.09  Duration 00:00:01.18  26
+      - Vous avez bien dormi?
+      - Bien.
+
+ 340: 10:30:51.03 10:30:53.20  Duration 00:00:02.17  40
+      Vous reconnaissez cette dame,
+      à côté de vous?
+
+ 341: 10:30:53.24 10:30:55.24  Duration 00:00:02.00  30
+      Ma chère épouse.
+
+ 342: 10:30:56.19 10:30:58.12  Duration 00:00:01.18  26
+      Vous avez quel âge?
+
+ 343: 10:30:58.16 10:31:02.01  Duration 00:00:03.10  51
+      35 ans pour les dames,
+      68 en réalité.
+
+ 344: 10:31:03.07 10:31:06.15  Duration 00:00:03.08  50
+      Le Pr Wassermann et moi-même
+      avons examiné votre scanner.
+
+ 345: 10:31:07.08 10:31:09.02  Duration 00:00:01.19  26
+      Nous sommes du même avis.
+
+ 346: 10:31:09.06 10:31:11.13  Duration 00:00:02.07  34
+      Vous allez encore rester
+      en observation.
+
+ 347: 10:31:11.17 10:31:15.01  Duration 00:00:03.09  50
+      Et si tout va bien,
+      vous sortirez dans quelques jours.
+
+ 348: 10:31:15.05 10:31:18.14  Duration 00:00:03.09  50
+      Je suis content que ce soit vous
+      qui vous occupiez de moi.
+
+ 349: 10:31:18.18 10:31:21.03  Duration 00:00:02.10  36
+      Vous avez le coup, avec les malades.
+
+ 350: 10:31:21.07 10:31:23.05  Duration 00:00:01.23  29
+      #Nous sommes chrétiens.#
+
+ 351: 10:31:29.05 10:31:31.08  Duration 00:00:02.03  32
+      J'ai oublié un examen, je reviens.
+
+ 352: 10:32:19.18 10:32:21.02  Duration 00:00:01.09  20
+      Je peux vous aider?
+
+ 353: 10:32:26.06 10:32:27.01  Duration 00:00:00.20  12
+      Tout va bien?
+
+ 354: 10:32:29.13 10:32:31.19  Duration 00:00:02.06  34
+      - Où est Bénédicte?
+      - Elle est occupée.
+
+ 355: 10:32:34.19 10:32:36.18  Duration 00:00:01.24  29
+      Emmenez M. Déglise
+      dans sa chambre.
+
+ 356: 10:32:50.07 10:32:53.04  Duration 00:00:02.22  43
+      On va juste vous transférer
+      dans votre chambre.
+
+ 357: 10:32:54.06 10:32:55.07  Duration 00:00:01.01  16
+      Madame Déglise.
+
+ 358: 10:32:56.00 10:32:58.05  Duration 00:00:02.05  33
+      J'aimerais encore discuter avec vous.
+
+ 359: 10:32:59.05 10:33:02.11  Duration 00:00:03.06  49
+      - Il y a un problème?
+      - Non, pas de problème, mais...
+
+ 360: 10:33:03.10 10:33:05.03  Duration 00:00:01.18  26
+      J'ai une question embarrassante.
+
+ 361: 10:33:06.02 10:33:07.22  Duration 00:00:01.20  27
+      Votre mari a tenté de se suicider?
+
+ 362: 10:33:08.02 10:33:09.18  Duration 00:00:01.16  25
+      Camille? Non, pas lui.
+
+ 363: 10:33:10.24 10:33:12.22  Duration 00:00:01.23  29
+      Pourquoi vous me demandez ça?
+
+ 364: 10:33:13.01 10:33:14.20  Duration 00:00:01.19  26
+      Je sais pas, je...
+
+ 365: 10:33:16.06 10:33:19.03  Duration 00:00:02.22  43
+      C'est à cause des cendres...
+      On les a à la maison.
+
+ 366: 10:33:19.07 10:33:20.13  Duration 00:00:01.06  19
+      Les "cendres"?
+
+ 367: 10:33:20.17 10:33:23.15  Duration 00:00:02.23  44
+      On n'a pas pu l'enterrer.
+      C'est interdit, chez les chrétiens.
+
+ 368: 10:33:23.19 10:33:25.13  Duration 00:00:01.19  26
+      - Quoi donc?
+      - Le suicide.
+
+ 369: 10:33:26.03 10:33:28.12  Duration 00:00:02.09  35
+      - Mais de qui parlez-vous?
+      - De Camille.
+
+ 370: 10:33:28.16 10:33:30.18  Duration 00:00:02.02  31
+      - Il a tenté de se suicider?
+      - Non.
+
+ 371: 10:33:30.22 10:33:34.05  Duration 00:00:03.08  50
+      Pas mon Camille. C'était
+      l'arrière-grand-oncle de mon mari.
+
+ 372: 10:33:34.09 10:33:35.13  Duration 00:00:01.04  17
+      Il porte le même prénom.
+
+ 373: 10:33:36.23 10:33:39.20  Duration 00:00:02.22  43
+      Donc l'arrière-grand-oncle
+      de votre mari, Camille,
+
+ 374: 10:33:39.24 10:33:42.19  Duration 00:00:02.20  42
+      s'est suicidé et n'a pas pu
+      être enterré au cimetière?
+
+ 375: 10:33:43.17 10:33:46.04  Duration 00:00:02.12  37
+      Il s'est pendu.
+      Vous vous rendez compte?
+
+ 376: 10:33:46.08 10:33:48.21  Duration 00:00:02.13  38
+      Ça fait 3 générations
+      qu'on a ses cendres.
+
+ 377: 10:33:49.00 10:33:51.00  Duration 00:00:02.00  30
+      C'est lourd et c'est triste.
+
+ 378: 10:33:52.02 10:33:53.15  Duration 00:00:01.13  23
+      Allez, venez.
+
+ 379: 10:34:02.23 10:34:05.05  Duration 00:00:02.07  34
+      Ah! J'y arriverai jamais,
+      avec ce problème.
+
+ 380: 10:34:06.22 10:34:09.11  Duration 00:00:02.14  38
+      Parfois, on croit que les choses
+      fonctionnent d'une certaine façon.
+
+ 381: 10:34:09.15 10:34:12.02  Duration 00:00:02.12  37
+      Mais il se peut
+      qu'elles marchent autrement.
+
+ 382: 10:34:12.06 10:34:14.24  Duration 00:00:02.18  41
+      Regarde.
+      T'additionnes ça et ça d'abord.
+
+ 383: 10:34:15.04 10:34:17.05  Duration 00:00:02.01  31
+      Bon, tu connais la réponse.
+
+ 384: 10:34:19.17 10:34:21.11  Duration 00:00:01.19  26
+      Ah oui! C'est fastoche, en fait.
+
+ 385: 10:34:23.10 10:34:26.08  Duration 00:00:02.23  44
+      Salut, bonhomme. Si jamais,
+      la petite Emma est réveillée.
+
+ 386: 10:34:27.16 10:34:29.08  Duration 00:00:01.17  25
+      - À tout à l'heure.
+      - À tout à l'heure.
+
+ 387: 10:34:35.12 10:34:38.01  Duration 00:00:02.14  38
+      Aujourd'hui,
+      c'est moi qui vais t'examiner.
+
+ 388: 10:34:38.17 10:34:40.17  Duration 00:00:02.00  30
+      T'as vu la coccinelle?
+
+ 389: 10:34:40.22 10:34:41.22  Duration 00:00:01.00  15
+      Voilà.
+
+ 390: 10:34:42.01 10:34:42.23  Duration 00:00:00.22  13
+      Merci.
+
+ 391: 10:34:43.03 10:34:44.11  Duration 00:00:01.08  20
+      Je vais te piquer.
+
+ 392: 10:34:49.11 10:34:50.14  Duration 00:00:01.03  17
+      Tu sens quelque chose?
+
+ 393: 10:34:53.10 10:34:54.05  Duration 00:00:00.20  12
+      Et là?
+
+ 394: 10:34:58.02 10:34:59.10  Duration 00:00:01.08  20
+      Des fois, mon bras me chatouille.
+
+ 395: 10:35:01.11 10:35:02.23  Duration 00:00:01.12  22
+      Raconte-moi.
+
+ 396: 10:35:03.02 10:35:06.10  Duration 00:00:03.08  50
+      Le jour de mon anniversaire,
+      ça me chatouille beaucoup.
+
+ 397: 10:35:06.15 10:35:08.16  Duration 00:00:02.01  31
+      Ça me fait même rire.
+
+ 398: 10:35:08.20 10:35:10.10  Duration 00:00:01.15  24
+      C'est trop bien.
+
+ 399: 10:35:11.22 10:35:13.19  Duration 00:00:01.22  28
+      C'est comme s'il était mort?
+
+ 400: 10:35:14.23 10:35:18.14  Duration 00:00:03.16  55
+      Je dirais pas "mort".
+      Je dirais... endormi.
+
+ 401: 10:35:20.23 10:35:23.24  Duration 00:00:03.01  46
+      Et ta sœur?
+      Elle peut rentrer si elle veut.
+
+ 402: 10:35:24.04 10:35:25.11  Duration 00:00:01.07  19
+      Qu'est-ce que vous dites?
+
+ 403: 10:35:25.16 10:35:28.10  Duration 00:00:02.19  41
+      Je dis que sa jumelle,
+      si elle veut rentrer, elle peut.
+
+ 404: 10:35:28.15 10:35:30.04  Duration 00:00:01.14  23
+      Elle s'appelle comment, déjà?
+
+ 405: 10:35:33.13 10:35:34.08  Duration 00:00:00.20  12
+      Occupez-vous d'elle.
+
+ 406: 10:35:34.13 10:35:36.21  Duration 00:00:02.08  35
+      On va aller chercher une sucette.
+      Viens.
+
+ 407: 10:35:42.06 10:35:43.16  Duration 00:00:01.10  21
+      Qu'est-ce qui se passe?
+
+ 408: 10:35:53.01 10:35:54.06  Duration 00:00:01.05  18
+      Ça va?
+
+ 409: 10:35:54.22 10:35:56.12  Duration 00:00:01.15  24
+      J'ai quelque chose pour toi.
+
+ 410: 10:35:56.16 10:35:59.17  Duration 00:00:03.01  46
+      - Tu veux main gauche ou droite?
+      - Droite.
+
+ 411: 10:35:59.21 10:36:00.17  Duration 00:00:00.21  13
+      Raté.
+
+ 412: 10:36:03.05 10:36:04.07  Duration 00:00:01.02  16
+      Elle est jolie.
+
+ 413: 10:36:04.11 10:36:05.24  Duration 00:00:01.13  23
+      Elle est lourde aussi.
+
+ 414: 10:36:06.03 10:36:07.20  Duration 00:00:01.17  25
+      Je vais t'aider à l'ouvrir.
+
+ 415: 10:36:11.02 10:36:11.24  Duration 00:00:00.22  13
+      Tiens.
+
+ 416: 10:36:14.23 10:36:17.02  Duration 00:00:02.04  32
+      Tu veux garder le ruban
+      pour tes poupées?
+
+ 417: 10:36:20.18 10:36:22.08  Duration 00:00:01.15  24
+      Ça va aller, ta maman.
+
+ 418: 10:36:29.10 10:36:32.05  Duration 00:00:02.20  42
+      Elle est tellement petite.
+      Je lui avais rien dit.
+
+ 419: 10:36:33.20 10:36:35.08  Duration 00:00:01.13  23
+      Vous, vous étiez au courant?
+
+ 420: 10:36:35.12 10:36:37.07  Duration 00:00:01.20  27
+      Au courant?
+
+ 421: 10:36:40.02 10:36:43.05  Duration 00:00:03.03  47
+      J'ai perdu la sœur jumelle d'Emma
+      pendant l'accouchement.
+
+ 422: 10:36:45.07 10:36:47.01  Duration 00:00:01.19  26
+      C'est...
+
+ 423: 10:36:47.05 10:36:49.10  Duration 00:00:02.05  33
+      le cordon ombilical
+      qui l'a étranglée.
+
+ 424: 10:36:52.22 10:36:54.08  Duration 00:00:01.11  22
+      Emma n'en sait rien.
+
+ 425: 10:36:59.06 10:37:00.22  Duration 00:00:01.16  25
+      Son bras paralysé enlaçait sa sœur,
+
+ 426: 10:37:01.01 10:37:03.15  Duration 00:00:02.14  38
+      comme si elle voulait pas
+      la laisser partir.
+
+ 427: 10:37:09.18 10:37:12.06  Duration 00:00:02.13  38
+      Je vais aller vous chercher
+      un verre d'eau.
+
+ 428: 10:37:21.05 10:37:23.07  Duration 00:00:02.02  31
+      Vous pouvez vous occuper
+      de Mme Monard?
+
+ 429: 10:37:23.11 10:37:25.10  Duration 00:00:01.24  29
+      - Mais oui.
+      - Merci.
+
+ 430: 10:37:29.04 10:37:31.14  Duration 00:00:02.10  36
+      - Ça va?
+      - Et maman?
+
+ 431: 10:37:31.18 10:37:34.02  Duration 00:00:02.09  35
+      Elle va bien.
+      Elle est juste un peu fatiguée.
+
+ 432: 10:37:35.15 10:37:37.13  Duration 00:00:01.23  29
+      C'est triste, de perdre une sœur.
+
+ 433: 10:37:38.20 10:37:42.15  Duration 00:00:03.20  57
+      Mais si elle a vraiment existé,
+      peut-être qu'elle est là
+
+ 434: 10:37:42.19 10:37:44.02  Duration 00:00:01.08  20
+      et qu'elle m'accompagne.
+
+ 435: 10:37:44.14 10:37:46.24  Duration 00:00:02.10  36
+      Des fois, je la sens
+      tout près de moi.
+
+ 436: 10:37:56.10 10:37:58.23  Duration 00:00:02.13  38
+      Je suis sûre
+      qu'elle ne m'a pas abandonnée.
+
+ 437: 10:38:08.24 10:38:10.05  Duration 00:00:01.06  19
+      Peut-être.
+
+ 438: 10:38:21.17 10:38:23.20  Duration 00:00:02.03  32
+      Comment ça se fait
+      que le Dr Rossier sache
+
+ 439: 10:38:23.24 10:38:25.15  Duration 00:00:01.16  25
+      pour mon enfant?
+
+ 440: 10:38:25.19 10:38:27.03  Duration 00:00:01.09  20
+      Je ne sais pas.
+
+ 441: 10:38:27.24 10:38:31.15  Duration 00:00:03.16  55
+      - Je vais essayer d'éclaircir.
+      - Vous voulez faire une radio?
+
+ 442: 10:38:35.15 10:38:37.21  Duration 00:00:02.06  34
+      Docteur Rossier,
+      vous pouvez m'expliquer
+
+ 443: 10:38:38.00 10:38:40.11  Duration 00:00:02.11  37
+      comment avez su pour le décès
+      de la sœur d'Emma?
+
+ 444: 10:38:41.00 10:38:43.12  Duration 00:00:02.12  37
+      - C'est une erreur de ma part.
+      - Une "erreur".
+
+ 445: 10:38:43.17 10:38:47.11  Duration 00:00:03.19  56
+      À part son père, sa mère et moi-même,
+      personne n'était au courant.
+
+ 446: 10:38:47.16 10:38:50.21  Duration 00:00:03.05  48
+      J'ai vu une petite à la réception,
+      j'ai cru qu'elles étaient deux.
+
+ 447: 10:38:52.16 10:38:54.18  Duration 00:00:02.02  31
+      Non. Vous l'avez vu dans le dossier?
+
+ 448: 10:38:54.22 10:38:57.05  Duration 00:00:02.08  35
+      J'avais demandé
+      qu'on retire cette information.
+
+ 449: 10:38:57.10 10:38:58.14  Duration 00:00:01.04  17
+      Mais ça y était pas.
+
+ 450: 10:38:59.01 10:39:00.19  Duration 00:00:01.18  26
+      J'ai pas lu ça dans le dossier.
+
+ 451: 10:39:02.04 10:39:03.15  Duration 00:00:01.11  22
+      C'est juste une coïncidence.
+
+ 452: 10:39:29.20 10:39:32.02  Duration 00:00:02.07  34
+      Vous vous rendez compte
+      de ce que vous avez fait?
+
+ 453: 10:39:32.14 10:39:34.10  Duration 00:00:01.21  28
+      Son bras n'est plus paralysé.
+
+ 454: 10:39:50.24 10:39:55.11  Duration 00:00:04.12  67
+      ANOMALIA
+
+ 455: 10:41:00.21 10:41:04.16  Duration 00:00:03.20  57
+      Sous-titrage: ECLAIR
+
