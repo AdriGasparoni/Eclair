@@ -1,0 +1,913 @@
+
+   1: 10:00:00.24 10:00:04.07  Durée 00:00:03.08  Lisibilité 50
+      La dame de la forêt
+      est la seule qui peut m'aider.
+
+   2: 10:00:11.04 10:00:12.23  Durée 00:00:01.19  Lisibilité 26
+      Jacques est mort.
+
+   3: 10:00:13.02 10:00:15.06  Durée 00:00:02.04  Lisibilité 32
+      Il est pas réel, c'est un fantôme.
+
+   4: 10:00:15.10 10:00:17.04  Durée 00:00:01.19  Lisibilité 26
+      Laisse-moi!
+      Je veux quand même l'aider!
+
+   5: 10:00:33.05 10:00:37.01  Durée 00:00:03.21  Lisibilité 58
+      Bonjour à tous et merci d'assister
+      à cette journée historique.
+
+   6: 10:00:37.06 10:00:39.15  Durée 00:00:02.09  Lisibilité 35
+      Aujourd'hui,
+      nous aimerions vous démontrer
+
+   7: 10:00:39.20 10:00:41.19  Durée 00:00:01.24  Lisibilité 29
+      la manière dont nous agissons
+
+   8: 10:00:41.23 10:00:43.19  Durée 00:00:01.21  Lisibilité 28
+      si, hélas, un jour,
+      quelqu'un d'entre vous
+
+   9: 10:00:43.23 10:00:46.08  Durée 00:00:02.10  Lisibilité 36
+      se retrouve sur une table
+      d'opération comme celle-ci.
+
+  10: 10:00:46.13 10:00:48.23  Durée 00:00:02.10  Lisibilité 36
+      Lucas,
+      c'est l'heure de se réveiller.
+
+  11: 10:00:54.10 10:00:58.21  Durée 00:00:04.11  Lisibilité 67
+      #Vous êtes sur le portable de Valérie#
+      #Rossier. Laissez-moi un message.#
+
+  12: 10:01:10.16 10:01:13.01  Durée 00:00:02.10  Lisibilité 36
+      - Où est Lucas?
+      - Il est resté à la maison.
+
+  13: 10:01:13.21 10:01:14.20  Durée 00:00:00.24  Lisibilité 14
+      Non. J'ai cherché.
+
+  14: 10:01:18.09 10:01:20.15  Durée 00:00:02.06  Lisibilité 34
+      Lucas!
+
+  15: 10:01:21.16 10:01:24.09  Durée 00:00:02.18  Lisibilité 41
+      Alex,
+      je vais descendre dans le gouffre.
+
+  16: 10:01:25.06 10:01:27.00  Durée 00:00:01.19  Lisibilité 26
+      C'est Lucas. Il est tombé.
+
+  17: 10:02:14.02 10:02:15.22  Durée 00:00:01.20  Lisibilité 27
+      ANOMALIA
+
+  18: 10:03:00.18 10:03:03.06  Durée 00:00:02.13  Lisibilité 38
+      Lucas est tombé là-dedans.
+      Je veux pas que tu descendes.
+
+  19: 10:03:03.10 10:03:06.03  Durée 00:00:02.18  Lisibilité 41
+      On a plus le temps d'attendre.
+      Il faut y aller.
+
+  20: 10:03:06.08 10:03:07.05  Durée 00:00:00.22  Lisibilité 13
+      Ne prends pas de risques.
+
+  21: 10:03:07.09 10:03:10.06  Durée 00:00:02.22  Lisibilité 43
+      Je resterai pas ici avec l'espoir
+      que mon fils est encore en vie.
+
+  22: 10:03:11.16 10:03:13.24  Durée 00:00:02.08  Lisibilité 35
+      C'est toi qui choisis.
+      Tu te souviens de tout?
+
+  23: 10:03:14.03 10:03:14.23  Durée 00:00:00.20  Lisibilité 12
+      Ouais.
+
+  24: 10:03:19.24 10:03:20.19  Durée 00:00:00.20  Lisibilité 12
+      On y va.
+
+  25: 10:03:22.20 10:03:25.02  Durée 00:00:02.07  Lisibilité 34
+      Il y a la radio, là.
+      On reste en contact.
+
+  26: 10:03:44.03 10:03:45.04  Durée 00:00:01.01  Lisibilité 16
+      Libre.
+
+  27: 10:04:25.06 10:04:26.14  Durée 00:00:01.08  Lisibilité 20
+      Lucas!
+
+  28: 10:04:27.21 10:04:29.05  Durée 00:00:01.09  Lisibilité 20
+      Lucas!
+
+  29: 10:04:44.02 10:04:45.03  Durée 00:00:01.01  Lisibilité 16
+      Lucas?
+
+  30: 10:04:45.07 10:04:46.21  Durée 00:00:01.14  Lisibilité 23
+      On arrive, ne t'inquiète pas.
+
+  31: 10:05:04.10 10:05:05.23  Durée 00:00:01.13  Lisibilité 23
+      Regarde. Là.
+
+  32: 10:05:45.19 10:05:48.15  Durée 00:00:02.21  Lisibilité 43
+      #Je vais me cacher, Valérie.
+      Tu regardes pas, hein?#
+
+  33: 10:05:48.19 10:05:52.10  Durée 00:00:03.16  Lisibilité 55
+      #5, 6,#
+
+  34: 10:05:52.15 10:05:55.24  Durée 00:00:03.09  Lisibilité 50
+      7, 8,
+
+  35: 10:05:56.03 10:05:58.12  Durée 00:00:02.09  Lisibilité 35
+      9, 10.
+
+  36: 10:06:03.20 10:06:04.24  Durée 00:00:01.04  Lisibilité 17
+      Yves?
+
+  37: 10:06:08.14 10:06:09.17  Durée 00:00:01.03  Lisibilité 17
+      Yves!
+
+  38: 10:06:16.05 10:06:17.13  Durée 00:00:01.08  Lisibilité 20
+      Yves?
+
+  39: 10:06:17.18 10:06:20.05  Durée 00:00:02.12  Lisibilité 37
+      T'es là-dedans? Yves?
+
+  40: 10:06:24.14 10:06:25.14  Durée 00:00:01.00  Lisibilité 15
+      Valérie!
+
+  41: 10:06:26.14 10:06:30.02  Durée 00:00:03.13  Lisibilité 53
+      Je veux remonter.
+      Aide-moi à remonter.
+
+  42: 10:06:30.06 10:06:34.04  Durée 00:00:03.23  Lisibilité 59
+      - Je veux sortir. S'il te plaît.
+      - Doucement...
+
+  43: 10:06:35.12 10:06:38.06  Durée 00:00:02.19  Lisibilité 41
+      Tiens, tiens. Respire là-dedans.
+
+  44: 10:06:41.07 10:06:42.20  Durée 00:00:01.13  Lisibilité 23
+      Tout va bien se passer.
+
+  45: 10:06:43.17 10:06:45.07  Durée 00:00:01.15  Lisibilité 24
+      Du calme, du calme.
+
+  46: 10:06:46.02 10:06:47.13  Durée 00:00:01.11  Lisibilité 22
+      Voilà. Doucement.
+
+  47: 10:06:51.18 10:06:52.15  Durée 00:00:00.22  Lisibilité 13
+      Voilà.
+
+  48: 10:06:58.10 10:06:59.09  Durée 00:00:00.24  Lisibilité 14
+      Ça va aller.
+
+  49: 10:07:04.12 10:07:06.11  Durée 00:00:01.24  Lisibilité 29
+      Tu crois qu'il est encore en vie?
+
+  50: 10:07:09.01 10:07:10.19  Durée 00:00:01.18  Lisibilité 26
+      Il est débrouillard, Lucas.
+
+  51: 10:07:11.06 10:07:14.11  Durée 00:00:03.05  Lisibilité 48
+      Si t'as survécu à ta chute,
+      pourquoi pas lui?
+
+  52: 10:07:17.22 10:07:18.24  Durée 00:00:01.02  Lisibilité 16
+      Allez, viens.
+
+  53: 10:07:32.06 10:07:33.18  Durée 00:00:01.12  Lisibilité 22
+      On va y aller ensemble.
+
+  54: 10:07:34.08 10:07:37.18  Durée 00:00:03.10  Lisibilité 51
+      Tu restes derrière moi.
+      Ça va très bien se passer.
+
+  55: 10:07:38.09 10:07:39.10  Durée 00:00:01.01  Lisibilité 16
+      On va le trouver.
+
+  56: 10:07:40.07 10:07:41.02  Durée 00:00:00.20  Lisibilité 12
+      Allez.
+
+  57: 10:07:44.07 10:07:45.02  Durée 00:00:00.20  Lisibilité 12
+      Allô?
+
+  58: 10:07:47.03 10:07:47.23  Durée 00:00:00.20  Lisibilité 12
+      Allô?
+
+  59: 10:07:48.02 10:07:51.01  Durée 00:00:02.24  Lisibilité 44
+      #On a atteint le fond.
+      Le garçon n'est pas là.#
+
+  60: 10:07:53.08 10:07:54.12  Durée 00:00:01.04  Lisibilité 17
+      Je comprends rien.
+
+  61: 10:07:54.16 10:07:56.03  Durée 00:00:01.12  Lisibilité 22
+      Ils quittent le dôme.
+
+  62: 10:07:56.22 10:07:58.12  Durée 00:00:01.15  Lisibilité 24
+      Ils l'ont pas encore retrouvé.
+
+  63: 10:07:58.16 10:07:59.23  Durée 00:00:01.07  Lisibilité 19
+      Il est vivant?
+
+  64: 10:08:00.02 10:08:03.05  Durée 00:00:03.03  Lisibilité 47
+      Il semblerait qu'il se soit dirigé
+      vers une galerie.
+
+  65: 10:08:04.08 10:08:05.17  Durée 00:00:01.09  Lisibilité 20
+      Mais c'est pas possible!
+
+  66: 10:08:05.21 10:08:08.08  Durée 00:00:02.12  Lisibilité 37
+      Je peux pas vous en dire plus,
+      pour le moment.
+
+  67: 10:08:13.11 10:08:14.06  Durée 00:00:00.20  Lisibilité 12
+      Tiens, longe-toi.
+
+  68: 10:08:22.04 10:08:24.00  Durée 00:00:01.21  Lisibilité 28
+      On avance doucement.
+      Un pas après l'autre.
+
+  69: 10:08:24.15 10:08:26.08  Durée 00:00:01.18  Lisibilité 26
+      Lucas!
+
+  70: 10:08:45.05 10:08:46.21  Durée 00:00:01.16  Lisibilité 25
+      Et maintenant, on va où?
+
+  71: 10:08:53.10 10:08:56.10  Durée 00:00:03.00  Lisibilité 45
+      C'est pas toi qui a décrété
+      qu'il fallait prendre à gauche?
+
+  72: 10:08:56.23 10:08:59.06  Durée 00:00:02.08  Lisibilité 35
+      Mais c'étaient des histoires
+      de gosses.
+
+  73: 10:08:59.24 10:09:01.17  Durée 00:00:01.18  Lisibilité 26
+      On verra bien. Viens.
+
+  74: 10:09:45.19 10:09:46.24  Durée 00:00:01.05  Lisibilité 18
+      Des nouvelles du petit?
+
+  75: 10:09:47.04 10:09:49.09  Durée 00:00:02.05  Lisibilité 33
+      Ils l'ont toujours pas retrouvé.
+
+  76: 10:09:49.13 10:09:51.12  Durée 00:00:01.24  Lisibilité 29
+      - Elle est descendue aussi.
+      - Chez la sorcière?
+
+  77: 10:09:51.17 10:09:52.19  Durée 00:00:01.02  Lisibilité 16
+      Ah, tu recommences!
+
+  78: 10:09:52.23 10:09:56.02  Durée 00:00:03.04  Lisibilité 47
+      Attends, attends.
+      Tu connais pas la légende?
+
+  79: 10:09:57.10 10:09:59.24  Durée 00:00:02.14  Lisibilité 38
+      À l'époque, la source alimentait
+      toute la région.
+
+  80: 10:10:00.03 10:10:03.03  Durée 00:00:03.00  Lisibilité 45
+      D'où le nom du village:
+      Villars la Source.
+
+  81: 10:10:04.04 10:10:06.22  Durée 00:00:02.18  Lisibilité 41
+      On raconte que,
+      il y a à peu près 200 ans,
+
+  82: 10:10:07.20 10:10:10.04  Durée 00:00:02.09  Lisibilité 35
+      les villageois ont jeté la sorcière
+      dans le puits,
+
+  83: 10:10:10.08 10:10:11.17  Durée 00:00:01.09  Lisibilité 20
+      pour faire un exemple.
+
+  84: 10:10:12.04 10:10:13.18  Durée 00:00:01.14  Lisibilité 23
+      Elle s'y est noyée.
+
+  85: 10:10:14.12 10:10:16.16  Durée 00:00:02.04  Lisibilité 32
+      3 jours après, il y a plus d'eau.
+
+  86: 10:10:17.03 10:10:19.11  Durée 00:00:02.08  Lisibilité 35
+      La source s'est asséchée.
+
+  87: 10:10:19.15 10:10:21.12  Durée 00:00:01.22  Lisibilité 28
+      C'est comme ça
+      qu'elle s'est vengée.
+
+  88: 10:10:21.24 10:10:26.24  Durée 00:00:05.00  Lisibilité 75
+      Alors, la légende dit que le jour
+      où la sorcière reviendra,
+
+  89: 10:10:27.19 10:10:30.06  Durée 00:00:02.12  Lisibilité 37
+      la source jaillira à nouveau.
+
+  90: 10:10:30.22 10:10:32.10  Durée 00:00:01.13  Lisibilité 23
+      Et tu y crois, toi?
+
+  91: 10:10:33.09 10:10:35.03  Durée 00:00:01.19  Lisibilité 26
+      Ce jour est arrivé.
+
+  92: 10:10:58.04 10:11:01.13  Durée 00:00:03.09  Lisibilité 50
+      C'était beaucoup plus sec,
+      la dernière fois que je suis venu.
+
+  93: 10:11:23.22 10:11:25.00  Durée 00:00:01.03  Lisibilité 17
+      Lucas!
+
+  94: 10:11:30.17 10:11:32.17  Durée 00:00:02.00  Lisibilité 30
+      Là! Il est là!
+
+  95: 10:11:37.04 10:11:38.20  Durée 00:00:01.16  Lisibilité 25
+      Mon amour!
+
+  96: 10:11:39.14 10:11:41.17  Durée 00:00:02.03  Lisibilité 32
+      Est-ce qu'il respire?
+
+  97: 10:11:41.22 10:11:44.00  Durée 00:00:02.03  Lisibilité 32
+      C'est faible.
+      Il a les lèvres cyanosées.
+
+  98: 10:11:45.14 10:11:47.15  Durée 00:00:02.01  Lisibilité 31
+      Il faut le sortir tout de suite.
+
+  99: 10:11:47.20 10:11:50.07  Durée 00:00:02.12  Lisibilité 37
+      OK. J'y vais tout seul.
+      J'avancerai plus vite.
+
+ 100: 10:11:50.11 10:11:51.21  Durée 00:00:01.10  Lisibilité 21
+      Je reviens te chercher.
+
+ 101: 10:11:55.00 10:11:56.03  Durée 00:00:01.03  Lisibilité 17
+      Fais attention.
+
+ 102: 10:13:40.00 10:13:41.03  Durée 00:00:01.03  Lisibilité 17
+      C'est bon.
+
+ 103: 10:13:41.08 10:13:43.20  Durée 00:00:02.12  Lisibilité 37
+      Les secours sont dehors,
+      ils s'occupent de lui.
+
+ 104: 10:13:45.11 10:13:47.13  Durée 00:00:02.02  Lisibilité 31
+      Tu crois qu'il va s'en sortir?
+
+ 105: 10:13:48.10 10:13:50.12  Durée 00:00:02.02  Lisibilité 31
+      Il a la tête dure, ton fils.
+      T'inquiète.
+
+ 106: 10:13:53.01 10:13:54.08  Durée 00:00:01.07  Lisibilité 19
+      Viens.
+
+ 107: 10:15:06.10 10:15:08.21  Durée 00:00:02.11  Lisibilité 37
+      Apporte-les pour Jacques,
+      s'il te plaît.
+
+ 108: 10:15:09.00 10:15:11.09  Durée 00:00:02.09  Lisibilité 35
+      Lucas les a cueillies pour lui.
+
+ 109: 10:15:13.23 10:15:14.19  Durée 00:00:00.21  Lisibilité 13
+      Valérie?
+
+ 110: 10:15:15.19 10:15:17.14  Durée 00:00:01.20  Lisibilité 27
+      Mais t'as perdu la tête ou quoi?
+
+ 111: 10:15:25.19 10:15:28.21  Durée 00:00:03.02  Lisibilité 46
+      C'est parti, on décolle.
+      Il n'y a pas de temps à perdre.
+
+ 112: 10:15:42.20 10:15:44.18  Durée 00:00:01.23  Lisibilité 29
+      Le choc a dû être très violent.
+
+ 113: 10:15:47.08 10:15:49.04  Durée 00:00:01.21  Lisibilité 28
+      Il a des fissures
+      dans la boîte crânienne.
+
+ 114: 10:15:49.09 10:15:50.23  Durée 00:00:01.14  Lisibilité 23
+      Des fragments se sont détachés.
+
+ 115: 10:15:56.19 10:15:59.16  Durée 00:00:02.22  Lisibilité 43
+      On a un hématome
+      sur le lobe pariétal
+
+ 116: 10:15:59.21 10:16:02.06  Durée 00:00:02.10  Lisibilité 36
+      avec compression
+      des ventricules cérébraux.
+
+ 117: 10:16:06.00 10:16:06.22  Durée 00:00:00.22  Lisibilité 13
+      Valérie...
+
+ 118: 10:16:09.16 10:16:11.22  Durée 00:00:02.06  Lisibilité 34
+      La situation est très grave.
+
+ 119: 10:16:12.02 10:16:14.17  Durée 00:00:02.15  Lisibilité 39
+      Je ne peux pas prédire
+      les chances de récupération.
+
+ 120: 10:16:14.22 10:16:16.18  Durée 00:00:01.21  Lisibilité 28
+      Il faut drainer l'hématome, d'abord.
+
+ 121: 10:16:16.22 10:16:19.17  Durée 00:00:02.20  Lisibilité 42
+      Oui, on va pratiquer l'intervention
+      à l'aide du robot.
+
+ 122: 10:16:19.21 10:16:22.21  Durée 00:00:03.00  Lisibilité 45
+      J'ai fait appel au docteur Meyer.
+
+ 123: 10:16:23.01 10:16:24.22  Durée 00:00:01.21  Lisibilité 28
+      Nous ne sommes pas en état
+      d'opérer.
+
+ 124: 10:16:25.01 10:16:26.16  Durée 00:00:01.15  Lisibilité 24
+      Hors de question! Je veux l'opérer.
+
+ 125: 10:16:26.21 10:16:31.00  Durée 00:00:04.04  Lisibilité 62
+      Non! Vous êtes proche du patient,
+      et moi, vous savez ce qu'il en est.
+
+ 126: 10:16:31.12 10:16:33.01  Durée 00:00:01.14  Lisibilité 23
+      Il y a des médecins plus compétents.
+
+ 127: 10:16:33.05 10:16:35.09  Durée 00:00:02.04  Lisibilité 32
+      Mais il n'y a pas plus compétent
+      que vous,
+
+ 128: 10:16:35.13 10:16:37.18  Durée 00:00:02.05  Lisibilité 33
+      si vous voulez m'assister.
+
+ 129: 10:16:38.16 10:16:39.21  Durée 00:00:01.05  Lisibilité 18
+      En ce qui me concerne...
+
+ 130: 10:16:42.08 10:16:43.23  Durée 00:00:01.15  Lisibilité 24
+      je veux opérer mon fils.
+
+ 131: 10:16:47.03 10:16:48.04  Durée 00:00:01.01  Lisibilité 16
+      Vous êtes sûre?
+
+ 132: 10:16:53.02 10:16:55.06  Durée 00:00:02.04  Lisibilité 32
+      Je... Je vous assisterai.
+
+ 133: 10:16:55.18 10:16:56.18  Durée 00:00:01.00  Lisibilité 15
+      Merci.
+
+ 134: 10:17:03.19 10:17:04.16  Durée 00:00:00.22  Lisibilité 13
+      Merci.
+
+ 135: 10:17:32.11 10:17:34.19  Durée 00:00:02.08  Lisibilité 35
+      Vous pouvez installer
+      les capteurs de pression.
+
+ 136: 10:17:38.14 10:17:40.15  Durée 00:00:02.01  Lisibilité 31
+      On rajoute 20 milligrammes
+      de morphine.
+
+ 137: 10:17:42.02 10:17:42.22  Durée 00:00:00.20  Lisibilité 12
+      OK.
+
+ 138: 10:17:44.07 10:17:45.18  Durée 00:00:01.11  Lisibilité 22
+      Suture.
+
+ 139: 10:17:47.01 10:17:47.24  Durée 00:00:00.23  Lisibilité 14
+      On suture.
+
+ 140: 10:18:02.04 10:18:04.14  Durée 00:00:02.10  Lisibilité 36
+      Ça va faire 3 heures
+      qu'ils sont au bloc.
+
+ 141: 10:18:21.18 10:18:23.20  Durée 00:00:02.02  Lisibilité 31
+      Je voulais vous remercier
+      d'avoir sauvé mon fils.
+
+ 142: 10:18:26.04 10:18:27.21  Durée 00:00:01.17  Lisibilité 25
+      J'ai fait que mon travail.
+
+ 143: 10:18:33.17 10:18:35.01  Durée 00:00:01.09  Lisibilité 20
+      Merci quand même.
+
+ 144: 10:18:49.06 10:18:51.01  Durée 00:00:01.20  Lisibilité 27
+      Fin de l'intervention.
+
+ 145: 10:19:01.10 10:19:03.03  Durée 00:00:01.18  Lisibilité 26
+      On a fait ce qu'on a pu.
+
+ 146: 10:19:21.20 10:19:25.01  Durée 00:00:03.06  Lisibilité 49
+      Allez, mon bonhomme,
+      c'est à toi de jouer maintenant.
+
+ 147: 10:19:25.05 10:19:27.20  Durée 00:00:02.15  Lisibilité 39
+      Montre-nous
+      des signes d'activité cérébrale.
+
+ 148: 10:19:27.24 10:19:29.05  Durée 00:00:01.06  Lisibilité 19
+      Même très peu.
+
+ 149: 10:19:29.20 10:19:31.05  Durée 00:00:01.10  Lisibilité 21
+      Ça nous fera du bien.
+
+ 150: 10:19:34.08 10:19:36.03  Durée 00:00:01.20  Lisibilité 27
+      Bon travail, docteur Rossier.
+
+ 151: 10:19:36.07 10:19:37.02  Durée 00:00:00.20  Lisibilité 12
+      Merci.
+
+ 152: 10:20:03.05 10:20:05.06  Durée 00:00:02.01  Lisibilité 31
+      Je vais prendre
+      une chambre à l'hôtel.
+
+ 153: 10:20:07.22 10:20:10.05  Durée 00:00:02.08  Lisibilité 35
+      J'ai pas l'intention
+      de quitter la clinique.
+
+ 154: 10:20:10.09 10:20:12.01  Durée 00:00:01.17  Lisibilité 25
+      Tu peux aller chez moi, si tu veux.
+
+ 155: 10:20:12.05 10:20:14.07  Durée 00:00:02.02  Lisibilité 31
+      Non. J'aime pas cette maison.
+
+ 156: 10:20:16.03 10:20:18.23  Durée 00:00:02.20  Lisibilité 42
+      Si tu vivais dans un endroit
+      civilisé et moins dangereux...
+
+ 157: 10:20:20.10 10:20:21.17  Durée 00:00:01.07  Lisibilité 19
+      La grille était fermée à clé.
+
+ 158: 10:20:21.22 10:20:24.12  Durée 00:00:02.15  Lisibilité 39
+      Ah ouais? Et elle était
+      si bien cachée, cette clé,
+
+ 159: 10:20:24.17 10:20:27.10  Durée 00:00:02.18  Lisibilité 41
+      que Lucas a réussi
+      à mettre la main dessus?
+
+ 160: 10:20:28.08 10:20:29.17  Durée 00:00:01.09  Lisibilité 20
+      T'aurais pas dû venir ici avec lui.
+
+ 161: 10:20:29.22 10:20:31.12  Durée 00:00:01.15  Lisibilité 24
+      T'as pas le droit de me dire ça.
+
+ 162: 10:20:31.24 10:20:34.10  Durée 00:00:02.11  Lisibilité 37
+      Quand tu nous a quittés,
+      j'avais quoi comme choix?
+
+ 163: 10:20:35.20 10:20:37.20  Durée 00:00:02.00  Lisibilité 30
+      J'ai choisi la solution
+      la plus juste.
+
+ 164: 10:20:38.00 10:20:38.22  Durée 00:00:00.22  Lisibilité 13
+      "Juste"?
+
+ 165: 10:20:39.23 10:20:41.21  Durée 00:00:01.23  Lisibilité 29
+      C'est pas une question de justesse.
+
+ 166: 10:22:11.00 10:22:12.22  Durée 00:00:01.22  Lisibilité 28
+      Tu crois qu'il va s'en sortir?
+
+ 167: 10:22:13.01 10:22:14.02  Durée 00:00:01.01  Lisibilité 16
+      J'espère.
+
+ 168: 10:22:18.08 10:22:21.14  Durée 00:00:03.06  Lisibilité 49
+      J'ose même pas imaginer ce que
+      Valérie est en train de vivre.
+
+ 169: 10:22:30.18 10:22:32.24  Durée 00:00:02.06  Lisibilité 34
+      Les signes neurologiques
+      sont faibles.
+
+ 170: 10:22:34.04 10:22:36.02  Durée 00:00:01.23  Lisibilité 29
+      Son état reste inchangé.
+
+ 171: 10:22:36.06 10:22:38.15  Durée 00:00:02.09  Lisibilité 35
+      Il y a très peu d'espoir
+      qu'il se réveille.
+
+ 172: 10:22:43.11 10:22:46.00  Durée 00:00:02.14  Lisibilité 38
+      Il peut même rester plusieurs années
+      dans le coma.
+
+ 173: 10:22:49.06 10:22:50.23  Durée 00:00:01.17  Lisibilité 25
+      À moins d'un miracle.
+
+ 174: 10:22:51.02 10:22:53.16  Durée 00:00:02.14  Lisibilité 38
+      Il y a pas de miracle ici.
+      On parle médecine.
+
+ 175: 10:23:31.22 10:23:33.05  Durée 00:00:01.08  Lisibilité 20
+      Salut, Lucas.
+
+ 176: 10:23:33.10 10:23:36.02  Durée 00:00:02.17  Lisibilité 40
+      Je t'ai préparé un coin
+      dans ma chambre. Tu verras.
+
+ 177: 10:23:36.21 10:23:39.10  Durée 00:00:02.14  Lisibilité 38
+      On sera bien tous les deux.
+      On va bien s'amuser.
+
+ 178: 10:23:40.07 10:23:41.16  Durée 00:00:01.09  Lisibilité 20
+      Qu'est-ce que tu dis?
+
+ 179: 10:23:43.02 10:23:45.05  Durée 00:00:02.03  Lisibilité 32
+      Bientôt, il sera avec moi.
+
+ 180: 10:23:45.10 10:23:47.07  Durée 00:00:01.22  Lisibilité 28
+      Je ne serai plus jamais seul.
+
+ 181: 10:23:48.17 10:23:50.09  Durée 00:00:01.17  Lisibilité 25
+      On sera amis pour toujours.
+
+ 182: 10:23:50.14 10:23:52.05  Durée 00:00:01.16  Lisibilité 25
+      Laisse-le. Lucas n'ira nulle part.
+
+ 183: 10:23:52.10 10:23:55.09  Durée 00:00:02.24  Lisibilité 44
+      Si. Il ne tardera pas à me rejoindre.
+
+ 184: 10:23:55.14 10:23:56.16  Durée 00:00:01.02  Lisibilité 16
+      Sors d'ici!
+
+ 185: 10:24:00.24 10:24:01.24  Durée 00:00:01.00  Lisibilité 15
+      Lucas!
+
+ 186: 10:24:04.02 10:24:05.04  Durée 00:00:01.02  Lisibilité 16
+      Au secours!
+
+ 187: 10:24:05.24 10:24:06.22  Durée 00:00:00.23  Lisibilité 14
+      À l'aide!
+
+ 188: 10:24:52.19 10:24:54.05  Durée 00:00:01.11  Lisibilité 22
+      Il revient, là. C'est bon.
+
+ 189: 10:24:57.04 10:24:58.01  Durée 00:00:00.22  Lisibilité 13
+      Bien joué.
+
+ 190: 10:25:22.12 10:25:25.24  Durée 00:00:03.12  Lisibilité 52
+      Je me demande, si on construisait
+      une aile supplémentaire?
+
+ 191: 10:25:28.06 10:25:29.03  Durée 00:00:00.22  Lisibilité 13
+      À mon avis,
+
+ 192: 10:25:30.16 10:25:32.18  Durée 00:00:02.02  Lisibilité 31
+      on aura pas mal de patients
+      grâce à ce robot, non?
+
+ 193: 10:25:41.20 10:25:43.01  Durée 00:00:01.06  Lisibilité 19
+      Il va comment, le petit?
+
+ 194: 10:25:44.08 10:25:45.24  Durée 00:00:01.16  Lisibilité 25
+      Il ne passera pas la nuit.
+
+ 195: 10:25:47.17 10:25:50.20  Durée 00:00:03.03  Lisibilité 47
+      Même la médecine moderne
+      a ses limites. Hélas.
+
+ 196: 10:25:53.18 10:25:56.16  Durée 00:00:02.23  Lisibilité 44
+      Parfois, ton fatalisme
+      est très agaçant, Bailly.
+
+ 197: 10:26:14.16 10:26:16.00  Durée 00:00:01.09  Lisibilité 20
+      C'est bon. Laissez-nous.
+
+ 198: 10:26:24.18 10:26:26.11  Durée 00:00:01.18  Lisibilité 26
+      Sa saturation est faible.
+
+ 199: 10:26:28.06 10:26:30.07  Durée 00:00:02.01  Lisibilité 31
+      Il s'épuise, notre petit bonhomme.
+
+ 200: 10:26:33.20 10:26:35.19  Durée 00:00:01.24  Lisibilité 29
+      L'opération, le robot...
+
+ 201: 10:26:36.06 10:26:38.07  Durée 00:00:02.01  Lisibilité 31
+      tout ça, ça n'aura servi à rien.
+
+ 202: 10:26:38.11 10:26:39.19  Durée 00:00:01.08  Lisibilité 20
+      Tu as tort.
+
+ 203: 10:26:40.16 10:26:44.00  Durée 00:00:03.09  Lisibilité 50
+      Si on avait pas diminué la pression
+      intracrânienne grâce à l'opération,
+
+ 204: 10:26:44.04 10:26:45.10  Durée 00:00:01.06  Lisibilité 19
+      il serait déjà mort.
+
+ 205: 10:26:49.07 10:26:51.16  Durée 00:00:02.09  Lisibilité 35
+      Tu vas te réveiller un jour,
+      bonhomme?
+
+ 206: 10:26:58.22 10:27:00.17  Durée 00:00:01.20  Lisibilité 27
+      Tu as guéri des malades,
+
+ 207: 10:27:01.03 10:27:02.14  Durée 00:00:01.11  Lisibilité 22
+      grâce à tes dons.
+
+ 208: 10:27:03.13 10:27:04.21  Durée 00:00:01.08  Lisibilité 20
+      Alors fais-le pour ton fils.
+
+ 209: 10:27:05.00 10:27:09.05  Durée 00:00:04.05  Lisibilité 63
+      Je donnerais ma vie pour pouvoir
+      le sauver, mais j'en suis incapable.
+
+ 210: 10:27:09.09 10:27:11.20  Durée 00:00:02.11  Lisibilité 37
+      J'ai des visions, c'est vrai.
+
+ 211: 10:27:11.24 10:27:15.03  Durée 00:00:03.04  Lisibilité 47
+      Puis je pose des questions concernant
+      les familles, mais je fais rien.
+
+ 212: 10:27:15.08 10:27:16.15  Durée 00:00:01.07  Lisibilité 19
+      Arrête, Valérie.
+
+ 213: 10:27:17.02 10:27:19.07  Durée 00:00:02.05  Lisibilité 33
+      Grâce à toi, des patients
+      ont découvert des secrets
+
+ 214: 10:27:19.11 10:27:22.01  Durée 00:00:02.15  Lisibilité 39
+      sur leur passé
+      et c'est comme ça qu'ils ont guéri.
+
+ 215: 10:27:22.05 10:27:24.05  Durée 00:00:02.00  Lisibilité 30
+      Je suis sûre que tu peux l'aider.
+
+ 216: 10:27:50.14 10:27:51.16  Durée 00:00:01.02  Lisibilité 16
+      Jacques?
+
+ 217: 10:27:56.03 10:27:58.04  Durée 00:00:02.01  Lisibilité 31
+      Je sais qu'un homme
+      vous a fait du mal.
+
+ 218: 10:27:58.22 10:28:00.22  Durée 00:00:02.00  Lisibilité 30
+      À toi et à ta mère.
+
+ 219: 10:28:01.24 10:28:05.05  Durée 00:00:03.06  Lisibilité 49
+      Qu'est-ce que je peux faire
+      pour réparer ce qui s'est passé?
+
+ 220: 10:28:06.22 10:28:08.00  Durée 00:00:01.03  Lisibilité 17
+      Jacques?
+
+ 221: 10:28:13.06 10:28:14.01  Durée 00:00:00.20  Lisibilité 12
+      Jacques?
+
+ 222: 10:28:14.17 10:28:16.13  Durée 00:00:01.21  Lisibilité 28
+      C'est à moi de me venger.
+
+ 223: 10:28:17.00 10:28:18.11  Durée 00:00:01.11  Lisibilité 22
+      Et rien qu'à moi.
+
+ 224: 10:28:20.15 10:28:22.02  Durée 00:00:01.12  Lisibilité 22
+      J'ai besoin de ces plantes.
+
+ 225: 10:28:23.03 10:28:24.01  Durée 00:00:00.23  Lisibilité 14
+      Pour quoi faire?
+
+ 226: 10:28:26.01 10:28:27.19  Durée 00:00:01.18  Lisibilité 26
+      Elles me protègent du docteur.
+
+ 227: 10:28:30.14 10:28:32.02  Durée 00:00:01.13  Lisibilité 23
+      Je te les donne.
+
+ 228: 10:28:33.19 10:28:36.07  Durée 00:00:02.13  Lisibilité 38
+      À condition que tu laisses
+      Lucas tranquille.
+
+ 229: 10:28:36.12 10:28:39.00  Durée 00:00:02.13  Lisibilité 38
+      Je suis pas responsable de sa mort.
+
+ 230: 10:28:39.05 10:28:41.05  Durée 00:00:02.00  Lisibilité 30
+      Je sais juste que ça va arriver.
+
+ 231: 10:28:41.09 10:28:44.07  Durée 00:00:02.23  Lisibilité 44
+      Qu'est-ce que je peux faire
+      pour que ça n'arrive pas?
+
+ 232: 10:28:45.08 10:28:46.13  Durée 00:00:01.05  Lisibilité 18
+      Je ne sais pas.
+
+ 233: 10:28:49.19 10:28:53.06  Durée 00:00:03.12  Lisibilité 52
+      Mais tu peux aller voir ma mère.
+      Peut-être qu'elle saura.
+
+ 234: 10:29:01.01 10:29:02.03  Durée 00:00:01.02  Lisibilité 16
+      Tiens.
+
+ 235: 10:29:43.02 10:29:45.11  Durée 00:00:02.09  Lisibilité 35
+      Promet-moi que tu t'en iras pas.
+
+ 236: 10:29:49.01 10:29:50.17  Durée 00:00:01.16  Lisibilité 25
+      Attends-moi, mon chéri.
+
+ 237: 10:29:52.04 10:29:53.11  Durée 00:00:01.07  Lisibilité 19
+      Qu'est-ce que tu fais?
+
+ 238: 10:29:56.15 10:29:57.21  Durée 00:00:01.06  Lisibilité 19
+      Tu vas où, là?
+
+ 239: 10:29:58.21 10:30:00.10  Durée 00:00:01.14  Lisibilité 23
+      Tu peux pas partir!
+
+ 240: 10:30:36.14 10:30:37.13  Durée 00:00:00.24  Lisibilité 14
+      Iseult?
+
+ 241: 10:30:39.03 10:30:40.04  Durée 00:00:01.01  Lisibilité 16
+      Iseult!
+
+ 242: 10:31:21.06 10:31:23.06  Durée 00:00:02.00  Lisibilité 30
+      Je t'attends depuis longtemps.
+
+ 243: 10:31:25.22 10:31:27.09  Durée 00:00:01.12  Lisibilité 22
+      Mais maintenant,
+
+ 244: 10:31:28.04 10:31:29.18  Durée 00:00:01.14  Lisibilité 23
+      il s'agit de Lucas.
+
+ 245: 10:31:30.09 10:31:32.09  Durée 00:00:02.00  Lisibilité 30
+      Pouvez-vous sauver mon fils?
+
+ 246: 10:31:33.14 10:31:35.15  Durée 00:00:02.01  Lisibilité 31
+      Tu es la seule à pouvoir le faire.
+
+ 247: 10:31:35.20 10:31:36.15  Durée 00:00:00.20  Lisibilité 12
+      Comment?
+
+ 248: 10:31:38.09 10:31:39.21  Durée 00:00:01.12  Lisibilité 22
+      Tu le sais déjà.
+
+ 249: 10:31:42.04 10:31:44.08  Durée 00:00:02.04  Lisibilité 32
+      Je n'ai que des bribes de visions.
+
+ 250: 10:31:44.12 10:31:47.00  Durée 00:00:02.13  Lisibilité 38
+      Et ces visions, je les contrôle
+      même pas. C'est tout.
+
+ 251: 10:31:48.08 10:31:52.09  Durée 00:00:04.01  Lisibilité 61
+      Ça, ce n'est qu'une petite partie
+      de ce dont tu es capable.
+
+ 252: 10:31:53.07 10:31:56.05  Durée 00:00:02.23  Lisibilité 44
+      Tu as le pouvoir de guérir ton fils.
+
+ 253: 10:32:42.08 10:32:43.10  Durée 00:00:01.02  Lisibilité 16
+      C'est impossible.
+
+ 254: 10:32:59.24 10:33:00.19  Durée 00:00:00.20  Lisibilité 12
+      Alors...
+
+ 255: 10:33:05.18 10:33:07.02  Durée 00:00:01.09  Lisibilité 20
+      tu vas échouer.
+
+ 256: 10:33:15.23 10:33:17.10  Durée 00:00:01.12  Lisibilité 22
+      On est en train de le perdre.
+
+ 257: 10:33:19.24 10:33:21.04  Durée 00:00:01.05  Lisibilité 18
+      Où est Valérie?
+
+ 258: 10:33:22.19 10:33:24.13  Durée 00:00:01.19  Lisibilité 26
+      Je vais essayer de la trouver.
+
+ 259: 10:33:43.07 10:33:44.10  Durée 00:00:01.03  Lisibilité 17
+      Je suis désolé.
+
+ 260: 10:35:48.19 10:35:50.15  Durée 00:00:01.21  Lisibilité 28
+      - On n'a pu rien faire.
+      - Non!
+
+ 261: 10:35:54.19 10:35:56.08  Durée 00:00:01.14  Lisibilité 23
+      Il faut être courageuse.
+
+ 262: 10:35:56.13 10:35:59.15  Durée 00:00:03.02  Lisibilité 46
+      On va le laisser partir
+      tout doucement.
+
+ 263: 10:36:03.23 10:36:06.07  Durée 00:00:02.09  Lisibilité 35
+      C'est ce qui peut lui arriver
+      de mieux.
+
+ 264: 10:36:08.22 10:36:11.05  Durée 00:00:02.08  Lisibilité 35
+      - Laissez-moi seule avec lui.
+      - D'accord.
+
+ 265: 10:36:12.16 10:36:14.20  Durée 00:00:02.04  Lisibilité 32
+      Laissez-moi seule avec mon fils.
+
+ 266: 10:36:15.21 10:36:18.14  Durée 00:00:02.18  Lisibilité 41
+      On va faire ce que
+      le docteur Rossier nous demande.
+
+ 267: 10:36:18.18 10:36:21.06  Durée 00:00:02.13  Lisibilité 38
+      On va la laisser seule
+      avec le patient. On arrête tout.
+
+ 268: 10:36:36.06 10:36:39.19  Durée 00:00:03.13  Lisibilité 53
+      J'aimerais... que tu me laisses
+      lui dire au revoir.
+
+ 269: 10:36:41.13 10:36:43.17  Durée 00:00:02.04  Lisibilité 32
+      Laisse-moi lui dire au revoir.
+
+ 270: 10:38:38.05 10:38:40.03  Durée 00:00:01.23  Lisibilité 29
+      N'oublie jamais qui tu es.
+
+ 271: 10:38:44.12 10:38:46.10  Durée 00:00:01.23  Lisibilité 29
+      Tu es une guérisseuse.
+
+ 272: 10:42:50.01 10:42:52.09  Durée 00:00:02.08  Lisibilité 35
+      ANOMALIA
+
+ 273: 10:43:45.14 10:43:48.14  Durée 00:00:03.00  Lisibilité 45
+      Sous-titrage: ECLAIR
+
