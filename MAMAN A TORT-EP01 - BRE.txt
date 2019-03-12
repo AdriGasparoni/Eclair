@@ -1,0 +1,2420 @@
+
+   1: 10:00:55.09 10:00:57.04  Duration 00:00:01.20  27
+      #Personne va te gronder.#
+
+   2: 10:00:57.08 10:00:59.14  Duration 00:00:02.06  34
+      #Je suis là pour t'aider.#
+
+   3: 10:00:59.18 10:01:01.03  Duration 00:00:01.10  21
+      #Bonhomme...#
+
+   4: 10:01:04.02 10:01:06.13  Duration 00:00:02.11  37
+      É quoi, sur ton dessin?
+      Un avion?
+
+   5: 10:01:06.17 10:01:07.17  Duration 00:00:01.00  15
+      Une fusée.
+
+   6: 10:01:08.02 10:01:11.06  Duration 00:00:03.04  47
+      Un mois avant
+
+   7: 10:01:11.10 10:01:14.22  Duration 00:00:03.12  52
+      Ma maman m'a dit
+      qu'elle allait revenir.
+
+   8: 10:01:16.08 10:01:19.12  Duration 00:00:03.04  47
+      -Celle que j'ai vu tout à l'heure?
+      -Não, l'autre.
+
+   9: 10:01:22.05 10:01:23.03  Duration 00:00:00.23  14
+      Comment ça?
+
+  10: 10:01:25.01 10:01:27.22  Duration 00:00:02.21  43
+      -T'as plusieurs mamans?
+      -Sim.
+
+  11: 10:01:28.24 10:01:31.04  Duration 00:00:02.05  33
+      Et elles ne s'aiment pas.
+
+  12: 10:01:33.00 10:01:34.20  Duration 00:00:01.20  27
+      Comment ça,
+      "elles s'aiment pas"?
+
+  13: 10:01:35.00 10:01:38.14  Duration 00:00:03.14  53
+      É ma faut s'il y en a une
+      qui part au ciel.
+
+  14: 10:01:40.21 10:01:43.13  Duration 00:00:02.17  40
+      Tu veux dire
+      dans la fusée avec toi?
+
+  15: 10:01:44.04 10:01:46.18  Duration 00:00:02.14  38
+      Não. Dormir pour toujours.
+
+  16: 10:01:52.10 10:01:54.05  Duration 00:00:01.20  27
+      À cause de moi.
+
+  17: 10:01:56.18 10:01:58.12  Duration 00:00:01.19  26
+      Pourquoi tu dis à cause de toi?
+
+  18: 10:01:59.10 10:02:02.01  Duration 00:00:02.16  40
+      Parce que je sais plus
+      qui est ma vraie maman.
+
+  19: 10:02:04.01 10:02:05.23  Duration 00:00:01.22  28
+      Qu'est-ce que é
+      qu'il y a à côté?
+
+  20: 10:02:07.19 10:02:09.10  Duration 00:00:01.16  25
+      Goudy.
+
+  21: 10:02:13.20 10:02:16.17  Duration 00:00:02.22  43
+      Tu veux dire que la maman, là,
+
+  22: 10:02:16.21 10:02:18.21  Duration 00:00:02.00  30
+      é pas ta vraie maman?
+
+  23: 10:02:38.04 10:02:40.18  Duration 00:00:02.14  38
+      Malone, tu veux que je t'aide?
+
+  24: 10:02:41.22 10:02:42.24  Duration 00:00:01.02  16
+      Sim?
+
+  25: 10:03:02.08 10:03:03.22  Duration 00:00:01.14  23
+      -Maman!
+      -Malone!
+
+  26: 10:03:21.24 10:03:28.14  Duration 00:00:06.15  99
+      MAMAN A TORT
+
+  27: 10:03:37.09 10:03:38.24  Duration 00:00:01.15  24
+      Allô?
+
+  28: 10:03:39.03 10:03:41.08  Duration 00:00:02.05  33
+      #-Commandante Aubrais?
+      #-Sim.
+
+  29: 10:03:41.12 10:03:43.03  Duration 00:00:01.16  25
+      #-Je vous dérange?
+      #-Vous êtes qui?
+
+  30: 10:03:43.08 10:03:45.21  Duration 00:00:02.13  38
+      -Vasile Drogman.
+      #-On se connaît?#
+
+  31: 10:03:46.00 10:03:48.23  Duration 00:00:02.23  44
+      Je vous appelle de la part
+      d'Angélique Fontaine.
+
+  32: 10:03:49.03 10:03:50.10  Duration 00:00:01.07  19
+      Ah, Angie!
+
+  33: 10:03:50.14 10:03:52.24  Duration 00:00:02.10  36
+      #Sim. É elle qui m'a donné
+      votre numéro.#
+
+  34: 10:03:53.03 10:03:55.18  Duration 00:00:02.15  39
+      É un appel professionnel?
+      Sinon je raccroche.
+
+  35: 10:03:55.23 10:03:57.19  Duration 00:00:01.21  28
+      Je suis psychologue scolaire.
+
+  36: 10:03:57.23 10:04:00.17  Duration 00:00:02.19  41
+      Je couvre la région nord
+      de l'estuaire du Havre.
+
+  37: 10:04:00.21 10:04:02.08  Duration 00:00:01.12  22
+      #Venez-en au fait.#
+
+  38: 10:04:02.12 10:04:05.03  Duration 00:00:02.16  40
+      Je m'occupe d'un enfant étrange.
+
+  39: 10:04:05.07 10:04:06.02  Duration 00:00:00.20  12
+      #É-à-dire?#
+
+  40: 10:04:06.07 10:04:09.05  Duration 00:00:02.23  44
+      #Il prétend que sa mère
+      n'est pas sa mère.#
+
+  41: 10:04:10.19 10:04:13.04  Duration 00:00:02.10  36
+      #-Commandante?
+      #-Je suis là. Continuez.
+
+  42: 10:04:13.09 10:04:16.00  Duration 00:00:02.16  40
+      Il prétend que ses parents
+      ne sont pas ses parents.
+
+  43: 10:04:16.05 10:04:17.09  Duration 00:00:01.04  17
+      Il a quel âge?
+
+  44: 10:04:17.14 10:04:18.13  Duration 00:00:00.24  14
+      Presque 4 ans.
+
+  45: 10:04:18.17 10:04:21.01  Duration 00:00:02.09  35
+      #Il y a pas d'histoire d'adoption#
+
+  46: 10:04:21.05 10:04:24.00  Duration 00:00:02.20  42
+      #ou de placement par la justice
+      ou l'aide à l'enfance?#
+
+  47: 10:04:24.05 10:04:25.12  Duration 00:00:01.07  19
+      Não, rien de tout ça.
+
+  48: 10:04:25.16 10:04:27.01  Duration 00:00:01.10  21
+      Les parents prétendent
+
+  49: 10:04:27.06 10:04:30.00  Duration 00:00:02.19  41
+      #qu'il a trop d'imagination.
+      #-Vous attendez quoi de moi?
+
+  50: 10:04:30.05 10:04:31.20  Duration 00:00:01.15  24
+      Un rendez-vous, pour commencer.
+
+  51: 10:04:34.04 10:04:36.11  Duration 00:00:02.07  34
+      -Il vous paraît maltraité?
+      #-Não.#
+
+  52: 10:04:36.15 10:04:38.00  Duration 00:00:01.10  21
+      Les parents semblent dangereux?
+
+  53: 10:04:38.05 10:04:39.21  Duration 00:00:01.16  25
+      É plus compliqué que ça.
+
+  54: 10:04:40.00 10:04:41.15  Duration 00:00:01.15  24
+      #Alors faites un signalement#
+
+  55: 10:04:41.20 10:04:44.09  Duration 00:00:02.14  38
+      à la protection judiciaire
+      de la jeunesse
+
+  56: 10:04:44.13 10:04:47.12  Duration 00:00:02.24  44
+      parce que s'il y a pas d'urgence,
+      je peux rien pour vous.
+
+  57: 10:04:47.17 10:04:52.01  Duration 00:00:04.09  65
+      Laissez-moi vos montrer ses dessins.
+      Il a un caractère obsessionnel.
+
+  58: 10:04:52.15 10:04:55.02  Duration 00:00:02.12  37
+      #J'ai beaucoup de travail.
+      On va s'arrêter là.#
+
+  59: 10:04:55.07 10:04:58.12  Duration 00:00:03.05  48
+      Je vous souhaite une bonne journée.
+      Au revoir.
+
+  60: 10:05:02.10 10:05:03.13  Duration 00:00:01.03  17
+      Merde!
+
+  61: 10:05:12.21 10:05:16.09  Duration 00:00:03.13  53
+      #Vous êtes sur le répondeur d'Angie.
+      Si vous êtes une femme, tapez 1#
+
+  62: 10:05:16.13 10:05:19.00  Duration 00:00:02.12  37
+      #si vous êtes un homme,
+      vous pouvez déclarer votre flamme#
+
+  63: 10:05:19.04 10:05:20.19  Duration 00:00:01.15  24
+      #et toute la vie pour le regretter.#
+
+  64: 10:05:20.23 10:05:22.24  Duration 00:00:02.01  31
+      Tu fais chier
+      avec tes messages à la con.
+
+  65: 10:05:23.03 10:05:26.09  Duration 00:00:03.06  49
+      É quoi, cette histoire de gosse?
+      Rappelle-moi.
+
+  66: 10:05:46.18 10:05:49.01  Duration 00:00:02.08  35
+      On n'est pas fonctionnaires,
+      on n'a pas que ça à faire.
+
+  67: 10:05:49.05 10:05:51.21  Duration 00:00:02.16  40
+      É pas le sujet, monsieur Moulin.
+
+  68: 10:05:52.01 10:05:54.17  Duration 00:00:02.16  40
+      Votre fils a failli
+      se faire écraser devant l'école.
+
+  69: 10:05:54.21 10:05:56.21  Duration 00:00:02.00  30
+      Je voulais en discuter avec vous.
+
+  70: 10:05:57.01 10:06:00.00  Duration 00:00:02.24  44
+      J'ai tout amené.
+      Ça nous évitera le baratin.
+
+  71: 10:06:01.15 10:06:03.09  Duration 00:00:01.19  26
+      Extrait d'acte de naissance,
+
+  72: 10:06:03.13 10:06:05.16  Duration 00:00:02.03  32
+      livret de famille tamponné
+      par la mairie,
+
+  73: 10:06:05.21 10:06:08.15  Duration 00:00:02.19  41
+      photos de Malone
+      et l'album de sa naissance
+
+  74: 10:06:08.19 10:06:11.18  Duration 00:00:02.24  44
+      jusqu'à aujourd'hui
+      et même son carnet de santé.
+
+  75: 10:06:11.22 10:06:15.00  Duration 00:00:03.03  47
+      Si vous pensez qu'on n'est pas
+      ses parents, je sais plus quoi faire.
+
+  76: 10:06:15.22 10:06:19.19  Duration 00:00:03.22  58
+      Je n'ai jamais remis en cause le fait
+      que Malone soit votre fils,
+
+  77: 10:06:19.23 10:06:21.04  Duration 00:00:01.06  19
+      é juste que...
+      -Quoi?
+
+  78: 10:06:22.00 10:06:25.09  Duration 00:00:03.09  50
+      On a compris les allusions du psy,
+      ce Vasile je sais pas quoi
+
+  79: 10:06:25.13 10:06:27.19  Duration 00:00:02.06  34
+      et les vôtres aussi:
+      des mots dans son carnet.
+
+  80: 10:06:27.24 10:06:32.09  Duration 00:00:04.10  66
+      J'ai écrit ces mots parce que Malone
+      tient des propos étonnants
+
+  81: 10:06:32.14 10:06:34.11  Duration 00:00:01.22  28
+      pour un enfant de son âge.
+
+  82: 10:06:35.11 10:06:37.15  Duration 00:00:02.04  32
+      Puis regardez ses dessins.
+
+  83: 10:06:40.00 10:06:43.21  Duration 00:00:03.21  58
+      Je souhaitais vous revoir pour que
+      vous m'apportiez des précisions.
+
+  84: 10:06:44.01 10:06:45.08  Duration 00:00:01.07  19
+      On est chez les flics?
+
+  85: 10:06:45.13 10:06:47.05  Duration 00:00:01.17  25
+      On se calme.
+      Vous êtes dans mon école.
+
+  86: 10:06:48.00 10:06:50.09  Duration 00:00:02.09  35
+      On est là pour parler
+      dans l'intérêt de votre enfant.
+
+  87: 10:06:58.03 10:07:01.06  Duration 00:00:03.03  47
+      Il faut vous dire combien de fois
+      de frapper avant d'entrer?
+
+  88: 10:07:01.11 10:07:04.11  Duration 00:00:03.00  45
+      -Désolée, madame la commandante.
+      -Arrêtez de m'appeler comme ça.
+
+  89: 10:07:04.16 10:07:06.02  Duration 00:00:01.11  22
+      Je vous appelle Marianne?
+
+  90: 10:07:06.07 10:07:08.10  Duration 00:00:02.03  32
+      Commandante Aubrais.
+      Que voulez-vous?
+
+  91: 10:07:08.15 10:07:10.21  Duration 00:00:02.06  34
+      Un certain Vasile Drogman
+      veut vous parler.
+
+  92: 10:07:11.00 10:07:12.05  Duration 00:00:01.05  18
+      Je connais pas.
+
+  93: 10:07:12.10 10:07:15.00  Duration 00:00:02.15  39
+      Il dit qu'il est psy,
+      qu'il vous a appelé.
+
+  94: 10:07:17.03 10:07:19.11  Duration 00:00:02.08  35
+      É pas après vous que j'en ai,
+      mais après ce psy.
+
+  95: 10:07:22.06 10:07:25.00  Duration 00:00:02.19  41
+      On est obligés de laisser Malone
+      continuer à le voir?
+
+  96: 10:07:25.04 10:07:26.09  Duration 00:00:01.05  18
+      Vous pouvez vous y opposer.
+
+  97: 10:07:27.16 10:07:29.18  Duration 00:00:02.02  31
+      Mais il peut vous signaler
+      aux services sociaux.
+
+  98: 10:07:30.18 10:07:33.20  Duration 00:00:03.02  46
+      Je crois que ni vous ni moi
+      n'avons envie de ça.
+
+  99: 10:07:43.16 10:07:45.20  Duration 00:00:02.04  32
+      Je vous assure
+      que j'ai pas le temps.
+
+ 100: 10:07:45.24 10:07:50.13  Duration 00:00:04.14  68
+      Cet enfant à des souvenirs pour dire
+      que sa mère n'est pas sa mère.
+
+ 101: 10:07:50.17 10:07:53.23  Duration 00:00:03.06  49
+      Un enfant qui dit ça,
+      é de votre ressort,
+
+ 102: 10:07:54.02 10:07:55.12  Duration 00:00:01.10  21
+      je vous l'ai dit ce matin.
+
+ 103: 10:07:55.16 10:07:59.23  Duration 00:00:04.07  64
+      Il a failli se faire écraser.
+      Il pensait avoir vu sa vraie mère.
+
+ 104: 10:08:00.02 10:08:03.21  Duration 00:00:03.19  56
+      J'ouvre pas une enquête parce qu'il a
+      failli se faire écraser.
+
+ 105: 10:08:04.00 10:08:06.10  Duration 00:00:02.10  36
+      Mais s'il a été kidnappé,
+      é de votre ressort?
+
+ 106: 10:08:06.14 10:08:07.19  Duration 00:00:01.05  18
+      Tu connais la nouvelle?
+
+ 107: 10:08:07.24 10:08:10.12  Duration 00:00:02.13  38
+      Kaplan a reconnu
+      le meurtre de sa femme.
+
+ 108: 10:08:10.17 10:08:12.18  Duration 00:00:02.01  31
+      Enfin. Avec toutes les preuves...
+
+ 109: 10:08:12.23 10:08:14.04  Duration 00:00:01.06  19
+      Exactement.
+
+ 110: 10:08:15.14 10:08:17.13  Duration 00:00:01.24  29
+      -Tu veux que je m'en occupe?
+      -Não.
+
+ 111: 10:08:17.17 10:08:19.05  Duration 00:00:01.13  23
+      OK.
+
+ 112: 10:08:20.17 10:08:21.24  Duration 00:00:01.07  19
+      "Kidnappé"?
+
+ 113: 10:08:22.18 10:08:26.18  Duration 00:00:04.00  60
+      Ce sont des accusations très graves.
+      Vous vous basez sur quoi?
+
+ 114: 10:08:27.19 10:08:30.20  Duration 00:00:03.01  46
+      -On fait le même métier.
+      -Não, on fait pas le même métier.
+
+ 115: 10:08:31.00 10:08:32.16  Duration 00:00:01.16  25
+      Ravie de vous avoir rencontré.
+
+ 116: 10:08:32.21 10:08:35.15  Duration 00:00:02.19  41
+      Ça vous est jamais arrivé
+      de suivre une intuition?
+
+ 117: 10:08:35.20 10:08:38.05  Duration 00:00:02.10  36
+      #-T'as plusieurs mamans?
+      -Sim.#
+
+ 118: 10:08:38.09 10:08:42.18  Duration 00:00:04.09  65
+      #-Et elles ne s'aiment pas.
+      -Comment ça, "elles s'aiment pas"?#
+
+ 119: 10:08:43.12 10:08:47.09  Duration 00:00:03.22  58
+      #É ma faute s'il y en a une
+      qui part au ciel.#
+
+ 120: 10:09:00.02 10:09:03.21  Duration 00:00:03.19  56
+      #É ma faute s'il y en a une
+      qui part au ciel.#
+
+ 121: 10:09:04.01 10:09:07.03  Duration 00:00:03.02  46
+      #Tu veux dire dans la fusée avec toi?#
+
+ 122: 10:09:07.08 10:09:10.01  Duration 00:00:02.18  41
+      #Não, dormir pour toujours.#
+
+ 123: 10:09:10.06 10:09:11.24  Duration 00:00:01.18  26
+      #É à cause de moi.#
+
+ 124: 10:09:13.05 10:09:14.19  Duration 00:00:01.14  23
+      #Pourquoi à cause de toi?#
+
+ 125: 10:09:14.24 10:09:18.14  Duration 00:00:03.15  54
+      #Parce que je sais plus
+      quelle est ma vraie maman.#
+
+ 126: 10:09:24.23 10:09:26.03  Duration 00:00:01.05  18
+      Bon.
+
+ 127: 10:09:28.12 10:09:31.18  Duration 00:00:03.06  49
+      On va commencer par le début.
+      Qui? Où?
+
+ 128: 10:09:31.23 10:09:34.15  Duration 00:00:02.17  40
+      Le garçon s'appelle Malone Moulin.
+
+ 129: 10:09:34.19 10:09:37.08  Duration 00:00:02.14  38
+      Il est en petite section
+      de maternelle.
+
+ 130: 10:09:38.02 10:09:38.22  Duration 00:00:00.20  12
+      É lui.
+
+ 131: 10:09:40.17 10:09:43.07  Duration 00:00:02.15  39
+      Il vit à Manéglise,
+      un village pas loin du Havre.
+
+ 132: 10:09:43.11 10:09:45.06  Duration 00:00:01.20  27
+      Je sais où est Manéglise.
+
+ 133: 10:09:45.21 10:09:48.08  Duration 00:00:02.12  37
+      É la directrice de l'école
+      qui m'a alerté.
+
+ 134: 10:09:48.13 10:09:52.02  Duration 00:00:03.14  53
+      Elle m'a dit que le garçon
+      tenait des propos inquiétants.
+
+ 135: 10:09:52.06 10:09:54.05  Duration 00:00:01.24  29
+      Je l'ai rencontré il y a 3 semaines.
+
+ 136: 10:09:54.09 10:09:56.15  Duration 00:00:02.06  34
+      Et il vous dit
+      que l'une de ses mamans va mourir.
+
+ 137: 10:09:56.20 10:09:57.16  Duration 00:00:00.21  13
+      É ça.
+
+ 138: 10:09:57.21 10:10:00.04  Duration 00:00:02.08  35
+      Je suis pas très à l'aise ici,
+      mademoiselle.
+
+ 139: 10:10:03.03 10:10:05.22  Duration 00:00:02.19  41
+      Les réunions, les kermesses,
+      tous ces trucs,
+
+ 140: 10:10:06.02 10:10:07.14  Duration 00:00:01.12  22
+      é pas pour moi.
+
+ 141: 10:10:07.18 10:10:10.14  Duration 00:00:02.21  43
+      É pas
+      que je trouve pas ça important,
+
+ 142: 10:10:10.18 10:10:15.03  Duration 00:00:04.10  66
+      é juste que l'école,
+      ça a toujours été une corvée
+
+ 143: 10:10:15.07 10:10:19.01  Duration 00:00:03.19  56
+      et que je le porte comme un boulet
+      depuis que j'ai 3 ans.
+
+ 144: 10:10:20.05 10:10:23.11  Duration 00:00:03.06  49
+      Je suis pas la seule. Il y a plus
+      de cancres que de surdoués.
+
+ 145: 10:10:23.16 10:10:25.00  Duration 00:00:01.09  20
+      Je comprends.
+
+ 146: 10:10:27.03 10:10:28.24  Duration 00:00:01.21  28
+      Mais si on parlait de Malone?
+
+ 147: 10:10:29.03 10:10:31.14  Duration 00:00:02.11  37
+      Ben, on fait tout pour lui.
+
+ 148: 10:10:33.13 10:10:36.13  Duration 00:00:03.00  45
+      On a acheté une maison
+      avec un jardin.
+
+ 149: 10:10:37.17 10:10:41.04  Duration 00:00:03.12  52
+      On s'est endetté pour ne pas le voir
+      jouer en bas des tours.
+
+ 150: 10:10:41.08 10:10:43.09  Duration 00:00:02.01  31
+      On voulait lui donner la chance
+      qu'on n'a pas eue.
+
+ 151: 10:10:58.20 10:11:03.04  Duration 00:00:04.09  65
+      Et é pas un fantasme d'enfant
+      de s'imaginer une autre famille,
+
+ 152: 10:11:03.22 10:11:05.22  Duration 00:00:02.00  30
+      de rêver d'une autre vie?
+      -Pas à 4 ans.
+
+ 153: 10:11:06.02 10:11:08.17  Duration 00:00:02.15  39
+      La projection commence plutôt
+      vers 6 ou 7 ans.
+
+ 154: 10:11:08.22 10:11:11.21  Duration 00:00:02.24  44
+      Malon me dit qu'il a eu
+      une autre vie avant la sienne.
+
+ 155: 10:11:12.01 10:11:14.19  Duration 00:00:02.18  41
+      Il dit peu de choses,
+      mais s'exprime avec des dessins.
+
+ 156: 10:11:14.23 10:11:18.04  Duration 00:00:03.06  49
+      Je vous en ai parlé au téléphone.
+      Regardez.
+
+ 157: 10:11:21.19 10:11:24.22  Duration 00:00:03.03  47
+      À cet âge-là, on dessine pas
+      40 fois le même dessin.
+
+ 158: 10:11:25.01 10:11:27.21  Duration 00:00:02.20  42
+      Ils ont clairement
+      un caractère obsessionnel.
+
+ 159: 10:11:30.05 10:11:31.14  Duration 00:00:01.09  20
+      Il y en a encore.
+
+ 160: 10:11:33.07 10:11:36.05  Duration 00:00:02.23  44
+      É clairement pas des dessins
+      de petite section.
+
+ 161: 10:11:38.02 10:11:39.15  Duration 00:00:01.13  23
+      Pourquoi il se confie à vous?
+
+ 162: 10:11:40.10 10:11:42.02  Duration 00:00:01.17  25
+      Parce que é mon métier.
+
+ 163: 10:11:44.15 10:11:46.03  Duration 00:00:01.13  23
+      Les parents, vous les connaissez?
+
+ 164: 10:11:46.07 10:11:48.19  Duration 00:00:02.12  37
+      Ils habitent dans un lotissement
+      à la sortie du village.
+
+ 165: 10:11:48.23 10:11:52.09  Duration 00:00:03.11  52
+      Elle est caissière dans une superette
+      et lui, électricien.
+
+ 166: 10:11:52.14 10:11:56.00  Duration 00:00:03.11  52
+      -Vous les avez rencontrés?
+      -Elle, oui. Une fois, au début.
+
+ 167: 10:11:56.24 10:11:59.07  Duration 00:00:02.08  35
+      -Là, ils sont avec la directrice.
+      -Sans vous?
+
+ 168: 10:11:59.12 10:12:01.03  Duration 00:00:01.16  25
+      Ils ne voulaient pas de moi.
+
+ 169: 10:12:01.08 10:12:05.06  Duration 00:00:03.23  59
+      Si vous ne nous croyez pas,
+      demandez aux voisins, au facteur...
+
+ 170: 10:12:06.00 10:12:08.20  Duration 00:00:02.20  42
+      Et à la mairie, ils le savent.
+      On y a déclaré la naissance.
+
+ 171: 10:12:08.24 10:12:10.23  Duration 00:00:01.24  29
+      Pourquoi il raconte ces histoires?
+
+ 172: 10:12:11.03 10:12:13.22  Duration 00:00:02.19  41
+      Pourquoi parle-t-il
+      d'une autre famille?
+
+ 173: 10:12:15.16 10:12:17.01  Duration 00:00:01.10  21
+      J'en sais rien.
+
+ 174: 10:12:17.13 10:12:20.22  Duration 00:00:03.09  50
+      Les 5 ordis et les 10 Smartphone,
+      tu sais pas comment tu les as eus.
+
+ 175: 10:12:21.01 10:12:23.17  Duration 00:00:02.16  40
+      -Plein de gens passent chez moi.
+      -Tu deales?
+
+ 176: 10:12:25.06 10:12:27.07  Duration 00:00:02.01  31
+      Ben, il faut ce qu'il faut, Papy.
+
+ 177: 10:12:27.12 10:12:29.01  Duration 00:00:01.14  23
+      É qui, ce type-là?
+
+ 178: 10:12:31.08 10:12:34.10  Duration 00:00:03.02  46
+      -Allez, j'ai pas la journée.
+      -É son mec?
+
+ 179: 10:12:34.15 10:12:35.14  Duration 00:00:00.24  14
+      Je t'écoute.
+
+ 180: 10:12:36.10 10:12:40.01  Duration 00:00:03.16  55
+      Martin, balance un nom.
+      Ça fait 6 mois que t'as rien donné!
+
+ 181: 10:12:41.03 10:12:44.08  Duration 00:00:03.05  48
+      Oh, putain, regarde, elle minaude.
+      Regarde, elle minaude.
+
+ 182: 10:12:44.13 10:12:48.07  Duration 00:00:03.19  56
+      -É vrai, elle minaude grave.
+      -Ta gueule, toi.
+
+ 183: 10:12:48.11 10:12:49.12  Duration 00:00:01.01  16
+      Elle l'écoute.
+
+ 184: 10:12:49.17 10:12:53.07  Duration 00:00:03.15  54
+      Não. Regarde discrètement.
+      La petite étincelle dans ses yeux.
+
+ 185: 10:12:53.12 10:12:57.02  Duration 00:00:03.15  54
+      Qu'est-ce que t'y connais,
+      aux femmes?
+
+ 186: 10:13:01.19 10:13:02.21  Duration 00:00:01.02  16
+      Eh, ben?
+
+ 187: 10:13:03.17 10:13:04.12  Duration 00:00:00.20  12
+      T'es sérieux?
+
+ 188: 10:13:04.24 10:13:06.20  Duration 00:00:01.21  28
+      Bourdaine me l'a filée.
+      Ça pète.
+
+ 189: 10:13:07.24 10:13:10.07  Duration 00:00:02.08  35
+      -Bon. Et moi, alors?
+      -Tu dégages.
+
+ 190: 10:13:10.12 10:13:12.16  Duration 00:00:02.04  32
+      -Pourquoi je dégage?
+      -Tu sers plus à rien.
+
+ 191: 10:13:12.21 10:13:15.07  Duration 00:00:02.11  37
+      É pas ce qui était prévu
+      avec Marianne.
+
+ 192: 10:13:15.12 10:13:17.14  Duration 00:00:02.02  31
+      Ça, é la forêt de l'ogre,
+
+ 193: 10:13:17.19 10:13:19.22  Duration 00:00:02.03  32
+      un endroit qui fait peur
+      dès qu'il en parme.
+
+ 194: 10:13:20.02 10:13:23.09  Duration 00:00:03.07  49
+      Un autre motif récurrent,
+      é la fusée. Regardez.
+
+ 195: 10:13:25.16 10:13:27.18  Duration 00:00:02.02  31
+      Il serait parti
+      avec sa nouvelle maman.
+
+ 196: 10:13:30.00 10:13:32.09  Duration 00:00:02.09  35
+      -Il a quel âge?
+      -4 ans.
+
+ 197: 10:13:32.14 10:13:33.18  Duration 00:00:01.04  17
+      Il est un peu en avance.
+
+ 198: 10:13:33.23 10:13:35.19  Duration 00:00:01.21  28
+      Je peux t'aider, Papy?
+
+ 199: 10:13:37.22 10:13:40.21  Duration 00:00:02.24  44
+      J'avais fini avec ton cousin.
+      T'as rien à lui dire?
+
+ 200: 10:13:41.01 10:13:42.17  Duration 00:00:01.16  25
+      Não. Fais comme tu le sens.
+
+ 201: 10:13:43.12 10:13:46.08  Duration 00:00:02.21  43
+      Bon. Alors, je le lâche.
+      Il me sert plus à rien.
+
+ 202: 10:13:51.16 10:13:54.17  Duration 00:00:03.01  46
+      Il se dessine toujours
+      avec deux mamans.
+
+ 203: 10:13:54.21 10:13:58.01  Duration 00:00:03.05  48
+      Pourquoi si é un enlèvement?
+
+ 204: 10:13:59.16 10:14:03.00  Duration 00:00:03.09  50
+      J'ai dit un enlèvement,
+      mais é peut-être un échange.
+
+ 205: 10:14:04.13 10:14:07.17  Duration 00:00:03.04  47
+      Et d'après vous,
+      cet échange aurait eu lieu quand?
+
+ 206: 10:14:07.21 10:14:09.14  Duration 00:00:01.18  26
+      É difficile à savoir.
+
+ 207: 10:14:09.18 10:14:11.17  Duration 00:00:01.24  29
+      Je dirais plusieurs mois.
+
+ 208: 10:14:11.21 10:14:14.15  Duration 00:00:02.19  41
+      É pas un souvenir direct,
+      un souvenir de souvenir.
+
+ 209: 10:14:14.20 10:14:16.20  Duration 00:00:02.00  30
+      "Un souvenir de souvenir"?
+
+ 210: 10:14:18.13 10:14:22.09  Duration 00:00:03.21  58
+      Avant cet échange, enlèvement,
+      il dit s'appeler comment?
+
+ 211: 10:14:23.15 10:14:24.12  Duration 00:00:00.22  13
+      Il a oublié.
+
+ 212: 10:14:28.09 10:14:31.06  Duration 00:00:02.22  43
+      Donc il se souvient
+      de l'endroit où il a été enlevé,
+
+ 213: 10:14:31.11 10:14:34.02  Duration 00:00:02.16  40
+      mais pas de son prénom.
+      -Écoutez...
+
+ 214: 10:14:34.19 10:14:37.18  Duration 00:00:02.24  44
+      je pourrais vous dire comment
+      fonctionne la mémoire d'un enfant.
+
+ 215: 10:14:37.23 10:14:40.03  Duration 00:00:02.05  33
+      Vous êtes charmant, mais je...
+
+ 216: 10:14:40.20 10:14:43.23  Duration 00:00:03.03  47
+      É difficile à croire,
+      cette histoire d'enlèvement.
+
+ 217: 10:14:47.07 10:14:50.18  Duration 00:00:03.11  52
+      Je vais arrêter de vous faire
+      perdre votre temps et moi, le mien.
+
+ 218: 10:14:50.23 10:14:52.12  Duration 00:00:01.14  23
+      Bonne journée.
+
+ 219: 10:14:56.03 10:14:56.23  Duration 00:00:00.20  12
+      Quoi?
+
+ 220: 10:15:04.18 10:15:07.00  Duration 00:00:02.07  34
+      Tous les enfants racontent
+      des histoires.
+
+ 221: 10:15:07.16 10:15:09.18  Duration 00:00:02.02  31
+      Et puis Malone est mieux que nous.
+
+ 222: 10:15:09.22 10:15:11.12  Duration 00:00:01.15  24
+      Je veux dire,
+      il est plus intelligent.
+
+ 223: 10:15:11.17 10:15:14.14  Duration 00:00:02.22  43
+      Il est en avance sur son âge,
+      vous l'avez dit.
+
+ 224: 10:15:17.13 10:15:20.10  Duration 00:00:02.22  43
+      On n'est peut-être pas les parents
+      qu'il aurait voulu avoir.
+
+ 225: 10:15:22.24 10:15:26.08  Duration 00:00:03.09  50
+      Peut-être qu'il aurait voulu
+      qu'on soit plus intelligents,
+
+ 226: 10:15:27.15 10:15:29.11  Duration 00:00:01.21  28
+      plus beaux et plus riches.
+
+ 227: 10:15:32.07 10:15:34.18  Duration 00:00:02.11  37
+      Il aurait voulu
+      qu'on l'emmène en voyage.
+
+ 228: 10:15:36.05 10:15:38.15  Duration 00:00:02.10  36
+      Puis il a très envie
+      de partir au ski,
+
+ 229: 10:15:38.19 10:15:40.07  Duration 00:00:01.13  23
+      prendre l'avion...
+
+ 230: 10:15:41.24 10:15:44.16  Duration 00:00:02.17  40
+      Puis on l'a jamais emmené
+      au musée.
+
+ 231: 10:15:44.21 10:15:48.03  Duration 00:00:03.07  49
+      É pour ça qu'il invente
+      toutes ces histoires.
+
+ 232: 10:15:56.11 10:15:58.17  Duration 00:00:02.06  34
+      On va quand même pas
+      nous le retirer?
+
+ 233: 10:16:00.23 10:16:03.13  Duration 00:00:02.15  39
+      Bon. Je crois qu'on a fait le tour.
+
+ 234: 10:16:05.04 10:16:07.15  Duration 00:00:02.11  37
+      On s'en va. Je t'avais dit
+      que ça servirait à rien.
+
+ 235: 10:16:07.20 10:16:11.03  Duration 00:00:03.08  50
+      Malone attend dans la cour.
+      Il va finir par s'inquiéter.
+
+ 236: 10:16:11.19 10:16:15.13  Duration 00:00:03.19  56
+      Si ce psy cherche les emmerdes,
+      on s'expliquera d'homme à homme.
+
+ 237: 10:16:16.08 10:16:18.20  Duration 00:00:02.12  37
+      Mon fils n'est ni battu ni violé.
+
+ 238: 10:16:18.24 10:16:20.01  Duration 00:00:01.02  16
+      Il va bien.
+
+ 239: 10:16:20.05 10:16:22.21  Duration 00:00:02.16  40
+      Et pour le reste,
+      on l'élève comme on veut.
+
+ 240: 10:16:31.17 10:16:33.00  Duration 00:00:01.08  20
+      Malone?
+
+ 241: 10:16:34.20 10:16:36.14  Duration 00:00:01.19  26
+      Il a plu.
+
+ 242: 10:16:36.19 10:16:40.09  Duration 00:00:03.15  54
+      -Malone? Malone, t'es où?
+      -Malone!
+
+ 243: 10:16:40.14 10:16:43.03  Duration 00:00:02.14  38
+      Allez voir dans la cabane.
+      Il s'y cache dès qu'il pleut.
+
+ 244: 10:16:44.03 10:16:46.08  Duration 00:00:02.05  33
+      -Malone?
+      -Malone?
+
+ 245: 10:16:53.15 10:16:55.03  Duration 00:00:01.13  23
+      Ben alors?
+
+ 246: 10:16:55.08 10:16:57.20  Duration 00:00:02.12  37
+      Tu réponds pas quand on t'appelle?
+
+ 247: 10:16:58.00 10:17:00.18  Duration 00:00:02.18  41
+      -Il pleut plus?
+      -Mais non, il pleut plus.
+
+ 248: 10:17:00.22 10:17:02.06  Duration 00:00:01.09  20
+      On rentre à la maison.
+
+ 249: 10:17:10.23 10:17:12.22  Duration 00:00:01.24  29
+      Bon. Allez, je me casse.
+
+ 250: 10:17:14.17 10:17:15.12  Duration 00:00:00.20  12
+      Tu vas où?
+
+ 251: 10:17:15.17 10:17:18.04  Duration 00:00:02.12  37
+      -Ben, chercher les gosses.
+      -Encore?
+
+ 252: 10:17:18.08 10:17:20.11  Duration 00:00:02.03  32
+      -Marie-Jo peut pas le faire?
+      -Elle bosse.
+
+ 253: 10:17:20.15 10:17:21.14  Duration 00:00:00.24  14
+      Toi non?
+
+ 254: 10:17:21.18 10:17:24.24  Duration 00:00:03.06  49
+      -É sexiste, ça.
+      -En quoi é sexiste?
+
+ 255: 10:17:25.03 10:17:27.12  Duration 00:00:02.09  35
+      -Elle est jalouse.
+      -N'importe quoi.
+
+ 256: 10:17:27.17 10:17:30.13  Duration 00:00:02.21  43
+      Tu t'es occupé de cette histoire
+      de voiture volée?
+
+ 257: 10:17:30.17 10:17:31.22  Duration 00:00:01.05  18
+      Je le ferai demain.
+
+ 258: 10:17:32.02 10:17:35.05  Duration 00:00:03.03  47
+      É la 3e en une semaine.
+      Le maire-adjoint me met la pression.
+
+ 259: 10:17:35.09 10:17:37.09  Duration 00:00:02.00  30
+      Je m'en occupe demain.
+      Je te promets.
+
+ 260: 10:17:37.13 10:17:40.11  Duration 00:00:02.23  44
+      Et pour Marie-Jo,
+      si je la quitte, je te préviens.
+
+ 261: 10:17:40.15 10:17:43.04  Duration 00:00:02.14  38
+      Je préfère que tu restes un fantasme.
+
+ 262: 10:17:47.14 10:17:48.24  Duration 00:00:01.10  21
+      On a bien bossé. Hein?
+
+ 263: 10:17:50.06 10:17:53.02  Duration 00:00:02.21  43
+      Ouais. C'était qui,
+      ce type dans le bureau?
+
+ 264: 10:17:53.07 10:17:54.18  Duration 00:00:01.11  22
+      Un psy.
+
+ 265: 10:17:55.16 10:17:56.16  Duration 00:00:01.00  15
+      Il voulait quoi?
+
+ 266: 10:17:57.23 10:17:58.24  Duration 00:00:01.01  16
+      Parler d'un môme.
+
+ 267: 10:18:03.06 10:18:07.09  Duration 00:00:04.03  62
+      Est-ce que l'un des tiens a raconté
+      que t'étais pas son vrai père?
+
+ 268: 10:18:08.11 10:18:11.04  Duration 00:00:02.18  41
+      Ouais. Le plus petit,
+      quand je retiré la console.
+
+ 269: 10:18:12.12 10:18:15.22  Duration 00:00:03.10  51
+      Il avait menacé de me dénoncer
+      à l'assistante sociale.
+
+ 270: 10:18:16.01 10:18:18.15  Duration 00:00:02.14  38
+      Les deux grands, je te rappelle
+      que é pas les miens.
+
+ 271: 10:18:18.20 10:18:20.06  Duration 00:00:01.11  22
+      Pourquoi?
+
+ 272: 10:18:20.11 10:18:23.04  Duration 00:00:02.18  41
+      Ce môme raconte que ses parents
+      sont pas ses parents.
+
+ 273: 10:18:26.13 10:18:30.13  Duration 00:00:04.00  60
+      É pour ça que vous êtes restés
+      une demi-heure dans le bureau?
+
+ 274: 10:18:30.18 10:18:33.00  Duration 00:00:02.07  34
+      Je comprends,
+      il est beau gosse.
+
+ 275: 10:18:33.05 10:18:34.18  Duration 00:00:01.13  23
+      Tu trouves aussi. Hein?
+
+ 276: 10:18:35.08 10:18:37.04  Duration 00:00:01.21  28
+      Un peu fade, peut-être.
+
+ 277: 10:18:43.07 10:18:45.20  Duration 00:00:02.13  38
+      Haras de Conteville
+
+ 278: 10:18:46.16 10:18:49.11  Duration 00:00:02.20  42
+      à 10 km du Havre
+
+ 279: 10:19:06.15 10:19:08.24  Duration 00:00:02.09  35
+      Ho! Du calme. Du calme.
+
+ 280: 10:19:13.09 10:19:16.01  Duration 00:00:02.17  40
+      Ta femme et ta fille
+      sont devant la télé.
+
+ 281: 10:19:16.06 10:19:19.19  Duration 00:00:03.13  53
+      Il va rien leur arriver
+      si tu fais ce que je te dis.
+
+ 282: 10:19:32.18 10:19:33.17  Duration 00:00:00.24  14
+      Entrez, Lucas.
+
+ 283: 10:19:33.22 10:19:36.09  Duration 00:00:02.12  37
+      J'y vais, madame la...
+      Madame co...
+
+ 284: 10:19:36.14 10:19:39.06  Duration 00:00:02.17  40
+      -Commandante Aubrais.
+      -Bonne soirée. Lucas!
+
+ 285: 10:19:40.04 10:19:41.23  Duration 00:00:01.19  26
+      Entrez et fermez la porte.
+
+ 286: 10:19:46.00 10:19:47.05  Duration 00:00:01.05  18
+      J'ai une mission.
+
+ 287: 10:19:47.10 10:19:49.17  Duration 00:00:02.07  34
+      Si é pour ranger les archives,
+      é fait.
+
+ 288: 10:19:49.21 10:19:50.18  Duration 00:00:00.22  13
+      Rien de tout ça.
+
+ 289: 10:19:50.22 10:19:53.10  Duration 00:00:02.13  38
+      Je veux que vous enquêtiez,
+      à Manéglise, sur les Moulin.
+
+ 290: 10:19:53.14 10:19:55.18  Duration 00:00:02.04  32
+      Je veux tout savoir sur eux.
+
+ 291: 10:19:55.23 10:19:58.03  Duration 00:00:02.05  33
+      Et vous vous renseignez aussi
+      sur leur gamin.
+
+ 292: 10:19:58.08 10:20:02.06  Duration 00:00:03.23  59
+      -Une enquête non officielle.
+      -Exactement. Restez discret.
+
+ 293: 10:20:09.23 10:20:12.08  Duration 00:00:02.10  36
+      Journée de merde.
+      On se retrouve au Rouge à 20 h?
+
+ 294: 10:20:29.24 10:20:32.15  Duration 00:00:02.16  40
+       -Il est où, Papadi?
+      -Au travail.
+
+ 295: 10:20:32.19 10:20:35.11  Duration 00:00:02.17  40
+      Il fallait qu'il aille
+      dépanner un monsieur.
+
+ 296: 10:20:35.15 10:20:39.07  Duration 00:00:03.17  55
+      Moi aussi, j'aimerais bien
+      réparer les fils.
+
+ 297: 10:20:39.11 10:20:41.03  Duration 00:00:01.17  25
+      Quand tu seras plus grand.
+
+ 298: 10:20:41.07 10:20:43.20  Duration 00:00:02.13  38
+      -Mais je suis déjà grand.
+      -É vrai.
+
+ 299: 10:20:44.00 10:20:47.03  Duration 00:00:03.03  47
+      Pas encore assez pour toucher
+      aux fils électriques.
+
+ 300: 10:20:48.01 10:20:49.20  Duration 00:00:01.19  26
+      Papa t'as dit, é dangereux.
+
+ 301: 10:20:50.00 10:20:53.03  Duration 00:00:03.03  47
+      É pour ça que Papadi,
+      il crie aussi fort?
+
+ 302: 10:20:53.08 10:20:57.09  Duration 00:00:04.01  61
+      É parce qu'il veut pas
+      que je joue avec les prises?
+
+ 303: 10:20:57.13 10:21:01.12  Duration 00:00:03.24  59
+      É pour ça qu'il a confisqué
+      celles de ma chambre?
+
+ 304: 10:21:03.11 10:21:04.06  Duration 00:00:00.20  12
+      Não.
+
+ 305: 10:21:06.02 10:21:07.06  Duration 00:00:01.04  17
+      Não...
+
+ 306: 10:21:09.14 10:21:12.01  Duration 00:00:02.12  37
+      É à cause des histoires
+      que tu racontes.
+
+ 307: 10:21:12.06 10:21:14.02  Duration 00:00:01.21  28
+      É pas des histoires.
+
+ 308: 10:21:16.08 10:21:18.00  Duration 00:00:01.17  25
+      Ça serait bien que tu arrêtes.
+
+ 309: 10:21:20.09 10:21:23.03  Duration 00:00:02.19  41
+      -Je sais.
+      -Pourquoi tu le fais pas, alors?
+
+ 310: 10:21:24.07 10:21:25.20  Duration 00:00:01.13  23
+      Parce que je peux pas.
+
+ 311: 10:21:28.03 10:21:29.07  Duration 00:00:01.04  17
+      Pourquoi?
+
+ 312: 10:21:31.17 10:21:34.08  Duration 00:00:02.16  40
+      Parce que t'es pas ma maman.
+
+ 313: 10:21:37.08 10:21:39.15  Duration 00:00:02.07  34
+      Pourquoi tu dis ça? Hein?
+
+ 314: 10:21:42.05 10:21:43.16  Duration 00:00:01.11  22
+      Qui t'a dit ça?
+
+ 315: 10:21:44.22 10:21:46.13  Duration 00:00:01.16  25
+      Qui t'a dit ça?
+
+ 316: 10:21:47.16 10:21:49.07  Duration 00:00:01.16  25
+      Je peux pas te dire.
+
+ 317: 10:21:50.05 10:21:52.00  Duration 00:00:01.20  27
+      É un secret.
+
+ 318: 10:22:03.00 10:22:04.08  Duration 00:00:01.08  20
+      Ne pleure pas.
+
+ 319: 10:22:15.11 10:22:18.02  Duration 00:00:02.16  40
+      Cyril, mets-nous une musique
+      qui bouge plus.
+
+ 320: 10:22:18.06 10:22:19.21  Duration 00:00:01.15  24
+      Sim, la prochaine.
+
+ 321: 10:22:21.02 10:22:23.10  Duration 00:00:02.08  35
+      T'as pas un truc glauque
+      à me raconter?
+
+ 322: 10:22:23.14 10:22:26.14  Duration 00:00:03.00  45
+      Tu sais que je suis tenue
+      au secret professionnel.
+
+ 323: 10:22:26.18 10:22:28.10  Duration 00:00:01.17  25
+      -T'es avocate.
+      -Não, mais t'es lourd.
+
+ 324: 10:22:29.05 10:22:30.11  Duration 00:00:01.06  19
+      T'es mignonne aussi.
+
+ 325: 10:22:30.16 10:22:34.02  Duration 00:00:03.11  52
+      Je peux te raconter mes couleurs
+      avec les vieilles mégères.
+
+ 326: 10:22:34.06 10:22:35.23  Duration 00:00:01.17  25
+      Raconte. Ça m'intéresse, moi.
+
+ 327: 10:22:36.03 10:22:38.04  Duration 00:00:02.01  31
+      Tu veux passer
+      une mauvaise soirée?
+
+ 328: 10:22:38.09 10:22:40.22  Duration 00:00:02.13  38
+      Ça va pas, Angie!
+      Tu peux pas faire ça!
+
+ 329: 10:22:41.01 10:22:42.24  Duration 00:00:01.23  29
+      Pour la clientèle, é moyen.
+
+ 330: 10:22:43.03 10:22:44.07  Duration 00:00:01.04  17
+      Désolée. É bon.
+
+ 331: 10:22:44.11 10:22:47.01  Duration 00:00:02.15  39
+      É le relou
+      qu'il faut faire chier.
+
+ 332: 10:22:47.06 10:22:50.11  Duration 00:00:03.05  48
+      Et tu peux pas donner mon numéro
+      à des inconnus.
+
+ 333: 10:22:50.16 10:22:53.15  Duration 00:00:02.24  44
+      Il t'a appelée?
+      Il t'a parlé du gamin?
+
+ 334: 10:22:53.19 10:22:55.01  Duration 00:00:01.07  19
+      É une histoire de dingue.
+
+ 335: 10:22:55.05 10:22:57.18  Duration 00:00:02.13  38
+      Des histoires de dingue,
+      j'en ai des tas sur mon bureau.
+
+ 336: 10:22:57.22 10:23:01.07  Duration 00:00:03.10  51
+      Madame ne s'occupe que des affaires
+      qui font la une.
+
+ 337: 10:23:01.11 10:23:03.01  Duration 00:00:01.15  24
+      Aider un pauvre gamin...
+
+ 338: 10:23:03.06 10:23:05.01  Duration 00:00:01.20  27
+      É l'affaire des services sociaux.
+
+ 339: 10:23:05.05 10:23:07.06  Duration 00:00:02.01  31
+      Si t'avais vu le psy,
+      tu changerais d'avis.
+
+ 340: 10:23:07.10 10:23:08.24  Duration 00:00:01.14  23
+      Mais je l'ai vu.
+
+ 341: 10:23:10.24 10:23:13.12  Duration 00:00:02.13  38
+      -Il est sexy. Hein?
+      -Sim.
+
+ 342: 10:23:14.17 10:23:17.24  Duration 00:00:03.07  49
+      Toi, t'as envie de te faire
+      plaquer contre un mur.
+
+ 343: 10:23:18.04 10:23:19.19  Duration 00:00:01.15  24
+      Putain, je le savais.
+
+ 344: 10:23:19.24 10:23:21.18  Duration 00:00:01.19  26
+      Deux autres verres.
+      Ma pote va bientôt être maman.
+
+ 345: 10:23:21.23 10:23:23.06  Duration 00:00:01.08  20
+      Mais que t'es conne.
+
+ 346: 10:23:23.11 10:23:25.17  Duration 00:00:02.06  34
+      Mais non, il faut fêter ça. Aller.
+
+ 347: 10:23:40.05 10:23:41.24  Duration 00:00:01.19  26
+      É notre secret, Goudy.
+
+ 348: 10:23:42.03 10:23:44.06  Duration 00:00:02.03  32
+      On doit le dire à personne.
+
+ 349: 10:23:46.15 10:23:48.05  Duration 00:00:01.15  24
+      À personne.
+
+ 350: 10:24:18.09 10:24:20.24  Duration 00:00:02.15  39
+      Je devrais vous anesthésier.
+      Vous tiendrez pas.
+
+ 351: 10:24:23.09 10:24:24.17  Duration 00:00:01.08  20
+      Tu continues.
+
+ 352: 10:24:33.17 10:24:35.00  Duration 00:00:01.08  20
+      T'es son genre de fille.
+
+ 353: 10:24:38.00 10:24:41.02  Duration 00:00:03.02  46
+      Mais si, nature,
+      avec les cheveux en bataille.
+
+ 354: 10:24:41.06 10:24:43.23  Duration 00:00:02.17  40
+      On a dit qu'on parlait plus
+      de mes cheveux.
+
+ 355: 10:24:44.13 10:24:46.06  Duration 00:00:01.18  26
+      De toute façon,
+      il est parti.
+
+ 356: 10:24:46.10 10:24:47.15  Duration 00:00:01.05  18
+      "Il est parti"?
+
+ 357: 10:24:49.10 10:24:51.24  Duration 00:00:02.14  38
+      Il s'est vexé et il est parti.
+
+ 358: 10:24:52.03 10:24:54.05  Duration 00:00:02.02  31
+      Mais é super bon signe, ça.
+
+ 359: 10:24:55.05 10:24:56.19  Duration 00:00:01.14  23
+      -Ah, bon?
+      -Rappelle-le.
+
+ 360: 10:24:57.13 10:24:58.09  Duration 00:00:00.21  13
+      Não.
+
+ 361: 10:24:59.04 10:25:02.13  Duration 00:00:03.09  50
+      Je t'envoie un psy beau gosse,
+      motard, tu lâches pas.
+
+ 362: 10:25:03.13 10:25:04.20  Duration 00:00:01.07  19
+      Tu m'envoies un psy?
+
+ 363: 10:25:04.24 10:25:08.05  Duration 00:00:03.06  49
+      Tu crois que j'ai besoin de toi
+      pour trouver un mec?
+
+ 364: 10:25:10.00 10:25:12.22  Duration 00:00:02.22  43
+      Ça fait combien de temps
+      que t'as pas baisé.
+
+ 365: 10:25:13.11 10:25:15.05  Duration 00:00:01.19  26
+      On parle plus chiffres.
+
+ 366: 10:25:17.15 10:25:18.13  Duration 00:00:00.23  14
+      Oh, putain.
+
+ 367: 10:25:21.19 10:25:23.18  Duration 00:00:01.24  29
+      Ça fait si longtemps que ça?
+
+ 368: 10:25:29.16 10:25:31.14  Duration 00:00:01.23  29
+      Je vais t'aider, Marianne.
+
+ 369: 10:25:38.08 10:25:39.24  Duration 00:00:01.16  25
+      Qu'est-ce que vous faites-là?
+
+ 370: 10:25:41.09 10:25:43.05  Duration 00:00:01.21  28
+      Angélique m'a dit de passer.
+
+ 371: 10:25:47.15 10:25:50.08  Duration 00:00:02.18  41
+      Ah OK, j'ai compris.
+      Je vous dérange.
+
+ 372: 10:25:50.13 10:25:52.05  Duration 00:00:01.17  25
+      Je vais y aller.
+
+ 373: 10:25:54.01 10:25:55.11  Duration 00:00:01.10  21
+      Attendez...
+
+ 374: 10:25:56.22 10:25:58.14  Duration 00:00:01.17  25
+      puisque vous êtes là...
+
+ 375: 10:26:02.11 10:26:04.01  Duration 00:00:01.15  24
+      J'arrive.
+
+ 376: 10:26:04.13 10:26:06.15  Duration 00:00:02.02  31
+      "Adios gringo".
+
+ 377: 10:26:24.01 10:26:26.12  Duration 00:00:02.11  37
+      Je vous sers quelque chose?
+
+ 378: 10:26:26.16 10:26:27.20  Duration 00:00:01.04  17
+      Un verre d'eau.
+
+ 379: 10:26:28.00 10:26:29.19  Duration 00:00:01.19  26
+      Vous êtes sûr?
+
+ 380: 10:26:30.14 10:26:32.08  Duration 00:00:01.19  26
+      J'ai du vin, des...
+
+ 381: 10:26:33.09 10:26:35.03  Duration 00:00:01.19  26
+      Não, non, ça ira.
+
+ 382: 10:26:35.07 10:26:37.15  Duration 00:00:02.08  35
+      Vous vous êtes occupée
+      de l'affaire Kaplan?
+
+ 383: 10:26:38.04 10:26:41.13  Duration 00:00:03.09  50
+      -Ouais. Du robinet, hein.
+      -É parfait.
+
+ 384: 10:26:41.18 10:26:43.14  Duration 00:00:01.21  28
+      Ils en ont parlé au journal.
+
+ 385: 10:26:43.18 10:26:46.23  Duration 00:00:03.05  48
+      Le citoyen modèle qui a tué
+      sa femme et sa maîtresse.
+
+ 386: 10:26:47.20 10:26:50.01  Duration 00:00:02.06  34
+      Il a avoué.
+      Bravo, joli travail.
+
+ 387: 10:26:50.05 10:26:52.24  Duration 00:00:02.19  41
+      Merci. Dans un mug, ça vous va?
+
+ 388: 10:26:53.03 10:26:55.07  Duration 00:00:02.04  32
+      Sim, ça me va. Merci.
+
+ 389: 10:27:01.12 10:27:04.00  Duration 00:00:02.13  38
+      -Alors vous êtes un bon flic.
+      -Ouais.
+
+ 390: 10:27:09.20 10:27:13.10  Duration 00:00:03.15  54
+      Vous vouliez m'expliquer comment
+      fonctionne la mémoire d'un enfant.
+
+ 391: 10:27:16.19 10:27:18.08  Duration 00:00:01.14  23
+      Vous devez retenir un principe,
+
+ 392: 10:27:18.12 10:27:21.11  Duration 00:00:02.24  44
+      é que le temps de conservation
+      augmente avec son âge.
+
+ 393: 10:27:22.00 10:27:24.19  Duration 00:00:02.19  41
+      Un bébé de 3 mois
+      aura une mémoire d'une semaine.
+
+ 394: 10:27:24.24 10:27:28.00  Duration 00:00:03.01  46
+      À 6 mois, elle sera de 3 semaines.
+      À 18 mois, de 3 mois.
+
+ 395: 10:27:28.05 10:27:31.06  Duration 00:00:03.01  46
+      É de la théorie.
+      Ça doit dépendre d'autres critères.
+
+ 396: 10:27:31.10 10:27:33.14  Duration 00:00:02.04  32
+      Não. Chez un jeune enfant,
+
+ 397: 10:27:33.18 10:27:36.05  Duration 00:00:02.12  37
+      si on réactive pas les souvenirs,
+      ils s'effacent.
+
+ 398: 10:27:36.09 10:27:40.06  Duration 00:00:03.22  58
+      Prenez un enfant à qui vous montrez
+      le même dessin animé tous les jours
+
+ 399: 10:27:40.11 10:27:42.07  Duration 00:00:01.21  28
+      de sa naissance à ses 3 ans.
+
+ 400: 10:27:42.11 10:27:45.04  Duration 00:00:02.18  41
+      Il va finir
+      par le connaître par cœur. OK?
+
+ 401: 10:27:45.09 10:27:48.00  Duration 00:00:02.16  40
+      Puis vous arrêtez de lui montrer
+      pendant un an.
+
+ 402: 10:27:48.04 10:27:51.04  Duration 00:00:03.00  45
+      À ses 4 ans, vous lui remontrez.
+      Qu'est-ce qu'il va se passer?
+
+ 403: 10:27:51.09 10:27:54.12  Duration 00:00:03.03  47
+      Il va raconter la fin
+      avant qu'il ait commencé.
+
+ 404: 10:27:54.17 10:27:55.22  Duration 00:00:01.05  18
+      Pas du tout.
+
+ 405: 10:27:56.01 10:27:57.18  Duration 00:00:01.17  25
+      Il en aura aucun souvenir.
+
+ 406: 10:28:00.14 10:28:03.24  Duration 00:00:03.10  51
+      Alors comment Malone peut se souvenir
+      de ce qui s'est passé il y a 6 mois?
+
+ 407: 10:28:04.04 10:28:05.24  Duration 00:00:01.20  27
+      Justement, é impossible.
+
+ 408: 10:28:06.03 10:28:10.05  Duration 00:00:04.02  61
+      Toutes les études sont claires,
+      si vous réactivez pas les souvenirs,
+
+ 409: 10:28:10.09 10:28:12.08  Duration 00:00:01.24  29
+      ils s'effacent.
+
+ 410: 10:28:12.12 10:28:13.22  Duration 00:00:01.10  21
+      Donc...
+
+ 411: 10:28:15.10 10:28:17.21  Duration 00:00:02.11  37
+      pour que Malone se souvienne
+      de cet échange,
+
+ 412: 10:28:18.00 10:28:19.16  Duration 00:00:01.16  25
+      cette maison, cette fusée...
+
+ 413: 10:28:20.14 10:28:24.00  Duration 00:00:03.11  52
+      É que quelqu'un, chaque jour,
+      lui rappelle ces souvenirs.
+
+ 414: 10:28:24.05 10:28:25.11  Duration 00:00:01.06  19
+      Mais qui?
+
+ 415: 10:28:27.04 10:28:29.11  Duration 00:00:02.07  34
+      -Qui et pourquoi?
+      -Je sais pas.
+
+ 416: 10:28:30.20 10:28:34.10  Duration 00:00:03.15  54
+      J'espère qu'il se confiera avant que
+      les Moulin m'empêchent de le voir
+
+ 417: 10:28:34.14 10:28:37.04  Duration 00:00:02.15  39
+      et surtout avant qu'il oublie
+      ses souvenirs.
+
+ 418: 10:28:38.10 10:28:41.06  Duration 00:00:02.21  43
+      É pour ça que j'avais besoin
+      de votre aide.
+
+ 419: 10:29:27.16 10:29:28.12  Duration 00:00:00.21  13
+      Aide-moi.
+
+ 420: 10:29:49.02 10:29:52.13  Duration 00:00:03.11  52
+      Maman, j'ai pas trop le temps
+      de te parler, là.
+
+ 421: 10:30:06.09 10:30:07.04  Duration 00:00:00.20  12
+      Sim?
+
+ 422: 10:30:07.23 10:30:09.15  Duration 00:00:01.17  25
+      Si je te dis Timo Soler?
+
+ 423: 10:30:10.05 10:30:12.14  Duration 00:00:02.09  35
+      -Le type du casse de Deauville?
+      #-Lui-même.#
+
+ 424: 10:30:12.19 10:30:15.15  Duration 00:00:02.21  43
+      Un veto dit l'avoir soigné hier soir.
+
+ 425: 10:30:15.19 10:30:17.22  Duration 00:00:02.03  32
+      Quel véto? Je comprends rien.
+
+ 426: 10:30:18.01 10:30:20.20  Duration 00:00:02.19  41
+      Il l'a reconnu
+      sur le fichier d'identification.
+
+ 427: 10:30:22.04 10:30:24.11  Duration 00:00:02.07  34
+      #-JB est avec lui.
+      #-J'arrive.
+
+ 428: 10:30:26.12 10:30:28.22  Duration 00:00:02.10  36
+      -Il doit rejoindre sa pouliche.
+      #-Laquelle?#
+
+ 429: 10:30:29.01 10:30:31.24  Duration 00:00:02.23  44
+      Celle de l'émir du Qatar.
+      Il travaille pour lui. Il a un melon.
+
+ 430: 10:30:32.04 10:30:34.10  Duration 00:00:02.06  34
+      Rien à foutre de l'émir du Qatar.
+
+ 431: 10:30:34.14 10:30:37.20  Duration 00:00:03.06  49
+      -Faites-lui un café.
+      -La machine ne marche plus.
+
+ 432: 10:30:38.00 10:30:40.02  Duration 00:00:02.02  31
+      Merde. Ben, trouve une solution.
+
+ 433: 10:30:40.07 10:30:43.04  Duration 00:00:02.22  43
+      -Je lui cire les pompes?
+      -Voilà, fais ça.
+
+ 434: 10:30:47.08 10:30:49.09  Duration 00:00:02.01  31
+      -Un autre café?
+      -Não. Merci.
+
+ 435: 10:30:49.14 10:30:52.08  Duration 00:00:02.19  41
+      -Je dois y aller.
+      -Não. Elle va arriver.
+
+ 436: 10:30:52.12 10:30:54.02  Duration 00:00:01.15  24
+      Je dois vraiment y aller.
+
+ 437: 10:30:54.07 10:30:55.14  Duration 00:00:01.07  19
+      Monsieur Larochelle...
+
+ 438: 10:30:56.07 10:30:59.10  Duration 00:00:03.03  47
+      -M. Larochelle. Commandante Aubrais.
+      -Bonjour. Désolé,
+
+ 439: 10:30:59.14 10:31:01.16  Duration 00:00:02.02  31
+      mais on va devoir
+      remettre ça à plus tard.
+
+ 440: 10:31:01.20 10:31:04.14  Duration 00:00:02.19  41
+      Une pouliche de l'émir
+      va pas tarder à mettre bas.
+
+ 441: 10:31:04.18 10:31:07.06  Duration 00:00:02.13  38
+      Elle attendra, l'émir aussi.
+      Asseyez-vous.
+
+ 442: 10:31:12.08 10:31:14.11  Duration 00:00:02.03  32
+      -Il y a du café?
+      -Lucas a réparé la machine.
+
+ 443: 10:31:14.16 10:31:16.02  Duration 00:00:01.11  22
+      Merci.
+
+ 444: 10:31:16.07 10:31:19.02  Duration 00:00:02.20  42
+      Racontez à la commandante
+      ce qui vous est arrivé.
+
+ 445: 10:31:19.07 10:31:21.17  Duration 00:00:02.10  36
+      -Encore?
+      -On s'en lasse pas.
+
+ 446: 10:31:22.21 10:31:26.21  Duration 00:00:04.00  60
+      Ce type, là, Soler,
+      il a débarqué chez moi hier soir.
+
+ 447: 10:31:27.00 10:31:30.07  Duration 00:00:03.07  49
+      Je m'occupais d'un étalon
+      et il m'a demandé de le soigner.
+
+ 448: 10:31:30.12 10:31:32.08  Duration 00:00:01.21  28
+      -Et vous avez accepté?
+      -Vu son état,
+
+ 449: 10:31:32.13 10:31:36.20  Duration 00:00:04.07  64
+      c'était difficile de refuser.
+      -Parlez-nous de sa blessure aussi.
+
+ 450: 10:31:37.00 10:31:39.00  Duration 00:00:02.00  30
+      Une plaie 
+      entre la veine sous-clavière
+
+ 451: 10:31:39.04 10:31:41.18  Duration 00:00:02.14  38
+      et le lobe supérieur
+      du poumon gauche.
+
+ 452: 10:31:42.07 10:31:43.07  Duration 00:00:01.00  15
+      Merci.
+
+ 453: 10:31:45.10 10:31:47.11  Duration 00:00:02.01  31
+      -Une balle?
+      -Sans aucun doute.
+
+ 454: 10:31:47.16 10:31:50.06  Duration 00:00:02.15  39
+      La balla a dû être extraite
+      il y a plusieurs mois.
+
+ 455: 10:31:50.10 10:31:53.03  Duration 00:00:02.18  41
+      Du travail d'amateur
+      qui aurait pu tenir
+
+ 456: 10:31:53.08 10:31:56.05  Duration 00:00:02.22  43
+      s'il s'était pas fait frapper.
+      -Il vous l'a dit?
+
+ 457: 10:31:56.10 10:31:58.22  Duration 00:00:02.12  37
+      Vu l'hématome,
+      il fallait pas être devin.
+
+ 458: 10:32:00.23 10:32:02.09  Duration 00:00:01.11  22
+      Cette fois, j'y vais.
+
+ 459: 10:32:04.04 10:32:08.08  Duration 00:00:04.04  62
+      Pourquoi vous avez attendu
+      le lendemain pour nous appeler?
+
+ 460: 10:32:08.18 10:32:11.23  Duration 00:00:03.05  48
+      Il a menacé de s'en prendre
+      à ma famille.
+
+ 461: 10:32:12.02 10:32:15.21  Duration 00:00:03.19  56
+      Comme je l'ai dit à vos collègues,
+      j'ai fait beaucoup mieux.
+
+ 462: 10:32:19.10 10:32:20.24  Duration 00:00:01.14  23
+      Quel con.
+
+ 463: 10:32:21.04 10:32:22.12  Duration 00:00:01.08  20
+      Qu'est-ce qu'il a fait?
+
+ 464: 10:32:24.05 10:32:26.00  Duration 00:00:01.20  27
+      -Mieux.
+      -Beaucoup mieux.
+
+ 465: 10:32:26.04 10:32:27.08  Duration 00:00:01.04  17
+      Qu'a fait le véto?
+
+ 466: 10:32:27.12 10:32:30.16  Duration 00:00:03.04  47
+      Il a saboté l'opération
+      pour que Soler le rappelle.
+
+ 467: 10:32:30.20 10:32:33.18  Duration 00:00:02.23  44
+      -Cette fois, on sera là.
+      -Quel saint homme.
+
+ 468: 10:32:33.22 10:32:36.19  Duration 00:00:02.22  43
+      On doit mettre le paquet.
+      On doit pas le perdre.
+
+ 469: 10:32:36.23 10:32:39.12  Duration 00:00:02.14  38
+      On est prêts à collaborer
+      avec la brigade de Caen.
+
+ 470: 10:32:39.16 10:32:43.11  Duration 00:00:03.20  57
+      -Pourquoi collaborer avec Caen?
+      -Ils sont en charge de l'enquête.
+
+ 471: 10:32:43.15 10:32:47.16  Duration 00:00:04.01  61
+      Avec les résultats qu'on connaît?
+      Não. Cette affaire a trop traîné.
+
+ 472: 10:32:47.20 10:32:50.06  Duration 00:00:02.11  37
+      J'obtiendrai que vous repreniez
+      l'enquête.
+
+ 473: 10:32:50.11 10:32:52.14  Duration 00:00:02.03  32
+      É dans votre secteur
+      que Soler est réapparu.
+
+ 474: 10:32:52.19 10:32:56.00  Duration 00:00:03.06  49
+      -Les collègues vont mal le prendre.
+      -Je m'en fous.
+
+ 475: 10:32:56.04 10:32:57.17  Duration 00:00:01.13  23
+      Ah, merci.
+
+ 476: 10:32:57.21 10:33:00.18  Duration 00:00:02.22  43
+      Tenez, tout est là.
+      Bonne journée.
+
+ 477: 10:33:01.18 10:33:02.22  Duration 00:00:01.04  17
+      Merci.
+
+ 478: 10:33:03.02 10:33:05.05  Duration 00:00:02.03  32
+      Je compte sur vous, Aubrais.
+
+ 479: 10:33:18.08 10:33:20.17  Duration 00:00:02.09  35
+      Il est 9 h 30,
+      ce matin hivernal, à Deauville,
+
+ 480: 10:33:20.21 10:33:23.11  Duration 00:00:02.15  39
+      lorsque deux motos s'engagent
+      avenue Lucien barrière.
+
+ 481: 10:33:23.15 10:33:26.11  Duration 00:00:02.21  43
+      Ils rejoignent un couple
+      devant une bijouterie.
+
+ 482: 10:33:26.15 10:33:29.10  Duration 00:00:02.20  42
+      Le couple y entre,
+      les motards restent dehors.
+
+ 483: 10:33:29.14 10:33:30.23  Duration 00:00:01.09  20
+      Qu'est-ce qui se passe?
+
+ 484: 10:33:31.02 10:33:34.12  Duration 00:00:03.10  51
+      Lucas nous fait un topo
+      sur le casse de Deauville.
+
+ 485: 10:33:34.17 10:33:37.23  Duration 00:00:03.06  49
+      Ils menacent les employés
+      en demandant d'ouvrir les vitrines.
+
+ 486: 10:33:38.03 10:33:41.24  Duration 00:00:03.21  58
+      En moins de 2 min, ils embarquent
+      des bijoux dans leurs sacs.
+
+ 487: 10:33:42.04 10:33:44.09  Duration 00:00:02.05  33
+      Il s'agit de Cyril et Illona Lukowik.
+
+ 488: 10:33:44.13 10:33:47.12  Duration 00:00:02.24  44
+      Casier classique:
+      cambriolages, trafics de drogue.
+
+ 489: 10:33:47.16 10:33:50.24  Duration 00:00:03.08  50
+      É pas leur genre surtout
+      qu'ils se tenaient à carreau.
+
+ 490: 10:33:51.03 10:33:55.02  Duration 00:00:03.24  59
+      Ils ressortent, leurs sacs
+      et les conducteurs démarrent.
+
+ 491: 10:33:55.06 10:33:58.10  Duration 00:00:03.04  47
+      -Mais é pas les bijoux.
+      -Il est bon, le stagiaire.
+
+ 492: 10:33:59.06 10:34:00.17  Duration 00:00:01.11  22
+      Major de sa promo.
+
+ 493: 10:34:00.21 10:34:02.14  Duration 00:00:01.18  26
+      Chargés de faire diversion...
+
+ 494: 10:34:02.18 10:34:04.21  Duration 00:00:02.03  32
+      Dans 2 ans, il te pique ton job.
+
+ 495: 10:34:05.01 10:34:07.16  Duration 00:00:02.15  39
+      ...les motards traversent la ville
+      passant près du commissariat
+
+ 496: 10:34:07.21 10:34:09.14  Duration 00:00:01.18  26
+      où une fusillade éclate.
+
+ 497: 10:34:09.18 10:34:10.23  Duration 00:00:01.05  18
+      Les balles pleuvent,
+
+ 498: 10:34:11.02 10:34:14.17  Duration 00:00:03.15  54
+      le 1er conducteur s'échappe,
+      mais le second est touché au torse.
+
+ 499: 10:34:14.22 10:34:18.02  Duration 00:00:03.05  48
+      L'ADN retrouvé sur place
+      permet d'identifier Timo Soler.
+
+ 500: 10:34:18.06 10:34:21.15  Duration 00:00:03.09  50
+      Une parure prêtée la veille
+      à une célèbre actrice
+
+ 501: 10:34:21.19 10:34:24.05  Duration 00:00:02.11  37
+      était en transfert à la boutique
+      avant de rentrer à Paris.
+
+ 502: 10:34:24.10 10:34:27.01  Duration 00:00:02.16  40
+      Un agent de sécurité
+      appelait le fourgon
+
+ 503: 10:34:27.05 10:34:28.04  Duration 00:00:00.24  14
+      lorsque le vol a lieu.
+
+ 504: 10:34:28.09 10:34:30.12  Duration 00:00:02.03  32
+      Le directeur donne l'alarme,
+
+ 505: 10:34:30.16 10:34:33.07  Duration 00:00:02.16  40
+      l'agent de sécurité sort,
+      prend en chasse les voleurs,
+
+ 506: 10:34:33.12 10:34:37.00  Duration 00:00:03.13  53
+      il blesse Cyril, mais se fait abattre
+      par Illona Lukowik.
+
+ 507: 10:34:37.24 10:34:40.22  Duration 00:00:02.23  44
+      Le couple disparaît vers la plage
+      en possession du sac.
+
+ 508: 10:34:41.02 10:34:44.03  Duration 00:00:03.01  46
+      Les touristes venus visiter
+      les Planches de Deauville
+
+ 509: 10:34:44.07 10:34:47.03  Duration 00:00:02.21  43
+      ne se doute pas
+      qu'ils vont assister à un drame.
+
+ 510: 10:34:48.09 10:34:50.18  Duration 00:00:02.09  35
+      Une voiture de police municipale
+      les repère.
+
+ 511: 10:34:50.22 10:34:53.22  Duration 00:00:03.00  45
+      Notez qu'ils ne sont plus
+      en possession du sac.
+
+ 512: 10:34:54.13 10:34:58.01  Duration 00:00:03.13  53
+      Les bijoux ont dû être dissimulés
+      entre l'avenue Lucien Barrière
+
+ 513: 10:34:58.05 10:34:59.21  Duration 00:00:01.16  25
+      et la plage.
+
+ 514: 10:35:00.00 10:35:03.14  Duration 00:00:03.14  53
+      Grâce aux Smartphones de badauds,
+      on a reconstitué la scène.
+
+ 515: 10:35:07.11 10:35:11.04  Duration 00:00:03.18  56
+      Les braqueurs sont interceptés
+      par un policier qui patrouillait.
+
+ 516: 10:35:39.21 10:35:41.06  Duration 00:00:01.10  21
+      Après la fusillade,
+
+ 517: 10:35:41.10 10:35:45.03  Duration 00:00:03.18  56
+      Cyril et Illona Lukowik,
+      les Bonnie and Clyde de l'estuaire,
+
+ 518: 10:35:45.07 10:35:46.02  Duration 00:00:00.20  12
+      sont morts.
+
+ 519: 10:35:46.13 10:35:49.04  Duration 00:00:02.16  40
+      Ainsi que le brigadier
+      Martin Delahaye.
+
+ 520: 10:35:49.08 10:35:51.23  Duration 00:00:02.15  39
+      Heureusement,
+      aucun passant n'a été blessé.
+
+ 521: 10:35:52.03 10:35:53.13  Duration 00:00:01.10  21
+      Lucas, Bourdaine, bravo.
+
+ 522: 10:35:53.17 10:35:57.10  Duration 00:00:03.18  56
+      Trois questions se posent à nous:
+      un, où est le butin?
+
+ 523: 10:35:57.15 10:36:01.14  Duration 00:00:03.24  59
+      Il a disparu avant la fusillade.
+      Estimé à 6 M d'euros par l'assurance.
+
+ 524: 10:36:01.18 10:36:03.08  Duration 00:00:01.15  24
+      É sûrement un montant gonflé.
+
+ 525: 10:36:03.13 10:36:05.24  Duration 00:00:02.11  37
+      Un gros coup, mais de la marchandise
+      dure à écouler.
+
+ 526: 10:36:06.04 10:36:09.16  Duration 00:00:03.12  52
+      Le couple a disposé de moins
+      d'une minute pour cacher les bijoux
+
+ 527: 10:36:09.21 10:36:12.00  Duration 00:00:02.04  32
+      sans se faire repérer.
+
+ 528: 10:36:12.05 10:36:15.13  Duration 00:00:03.08  50
+      -Tout ce secteur a été vérifié.
+      -Rien dans les cabines de plage.
+
+ 529: 10:36:15.18 10:36:18.11  Duration 00:00:02.18  41
+      Il a fallu 5 semaines
+      pour les ouvrir une par une.
+
+ 530: 10:36:19.07 10:36:23.07  Duration 00:00:04.00  60
+      La seconde question,
+      é qui conduisait la 2e moto?
+
+ 531: 10:36:23.12 10:36:25.00  Duration 00:00:01.13  23
+      On n'a aucune certitude,
+
+ 532: 10:36:25.05 10:36:28.13  Duration 00:00:03.08  50
+      mais on pense qu'il s'agit...
+      -Alexandre Zerda. É lui.
+
+ 533: 10:36:31.02 10:36:34.07  Duration 00:00:03.05  48
+      Un ami d'enfance des Lukowik
+      et de Timo Soler.
+
+ 534: 10:36:34.11 10:36:38.18  Duration 00:00:04.07  64
+      -Ils étaient dans le même village.
+      -À Potigny. Excusez-moi.
+
+ 535: 10:36:38.23 10:36:41.19  Duration 00:00:02.21  43
+      Madame la commandante,
+      vous gênez. Merci.
+
+ 536: 10:36:42.15 10:36:46.12  Duration 00:00:03.22  58
+      Potigny, petit village qui se situe
+      à quelques kilomètres de Deauville.
+
+ 537: 10:36:46.16 10:36:48.13  Duration 00:00:01.22  28
+      Zerda est très dangereux.
+
+ 538: 10:36:48.17 10:36:51.06  Duration 00:00:02.14  38
+      Il a tué un collègue
+      lors d'un braquage.
+
+ 539: 10:36:51.11 10:36:54.12  Duration 00:00:03.01  46
+      -Il a fait de la prison.
+      -Il est sorti pour bonne conduite.
+
+ 540: 10:36:54.16 10:36:57.14  Duration 00:00:02.23  44
+      Signe distinctif:
+      le tatouage sur la nuque.
+
+ 541: 10:36:57.19 10:36:59.06  Duration 00:00:01.12  22
+      Un dragon.
+
+ 542: 10:36:59.10 10:37:02.16  Duration 00:00:03.06  49
+      3e question: Où était Timo Soler
+      pendant tout ce temps?
+
+ 543: 10:37:02.20 10:37:04.14  Duration 00:00:01.19  26
+      On le croyait mort, il réapparaît.
+
+ 544: 10:37:04.18 10:37:08.05  Duration 00:00:03.12  52
+      Il devrait reprendre contact
+      avec le véto qui l'a soigné,
+
+ 545: 10:37:08.09 10:37:11.11  Duration 00:00:03.02  46
+      mais ça peut prendre
+      une heure ou 10 jours.
+
+ 546: 10:37:11.16 10:37:15.20  Duration 00:00:04.04  62
+      Je vous demande d'être patients
+      et dispos.
+
+ 547: 10:37:15.24 10:37:17.02  Duration 00:00:01.03  17
+      Préviens ta femme
+
+ 548: 10:37:17.07 10:37:21.03  Duration 00:00:03.21  58
+      que tu n'iras pas chercher
+      les enfants pendant longtemps.
+
+ 549: 10:37:21.07 10:37:24.10  Duration 00:00:03.03  47
+      Ça nous dit pas où est Zerda
+      et s'il est parti avec le butin.
+
+ 550: 10:37:24.15 10:37:28.07  Duration 00:00:03.17  55
+      Não, é peu probable.
+      L'équipe de Caen l'a suivi, rien.
+
+ 551: 10:37:28.11 10:37:30.23  Duration 00:00:02.12  37
+      Il a un alibi béton
+      pour le jour du casse.
+
+ 552: 10:37:31.02 10:37:35.00  Duration 00:00:03.23  59
+      On pense que Zerda est derrière ça.
+      Seul lui peut organiser ce coup.
+
+ 553: 10:37:35.04 10:37:37.17  Duration 00:00:02.13  38
+      Les Lukowik et Soler ont pas
+      ce genre d'ambition.
+
+ 554: 10:37:37.21 10:37:41.05  Duration 00:00:03.09  50
+      Nos priorités, é 1:
+      de localiser Zerda et Soler,
+
+ 555: 10:37:41.09 10:37:43.11  Duration 00:00:02.02  31
+      2, de retrouver le butin. Voilà.
+
+ 556: 10:37:43.15 10:37:45.21  Duration 00:00:02.06  34
+      Vous savez
+      ce qu'il vous reste à faire.
+
+ 557: 10:37:47.15 10:37:49.00  Duration 00:00:01.10  21
+      Merci à tous.
+
+ 558: 10:37:49.16 10:37:52.04  Duration 00:00:02.13  38
+      Vous deviez pas être à Manéglise?
+
+ 559: 10:37:52.08 10:37:54.22  Duration 00:00:02.14  38
+      Notre priorité,
+      é le casse de Deauville.
+
+ 560: 10:37:55.01 10:37:57.10  Duration 00:00:02.09  35
+      La vôtre, é de faire
+      ce que je vous dis.
+
+ 561: 10:38:00.02 10:38:02.21  Duration 00:00:02.19  41
+      D'accord.
+      É comme si j'y étais déjà.
+
+ 562: 10:38:03.01 10:38:04.08  Duration 00:00:01.07  19
+      Allez.
+
+ 563: 10:38:06.13 10:38:07.08  Duration 00:00:00.20  12
+      T'as vu?
+
+ 564: 10:38:07.13 10:38:09.06  Duration 00:00:01.18  26
+      Bonjour.
+
+ 565: 10:38:09.10 10:38:10.23  Duration 00:00:01.13  23
+      Bonjour, madame.
+
+ 566: 10:38:12.08 10:38:14.04  Duration 00:00:01.21  28
+      -Salut.
+      -Qu'est-ce que tu fais là?
+
+ 567: 10:38:14.08 10:38:16.02  Duration 00:00:01.19  26
+      Tu réponds pas à mes messages.
+
+ 568: 10:38:16.06 10:38:17.23  Duration 00:00:01.17  25
+      J'ai pas eu le temps de rappeler.
+
+ 569: 10:38:18.02 10:38:20.21  Duration 00:00:02.19  41
+      -C'était comment avec les Moulin?
+      -Bien.
+
+ 570: 10:38:21.01 10:38:21.24  Duration 00:00:00.23  14
+      É tout?
+
+ 571: 10:38:22.03 10:38:24.11  Duration 00:00:02.08  35
+      Malone est leur fils.
+      Ils l'aiment.
+
+ 572: 10:38:24.16 10:38:27.03  Duration 00:00:02.12  37
+      -J'ai jamais dit le contraire.
+      -Alors é bon.
+
+ 573: 10:38:27.08 10:38:29.20  Duration 00:00:02.12  37
+      Attends. Tu fais quoi, là?
+      Tu me lâches?
+
+ 574: 10:38:30.00 10:38:31.02  Duration 00:00:01.02  16
+      Bonjour.
+
+ 575: 10:38:31.06 10:38:33.04  Duration 00:00:01.23  29
+      T'as peur
+      de la réaction des Moulin?
+
+ 576: 10:38:33.09 10:38:36.13  Duration 00:00:03.04  47
+      Tu vas pas fermer les yeux.
+      Tu m'as demandé de venir.
+
+ 577: 10:38:37.08 10:38:39.17  Duration 00:00:02.09  35
+      Il se passe un truc grave.
+      Tu veux arrêter?
+
+ 578: 10:38:39.22 10:38:42.16  Duration 00:00:02.19  41
+      T'as une preuve?
+      On va à la gendarmerie, alors.
+
+ 579: 10:38:42.21 10:38:44.03  Duration 00:00:01.07  19
+      J'ai pris les devants.
+
+ 580: 10:38:45.18 10:38:48.19  Duration 00:00:03.01  46
+      -T'as appelé les flics?
+      -Rien d'officiel.
+
+ 581: 10:38:48.24 10:38:52.06  Duration 00:00:03.07  49
+      É pas habituel.
+      Je vais pas refiler le dossier.
+
+ 582: 10:38:52.10 10:38:53.23  Duration 00:00:01.13  23
+      Il y a autre chose.
+      Je le sens.
+
+ 583: 10:38:54.02 10:38:56.23  Duration 00:00:02.21  43
+      T'as une idée du merdier
+      que tu vas foutre?
+
+ 584: 10:38:57.03 10:38:59.08  Duration 00:00:02.05  33
+      Je veux protéger ce gamin.
+      É tout.
+
+ 585: 10:38:59.12 10:39:01.08  Duration 00:00:01.21  28
+      Je reviens pour son entretien.
+
+ 586: 10:39:01.12 10:39:04.13  Duration 00:00:03.01  46
+      Vasile, si le père Moulin l'apprend,
+      il te tue.
+
+ 587: 10:39:09.20 10:39:11.18  Duration 00:00:01.23  29
+      Allez, on lève les genoux. On y va!
+
+ 588: 10:39:11.22 10:39:14.12  Duration 00:00:02.15  39
+      Allez, Paul,
+      tu me le marques, ce but.
+
+ 589: 10:39:15.03 10:39:17.20  Duration 00:00:02.17  40
+      Allez! É bien.
+      Redresse-toi vers l'axe.
+
+ 590: 10:39:18.14 10:39:19.20  Duration 00:00:01.06  19
+      Allez, Hugo!
+
+ 591: 10:39:20.12 10:39:23.21  Duration 00:00:03.09  50
+      Allez!
+      Mais merde, mais Teixeira!
+
+ 592: 10:39:24.23 10:39:26.02  Duration 00:00:01.04  17
+      Viens ici.
+
+ 593: 10:39:29.09 10:39:31.11  Duration 00:00:02.02  31
+      Il a quoi
+      en bas de tes jambes?
+
+ 594: 10:39:31.16 10:39:33.02  Duration 00:00:01.11  22
+      -Mes pieds.
+      -Sim.
+
+ 595: 10:39:33.07 10:39:34.14  Duration 00:00:01.07  19
+      Et ça sert à quoi?
+
+ 596: 10:39:34.19 10:39:37.05  Duration 00:00:02.11  37
+      -À marcher.
+      -Não, à courir. Alors cours.
+
+ 597: 10:39:37.09 10:39:40.07  Duration 00:00:02.23  44
+      Si t'es venu faire de la danse,
+      é pas ici.
+
+ 598: 10:39:40.12 10:39:42.17  Duration 00:00:02.05  33
+      Arrêtez de rigolez. Arrêtez.
+
+ 599: 10:39:43.19 10:39:45.21  Duration 00:00:02.02  31
+      Não, mais Teixeira, Teixeira...
+
+ 600: 10:39:46.10 10:39:49.13  Duration 00:00:03.03  47
+      Hé, je plaisante. Hein?
+
+ 601: 10:39:50.07 10:39:52.07  Duration 00:00:02.00  30
+      É pas méchant.
+      Tu vas pas pleurer.
+
+ 602: 10:39:52.12 10:39:56.12  Duration 00:00:04.00  60
+      -Je suis pas une fille.
+      -Je sais que t'es pas une fille.
+
+ 603: 10:39:56.16 10:39:59.05  Duration 00:00:02.14  38
+      Allez, on fait les plots,
+      on lève les genoux.
+
+ 604: 10:39:59.10 10:40:02.03  Duration 00:00:02.18  41
+      -Allez, allez.
+      -Dimitri, je peux te parler?
+
+ 605: 10:40:02.20 10:40:05.15  Duration 00:00:02.20  42
+      Faites deux équipes.
+      On va faire un match.
+
+ 606: 10:40:07.05 10:40:09.18  Duration 00:00:02.13  38
+      Il y a un problème avec ton petit?
+
+ 607: 10:40:09.22 10:40:12.08  Duration 00:00:02.11  37
+      -Ben non. Pourquoi?
+      -Putain!
+
+ 608: 10:40:15.11 10:40:16.19  Duration 00:00:01.08  20
+      É elle, Mme Moulin.
+
+ 609: 10:40:16.23 10:40:19.24  Duration 00:00:03.01  46
+      Ils ont pas les moyens de vivre ici.
+
+ 610: 10:40:20.03 10:40:22.10  Duration 00:00:02.07  34
+      Ils pourraient repeindre leur façade.
+
+ 611: 10:40:22.15 10:40:24.10  Duration 00:00:01.20  27
+      -Une madeleine?
+      -Não. Merci.
+
+ 612: 10:40:24.14 10:40:27.05  Duration 00:00:02.16  40
+      Vous avez tort.
+      Elles viennent de Dax.
+
+ 613: 10:40:27.19 10:40:29.22  Duration 00:00:02.03  32
+      Je vous ai dit
+      que j'allais en cure tous les ans?
+
+ 614: 10:40:30.01 10:40:31.22  Duration 00:00:01.21  28
+      Sim, vous me l'avez déjà dit.
+
+ 615: 10:40:32.01 10:40:34.19  Duration 00:00:02.18  41
+      Excusez-moi.
+      Ça doit être l'armagnac.
+
+ 616: 10:40:35.24 10:40:37.21  Duration 00:00:01.22  28
+      -Je vous en ressers?
+      -Não. Merci.
+
+ 617: 10:40:38.01 10:40:40.01  Duration 00:00:02.00  30
+      Vous savez, je suis pas censé...
+
+ 618: 10:40:40.06 10:40:42.08  Duration 00:00:02.02  31
+      -Juste une goutte.
+      -Un petit fond.
+
+ 619: 10:40:42.13 10:40:44.14  Duration 00:00:02.01  31
+      Et puis, je vous accompagne, hein.
+
+ 620: 10:40:49.18 10:40:51.13  Duration 00:00:01.20  27
+      É quoi,
+      le sujet de votre exposé?
+
+ 621: 10:40:52.11 10:40:54.21  Duration 00:00:02.10  36
+      Quelles mutations
+      liées à l'urbanisation
+
+ 622: 10:40:55.01 10:40:57.05  Duration 00:00:02.04  32
+      les espaces ruraux
+      connaissent-ils?
+
+ 623: 10:40:57.09 10:40:59.17  Duration 00:00:02.08  35
+      Les Moulins,
+      ils viennent de la ville.
+
+ 624: 10:40:59.21 10:41:00.16  Duration 00:00:00.20  12
+      Sim.
+
+ 625: 10:41:00.20 10:41:02.05  Duration 00:00:01.10  21
+      Ils sont arrivés quand?
+
+ 626: 10:41:03.10 10:41:05.05  Duration 00:00:01.20  27
+      Mme Lamarouche en a parlé
+      à l'adjoint au maire.
+
+ 627: 10:41:05.09 10:41:06.13  Duration 00:00:01.04  17
+      Et alors?
+
+ 628: 10:41:06.17 10:41:07.24  Duration 00:00:01.07  19
+      "Et alors"?
+
+ 629: 10:41:08.10 10:41:10.24  Duration 00:00:02.14  38
+       Ce roumain
+      va continuer à nous gonfler.
+
+ 630: 10:41:11.03 10:41:13.07  Duration 00:00:02.04  32
+      Malone n'ira pas à l'école demain.
+
+ 631: 10:41:13.12 10:41:15.08  Duration 00:00:01.21  28
+      É pas la solution.
+
+ 632: 10:41:15.12 10:41:18.16  Duration 00:00:03.04  47
+      D'accord, il y va pas demain.
+      Et après-demain?
+
+ 633: 10:41:18.21 10:41:21.08  Duration 00:00:02.12  37
+      Et après après-demain?
+      Et la semaine suivante?
+
+ 634: 10:41:23.03 10:41:25.04  Duration 00:00:02.01  31
+      Tu vas pas te mettre
+      en arrête maladie.
+
+ 635: 10:41:25.09 10:41:26.23  Duration 00:00:01.14  23
+      Je me démerderai.
+
+ 636: 10:41:27.02 10:41:28.09  Duration 00:00:01.07  19
+      Mais comment?
+
+ 637: 10:41:28.13 10:41:30.24  Duration 00:00:02.11  37
+      Il faudra bien que Malone
+      retourne en classe.
+
+ 638: 10:41:31.04 10:41:33.00  Duration 00:00:01.21  28
+      À moins qu'il change d'école.
+
+ 639: 10:41:37.01 10:41:38.10  Duration 00:00:01.09  20
+      Je vais voir ce psy.
+
+ 640: 10:41:41.17 10:41:45.07  Duration 00:00:03.15  54
+      Qu'est-ce que tu vas faire?
+      On a assez d'ennuis. Não?
+
+ 641: 10:41:45.12 10:41:49.02  Duration 00:00:03.15  54
+      Mais si Malone continue avec ça,
+      il va attirer les flics.
+
+ 642: 10:41:49.07 10:41:51.17  Duration 00:00:02.10  36
+      É de ça que t'as peur?
+      Des flics?
+
+ 643: 10:41:56.17 10:41:58.00  Duration 00:00:01.08  20
+      Où tu vas?
+
+ 644: 10:41:59.15 10:42:01.14  Duration 00:00:01.24  29
+      -Dimitri!
+      -Régler le problème.
+
+ 645: 10:42:47.15 10:42:49.22  Duration 00:00:02.07  34
+      Tu fous quoi?
+      On va fêter l'affaire Kaplan.
+
+ 646: 10:42:51.16 10:42:52.11  Duration 00:00:00.20  12
+      Alors?
+
+ 647: 10:42:52.16 10:42:55.22  Duration 00:00:03.06  49
+      -Le gamin...
+      -Vous puez l'alcool, Lucas!
+
+ 648: 10:42:56.01 10:42:58.06  Duration 00:00:02.05  33
+      Vous m'avez demandé
+      de rester discret.
+
+ 649: 10:42:58.10 10:43:00.05  Duration 00:00:01.20  27
+      Je me suis fondu dans la population.
+
+ 650: 10:43:00.09 10:43:01.13  Duration 00:00:01.04  17
+      Allez-y.
+
+ 651: 10:43:01.18 10:43:04.00  Duration 00:00:02.07  34
+      Le gamin est né
+      à la clinique de L'estuaire.
+
+ 652: 10:43:04.04 10:43:07.22  Duration 00:00:03.18  56
+      J'ai récupéré son faire-part
+      de naissance chez Mme Dumontel,
+
+ 653: 10:43:08.01 10:43:09.23  Duration 00:00:01.22  28
+      la voisine des Moulins.
+
+ 654: 10:43:10.19 10:43:11.19  Duration 00:00:01.00  15
+      Quoi d'autre?
+
+ 655: 10:43:12.10 10:43:14.09  Duration 00:00:01.24  29
+      J'ai consulté l'état civil,
+      pas de doute.
+
+ 656: 10:43:14.13 10:43:16.08  Duration 00:00:01.20  27
+      Il a été suivi par une pédiatre
+
+ 657: 10:43:16.12 10:43:18.21  Duration 00:00:02.09  35
+      qui m'a affirmé que les Moulins
+      étaient normaux.
+
+ 658: 10:43:19.01 10:43:22.02  Duration 00:00:03.01  46
+      Le médecin qui a pris le relai
+      le trouve en bonne santé.
+
+ 659: 10:43:22.06 10:43:24.15  Duration 00:00:02.09  35
+      -Et les parents?
+      -Elle est caissière.
+
+ 660: 10:43:24.20 10:43:26.21  Duration 00:00:02.01  31
+      Dites-moi quelque chose
+      que je ne sais pas.
+
+ 661: 10:43:27.00 10:43:29.04  Duration 00:00:02.04  32
+      Je ne sais pas
+      ce que vous ne savez pas.
+
+ 662: 10:43:29.08 10:43:31.00  Duration 00:00:01.17  25
+      Vous avez quoi d'autre?
+
+ 663: 10:43:34.18 10:43:38.10  Duration 00:00:03.17  55
+      Ils se sont installés au village,
+      elle était enceinte de 4 mois.
+
+ 664: 10:43:38.15 10:43:42.08  Duration 00:00:03.18  56
+      Ah si. Ils sont surendettés
+      à cause de leur maison.
+
+ 665: 10:43:42.13 10:43:44.17  Duration 00:00:02.04  32
+      Bon. Vous avez rien trouvé.
+
+ 666: 10:43:44.22 10:43:47.10  Duration 00:00:02.13  38
+      Dépêchez-vous,
+      Bourdaine commence un sketch.
+
+ 667: 10:43:48.23 10:43:49.19  Duration 00:00:00.21  13
+      Ça suffit.
+
+ 668: 10:43:50.10 10:43:51.18  Duration 00:00:01.08  20
+      Allez!
+
+ 669: 10:43:55.05 10:43:57.10  Duration 00:00:02.05  33
+      Voilà. Et é parti.
+
+ 670: 10:46:46.24 10:46:48.24  Duration 00:00:02.00  30
+      Maman!
+
+ 671: 10:46:49.23 10:46:51.23  Duration 00:00:02.00  30
+      #Mamoune!#
+
+ 672: 10:46:54.13 10:46:56.11  Duration 00:00:01.23  29
+      #Maman!#
+
+ 673: 10:47:05.07 10:47:07.11  Duration 00:00:02.04  32
+      #Mamoune!#
+
+ 674: 10:47:30.18 10:47:33.16  Duration 00:00:02.23  44
+      Sous-titrage: ECLAIR
+
